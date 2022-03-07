@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         埃尔登法环交互地图翻译
 // @namespace    {054584D9-899B-44E5-8296-1BF2BA5D0326}
-// @version      0.3
+// @version      0.4
 // @description  为埃尔登法环交互地图加入全屏按钮
 // @author       You
 // @match        https://eldenring.wiki.fextralife.com/Interactive+Map
@@ -11,6 +11,8 @@
 // @grant        unsafeWindow
 // @license      GPL
 // @updateURL    https://greasyfork.org/scripts/440877-%E5%9F%83%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF%E4%BA%A4%E4%BA%92%E5%9C%B0%E5%9B%BE%E7%BF%BB%E8%AF%91/code/%E5%9F%83%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF%E4%BA%A4%E4%BA%92%E5%9C%B0%E5%9B%BE%E7%BF%BB%E8%AF%91.user.js
+// @homepageURL  https://github.com/heroboy/EldenRingMapTranslate
+// @supportURL   https://github.com/heroboy/EldenRingMapTranslate
 // ==/UserScript==
 
 
