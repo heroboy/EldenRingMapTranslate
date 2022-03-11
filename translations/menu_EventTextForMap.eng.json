@@ -1,0 +1,538 @@
+[
+	{
+		"Id": 2000,
+		"Value": "Cannot proceed until game is fully installed"
+	},
+	{
+		"Id": 4000,
+		"Value": "Contraption does not move"
+	},
+	{
+		"Id": 4001,
+		"Value": "Locked by some contraption"
+	},
+	{
+		"Id": 4010,
+		"Value": "Cannot open from this side"
+	},
+	{
+		"Id": 4080,
+		"Value": "The door is shut tight"
+	},
+	{
+		"Id": 4100,
+		"Value": "Return to entrance?"
+	},
+	{
+		"Id": 4200,
+		"Value": "Somewhere, a heavy door has opened"
+	},
+	{
+		"Id": 4210,
+		"Value": "Guide and gatekeeper for those returning to the roots"
+	},
+	{
+		"Id": 4300,
+		"Value": "Travel to another location?"
+	},
+	{
+		"Id": 6000,
+		"Value": "Summon signs can now be sent to summoning pools"
+	},
+	{
+		"Id": 20000,
+		"Value": "Impenetrable thorns refuse all.\nNone may enter the Erdtree."
+	},
+	{
+		"Id": 20003,
+		"Value": "You cannot proceed without more Great Runes"
+	},
+	{
+		"Id": 20004,
+		"Value": "You cannot use this without more Great Runes"
+	},
+	{
+		"Id": 20005,
+		"Value": "Sealed by Morgott the Grace-Given"
+	},
+	{
+		"Id": 20006,
+		"Value": "You cannot proceed without a ring of oath"
+	},
+	{
+		"Id": 20020,
+		"Value": "You do not have the required medallion"
+	},
+	{
+		"Id": 20021,
+		"Value": "You do not have the required medallion"
+	},
+	{
+		"Id": 20030,
+		"Value": "You cannot proceed without a glintstone key"
+	},
+	{
+		"Id": 20031,
+		"Value": "You cannot proceed without a sealbreaker"
+	},
+	{
+		"Id": 20040,
+		"Value": "Something fits on this pedestal"
+	},
+	{
+		"Id": 20050,
+		"Value": "Opens only to those carrying a finger"
+	},
+	{
+		"Id": 20100,
+		"Value": "Summon broken spirit?"
+	},
+	{
+		"Id": 20200,
+		"Value": "You must solve the puzzle to enter"
+	},
+	{
+		"Id": 20210,
+		"Value": "The seal on the rise opened"
+	},
+	{
+		"Id": 20300,
+		"Value": "Enter evergaol?"
+	},
+	{
+		"Id": 20500,
+		"Value": "Closed with an imp's seal"
+	},
+	{
+		"Id": 20510,
+		"Value": "The imp's seal is in effect"
+	},
+	{
+		"Id": 20600,
+		"Value": "The Beast Eye quivers"
+	},
+	{
+		"Id": 20700,
+		"Value": "Ensnared in a transporter trap!"
+	},
+	{
+		"Id": 30000,
+		"Value": "A seal was broken in town somewhere"
+	},
+	{
+		"Id": 30010,
+		"Value": "Power gathers somewhere in horned remains"
+	},
+	{
+		"Id": 30020,
+		"Value": "A seal was broken in town"
+	},
+	{
+		"Id": 30021,
+		"Value": "Enter evergaol?"
+	},
+	{
+		"Id": 30023,
+		"Value": "Held shut by a seal"
+	},
+	{
+		"Id": 30030,
+		"Value": "A seal was broken somewhere"
+	},
+	{
+		"Id": 30031,
+		"Value": "Held shut by a seal"
+	},
+	{
+		"Id": 30040,
+		"Value": "Cannot be used now"
+	},
+	{
+		"Id": 30050,
+		"Value": "Blocked shut for now"
+	},
+	{
+		"Id": 30051,
+		"Value": "Blocked shut for now"
+	},
+	{
+		"Id": 30060,
+		"Value": "A new draconic power is available at the Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 30061,
+		"Value": "A new draconic power is available at the Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 30062,
+		"Value": "A new draconic power is available at the Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 30063,
+		"Value": "A new draconic power is available at the Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 30064,
+		"Value": "A new draconic power is available at the Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 30065,
+		"Value": "A new draconic power is available at the Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 30066,
+		"Value": "A new draconic power is available at the Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 30080,
+		"Value": "Seal can only be broken by a sealbreaker"
+	},
+	{
+		"Id": 30090,
+		"Value": "Here lie Aurelia and Aureliette,\nwho never saw the stars"
+	},
+	{
+		"Id": 30100,
+		"Value": "You found a simple map.\nCheck in inventory."
+	},
+	{
+		"Id": 30101,
+		"Value": "You found a simple map.\nCheck in inventory."
+	},
+	{
+		"Id": 30102,
+		"Value": "You found a simple map.\nCheck in inventory."
+	},
+	{
+		"Id": 60011,
+		"Value": "Seek three wise beasts"
+	},
+	{
+		"Id": 60021,
+		"Value": "Endow the eyes of the mask in light"
+	},
+	{
+		"Id": 60022,
+		"Value": "Seek three wise beasts"
+	},
+	{
+		"Id": 60026,
+		"Value": "Seek three great wise beasts"
+	},
+	{
+		"Id": 60027,
+		"Value": "Access to those outside of the \nroyal family is strictly forbidden"
+	},
+	{
+		"Id": 60031,
+		"Value": "Touch three phantom crests"
+	},
+	{
+		"Id": 60051,
+		"Value": "Falling snow marks something unseen"
+	},
+	{
+		"Id": 60100,
+		"Value": "Light the four figures in the evergaol"
+	},
+	{
+		"Id": 61010,
+		"Value": "Godrick the Golden, humiliated\nHaving tasted defeat by the Blade of Miquella\nNow on his knees, begging for mercy"
+	},
+	{
+		"Id": 61011,
+		"Value": "Lord Godfrey, at last at the end of his campaign\nHis golden armies unvanquished and unbowed\nYet finds grace lost, tattered and faded"
+	},
+	{
+		"Id": 61012,
+		"Value": "The siege of Castle Morne\nA lone hero fights for his vengeance\nOnly to fall at the hand of Lord Godfrey"
+	},
+	{
+		"Id": 61020,
+		"Value": "This marks Malenia's southward march\nThe Blade of Miquella and her Cleanrot Knights\nGrant her wings never to be clipped"
+	},
+	{
+		"Id": 61021,
+		"Value": "The Second Liurnian War\nNo victory for the golden, nor for the moon\nNo prize but atonement; the birth of a vow"
+	},
+	{
+		"Id": 61022,
+		"Value": "The resting place of the contemptible Cuckoos\nLost in the siege of Caria Manor"
+	},
+	{
+		"Id": 61023,
+		"Value": "The First Liurnian War\nRadagon's glory burns red as his hair"
+	},
+	{
+		"Id": 61030,
+		"Value": "The Routing of the Ancient Dragons\nGodwyn the Golden fought to the last,\nEarning the friendship of dread Fortissax"
+	},
+	{
+		"Id": 61031,
+		"Value": "The First Defense of Leyndell\nA sovereign alliance rots from within\nTraces yet remain of bloody conspiracy"
+	},
+	{
+		"Id": 61032,
+		"Value": "The Second Defense of Leyndell\nThe Fell Omen stacks high the corpses of heroes\nYet the Erdtree remains unshaken"
+	},
+	{
+		"Id": 61033,
+		"Value": "The Assault on Volcano Manor\nThe squalid, the sick, the blasphemous;\na wretched, unending war with no glory"
+	},
+	{
+		"Id": 61040,
+		"Value": "The Battle of Aeonia\nRadahn and Malenia locked in stalemate\nThen, the scarlet rot blooms"
+	},
+	{
+		"Id": 61041,
+		"Value": "The Starscourge Conflict\nRadahn alone holds Sellia secure\nAnd stands tall, to shatter the stars"
+	},
+	{
+		"Id": 61050,
+		"Value": "The War against the Giants\nChampions battle, trolls betray\nFire vanquished, the era of the Erdtree begins"
+	},
+	{
+		"Id": 79000,
+		"Value": "Redeemer Guilbert has invaded!"
+	},
+	{
+		"Id": 79001,
+		"Value": "Redeemer Guilbert died"
+	},
+	{
+		"Id": 79002,
+		"Value": "Redeemer Guilbert returned home"
+	},
+	{
+		"Id": 80000,
+		"Value": "Bloody Finger Hunter Yura was summoned"
+	},
+	{
+		"Id": 80001,
+		"Value": "With his objective accomplished, Bloody Finger Hunter Yura returned to his world"
+	},
+	{
+		"Id": 80002,
+		"Value": "Bloody Finger Hunter Yura has died"
+	},
+	{
+		"Id": 80003,
+		"Value": "Bloody Finger Hunter Yura returned to his world"
+	},
+	{
+		"Id": 80010,
+		"Value": "Bloody Finger Nerijus returned to his world"
+	},
+	{
+		"Id": 80020,
+		"Value": "Invaded by Tanith's Knight!"
+	},
+	{
+		"Id": 80021,
+		"Value": "Tanith's Knight has died"
+	},
+	{
+		"Id": 80601,
+		"Value": "Invade White Mask Varré's world?"
+	},
+	{
+		"Id": 80602,
+		"Value": "Invade Old Knight Istvan's world?"
+	},
+	{
+		"Id": 80603,
+		"Value": "Invade Rileigh the Idle's world?"
+	},
+	{
+		"Id": 80604,
+		"Value": "Invade Juno Hoslow, Knight of Blood's world?"
+	},
+	{
+		"Id": 80605,
+		"Value": "Invade Vargram the Raging Wolf and Errant Sorcerer Wilhelm's world?"
+	},
+	{
+		"Id": 80606,
+		"Value": "Invade Great Horned Tragoth's world?"
+	},
+	{
+		"Id": 80607,
+		"Value": "Be summoned to assist Yura, Hunter of Bloody Fingers?"
+	},
+	{
+		"Id": 80608,
+		"Value": "Be summoned to assist Sorceress Sellen?"
+	},
+	{
+		"Id": 80609,
+		"Value": "Be summoned to challenge Sorceress Sellen?"
+	},
+	{
+		"Id": 80610,
+		"Value": "Be summoned to assist Millicent?"
+	},
+	{
+		"Id": 80611,
+		"Value": "Be summoned to challenge Millicent?"
+	},
+	{
+		"Id": 80800,
+		"Value": "Summoned Castellan Jerren"
+	},
+	{
+		"Id": 80801,
+		"Value": "Castellan Jerren has died"
+	},
+	{
+		"Id": 80802,
+		"Value": "Castellan Jerren returned to his world"
+	},
+	{
+		"Id": 80810,
+		"Value": "Summoned Blaidd the Half-Wolf"
+	},
+	{
+		"Id": 80811,
+		"Value": "Blaidd the Half-Wolf has died"
+	},
+	{
+		"Id": 80812,
+		"Value": "Blaidd the Half-Wolf returned to his world"
+	},
+	{
+		"Id": 80820,
+		"Value": "Summoned Alexander, Warrior Jar"
+	},
+	{
+		"Id": 80821,
+		"Value": "Alexander, Warrior Jar has died"
+	},
+	{
+		"Id": 80822,
+		"Value": "Alexander, Warrior Jar returned to his world"
+	},
+	{
+		"Id": 80830,
+		"Value": "Summoned Great Horned Tragoth"
+	},
+	{
+		"Id": 80831,
+		"Value": "Great Horned Tragoth has died"
+	},
+	{
+		"Id": 80832,
+		"Value": "Great Horned Tragoth returned to his world"
+	},
+	{
+		"Id": 80840,
+		"Value": "Summoned Okina"
+	},
+	{
+		"Id": 80841,
+		"Value": "Okina has died"
+	},
+	{
+		"Id": 80842,
+		"Value": "Okina returned to his world"
+	},
+	{
+		"Id": 80850,
+		"Value": "Summoned Finger Maiden Therolina"
+	},
+	{
+		"Id": 80851,
+		"Value": "Finger Maiden Therolina has died"
+	},
+	{
+		"Id": 80852,
+		"Value": "Finger Maiden Therolina returned to her world"
+	},
+	{
+		"Id": 80860,
+		"Value": "Summoned Lionel the Lionhearted"
+	},
+	{
+		"Id": 80861,
+		"Value": "Lionel the Lionhearted has died"
+	},
+	{
+		"Id": 80862,
+		"Value": "Lionel the Lionhearted returned to his world"
+	},
+	{
+		"Id": 80870,
+		"Value": "Summoned Patches"
+	},
+	{
+		"Id": 80871,
+		"Value": "Patches has died"
+	},
+	{
+		"Id": 80872,
+		"Value": "Patches returned to his world"
+	},
+	{
+		"Id": 90000,
+		"Value": "More awaits you, in the official release"
+	},
+	{
+		"Id": 90010,
+		"Value": "Cannot use this now"
+	},
+	{
+		"Id": 108000,
+		"Value": "Use <?gdsparam@8000?>?"
+	},
+	{
+		"Id": 108010,
+		"Value": "Use <?gdsparam@8010?>?"
+	},
+	{
+		"Id": 108186,
+		"Value": "Use <?gdsparam@8186?>?"
+	},
+	{
+		"Id": 208000,
+		"Value": "<?gdsparam@8000?> was lost with use"
+	},
+	{
+		"Id": 208010,
+		"Value": "Used <?gdsparam@8010?>"
+	},
+	{
+		"Id": 208134,
+		"Value": "Used <?gdsparam@8134?>"
+	},
+	{
+		"Id": 208169,
+		"Value": "Used <?gdsparam@8169?>"
+	},
+	{
+		"Id": 208178,
+		"Value": "Used <?gdsparam@8178?>"
+	},
+	{
+		"Id": 208186,
+		"Value": "<?gdsparam@8186?> was lost with use"
+	},
+	{
+		"Id": 208197,
+		"Value": "Used <?gdsparam@8197?>"
+	},
+	{
+		"Id": 208199,
+		"Value": "Used <?gdsparam@8199?>"
+	},
+	{
+		"Id": 308000,
+		"Value": "No <?gdsparam@8000?> in inventory"
+	},
+	{
+		"Id": 308186,
+		"Value": "No <?gdsparam@8186?> in inventory"
+	},
+	{
+		"Id": 408000,
+		"Value": "Not enough <?gdsparam@8000?>"
+	}
+]

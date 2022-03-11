@@ -1,0 +1,5582 @@
+[
+	{
+		"Id": 1010,
+		"Value": "x"
+	},
+	{
+		"Id": 3010,
+		"Value": "<?null?>"
+	},
+	{
+		"Id": 3011,
+		"Value": "<?null?>"
+	},
+	{
+		"Id": 3020,
+		"Value": " "
+	},
+	{
+		"Id": 3021,
+		"Value": " "
+	},
+	{
+		"Id": 3500,
+		"Value": "Choose revival location"
+	},
+	{
+		"Id": 3501,
+		"Value": "Stake of Marika"
+	},
+	{
+		"Id": 3502,
+		"Value": "Last site of grace visited"
+	},
+	{
+		"Id": 4100,
+		"Value": "Use"
+	},
+	{
+		"Id": 4101,
+		"Value": "Leave"
+	},
+	{
+		"Id": 4102,
+		"Value": "Discard"
+	},
+	{
+		"Id": 4110,
+		"Value": "Use selected"
+	},
+	{
+		"Id": 4111,
+		"Value": "Leave selected"
+	},
+	{
+		"Id": 4112,
+		"Value": "Discard selected"
+	},
+	{
+		"Id": 5100,
+		"Value": "Use how many?"
+	},
+	{
+		"Id": 5101,
+		"Value": "Leave how many?"
+	},
+	{
+		"Id": 5102,
+		"Value": "Discard how many?"
+	},
+	{
+		"Id": 5104,
+		"Value": "Purchase how many?"
+	},
+	{
+		"Id": 5105,
+		"Value": "Sell how many?"
+	},
+	{
+		"Id": 5106,
+		"Value": "Store how many?"
+	},
+	{
+		"Id": 5107,
+		"Value": "Take how many?"
+	},
+	{
+		"Id": 5108,
+		"Value": "Make how many?"
+	},
+	{
+		"Id": 5501,
+		"Value": "Explanation"
+	},
+	{
+		"Id": 5502,
+		"Value": "View Controls"
+	},
+	{
+		"Id": 5600,
+		"Value": "Menu Explanation"
+	},
+	{
+		"Id": 5700,
+		"Value": "Toggle multiplayer status display"
+	},
+	{
+		"Id": 5710,
+		"Value": "Toggle multiplayer status display"
+	},
+	{
+		"Id": 6100,
+		"Value": "Default Order"
+	},
+	{
+		"Id": 6105,
+		"Value": "Item Type"
+	},
+	{
+		"Id": 6110,
+		"Value": "Number Held"
+	},
+	{
+		"Id": 6111,
+		"Value": "Weight"
+	},
+	{
+		"Id": 6120,
+		"Value": "FP Cost"
+	},
+	{
+		"Id": 6121,
+		"Value": "Slots Used"
+	},
+	{
+		"Id": 6130,
+		"Value": "Attack Power"
+	},
+	{
+		"Id": 6140,
+		"Value": "Guarded Damage Negation"
+	},
+	{
+		"Id": 6170,
+		"Value": "Damage Negation"
+	},
+	{
+		"Id": 6180,
+		"Value": "Resistance"
+	},
+	{
+		"Id": 6190,
+		"Value": "Order of Acquisition"
+	},
+	{
+		"Id": 10100,
+		"Value": "Name"
+	},
+	{
+		"Id": 10101,
+		"Value": "Body Type"
+	},
+	{
+		"Id": 10102,
+		"Value": "Origin"
+	},
+	{
+		"Id": 10103,
+		"Value": "Keepsake"
+	},
+	{
+		"Id": 10200,
+		"Value": "Level"
+	},
+	{
+		"Id": 10201,
+		"Value": "Runes Held"
+	},
+	{
+		"Id": 10202,
+		"Value": "Runes Needed"
+	},
+	{
+		"Id": 10204,
+		"Value": "Great Runes"
+	},
+	{
+		"Id": 10300,
+		"Value": "Faction"
+	},
+	{
+		"Id": 10301,
+		"Value": "Age"
+	},
+	{
+		"Id": 10400,
+		"Value": "Vigor"
+	},
+	{
+		"Id": 10401,
+		"Value": "Endurance"
+	},
+	{
+		"Id": 10402,
+		"Value": "Mind"
+	},
+	{
+		"Id": 10403,
+		"Value": "Strength"
+	},
+	{
+		"Id": 10404,
+		"Value": "Dexterity"
+	},
+	{
+		"Id": 10406,
+		"Value": "Intelligence"
+	},
+	{
+		"Id": 10407,
+		"Value": "Faith"
+	},
+	{
+		"Id": 10409,
+		"Value": "Arcane"
+	},
+	{
+		"Id": 10500,
+		"Value": "HP"
+	},
+	{
+		"Id": 10501,
+		"Value": "FP"
+	},
+	{
+		"Id": 10502,
+		"Value": "Stamina"
+	},
+	{
+		"Id": 10510,
+		"Value": "Equip Load"
+	},
+	{
+		"Id": 10512,
+		"Value": "Max Equip Load"
+	},
+	{
+		"Id": 10513,
+		"Value": "Light Load"
+	},
+	{
+		"Id": 10514,
+		"Value": "Med. Load"
+	},
+	{
+		"Id": 10515,
+		"Value": "Heavy Load"
+	},
+	{
+		"Id": 10516,
+		"Value": "Overloaded"
+	},
+	{
+		"Id": 10520,
+		"Value": "R Armament 1"
+	},
+	{
+		"Id": 10521,
+		"Value": "R Armament 2"
+	},
+	{
+		"Id": 10522,
+		"Value": "R Armament 3"
+	},
+	{
+		"Id": 10523,
+		"Value": "L Armament 1"
+	},
+	{
+		"Id": 10524,
+		"Value": "L Armament 2"
+	},
+	{
+		"Id": 10525,
+		"Value": "L Armament 3"
+	},
+	{
+		"Id": 10530,
+		"Value": "Physical"
+	},
+	{
+		"Id": 10531,
+		"Value": "VS Strike"
+	},
+	{
+		"Id": 10532,
+		"Value": "VS Slash"
+	},
+	{
+		"Id": 10533,
+		"Value": "VS Pierce"
+	},
+	{
+		"Id": 10534,
+		"Value": "Magic"
+	},
+	{
+		"Id": 10535,
+		"Value": "Fire"
+	},
+	{
+		"Id": 10536,
+		"Value": "Lightning"
+	},
+	{
+		"Id": 10537,
+		"Value": "Holy"
+	},
+	{
+		"Id": 10540,
+		"Value": "Immunity"
+	},
+	{
+		"Id": 10541,
+		"Value": "Robustness"
+	},
+	{
+		"Id": 10542,
+		"Value": "Focus"
+	},
+	{
+		"Id": 10543,
+		"Value": "Vitality"
+	},
+	{
+		"Id": 10561,
+		"Value": "Memory Slots"
+	},
+	{
+		"Id": 10562,
+		"Value": "Discovery"
+	},
+	{
+		"Id": 10570,
+		"Value": "Poise"
+	},
+	{
+		"Id": 11001,
+		"Value": "Armament Type"
+	},
+	{
+		"Id": 11002,
+		"Value": "Spell Type"
+	},
+	{
+		"Id": 11003,
+		"Value": "Attack Affinity"
+	},
+	{
+		"Id": 11004,
+		"Value": "No. Held"
+	},
+	{
+		"Id": 11005,
+		"Value": "Stored"
+	},
+	{
+		"Id": 11006,
+		"Value": "Skill"
+	},
+	{
+		"Id": 11007,
+		"Value": "Held"
+	},
+	{
+		"Id": 11009,
+		"Value": "Containers"
+	},
+	{
+		"Id": 11010,
+		"Value": "Physical"
+	},
+	{
+		"Id": 11011,
+		"Value": "Magic"
+	},
+	{
+		"Id": 11012,
+		"Value": "Fire"
+	},
+	{
+		"Id": 11013,
+		"Value": "Lightning"
+	},
+	{
+		"Id": 11014,
+		"Value": "Holy"
+	},
+	{
+		"Id": 11020,
+		"Value": "Physical"
+	},
+	{
+		"Id": 11021,
+		"Value": "Magic"
+	},
+	{
+		"Id": 11022,
+		"Value": "Fire"
+	},
+	{
+		"Id": 11023,
+		"Value": "Lightning"
+	},
+	{
+		"Id": 11024,
+		"Value": "Holy"
+	},
+	{
+		"Id": 11030,
+		"Value": "Critical"
+	},
+	{
+		"Id": 11031,
+		"Value": "Guard Boost"
+	},
+	{
+		"Id": 11032,
+		"Value": "Range"
+	},
+	{
+		"Id": 11034,
+		"Value": "FP Cost"
+	},
+	{
+		"Id": 11035,
+		"Value": "Sorcery Scaling"
+	},
+	{
+		"Id": 11036,
+		"Value": "Incant Scaling"
+	},
+	{
+		"Id": 11040,
+		"Value": "Slots Used"
+	},
+	{
+		"Id": 11041,
+		"Value": "FP Cost"
+	},
+	{
+		"Id": 11042,
+		"Value": "FP Cost"
+	},
+	{
+		"Id": 11043,
+		"Value": "HP Cost"
+	},
+	{
+		"Id": 11180,
+		"Value": "Physical"
+	},
+	{
+		"Id": 11181,
+		"Value": "VS Strike"
+	},
+	{
+		"Id": 11182,
+		"Value": "VS Slash"
+	},
+	{
+		"Id": 11183,
+		"Value": "VS Pierce"
+	},
+	{
+		"Id": 11184,
+		"Value": "Magic"
+	},
+	{
+		"Id": 11185,
+		"Value": "Fire"
+	},
+	{
+		"Id": 11186,
+		"Value": "Lightning"
+	},
+	{
+		"Id": 11187,
+		"Value": "Holy"
+	},
+	{
+		"Id": 11190,
+		"Value": "Immunity"
+	},
+	{
+		"Id": 11191,
+		"Value": "Robustness"
+	},
+	{
+		"Id": 11192,
+		"Value": "Focus"
+	},
+	{
+		"Id": 11193,
+		"Value": "Vitality"
+	},
+	{
+		"Id": 11200,
+		"Value": "Poise"
+	},
+	{
+		"Id": 11300,
+		"Value": "Str"
+	},
+	{
+		"Id": 11301,
+		"Value": "Dex"
+	},
+	{
+		"Id": 11302,
+		"Value": "Int"
+	},
+	{
+		"Id": 11303,
+		"Value": "Fai"
+	},
+	{
+		"Id": 11304,
+		"Value": "Arc"
+	},
+	{
+		"Id": 11310,
+		"Value": "Str"
+	},
+	{
+		"Id": 11311,
+		"Value": "Dex"
+	},
+	{
+		"Id": 11312,
+		"Value": "Int"
+	},
+	{
+		"Id": 11313,
+		"Value": "Fai"
+	},
+	{
+		"Id": 11314,
+		"Value": "Str"
+	},
+	{
+		"Id": 11315,
+		"Value": "Dex"
+	},
+	{
+		"Id": 11316,
+		"Value": "Int"
+	},
+	{
+		"Id": 11317,
+		"Value": "Fai"
+	},
+	{
+		"Id": 11318,
+		"Value": "Arc"
+	},
+	{
+		"Id": 11319,
+		"Value": "Arc"
+	},
+	{
+		"Id": 11320,
+		"Value": "-"
+	},
+	{
+		"Id": 11321,
+		"Value": "S"
+	},
+	{
+		"Id": 11322,
+		"Value": "A"
+	},
+	{
+		"Id": 11323,
+		"Value": "B"
+	},
+	{
+		"Id": 11324,
+		"Value": "C"
+	},
+	{
+		"Id": 11325,
+		"Value": "D"
+	},
+	{
+		"Id": 11326,
+		"Value": "E"
+	},
+	{
+		"Id": 11330,
+		"Value": "Consumable"
+	},
+	{
+		"Id": 11331,
+		"Value": "Reusable"
+	},
+	{
+		"Id": 11351,
+		"Value": "Weight"
+	},
+	{
+		"Id": 11360,
+		"Value": "Item Type"
+	},
+	{
+		"Id": 11400,
+		"Value": "Containers Held"
+	},
+	{
+		"Id": 12000,
+		"Value": "Runes Required"
+	},
+	{
+		"Id": 12010,
+		"Value": "Runes Offered"
+	},
+	{
+		"Id": 20000,
+		"Value": "Attack Power"
+	},
+	{
+		"Id": 20001,
+		"Value": "Guarded Damage Negation"
+	},
+	{
+		"Id": 20002,
+		"Value": "Attributes Required"
+	},
+	{
+		"Id": 20003,
+		"Value": "Attribute Scaling"
+	},
+	{
+		"Id": 20004,
+		"Value": "Passive Effects"
+	},
+	{
+		"Id": 20006,
+		"Value": "Item Effect"
+	},
+	{
+		"Id": 20007,
+		"Value": "Obtained"
+	},
+	{
+		"Id": 20008,
+		"Value": "Attribute Points"
+	},
+	{
+		"Id": 20009,
+		"Value": "Base Stats"
+	},
+	{
+		"Id": 20010,
+		"Value": "Defense/Dmg Negation"
+	},
+	{
+		"Id": 20011,
+		"Value": "Defense Power"
+	},
+	{
+		"Id": 20012,
+		"Value": "Damage Negation"
+	},
+	{
+		"Id": 20013,
+		"Value": "Protection"
+	},
+	{
+		"Id": 20014,
+		"Value": "Body"
+	},
+	{
+		"Id": 20015,
+		"Value": "Lineage"
+	},
+	{
+		"Id": 20016,
+		"Value": "Equipment"
+	},
+	{
+		"Id": 20017,
+		"Value": "Resistance"
+	},
+	{
+		"Id": 20050,
+		"Value": "Damage Negation"
+	},
+	{
+		"Id": 20051,
+		"Value": "Resistance"
+	},
+	{
+		"Id": 20100,
+		"Value": "Mixing Status"
+	},
+	{
+		"Id": 20200,
+		"Value": "Necessary Stats"
+	},
+	{
+		"Id": 30100,
+		"Value": "This character's name"
+	},
+	{
+		"Id": 30101,
+		"Value": "This character's body type"
+	},
+	{
+		"Id": 30102,
+		"Value": "This character's background\nWhat winding paths brought them here"
+	},
+	{
+		"Id": 30103,
+		"Value": "The keepsake held by this character\nEach a reflection of its owner"
+	},
+	{
+		"Id": 30200,
+		"Value": "A cumulative figure that represents overall\nattribute strength.\nYou can level up using runes."
+	},
+	{
+		"Id": 30201,
+		"Value": "Total runes in possession.\nUpon dying, you will drop any runes in your possession at the site of your death."
+	},
+	{
+		"Id": 30202,
+		"Value": "Number of runes required to raise a level.\nWhen you level up, you can choose an attribute to increase."
+	},
+	{
+		"Id": 30204,
+		"Value": "The number of Great Runes in your possession"
+	},
+	{
+		"Id": 30301,
+		"Value": "Character's apparent age"
+	},
+	{
+		"Id": 30400,
+		"Value": "Attribute governing HP.\nAlso affects fire resistance\nand immunity."
+	},
+	{
+		"Id": 30401,
+		"Value": "Attribute governing stamina.\nAlso affects robustness.\nThis attribute also determines how\nheavy your equipment can be."
+	},
+	{
+		"Id": 30402,
+		"Value": "Attribute that determines FP.\nAlso affects focus."
+	},
+	{
+		"Id": 30403,
+		"Value": "Attribute required to wield heavy armaments.\nAlso boosts attack power of strength-scaling\narmaments and affects your physical defense."
+	},
+	{
+		"Id": 30404,
+		"Value": "Attribute required to wield advanced armaments.\nAlso boosts attack power of dexterity-scaling\narmaments, reduces casting time of spells,\nsoftens fall damage, and makes it harder to\nbe knocked off your horse."
+	},
+	{
+		"Id": 30406,
+		"Value": "Attribute required to perform glintstone\nsorceries. Also boosts magic power of\nintelligence-scaling sorceries and improves\nmagic resistance."
+	},
+	{
+		"Id": 30407,
+		"Value": "Attribute required to perform sacred\nincantations. Also boosts magic power\nof faith-scaling incantations."
+	},
+	{
+		"Id": 30409,
+		"Value": "Attribute governing discovery.\nAlso affects holy defense, vitality,\nand certain sorceries and incantations."
+	},
+	{
+		"Id": 30500,
+		"Value": "Your life. If reduced to nothing, you die.\nReplenish it by drinking from the Flask of\nCrimson Tears or resting at a site of grace."
+	},
+	{
+		"Id": 30501,
+		"Value": "Energy consumed to use spells and skills.\nReplenish it by drinking from the Flask of\nCerulean Tears or resting at a site of grace."
+	},
+	{
+		"Id": 30502,
+		"Value": "Required for various actions.\nDepletes when certain actions are taken,\nbut recovers automatically."
+	},
+	{
+		"Id": 30510,
+		"Value": "Total weight of equipped armaments and\narmor. Movement slows as load increases.\nThe rightmost number is the maximum\nweight that can be equipped; exceed it\nand movement slows dramatically."
+	},
+	{
+		"Id": 30512,
+		"Value": "Max weight of equippable\narmaments and armor.\nMovement slows as load\nincreases. Exceed this number and\nmovement slows dramatically."
+	},
+	{
+		"Id": 30520,
+		"Value": "Attack power of the armament\nequipped in right hand slot 1"
+	},
+	{
+		"Id": 30521,
+		"Value": "Attack power of the armament\nequipped in right hand slot 2"
+	},
+	{
+		"Id": 30522,
+		"Value": "Attack power of the armament\nequipped in right hand slot 3"
+	},
+	{
+		"Id": 30523,
+		"Value": "Attack power of the armament\nequipped in left hand slot 1"
+	},
+	{
+		"Id": 30524,
+		"Value": "Attack power of the armament\nequipped in left hand slot 2"
+	},
+	{
+		"Id": 30525,
+		"Value": "Attack power of the armament\nequipped in left hand slot 3"
+	},
+	{
+		"Id": 30530,
+		"Value": "The body's capacity to endure\nstandard physical damage"
+	},
+	{
+		"Id": 30531,
+		"Value": "The body's capacity to endure\nstriking physical damage"
+	},
+	{
+		"Id": 30532,
+		"Value": "The body's capacity to endure\nslashing physical damage"
+	},
+	{
+		"Id": 30533,
+		"Value": "The body's capacity to endure\npiercing physical damage"
+	},
+	{
+		"Id": 30534,
+		"Value": "The body's capacity to endure\nmagical damage"
+	},
+	{
+		"Id": 30535,
+		"Value": "The body's capacity to endure\nfire damage"
+	},
+	{
+		"Id": 30536,
+		"Value": "The body's capacity to endure\nlightning damage"
+	},
+	{
+		"Id": 30537,
+		"Value": "The body's capacity to endure\nholy damage"
+	},
+	{
+		"Id": 30540,
+		"Value": "The body's capacity to resist various\npoisons and rot.\nHigher values make it more difficult to succumb to these ailments."
+	},
+	{
+		"Id": 30541,
+		"Value": "The body's capacity to resist\nblood loss and frostbite.\nHigher values make it more difficult to succumb to these ailments."
+	},
+	{
+		"Id": 30542,
+		"Value": "The body's capacity to resist\nsleep and bouts of madness.\nHigher values make it more difficult to succumb to these ailments."
+	},
+	{
+		"Id": 30543,
+		"Value": "The body's capacity to resist death.\nHigher values make it more difficult to be afflicted with instant death."
+	},
+	{
+		"Id": 30561,
+		"Value": "The number of slots available for\nmemorizing sorceries and incantations"
+	},
+	{
+		"Id": 30562,
+		"Value": "Governs likelihood of finding items\non the corpses of defeated foes"
+	},
+	{
+		"Id": 30570,
+		"Value": "The degree to which you can resist\ncollapsing under enemy attacks"
+	},
+	{
+		"Id": 30580,
+		"Value": "Your defense power and damage negation\nagainst standard physical attacks. The\nformer is calculated via attributes, while\nthe latter is calculated via defensive gear\nand any additional effects."
+	},
+	{
+		"Id": 30581,
+		"Value": "Your defense power and damage negation\nagainst striking physical attacks. The\nformer is calculated via attributes, while\nthe latter is calculated via defensive gear\nand any additional effects."
+	},
+	{
+		"Id": 30582,
+		"Value": "Your defense power and damage negation\nagainst slashing physical attacks. The\nformer is calculated via attributes, while\nthe latter is calculated via defensive gear\nand any additional effects."
+	},
+	{
+		"Id": 30583,
+		"Value": "Your defense power and damage negation\nagainst piercing physical attacks. The\nformer is calculated via attributes, while\nthe latter is calculated via defensive gear\nand any additional effects."
+	},
+	{
+		"Id": 30584,
+		"Value": "Your defense power and damage negation\nagainst magical attacks. The former is\ncalculated via attributes, while the latter\nis calculated via defensive gear\nand any additional effects."
+	},
+	{
+		"Id": 30585,
+		"Value": "Your defense power and damage negation\nagainst fire attacks. The former is\ncalculated via attributes, while the latter\nis calculated via defensive gear\nand any additional effects."
+	},
+	{
+		"Id": 30586,
+		"Value": "Your defense power and damage negation\nagainst lightning attacks. The former is\ncalculated via attributes, while the latter\nis calculated via defensive gear\nand any additional effects."
+	},
+	{
+		"Id": 30587,
+		"Value": "Your defense power and damage negation\nagainst holy attacks. The former is\ncalculated via attributes, while the\nlatter is calculated via defensive gear\nand any additional effects."
+	},
+	{
+		"Id": 30590,
+		"Value": "Your resistance to various poisons and\nrot. The higher the number, the\nlower your susceptibility. Governed by\nyour attributes, as well as defensive\ngear and any additional effects."
+	},
+	{
+		"Id": 30591,
+		"Value": "Your resistance to blood loss and\nfrostbite. The higher the number, the\nlower your susceptibility. Governed by\nyour attributes, as well as defensive\ngear and any additional effects."
+	},
+	{
+		"Id": 30592,
+		"Value": "Your resistance to sleep and bouts of\nmadness. The higher the number, the\nlower your susceptibility. Governed by\nyour attributes, as well as defensive\ngear and any additional effects."
+	},
+	{
+		"Id": 30593,
+		"Value": "Your resistance to death. The higher the\nnumber, the lower your susceptibility to\ninstant death. Governed by your attributes,\nas well as defensive gear and any additional effects."
+	},
+	{
+		"Id": 31001,
+		"Value": "Armament category.\nArmaments belonging to the same\ncategory exhibit similar properties."
+	},
+	{
+		"Id": 31002,
+		"Value": "Sorceries and incantations"
+	},
+	{
+		"Id": 31003,
+		"Value": "The types of physical damage dealt\nby this armament. Other than standard\nphysical damage, striking, slashing,\nand piercing damage can also be dealt."
+	},
+	{
+		"Id": 31004,
+		"Value": "Number of this item currently held.\nThe rightmost number indicates\nthe maximum you may hold at one time."
+	},
+	{
+		"Id": 31005,
+		"Value": "Number of this item currently\nstored in chest. The rightmost number\nindicates the maximum you may hold\nat one time."
+	},
+	{
+		"Id": 31006,
+		"Value": "The names of skills you can use.\nUsing most skills consumes FP."
+	},
+	{
+		"Id": 31007,
+		"Value": "Number of containers currently held"
+	},
+	{
+		"Id": 31008,
+		"Value": "Container items, essential to crafting, come in various forms, such as cracked pots and perfume bottles. The left number indicates how many containers are currently in use. The right number indicates how many you possess."
+	},
+	{
+		"Id": 31009,
+		"Value": "Number of containers remaining\nto use in crafting"
+	},
+	{
+		"Id": 31010,
+		"Value": "Physical attack power"
+	},
+	{
+		"Id": 31011,
+		"Value": "Magic attack power"
+	},
+	{
+		"Id": 31012,
+		"Value": "Fire attack power"
+	},
+	{
+		"Id": 31013,
+		"Value": "Lightning attack power"
+	},
+	{
+		"Id": 31014,
+		"Value": "Holy attack power"
+	},
+	{
+		"Id": 31020,
+		"Value": "The degree to which physical damage\nis negated while guarding"
+	},
+	{
+		"Id": 31021,
+		"Value": "The degree to which magic damage\nis negated while guarding"
+	},
+	{
+		"Id": 31022,
+		"Value": "The degree to which fire damage\nis negated while guarding"
+	},
+	{
+		"Id": 31023,
+		"Value": "The degree to which lightning damage\nis negated while guarding"
+	},
+	{
+		"Id": 31024,
+		"Value": "The degree to which holy damage\nis negated while guarding"
+	},
+	{
+		"Id": 31030,
+		"Value": "The strength of critical hits,\nwhich can be performed on enemies\nyou have got behind or stance-broken."
+	},
+	{
+		"Id": 31031,
+		"Value": "The stability of character's defense.\nThe higher this value, the smaller\nthe amount of stamina consumed\nwhen guarding attacks."
+	},
+	{
+		"Id": 31032,
+		"Value": "Distance of ranged weapons"
+	},
+	{
+		"Id": 31034,
+		"Value": "The amount of FP required to\nperform this skill"
+	},
+	{
+		"Id": 31035,
+		"Value": "The degree to which sorceries\nincrease in power"
+	},
+	{
+		"Id": 31036,
+		"Value": "The degree to which incantations\nincrease in power"
+	},
+	{
+		"Id": 31040,
+		"Value": "The number of slots needed to memorize\nsorceries and incantations"
+	},
+	{
+		"Id": 31041,
+		"Value": "The amount of FP required to\ncast this spell"
+	},
+	{
+		"Id": 31042,
+		"Value": "The amount of FP required to\nuse this item"
+	},
+	{
+		"Id": 31043,
+		"Value": "The amount of HP required to use this item"
+	},
+	{
+		"Id": 31180,
+		"Value": "The degree to which incoming\nstandard physical damage is negated"
+	},
+	{
+		"Id": 31181,
+		"Value": "The degree to which incoming\nstriking physical damage is negated"
+	},
+	{
+		"Id": 31182,
+		"Value": "The degree to which incoming\nslashing physical damage is negated"
+	},
+	{
+		"Id": 31183,
+		"Value": "The degree to which incoming\npiercing physical damage is negated"
+	},
+	{
+		"Id": 31184,
+		"Value": "The degree to which incoming\nmagic damage is negated"
+	},
+	{
+		"Id": 31185,
+		"Value": "The degree to which incoming\nfire damage is negated"
+	},
+	{
+		"Id": 31186,
+		"Value": "The degree to which incoming\nlightning damage is negated"
+	},
+	{
+		"Id": 31187,
+		"Value": "The degree to which incoming\nholy damage is negated"
+	},
+	{
+		"Id": 31190,
+		"Value": "The resistance your armor offers to various poisons and rot. Higher values make it more difficult to succumb to these ailments."
+	},
+	{
+		"Id": 31191,
+		"Value": "The resistance your armor offers to blood loss and frostbite. Higher values make it more difficult to succumb to these ailments."
+	},
+	{
+		"Id": 31192,
+		"Value": "The resistance your armor offers to sleep and bouts of madness. Higher values make it more difficult to succumb to these ailments."
+	},
+	{
+		"Id": 31193,
+		"Value": "The resistance your armor offers to death. Higher values make it more difficult to be afflicted with instant death."
+	},
+	{
+		"Id": 31200,
+		"Value": "The degree to which you can resist\ncollapsing under enemy attacks"
+	},
+	{
+		"Id": 31300,
+		"Value": "Strength required to master this armament.\nWithout sufficient strength, this armament's\ndamage is greatly reduced."
+	},
+	{
+		"Id": 31301,
+		"Value": "Dexterity required to master this armament.\nWithout sufficient dexterity, this\narmament's damage is greatly reduced."
+	},
+	{
+		"Id": 31302,
+		"Value": "Intelligence required to master this\narmament. Without sufficient intelligence,\nthis armament's damage is greatly reduced."
+	},
+	{
+		"Id": 31303,
+		"Value": "Faith required to master this armament.\nWithout sufficient faith, this armament's\ndamage is greatly reduced."
+	},
+	{
+		"Id": 31304,
+		"Value": "Arcane required to master this armament.\nWithout sufficient arcane, this armament's\ndamage is greatly reduced."
+	},
+	{
+		"Id": 31307,
+		"Value": "Intelligence required to cast this sorcery\nor incantation.\nWithout sufficient intelligence, it cannot\nbe used."
+	},
+	{
+		"Id": 31308,
+		"Value": "Faith required to cast this sorcery\nor incantation.\nWithout sufficient faith, it cannot\nbe used."
+	},
+	{
+		"Id": 31309,
+		"Value": "Arcane required to cast this sorcery\nor incantation.\nWithout sufficient arcane, it cannot\nbe used."
+	},
+	{
+		"Id": 31310,
+		"Value": "The degree to which this armament's \nattacks scale with strength"
+	},
+	{
+		"Id": 31311,
+		"Value": "The degree to which this armament's\nattacks scale with dexterity"
+	},
+	{
+		"Id": 31312,
+		"Value": "The degree to which this armament's\nattacks scale with intelligence"
+	},
+	{
+		"Id": 31313,
+		"Value": "The degree to which this armament's\nattacks scale with faith"
+	},
+	{
+		"Id": 31314,
+		"Value": "The degree to which this armament's power\nor passive effects scale with strength"
+	},
+	{
+		"Id": 31315,
+		"Value": "The degree to which this armament's power\nor passive effects scale with dexterity"
+	},
+	{
+		"Id": 31316,
+		"Value": "The degree to which this armament's power\nor passive effects scale with intelligence"
+	},
+	{
+		"Id": 31317,
+		"Value": "The degree to which this armament's power\nor passive effects scale with faith"
+	},
+	{
+		"Id": 31318,
+		"Value": "The degree to which this armament's power\nor passive effects scale with arcane"
+	},
+	{
+		"Id": 31319,
+		"Value": "The degree to which this armament's \nattacks scale with arcane"
+	},
+	{
+		"Id": 31351,
+		"Value": "Weight of this equipment"
+	},
+	{
+		"Id": 31360,
+		"Value": "Type of item.\nShows whether or not\nit will be consumed with use."
+	},
+	{
+		"Id": 31500,
+		"Value": "This armament's innate effects"
+	},
+	{
+		"Id": 31511,
+		"Value": "Skill granted by these Ashes of War"
+	},
+	{
+		"Id": 31512,
+		"Value": "Armament types that these Ashes of War can alter"
+	},
+	{
+		"Id": 31513,
+		"Value": "Affinity that these Ashes of War can grant.\nThis can be expanded with whetblades."
+	},
+	{
+		"Id": 32000,
+		"Value": "Number of runes required to buy"
+	},
+	{
+		"Id": 32001,
+		"Value": "Number of runes required to upgrade"
+	},
+	{
+		"Id": 32002,
+		"Value": "Number of runes required to grant"
+	},
+	{
+		"Id": 32004,
+		"Value": "Number of runes required to receive power\nfrom remembrances"
+	},
+	{
+		"Id": 32010,
+		"Value": "Number of runes gained when sold"
+	},
+	{
+		"Id": 40110,
+		"Value": "Confirm"
+	},
+	{
+		"Id": 40120,
+		"Value": "None entered"
+	},
+	{
+		"Id": 40300,
+		"Value": "On"
+	},
+	{
+		"Id": 40301,
+		"Value": "Off"
+	},
+	{
+		"Id": 40302,
+		"Value": "Mild"
+	},
+	{
+		"Id": 40303,
+		"Value": "Auto"
+	},
+	{
+		"Id": 40310,
+		"Value": "Normal"
+	},
+	{
+		"Id": 40311,
+		"Value": "Reversed"
+	},
+	{
+		"Id": 40320,
+		"Value": "Allowed"
+	},
+	{
+		"Id": 40321,
+		"Value": "Restricted"
+	},
+	{
+		"Id": 40330,
+		"Value": "Defaults"
+	},
+	{
+		"Id": 40331,
+		"Value": "Next"
+	},
+	{
+		"Id": 40340,
+		"Value": "Perform Matchmaking"
+	},
+	{
+		"Id": 40341,
+		"Value": "No Matchmaking"
+	},
+	{
+		"Id": 40350,
+		"Value": "No Password"
+	},
+	{
+		"Id": 40360,
+		"Value": "Play Online"
+	},
+	{
+		"Id": 40361,
+		"Value": "Play Offline"
+	},
+	{
+		"Id": 40362,
+		"Value": "Asynchronous Online Play"
+	},
+	{
+		"Id": 40370,
+		"Value": "Disable"
+	},
+	{
+		"Id": 40371,
+		"Value": "Enable"
+	},
+	{
+		"Id": 40375,
+		"Value": "Agree"
+	},
+	{
+		"Id": 40376,
+		"Value": "Decline"
+	},
+	{
+		"Id": 40377,
+		"Value": "Prioritize Quality"
+	},
+	{
+		"Id": 40378,
+		"Value": "Prioritize Frame Rate"
+	},
+	{
+		"Id": 40380,
+		"Value": "Game Pad"
+	},
+	{
+		"Id": 40381,
+		"Value": "Keyboard and Mouse"
+	},
+	{
+		"Id": 40400,
+		"Value": "Fullscreen"
+	},
+	{
+		"Id": 40401,
+		"Value": "Windowed"
+	},
+	{
+		"Id": 40402,
+		"Value": "Borderless Windowed"
+	},
+	{
+		"Id": 40410,
+		"Value": "x"
+	},
+	{
+		"Id": 40420,
+		"Value": "Custom"
+	},
+	{
+		"Id": 40421,
+		"Value": "Low"
+	},
+	{
+		"Id": 40422,
+		"Value": "Medium"
+	},
+	{
+		"Id": 40423,
+		"Value": "High"
+	},
+	{
+		"Id": 40424,
+		"Value": "Maximum"
+	},
+	{
+		"Id": 40440,
+		"Value": "On"
+	},
+	{
+		"Id": 40441,
+		"Value": "Off"
+	},
+	{
+		"Id": 40500,
+		"Value": "Tools"
+	},
+	{
+		"Id": 40501,
+		"Value": "Melee Armaments"
+	},
+	{
+		"Id": 40504,
+		"Value": "Shields"
+	},
+	{
+		"Id": 40505,
+		"Value": "Head"
+	},
+	{
+		"Id": 40506,
+		"Value": "Chest"
+	},
+	{
+		"Id": 40507,
+		"Value": "Arms"
+	},
+	{
+		"Id": 40508,
+		"Value": "Legs"
+	},
+	{
+		"Id": 40509,
+		"Value": "Talismans"
+	},
+	{
+		"Id": 40510,
+		"Value": "Sorceries/Incantations"
+	},
+	{
+		"Id": 40511,
+		"Value": "Arrows/Bolts"
+	},
+	{
+		"Id": 40512,
+		"Value": "Bolstering Materials"
+	},
+	{
+		"Id": 40513,
+		"Value": "Key Items"
+	},
+	{
+		"Id": 40516,
+		"Value": "Crafting Materials"
+	},
+	{
+		"Id": 40517,
+		"Value": "Info"
+	},
+	{
+		"Id": 40518,
+		"Value": "Crystal Tears"
+	},
+	{
+		"Id": 40519,
+		"Value": "Ranged Weapons / Catalysts"
+	},
+	{
+		"Id": 40520,
+		"Value": "Ashes"
+	},
+	{
+		"Id": 40521,
+		"Value": "Sorceries"
+	},
+	{
+		"Id": 40522,
+		"Value": "Incantations"
+	},
+	{
+		"Id": 40523,
+		"Value": "Ashes of War"
+	},
+	{
+		"Id": 40530,
+		"Value": "Equipped Armaments"
+	},
+	{
+		"Id": 40531,
+		"Value": "Equipped Ashes"
+	},
+	{
+		"Id": 40532,
+		"Value": "Equipped Armaments"
+	},
+	{
+		"Id": 40550,
+		"Value": "Armaments"
+	},
+	{
+		"Id": 40551,
+		"Value": "Armor"
+	},
+	{
+		"Id": 40560,
+		"Value": "All Items"
+	},
+	{
+		"Id": 40562,
+		"Value": "Consumables"
+	},
+	{
+		"Id": 40571,
+		"Value": "Throwing Pots"
+	},
+	{
+		"Id": 40572,
+		"Value": "Perfume Arts"
+	},
+	{
+		"Id": 40580,
+		"Value": "Ashes"
+	},
+	{
+		"Id": 40581,
+		"Value": "Special Ashes"
+	},
+	{
+		"Id": 40590,
+		"Value": "Sorceries/Incantations"
+	},
+	{
+		"Id": 40591,
+		"Value": "Offensive Sorceries"
+	},
+	{
+		"Id": 40592,
+		"Value": "Support Sorceries"
+	},
+	{
+		"Id": 40593,
+		"Value": "Offensive Incantations"
+	},
+	{
+		"Id": 40594,
+		"Value": "Support Incantations"
+	},
+	{
+		"Id": 40602,
+		"Value": "Character Status"
+	},
+	{
+		"Id": 50000,
+		"Value": "None"
+	},
+	{
+		"Id": 50005,
+		"Value": "Standard"
+	},
+	{
+		"Id": 50050,
+		"Value": "Strike"
+	},
+	{
+		"Id": 50055,
+		"Value": "Standard/Strike"
+	},
+	{
+		"Id": 50500,
+		"Value": "Slash"
+	},
+	{
+		"Id": 50505,
+		"Value": "Standard/Slash"
+	},
+	{
+		"Id": 50550,
+		"Value": "Strike/Slash"
+	},
+	{
+		"Id": 50555,
+		"Value": "Standard/Strike/Slash"
+	},
+	{
+		"Id": 55000,
+		"Value": "Pierce"
+	},
+	{
+		"Id": 55005,
+		"Value": "Standard/Pierce"
+	},
+	{
+		"Id": 55050,
+		"Value": "Strike/Pierce"
+	},
+	{
+		"Id": 55055,
+		"Value": "Standard/Strike/Pierce"
+	},
+	{
+		"Id": 55500,
+		"Value": "Slash/Pierce"
+	},
+	{
+		"Id": 55505,
+		"Value": "Standard/Slash/Pierce"
+	},
+	{
+		"Id": 55550,
+		"Value": "Strike/Slash/Pierce"
+	},
+	{
+		"Id": 55555,
+		"Value": "Standard/Strike/Slash/Pierce"
+	},
+	{
+		"Id": 60000,
+		"Value": "All Armaments"
+	},
+	{
+		"Id": 60001,
+		"Value": ", "
+	},
+	{
+		"Id": 60010,
+		"Value": "Dagger"
+	},
+	{
+		"Id": 60015,
+		"Value": "Straight Sword"
+	},
+	{
+		"Id": 60020,
+		"Value": "Greatsword"
+	},
+	{
+		"Id": 60025,
+		"Value": "Colossal Sword"
+	},
+	{
+		"Id": 60030,
+		"Value": "Curved Sword"
+	},
+	{
+		"Id": 60035,
+		"Value": "Curved Greatsword"
+	},
+	{
+		"Id": 60040,
+		"Value": "Katana"
+	},
+	{
+		"Id": 60043,
+		"Value": "Twinblade"
+	},
+	{
+		"Id": 60045,
+		"Value": "Thrusting Sword"
+	},
+	{
+		"Id": 60046,
+		"Value": "Heavy Thrusting Sword"
+	},
+	{
+		"Id": 60050,
+		"Value": "Axe"
+	},
+	{
+		"Id": 60055,
+		"Value": "Greataxe"
+	},
+	{
+		"Id": 60060,
+		"Value": "Hammer"
+	},
+	{
+		"Id": 60065,
+		"Value": "Warhammer"
+	},
+	{
+		"Id": 60067,
+		"Value": "Flail"
+	},
+	{
+		"Id": 60070,
+		"Value": "Spear"
+	},
+	{
+		"Id": 60077,
+		"Value": "Great Spear"
+	},
+	{
+		"Id": 60080,
+		"Value": "Halberd"
+	},
+	{
+		"Id": 60085,
+		"Value": "Reaper"
+	},
+	{
+		"Id": 60090,
+		"Value": "Fist"
+	},
+	{
+		"Id": 60100,
+		"Value": "Claw"
+	},
+	{
+		"Id": 60102,
+		"Value": "Colossal Weapon"
+	},
+	{
+		"Id": 60104,
+		"Value": "Light Bow"
+	},
+	{
+		"Id": 60105,
+		"Value": "Bow"
+	},
+	{
+		"Id": 60110,
+		"Value": "Greatbow"
+	},
+	{
+		"Id": 60115,
+		"Value": "Crossbow"
+	},
+	{
+		"Id": 60117,
+		"Value": "Ballista"
+	},
+	{
+		"Id": 60120,
+		"Value": "Glintstone Staff"
+	},
+	{
+		"Id": 60125,
+		"Value": "Tattoo"
+	},
+	{
+		"Id": 60130,
+		"Value": "Sacred Seal"
+	},
+	{
+		"Id": 60140,
+		"Value": "Small Shield"
+	},
+	{
+		"Id": 60145,
+		"Value": "Medium Shield"
+	},
+	{
+		"Id": 60150,
+		"Value": "Greatshield"
+	},
+	{
+		"Id": 60155,
+		"Value": "Whip"
+	},
+	{
+		"Id": 60160,
+		"Value": "Arrow"
+	},
+	{
+		"Id": 60165,
+		"Value": "Greatarrow"
+	},
+	{
+		"Id": 60170,
+		"Value": "Bolt"
+	},
+	{
+		"Id": 60171,
+		"Value": "Greatbolt"
+	},
+	{
+		"Id": 60175,
+		"Value": "Torch"
+	},
+	{
+		"Id": 61000,
+		"Value": "Sorcery"
+	},
+	{
+		"Id": 61002,
+		"Value": "Incantation"
+	},
+	{
+		"Id": 62000,
+		"Value": "Standard"
+	},
+	{
+		"Id": 62001,
+		"Value": "Heavy"
+	},
+	{
+		"Id": 62002,
+		"Value": "Keen"
+	},
+	{
+		"Id": 62003,
+		"Value": "Quality"
+	},
+	{
+		"Id": 62004,
+		"Value": "Fire"
+	},
+	{
+		"Id": 62005,
+		"Value": "Flame Art"
+	},
+	{
+		"Id": 62006,
+		"Value": "Lightning"
+	},
+	{
+		"Id": 62007,
+		"Value": "Sacred"
+	},
+	{
+		"Id": 62008,
+		"Value": "Magic"
+	},
+	{
+		"Id": 62009,
+		"Value": "Occult"
+	},
+	{
+		"Id": 62010,
+		"Value": "Cold"
+	},
+	{
+		"Id": 62011,
+		"Value": "Poison"
+	},
+	{
+		"Id": 62012,
+		"Value": "Blood"
+	},
+	{
+		"Id": 63000,
+		"Value": "Usable on swords, axes, and\nhammers (small armaments and\nthrusting swords excepted)"
+	},
+	{
+		"Id": 63001,
+		"Value": "Usable on medium and large armaments capable of thrusting"
+	},
+	{
+		"Id": 63002,
+		"Value": "Usable on swords, axes, and polearms (colossal weapons excepted)"
+	},
+	{
+		"Id": 63003,
+		"Value": "Usable on swords, axes, and\nhammers (small and medium\nswords excepted)"
+	},
+	{
+		"Id": 63004,
+		"Value": "Usable on armaments capable of thrusting (colossal weapons excepted)"
+	},
+	{
+		"Id": 63005,
+		"Value": "Usable on axes and hammers,\nas well as curved swords,\ngreatswords, and reapers\n(colossal weapons excepted)"
+	},
+	{
+		"Id": 63006,
+		"Value": "Usable on swords and polearms capable of slashing (colossal weapons excepted)"
+	},
+	{
+		"Id": 63007,
+		"Value": "Usable on large and colossal\naxes and hammers"
+	},
+	{
+		"Id": 63008,
+		"Value": "Usable on katana"
+	},
+	{
+		"Id": 63009,
+		"Value": "Usable on straight swords"
+	},
+	{
+		"Id": 63010,
+		"Value": "Usable on large and colossal weapons capable of thrusting, spears, and twinblades"
+	},
+	{
+		"Id": 63011,
+		"Value": "Usable on small and medium swords (twinblades excepted)"
+	},
+	{
+		"Id": 63012,
+		"Value": "Usable on small and medium swords, axes, and hammers, as well as polearms and staves (great spears excepted)"
+	},
+	{
+		"Id": 63013,
+		"Value": "Usable on polearms capable of thrusting, heavy thrusting swords, and twinblades"
+	},
+	{
+		"Id": 63014,
+		"Value": "Usable on swords capable of slashing, axes, hammers, and polearms (small and colossal weapons excepted)"
+	},
+	{
+		"Id": 63015,
+		"Value": "Usable on swords, axes, and polearms capable of slashing (colossal weapons and great spears excepted)"
+	},
+	{
+		"Id": 63016,
+		"Value": "Usable on polearms capable of thrusting and twinblades"
+	},
+	{
+		"Id": 63017,
+		"Value": "Usable on fists and claws"
+	},
+	{
+		"Id": 63018,
+		"Value": "Usable on axes and hammers"
+	},
+	{
+		"Id": 63019,
+		"Value": "Usable on melee armaments\n(small armaments and whips excepted)"
+	},
+	{
+		"Id": 63020,
+		"Value": "Usable on swords (colossal weapons and twinblades excepted)"
+	},
+	{
+		"Id": 63021,
+		"Value": "Usable on swords, axes, and hammers"
+	},
+	{
+		"Id": 63022,
+		"Value": "Usable on swords\n(colossal weapons excepted)"
+	},
+	{
+		"Id": 63023,
+		"Value": "Usable on swords and axes\n(small and colossal axes excepted)"
+	},
+	{
+		"Id": 63024,
+		"Value": "Usable on polearms and twinblades"
+	},
+	{
+		"Id": 63025,
+		"Value": "Usable on polearms\n(great spears excepted)"
+	},
+	{
+		"Id": 63026,
+		"Value": "Usable on small and medium swords"
+	},
+	{
+		"Id": 63027,
+		"Value": "Usable on polearms and twinblades\n(great spears excepted)"
+	},
+	{
+		"Id": 63028,
+		"Value": "Usable on polearms\n(reapers excepted)"
+	},
+	{
+		"Id": 63029,
+		"Value": "Usable on small melee armaments\nand curved swords"
+	},
+	{
+		"Id": 63030,
+		"Value": "Usable on small and medium shields"
+	},
+	{
+		"Id": 63031,
+		"Value": "Usable on shields and torches"
+	},
+	{
+		"Id": 63032,
+		"Value": "Usable on greatbows"
+	},
+	{
+		"Id": 63033,
+		"Value": "Usable on light bows and longbows"
+	},
+	{
+		"Id": 63034,
+		"Value": "Usable on all bows"
+	},
+	{
+		"Id": 63035,
+		"Value": "Usable on greataxes, warhammers,\nand colossal weapons"
+	},
+	{
+		"Id": 63036,
+		"Value": "Usable on small and medium\nstraight swords and thrusting\nswords"
+	},
+	{
+		"Id": 63037,
+		"Value": "Usable on swords as well as polearms capable of thrusting (colossal weapons excepted)"
+	},
+	{
+		"Id": 63038,
+		"Value": "Usable on melee armaments\n(whips excepted)"
+	},
+	{
+		"Id": 63039,
+		"Value": "Usable on large and colossal\nswords, axes, and hammers"
+	},
+	{
+		"Id": 63040,
+		"Value": "Usable on melee armaments\n(daggers, thrusting swords,\nand whips excepted)"
+	},
+	{
+		"Id": 63041,
+		"Value": "Usable on all shields"
+	},
+	{
+		"Id": 63042,
+		"Value": "Usable on all melee armaments"
+	},
+	{
+		"Id": 63043,
+		"Value": "Usable on axes and hammers as well as curved swords and greatswords\n(colossal weapons excepted)"
+	},
+	{
+		"Id": 63044,
+		"Value": "Usable on melee armaments\n(whips, fists, and claws excepted)"
+	},
+	{
+		"Id": 63045,
+		"Value": "Usable on melee armaments (colossal weapons and whips excepted)"
+	},
+	{
+		"Id": 63046,
+		"Value": "Usable on swords as well as polearms capable of thrusting (small and colossal weapons excepted)"
+	},
+	{
+		"Id": 63047,
+		"Value": "Usable on daggers, curved swords,\nthrusting swords, fists, claws,\nand small and medium shields"
+	},
+	{
+		"Id": 63048,
+		"Value": "Usable on light bows"
+	},
+	{
+		"Id": 63900,
+		"Value": "Usable on large thrusting weapons"
+	},
+	{
+		"Id": 63901,
+		"Value": "Usable on all thrusting weapons"
+	},
+	{
+		"Id": 63902,
+		"Value": "Usable on standard slashing weapons"
+	},
+	{
+		"Id": 63903,
+		"Value": "Usable on all melee weapons"
+	},
+	{
+		"Id": 63904,
+		"Value": "Usable on large melee weapons"
+	},
+	{
+		"Id": 63905,
+		"Value": "Usable on all swords"
+	},
+	{
+		"Id": 63906,
+		"Value": "Usable on all shields"
+	},
+	{
+		"Id": 80000,
+		"Value": "Cracked Pot"
+	},
+	{
+		"Id": 80001,
+		"Value": "Perfume Bottle"
+	},
+	{
+		"Id": 80010,
+		"Value": "Ritual Pot"
+	},
+	{
+		"Id": 90000,
+		"Value": "Morning"
+	},
+	{
+		"Id": 90001,
+		"Value": "Early Day"
+	},
+	{
+		"Id": 90002,
+		"Value": "Late Day"
+	},
+	{
+		"Id": 90003,
+		"Value": "Evening"
+	},
+	{
+		"Id": 90004,
+		"Value": "Night"
+	},
+	{
+		"Id": 90005,
+		"Value": "Late Night"
+	},
+	{
+		"Id": 101000,
+		"Value": "Equipment"
+	},
+	{
+		"Id": 101001,
+		"Value": "Inventory"
+	},
+	{
+		"Id": 101002,
+		"Value": "Status"
+	},
+	{
+		"Id": 101003,
+		"Value": "System"
+	},
+	{
+		"Id": 101004,
+		"Value": "Messages"
+	},
+	{
+		"Id": 101005,
+		"Value": "Pouch"
+	},
+	{
+		"Id": 101007,
+		"Value": "Gestures"
+	},
+	{
+		"Id": 101008,
+		"Value": "Multiplayer"
+	},
+	{
+		"Id": 101009,
+		"Value": "Item Crafting"
+	},
+	{
+		"Id": 103000,
+		"Value": "Right Hand Armament 1"
+	},
+	{
+		"Id": 103001,
+		"Value": "Right Hand Armament 2"
+	},
+	{
+		"Id": 103002,
+		"Value": "Right Hand Armament 3"
+	},
+	{
+		"Id": 103011,
+		"Value": "Left Hand Armament 1"
+	},
+	{
+		"Id": 103012,
+		"Value": "Left Hand Armament 2"
+	},
+	{
+		"Id": 103013,
+		"Value": "Left Hand Armament 3"
+	},
+	{
+		"Id": 103020,
+		"Value": "Arrows 1"
+	},
+	{
+		"Id": 103021,
+		"Value": "Arrows 2"
+	},
+	{
+		"Id": 103030,
+		"Value": "Bolts 1"
+	},
+	{
+		"Id": 103031,
+		"Value": "Bolts 2"
+	},
+	{
+		"Id": 103040,
+		"Value": "Quick Item 1"
+	},
+	{
+		"Id": 103041,
+		"Value": "Quick Item 2"
+	},
+	{
+		"Id": 103042,
+		"Value": "Quick Item 3"
+	},
+	{
+		"Id": 103043,
+		"Value": "Quick Item 4"
+	},
+	{
+		"Id": 103044,
+		"Value": "Quick Item 5"
+	},
+	{
+		"Id": 103045,
+		"Value": "Quick Item 6"
+	},
+	{
+		"Id": 103046,
+		"Value": "Quick Item 7"
+	},
+	{
+		"Id": 103047,
+		"Value": "Quick Item 8"
+	},
+	{
+		"Id": 103048,
+		"Value": "Quick Item 9"
+	},
+	{
+		"Id": 103049,
+		"Value": "Quick Item 10"
+	},
+	{
+		"Id": 103050,
+		"Value": "Talisman 1"
+	},
+	{
+		"Id": 103051,
+		"Value": "Talisman 2"
+	},
+	{
+		"Id": 103052,
+		"Value": "Talisman 3"
+	},
+	{
+		"Id": 103053,
+		"Value": "Talisman 4"
+	},
+	{
+		"Id": 103060,
+		"Value": "Pouch 1"
+	},
+	{
+		"Id": 103061,
+		"Value": "Pouch 2"
+	},
+	{
+		"Id": 103062,
+		"Value": "Pouch 3"
+	},
+	{
+		"Id": 103063,
+		"Value": "Pouch 4"
+	},
+	{
+		"Id": 103064,
+		"Value": "Pouch 5"
+	},
+	{
+		"Id": 103065,
+		"Value": "Pouch 6"
+	},
+	{
+		"Id": 103070,
+		"Value": "Gesture 1"
+	},
+	{
+		"Id": 103071,
+		"Value": "Gesture 2"
+	},
+	{
+		"Id": 103072,
+		"Value": "Gesture 3"
+	},
+	{
+		"Id": 103073,
+		"Value": "Gesture 4"
+	},
+	{
+		"Id": 103074,
+		"Value": "Gesture 5"
+	},
+	{
+		"Id": 103075,
+		"Value": "Gesture 6"
+	},
+	{
+		"Id": 110000,
+		"Value": "Game Options"
+	},
+	{
+		"Id": 110001,
+		"Value": "Camera Options"
+	},
+	{
+		"Id": 110010,
+		"Value": "Camera Y-Axis"
+	},
+	{
+		"Id": 110011,
+		"Value": "Camera X-Axis"
+	},
+	{
+		"Id": 110012,
+		"Value": "Reset Camera Y-Axis"
+	},
+	{
+		"Id": 110013,
+		"Value": "Camera Speed"
+	},
+	{
+		"Id": 110014,
+		"Value": "Toggle Auto Lock-On"
+	},
+	{
+		"Id": 110015,
+		"Value": "Auto-Target"
+	},
+	{
+		"Id": 110016,
+		"Value": "Camera Auto Wall Recovery"
+	},
+	{
+		"Id": 110018,
+		"Value": "Jump Controls"
+	},
+	{
+		"Id": 110019,
+		"Value": "Manual Attack Aiming"
+	},
+	{
+		"Id": 110020,
+		"Value": "Performance Settings"
+	},
+	{
+		"Id": 110100,
+		"Value": "Sound and Display"
+	},
+	{
+		"Id": 110110,
+		"Value": "Display Blood"
+	},
+	{
+		"Id": 110111,
+		"Value": "Subtitles"
+	},
+	{
+		"Id": 110112,
+		"Value": "HUD"
+	},
+	{
+		"Id": 110113,
+		"Value": "Cinematic Effects"
+	},
+	{
+		"Id": 110114,
+		"Value": "Music"
+	},
+	{
+		"Id": 110115,
+		"Value": "Sound Effects"
+	},
+	{
+		"Id": 110116,
+		"Value": "Voice"
+	},
+	{
+		"Id": 110117,
+		"Value": "Master Volume"
+	},
+	{
+		"Id": 110118,
+		"Value": "Camera Auto Rotation"
+	},
+	{
+		"Id": 110200,
+		"Value": "Brightness"
+	},
+	{
+		"Id": 110201,
+		"Value": "Adjust brightness until the image on the right is barely visible"
+	},
+	{
+		"Id": 110202,
+		"Value": "Adjust brightness to your liking"
+	},
+	{
+		"Id": 110203,
+		"Value": "Adjust TV brightness to the highest setting"
+	},
+	{
+		"Id": 110204,
+		"Value": "Adjust saturation to your liking"
+	},
+	{
+		"Id": 110209,
+		"Value": "HDR"
+	},
+	{
+		"Id": 110210,
+		"Value": "Adjust Brightness"
+	},
+	{
+		"Id": 110211,
+		"Value": "Adjust Image Quality"
+	},
+	{
+		"Id": 110212,
+		"Value": "Maximum Brightness"
+	},
+	{
+		"Id": 110213,
+		"Value": "Adjust Saturation"
+	},
+	{
+		"Id": 110214,
+		"Value": "Adjust Brightness"
+	},
+	{
+		"Id": 110300,
+		"Value": "Network"
+	},
+	{
+		"Id": 110310,
+		"Value": "Voice Chat"
+	},
+	{
+		"Id": 110311,
+		"Value": "Cross-Region Play"
+	},
+	{
+		"Id": 110313,
+		"Value": "Display Player Names"
+	},
+	{
+		"Id": 110314,
+		"Value": "Launch Setting"
+	},
+	{
+		"Id": 110315,
+		"Value": "Send Summon Sign"
+	},
+	{
+		"Id": 110316,
+		"Value": "Data Usage Agreement"
+	},
+	{
+		"Id": 110500,
+		"Value": "Quit Game"
+	},
+	{
+		"Id": 110502,
+		"Value": "Level"
+	},
+	{
+		"Id": 110510,
+		"Value": "Quit Game"
+	},
+	{
+		"Id": 111001,
+		"Value": "Controls"
+	},
+	{
+		"Id": 111005,
+		"Value": "Keyboard/Mouse Settings"
+	},
+	{
+		"Id": 111006,
+		"Value": "Controls"
+	},
+	{
+		"Id": 111010,
+		"Value": "Device for On-Screen Prompts"
+	},
+	{
+		"Id": 111011,
+		"Value": "Show Tutorials"
+	},
+	{
+		"Id": 111020,
+		"Value": "Mouse Sensitivity"
+	},
+	{
+		"Id": 111022,
+		"Value": "Mouse X-Axis"
+	},
+	{
+		"Id": 111023,
+		"Value": "Mouse Y-Axis"
+	},
+	{
+		"Id": 111031,
+		"Value": "Key Bindings"
+	},
+	{
+		"Id": 111100,
+		"Value": "Graphics"
+	},
+	{
+		"Id": 111105,
+		"Value": "Changes applied from title screen"
+	},
+	{
+		"Id": 111110,
+		"Value": "Screen Mode"
+	},
+	{
+		"Id": 111111,
+		"Value": "Resolution"
+	},
+	{
+		"Id": 111112,
+		"Value": "Auto-Detect Best Rendering Settings"
+	},
+	{
+		"Id": 111113,
+		"Value": "Quality Settings"
+	},
+	{
+		"Id": 111114,
+		"Value": "Advanced Settings"
+	},
+	{
+		"Id": 111210,
+		"Value": "Texture Quality"
+	},
+	{
+		"Id": 111211,
+		"Value": "Antialiasing Quality"
+	},
+	{
+		"Id": 111212,
+		"Value": "SSAO"
+	},
+	{
+		"Id": 111213,
+		"Value": "Depth of Field"
+	},
+	{
+		"Id": 111214,
+		"Value": "Motion Blur"
+	},
+	{
+		"Id": 111215,
+		"Value": "Shadow Quality"
+	},
+	{
+		"Id": 111216,
+		"Value": "Lighting Quality"
+	},
+	{
+		"Id": 111217,
+		"Value": "Effects Quality"
+	},
+	{
+		"Id": 111218,
+		"Value": "Volumetric Quality"
+	},
+	{
+		"Id": 111219,
+		"Value": "Reflection Quality"
+	},
+	{
+		"Id": 111220,
+		"Value": "Water Surface Quality"
+	},
+	{
+		"Id": 111221,
+		"Value": "Shader Quality"
+	},
+	{
+		"Id": 111222,
+		"Value": "Ray Tracing Quality"
+	},
+	{
+		"Id": 111223,
+		"Value": "Global Illumination Quality"
+	},
+	{
+		"Id": 111224,
+		"Value": "Grass Quality"
+	},
+	{
+		"Id": 121000,
+		"Value": "Multiplayer Password Setting"
+	},
+	{
+		"Id": 121001,
+		"Value": "Group Password Setting"
+	},
+	{
+		"Id": 121010,
+		"Value": "If you set a multiplayer password, you'll only be matched with other players using the same password for most multiplayer features.\n\nHowever, multiplayer passwords do not apply to invasion or support multiplayer."
+	},
+	{
+		"Id": 121011,
+		"Value": "If you set a group password, you'll be more likely to see messages, summon signs, bloodstains, phantoms, and so on from others using the same password.\n\nElements given this special priority will appear differently from others."
+	},
+	{
+		"Id": 121100,
+		"Value": "With a Furlcalling Finger Remedy, you can see summon signs, which can be used to summon players from other worlds.\n(Finger Remedies are consumed with use.)\n\nThere are various types of summon signs.\nGold signs summon Furled Finger cooperators.\nRed signs summon duelist adversaries.\n(For either type of multiplayer, the summoning player becomes Host of Fingers.)"
+	},
+	{
+		"Id": 121101,
+		"Value": "With a Furlcalling Finger Remedy, you can see summon signs, which can be used to summon players from other worlds.\n(Finger Remedies are consumed with use.)\n\nThere are various types of summon signs.\nGold signs summon Furled Finger cooperators.\nRed signs summon duelist adversaries.\n(For either type of multiplayer, the summoning player becomes Host of Fingers.)"
+	},
+	{
+		"Id": 121102,
+		"Value": "You can leave a gold summon sign to play cooperative multiplayer.\n\nThis sign will appear in other players' worlds and allow them to summon you as a Furled Finger for cooperative multiplayer.\nMultiplayer begins once you are summoned.\n(Your objective will be to defeat the area boss.)\n\nIf you leave a second summon sign, the older sign will vanish."
+	},
+	{
+		"Id": 121103,
+		"Value": "You can leave a gold summon sign to play cooperative multiplayer.\n\nThis sign will appear in other players' worlds and allow them to summon you as a Furled Finger for cooperative multiplayer.\nMultiplayer begins once you are summoned.\n(Your objective will be to defeat the area boss.)\n\nIf you leave a second summon sign, the older sign will vanish."
+	},
+	{
+		"Id": 121104,
+		"Value": "You can leave a red summon sign to play competitive multiplayer.\n\nThis sign will appear in other players' worlds and allow them to summon you as a duelist adversary for competitive multiplayer.\nMultiplayer begins once you are summoned.\n(Your objective will be to defeat the Host of Fingers.)\n\nIf you leave a second summon sign, the older sign will vanish."
+	},
+	{
+		"Id": 121105,
+		"Value": "You can leave a red summon sign to play competitive multiplayer.\n\nThis sign will appear in other players' worlds and allow them to summon you as a duelist adversary for competitive multiplayer.\nMultiplayer begins once you are summoned.\n(Your objective will be to defeat the Host of Fingers.)\n\nIf you leave a second summon sign, the older sign will vanish."
+	},
+	{
+		"Id": 121106,
+		"Value": "Attempt to invade another player's world as a Bloody Finger.\n\nIf you successfully invade, invasion multiplayer will begin. (Your objective will be to defeat the Host of Fingers.)\n\nYou can attempt another invasion of the same world by using a Phantom Finger item. (These items are consumed upon use.)"
+	},
+	{
+		"Id": 121107,
+		"Value": "Cancel invasion of other world"
+	},
+	{
+		"Id": 121108,
+		"Value": "Choose a summoned player to\nsend back to their own world.\n\nThis player will be removed\nfrom the multiplayer session."
+	},
+	{
+		"Id": 121109,
+		"Value": "Removed from multiplayer session.\nReturning to own world."
+	},
+	{
+		"Id": 121110,
+		"Value": "Lures in invaders.\n\nThis allows your world to be invaded without any Furled Finger cooperators present, and it also shortens the interval between windows of opportunity for invasion.\n\nAdditionally, enables the arrival of a second invader to join when a cooperator is present. (With two invaders, the maximum number of cooperators becomes one.)"
+	},
+	{
+		"Id": 121111,
+		"Value": "Stop beckoning invaders to your world"
+	},
+	{
+		"Id": 121112,
+		"Value": "Puts you into a ready state to answer, should\nsomeone in another world call for rescue.\nYou will be summoned to their world as a hunter.\n\nMultiplayer will begin once you are summoned.\n(Your objective will be to defeat invaders.)"
+	},
+	{
+		"Id": 121113,
+		"Value": "Stop accepting summons requests"
+	},
+	{
+		"Id": 121114,
+		"Value": "Allows you to automatically request for a hunter from another world to come to your rescue when your world is invaded.\n\nYou can also use this after being invaded to summon a hunter for help.\n(Summoning rescuers may not always be possible.)"
+	},
+	{
+		"Id": 121115,
+		"Value": "Cancel summons request"
+	},
+	{
+		"Id": 121116,
+		"Value": "Send a cooperative summon sign to several nearby summoning pools (activated pools only).\n\nIf you are summoned, you will be transported to that summoning pool's location in the host player's world and multiplayer will begin.\n(Your objective will be to help the host player defeat the area boss.)"
+	},
+	{
+		"Id": 121117,
+		"Value": "Remove co-op summon sign from summoning pool"
+	},
+	{
+		"Id": 121118,
+		"Value": "Send a competitive summon sign to several nearby summoning pools (activated pools only).\n\nIf you are summoned, you will be transported to that summoning pool's location in the host player's world and multiplayer will begin.\n(Your objective will be to defeat the Host of Fingers.)"
+	},
+	{
+		"Id": 121119,
+		"Value": "Remove hostile summon sign from summoning pool"
+	},
+	{
+		"Id": 121120,
+		"Value": "Attempt to invade another player's world as a Bloody Finger.\n\nIf you successfully invade, your Festering Bloody Finger will be spent and invasion multiplayer will begin. (Your objective will be to defeat the Host of Fingers.)\n\nYou can attempt another invasion of the same world by using a Phantom Finger item. (These items are consumed upon use.)"
+	},
+	{
+		"Id": 121121,
+		"Value": "Stop invading another world"
+	},
+	{
+		"Id": 121122,
+		"Value": "Attempt to invade another player's world as a recusant.\n\nIf you successfully invade, invasion multiplayer will begin. (Your objective will be to defeat the Host of Fingers.)\n\nYou can attempt another invasion of the same world by using a Phantom Finger item. (These items are consumed upon use.)"
+	},
+	{
+		"Id": 121123,
+		"Value": "Stop invading another world"
+	},
+	{
+		"Id": 122010,
+		"Value": "Furled Finger Rank"
+	},
+	{
+		"Id": 122011,
+		"Value": "1.0"
+	},
+	{
+		"Id": 122012,
+		"Value": "2.0"
+	},
+	{
+		"Id": 122013,
+		"Value": "3.0"
+	},
+	{
+		"Id": 122020,
+		"Value": "Duelist Rank"
+	},
+	{
+		"Id": 122021,
+		"Value": "1.0"
+	},
+	{
+		"Id": 122022,
+		"Value": "2.0"
+	},
+	{
+		"Id": 122023,
+		"Value": "3.0"
+	},
+	{
+		"Id": 122030,
+		"Value": "Bloody Finger Rank"
+	},
+	{
+		"Id": 122031,
+		"Value": "1.0"
+	},
+	{
+		"Id": 122032,
+		"Value": "2.0"
+	},
+	{
+		"Id": 122033,
+		"Value": "3.0"
+	},
+	{
+		"Id": 122040,
+		"Value": "Recusant Rank"
+	},
+	{
+		"Id": 122041,
+		"Value": "1.0"
+	},
+	{
+		"Id": 122042,
+		"Value": "2.0"
+	},
+	{
+		"Id": 122043,
+		"Value": "3.0"
+	},
+	{
+		"Id": 122050,
+		"Value": "Hunter Rank"
+	},
+	{
+		"Id": 122051,
+		"Value": "1.0"
+	},
+	{
+		"Id": 122052,
+		"Value": "2.0"
+	},
+	{
+		"Id": 122053,
+		"Value": "3.0"
+	},
+	{
+		"Id": 122110,
+		"Value": "Contribution"
+	},
+	{
+		"Id": 123000,
+		"Value": "Multiplayer Password"
+	},
+	{
+		"Id": 123001,
+		"Value": "Group Password"
+	},
+	{
+		"Id": 123010,
+		"Value": "None set"
+	},
+	{
+		"Id": 123011,
+		"Value": "None set"
+	},
+	{
+		"Id": 123020,
+		"Value": "Please set multiplayer password"
+	},
+	{
+		"Id": 123021,
+		"Value": "Please set group password"
+	},
+	{
+		"Id": 123030,
+		"Value": "Password"
+	},
+	{
+		"Id": 212000,
+		"Value": "Level Up"
+	},
+	{
+		"Id": 212750,
+		"Value": "Rebirth"
+	},
+	{
+		"Id": 213000,
+		"Value": "Blacksmith"
+	},
+	{
+		"Id": 213001,
+		"Value": "Required Items"
+	},
+	{
+		"Id": 213010,
+		"Value": "Smithing Table"
+	},
+	{
+		"Id": 214000,
+		"Value": "Ashes of War"
+	},
+	{
+		"Id": 214020,
+		"Value": "To be Enhanced"
+	},
+	{
+		"Id": 214030,
+		"Value": "Affinity Granted"
+	},
+	{
+		"Id": 214110,
+		"Value": "Undo Enhancement"
+	},
+	{
+		"Id": 215000,
+		"Value": "Great Runes"
+	},
+	{
+		"Id": 216000,
+		"Value": "Spirit Tuning"
+	},
+	{
+		"Id": 216001,
+		"Value": "Required Items"
+	},
+	{
+		"Id": 225000,
+		"Value": "Dragon Communion"
+	},
+	{
+		"Id": 225010,
+		"Value": "Offerings"
+	},
+	{
+		"Id": 225020,
+		"Value": "No. Required (No. Held)"
+	},
+	{
+		"Id": 226000,
+		"Value": "Puppet"
+	},
+	{
+		"Id": 226010,
+		"Value": "Exchange"
+	},
+	{
+		"Id": 227000,
+		"Value": "Ash of War Duplication"
+	},
+	{
+		"Id": 227010,
+		"Value": "Consumable Material"
+	},
+	{
+		"Id": 230000,
+		"Value": "Puppet"
+	},
+	{
+		"Id": 230100,
+		"Value": "Remembrance Duplication"
+	},
+	{
+		"Id": 231000,
+		"Value": "Purchase Item"
+	},
+	{
+		"Id": 231001,
+		"Value": "Runes Required"
+	},
+	{
+		"Id": 231003,
+		"Value": "Limit"
+	},
+	{
+		"Id": 231010,
+		"Value": "Sorcery Instruction"
+	},
+	{
+		"Id": 231020,
+		"Value": "Incantation Instruction"
+	},
+	{
+		"Id": 231030,
+		"Value": "Skill Instruction"
+	},
+	{
+		"Id": 232000,
+		"Value": "Sell Item"
+	},
+	{
+		"Id": 232001,
+		"Value": "Runes Offered"
+	},
+	{
+		"Id": 233000,
+		"Value": "Memorize Spells"
+	},
+	{
+		"Id": 233101,
+		"Value": "Memory Slots"
+	},
+	{
+		"Id": 233102,
+		"Value": "Empty Slots"
+	},
+	{
+		"Id": 233103,
+		"Value": "FP"
+	},
+	{
+		"Id": 234020,
+		"Value": "----"
+	},
+	{
+		"Id": 235000,
+		"Value": "Please allocate your flask uses"
+	},
+	{
+		"Id": 236000,
+		"Value": "Item Crafting"
+	},
+	{
+		"Id": 236001,
+		"Value": "Required Items"
+	},
+	{
+		"Id": 236002,
+		"Value": "No. Required (No. Held)"
+	},
+	{
+		"Id": 236003,
+		"Value": "Created Items"
+	},
+	{
+		"Id": 236200,
+		"Value": "Power of Remembrance"
+	},
+	{
+		"Id": 236210,
+		"Value": "Usable Remembrances"
+	},
+	{
+		"Id": 236211,
+		"Value": "Received Power"
+	},
+	{
+		"Id": 236400,
+		"Value": "Alter Garments"
+	},
+	{
+		"Id": 236410,
+		"Value": "Before Alterations"
+	},
+	{
+		"Id": 236411,
+		"Value": "After Alterations"
+	},
+	{
+		"Id": 238000,
+		"Value": "Wondrous Physick Mix"
+	},
+	{
+		"Id": 241000,
+		"Value": "Map"
+	},
+	{
+		"Id": 241100,
+		"Value": "Markers"
+	},
+	{
+		"Id": 241110,
+		"Value": "Remove All Markers"
+	},
+	{
+		"Id": 241200,
+		"Value": "Sites of Grace"
+	},
+	{
+		"Id": 241210,
+		"Value": "Marked Sites of Grace"
+	},
+	{
+		"Id": 241300,
+		"Value": "Stormveil Castle"
+	},
+	{
+		"Id": 241301,
+		"Value": "Chapel of Anticipation"
+	},
+	{
+		"Id": 241302,
+		"Value": "Leyndell, Royal Capital"
+	},
+	{
+		"Id": 241303,
+		"Value": "Leyndell, Ashen Capital"
+	},
+	{
+		"Id": 241304,
+		"Value": "Roundtable Hold"
+	},
+	{
+		"Id": 241305,
+		"Value": "Ainsel River Main"
+	},
+	{
+		"Id": 241306,
+		"Value": "Lake of Rot"
+	},
+	{
+		"Id": 241307,
+		"Value": "Ainsel River"
+	},
+	{
+		"Id": 241308,
+		"Value": "Nokron, Eternal City"
+	},
+	{
+		"Id": 241309,
+		"Value": "Siofra River"
+	},
+	{
+		"Id": 241310,
+		"Value": "Deeproot Depths"
+	},
+	{
+		"Id": 241311,
+		"Value": "Mohgwyn Palace"
+	},
+	{
+		"Id": 241312,
+		"Value": "Crumbling Farum Azula"
+	},
+	{
+		"Id": 241313,
+		"Value": "Academy of Raya Lucaria"
+	},
+	{
+		"Id": 241314,
+		"Value": "Miquella's Haligtree"
+	},
+	{
+		"Id": 241315,
+		"Value": "Elphael, Brace of the Haligtree"
+	},
+	{
+		"Id": 241316,
+		"Value": "Volcano Manor"
+	},
+	{
+		"Id": 241317,
+		"Value": "Stranded Graveyard"
+	},
+	{
+		"Id": 241318,
+		"Value": "Stone Platform"
+	},
+	{
+		"Id": 241319,
+		"Value": "Subterranean Shunning-Grounds"
+	},
+	{
+		"Id": 241320,
+		"Value": "Ruin-Strewn Precipice"
+	},
+	{
+		"Id": 241321,
+		"Value": "Limgrave"
+	},
+	{
+		"Id": 241322,
+		"Value": "Stormhill"
+	},
+	{
+		"Id": 241323,
+		"Value": "Weeping Peninsula"
+	},
+	{
+		"Id": 241324,
+		"Value": "Liurnia of the Lakes"
+	},
+	{
+		"Id": 241325,
+		"Value": "Bellum Highway"
+	},
+	{
+		"Id": 241326,
+		"Value": "Moonlight Altar"
+	},
+	{
+		"Id": 241327,
+		"Value": "Altus Plateau"
+	},
+	{
+		"Id": 241328,
+		"Value": "Mt. Gelmir"
+	},
+	{
+		"Id": 241329,
+		"Value": "Leyndell, Royal Capital"
+	},
+	{
+		"Id": 241330,
+		"Value": "Forbidden Lands"
+	},
+	{
+		"Id": 241331,
+		"Value": "Caelid"
+	},
+	{
+		"Id": 241332,
+		"Value": "Greyoll's Dragonbarrow"
+	},
+	{
+		"Id": 241333,
+		"Value": "Mountaintops of the Giants"
+	},
+	{
+		"Id": 241334,
+		"Value": "Flame Peak"
+	},
+	{
+		"Id": 241335,
+		"Value": "Consecrated Snowfield"
+	},
+	{
+		"Id": 241336,
+		"Value": "Swamp of Aeonia"
+	},
+	{
+		"Id": 241400,
+		"Value": "Roundtable Hold"
+	},
+	{
+		"Id": 241401,
+		"Value": "Stormveil Castle"
+	},
+	{
+		"Id": 241402,
+		"Value": "Leyndell, Royal Capital"
+	},
+	{
+		"Id": 241403,
+		"Value": "Crumbling Farum Azula"
+	},
+	{
+		"Id": 241404,
+		"Value": "Academy of Raya Lucaria"
+	},
+	{
+		"Id": 241405,
+		"Value": "Miquella's Haligtree"
+	},
+	{
+		"Id": 241406,
+		"Value": "Volcano Manor"
+	},
+	{
+		"Id": 241407,
+		"Value": "Ainsel River"
+	},
+	{
+		"Id": 241408,
+		"Value": "Siofra River"
+	},
+	{
+		"Id": 241409,
+		"Value": "Deeproot Depths"
+	},
+	{
+		"Id": 241410,
+		"Value": "Limgrave"
+	},
+	{
+		"Id": 241411,
+		"Value": "Liurnia of the Lakes"
+	},
+	{
+		"Id": 241412,
+		"Value": "Altus Plateau"
+	},
+	{
+		"Id": 241413,
+		"Value": "Caelid"
+	},
+	{
+		"Id": 241414,
+		"Value": "Mountaintops of the Giants"
+	},
+	{
+		"Id": 241415,
+		"Value": "Giants' Peak"
+	},
+	{
+		"Id": 241416,
+		"Value": "Consecrated Snowfield"
+	},
+	{
+		"Id": 251000,
+		"Value": "Sort Chest"
+	},
+	{
+		"Id": 251001,
+		"Value": "Inventory"
+	},
+	{
+		"Id": 251002,
+		"Value": "Chest"
+	},
+	{
+		"Id": 280001,
+		"Value": "Key Bindings"
+	},
+	{
+		"Id": 280005,
+		"Value": "Keyboard"
+	},
+	{
+		"Id": 280006,
+		"Value": "Mouse"
+	},
+	{
+		"Id": 280010,
+		"Value": "Move"
+	},
+	{
+		"Id": 280020,
+		"Value": "Camera Controls"
+	},
+	{
+		"Id": 280030,
+		"Value": "Switch Armament"
+	},
+	{
+		"Id": 280040,
+		"Value": "Attack"
+	},
+	{
+		"Id": 280099,
+		"Value": "No Key Binding"
+	},
+	{
+		"Id": 280100,
+		"Value": "Movement Control"
+	},
+	{
+		"Id": 280101,
+		"Value": "Move Forwards"
+	},
+	{
+		"Id": 280102,
+		"Value": "Move Backwards"
+	},
+	{
+		"Id": 280103,
+		"Value": "Move Left"
+	},
+	{
+		"Id": 280104,
+		"Value": "Move Right"
+	},
+	{
+		"Id": 280105,
+		"Value": "Backstep, Dodge Roll, Dash"
+	},
+	{
+		"Id": 280106,
+		"Value": "Jump"
+	},
+	{
+		"Id": 280107,
+		"Value": "Crouch / Stand Up"
+	},
+	{
+		"Id": 280110,
+		"Value": "Movement"
+	},
+	{
+		"Id": 280199,
+		"Value": "Move Camera / Change Target"
+	},
+	{
+		"Id": 280200,
+		"Value": "Move Camera / Change Target (Up)"
+	},
+	{
+		"Id": 280201,
+		"Value": "Move Camera / Change Target (Down)"
+	},
+	{
+		"Id": 280202,
+		"Value": "Move Camera / Change Target (Left)"
+	},
+	{
+		"Id": 280203,
+		"Value": "Move Camera / Change Target (Right)"
+	},
+	{
+		"Id": 280204,
+		"Value": "Reset Camera, Lock-On/Remove Target"
+	},
+	{
+		"Id": 280300,
+		"Value": "Switch Item"
+	},
+	{
+		"Id": 280301,
+		"Value": "Switch Right-Hand Armament"
+	},
+	{
+		"Id": 280302,
+		"Value": "Switch Left-Hand Armament"
+	},
+	{
+		"Id": 280303,
+		"Value": "Switch Sorcery/Incantation"
+	},
+	{
+		"Id": 280400,
+		"Value": "Attack (RH & Two-Handed Armament)"
+	},
+	{
+		"Id": 280401,
+		"Value": "Strong Attack (RH & 2H Armament)"
+	},
+	{
+		"Id": 280402,
+		"Value": "Guard (LH Armament)"
+	},
+	{
+		"Id": 280403,
+		"Value": "Skill"
+	},
+	{
+		"Id": 280404,
+		"Value": "Event Action (Examine, Open, etc.)"
+	},
+	{
+		"Id": 280405,
+		"Value": "Use Item"
+	},
+	{
+		"Id": 280406,
+		"Value": "Two-Hand Current Armament"
+	},
+	{
+		"Id": 280500,
+		"Value": "Main Menu"
+	},
+	{
+		"Id": 280501,
+		"Value": "Map"
+	},
+	{
+		"Id": 288000,
+		"Value": "Character Selection"
+	},
+	{
+		"Id": 288001,
+		"Value": "Select Character Base"
+	},
+	{
+		"Id": 288050,
+		"Value": "Knight"
+	},
+	{
+		"Id": 288051,
+		"Value": "Enchanted Knight"
+	},
+	{
+		"Id": 288052,
+		"Value": "Prophet"
+	},
+	{
+		"Id": 288053,
+		"Value": "Champion"
+	},
+	{
+		"Id": 288054,
+		"Value": "Bloody Wolf"
+	},
+	{
+		"Id": 288060,
+		"Value": "Knight"
+	},
+	{
+		"Id": 288061,
+		"Value": "Enchanted Knight"
+	},
+	{
+		"Id": 288062,
+		"Value": "Prophet"
+	},
+	{
+		"Id": 288063,
+		"Value": "Champion"
+	},
+	{
+		"Id": 288064,
+		"Value": "Bloody Wolf"
+	},
+	{
+		"Id": 288100,
+		"Value": "Vagabond"
+	},
+	{
+		"Id": 288101,
+		"Value": "Warrior"
+	},
+	{
+		"Id": 288102,
+		"Value": "Hero"
+	},
+	{
+		"Id": 288103,
+		"Value": "Bandit"
+	},
+	{
+		"Id": 288104,
+		"Value": "Astrologer"
+	},
+	{
+		"Id": 288105,
+		"Value": "Prophet"
+	},
+	{
+		"Id": 288106,
+		"Value": "Confessor"
+	},
+	{
+		"Id": 288107,
+		"Value": "Samurai"
+	},
+	{
+		"Id": 288108,
+		"Value": "Prisoner"
+	},
+	{
+		"Id": 288109,
+		"Value": "Wretch"
+	},
+	{
+		"Id": 288500,
+		"Value": "Please choose a body type"
+	},
+	{
+		"Id": 288501,
+		"Value": "Type A"
+	},
+	{
+		"Id": 288502,
+		"Value": "Type B"
+	},
+	{
+		"Id": 290000,
+		"Value": "Create Character"
+	},
+	{
+		"Id": 290001,
+		"Value": "Cosmetics"
+	},
+	{
+		"Id": 290002,
+		"Value": "Cosmetics"
+	},
+	{
+		"Id": 290010,
+		"Value": " > "
+	},
+	{
+		"Id": 290990,
+		"Value": "Enter name"
+	},
+	{
+		"Id": 291000,
+		"Value": "Name"
+	},
+	{
+		"Id": 291001,
+		"Value": "Body Type"
+	},
+	{
+		"Id": 291002,
+		"Value": "Age"
+	},
+	{
+		"Id": 291003,
+		"Value": "Voice"
+	},
+	{
+		"Id": 291010,
+		"Value": "Origin"
+	},
+	{
+		"Id": 291011,
+		"Value": "Keepsake"
+	},
+	{
+		"Id": 291020,
+		"Value": "Choose Base Template"
+	},
+	{
+		"Id": 291021,
+		"Value": "Alter Face & Hair"
+	},
+	{
+		"Id": 291022,
+		"Value": "Alter Body"
+	},
+	{
+		"Id": 291023,
+		"Value": "Alter Skin Color"
+	},
+	{
+		"Id": 291025,
+		"Value": "Detailed Appearance"
+	},
+	{
+		"Id": 291030,
+		"Value": "Save to Favorites"
+	},
+	{
+		"Id": 291031,
+		"Value": "Load Favorite"
+	},
+	{
+		"Id": 291050,
+		"Value": "Finish"
+	},
+	{
+		"Id": 291051,
+		"Value": "Finish Cosmetics"
+	},
+	{
+		"Id": 291052,
+		"Value": "Finish Cosmetics"
+	},
+	{
+		"Id": 292000,
+		"Value": "Adjust Face Template"
+	},
+	{
+		"Id": 292001,
+		"Value": "Face Structure"
+	},
+	{
+		"Id": 292010,
+		"Value": "Hair"
+	},
+	{
+		"Id": 292011,
+		"Value": "Eyebrows"
+	},
+	{
+		"Id": 292012,
+		"Value": "Facial Hair"
+	},
+	{
+		"Id": 292013,
+		"Value": "Eyelashes"
+	},
+	{
+		"Id": 292020,
+		"Value": "Eyes"
+	},
+	{
+		"Id": 292025,
+		"Value": "Skin Features"
+	},
+	{
+		"Id": 292030,
+		"Value": "Cosmetics"
+	},
+	{
+		"Id": 292040,
+		"Value": "Tattoo/Mark/Eyepatch"
+	},
+	{
+		"Id": 292050,
+		"Value": "Similar Face"
+	},
+	{
+		"Id": 292060,
+		"Value": "Head"
+	},
+	{
+		"Id": 292061,
+		"Value": "Chest"
+	},
+	{
+		"Id": 292062,
+		"Value": "Abdomen"
+	},
+	{
+		"Id": 292063,
+		"Value": "Arms"
+	},
+	{
+		"Id": 292064,
+		"Value": "Legs"
+	},
+	{
+		"Id": 292070,
+		"Value": "Body Hair"
+	},
+	{
+		"Id": 292071,
+		"Value": "Body Hair Color"
+	},
+	{
+		"Id": 292072,
+		"Value": "Musculature"
+	},
+	{
+		"Id": 292080,
+		"Value": "Burn Marks"
+	},
+	{
+		"Id": 293000,
+		"Value": "Bone Structure"
+	},
+	{
+		"Id": 293001,
+		"Value": "Form Emphasis"
+	},
+	{
+		"Id": 293002,
+		"Value": "Apparent Age"
+	},
+	{
+		"Id": 293003,
+		"Value": "Facial Aesthetic"
+	},
+	{
+		"Id": 293010,
+		"Value": "Facial Balance"
+	},
+	{
+		"Id": 293011,
+		"Value": "Forehead/Glabella"
+	},
+	{
+		"Id": 293012,
+		"Value": "Brow Ridge"
+	},
+	{
+		"Id": 293013,
+		"Value": "Eyes"
+	},
+	{
+		"Id": 293014,
+		"Value": "Nose Ridge"
+	},
+	{
+		"Id": 293015,
+		"Value": "Nostrils"
+	},
+	{
+		"Id": 293016,
+		"Value": "Cheeks"
+	},
+	{
+		"Id": 293017,
+		"Value": "Lips"
+	},
+	{
+		"Id": 293018,
+		"Value": "Mouth"
+	},
+	{
+		"Id": 293019,
+		"Value": "Chin"
+	},
+	{
+		"Id": 293020,
+		"Value": "Jaw"
+	},
+	{
+		"Id": 293100,
+		"Value": "Hair"
+	},
+	{
+		"Id": 293101,
+		"Value": "Hair Color"
+	},
+	{
+		"Id": 293102,
+		"Value": "Luster"
+	},
+	{
+		"Id": 293103,
+		"Value": "Root Darkness"
+	},
+	{
+		"Id": 293104,
+		"Value": "White Hairs"
+	},
+	{
+		"Id": 293110,
+		"Value": "Brow"
+	},
+	{
+		"Id": 293111,
+		"Value": "Brow Color"
+	},
+	{
+		"Id": 293112,
+		"Value": "Luster"
+	},
+	{
+		"Id": 293113,
+		"Value": "Root Darkness"
+	},
+	{
+		"Id": 293114,
+		"Value": "White Hairs"
+	},
+	{
+		"Id": 293120,
+		"Value": "Beard"
+	},
+	{
+		"Id": 293121,
+		"Value": "Beard Color"
+	},
+	{
+		"Id": 293122,
+		"Value": "Luster"
+	},
+	{
+		"Id": 293123,
+		"Value": "Root Darkness"
+	},
+	{
+		"Id": 293124,
+		"Value": "White Hairs"
+	},
+	{
+		"Id": 293125,
+		"Value": "Stubble"
+	},
+	{
+		"Id": 293130,
+		"Value": "Eyelashes"
+	},
+	{
+		"Id": 293131,
+		"Value": "Eyelash Color"
+	},
+	{
+		"Id": 293140,
+		"Value": "Right Iris Size"
+	},
+	{
+		"Id": 293141,
+		"Value": "Right Iris Color"
+	},
+	{
+		"Id": 293142,
+		"Value": "R Eye Clouding"
+	},
+	{
+		"Id": 293143,
+		"Value": "R Clouding Color"
+	},
+	{
+		"Id": 293144,
+		"Value": "R Eye White Color"
+	},
+	{
+		"Id": 293145,
+		"Value": "R Eye Position"
+	},
+	{
+		"Id": 293150,
+		"Value": "Left Iris Size"
+	},
+	{
+		"Id": 293151,
+		"Value": "Left Iris Color"
+	},
+	{
+		"Id": 293152,
+		"Value": "L Eye Clouding"
+	},
+	{
+		"Id": 293153,
+		"Value": "L Clouding Color"
+	},
+	{
+		"Id": 293154,
+		"Value": "L Eye White Color"
+	},
+	{
+		"Id": 293155,
+		"Value": "L Eye Position"
+	},
+	{
+		"Id": 293156,
+		"Value": "Eye Alteration"
+	},
+	{
+		"Id": 293160,
+		"Value": "Pores"
+	},
+	{
+		"Id": 293161,
+		"Value": "Skin Luster"
+	},
+	{
+		"Id": 293162,
+		"Value": "Dark Circles"
+	},
+	{
+		"Id": 293163,
+		"Value": "Dark Circle Color"
+	},
+	{
+		"Id": 293164,
+		"Value": "Cheeks"
+	},
+	{
+		"Id": 293165,
+		"Value": "Cheek Color"
+	},
+	{
+		"Id": 293166,
+		"Value": "Eyeliner"
+	},
+	{
+		"Id": 293167,
+		"Value": "Eyeliner Color"
+	},
+	{
+		"Id": 293168,
+		"Value": "Eyeshadow (Upper)"
+	},
+	{
+		"Id": 293169,
+		"Value": "Eyeshadow Color (Upper)"
+	},
+	{
+		"Id": 293170,
+		"Value": "Eyeshadow (Lower)"
+	},
+	{
+		"Id": 293171,
+		"Value": "Eyeshadow Color (Lower)"
+	},
+	{
+		"Id": 293172,
+		"Value": "Lipstick"
+	},
+	{
+		"Id": 293173,
+		"Value": "Lipstick Color"
+	},
+	{
+		"Id": 293180,
+		"Value": "Tattoo/Mark"
+	},
+	{
+		"Id": 293181,
+		"Value": "Tattoo/Mark Color"
+	},
+	{
+		"Id": 293182,
+		"Value": "Tweak Tattoo/Mark"
+	},
+	{
+		"Id": 293190,
+		"Value": "Eyepatch"
+	},
+	{
+		"Id": 293191,
+		"Value": "Eyepatch Color"
+	},
+	{
+		"Id": 294050,
+		"Value": "Nose Size"
+	},
+	{
+		"Id": 294051,
+		"Value": "Nose/Forehead Ratio"
+	},
+	{
+		"Id": 294052,
+		"Value": "Face Protrusion"
+	},
+	{
+		"Id": 294053,
+		"Value": "Vert. Face Ratio"
+	},
+	{
+		"Id": 294054,
+		"Value": "Facial Feature Slant"
+	},
+	{
+		"Id": 294055,
+		"Value": "Horiz. Face Ratio"
+	},
+	{
+		"Id": 294060,
+		"Value": "Forehead Depth"
+	},
+	{
+		"Id": 294061,
+		"Value": "Forehead Protrusion"
+	},
+	{
+		"Id": 294062,
+		"Value": "Nose Bridge Height"
+	},
+	{
+		"Id": 294063,
+		"Value": "Bridge Protrusion 1"
+	},
+	{
+		"Id": 294064,
+		"Value": "Bridge Protrusion 2"
+	},
+	{
+		"Id": 294065,
+		"Value": "Nose Bridge Width"
+	},
+	{
+		"Id": 294070,
+		"Value": "Brow Ridge Height"
+	},
+	{
+		"Id": 294071,
+		"Value": "Inner Brow Ridge"
+	},
+	{
+		"Id": 294072,
+		"Value": "Outer Brow Ridge"
+	},
+	{
+		"Id": 294080,
+		"Value": "Eye Position"
+	},
+	{
+		"Id": 294081,
+		"Value": "Eye Size"
+	},
+	{
+		"Id": 294082,
+		"Value": "Eye Slant"
+	},
+	{
+		"Id": 294083,
+		"Value": "Eye Spacing"
+	},
+	{
+		"Id": 294090,
+		"Value": "Nose Ridge Depth"
+	},
+	{
+		"Id": 294091,
+		"Value": "Nose Ridge Length"
+	},
+	{
+		"Id": 294092,
+		"Value": "Nose Position"
+	},
+	{
+		"Id": 294093,
+		"Value": "Nose Tip Height"
+	},
+	{
+		"Id": 294094,
+		"Value": "Nose Protrusion"
+	},
+	{
+		"Id": 294095,
+		"Value": "Nose Height"
+	},
+	{
+		"Id": 294096,
+		"Value": "Nose Slant"
+	},
+	{
+		"Id": 294100,
+		"Value": "Nostril Slant"
+	},
+	{
+		"Id": 294101,
+		"Value": "Nostril Size"
+	},
+	{
+		"Id": 294102,
+		"Value": "Nostril Width"
+	},
+	{
+		"Id": 294110,
+		"Value": "Cheekbone Height"
+	},
+	{
+		"Id": 294111,
+		"Value": "Cheekbone Depth"
+	},
+	{
+		"Id": 294112,
+		"Value": "Cheekbone Width"
+	},
+	{
+		"Id": 294113,
+		"Value": "Cheekbone Protrusion"
+	},
+	{
+		"Id": 294114,
+		"Value": "Cheeks"
+	},
+	{
+		"Id": 294120,
+		"Value": "Lip Shape"
+	},
+	{
+		"Id": 294121,
+		"Value": "Mouth Expression"
+	},
+	{
+		"Id": 294122,
+		"Value": "Lip Fullness"
+	},
+	{
+		"Id": 294123,
+		"Value": "Lip Size"
+	},
+	{
+		"Id": 294124,
+		"Value": "Lip Protrusion"
+	},
+	{
+		"Id": 294125,
+		"Value": "Lip Thickness"
+	},
+	{
+		"Id": 294130,
+		"Value": "Mouth Protrusion"
+	},
+	{
+		"Id": 294131,
+		"Value": "Mouth Slant"
+	},
+	{
+		"Id": 294132,
+		"Value": "Occlusion"
+	},
+	{
+		"Id": 294133,
+		"Value": "Mouth Position"
+	},
+	{
+		"Id": 294134,
+		"Value": "Mouth Width"
+	},
+	{
+		"Id": 294135,
+		"Value": "Mouth-Chin Distance"
+	},
+	{
+		"Id": 294140,
+		"Value": "Chin Tip Position"
+	},
+	{
+		"Id": 294141,
+		"Value": "Chin Length"
+	},
+	{
+		"Id": 294142,
+		"Value": "Chin Protrusion"
+	},
+	{
+		"Id": 294143,
+		"Value": "Chin Depth"
+	},
+	{
+		"Id": 294144,
+		"Value": "Chin Size"
+	},
+	{
+		"Id": 294145,
+		"Value": "Chin Height"
+	},
+	{
+		"Id": 294146,
+		"Value": "Chin Width"
+	},
+	{
+		"Id": 294150,
+		"Value": "Jaw Protrusion"
+	},
+	{
+		"Id": 294151,
+		"Value": "Jaw Width"
+	},
+	{
+		"Id": 294152,
+		"Value": "Lower Jaw"
+	},
+	{
+		"Id": 294153,
+		"Value": "Jaw Contour"
+	},
+	{
+		"Id": 294160,
+		"Value": "Position (Vert.)"
+	},
+	{
+		"Id": 294161,
+		"Value": "Position (Horiz.)"
+	},
+	{
+		"Id": 294162,
+		"Value": "Angle"
+	},
+	{
+		"Id": 294163,
+		"Value": "Expansion"
+	},
+	{
+		"Id": 294164,
+		"Value": "Flip"
+	},
+	{
+		"Id": 296009,
+		"Value": "Change Value"
+	},
+	{
+		"Id": 296010,
+		"Value": "Match Right Eye"
+	},
+	{
+		"Id": 296011,
+		"Value": "Match Left Eye"
+	},
+	{
+		"Id": 296100,
+		"Value": "Small"
+	},
+	{
+		"Id": 296101,
+		"Value": "Large"
+	},
+	{
+		"Id": 296102,
+		"Value": "Small"
+	},
+	{
+		"Id": 296103,
+		"Value": "Large"
+	},
+	{
+		"Id": 296104,
+		"Value": "Small"
+	},
+	{
+		"Id": 296105,
+		"Value": "Large"
+	},
+	{
+		"Id": 296106,
+		"Value": "Small"
+	},
+	{
+		"Id": 296107,
+		"Value": "Large"
+	},
+	{
+		"Id": 296108,
+		"Value": "Small"
+	},
+	{
+		"Id": 296109,
+		"Value": "Large"
+	},
+	{
+		"Id": 296110,
+		"Value": "Sparse"
+	},
+	{
+		"Id": 296111,
+		"Value": "Abundant"
+	},
+	{
+		"Id": 296112,
+		"Value": "Weak"
+	},
+	{
+		"Id": 296113,
+		"Value": "Strong"
+	},
+	{
+		"Id": 296114,
+		"Value": "Young"
+	},
+	{
+		"Id": 296115,
+		"Value": "Aged"
+	},
+	{
+		"Id": 296116,
+		"Value": "Masculine"
+	},
+	{
+		"Id": 296117,
+		"Value": "Feminine"
+	},
+	{
+		"Id": 296118,
+		"Value": "Gentle"
+	},
+	{
+		"Id": 296119,
+		"Value": "Strong"
+	},
+	{
+		"Id": 296120,
+		"Value": "Light"
+	},
+	{
+		"Id": 296121,
+		"Value": "Dark"
+	},
+	{
+		"Id": 296122,
+		"Value": "Sparse"
+	},
+	{
+		"Id": 296123,
+		"Value": "Abundant"
+	},
+	{
+		"Id": 296124,
+		"Value": "Gentle"
+	},
+	{
+		"Id": 296125,
+		"Value": "Strong"
+	},
+	{
+		"Id": 296126,
+		"Value": "Light"
+	},
+	{
+		"Id": 296127,
+		"Value": "Dark"
+	},
+	{
+		"Id": 296128,
+		"Value": "Sparse"
+	},
+	{
+		"Id": 296129,
+		"Value": "Abundant"
+	},
+	{
+		"Id": 296130,
+		"Value": "Gentle"
+	},
+	{
+		"Id": 296131,
+		"Value": "Strong"
+	},
+	{
+		"Id": 296132,
+		"Value": "Light"
+	},
+	{
+		"Id": 296133,
+		"Value": "Dark"
+	},
+	{
+		"Id": 296134,
+		"Value": "Sparse"
+	},
+	{
+		"Id": 296135,
+		"Value": "Abundant"
+	},
+	{
+		"Id": 296136,
+		"Value": "Thin"
+	},
+	{
+		"Id": 296137,
+		"Value": "Thick"
+	},
+	{
+		"Id": 296138,
+		"Value": "Small"
+	},
+	{
+		"Id": 296139,
+		"Value": "Large"
+	},
+	{
+		"Id": 296140,
+		"Value": "Clear"
+	},
+	{
+		"Id": 296141,
+		"Value": "Opaque"
+	},
+	{
+		"Id": 296142,
+		"Value": "Close"
+	},
+	{
+		"Id": 296143,
+		"Value": "Far"
+	},
+	{
+		"Id": 296144,
+		"Value": "Small"
+	},
+	{
+		"Id": 296145,
+		"Value": "Large"
+	},
+	{
+		"Id": 296146,
+		"Value": "Clear"
+	},
+	{
+		"Id": 296147,
+		"Value": "Opaque"
+	},
+	{
+		"Id": 296148,
+		"Value": "Close"
+	},
+	{
+		"Id": 296149,
+		"Value": "Far"
+	},
+	{
+		"Id": 296150,
+		"Value": "Closed"
+	},
+	{
+		"Id": 296151,
+		"Value": "Open"
+	},
+	{
+		"Id": 296152,
+		"Value": "Plain"
+	},
+	{
+		"Id": 296153,
+		"Value": "Lustrous"
+	},
+	{
+		"Id": 296154,
+		"Value": "Light"
+	},
+	{
+		"Id": 296155,
+		"Value": "Dark"
+	},
+	{
+		"Id": 296156,
+		"Value": "Light"
+	},
+	{
+		"Id": 296157,
+		"Value": "Dark"
+	},
+	{
+		"Id": 296158,
+		"Value": "Light"
+	},
+	{
+		"Id": 296159,
+		"Value": "Dark"
+	},
+	{
+		"Id": 296160,
+		"Value": "Light"
+	},
+	{
+		"Id": 296161,
+		"Value": "Dark"
+	},
+	{
+		"Id": 296162,
+		"Value": "Light"
+	},
+	{
+		"Id": 296163,
+		"Value": "Dark"
+	},
+	{
+		"Id": 296164,
+		"Value": "Subtle"
+	},
+	{
+		"Id": 296165,
+		"Value": "Vibrant"
+	},
+	{
+		"Id": 296166,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296167,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296168,
+		"Value": "Nose"
+	},
+	{
+		"Id": 296169,
+		"Value": "Forehead"
+	},
+	{
+		"Id": 296170,
+		"Value": "Concave"
+	},
+	{
+		"Id": 296171,
+		"Value": "Convex"
+	},
+	{
+		"Id": 296172,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296173,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296174,
+		"Value": "Down"
+	},
+	{
+		"Id": 296175,
+		"Value": "Up"
+	},
+	{
+		"Id": 296176,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296177,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296178,
+		"Value": "Slight"
+	},
+	{
+		"Id": 296179,
+		"Value": "Deep"
+	},
+	{
+		"Id": 296180,
+		"Value": "Concave"
+	},
+	{
+		"Id": 296181,
+		"Value": "Convex"
+	},
+	{
+		"Id": 296182,
+		"Value": "Low"
+	},
+	{
+		"Id": 296183,
+		"Value": "High"
+	},
+	{
+		"Id": 296184,
+		"Value": "Concave"
+	},
+	{
+		"Id": 296185,
+		"Value": "Convex"
+	},
+	{
+		"Id": 296186,
+		"Value": "Concave"
+	},
+	{
+		"Id": 296187,
+		"Value": "Convex"
+	},
+	{
+		"Id": 296188,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296189,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296190,
+		"Value": "Low"
+	},
+	{
+		"Id": 296191,
+		"Value": "High"
+	},
+	{
+		"Id": 296192,
+		"Value": "Low"
+	},
+	{
+		"Id": 296193,
+		"Value": "High"
+	},
+	{
+		"Id": 296194,
+		"Value": "Low"
+	},
+	{
+		"Id": 296195,
+		"Value": "High"
+	},
+	{
+		"Id": 296196,
+		"Value": "Down"
+	},
+	{
+		"Id": 296197,
+		"Value": "Up"
+	},
+	{
+		"Id": 296198,
+		"Value": "Small"
+	},
+	{
+		"Id": 296199,
+		"Value": "Large"
+	},
+	{
+		"Id": 296200,
+		"Value": "In"
+	},
+	{
+		"Id": 296201,
+		"Value": "Out"
+	},
+	{
+		"Id": 296202,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296203,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296204,
+		"Value": "Slight"
+	},
+	{
+		"Id": 296205,
+		"Value": "Deep"
+	},
+	{
+		"Id": 296206,
+		"Value": "Short"
+	},
+	{
+		"Id": 296207,
+		"Value": "Long"
+	},
+	{
+		"Id": 296208,
+		"Value": "Down"
+	},
+	{
+		"Id": 296209,
+		"Value": "Up"
+	},
+	{
+		"Id": 296210,
+		"Value": "Low"
+	},
+	{
+		"Id": 296211,
+		"Value": "High"
+	},
+	{
+		"Id": 296212,
+		"Value": "Concave"
+	},
+	{
+		"Id": 296213,
+		"Value": "Convex"
+	},
+	{
+		"Id": 296214,
+		"Value": "Low"
+	},
+	{
+		"Id": 296215,
+		"Value": "High"
+	},
+	{
+		"Id": 296216,
+		"Value": "Down"
+	},
+	{
+		"Id": 296217,
+		"Value": "Up"
+	},
+	{
+		"Id": 296218,
+		"Value": "Down"
+	},
+	{
+		"Id": 296219,
+		"Value": "Up"
+	},
+	{
+		"Id": 296220,
+		"Value": "Small"
+	},
+	{
+		"Id": 296221,
+		"Value": "Large"
+	},
+	{
+		"Id": 296222,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296223,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296224,
+		"Value": "Small"
+	},
+	{
+		"Id": 296225,
+		"Value": "Large"
+	},
+	{
+		"Id": 296226,
+		"Value": "Low"
+	},
+	{
+		"Id": 296227,
+		"Value": "High"
+	},
+	{
+		"Id": 296228,
+		"Value": "Slight"
+	},
+	{
+		"Id": 296229,
+		"Value": "Deep"
+	},
+	{
+		"Id": 296230,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296231,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296232,
+		"Value": "Concave"
+	},
+	{
+		"Id": 296233,
+		"Value": "Convex"
+	},
+	{
+		"Id": 296234,
+		"Value": "Thin"
+	},
+	{
+		"Id": 296235,
+		"Value": "Thick"
+	},
+	{
+		"Id": 296236,
+		"Value": "Purse"
+	},
+	{
+		"Id": 296237,
+		"Value": "Open"
+	},
+	{
+		"Id": 296238,
+		"Value": "Sad"
+	},
+	{
+		"Id": 296239,
+		"Value": "Happy"
+	},
+	{
+		"Id": 296240,
+		"Value": "Small"
+	},
+	{
+		"Id": 296241,
+		"Value": "Large"
+	},
+	{
+		"Id": 296242,
+		"Value": "Small"
+	},
+	{
+		"Id": 296243,
+		"Value": "Large"
+	},
+	{
+		"Id": 296244,
+		"Value": "Concave"
+	},
+	{
+		"Id": 296245,
+		"Value": "Convex"
+	},
+	{
+		"Id": 296246,
+		"Value": "Thin"
+	},
+	{
+		"Id": 296247,
+		"Value": "Thick"
+	},
+	{
+		"Id": 296248,
+		"Value": "Concave"
+	},
+	{
+		"Id": 296249,
+		"Value": "Convex"
+	},
+	{
+		"Id": 296250,
+		"Value": "Down"
+	},
+	{
+		"Id": 296251,
+		"Value": "Up"
+	},
+	{
+		"Id": 296252,
+		"Value": "Down"
+	},
+	{
+		"Id": 296253,
+		"Value": "Up"
+	},
+	{
+		"Id": 296254,
+		"Value": "Down"
+	},
+	{
+		"Id": 296255,
+		"Value": "Up"
+	},
+	{
+		"Id": 296256,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296257,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296258,
+		"Value": "Short"
+	},
+	{
+		"Id": 296259,
+		"Value": "Long"
+	},
+	{
+		"Id": 296260,
+		"Value": "Front"
+	},
+	{
+		"Id": 296261,
+		"Value": "Back"
+	},
+	{
+		"Id": 296262,
+		"Value": "Short"
+	},
+	{
+		"Id": 296263,
+		"Value": "Long"
+	},
+	{
+		"Id": 296264,
+		"Value": "Small"
+	},
+	{
+		"Id": 296265,
+		"Value": "Large"
+	},
+	{
+		"Id": 296266,
+		"Value": "Slight"
+	},
+	{
+		"Id": 296267,
+		"Value": "Deep"
+	},
+	{
+		"Id": 296268,
+		"Value": "Small"
+	},
+	{
+		"Id": 296269,
+		"Value": "Large"
+	},
+	{
+		"Id": 296270,
+		"Value": "Low"
+	},
+	{
+		"Id": 296271,
+		"Value": "High"
+	},
+	{
+		"Id": 296272,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296273,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296274,
+		"Value": "Small"
+	},
+	{
+		"Id": 296275,
+		"Value": "Large"
+	},
+	{
+		"Id": 296276,
+		"Value": "Narrow"
+	},
+	{
+		"Id": 296277,
+		"Value": "Wide"
+	},
+	{
+		"Id": 296278,
+		"Value": "Low"
+	},
+	{
+		"Id": 296279,
+		"Value": "High"
+	},
+	{
+		"Id": 296280,
+		"Value": "Thin"
+	},
+	{
+		"Id": 296281,
+		"Value": "Thick"
+	},
+	{
+		"Id": 296282,
+		"Value": "Down"
+	},
+	{
+		"Id": 296283,
+		"Value": "Up"
+	},
+	{
+		"Id": 296284,
+		"Value": "Left"
+	},
+	{
+		"Id": 296285,
+		"Value": "Right"
+	},
+	{
+		"Id": 296286,
+		"Value": "Rotate Left"
+	},
+	{
+		"Id": 296287,
+		"Value": "Rotate Right"
+	},
+	{
+		"Id": 296288,
+		"Value": "Small"
+	},
+	{
+		"Id": 296289,
+		"Value": "Large"
+	},
+	{
+		"Id": 297100,
+		"Value": "Type A"
+	},
+	{
+		"Id": 297101,
+		"Value": "Type B"
+	},
+	{
+		"Id": 297110,
+		"Value": "Young"
+	},
+	{
+		"Id": 297111,
+		"Value": "Mature"
+	},
+	{
+		"Id": 297112,
+		"Value": "Aged"
+	},
+	{
+		"Id": 297120,
+		"Value": "Young Voice 1"
+	},
+	{
+		"Id": 297121,
+		"Value": "Mature Voice 1"
+	},
+	{
+		"Id": 297122,
+		"Value": "Aged Voice 1"
+	},
+	{
+		"Id": 297125,
+		"Value": "Young Voice 2"
+	},
+	{
+		"Id": 297126,
+		"Value": "Mature Voice 2"
+	},
+	{
+		"Id": 297127,
+		"Value": "Aged Voice 2"
+	},
+	{
+		"Id": 297130,
+		"Value": "Vagabond"
+	},
+	{
+		"Id": 297131,
+		"Value": "Warrior"
+	},
+	{
+		"Id": 297132,
+		"Value": "Hero"
+	},
+	{
+		"Id": 297133,
+		"Value": "Bandit"
+	},
+	{
+		"Id": 297134,
+		"Value": "Astrologer"
+	},
+	{
+		"Id": 297135,
+		"Value": "Prophet"
+	},
+	{
+		"Id": 297136,
+		"Value": "Samurai"
+	},
+	{
+		"Id": 297137,
+		"Value": "Prisoner"
+	},
+	{
+		"Id": 297138,
+		"Value": "Confessor"
+	},
+	{
+		"Id": 297139,
+		"Value": "Wretch"
+	},
+	{
+		"Id": 297150,
+		"Value": "None"
+	},
+	{
+		"Id": 297151,
+		"Value": "Crimson Amber Medallion"
+	},
+	{
+		"Id": 297152,
+		"Value": "Lands Between Rune"
+	},
+	{
+		"Id": 297153,
+		"Value": "Golden Seed"
+	},
+	{
+		"Id": 297154,
+		"Value": "Fanged Imp Ashes"
+	},
+	{
+		"Id": 297156,
+		"Value": "Cracked Pot"
+	},
+	{
+		"Id": 297157,
+		"Value": "Stonesword Key"
+	},
+	{
+		"Id": 297158,
+		"Value": "Bewitching Branch"
+	},
+	{
+		"Id": 297159,
+		"Value": "Boiled Prawn"
+	},
+	{
+		"Id": 297160,
+		"Value": "Shabriri's Woe"
+	},
+	{
+		"Id": 297170,
+		"Value": "Standard"
+	},
+	{
+		"Id": 297171,
+		"Value": "Muscular"
+	},
+	{
+		"Id": 297180,
+		"Value": "ON"
+	},
+	{
+		"Id": 297181,
+		"Value": "OFF"
+	},
+	{
+		"Id": 297185,
+		"Value": "ON"
+	},
+	{
+		"Id": 297186,
+		"Value": "OFF"
+	},
+	{
+		"Id": 297187,
+		"Value": "ON"
+	},
+	{
+		"Id": 297188,
+		"Value": "OFF"
+	},
+	{
+		"Id": 297200,
+		"Value": "Warrior"
+	},
+	{
+		"Id": 297201,
+		"Value": "Truth-Seeker"
+	},
+	{
+		"Id": 297202,
+		"Value": "Aristocrat"
+	},
+	{
+		"Id": 297203,
+		"Value": "Loner"
+	},
+	{
+		"Id": 297204,
+		"Value": "Northerner"
+	},
+	{
+		"Id": 297205,
+		"Value": "Seafarer"
+	},
+	{
+		"Id": 297206,
+		"Value": "Reedlander"
+	},
+	{
+		"Id": 297207,
+		"Value": "Draconian"
+	},
+	{
+		"Id": 297208,
+		"Value": "Nightfolk"
+	},
+	{
+		"Id": 297209,
+		"Value": "Numen"
+	},
+	{
+		"Id": 297220,
+		"Value": "Warrior"
+	},
+	{
+		"Id": 297221,
+		"Value": "Truth-Seeker"
+	},
+	{
+		"Id": 297222,
+		"Value": "Aristocrat"
+	},
+	{
+		"Id": 297223,
+		"Value": "Loner"
+	},
+	{
+		"Id": 297224,
+		"Value": "Northerner"
+	},
+	{
+		"Id": 297225,
+		"Value": "Seafarer"
+	},
+	{
+		"Id": 297226,
+		"Value": "Reedlander"
+	},
+	{
+		"Id": 297227,
+		"Value": "Draconian"
+	},
+	{
+		"Id": 297228,
+		"Value": "Nightfolk"
+	},
+	{
+		"Id": 297229,
+		"Value": "Numen"
+	},
+	{
+		"Id": 299005,
+		"Value": "Temporary Colors"
+	},
+	{
+		"Id": 299006,
+		"Value": "Preset Colors"
+	},
+	{
+		"Id": 299009,
+		"Value": "Change Color"
+	},
+	{
+		"Id": 299010,
+		"Value": "Match Right Eye"
+	},
+	{
+		"Id": 299011,
+		"Value": "Match Left Eye"
+	},
+	{
+		"Id": 299020,
+		"Value": "Match Hair"
+	},
+	{
+		"Id": 299050,
+		"Value": "Color Adjustment"
+	},
+	{
+		"Id": 299060,
+		"Value": "R"
+	},
+	{
+		"Id": 299061,
+		"Value": "G"
+	},
+	{
+		"Id": 299062,
+		"Value": "B"
+	},
+	{
+		"Id": 301000,
+		"Value": "Gestures"
+	},
+	{
+		"Id": 303000,
+		"Value": "NEW"
+	},
+	{
+		"Id": 310000,
+		"Value": "Write Message"
+	},
+	{
+		"Id": 310001,
+		"Value": "Messages Written"
+	},
+	{
+		"Id": 310002,
+		"Value": "Messages Discovered"
+	},
+	{
+		"Id": 311000,
+		"Value": "Appraisals"
+	},
+	{
+		"Id": 311001,
+		"Value": "Good"
+	},
+	{
+		"Id": 311002,
+		"Value": "Poor"
+	},
+	{
+		"Id": 311011,
+		"Value": "Rated Good"
+	},
+	{
+		"Id": 311012,
+		"Value": "Rated Poor"
+	},
+	{
+		"Id": 321000,
+		"Value": "Templates"
+	},
+	{
+		"Id": 321001,
+		"Value": "Words"
+	},
+	{
+		"Id": 321002,
+		"Value": "Conjunctions"
+	},
+	{
+		"Id": 321003,
+		"Value": "Templates (2nd Line)"
+	},
+	{
+		"Id": 321004,
+		"Value": "Words (2nd Line)"
+	},
+	{
+		"Id": 321005,
+		"Value": "Gestures"
+	},
+	{
+		"Id": 321006,
+		"Value": "Finish"
+	},
+	{
+		"Id": 322001,
+		"Value": "Good"
+	},
+	{
+		"Id": 322002,
+		"Value": "Poor"
+	},
+	{
+		"Id": 324001,
+		"Value": "Appraisals"
+	},
+	{
+		"Id": 331100,
+		"Value": "Host of Fingers"
+	},
+	{
+		"Id": 331101,
+		"Value": "Furled Finger"
+	},
+	{
+		"Id": 331102,
+		"Value": "Bloody Finger"
+	},
+	{
+		"Id": 331103,
+		"Value": "Duelist"
+	},
+	{
+		"Id": 331104,
+		"Value": "Recusant"
+	},
+	{
+		"Id": 331111,
+		"Value": "Hunter"
+	},
+	{
+		"Id": 331122,
+		"Value": "Furled Finger"
+	},
+	{
+		"Id": 331123,
+		"Value": "Furled Finger"
+	},
+	{
+		"Id": 331132,
+		"Value": "Duelist"
+	},
+	{
+		"Id": 331133,
+		"Value": "Duelist"
+	},
+	{
+		"Id": 331142,
+		"Value": "Bloody Finger"
+	},
+	{
+		"Id": 331143,
+		"Value": "Bloody Finger"
+	},
+	{
+		"Id": 331152,
+		"Value": "Recusant"
+	},
+	{
+		"Id": 331153,
+		"Value": "Recusant"
+	},
+	{
+		"Id": 331162,
+		"Value": "Hunter"
+	},
+	{
+		"Id": 331163,
+		"Value": "Hunter"
+	},
+	{
+		"Id": 331200,
+		"Value": "FROSTBITE"
+	},
+	{
+		"Id": 331201,
+		"Value": "BLOOD LOSS"
+	},
+	{
+		"Id": 331202,
+		"Value": "POISON"
+	},
+	{
+		"Id": 331203,
+		"Value": "SCARLET ROT"
+	},
+	{
+		"Id": 331204,
+		"Value": "SLEEP"
+	},
+	{
+		"Id": 331205,
+		"Value": "MADNESS"
+	},
+	{
+		"Id": 331207,
+		"Value": "DEATH BLIGHTED"
+	},
+	{
+		"Id": 331208,
+		"Value": "! WEAPON BROKEN !"
+	},
+	{
+		"Id": 331209,
+		"Value": "! ARMOR AT RISK !"
+	},
+	{
+		"Id": 331210,
+		"Value": "! ARMOR BROKEN !"
+	},
+	{
+		"Id": 331301,
+		"Value": "DEMIGOD FELLED"
+	},
+	{
+		"Id": 331302,
+		"Value": "LEGEND FELLED"
+	},
+	{
+		"Id": 331303,
+		"Value": "GREAT ENEMY FELLED"
+	},
+	{
+		"Id": 331304,
+		"Value": "ENEMY FELLED"
+	},
+	{
+		"Id": 331305,
+		"Value": "YOU DIED"
+	},
+	{
+		"Id": 331306,
+		"Value": "Enemy Defeated "
+	},
+	{
+		"Id": 331307,
+		"Value": "HOST VANQUISHED"
+	},
+	{
+		"Id": 331308,
+		"Value": "BLOODY FINGER VANQUISHED"
+	},
+	{
+		"Id": 331309,
+		"Value": "DUTY FULFILLED"
+	},
+	{
+		"Id": 331311,
+		"Value": "LOST GRACE DISCOVERED"
+	},
+	{
+		"Id": 331313,
+		"Value": "Enemy Defeated "
+	},
+	{
+		"Id": 331314,
+		"Value": "Enemy Defeated "
+	},
+	{
+		"Id": 331315,
+		"Value": "Enemy Defeated "
+	},
+	{
+		"Id": 331316,
+		"Value": "Enemy Defeated "
+	},
+	{
+		"Id": 331317,
+		"Value": "MAP FOUND"
+	},
+	{
+		"Id": 331318,
+		"Value": "REDEEMER DIED"
+	},
+	{
+		"Id": 331321,
+		"Value": "GREAT RUNE RESTORED"
+	},
+	{
+		"Id": 331322,
+		"Value": "GOD SLAIN"
+	},
+	{
+		"Id": 331323,
+		"Value": "DUELIST VANQUISHED"
+	},
+	{
+		"Id": 331324,
+		"Value": "RECUSANT VANQUISHED"
+	},
+	{
+		"Id": 331325,
+		"Value": "INVADER VANQUISHED"
+	},
+	{
+		"Id": 331330,
+		"Value": "FURLED FINGER RANK ADVANCED"
+	},
+	{
+		"Id": 331331,
+		"Value": "FURLED FINGER RANK ADVANCED"
+	},
+	{
+		"Id": 331332,
+		"Value": "DUELIST RANK ADVANCED"
+	},
+	{
+		"Id": 331333,
+		"Value": "DUELIST RANK ADVANCED"
+	},
+	{
+		"Id": 331334,
+		"Value": "BLOODY FINGER RANK ADVANCED"
+	},
+	{
+		"Id": 331335,
+		"Value": "BLOODY FINGER RANK ADVANCED"
+	},
+	{
+		"Id": 331336,
+		"Value": "RECUSANT RANK ADVANCED"
+	},
+	{
+		"Id": 331337,
+		"Value": "RECUSANT RANK ADVANCED"
+	},
+	{
+		"Id": 331338,
+		"Value": "HUNTER RANK ADVANCED"
+	},
+	{
+		"Id": 331339,
+		"Value": "HUNTER RANK ADVANCED"
+	},
+	{
+		"Id": 400000,
+		"Value": " "
+	},
+	{
+		"Id": 401001,
+		"Value": "©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc."
+	},
+	{
+		"Id": 401002,
+		"Value": "ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc."
+	},
+	{
+		"Id": 401100,
+		"Value": "™"
+	},
+	{
+		"Id": 401301,
+		"Value": "CONTINUE"
+	},
+	{
+		"Id": 401302,
+		"Value": "LOAD GAME"
+	},
+	{
+		"Id": 401303,
+		"Value": "NEW GAME"
+	},
+	{
+		"Id": 401304,
+		"Value": "SYSTEM"
+	},
+	{
+		"Id": 401305,
+		"Value": "INFORMATION"
+	},
+	{
+		"Id": 401306,
+		"Value": "LOG IN"
+	},
+	{
+		"Id": 401307,
+		"Value": "SWITCH PROFILE"
+	},
+	{
+		"Id": 401309,
+		"Value": "QUIT GAME"
+	},
+	{
+		"Id": 401310,
+		"Value": "ONLINE"
+	},
+	{
+		"Id": 401311,
+		"Value": "OFFLINE"
+	},
+	{
+		"Id": 401312,
+		"Value": "PRE-ORDER"
+	},
+	{
+		"Id": 401313,
+		"Value": "CONVERT SAVE DATA"
+	},
+	{
+		"Id": 401320,
+		"Value": "App Ver."
+	},
+	{
+		"Id": 401321,
+		"Value": "Server Ver."
+	},
+	{
+		"Id": 401322,
+		"Value": "Calibrations Ver."
+	},
+	{
+		"Id": 401400,
+		"Value": "INFORMATION"
+	},
+	{
+		"Id": 401401,
+		"Value": "There is no new information"
+	},
+	{
+		"Id": 401500,
+		"Value": "TERMS OF SERVICE FOR ONLINE SERVICES FOR ELDEN RING"
+	},
+	{
+		"Id": 401510,
+		"Value": "Accept"
+	},
+	{
+		"Id": 401511,
+		"Value": "Decline"
+	},
+	{
+		"Id": 401900,
+		"Value": "Network Test"
+	},
+	{
+		"Id": 401901,
+		"Value": "This game is still under development"
+	},
+	{
+		"Id": 401904,
+		"Value": "An internet connection is required to play the Network Test"
+	},
+	{
+		"Id": 406000,
+		"Value": "LOAD GAME"
+	},
+	{
+		"Id": 406001,
+		"Value": "NEW GAME"
+	},
+	{
+		"Id": 502000,
+		"Value": "Send selected player back home"
+	}
+]

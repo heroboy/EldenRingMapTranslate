@@ -1,0 +1,150 @@
+[
+	{
+		"Id": 50030000,
+		"Value": "Thin, whittled animal bone with feather fletchings"
+	},
+	{
+		"Id": 50110000,
+		"Value": "Arrow whittled from thin animal bone"
+	},
+	{
+		"Id": 50130000,
+		"Value": "Fletched animal bone arrow set alight when shot"
+	},
+	{
+		"Id": 50140000,
+		"Value": "Animal bone arrow set alight when shot"
+	},
+	{
+		"Id": 50150000,
+		"Value": "Fletched animal bone arrow with poison-daubed tip"
+	},
+	{
+		"Id": 50160000,
+		"Value": "Animal bone arrow with poison-daubed tip"
+	},
+	{
+		"Id": 50170000,
+		"Value": "Fletched animal bone arrow with waterlily tincture tip"
+	},
+	{
+		"Id": 50180000,
+		"Value": "Animal bone arrow with waterlily tincture tip"
+	},
+	{
+		"Id": 50190000,
+		"Value": "Bone arrow fletched with stormhawk feathers"
+	},
+	{
+		"Id": 50200000,
+		"Value": "Fletched animal bone arrow charged with lightning"
+	},
+	{
+		"Id": 50210000,
+		"Value": "Animal bone arrow charged with lightning"
+	},
+	{
+		"Id": 50220000,
+		"Value": "Animal bone arrow tipped with Rainbow Stone shard"
+	},
+	{
+		"Id": 50230000,
+		"Value": "Animal bone arrow tipped with crystal shard"
+	},
+	{
+		"Id": 50250000,
+		"Value": "Animal bone arrow, gust knocks enemies away"
+	},
+	{
+		"Id": 50260000,
+		"Value": "Fletched bone arrow with glintstone tincture tip"
+	},
+	{
+		"Id": 50270000,
+		"Value": "Animal bone arrow with glintstone tincture tip"
+	},
+	{
+		"Id": 50280000,
+		"Value": "Fletched bone arrow with gold tincture tip"
+	},
+	{
+		"Id": 50290000,
+		"Value": "Animal bone arrow with gold tincture tip"
+	},
+	{
+		"Id": 50300000,
+		"Value": "Fletched bone arrow with blood tincture tip"
+	},
+	{
+		"Id": 50310000,
+		"Value": "Animal bone arrow with blood tincture tip"
+	},
+	{
+		"Id": 50320000,
+		"Value": "Fletched bone arrow with frozen tip"
+	},
+	{
+		"Id": 50330000,
+		"Value": "Animal bone arrow with frozen tip"
+	},
+	{
+		"Id": 50340000,
+		"Value": "Fletched bone arrow with rot-coated tip"
+	},
+	{
+		"Id": 50350000,
+		"Value": "Animal bone arrow with rot-coated tip"
+	},
+	{
+		"Id": 51050000,
+		"Value": "Thick, whittled bone arrow with feather fletchings"
+	},
+	{
+		"Id": 51060000,
+		"Value": "Thick, whittled animal bone arrow, large as a spear"
+	},
+	{
+		"Id": 52090000,
+		"Value": "Thin, whittled animal bone bolt"
+	},
+	{
+		"Id": 52100000,
+		"Value": "Animal bone bolt set alight when shot"
+	},
+	{
+		"Id": 52110000,
+		"Value": "Animal bone bolt with lightning-imbued tip"
+	},
+	{
+		"Id": 52120000,
+		"Value": "Animal bone bolt with glintstone tincture tip"
+	},
+	{
+		"Id": 52130000,
+		"Value": "Animal bone bolt with gold tincture tip"
+	},
+	{
+		"Id": 52140000,
+		"Value": "Animal bone bolt with poison-coated tip"
+	},
+	{
+		"Id": 52150000,
+		"Value": "Animal bone bolt with blood tincture tip"
+	},
+	{
+		"Id": 52160000,
+		"Value": "Animal bone bolt with frozen tip"
+	},
+	{
+		"Id": 52170000,
+		"Value": "Animal bone bolt with rot-coated tip"
+	},
+	{
+		"Id": 52180000,
+		"Value": "Animal bone bolt with waterlily tincture tip"
+	},
+	{
+		"Id": 53030000,
+		"Value": "Thick, whittled bone bolt, large as a spear"
+	}
+]

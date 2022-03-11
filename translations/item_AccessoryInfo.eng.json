@@ -1,0 +1,474 @@
+[
+	{
+		"Id": 100,
+		"Value": "Summons Stalker to face invading Broken Finger"
+	},
+	{
+		"Id": 101,
+		"Value": "Be summoned to worlds invaded by Broken Fingers"
+	},
+	{
+		"Id": 1000,
+		"Value": "Raises maximum HP"
+	},
+	{
+		"Id": 1001,
+		"Value": "Greatly raises maximum HP"
+	},
+	{
+		"Id": 1002,
+		"Value": "Vastly raises maximum HP"
+	},
+	{
+		"Id": 1010,
+		"Value": "Raises maximum FP"
+	},
+	{
+		"Id": 1011,
+		"Value": "Greatly raises maximum FP"
+	},
+	{
+		"Id": 1012,
+		"Value": "Vastly raises maximum FP"
+	},
+	{
+		"Id": 1020,
+		"Value": "Raises maximum stamina"
+	},
+	{
+		"Id": 1021,
+		"Value": "Greatly raises maximum stamina"
+	},
+	{
+		"Id": 1022,
+		"Value": "Vastly raises maximum stamina"
+	},
+	{
+		"Id": 1030,
+		"Value": "Raises maximum equipment load"
+	},
+	{
+		"Id": 1031,
+		"Value": "Greatly raises maximum equip load"
+	},
+	{
+		"Id": 1032,
+		"Value": "Vastly raises maximum equip load"
+	},
+	{
+		"Id": 1040,
+		"Value": "Raises maximum HP, stamina and equip load"
+	},
+	{
+		"Id": 1041,
+		"Value": "Raises maximum HP, stamina and equip load"
+	},
+	{
+		"Id": 1042,
+		"Value": "Raises maximum HP, stamina and equip load"
+	},
+	{
+		"Id": 1050,
+		"Value": "Raises attributes, but also increases damage taken"
+	},
+	{
+		"Id": 1051,
+		"Value": "Greatly raises attributes, but also increases damage taken"
+	},
+	{
+		"Id": 1060,
+		"Value": "Raises strength"
+	},
+	{
+		"Id": 1070,
+		"Value": "Raises dexterity"
+	},
+	{
+		"Id": 1080,
+		"Value": "Raises intelligence"
+	},
+	{
+		"Id": 1090,
+		"Value": "Raises faith"
+	},
+	{
+		"Id": 1100,
+		"Value": "Raises item discovery"
+	},
+	{
+		"Id": 1110,
+		"Value": "Increases runes obtained from defeated enemies"
+	},
+	{
+		"Id": 1140,
+		"Value": "Increases memory slots"
+	},
+	{
+		"Id": 1150,
+		"Value": "Raises stamina recovery speed"
+	},
+	{
+		"Id": 1160,
+		"Value": "Raises robustness"
+	},
+	{
+		"Id": 1161,
+		"Value": "Greatly raises robustness"
+	},
+	{
+		"Id": 1170,
+		"Value": "Raises immunity"
+	},
+	{
+		"Id": 1171,
+		"Value": "Greatly raises immunity"
+	},
+	{
+		"Id": 1180,
+		"Value": "Raises focus"
+	},
+	{
+		"Id": 1181,
+		"Value": "Greatly raises focus"
+	},
+	{
+		"Id": 1190,
+		"Value": "Raises vitality"
+	},
+	{
+		"Id": 1191,
+		"Value": "Greatly raises vitality"
+	},
+	{
+		"Id": 1200,
+		"Value": "Raises robustness, immunity, and focus"
+	},
+	{
+		"Id": 1201,
+		"Value": "Greatly raises robustness, immunity, and focus"
+	},
+	{
+		"Id": 1210,
+		"Value": "Raises poise"
+	},
+	{
+		"Id": 1220,
+		"Value": "Raises attributes, but also increases damage taken"
+	},
+	{
+		"Id": 1221,
+		"Value": "Greatly raises attributes, but also increases damage taken"
+	},
+	{
+		"Id": 1230,
+		"Value": "Boosts the attack power of skills"
+	},
+	{
+		"Id": 1231,
+		"Value": "Greatly boosts the attack power of skills"
+	},
+	{
+		"Id": 1250,
+		"Value": "Boosts dexterity, raises attack power with successive attacks"
+	},
+	{
+		"Id": 2000,
+		"Value": "Raises magic attack, but lowers damage negation"
+	},
+	{
+		"Id": 2010,
+		"Value": "Raises lightning attack, but lowers damage negation"
+	},
+	{
+		"Id": 2020,
+		"Value": "Raises fire attack, but lowers damage negation"
+	},
+	{
+		"Id": 2030,
+		"Value": "Raises holy attack, but lowers damage negation"
+	},
+	{
+		"Id": 2040,
+		"Value": "Raises attack power when HP is low"
+	},
+	{
+		"Id": 2050,
+		"Value": "Raises attack power when HP is at maximum"
+	},
+	{
+		"Id": 2060,
+		"Value": "Enhances counterattacks unique to thrusting weapons"
+	},
+	{
+		"Id": 2070,
+		"Value": "Enhances stamina-reducing attacks against blockers"
+	},
+	{
+		"Id": 2080,
+		"Value": "Raises attack power with successive attacks"
+	},
+	{
+		"Id": 2081,
+		"Value": "Greatly raises attack power with successive attacks"
+	},
+	{
+		"Id": 2090,
+		"Value": "Enhances critical hits"
+	},
+	{
+		"Id": 2100,
+		"Value": "Increases bow effective range"
+	},
+	{
+		"Id": 2110,
+		"Value": "Raises attack power with lower equipment load"
+	},
+	{
+		"Id": 2120,
+		"Value": "Enhances final hit of chain attacks"
+	},
+	{
+		"Id": 2130,
+		"Value": "Enhances charge attacks"
+	},
+	{
+		"Id": 2140,
+		"Value": "Enhances attacks on horseback"
+	},
+	{
+		"Id": 2150,
+		"Value": "Raises attack power of arrows and bolts"
+	},
+	{
+		"Id": 2160,
+		"Value": "Blood loss in vicinity increases attack power"
+	},
+	{
+		"Id": 2170,
+		"Value": "Poisoning or rot in vicinity increases attack power"
+	},
+	{
+		"Id": 2180,
+		"Value": "Enhances jump attacks"
+	},
+	{
+		"Id": 2190,
+		"Value": "Enhances roars and breath attacks"
+	},
+	{
+		"Id": 2200,
+		"Value": "Enhances guard counters"
+	},
+	{
+		"Id": 2210,
+		"Value": "Raises potency of throwing pots"
+	},
+	{
+		"Id": 2220,
+		"Value": "Raises potency of perfume items"
+	},
+	{
+		"Id": 3000,
+		"Value": "Raises potency of sorceries"
+	},
+	{
+		"Id": 3001,
+		"Value": "Greatly raises potency of sorceries"
+	},
+	{
+		"Id": 3040,
+		"Value": "Raises potency of incantations"
+	},
+	{
+		"Id": 3050,
+		"Value": "Greatly raises potency of incantations"
+	},
+	{
+		"Id": 3060,
+		"Value": "Extends spell effect duration"
+	},
+	{
+		"Id": 3070,
+		"Value": "Shortens spell casting time"
+	},
+	{
+		"Id": 3080,
+		"Value": "Spells consume less FP, but maximum HP is reduced"
+	},
+	{
+		"Id": 3090,
+		"Value": "Enhances charged spells and skills"
+	},
+	{
+		"Id": 4000,
+		"Value": "Boosts physical damage negation"
+	},
+	{
+		"Id": 4001,
+		"Value": "Greatly boosts physical damage negation"
+	},
+	{
+		"Id": 4002,
+		"Value": "Vastly boosts physical damage negation"
+	},
+	{
+		"Id": 4003,
+		"Value": "Enormously boosts physical damage negation"
+	},
+	{
+		"Id": 4010,
+		"Value": "Boosts magical damage negation"
+	},
+	{
+		"Id": 4011,
+		"Value": "Greatly boosts magical damage negation"
+	},
+	{
+		"Id": 4012,
+		"Value": "Vastly boosts magical damage negation"
+	},
+	{
+		"Id": 4020,
+		"Value": "Boosts fire damage negation"
+	},
+	{
+		"Id": 4021,
+		"Value": "Greatly boosts fire damage negation"
+	},
+	{
+		"Id": 4022,
+		"Value": "Vastly boosts fire damage negation"
+	},
+	{
+		"Id": 4030,
+		"Value": "Boosts lightning damage negation"
+	},
+	{
+		"Id": 4031,
+		"Value": "Greatly boosts lightning damage negation"
+	},
+	{
+		"Id": 4032,
+		"Value": "Vastly boosts lightning damage negation"
+	},
+	{
+		"Id": 4040,
+		"Value": "Boosts holy damage negation"
+	},
+	{
+		"Id": 4041,
+		"Value": "Greatly boosts holy damage negation"
+	},
+	{
+		"Id": 4042,
+		"Value": "Vastly boosts holy damage negation"
+	},
+	{
+		"Id": 4050,
+		"Value": "Boosts non-physical damage negation"
+	},
+	{
+		"Id": 4051,
+		"Value": "Greatly boosts non-physical damage negation"
+	},
+	{
+		"Id": 4052,
+		"Value": "Vastly boosts non-physical damage negation"
+	},
+	{
+		"Id": 4060,
+		"Value": "Reduces damage taken from critical hits"
+	},
+	{
+		"Id": 4070,
+		"Value": "Improves dodge rolling but increases damage taken"
+	},
+	{
+		"Id": 4080,
+		"Value": "Raises defense when HP is low"
+	},
+	{
+		"Id": 4090,
+		"Value": "Raises defense when HP is at maximum"
+	},
+	{
+		"Id": 4100,
+		"Value": "Boosts guarding ability"
+	},
+	{
+		"Id": 4110,
+		"Value": "Reduces damage and impact of headshots"
+	},
+	{
+		"Id": 5000,
+		"Value": "Boosts HP restoration from Flask of Crimson Tears"
+	},
+	{
+		"Id": 5010,
+		"Value": "Boosts FP restoration from Flask of Cerulean Tears"
+	},
+	{
+		"Id": 5020,
+		"Value": "Slowly restores HP"
+	},
+	{
+		"Id": 5030,
+		"Value": "Restores HP upon defeating enemies"
+	},
+	{
+		"Id": 5040,
+		"Value": "Successive attacks restore HP"
+	},
+	{
+		"Id": 5050,
+		"Value": "Critical hits restore HP"
+	},
+	{
+		"Id": 5060,
+		"Value": "Critical hits restore FP"
+	},
+	{
+		"Id": 6000,
+		"Value": "Eliminates all sound made by the wearer during movement"
+	},
+	{
+		"Id": 6010,
+		"Value": "Conceals wearer while crouching away from foes"
+	},
+	{
+		"Id": 6020,
+		"Value": "Lowers FP consumed by skills"
+	},
+	{
+		"Id": 6040,
+		"Value": "Renders the wearer immune to fall damage"
+	},
+	{
+		"Id": 6050,
+		"Value": "Constantly attracts enemies' aggression"
+	},
+	{
+		"Id": 6060,
+		"Value": "Increases damage taken"
+	},
+	{
+		"Id": 6070,
+		"Value": "Will be lost on death in place of runes"
+	},
+	{
+		"Id": 6080,
+		"Value": "Take on appearance of a Host of Fingers"
+	},
+	{
+		"Id": 6090,
+		"Value": "Take on appearance of a cooperator"
+	},
+	{
+		"Id": 6100,
+		"Value": "Changes demeanour of wearer's actions"
+	},
+	{
+		"Id": 6110,
+		"Value": "Restores FP upon defeating enemies"
+	}
+]

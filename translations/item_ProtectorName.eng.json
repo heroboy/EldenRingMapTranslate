@@ -1,0 +1,2502 @@
+[
+	{
+		"Id": 1000,
+		"Value": "Type 1"
+	},
+	{
+		"Id": 1100,
+		"Value": "Type 2"
+	},
+	{
+		"Id": 1200,
+		"Value": "Type 3"
+	},
+	{
+		"Id": 1300,
+		"Value": "Type 4"
+	},
+	{
+		"Id": 1400,
+		"Value": "Type 5"
+	},
+	{
+		"Id": 1500,
+		"Value": "Type 6"
+	},
+	{
+		"Id": 1600,
+		"Value": "Type 7"
+	},
+	{
+		"Id": 1700,
+		"Value": "Type 8"
+	},
+	{
+		"Id": 1800,
+		"Value": "Type 9"
+	},
+	{
+		"Id": 1900,
+		"Value": "Type 10"
+	},
+	{
+		"Id": 2000,
+		"Value": "Type 11"
+	},
+	{
+		"Id": 2100,
+		"Value": "Type 12"
+	},
+	{
+		"Id": 2200,
+		"Value": "Type 13"
+	},
+	{
+		"Id": 2300,
+		"Value": "Type 14"
+	},
+	{
+		"Id": 2400,
+		"Value": "Type 15"
+	},
+	{
+		"Id": 2500,
+		"Value": "Type 16"
+	},
+	{
+		"Id": 2600,
+		"Value": "Type 17"
+	},
+	{
+		"Id": 2700,
+		"Value": "Type 18"
+	},
+	{
+		"Id": 2800,
+		"Value": "Type 19"
+	},
+	{
+		"Id": 2900,
+		"Value": "Type 20"
+	},
+	{
+		"Id": 3000,
+		"Value": "Type 1"
+	},
+	{
+		"Id": 3100,
+		"Value": "Type 2"
+	},
+	{
+		"Id": 3200,
+		"Value": "Type 3"
+	},
+	{
+		"Id": 3300,
+		"Value": "Type 4"
+	},
+	{
+		"Id": 3400,
+		"Value": "Type 5"
+	},
+	{
+		"Id": 3500,
+		"Value": "Type 6"
+	},
+	{
+		"Id": 3600,
+		"Value": "Type 7"
+	},
+	{
+		"Id": 3700,
+		"Value": "Type 8"
+	},
+	{
+		"Id": 3800,
+		"Value": "Type 9"
+	},
+	{
+		"Id": 3900,
+		"Value": "Type 10"
+	},
+	{
+		"Id": 4000,
+		"Value": "Type 11"
+	},
+	{
+		"Id": 4100,
+		"Value": "Type 12"
+	},
+	{
+		"Id": 4200,
+		"Value": "Type 13"
+	},
+	{
+		"Id": 4300,
+		"Value": "Type 14"
+	},
+	{
+		"Id": 4400,
+		"Value": "Type 15"
+	},
+	{
+		"Id": 4500,
+		"Value": "Type 16"
+	},
+	{
+		"Id": 4600,
+		"Value": "Type 17"
+	},
+	{
+		"Id": 4700,
+		"Value": "Type 18"
+	},
+	{
+		"Id": 4800,
+		"Value": "Type 19"
+	},
+	{
+		"Id": 4900,
+		"Value": "Type 20"
+	},
+	{
+		"Id": 5000,
+		"Value": "Travel Hairstyle"
+	},
+	{
+		"Id": 10000,
+		"Value": "Head"
+	},
+	{
+		"Id": 10100,
+		"Value": "Body"
+	},
+	{
+		"Id": 10200,
+		"Value": "Arms"
+	},
+	{
+		"Id": 10300,
+		"Value": "Legs"
+	},
+	{
+		"Id": 40000,
+		"Value": "Iron Helmet"
+	},
+	{
+		"Id": 40100,
+		"Value": "Scale Armor"
+	},
+	{
+		"Id": 40200,
+		"Value": "Iron Gauntlets"
+	},
+	{
+		"Id": 40300,
+		"Value": "Leather Trousers"
+	},
+	{
+		"Id": 50000,
+		"Value": "Kaiden Helm"
+	},
+	{
+		"Id": 50100,
+		"Value": "Kaiden Armor"
+	},
+	{
+		"Id": 50200,
+		"Value": "Kaiden Gauntlets"
+	},
+	{
+		"Id": 50300,
+		"Value": "Kaiden Trousers"
+	},
+	{
+		"Id": 60000,
+		"Value": "Drake Knight Helm"
+	},
+	{
+		"Id": 60100,
+		"Value": "Drake Knight Armor"
+	},
+	{
+		"Id": 60200,
+		"Value": "Drake Knight Gauntlets"
+	},
+	{
+		"Id": 60300,
+		"Value": "Drake Knight Greaves"
+	},
+	{
+		"Id": 61000,
+		"Value": "Drake Knight Helm (Altered)"
+	},
+	{
+		"Id": 61100,
+		"Value": "Drake Knight Armor (Altered)"
+	},
+	{
+		"Id": 80000,
+		"Value": "Scaled Helm"
+	},
+	{
+		"Id": 80100,
+		"Value": "Scaled Armor"
+	},
+	{
+		"Id": 80200,
+		"Value": "Scaled Gauntlets"
+	},
+	{
+		"Id": 80300,
+		"Value": "Scaled Greaves"
+	},
+	{
+		"Id": 81100,
+		"Value": "Scaled Armor (Altered)"
+	},
+	{
+		"Id": 90000,
+		"Value": "Perfumer Hood"
+	},
+	{
+		"Id": 90100,
+		"Value": "Perfumer Robe"
+	},
+	{
+		"Id": 90200,
+		"Value": "Perfumer Gloves"
+	},
+	{
+		"Id": 90300,
+		"Value": "Perfumer Sarong"
+	},
+	{
+		"Id": 91100,
+		"Value": "Perfumer Robe (Altered)"
+	},
+	{
+		"Id": 100000,
+		"Value": "Traveler's Hat"
+	},
+	{
+		"Id": 100100,
+		"Value": "Perfumer's Traveling Garb"
+	},
+	{
+		"Id": 100200,
+		"Value": "Traveler's Gloves"
+	},
+	{
+		"Id": 100300,
+		"Value": "Traveler's Slops"
+	},
+	{
+		"Id": 101100,
+		"Value": "Perfumer's Traveling Garb (Altered)"
+	},
+	{
+		"Id": 120000,
+		"Value": "Alberich's Pointed Hat"
+	},
+	{
+		"Id": 120100,
+		"Value": "Alberich's Robe"
+	},
+	{
+		"Id": 120200,
+		"Value": "Alberich's Bracers"
+	},
+	{
+		"Id": 120300,
+		"Value": "Alberich's Trousers"
+	},
+	{
+		"Id": 121000,
+		"Value": "Alberich's Pointed Hat (Altered)"
+	},
+	{
+		"Id": 121100,
+		"Value": "Alberich's Robe (Altered)"
+	},
+	{
+		"Id": 130000,
+		"Value": "Spellblade's Pointed Hat"
+	},
+	{
+		"Id": 130100,
+		"Value": "Spellblade's Traveling Attire"
+	},
+	{
+		"Id": 130200,
+		"Value": "Spellblade's Gloves"
+	},
+	{
+		"Id": 130300,
+		"Value": "Spellblade's Trousers"
+	},
+	{
+		"Id": 131100,
+		"Value": "Spellblade's Traveling Attire (Altered)"
+	},
+	{
+		"Id": 140000,
+		"Value": "Bull-Goat Helm"
+	},
+	{
+		"Id": 140100,
+		"Value": "Bull-Goat Armor"
+	},
+	{
+		"Id": 140200,
+		"Value": "Bull-Goat Gauntlets"
+	},
+	{
+		"Id": 140300,
+		"Value": "Bull-Goat Greaves"
+	},
+	{
+		"Id": 150000,
+		"Value": "Iron Kasa"
+	},
+	{
+		"Id": 150100,
+		"Value": "Ronin's Armor"
+	},
+	{
+		"Id": 150200,
+		"Value": "Ronin's Gauntlets"
+	},
+	{
+		"Id": 150300,
+		"Value": "Ronin's Greaves"
+	},
+	{
+		"Id": 151100,
+		"Value": "Ronin's Armor (Altered)"
+	},
+	{
+		"Id": 160000,
+		"Value": "Guilty Hood"
+	},
+	{
+		"Id": 160100,
+		"Value": "Cloth Garb"
+	},
+	{
+		"Id": 160200,
+		"Value": "Tarnished Wrap"
+	},
+	{
+		"Id": 160300,
+		"Value": "Cloth Trousers"
+	},
+	{
+		"Id": 170000,
+		"Value": "Black Wolf Mask"
+	},
+	{
+		"Id": 170100,
+		"Value": "Blaidd's Armor"
+	},
+	{
+		"Id": 170200,
+		"Value": "Blaidd's Gauntlets"
+	},
+	{
+		"Id": 170300,
+		"Value": "Blaidd's Greaves"
+	},
+	{
+		"Id": 171100,
+		"Value": "Blaidd's Armor (Altered)"
+	},
+	{
+		"Id": 180000,
+		"Value": "Black Knife Hood"
+	},
+	{
+		"Id": 180100,
+		"Value": "Black Knife Armor"
+	},
+	{
+		"Id": 180200,
+		"Value": "Black Knife Gauntlets"
+	},
+	{
+		"Id": 180300,
+		"Value": "Black Knife Greaves"
+	},
+	{
+		"Id": 181100,
+		"Value": "Black Knife Armor (Altered)"
+	},
+	{
+		"Id": 190000,
+		"Value": "Exile Hood"
+	},
+	{
+		"Id": 190100,
+		"Value": "Exile Armor"
+	},
+	{
+		"Id": 190200,
+		"Value": "Exile Gauntlets"
+	},
+	{
+		"Id": 190300,
+		"Value": "Exile Greaves"
+	},
+	{
+		"Id": 200000,
+		"Value": "Banished Knight Helm"
+	},
+	{
+		"Id": 200100,
+		"Value": "Banished Knight Armor"
+	},
+	{
+		"Id": 200200,
+		"Value": "Banished Knight Gauntlets"
+	},
+	{
+		"Id": 200300,
+		"Value": "Banished Knight Greaves"
+	},
+	{
+		"Id": 201000,
+		"Value": "Banished Knight Helm (Altered)"
+	},
+	{
+		"Id": 201100,
+		"Value": "Banished Knight Armor (Altered)"
+	},
+	{
+		"Id": 210000,
+		"Value": "Briar Helm"
+	},
+	{
+		"Id": 210100,
+		"Value": "Briar Armor"
+	},
+	{
+		"Id": 210200,
+		"Value": "Briar Gauntlets"
+	},
+	{
+		"Id": 210300,
+		"Value": "Briar Greaves"
+	},
+	{
+		"Id": 211100,
+		"Value": "Briar Armor (Altered)"
+	},
+	{
+		"Id": 220000,
+		"Value": "Page Hood"
+	},
+	{
+		"Id": 220100,
+		"Value": "Page Garb"
+	},
+	{
+		"Id": 220300,
+		"Value": "Page Trousers"
+	},
+	{
+		"Id": 221100,
+		"Value": "Page Garb (Altered)"
+	},
+	{
+		"Id": 230000,
+		"Value": "Night's Cavalry Helm"
+	},
+	{
+		"Id": 230100,
+		"Value": "Night's Cavalry Armor"
+	},
+	{
+		"Id": 230200,
+		"Value": "Night's Cavalry Gauntlets"
+	},
+	{
+		"Id": 230300,
+		"Value": "Night's Cavalry Greaves"
+	},
+	{
+		"Id": 231000,
+		"Value": "Night's Cavalry Helm (Altered)"
+	},
+	{
+		"Id": 231100,
+		"Value": "Night's Cavalry Armor (Altered)"
+	},
+	{
+		"Id": 240000,
+		"Value": "Blue Silver Mail Hood"
+	},
+	{
+		"Id": 240100,
+		"Value": "Blue Silver Mail Armor"
+	},
+	{
+		"Id": 240200,
+		"Value": "Blue Silver Bracelets"
+	},
+	{
+		"Id": 240300,
+		"Value": "Blue Silver Mail Skirt"
+	},
+	{
+		"Id": 241100,
+		"Value": "Blue Silver Mail Armor (Altered)"
+	},
+	{
+		"Id": 250000,
+		"Value": "Nomadic Merchant's Chapeau"
+	},
+	{
+		"Id": 250100,
+		"Value": "Nomadic Merchant's Finery"
+	},
+	{
+		"Id": 250300,
+		"Value": "Nomadic Merchant's Trousers"
+	},
+	{
+		"Id": 251100,
+		"Value": "Nomadic Merchant's Finery (Altered)"
+	},
+	{
+		"Id": 260000,
+		"Value": "Malformed Dragon Helm"
+	},
+	{
+		"Id": 260100,
+		"Value": "Malformed Dragon Armor"
+	},
+	{
+		"Id": 260200,
+		"Value": "Malformed Dragon Gauntlets"
+	},
+	{
+		"Id": 260300,
+		"Value": "Malformed Dragon Greaves"
+	},
+	{
+		"Id": 270000,
+		"Value": "Tree Sentinel Helm"
+	},
+	{
+		"Id": 270100,
+		"Value": "Tree Sentinel Armor"
+	},
+	{
+		"Id": 270200,
+		"Value": "Tree Sentinel Gauntlets"
+	},
+	{
+		"Id": 270300,
+		"Value": "Tree Sentinel Greaves"
+	},
+	{
+		"Id": 271100,
+		"Value": "Tree Sentinel Armor (Altered)"
+	},
+	{
+		"Id": 280000,
+		"Value": "Royal Knight Helm"
+	},
+	{
+		"Id": 280100,
+		"Value": "Royal Knight Armor"
+	},
+	{
+		"Id": 280200,
+		"Value": "Royal Knight Gauntlets"
+	},
+	{
+		"Id": 280300,
+		"Value": "Royal Knight Greaves"
+	},
+	{
+		"Id": 281100,
+		"Value": "Royal Knight Armor (Altered)"
+	},
+	{
+		"Id": 290000,
+		"Value": "Nox Monk Hood"
+	},
+	{
+		"Id": 290100,
+		"Value": "Nox Monk Armor"
+	},
+	{
+		"Id": 290200,
+		"Value": "Nox Monk Bracelets"
+	},
+	{
+		"Id": 290300,
+		"Value": "Nox Monk Greaves"
+	},
+	{
+		"Id": 291000,
+		"Value": "Nox Monk Hood (Altered)"
+	},
+	{
+		"Id": 291100,
+		"Value": "Nox Monk Armor (Altered)"
+	},
+	{
+		"Id": 292000,
+		"Value": "Nox Swordstress Crown"
+	},
+	{
+		"Id": 292100,
+		"Value": "Nox Swordstress Armor"
+	},
+	{
+		"Id": 293000,
+		"Value": "Night Maiden Twin Crown"
+	},
+	{
+		"Id": 293100,
+		"Value": "Night Maiden Armor"
+	},
+	{
+		"Id": 294000,
+		"Value": "Nox Swordstress Crown (Altered)"
+	},
+	{
+		"Id": 294100,
+		"Value": "Nox Swordstress Armor (Altered)"
+	},
+	{
+		"Id": 300000,
+		"Value": "Great Horned Headband"
+	},
+	{
+		"Id": 300100,
+		"Value": "Fur Raiment"
+	},
+	{
+		"Id": 300300,
+		"Value": "Fur Leggings"
+	},
+	{
+		"Id": 301000,
+		"Value": "Shining Horned Headband"
+	},
+	{
+		"Id": 301100,
+		"Value": "Shaman Furs"
+	},
+	{
+		"Id": 301300,
+		"Value": "Shaman Leggings"
+	},
+	{
+		"Id": 310000,
+		"Value": "Duelist Helm"
+	},
+	{
+		"Id": 310100,
+		"Value": "Gravekeeper Cloak"
+	},
+	{
+		"Id": 310300,
+		"Value": "Duelist Greaves"
+	},
+	{
+		"Id": 311100,
+		"Value": "Gravekeeper Cloak (Altered)"
+	},
+	{
+		"Id": 320000,
+		"Value": "Sanguine Noble Hood"
+	},
+	{
+		"Id": 320100,
+		"Value": "Sanguine Noble Robe"
+	},
+	{
+		"Id": 320300,
+		"Value": "Sanguine Noble Waistcloth"
+	},
+	{
+		"Id": 330000,
+		"Value": "Guardian Mask"
+	},
+	{
+		"Id": 330100,
+		"Value": "Guardian Garb (Full Bloom)"
+	},
+	{
+		"Id": 330200,
+		"Value": "Guardian Bracers"
+	},
+	{
+		"Id": 330300,
+		"Value": "Guardian Greaves"
+	},
+	{
+		"Id": 331100,
+		"Value": "Guardian Garb"
+	},
+	{
+		"Id": 340000,
+		"Value": "Cleanrot Helm"
+	},
+	{
+		"Id": 340100,
+		"Value": "Cleanrot Armor"
+	},
+	{
+		"Id": 340200,
+		"Value": "Cleanrot Gauntlets"
+	},
+	{
+		"Id": 340300,
+		"Value": "Cleanrot Greaves"
+	},
+	{
+		"Id": 341000,
+		"Value": "Cleanrot Helm (Altered)"
+	},
+	{
+		"Id": 341100,
+		"Value": "Cleanrot Armor (Altered)"
+	},
+	{
+		"Id": 350000,
+		"Value": "Fire Monk Hood"
+	},
+	{
+		"Id": 350100,
+		"Value": "Fire Monk Armor"
+	},
+	{
+		"Id": 350200,
+		"Value": "Fire Monk Gauntlets"
+	},
+	{
+		"Id": 350300,
+		"Value": "Fire Monk Greaves"
+	},
+	{
+		"Id": 351000,
+		"Value": "Blackflame Monk Hood"
+	},
+	{
+		"Id": 351100,
+		"Value": "Blackflame Monk Armor"
+	},
+	{
+		"Id": 351200,
+		"Value": "Blackflame Monk Gauntlets"
+	},
+	{
+		"Id": 351300,
+		"Value": "Blackflame Monk Greaves"
+	},
+	{
+		"Id": 360000,
+		"Value": "Fire Prelate Helm"
+	},
+	{
+		"Id": 360100,
+		"Value": "Fire Prelate Armor"
+	},
+	{
+		"Id": 360200,
+		"Value": "Fire Prelate Gauntlets"
+	},
+	{
+		"Id": 360300,
+		"Value": "Fire Prelate Greaves"
+	},
+	{
+		"Id": 361100,
+		"Value": "Fire Prelate Armor (Altered)"
+	},
+	{
+		"Id": 370000,
+		"Value": "Aristocrat Headband"
+	},
+	{
+		"Id": 370100,
+		"Value": "Aristocrat Garb"
+	},
+	{
+		"Id": 370300,
+		"Value": "Aristocrat Boots"
+	},
+	{
+		"Id": 371100,
+		"Value": "Aristocrat Garb (Altered)"
+	},
+	{
+		"Id": 380000,
+		"Value": "Aristocrat Hat"
+	},
+	{
+		"Id": 380100,
+		"Value": "Aristocrat Coat"
+	},
+	{
+		"Id": 390000,
+		"Value": "Old Aristocrat Cowl"
+	},
+	{
+		"Id": 390100,
+		"Value": "Old Aristocrat Gown"
+	},
+	{
+		"Id": 390300,
+		"Value": "Old Aristocrat Shoes"
+	},
+	{
+		"Id": 420000,
+		"Value": "Vulgar Militia Helm"
+	},
+	{
+		"Id": 420100,
+		"Value": "Vulgar Militia Armor"
+	},
+	{
+		"Id": 420200,
+		"Value": "Vulgar Militia Gauntlets"
+	},
+	{
+		"Id": 420300,
+		"Value": "Vulgar Militia Greaves"
+	},
+	{
+		"Id": 430000,
+		"Value": "Sage Hood"
+	},
+	{
+		"Id": 430100,
+		"Value": "Sage Robe"
+	},
+	{
+		"Id": 430300,
+		"Value": "Sage Trousers"
+	},
+	{
+		"Id": 440000,
+		"Value": "Pumpkin Helm"
+	},
+	{
+		"Id": 460000,
+		"Value": "Elden Lord Crown"
+	},
+	{
+		"Id": 460100,
+		"Value": "Elden Lord Armor"
+	},
+	{
+		"Id": 460200,
+		"Value": "Elden Lord Bracers"
+	},
+	{
+		"Id": 460300,
+		"Value": "Elden Lord Greaves"
+	},
+	{
+		"Id": 461100,
+		"Value": "Elden Lord Armor (Altered)"
+	},
+	{
+		"Id": 470000,
+		"Value": "Radahn's Redmane Helm"
+	},
+	{
+		"Id": 470100,
+		"Value": "Radahn's Lion Armor"
+	},
+	{
+		"Id": 470200,
+		"Value": "Radahn's Gauntlets"
+	},
+	{
+		"Id": 470300,
+		"Value": "Radahn's Greaves"
+	},
+	{
+		"Id": 471100,
+		"Value": "Radahn's Lion Armor (Altered)"
+	},
+	{
+		"Id": 480100,
+		"Value": "Lord of Blood's Robe"
+	},
+	{
+		"Id": 481100,
+		"Value": "Lord of Blood's Robe (Altered)"
+	},
+	{
+		"Id": 510000,
+		"Value": "Queen's Crescent Crown"
+	},
+	{
+		"Id": 510100,
+		"Value": "Queen's Robe"
+	},
+	{
+		"Id": 510200,
+		"Value": "Queen's Bracelets"
+	},
+	{
+		"Id": 510300,
+		"Value": "Queen's Leggings"
+	},
+	{
+		"Id": 520000,
+		"Value": "Godskin Apostle Hood"
+	},
+	{
+		"Id": 520100,
+		"Value": "Godskin Apostle Robe"
+	},
+	{
+		"Id": 520200,
+		"Value": "Godskin Apostle Bracelets"
+	},
+	{
+		"Id": 520300,
+		"Value": "Godskin Apostle Trousers"
+	},
+	{
+		"Id": 530000,
+		"Value": "Godskin Noble Hood"
+	},
+	{
+		"Id": 530100,
+		"Value": "Godskin Noble Robe"
+	},
+	{
+		"Id": 530200,
+		"Value": "Godskin Noble Bracelets"
+	},
+	{
+		"Id": 530300,
+		"Value": "Godskin Noble Trousers"
+	},
+	{
+		"Id": 540000,
+		"Value": "Depraved Perfumer Headscarf"
+	},
+	{
+		"Id": 540100,
+		"Value": "Depraved Perfumer Robe"
+	},
+	{
+		"Id": 540200,
+		"Value": "Depraved Perfumer Gloves"
+	},
+	{
+		"Id": 540300,
+		"Value": "Depraved Perfumer Trousers"
+	},
+	{
+		"Id": 541100,
+		"Value": "Depraved Perfumer Robe (Altered)"
+	},
+	{
+		"Id": 570000,
+		"Value": "Crucible Axe Helm"
+	},
+	{
+		"Id": 570100,
+		"Value": "Crucible Axe Armor"
+	},
+	{
+		"Id": 570200,
+		"Value": "Crucible Gauntlets"
+	},
+	{
+		"Id": 570300,
+		"Value": "Crucible Greaves"
+	},
+	{
+		"Id": 571000,
+		"Value": "Crucible Tree Helm"
+	},
+	{
+		"Id": 571100,
+		"Value": "Crucible Tree Armor"
+	},
+	{
+		"Id": 572100,
+		"Value": "Crucible Axe Armor (Altered)"
+	},
+	{
+		"Id": 573100,
+		"Value": "Crucible Tree Armor (Altered)"
+	},
+	{
+		"Id": 580000,
+		"Value": "Lusat's Glintstone Crown"
+	},
+	{
+		"Id": 580100,
+		"Value": "Lusat's Robe"
+	},
+	{
+		"Id": 580200,
+		"Value": "Lusat's Manchettes"
+	},
+	{
+		"Id": 580300,
+		"Value": "Old Sorcerer's Legwraps"
+	},
+	{
+		"Id": 581000,
+		"Value": "Azur's Glintstone Crown"
+	},
+	{
+		"Id": 581100,
+		"Value": "Azur's Glintstone Robe"
+	},
+	{
+		"Id": 581200,
+		"Value": "Azur's Manchettes"
+	},
+	{
+		"Id": 590000,
+		"Value": "All-Knowing Helm"
+	},
+	{
+		"Id": 590100,
+		"Value": "All-Knowing Armor"
+	},
+	{
+		"Id": 590200,
+		"Value": "All-Knowing Gauntlets"
+	},
+	{
+		"Id": 590300,
+		"Value": "All-Knowing Greaves"
+	},
+	{
+		"Id": 591100,
+		"Value": "All-Knowing Armor (Altered)"
+	},
+	{
+		"Id": 600000,
+		"Value": "Twinned Helm"
+	},
+	{
+		"Id": 600100,
+		"Value": "Twinned Armor"
+	},
+	{
+		"Id": 600200,
+		"Value": "Twinned Gauntlets"
+	},
+	{
+		"Id": 600300,
+		"Value": "Twinned Greaves"
+	},
+	{
+		"Id": 601100,
+		"Value": "Twinned Armor (Altered)"
+	},
+	{
+		"Id": 601300,
+		"Value": "Twinned Greaves (Altered)"
+	},
+	{
+		"Id": 610000,
+		"Value": "Ragged Hat"
+	},
+	{
+		"Id": 610100,
+		"Value": "Ragged Armor"
+	},
+	{
+		"Id": 610200,
+		"Value": "Ragged Gloves"
+	},
+	{
+		"Id": 610300,
+		"Value": "Ragged Loincloth"
+	},
+	{
+		"Id": 611000,
+		"Value": "Ragged Hat (Altered)"
+	},
+	{
+		"Id": 611100,
+		"Value": "Ragged Armor (Altered)"
+	},
+	{
+		"Id": 620000,
+		"Value": "Prophet Blindfold"
+	},
+	{
+		"Id": 620100,
+		"Value": "Corhyn's Robe"
+	},
+	{
+		"Id": 620300,
+		"Value": "Prophet Trousers"
+	},
+	{
+		"Id": 621100,
+		"Value": "Prophet Robe (Altered)"
+	},
+	{
+		"Id": 622100,
+		"Value": "Prophet Robe"
+	},
+	{
+		"Id": 630000,
+		"Value": "Astrologer Hood"
+	},
+	{
+		"Id": 630100,
+		"Value": "Astrologer Robe"
+	},
+	{
+		"Id": 630200,
+		"Value": "Astrologer Gloves"
+	},
+	{
+		"Id": 630300,
+		"Value": "Astrologer Trousers"
+	},
+	{
+		"Id": 631100,
+		"Value": "Astrologer Robe (Altered)"
+	},
+	{
+		"Id": 640000,
+		"Value": "Lionel's Helm"
+	},
+	{
+		"Id": 640100,
+		"Value": "Lionel's Armor"
+	},
+	{
+		"Id": 640200,
+		"Value": "Lionel's Gauntlets"
+	},
+	{
+		"Id": 640300,
+		"Value": "Lionel's Greaves"
+	},
+	{
+		"Id": 641100,
+		"Value": "Lionel's Armor (Altered)"
+	},
+	{
+		"Id": 650000,
+		"Value": "Hoslow's Helm"
+	},
+	{
+		"Id": 650100,
+		"Value": "Hoslow's Armor"
+	},
+	{
+		"Id": 650200,
+		"Value": "Hoslow's Gauntlets"
+	},
+	{
+		"Id": 650300,
+		"Value": "Hoslow's Greaves"
+	},
+	{
+		"Id": 651000,
+		"Value": "Diallos's Mask"
+	},
+	{
+		"Id": 652100,
+		"Value": "Hoslow's Armor (Altered)"
+	},
+	{
+		"Id": 660000,
+		"Value": "Vagabond Knight Helm"
+	},
+	{
+		"Id": 660100,
+		"Value": "Vagabond Knight Armor"
+	},
+	{
+		"Id": 660200,
+		"Value": "Vagabond Knight Gauntlets"
+	},
+	{
+		"Id": 660300,
+		"Value": "Vagabond Knight Greaves"
+	},
+	{
+		"Id": 661100,
+		"Value": "Vagabond Knight Armor (Altered)"
+	},
+	{
+		"Id": 670000,
+		"Value": "Blue Cloth Cowl"
+	},
+	{
+		"Id": 670100,
+		"Value": "Blue Cloth Vest"
+	},
+	{
+		"Id": 670200,
+		"Value": "Warrior Gauntlets"
+	},
+	{
+		"Id": 670300,
+		"Value": "Warrior Greaves"
+	},
+	{
+		"Id": 680000,
+		"Value": "White Mask"
+	},
+	{
+		"Id": 680100,
+		"Value": "War Surgeon Gown"
+	},
+	{
+		"Id": 680200,
+		"Value": "War Surgeon Gloves"
+	},
+	{
+		"Id": 680300,
+		"Value": "War Surgeon Trousers"
+	},
+	{
+		"Id": 681100,
+		"Value": "War Surgeon Gown (Altered)"
+	},
+	{
+		"Id": 690000,
+		"Value": "Royal Remains Helm"
+	},
+	{
+		"Id": 690100,
+		"Value": "Royal Remains Armor"
+	},
+	{
+		"Id": 690200,
+		"Value": "Royal Remains Gauntlets"
+	},
+	{
+		"Id": 690300,
+		"Value": "Royal Remains Greaves"
+	},
+	{
+		"Id": 700000,
+		"Value": "Brave's Cord Circlet"
+	},
+	{
+		"Id": 700100,
+		"Value": "Brave's Battlewear"
+	},
+	{
+		"Id": 700200,
+		"Value": "Brave's Bracer"
+	},
+	{
+		"Id": 700300,
+		"Value": "Brave's Legwraps"
+	},
+	{
+		"Id": 701000,
+		"Value": "Brave's Leather Helm"
+	},
+	{
+		"Id": 702000,
+		"Value": "Brave's Battlewear (Altered)"
+	},
+	{
+		"Id": 720000,
+		"Value": "Beast Champion Helm"
+	},
+	{
+		"Id": 720100,
+		"Value": "Beast Champion Armor"
+	},
+	{
+		"Id": 720200,
+		"Value": "Beast Champion Gauntlets"
+	},
+	{
+		"Id": 720300,
+		"Value": "Beast Champion Greaves"
+	},
+	{
+		"Id": 721100,
+		"Value": "Beast Champion Armor (Altered)"
+	},
+	{
+		"Id": 730000,
+		"Value": "Champion Headband"
+	},
+	{
+		"Id": 730100,
+		"Value": "Champion Pauldron"
+	},
+	{
+		"Id": 730200,
+		"Value": "Champion Bracers"
+	},
+	{
+		"Id": 730300,
+		"Value": "Champion Gaiters"
+	},
+	{
+		"Id": 740000,
+		"Value": "Crimson Hood"
+	},
+	{
+		"Id": 740100,
+		"Value": "Noble's Traveling Garb"
+	},
+	{
+		"Id": 740200,
+		"Value": "Noble's Gloves"
+	},
+	{
+		"Id": 740300,
+		"Value": "Noble's Trousers"
+	},
+	{
+		"Id": 741000,
+		"Value": "Navy Hood"
+	},
+	{
+		"Id": 760000,
+		"Value": "Maliketh's Helm"
+	},
+	{
+		"Id": 760100,
+		"Value": "Maliketh's Armor"
+	},
+	{
+		"Id": 760200,
+		"Value": "Maliketh's Gauntlets"
+	},
+	{
+		"Id": 760300,
+		"Value": "Maliketh's Greaves"
+	},
+	{
+		"Id": 761100,
+		"Value": "Maliketh's Armor (Altered)"
+	},
+	{
+		"Id": 770000,
+		"Value": "Malenia's Winged Helm"
+	},
+	{
+		"Id": 770100,
+		"Value": "Malenia's Armor"
+	},
+	{
+		"Id": 770200,
+		"Value": "Malenia's Gauntlet"
+	},
+	{
+		"Id": 770300,
+		"Value": "Malenia's Greaves"
+	},
+	{
+		"Id": 771100,
+		"Value": "Malenia's Armor (Altered)"
+	},
+	{
+		"Id": 780000,
+		"Value": "Veteran's Helm"
+	},
+	{
+		"Id": 780100,
+		"Value": "Veteran's Armor"
+	},
+	{
+		"Id": 780200,
+		"Value": "Veteran's Gauntlets"
+	},
+	{
+		"Id": 780300,
+		"Value": "Veteran's Greaves"
+	},
+	{
+		"Id": 781100,
+		"Value": "Veteran's Armor (Altered)"
+	},
+	{
+		"Id": 790000,
+		"Value": "Bloodhound Knight Helm"
+	},
+	{
+		"Id": 790100,
+		"Value": "Bloodhound Knight Armor"
+	},
+	{
+		"Id": 790200,
+		"Value": "Bloodhound Knight Gauntlets"
+	},
+	{
+		"Id": 790300,
+		"Value": "Bloodhound Knight Greaves"
+	},
+	{
+		"Id": 791100,
+		"Value": "Bloodhound Knight Armor (Altered)"
+	},
+	{
+		"Id": 800000,
+		"Value": "Festive Hood"
+	},
+	{
+		"Id": 800100,
+		"Value": "Festive Garb"
+	},
+	{
+		"Id": 801000,
+		"Value": "Festive Hood (Altered)"
+	},
+	{
+		"Id": 801100,
+		"Value": "Festive Garb (Altered)"
+	},
+	{
+		"Id": 802000,
+		"Value": "Blue Festive Hood"
+	},
+	{
+		"Id": 802100,
+		"Value": "Blue Festive Garb"
+	},
+	{
+		"Id": 810000,
+		"Value": "Commoner's Headband"
+	},
+	{
+		"Id": 810100,
+		"Value": "Commoner's Garb"
+	},
+	{
+		"Id": 810300,
+		"Value": "Commoner's Shoes"
+	},
+	{
+		"Id": 811000,
+		"Value": "Commoner's Headband (Altered)"
+	},
+	{
+		"Id": 811100,
+		"Value": "Commoner's Garb (Altered)"
+	},
+	{
+		"Id": 812000,
+		"Value": "Commoner's Simple Garb"
+	},
+	{
+		"Id": 812100,
+		"Value": "Commoner's Simple Garb (Altered)"
+	},
+	{
+		"Id": 820000,
+		"Value": "Envoy Crown"
+	},
+	{
+		"Id": 830000,
+		"Value": "Twinsage Glintstone Crown"
+	},
+	{
+		"Id": 830100,
+		"Value": "Raya Lucarian Robe"
+	},
+	{
+		"Id": 830200,
+		"Value": "Sorcerer Manchettes"
+	},
+	{
+		"Id": 830300,
+		"Value": "Sorcerer Leggings"
+	},
+	{
+		"Id": 831000,
+		"Value": "Olivinus Glintstone Crown"
+	},
+	{
+		"Id": 832000,
+		"Value": "Lazuli Glintstone Crown"
+	},
+	{
+		"Id": 833000,
+		"Value": "Karolos Glintstone Crown"
+	},
+	{
+		"Id": 834000,
+		"Value": "Witch's Glintstone Crown"
+	},
+	{
+		"Id": 840000,
+		"Value": "Marionette Soldier Helm"
+	},
+	{
+		"Id": 840100,
+		"Value": "Marionette Soldier Armor"
+	},
+	{
+		"Id": 850000,
+		"Value": "Marionette Soldier Birdhelm"
+	},
+	{
+		"Id": 860000,
+		"Value": "Raging Wolf Helm"
+	},
+	{
+		"Id": 860100,
+		"Value": "Raging Wolf Armor"
+	},
+	{
+		"Id": 860200,
+		"Value": "Raging Wolf Gauntlets"
+	},
+	{
+		"Id": 860300,
+		"Value": "Raging Wolf Greaves"
+	},
+	{
+		"Id": 861100,
+		"Value": "Raging Wolf Armor (Altered)"
+	},
+	{
+		"Id": 870000,
+		"Value": "Land of Reeds Helm"
+	},
+	{
+		"Id": 870100,
+		"Value": "Land of Reeds Armor"
+	},
+	{
+		"Id": 870200,
+		"Value": "Land of Reeds Gauntlets"
+	},
+	{
+		"Id": 870300,
+		"Value": "Land of Reeds Greaves"
+	},
+	{
+		"Id": 871100,
+		"Value": "Land of Reeds Armor (Altered)"
+	},
+	{
+		"Id": 872000,
+		"Value": "Okina Mask"
+	},
+	{
+		"Id": 872100,
+		"Value": "White Reed Armor"
+	},
+	{
+		"Id": 872200,
+		"Value": "White Reed Gauntlets"
+	},
+	{
+		"Id": 872300,
+		"Value": "White Reed Greaves"
+	},
+	{
+		"Id": 880000,
+		"Value": "Confessor Hood"
+	},
+	{
+		"Id": 880100,
+		"Value": "Confessor Armor"
+	},
+	{
+		"Id": 880200,
+		"Value": "Confessor Gloves"
+	},
+	{
+		"Id": 880300,
+		"Value": "Confessor Boots"
+	},
+	{
+		"Id": 881000,
+		"Value": "Confessor Hood (Altered)"
+	},
+	{
+		"Id": 881100,
+		"Value": "Confessor Armor (Altered)"
+	},
+	{
+		"Id": 890000,
+		"Value": "Prisoner Iron Mask"
+	},
+	{
+		"Id": 890100,
+		"Value": "Prisoner Clothing"
+	},
+	{
+		"Id": 890300,
+		"Value": "Prisoner Trousers"
+	},
+	{
+		"Id": 891000,
+		"Value": "Blackguard's Iron Mask"
+	},
+	{
+		"Id": 900000,
+		"Value": "Traveling Maiden Hood"
+	},
+	{
+		"Id": 900100,
+		"Value": "Traveling Maiden Robe"
+	},
+	{
+		"Id": 900200,
+		"Value": "Traveling Maiden Gloves"
+	},
+	{
+		"Id": 900300,
+		"Value": "Traveling Maiden Boots"
+	},
+	{
+		"Id": 901100,
+		"Value": "Traveling Maiden Robe (Altered)"
+	},
+	{
+		"Id": 902000,
+		"Value": "Finger Maiden Fillet"
+	},
+	{
+		"Id": 902100,
+		"Value": "Finger Maiden Robe"
+	},
+	{
+		"Id": 902300,
+		"Value": "Finger Maiden Shoes"
+	},
+	{
+		"Id": 903100,
+		"Value": "Finger Maiden Robe (Altered)"
+	},
+	{
+		"Id": 910000,
+		"Value": "Preceptor's Big Hat"
+	},
+	{
+		"Id": 910100,
+		"Value": "Preceptor's Long Gown"
+	},
+	{
+		"Id": 910200,
+		"Value": "Preceptor's Gloves"
+	},
+	{
+		"Id": 910300,
+		"Value": "Preceptor's Trousers"
+	},
+	{
+		"Id": 911000,
+		"Value": "Mask of Confidence"
+	},
+	{
+		"Id": 911100,
+		"Value": "Preceptor's Long Gown (Altered)"
+	},
+	{
+		"Id": 920000,
+		"Value": "Grass Hair Ornament"
+	},
+	{
+		"Id": 930000,
+		"Value": "Skeletal Mask"
+	},
+	{
+		"Id": 930100,
+		"Value": "Raptor's Black Feathers"
+	},
+	{
+		"Id": 930200,
+		"Value": "Bandit Manchettes"
+	},
+	{
+		"Id": 930300,
+		"Value": "Bandit Boots"
+	},
+	{
+		"Id": 931100,
+		"Value": "Bandit Garb"
+	},
+	{
+		"Id": 940000,
+		"Value": "Eccentric's Hood"
+	},
+	{
+		"Id": 940100,
+		"Value": "Eccentric's Armor"
+	},
+	{
+		"Id": 940200,
+		"Value": "Eccentric's Manchettes"
+	},
+	{
+		"Id": 940300,
+		"Value": "Eccentric's Breeches"
+	},
+	{
+		"Id": 941000,
+		"Value": "Eccentric's Hood (Altered)"
+	},
+	{
+		"Id": 950000,
+		"Value": "Fingerprint Helm"
+	},
+	{
+		"Id": 950100,
+		"Value": "Fingerprint Armor"
+	},
+	{
+		"Id": 950200,
+		"Value": "Fingerprint Gauntlets"
+	},
+	{
+		"Id": 950300,
+		"Value": "Fingerprint Greaves"
+	},
+	{
+		"Id": 951100,
+		"Value": "Fingerprint Armor (Altered)"
+	},
+	{
+		"Id": 960000,
+		"Value": "Consort's Mask"
+	},
+	{
+		"Id": 960100,
+		"Value": "Consort's Robe"
+	},
+	{
+		"Id": 960300,
+		"Value": "Consort's Trousers"
+	},
+	{
+		"Id": 961000,
+		"Value": "Ruler's Mask"
+	},
+	{
+		"Id": 961100,
+		"Value": "Ruler's Robe"
+	},
+	{
+		"Id": 962100,
+		"Value": "Upper-Class Robe"
+	},
+	{
+		"Id": 963000,
+		"Value": "Marais Mask"
+	},
+	{
+		"Id": 963100,
+		"Value": "Marais Robe"
+	},
+	{
+		"Id": 963200,
+		"Value": "Bloodsoaked Manchettes"
+	},
+	{
+		"Id": 964000,
+		"Value": "Bloodsoaked Mask"
+	},
+	{
+		"Id": 964100,
+		"Value": "Official's Attire"
+	},
+	{
+		"Id": 970000,
+		"Value": "Omen Helm"
+	},
+	{
+		"Id": 970100,
+		"Value": "Omen Armor"
+	},
+	{
+		"Id": 970200,
+		"Value": "Omen Gauntlets"
+	},
+	{
+		"Id": 970300,
+		"Value": "Omen Greaves"
+	},
+	{
+		"Id": 980000,
+		"Value": "Carian Knight Helm"
+	},
+	{
+		"Id": 980100,
+		"Value": "Carian Knight Armor"
+	},
+	{
+		"Id": 980200,
+		"Value": "Carian Knight Gauntlets"
+	},
+	{
+		"Id": 980300,
+		"Value": "Carian Knight Greaves"
+	},
+	{
+		"Id": 981100,
+		"Value": "Carian Knight Armor (Altered)"
+	},
+	{
+		"Id": 990000,
+		"Value": "Hierodas Glintstone Crown"
+	},
+	{
+		"Id": 990100,
+		"Value": "Errant Sorcerer Robe"
+	},
+	{
+		"Id": 990200,
+		"Value": "Errant Sorcerer Manchettes"
+	},
+	{
+		"Id": 990300,
+		"Value": "Errant Sorcerer Boots"
+	},
+	{
+		"Id": 991100,
+		"Value": "Errant Sorcerer Robe (Altered)"
+	},
+	{
+		"Id": 1000000,
+		"Value": "Haima Glintstone Crown"
+	},
+	{
+		"Id": 1000100,
+		"Value": "Battlemage Robe"
+	},
+	{
+		"Id": 1000200,
+		"Value": "Battlemage Manchettes"
+	},
+	{
+		"Id": 1000300,
+		"Value": "Battlemage Legwraps"
+	},
+	{
+		"Id": 1010000,
+		"Value": "Snow Witch Hat"
+	},
+	{
+		"Id": 1010100,
+		"Value": "Snow Witch Robe"
+	},
+	{
+		"Id": 1010300,
+		"Value": "Snow Witch Skirt"
+	},
+	{
+		"Id": 1011100,
+		"Value": "Snow Witch Robe (Altered)"
+	},
+	{
+		"Id": 1020100,
+		"Value": "Traveler's Clothes"
+	},
+	{
+		"Id": 1020200,
+		"Value": "Traveler's Manchettes"
+	},
+	{
+		"Id": 1020300,
+		"Value": "Traveler's Boots"
+	},
+	{
+		"Id": 1030000,
+		"Value": "Juvenile Scholar Cap"
+	},
+	{
+		"Id": 1030100,
+		"Value": "Juvenile Scholar Robe"
+	},
+	{
+		"Id": 1040000,
+		"Value": "Radiant Gold Mask"
+	},
+	{
+		"Id": 1040100,
+		"Value": "Goldmask's Rags"
+	},
+	{
+		"Id": 1040200,
+		"Value": "Gold Bracelets"
+	},
+	{
+		"Id": 1040300,
+		"Value": "Gold Waistwrap"
+	},
+	{
+		"Id": 1050100,
+		"Value": "Fell Omen Cloak"
+	},
+	{
+		"Id": 1060000,
+		"Value": "Albinauric Mask"
+	},
+	{
+		"Id": 1060100,
+		"Value": "Dirty Chainmail"
+	},
+	{
+		"Id": 1070000,
+		"Value": "Zamor Mask"
+	},
+	{
+		"Id": 1070100,
+		"Value": "Zamor Armor"
+	},
+	{
+		"Id": 1070200,
+		"Value": "Zamor Bracelets"
+	},
+	{
+		"Id": 1070300,
+		"Value": "Zamor Legwraps"
+	},
+	{
+		"Id": 1080000,
+		"Value": "Imp Head (Cat)"
+	},
+	{
+		"Id": 1081000,
+		"Value": "Imp Head (Fanged)"
+	},
+	{
+		"Id": 1082000,
+		"Value": "Imp Head (Long-Tongued)"
+	},
+	{
+		"Id": 1083000,
+		"Value": "Imp Head (Corpse)"
+	},
+	{
+		"Id": 1084000,
+		"Value": "Imp Head (Wolf)"
+	},
+	{
+		"Id": 1085000,
+		"Value": "Imp Head (Elder)"
+	},
+	{
+		"Id": 1090000,
+		"Value": "Silver Tear Mask"
+	},
+	{
+		"Id": 1100000,
+		"Value": "Chain Coif"
+	},
+	{
+		"Id": 1100100,
+		"Value": "Chain Armor"
+	},
+	{
+		"Id": 1100200,
+		"Value": "Chain Gauntlets"
+	},
+	{
+		"Id": 1100300,
+		"Value": "Chain Leggings"
+	},
+	{
+		"Id": 1101000,
+		"Value": "Greathelm"
+	},
+	{
+		"Id": 1101100,
+		"Value": "Eye Surcoat"
+	},
+	{
+		"Id": 1102100,
+		"Value": "Tree Surcoat"
+	},
+	{
+		"Id": 1110000,
+		"Value": "Octopus Head"
+	},
+	{
+		"Id": 1120000,
+		"Value": "Jar"
+	},
+	{
+		"Id": 1130000,
+		"Value": "Mushroom Head"
+	},
+	{
+		"Id": 1130100,
+		"Value": "Mushroom Body"
+	},
+	{
+		"Id": 1130200,
+		"Value": "Mushroom Arms"
+	},
+	{
+		"Id": 1130300,
+		"Value": "Mushroom Legs"
+	},
+	{
+		"Id": 1300000,
+		"Value": "Nox Mirrorhelm"
+	},
+	{
+		"Id": 1301000,
+		"Value": "Iji's Mirrorhelm"
+	},
+	{
+		"Id": 1400000,
+		"Value": "Black Hood"
+	},
+	{
+		"Id": 1400100,
+		"Value": "Leather Armor"
+	},
+	{
+		"Id": 1400200,
+		"Value": "Leather Gloves"
+	},
+	{
+		"Id": 1400300,
+		"Value": "Leather Boots"
+	},
+	{
+		"Id": 1401000,
+		"Value": "Bandit Mask"
+	},
+	{
+		"Id": 1500000,
+		"Value": "Knight Helm"
+	},
+	{
+		"Id": 1500100,
+		"Value": "Knight Armor"
+	},
+	{
+		"Id": 1500200,
+		"Value": "Knight Gauntlets"
+	},
+	{
+		"Id": 1500300,
+		"Value": "Knight Greaves"
+	},
+	{
+		"Id": 1600000,
+		"Value": "Greathood"
+	},
+	{
+		"Id": 1700000,
+		"Value": "Godrick Soldier Helm"
+	},
+	{
+		"Id": 1700100,
+		"Value": "Tree-and-Beast Surcoat"
+	},
+	{
+		"Id": 1700200,
+		"Value": "Godrick Soldier Gauntlets"
+	},
+	{
+		"Id": 1700300,
+		"Value": "Godrick Soldier Greaves"
+	},
+	{
+		"Id": 1710000,
+		"Value": "Raya Lucarian Helm"
+	},
+	{
+		"Id": 1710100,
+		"Value": "Cuckoo Surcoat"
+	},
+	{
+		"Id": 1710200,
+		"Value": "Raya Lucarian Gauntlets"
+	},
+	{
+		"Id": 1710300,
+		"Value": "Raya Lucarian Greaves"
+	},
+	{
+		"Id": 1720000,
+		"Value": "Leyndell Soldier Helm"
+	},
+	{
+		"Id": 1720100,
+		"Value": "Erdtree Surcoat"
+	},
+	{
+		"Id": 1720200,
+		"Value": "Leyndell Soldier Gauntlets"
+	},
+	{
+		"Id": 1720300,
+		"Value": "Leyndell Soldier Greaves"
+	},
+	{
+		"Id": 1730000,
+		"Value": "Radahn Soldier Helm"
+	},
+	{
+		"Id": 1730100,
+		"Value": "Redmane Surcoat"
+	},
+	{
+		"Id": 1730200,
+		"Value": "Radahn Soldier Gauntlets"
+	},
+	{
+		"Id": 1730300,
+		"Value": "Radahn Soldier Greaves"
+	},
+	{
+		"Id": 1740100,
+		"Value": "Mausoleum Surcoat"
+	},
+	{
+		"Id": 1740200,
+		"Value": "Mausoleum Gauntlets"
+	},
+	{
+		"Id": 1740300,
+		"Value": "Mausoleum Greaves"
+	},
+	{
+		"Id": 1750000,
+		"Value": "Haligtree Helm"
+	},
+	{
+		"Id": 1750100,
+		"Value": "Haligtree Crest Surcoat"
+	},
+	{
+		"Id": 1750200,
+		"Value": "Haligtree Gauntlets"
+	},
+	{
+		"Id": 1750300,
+		"Value": "Haligtree Greaves"
+	},
+	{
+		"Id": 1760000,
+		"Value": "Gelmir Knight Helm"
+	},
+	{
+		"Id": 1760100,
+		"Value": "Gelmir Knight Armor"
+	},
+	{
+		"Id": 1760200,
+		"Value": "Gelmir Knight Gauntlets"
+	},
+	{
+		"Id": 1760300,
+		"Value": "Gelmir Knight Greaves"
+	},
+	{
+		"Id": 1761100,
+		"Value": "Gelmir Knight Armor (Altered)"
+	},
+	{
+		"Id": 1770000,
+		"Value": "Godrick Knight Helm"
+	},
+	{
+		"Id": 1770100,
+		"Value": "Godrick Knight Armor"
+	},
+	{
+		"Id": 1770200,
+		"Value": "Godrick Knight Gauntlets"
+	},
+	{
+		"Id": 1770300,
+		"Value": "Godrick Knight Greaves"
+	},
+	{
+		"Id": 1771100,
+		"Value": "Godrick Knight Armor (Altered)"
+	},
+	{
+		"Id": 1780000,
+		"Value": "Cuckoo Knight Helm"
+	},
+	{
+		"Id": 1780100,
+		"Value": "Cuckoo Knight Armor"
+	},
+	{
+		"Id": 1780200,
+		"Value": "Cuckoo Knight Gauntlets"
+	},
+	{
+		"Id": 1780300,
+		"Value": "Cuckoo Knight Greaves"
+	},
+	{
+		"Id": 1781100,
+		"Value": "Cuckoo Knight Armor (Altered)"
+	},
+	{
+		"Id": 1790000,
+		"Value": "Leyndell Knight Helm"
+	},
+	{
+		"Id": 1790100,
+		"Value": "Leyndell Knight Armor"
+	},
+	{
+		"Id": 1790200,
+		"Value": "Leyndell Knight Gauntlets"
+	},
+	{
+		"Id": 1790300,
+		"Value": "Leyndell Knight Greaves"
+	},
+	{
+		"Id": 1791100,
+		"Value": "Leyndell Knight Armor (Altered)"
+	},
+	{
+		"Id": 1800000,
+		"Value": "Redmane Knight Helm"
+	},
+	{
+		"Id": 1800100,
+		"Value": "Redmane Knight Armor"
+	},
+	{
+		"Id": 1800200,
+		"Value": "Redmane Knight Gauntlets"
+	},
+	{
+		"Id": 1800300,
+		"Value": "Redmane Knight Greaves"
+	},
+	{
+		"Id": 1801100,
+		"Value": "Redmane Knight Armor (Altered)"
+	},
+	{
+		"Id": 1810100,
+		"Value": "Mausoleum Knight Armor"
+	},
+	{
+		"Id": 1810200,
+		"Value": "Mausoleum Knight Gauntlets"
+	},
+	{
+		"Id": 1810300,
+		"Value": "Mausoleum Knight Greaves"
+	},
+	{
+		"Id": 1811100,
+		"Value": "Mausoleum Knight Armor (Altered)"
+	},
+	{
+		"Id": 1820000,
+		"Value": "Haligtree Knight Helm"
+	},
+	{
+		"Id": 1820100,
+		"Value": "Haligtree Knight Armor"
+	},
+	{
+		"Id": 1820200,
+		"Value": "Haligtree Knight Gauntlets"
+	},
+	{
+		"Id": 1820300,
+		"Value": "Haligtree Knight Greaves"
+	},
+	{
+		"Id": 1821100,
+		"Value": "Haligtree Knight Armor (Altered)"
+	},
+	{
+		"Id": 1830000,
+		"Value": "Foot Soldier Cap"
+	},
+	{
+		"Id": 1830100,
+		"Value": "Chain-Draped Tabard"
+	},
+	{
+		"Id": 1830200,
+		"Value": "Foot Soldier Gauntlets"
+	},
+	{
+		"Id": 1830300,
+		"Value": "Foot Soldier Greaves"
+	},
+	{
+		"Id": 1840000,
+		"Value": "Foot Soldier Helmet"
+	},
+	{
+		"Id": 1840100,
+		"Value": "Foot Soldier Tabard"
+	},
+	{
+		"Id": 1850000,
+		"Value": "Gilded Foot Soldier Cap"
+	},
+	{
+		"Id": 1850100,
+		"Value": "Leather-Draped Tabard"
+	},
+	{
+		"Id": 1860000,
+		"Value": "Foot Soldier Helm"
+	},
+	{
+		"Id": 1860100,
+		"Value": "Scarlet Tabard"
+	},
+	{
+		"Id": 1870100,
+		"Value": "Bloodsoaked Tabard"
+	},
+	{
+		"Id": 1880000,
+		"Value": "Sacred Crown Helm"
+	},
+	{
+		"Id": 1880100,
+		"Value": "Ivory-Draped Tabard"
+	},
+	{
+		"Id": 1890000,
+		"Value": "Omensmirk Mask"
+	},
+	{
+		"Id": 1890100,
+		"Value": "Omenkiller Robe"
+	},
+	{
+		"Id": 1890200,
+		"Value": "Omenkiller Long Gloves"
+	},
+	{
+		"Id": 1890300,
+		"Value": "Omenkiller Boots"
+	},
+	{
+		"Id": 1900000,
+		"Value": "Ash-of-War Scarab"
+	},
+	{
+		"Id": 1901000,
+		"Value": "Incantation Scarab"
+	},
+	{
+		"Id": 1902000,
+		"Value": "Glintstone Scarab"
+	},
+	{
+		"Id": 1910000,
+		"Value": "Crimson Tear Scarab"
+	},
+	{
+		"Id": 1920000,
+		"Value": "Cerulean Tear Scarab"
+	},
+	{
+		"Id": 1930100,
+		"Value": "Deathbed Dress"
+	},
+	{
+		"Id": 1930300,
+		"Value": "Deathbed Smalls"
+	},
+	{
+		"Id": 1940000,
+		"Value": "Fia's Hood"
+	},
+	{
+		"Id": 1940100,
+		"Value": "Fia's Robe"
+	},
+	{
+		"Id": 1941100,
+		"Value": "Fia's Robe (Altered)"
+	},
+	{
+		"Id": 1950100,
+		"Value": "Millicent's Robe"
+	},
+	{
+		"Id": 1950200,
+		"Value": "Millicent's Gloves"
+	},
+	{
+		"Id": 1950300,
+		"Value": "Millicent's Boots"
+	},
+	{
+		"Id": 1970100,
+		"Value": "Millicent's Tunic"
+	},
+	{
+		"Id": 1970200,
+		"Value": "Golden Prosthetic"
+	},
+	{
+		"Id": 1980000,
+		"Value": "Highwayman Hood"
+	},
+	{
+		"Id": 1980100,
+		"Value": "Highwayman Cloth Armor"
+	},
+	{
+		"Id": 1980200,
+		"Value": "Highwayman Gauntlets"
+	},
+	{
+		"Id": 1990000,
+		"Value": "High Page Hood"
+	},
+	{
+		"Id": 1990100,
+		"Value": "High Page Clothes"
+	},
+	{
+		"Id": 1991100,
+		"Value": "High Page Clothes (Altered)"
+	},
+	{
+		"Id": 2000000,
+		"Value": "Rotten Duelist Helm"
+	},
+	{
+		"Id": 2000100,
+		"Value": "Rotten Gravekeeper Cloak"
+	},
+	{
+		"Id": 2000300,
+		"Value": "Rotten Duelist Greaves"
+	},
+	{
+		"Id": 2001100,
+		"Value": "Rotten Gravekeeper Cloak (Altered)"
+	},
+	{
+		"Id": 2010000,
+		"Value": "Mushroom Crown"
+	},
+	{
+		"Id": 2020000,
+		"Value": "Black Dumpling"
+	},
+	{
+		"Id": 2030000,
+		"Value": "Lazuli Robe"
+	}
+]

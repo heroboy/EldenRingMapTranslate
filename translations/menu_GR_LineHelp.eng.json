@@ -1,0 +1,1286 @@
+[
+	{
+		"Id": 4100,
+		"Value": "Use selected item"
+	},
+	{
+		"Id": 4101,
+		"Value": "Leave selected item here"
+	},
+	{
+		"Id": 4102,
+		"Value": "Discard selected item"
+	},
+	{
+		"Id": 4110,
+		"Value": "Use selected items"
+	},
+	{
+		"Id": 4111,
+		"Value": "Leave selected items here"
+	},
+	{
+		"Id": 4112,
+		"Value": "Discard selected items "
+	},
+	{
+		"Id": 4121,
+		"Value": "Select items to leave here"
+	},
+	{
+		"Id": 4122,
+		"Value": "Select items to discard"
+	},
+	{
+		"Id": 5100,
+		"Value": "Use selected number of items"
+	},
+	{
+		"Id": 5101,
+		"Value": "Leave selected number of items here"
+	},
+	{
+		"Id": 5102,
+		"Value": "Discard selected number of items"
+	},
+	{
+		"Id": 5104,
+		"Value": "Purchase selected number of items"
+	},
+	{
+		"Id": 5105,
+		"Value": "Sell selected number of items"
+	},
+	{
+		"Id": 5106,
+		"Value": "Store selected number of items"
+	},
+	{
+		"Id": 5107,
+		"Value": "Take out selected number of items"
+	},
+	{
+		"Id": 6000,
+		"Value": "Select a sorting method"
+	},
+	{
+		"Id": 30000,
+		"Value": "Select entry to check"
+	},
+	{
+		"Id": 40331,
+		"Value": "Confirm settings and continue"
+	},
+	{
+		"Id": 40500,
+		"Value": "Restore default settings"
+	},
+	{
+		"Id": 102000,
+		"Value": "Select an item to interact with"
+	},
+	{
+		"Id": 103000,
+		"Value": "Select slot to equip"
+	},
+	{
+		"Id": 103500,
+		"Value": "Select item to equip"
+	},
+	{
+		"Id": 105000,
+		"Value": "Check character status"
+	},
+	{
+		"Id": 106000,
+		"Value": "Select entry to execute"
+	},
+	{
+		"Id": 106001,
+		"Value": "Choose setting to adjust"
+	},
+	{
+		"Id": 110001,
+		"Value": "Change up/down camera movement"
+	},
+	{
+		"Id": 110002,
+		"Value": "Change left/right camera movement"
+	},
+	{
+		"Id": 110003,
+		"Value": "Camera reset also resets the camera y-axis"
+	},
+	{
+		"Id": 110004,
+		"Value": "Set camera movement speed"
+	},
+	{
+		"Id": 110005,
+		"Value": "Set auto lock-on to new target when former target dies"
+	},
+	{
+		"Id": 110006,
+		"Value": "Automatically target an enemy when attacking with no lock"
+	},
+	{
+		"Id": 110007,
+		"Value": "Set whether the camera automatically avoids walls"
+	},
+	{
+		"Id": 110009,
+		"Value": "Set controls used for jumping"
+	},
+	{
+		"Id": 110010,
+		"Value": "Allows for manual control of aiming of large weapons when locked-on"
+	},
+	{
+		"Id": 110020,
+		"Value": "Decide whether to prioritize visual quality or frame rate"
+	},
+	{
+		"Id": 110101,
+		"Value": "Switch depiction of blood on or off, or set to mild"
+	},
+	{
+		"Id": 110102,
+		"Value": "Switch in-game subtitles on or off"
+	},
+	{
+		"Id": 110103,
+		"Value": "Configure how in-game HUD is displayed"
+	},
+	{
+		"Id": 110104,
+		"Value": "Configure cinematic effects used during special attacks"
+	},
+	{
+		"Id": 110105,
+		"Value": "Adjust music level"
+	},
+	{
+		"Id": 110106,
+		"Value": "Adjust sound effect level"
+	},
+	{
+		"Id": 110107,
+		"Value": "Adjust voice level"
+	},
+	{
+		"Id": 110117,
+		"Value": "Set overall audio volume"
+	},
+	{
+		"Id": 110118,
+		"Value": "Set automatic camera rotation for left/right movement"
+	},
+	{
+		"Id": 110201,
+		"Value": "Adjust screen brightness"
+	},
+	{
+		"Id": 110202,
+		"Value": "Adjust image quality when HDR is enabled"
+	},
+	{
+		"Id": 110209,
+		"Value": "Enable/disable HDR"
+	},
+	{
+		"Id": 110301,
+		"Value": "Allow or restrict voice chat"
+	},
+	{
+		"Id": 110302,
+		"Value": "Allow or restrict cross-region matching"
+	},
+	{
+		"Id": 110303,
+		"Value": "Edit to match with players using the same password"
+	},
+	{
+		"Id": 110304,
+		"Value": "Choose whether or not to display other players' names"
+	},
+	{
+		"Id": 110305,
+		"Value": "Choose whether to launch the game in online or offline mode"
+	},
+	{
+		"Id": 110306,
+		"Value": "Block your summon sign in worlds with adversaries present"
+	},
+	{
+		"Id": 110307,
+		"Value": "Review and update your consent to the data usage agreement"
+	},
+	{
+		"Id": 110500,
+		"Value": "Save the game and return to title menu"
+	},
+	{
+		"Id": 110900,
+		"Value": "View controls"
+	},
+	{
+		"Id": 111006,
+		"Value": "Set keys to assign to actions"
+	},
+	{
+		"Id": 111010,
+		"Value": "Set device for on-screen prompts"
+	},
+	{
+		"Id": 111011,
+		"Value": "Set whether tutorials will be shown or not"
+	},
+	{
+		"Id": 111020,
+		"Value": "Set mouse sensitivity for camera movement"
+	},
+	{
+		"Id": 111022,
+		"Value": "Set horizontal camera controls with the mouse"
+	},
+	{
+		"Id": 111023,
+		"Value": "Set vertical camera controls with the mouse"
+	},
+	{
+		"Id": 111110,
+		"Value": "Set the screen mode in which to launch the game"
+	},
+	{
+		"Id": 111111,
+		"Value": "Set the resolution"
+	},
+	{
+		"Id": 111112,
+		"Value": "Set whether to simplify rendering in the case of reduced performance"
+	},
+	{
+		"Id": 111113,
+		"Value": "Set graphics quality"
+	},
+	{
+		"Id": 111114,
+		"Value": "Set advanced graphics quality"
+	},
+	{
+		"Id": 111210,
+		"Value": "Set texture quality"
+	},
+	{
+		"Id": 111211,
+		"Value": "Select antialiasing quality"
+	},
+	{
+		"Id": 111212,
+		"Value": "Select SSAO quality"
+	},
+	{
+		"Id": 111213,
+		"Value": "Select DOF quality"
+	},
+	{
+		"Id": 111214,
+		"Value": "Select motion blur quality"
+	},
+	{
+		"Id": 111215,
+		"Value": "Select shadow quality"
+	},
+	{
+		"Id": 111216,
+		"Value": "Select lighting quality"
+	},
+	{
+		"Id": 111217,
+		"Value": "Select effects quality"
+	},
+	{
+		"Id": 111218,
+		"Value": "Select volumetric quality"
+	},
+	{
+		"Id": 111219,
+		"Value": "Select reflection quality"
+	},
+	{
+		"Id": 111220,
+		"Value": "Select water surface quality"
+	},
+	{
+		"Id": 111221,
+		"Value": "Select shader quality"
+	},
+	{
+		"Id": 111222,
+		"Value": "Select ray tracing quality"
+	},
+	{
+		"Id": 111223,
+		"Value": "Select global illumination quality"
+	},
+	{
+		"Id": 111224,
+		"Value": "Select grass quality"
+	},
+	{
+		"Id": 212000,
+		"Value": "Choose attribute to level up"
+	},
+	{
+		"Id": 212001,
+		"Value": "Spending runes to level up"
+	},
+	{
+		"Id": 212750,
+		"Value": "Choose attribute to level up"
+	},
+	{
+		"Id": 212751,
+		"Value": "Reset attributes with rebirth"
+	},
+	{
+		"Id": 214000,
+		"Value": "Select an armament to enhance with Ashes of War"
+	},
+	{
+		"Id": 214001,
+		"Value": "Select an Ash of War to apply"
+	},
+	{
+		"Id": 214002,
+		"Value": "Select an affinity to grant to this armament"
+	},
+	{
+		"Id": 215000,
+		"Value": "Select a slot to hold a Great Rune"
+	},
+	{
+		"Id": 215001,
+		"Value": "Select a rune to hold"
+	},
+	{
+		"Id": 216000,
+		"Value": "Select ashes to strengthen"
+	},
+	{
+		"Id": 221000,
+		"Value": "Select an armament to strengthen"
+	},
+	{
+		"Id": 221010,
+		"Value": "Select an armament to strengthen"
+	},
+	{
+		"Id": 222000,
+		"Value": "Select memory slot"
+	},
+	{
+		"Id": 222001,
+		"Value": "Select sorcery/incantation to memorize"
+	},
+	{
+		"Id": 225000,
+		"Value": "Choose which dragon ability to make thine own"
+	},
+	{
+		"Id": 226000,
+		"Value": "Select puppet to obtain"
+	},
+	{
+		"Id": 227000,
+		"Value": "Select Ashes of War to duplicate"
+	},
+	{
+		"Id": 230000,
+		"Value": "Select puppet to obtain"
+	},
+	{
+		"Id": 230100,
+		"Value": "Select remembrance to duplicate"
+	},
+	{
+		"Id": 231000,
+		"Value": "Select item to purchase"
+	},
+	{
+		"Id": 232000,
+		"Value": "Select item to sell"
+	},
+	{
+		"Id": 236000,
+		"Value": "Select item to craft"
+	},
+	{
+		"Id": 236200,
+		"Value": "Select which remembrance to plumb for power"
+	},
+	{
+		"Id": 236201,
+		"Value": "Select power to draw from remembrance"
+	},
+	{
+		"Id": 236400,
+		"Value": "Select garment to alter"
+	},
+	{
+		"Id": 236401,
+		"Value": "Select garment after alterations"
+	},
+	{
+		"Id": 238000,
+		"Value": "Select mixture slot"
+	},
+	{
+		"Id": 238001,
+		"Value": "Select crystal tear to mix"
+	},
+	{
+		"Id": 241000,
+		"Value": "View map"
+	},
+	{
+		"Id": 241100,
+		"Value": "Set marker"
+	},
+	{
+		"Id": 241101,
+		"Value": "Remove marker"
+	},
+	{
+		"Id": 241102,
+		"Value": "Remove all markers"
+	},
+	{
+		"Id": 241200,
+		"Value": "Select the site of grace where you wish to go"
+	},
+	{
+		"Id": 241300,
+		"Value": "Select the site of grace where you wish to go"
+	},
+	{
+		"Id": 251000,
+		"Value": "Select item to store in chest"
+	},
+	{
+		"Id": 251001,
+		"Value": "Select item to take from chest"
+	},
+	{
+		"Id": 280005,
+		"Value": "Select which action to assign"
+	},
+	{
+		"Id": 280011,
+		"Value": "Press the key you want to assign to this action"
+	},
+	{
+		"Id": 280100,
+		"Value": "Press while moving to walk"
+	},
+	{
+		"Id": 280101,
+		"Value": "Move forwards"
+	},
+	{
+		"Id": 280102,
+		"Value": "Move to the rear"
+	},
+	{
+		"Id": 280103,
+		"Value": "Move to the left"
+	},
+	{
+		"Id": 280104,
+		"Value": "Move to the right"
+	},
+	{
+		"Id": 280105,
+		"Value": "Press while standing still to backstep.\nPress while moving for a dodge roll, or hold to dash."
+	},
+	{
+		"Id": 280106,
+		"Value": "Jump"
+	},
+	{
+		"Id": 280107,
+		"Value": "Switch between standing and crouching"
+	},
+	{
+		"Id": 280200,
+		"Value": "Move the camera up.\nChange target upwards during lock-on."
+	},
+	{
+		"Id": 280201,
+		"Value": "Move the camera down.\nChange target downwards during lock-on."
+	},
+	{
+		"Id": 280202,
+		"Value": "Move the camera to the left.\nChange target to the left during lock-on."
+	},
+	{
+		"Id": 280203,
+		"Value": "Move the camera to the right.\nChange target to the right during lock-on."
+	},
+	{
+		"Id": 280204,
+		"Value": "Reset the camera's position.\nTurn lock-on fixation on or off during lock-on."
+	},
+	{
+		"Id": 280300,
+		"Value": "Change your Quick Item"
+	},
+	{
+		"Id": 280301,
+		"Value": "Change your right-hand armament"
+	},
+	{
+		"Id": 280302,
+		"Value": "Change your left-hand armament"
+	},
+	{
+		"Id": 280303,
+		"Value": "Change your selected sorcery or incantation"
+	},
+	{
+		"Id": 280400,
+		"Value": "Normal attack with your right-hand armament"
+	},
+	{
+		"Id": 280401,
+		"Value": "Strong attack with your right-hand armament. Hold to charge the attack."
+	},
+	{
+		"Id": 280402,
+		"Value": "Guard with your left-hand armament"
+	},
+	{
+		"Id": 280403,
+		"Value": "Perform a skill"
+	},
+	{
+		"Id": 280404,
+		"Value": "Perform various actions"
+	},
+	{
+		"Id": 280405,
+		"Value": "Use an item"
+	},
+	{
+		"Id": 280406,
+		"Value": "Wield your right-hand armament in both hands.\nHold to wield your left-hand armament in both hands instead."
+	},
+	{
+		"Id": 288000,
+		"Value": "Select which character to use"
+	},
+	{
+		"Id": 288001,
+		"Value": "Select a base for creating your character"
+	},
+	{
+		"Id": 291000,
+		"Value": "Enter name"
+	},
+	{
+		"Id": 291001,
+		"Value": "Select body type"
+	},
+	{
+		"Id": 291002,
+		"Value": "Select apparent age"
+	},
+	{
+		"Id": 291003,
+		"Value": "Select voice"
+	},
+	{
+		"Id": 291010,
+		"Value": "Select origin"
+	},
+	{
+		"Id": 291011,
+		"Value": "Select keepsake"
+	},
+	{
+		"Id": 291020,
+		"Value": "Choose a template appearance"
+	},
+	{
+		"Id": 291021,
+		"Value": "Alter facial features"
+	},
+	{
+		"Id": 291022,
+		"Value": "Alter general figure"
+	},
+	{
+		"Id": 291023,
+		"Value": "Alter skin color and details"
+	},
+	{
+		"Id": 291025,
+		"Value": "Edit details of character appearance"
+	},
+	{
+		"Id": 291030,
+		"Value": "Save present settings as a favorite"
+	},
+	{
+		"Id": 291031,
+		"Value": "Load saved favorite"
+	},
+	{
+		"Id": 291050,
+		"Value": "Finalize character"
+	},
+	{
+		"Id": 291051,
+		"Value": "Start over with a new appearance"
+	},
+	{
+		"Id": 291052,
+		"Value": "Start over with a new appearance"
+	},
+	{
+		"Id": 292000,
+		"Value": "Edit character's facial features"
+	},
+	{
+		"Id": 292001,
+		"Value": "Edit character's facial shape"
+	},
+	{
+		"Id": 292010,
+		"Value": "Edit character's hair"
+	},
+	{
+		"Id": 292011,
+		"Value": "Edit character's eyebrows"
+	},
+	{
+		"Id": 292012,
+		"Value": "Edit character's facial hair"
+	},
+	{
+		"Id": 292013,
+		"Value": "Edit character's eyelashes"
+	},
+	{
+		"Id": 292020,
+		"Value": "Edit character's eyes"
+	},
+	{
+		"Id": 292025,
+		"Value": "Edit character's skin features"
+	},
+	{
+		"Id": 292030,
+		"Value": "Edit character's makeup"
+	},
+	{
+		"Id": 292040,
+		"Value": "Edit character's tattoos/marks/eyepatch"
+	},
+	{
+		"Id": 292050,
+		"Value": "Select face similar to present face"
+	},
+	{
+		"Id": 292060,
+		"Value": "Adjust character's head"
+	},
+	{
+		"Id": 292061,
+		"Value": "Adjust character's chest"
+	},
+	{
+		"Id": 292062,
+		"Value": "Adjust character's abdomen"
+	},
+	{
+		"Id": 292063,
+		"Value": "Adjust character's arms"
+	},
+	{
+		"Id": 292064,
+		"Value": "Adjust character's legs"
+	},
+	{
+		"Id": 292070,
+		"Value": "Adjust character's body hair"
+	},
+	{
+		"Id": 292071,
+		"Value": "Adjust character's body hair color"
+	},
+	{
+		"Id": 292072,
+		"Value": "Select musculature"
+	},
+	{
+		"Id": 292080,
+		"Value": "Set whether to display burn marks"
+	},
+	{
+		"Id": 293000,
+		"Value": "Choose bone structure"
+	},
+	{
+		"Id": 293001,
+		"Value": "Adjust facial feature strength"
+	},
+	{
+		"Id": 293002,
+		"Value": "Adjust apparent age"
+	},
+	{
+		"Id": 293003,
+		"Value": "Adjust facial aesthetic"
+	},
+	{
+		"Id": 293010,
+		"Value": "Edit facial balance"
+	},
+	{
+		"Id": 293011,
+		"Value": "Edit forehead and glabella"
+	},
+	{
+		"Id": 293012,
+		"Value": "Edit brow ridge"
+	},
+	{
+		"Id": 293013,
+		"Value": "Edit eyes"
+	},
+	{
+		"Id": 293014,
+		"Value": "Edit nose ridge"
+	},
+	{
+		"Id": 293015,
+		"Value": "Edit nostrils"
+	},
+	{
+		"Id": 293016,
+		"Value": "Edit cheeks"
+	},
+	{
+		"Id": 293017,
+		"Value": "Edit lips"
+	},
+	{
+		"Id": 293018,
+		"Value": "Edit mouth"
+	},
+	{
+		"Id": 293019,
+		"Value": "Edit chin"
+	},
+	{
+		"Id": 293020,
+		"Value": "Edit jaw"
+	},
+	{
+		"Id": 293100,
+		"Value": "Select hair style"
+	},
+	{
+		"Id": 293101,
+		"Value": "Edit hair color"
+	},
+	{
+		"Id": 293102,
+		"Value": "Adjust hair luster"
+	},
+	{
+		"Id": 293103,
+		"Value": "Adjust hair root darkness"
+	},
+	{
+		"Id": 293104,
+		"Value": "Adjust quantity of white hairs"
+	},
+	{
+		"Id": 293110,
+		"Value": "Select brow shape"
+	},
+	{
+		"Id": 293111,
+		"Value": "Edit brow color"
+	},
+	{
+		"Id": 293112,
+		"Value": "Adjust eyebrow luster"
+	},
+	{
+		"Id": 293113,
+		"Value": "Adjust eyebrow root darkness"
+	},
+	{
+		"Id": 293114,
+		"Value": "Adjust quantity of white eyebrow hairs"
+	},
+	{
+		"Id": 293120,
+		"Value": "Select beard type"
+	},
+	{
+		"Id": 293121,
+		"Value": "Edit beard color"
+	},
+	{
+		"Id": 293122,
+		"Value": "Adjust facial hair luster"
+	},
+	{
+		"Id": 293123,
+		"Value": "Adjust facial hair root darkness"
+	},
+	{
+		"Id": 293124,
+		"Value": "Adjust quantity of white facial hair"
+	},
+	{
+		"Id": 293125,
+		"Value": "Adjust stubble thickness"
+	},
+	{
+		"Id": 293130,
+		"Value": "Select eyelash shape"
+	},
+	{
+		"Id": 293131,
+		"Value": "Edit eyelash color"
+	},
+	{
+		"Id": 293140,
+		"Value": "Adjust right eye size"
+	},
+	{
+		"Id": 293141,
+		"Value": "Edit color of right iris"
+	},
+	{
+		"Id": 293142,
+		"Value": "Adjust opacity of right eye clouding"
+	},
+	{
+		"Id": 293143,
+		"Value": "Adjust color of right eye clouding"
+	},
+	{
+		"Id": 293144,
+		"Value": "Adjust color of right eye white"
+	},
+	{
+		"Id": 293145,
+		"Value": "Adjust right eye's distance from the center of the face"
+	},
+	{
+		"Id": 293150,
+		"Value": "Adjust left eye size"
+	},
+	{
+		"Id": 293151,
+		"Value": "Edit color of left iris"
+	},
+	{
+		"Id": 293152,
+		"Value": "Adjust opacity of left eye clouding"
+	},
+	{
+		"Id": 293153,
+		"Value": "Adjust color of left eye clouding"
+	},
+	{
+		"Id": 293154,
+		"Value": "Adjust color of left eye white"
+	},
+	{
+		"Id": 293155,
+		"Value": "Adjust left eye's distance from the center of the face"
+	},
+	{
+		"Id": 293156,
+		"Value": "Apply eye alterations"
+	},
+	{
+		"Id": 293160,
+		"Value": "Alter visibility of pores"
+	},
+	{
+		"Id": 293161,
+		"Value": "Adjust skin luster"
+	},
+	{
+		"Id": 293162,
+		"Value": "Adjust darkness of bags under eyes"
+	},
+	{
+		"Id": 293163,
+		"Value": "Adjust the color of bags under eyes"
+	},
+	{
+		"Id": 293164,
+		"Value": "Adjust cheek makeup intensity"
+	},
+	{
+		"Id": 293165,
+		"Value": "Adjust cheek color"
+	},
+	{
+		"Id": 293166,
+		"Value": "Adjust eyeliner darkness"
+	},
+	{
+		"Id": 293167,
+		"Value": "Adjust eyeliner color"
+	},
+	{
+		"Id": 293168,
+		"Value": "Adjust eyeshadow darkness on upper eyelid"
+	},
+	{
+		"Id": 293169,
+		"Value": "Adjust eyeshadow color on upper eyelid"
+	},
+	{
+		"Id": 293170,
+		"Value": "Adjust eyeshadow darkness on lower eyelid"
+	},
+	{
+		"Id": 293171,
+		"Value": "Adjust eyeshadow color on lower eyelid"
+	},
+	{
+		"Id": 293172,
+		"Value": "Adjust lipstick intensity"
+	},
+	{
+		"Id": 293173,
+		"Value": "Adjust lipstick color"
+	},
+	{
+		"Id": 293180,
+		"Value": "Select appearance of tattoo/mark"
+	},
+	{
+		"Id": 293181,
+		"Value": "Edit tattoo/mark color"
+	},
+	{
+		"Id": 293182,
+		"Value": "Adjust position of tattoo/mark"
+	},
+	{
+		"Id": 293190,
+		"Value": "Choose an eyepatch"
+	},
+	{
+		"Id": 293191,
+		"Value": "Adjust eyepatch color"
+	},
+	{
+		"Id": 297100,
+		"Value": "Buff body\nBody type has no bearing on ability"
+	},
+	{
+		"Id": 297101,
+		"Value": "Slender body\nBody type has no bearing on ability"
+	},
+	{
+		"Id": 297110,
+		"Value": "Young\nAge only affects appearance,\nhas no bearing on ability"
+	},
+	{
+		"Id": 297111,
+		"Value": "Mature\nAge only affects appearance,\nhas no bearing on ability"
+	},
+	{
+		"Id": 297112,
+		"Value": "Aged\nAge only affects appearance,\nhas no bearing on ability"
+	},
+	{
+		"Id": 297120,
+		"Value": "Young voice type 1"
+	},
+	{
+		"Id": 297121,
+		"Value": "Mature voice type 1"
+	},
+	{
+		"Id": 297122,
+		"Value": "Aged voice type 1"
+	},
+	{
+		"Id": 297125,
+		"Value": "Young voice type 2"
+	},
+	{
+		"Id": 297126,
+		"Value": "Mature voice type 2"
+	},
+	{
+		"Id": 297127,
+		"Value": "Aged voice type 2"
+	},
+	{
+		"Id": 297130,
+		"Value": "A knight exiled from their homeland to\nwander. A solid, armor-clad origin."
+	},
+	{
+		"Id": 297131,
+		"Value": "A nomad warrior who fights wielding two\nblades at once. An origin of exceptional\ntechnique."
+	},
+	{
+		"Id": 297132,
+		"Value": "A stalwart hero, at home with a battleaxe,\ndescended from a badlands chieftain."
+	},
+	{
+		"Id": 297133,
+		"Value": "A dangerous bandit who strikes for\nweak points. Excels at ranged combat\nwith bows."
+	},
+	{
+		"Id": 297134,
+		"Value": "A scholar who reads fate in the stars.\nHeir to the school of glintstone sorcery."
+	},
+	{
+		"Id": 297135,
+		"Value": "A seer ostracized for inauspicious\nprophecies. Well-versed in healing\nincantations."
+	},
+	{
+		"Id": 297136,
+		"Value": "A capable fighter from the distant Land of\nReeds. Handy with katana and longbows."
+	},
+	{
+		"Id": 297137,
+		"Value": "A prisoner bound in an iron mask. Studied\nin glintstone sorcery, having lived among\nthe elite prior to sentencing."
+	},
+	{
+		"Id": 297138,
+		"Value": "A church spy adept at covert operations.\nEqually adept with a sword as they are\nwith their incantations."
+	},
+	{
+		"Id": 297139,
+		"Value": "A poor, purposeless sod, naked as the day\nthey were born. A nice club is all they have."
+	},
+	{
+		"Id": 297150,
+		"Value": "No keepsake. The past has been well and\ntruly left behind."
+	},
+	{
+		"Id": 297151,
+		"Value": "A medallion inlaid with crimson amber.\nIncreases maximum HP."
+	},
+	{
+		"Id": 297152,
+		"Value": "The gold of grace shining in the eyes of\nthe people of the Lands Between.\nUse to gain many runes."
+	},
+	{
+		"Id": 297153,
+		"Value": "A golden seed washed ashore from the\nLands Between. Said to reinforce\nSacred Flasks."
+	},
+	{
+		"Id": 297154,
+		"Value": "The ashes of small, diminutive golems.\nAshes are said to hold spirits within."
+	},
+	{
+		"Id": 297156,
+		"Value": "Three strange cracked pots that somehow\nmend themselves. A container for certain\nthrown items."
+	},
+	{
+		"Id": 297157,
+		"Value": "Two stone keys shaped like swords.\nBreaks the seal on imp statues, but can only be used once."
+	},
+	{
+		"Id": 297158,
+		"Value": "Five sacred branches charged with beguiling\npower. Said to originate from the\ndemigod Miquella."
+	},
+	{
+		"Id": 297159,
+		"Value": "Five pieces of boiled prawn.\nBoosts physical damage negation."
+	},
+	{
+		"Id": 297160,
+		"Value": "The crazed likeness of a noble whose eyes have been gouged out.\nAttracts enemies' aggression."
+	},
+	{
+		"Id": 297170,
+		"Value": "Average physique"
+	},
+	{
+		"Id": 297171,
+		"Value": "Muscular physique"
+	},
+	{
+		"Id": 297180,
+		"Value": "Mirror tattoos and marks"
+	},
+	{
+		"Id": 297181,
+		"Value": "Do not mirror tattoos and marks"
+	},
+	{
+		"Id": 297185,
+		"Value": "Apply eye alterations"
+	},
+	{
+		"Id": 297186,
+		"Value": "Do not apply eye alterations"
+	},
+	{
+		"Id": 297187,
+		"Value": "Display burn marks"
+	},
+	{
+		"Id": 297188,
+		"Value": "Do not display burn marks"
+	},
+	{
+		"Id": 297200,
+		"Value": "The most common face among the Tarnished.\nAfter all, they were all warriors once."
+	},
+	{
+		"Id": 297201,
+		"Value": "The face of an austere pilgrim.\nThere are many roads to truth."
+	},
+	{
+		"Id": 297202,
+		"Value": "A regal face found among those who claim\nnoble blood in the Lands Between."
+	},
+	{
+		"Id": 297203,
+		"Value": "Face found among a proud and seclusive\ntribe of folk well-versed in ancient\nlegends and heresies alike."
+	},
+	{
+		"Id": 297204,
+		"Value": "A face found among the hardy people\nof the unforgiving north. Some say\nthey're descended from giants."
+	},
+	{
+		"Id": 297205,
+		"Value": "The face of one who wanders the seas in\nsearch of their home in the Lands Between."
+	},
+	{
+		"Id": 297206,
+		"Value": "A face from the faraway, isolated Land\nof Reeds, where blood is a familiar sight."
+	},
+	{
+		"Id": 297207,
+		"Value": "The stony face of the people of the\nancient dragons, among whom life\nis typically short."
+	},
+	{
+		"Id": 297208,
+		"Value": "The features of those known as\nNightfolk. Few in number, they were\nsaid to bleed silver long ago."
+	},
+	{
+		"Id": 297209,
+		"Value": "The face of the Numen, supposed\ndescendants of denizens of another\nworld. Long-lived but seldom born."
+	},
+	{
+		"Id": 297220,
+		"Value": "The most common face among the Tarnished.\nAfter all, they were all warriors once."
+	},
+	{
+		"Id": 297221,
+		"Value": "The face of an austere pilgrim.\nThere are many roads to truth."
+	},
+	{
+		"Id": 297222,
+		"Value": "A regal face found among those who claim\nnoble blood in the Lands Between."
+	},
+	{
+		"Id": 297223,
+		"Value": "Face found among a proud and seclusive\ntribe of folk well-versed in ancient\nlegends and heresies alike."
+	},
+	{
+		"Id": 297224,
+		"Value": "A face found among the hardy people\nof the unforgiving north. Some say\nthey're descended from giants."
+	},
+	{
+		"Id": 297225,
+		"Value": "The face of one who wanders the seas in\nsearch of their home in the Lands Between."
+	},
+	{
+		"Id": 297226,
+		"Value": "A face from the faraway, isolated Land\nof Reeds, where blood is a familiar sight."
+	},
+	{
+		"Id": 297227,
+		"Value": "The stony face of the people of the\nancient dragons, among whom life\nis typically short."
+	},
+	{
+		"Id": 297228,
+		"Value": "The features of those known as\nNightfolk. Few in number, they were\nsaid to bleed silver long ago."
+	},
+	{
+		"Id": 297229,
+		"Value": "The face of the Numen, supposed\ndescendants of denizens of another\nworld. Long-lived but seldom born."
+	},
+	{
+		"Id": 301000,
+		"Value": "Select gesture for this slot"
+	},
+	{
+		"Id": 301001,
+		"Value": "Select gesture to use"
+	},
+	{
+		"Id": 321000,
+		"Value": "Edit message composition"
+	},
+	{
+		"Id": 321001,
+		"Value": "Change bound gesture"
+	},
+	{
+		"Id": 321002,
+		"Value": "Finish writing message"
+	},
+	{
+		"Id": 321003,
+		"Value": "Select template"
+	},
+	{
+		"Id": 321004,
+		"Value": "Change bound gesture"
+	},
+	{
+		"Id": 321005,
+		"Value": "Select word category"
+	},
+	{
+		"Id": 321006,
+		"Value": "Select template"
+	},
+	{
+		"Id": 321007,
+		"Value": "Select word"
+	},
+	{
+		"Id": 321008,
+		"Value": "Select conjunction"
+	},
+	{
+		"Id": 322000,
+		"Value": "View composed messages"
+	},
+	{
+		"Id": 324000,
+		"Value": "See recently viewed messages"
+	},
+	{
+		"Id": 406000,
+		"Value": "Select profile to load"
+	},
+	{
+		"Id": 406001,
+		"Value": "Select profile to delete"
+	}
+]

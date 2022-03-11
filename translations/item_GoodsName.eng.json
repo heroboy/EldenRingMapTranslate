@@ -1,0 +1,6794 @@
+[
+	{
+		"Id": 100,
+		"Value": "Tarnished's Furled Finger"
+	},
+	{
+		"Id": 101,
+		"Value": "Duelist's Furled Finger"
+	},
+	{
+		"Id": 102,
+		"Value": "Bloody Finger"
+	},
+	{
+		"Id": 103,
+		"Value": "Finger Severer"
+	},
+	{
+		"Id": 104,
+		"Value": "White Cipher Ring"
+	},
+	{
+		"Id": 105,
+		"Value": "Blue Cipher Ring"
+	},
+	{
+		"Id": 106,
+		"Value": "Tarnished's Wizened Finger"
+	},
+	{
+		"Id": 107,
+		"Value": "Phantom Bloody Finger"
+	},
+	{
+		"Id": 108,
+		"Value": "Taunter's Tongue"
+	},
+	{
+		"Id": 109,
+		"Value": "Small Golden Effigy"
+	},
+	{
+		"Id": 110,
+		"Value": "Small Red Effigy"
+	},
+	{
+		"Id": 111,
+		"Value": "Festering Bloody Finger"
+	},
+	{
+		"Id": 112,
+		"Value": "Recusant Finger"
+	},
+	{
+		"Id": 113,
+		"Value": "Phantom Bloody Finger"
+	},
+	{
+		"Id": 114,
+		"Value": "Phantom Recusant Finger"
+	},
+	{
+		"Id": 115,
+		"Value": "Memory of Grace"
+	},
+	{
+		"Id": 130,
+		"Value": "Spectral Steed Whistle"
+	},
+	{
+		"Id": 135,
+		"Value": "Phantom Great Rune"
+	},
+	{
+		"Id": 150,
+		"Value": "Furlcalling Finger Remedy"
+	},
+	{
+		"Id": 170,
+		"Value": "Tarnished's Furled Finger"
+	},
+	{
+		"Id": 171,
+		"Value": "Duelist's Furled Finger"
+	},
+	{
+		"Id": 172,
+		"Value": "Bloody Finger"
+	},
+	{
+		"Id": 174,
+		"Value": "White Cipher Ring"
+	},
+	{
+		"Id": 175,
+		"Value": "Blue Cipher Ring"
+	},
+	{
+		"Id": 178,
+		"Value": "Taunter's Tongue"
+	},
+	{
+		"Id": 179,
+		"Value": "Small Golden Effigy"
+	},
+	{
+		"Id": 180,
+		"Value": "Small Red Effigy"
+	},
+	{
+		"Id": 181,
+		"Value": "Spectral Steed Whistle"
+	},
+	{
+		"Id": 182,
+		"Value": "Furlcalling Finger Remedy"
+	},
+	{
+		"Id": 183,
+		"Value": "Festering Bloody Finger"
+	},
+	{
+		"Id": 184,
+		"Value": "Recusant Finger"
+	},
+	{
+		"Id": 190,
+		"Value": "Rune Arc"
+	},
+	{
+		"Id": 191,
+		"Value": "Godrick's Great Rune"
+	},
+	{
+		"Id": 192,
+		"Value": "Radahn's Great Rune"
+	},
+	{
+		"Id": 193,
+		"Value": "Morgott's Great Rune"
+	},
+	{
+		"Id": 194,
+		"Value": "Rykard's Great Rune"
+	},
+	{
+		"Id": 195,
+		"Value": "Mohg's Great Rune"
+	},
+	{
+		"Id": 196,
+		"Value": "Malenia's Great Rune"
+	},
+	{
+		"Id": 200,
+		"Value": "Flask of Crimson Tears"
+	},
+	{
+		"Id": 201,
+		"Value": "Flask of Crimson Tears"
+	},
+	{
+		"Id": 202,
+		"Value": "Flask of Crimson Tears +1"
+	},
+	{
+		"Id": 203,
+		"Value": "Flask of Crimson Tears +1"
+	},
+	{
+		"Id": 204,
+		"Value": "Flask of Crimson Tears +2"
+	},
+	{
+		"Id": 205,
+		"Value": "Flask of Crimson Tears +2"
+	},
+	{
+		"Id": 206,
+		"Value": "Flask of Crimson Tears +3"
+	},
+	{
+		"Id": 207,
+		"Value": "Flask of Crimson Tears +3"
+	},
+	{
+		"Id": 208,
+		"Value": "Flask of Crimson Tears +4"
+	},
+	{
+		"Id": 209,
+		"Value": "Flask of Crimson Tears +4"
+	},
+	{
+		"Id": 210,
+		"Value": "Flask of Crimson Tears +5"
+	},
+	{
+		"Id": 211,
+		"Value": "Flask of Crimson Tears +5"
+	},
+	{
+		"Id": 212,
+		"Value": "Flask of Crimson Tears +6"
+	},
+	{
+		"Id": 213,
+		"Value": "Flask of Crimson Tears +6"
+	},
+	{
+		"Id": 214,
+		"Value": "Flask of Crimson Tears +7"
+	},
+	{
+		"Id": 215,
+		"Value": "Flask of Crimson Tears +7"
+	},
+	{
+		"Id": 220,
+		"Value": "Flask of Cerulean Tears"
+	},
+	{
+		"Id": 221,
+		"Value": "Flask of Cerulean Tears"
+	},
+	{
+		"Id": 222,
+		"Value": "Flask of Cerulean Tears +1"
+	},
+	{
+		"Id": 223,
+		"Value": "Flask of Cerulean Tears +1"
+	},
+	{
+		"Id": 224,
+		"Value": "Flask of Cerulean Tears +2"
+	},
+	{
+		"Id": 225,
+		"Value": "Flask of Cerulean Tears +2"
+	},
+	{
+		"Id": 226,
+		"Value": "Flask of Cerulean Tears +3"
+	},
+	{
+		"Id": 227,
+		"Value": "Flask of Cerulean Tears +3"
+	},
+	{
+		"Id": 228,
+		"Value": "Flask of Cerulean Tears +4"
+	},
+	{
+		"Id": 229,
+		"Value": "Flask of Cerulean Tears +4"
+	},
+	{
+		"Id": 230,
+		"Value": "Flask of Cerulean Tears +5"
+	},
+	{
+		"Id": 231,
+		"Value": "Flask of Cerulean Tears +5"
+	},
+	{
+		"Id": 232,
+		"Value": "Flask of Cerulean Tears +6"
+	},
+	{
+		"Id": 233,
+		"Value": "Flask of Cerulean Tears +6"
+	},
+	{
+		"Id": 234,
+		"Value": "Flask of Cerulean Tears +7"
+	},
+	{
+		"Id": 235,
+		"Value": "Flask of Cerulean Tears +7"
+	},
+	{
+		"Id": 250,
+		"Value": "Flask of Wondrous Physick"
+	},
+	{
+		"Id": 251,
+		"Value": "Flask of Wondrous Physick"
+	},
+	{
+		"Id": 300,
+		"Value": "Fire Pot"
+	},
+	{
+		"Id": 301,
+		"Value": "Redmane Fire Pot"
+	},
+	{
+		"Id": 302,
+		"Value": "Giantsflame Fire Pot"
+	},
+	{
+		"Id": 320,
+		"Value": "Lightning Pot"
+	},
+	{
+		"Id": 321,
+		"Value": "Ancient Dragonbolt Pot"
+	},
+	{
+		"Id": 330,
+		"Value": "Fetid Pot"
+	},
+	{
+		"Id": 340,
+		"Value": "Swarm Pot"
+	},
+	{
+		"Id": 350,
+		"Value": "Holy Water Pot"
+	},
+	{
+		"Id": 351,
+		"Value": "Sacred Order Pot"
+	},
+	{
+		"Id": 360,
+		"Value": "Freezing Pot"
+	},
+	{
+		"Id": 370,
+		"Value": "Poison Pot"
+	},
+	{
+		"Id": 380,
+		"Value": "Oil Pot"
+	},
+	{
+		"Id": 390,
+		"Value": "Alluring Pot"
+	},
+	{
+		"Id": 391,
+		"Value": "Beastlure Pot"
+	},
+	{
+		"Id": 400,
+		"Value": "Roped Fire Pot"
+	},
+	{
+		"Id": 420,
+		"Value": "Roped Lightning Pot"
+	},
+	{
+		"Id": 430,
+		"Value": "Roped Fetid Pot"
+	},
+	{
+		"Id": 440,
+		"Value": "Roped Poison Pot"
+	},
+	{
+		"Id": 450,
+		"Value": "Roped Oil Pot"
+	},
+	{
+		"Id": 460,
+		"Value": "Roped Magic Pot"
+	},
+	{
+		"Id": 470,
+		"Value": "Roped Fly Pot"
+	},
+	{
+		"Id": 480,
+		"Value": "Roped Freezing Pot"
+	},
+	{
+		"Id": 490,
+		"Value": "Roped Volcano Pot"
+	},
+	{
+		"Id": 510,
+		"Value": "Roped Holy Water Pot"
+	},
+	{
+		"Id": 600,
+		"Value": "Volcano Pot"
+	},
+	{
+		"Id": 610,
+		"Value": "Albinauric Pot"
+	},
+	{
+		"Id": 630,
+		"Value": "Cursed-Blood Pot"
+	},
+	{
+		"Id": 640,
+		"Value": "Sleep Pot"
+	},
+	{
+		"Id": 650,
+		"Value": "Rancor Pot"
+	},
+	{
+		"Id": 660,
+		"Value": "Magic Pot"
+	},
+	{
+		"Id": 661,
+		"Value": "Academy Magic Pot"
+	},
+	{
+		"Id": 670,
+		"Value": "Rot Pot"
+	},
+	{
+		"Id": 810,
+		"Value": "Rowa Raisin"
+	},
+	{
+		"Id": 811,
+		"Value": "Sweet Raisin"
+	},
+	{
+		"Id": 812,
+		"Value": "Frozen Raisin"
+	},
+	{
+		"Id": 820,
+		"Value": "Boiled Crab"
+	},
+	{
+		"Id": 830,
+		"Value": "Boiled Prawn"
+	},
+	{
+		"Id": 900,
+		"Value": "Neutralizing Boluses"
+	},
+	{
+		"Id": 910,
+		"Value": "Stanching Boluses"
+	},
+	{
+		"Id": 920,
+		"Value": "Thawfrost Boluses"
+	},
+	{
+		"Id": 930,
+		"Value": "Stimulating Boluses"
+	},
+	{
+		"Id": 940,
+		"Value": "Preserving Boluses"
+	},
+	{
+		"Id": 950,
+		"Value": "Rejuvenating Boluses"
+	},
+	{
+		"Id": 960,
+		"Value": "Clarifying Boluses"
+	},
+	{
+		"Id": 1000,
+		"Value": "Flask of Crimson Tears"
+	},
+	{
+		"Id": 1001,
+		"Value": "Flask of Crimson Tears"
+	},
+	{
+		"Id": 1002,
+		"Value": "Flask of Crimson Tears +1"
+	},
+	{
+		"Id": 1003,
+		"Value": "Flask of Crimson Tears +1"
+	},
+	{
+		"Id": 1004,
+		"Value": "Flask of Crimson Tears +2"
+	},
+	{
+		"Id": 1005,
+		"Value": "Flask of Crimson Tears +2"
+	},
+	{
+		"Id": 1006,
+		"Value": "Flask of Crimson Tears +3"
+	},
+	{
+		"Id": 1007,
+		"Value": "Flask of Crimson Tears +3"
+	},
+	{
+		"Id": 1008,
+		"Value": "Flask of Crimson Tears +4"
+	},
+	{
+		"Id": 1009,
+		"Value": "Flask of Crimson Tears +4"
+	},
+	{
+		"Id": 1010,
+		"Value": "Flask of Crimson Tears +5"
+	},
+	{
+		"Id": 1011,
+		"Value": "Flask of Crimson Tears +5"
+	},
+	{
+		"Id": 1012,
+		"Value": "Flask of Crimson Tears +6"
+	},
+	{
+		"Id": 1013,
+		"Value": "Flask of Crimson Tears +6"
+	},
+	{
+		"Id": 1014,
+		"Value": "Flask of Crimson Tears +7"
+	},
+	{
+		"Id": 1015,
+		"Value": "Flask of Crimson Tears +7"
+	},
+	{
+		"Id": 1016,
+		"Value": "Flask of Crimson Tears +8"
+	},
+	{
+		"Id": 1017,
+		"Value": "Flask of Crimson Tears +8"
+	},
+	{
+		"Id": 1018,
+		"Value": "Flask of Crimson Tears +9"
+	},
+	{
+		"Id": 1019,
+		"Value": "Flask of Crimson Tears +9"
+	},
+	{
+		"Id": 1020,
+		"Value": "Flask of Crimson Tears +10"
+	},
+	{
+		"Id": 1021,
+		"Value": "Flask of Crimson Tears +10"
+	},
+	{
+		"Id": 1022,
+		"Value": "Flask of Crimson Tears +11"
+	},
+	{
+		"Id": 1023,
+		"Value": "Flask of Crimson Tears +11"
+	},
+	{
+		"Id": 1024,
+		"Value": "Flask of Crimson Tears +12"
+	},
+	{
+		"Id": 1025,
+		"Value": "Flask of Crimson Tears +12"
+	},
+	{
+		"Id": 1050,
+		"Value": "Flask of Cerulean Tears"
+	},
+	{
+		"Id": 1051,
+		"Value": "Flask of Cerulean Tears"
+	},
+	{
+		"Id": 1052,
+		"Value": "Flask of Cerulean Tears +1"
+	},
+	{
+		"Id": 1053,
+		"Value": "Flask of Cerulean Tears +1"
+	},
+	{
+		"Id": 1054,
+		"Value": "Flask of Cerulean Tears +2"
+	},
+	{
+		"Id": 1055,
+		"Value": "Flask of Cerulean Tears +2"
+	},
+	{
+		"Id": 1056,
+		"Value": "Flask of Cerulean Tears +3"
+	},
+	{
+		"Id": 1057,
+		"Value": "Flask of Cerulean Tears +3"
+	},
+	{
+		"Id": 1058,
+		"Value": "Flask of Cerulean Tears +4"
+	},
+	{
+		"Id": 1059,
+		"Value": "Flask of Cerulean Tears +4"
+	},
+	{
+		"Id": 1060,
+		"Value": "Flask of Cerulean Tears +5"
+	},
+	{
+		"Id": 1061,
+		"Value": "Flask of Cerulean Tears +5"
+	},
+	{
+		"Id": 1062,
+		"Value": "Flask of Cerulean Tears +6"
+	},
+	{
+		"Id": 1063,
+		"Value": "Flask of Cerulean Tears +6"
+	},
+	{
+		"Id": 1064,
+		"Value": "Flask of Cerulean Tears +7"
+	},
+	{
+		"Id": 1065,
+		"Value": "Flask of Cerulean Tears +7"
+	},
+	{
+		"Id": 1066,
+		"Value": "Flask of Cerulean Tears +8"
+	},
+	{
+		"Id": 1067,
+		"Value": "Flask of Cerulean Tears +8"
+	},
+	{
+		"Id": 1068,
+		"Value": "Flask of Cerulean Tears +9"
+	},
+	{
+		"Id": 1069,
+		"Value": "Flask of Cerulean Tears +9"
+	},
+	{
+		"Id": 1070,
+		"Value": "Flask of Cerulean Tears +10"
+	},
+	{
+		"Id": 1071,
+		"Value": "Flask of Cerulean Tears +10"
+	},
+	{
+		"Id": 1072,
+		"Value": "Flask of Cerulean Tears +11"
+	},
+	{
+		"Id": 1073,
+		"Value": "Flask of Cerulean Tears +11"
+	},
+	{
+		"Id": 1074,
+		"Value": "Flask of Cerulean Tears +12"
+	},
+	{
+		"Id": 1075,
+		"Value": "Flask of Cerulean Tears +12"
+	},
+	{
+		"Id": 1100,
+		"Value": "Pickled Turtle Neck"
+	},
+	{
+		"Id": 1110,
+		"Value": "Immunizing Cured Meat"
+	},
+	{
+		"Id": 1120,
+		"Value": "Invigorating Cured Meat"
+	},
+	{
+		"Id": 1130,
+		"Value": "Clarifying Cured Meat"
+	},
+	{
+		"Id": 1140,
+		"Value": "Dappled Cured Meat"
+	},
+	{
+		"Id": 1150,
+		"Value": "Spellproof Dried Liver"
+	},
+	{
+		"Id": 1160,
+		"Value": "Fireproof Dried Liver"
+	},
+	{
+		"Id": 1170,
+		"Value": "Lightningproof Dried Liver"
+	},
+	{
+		"Id": 1180,
+		"Value": "Holyproof Dried Liver"
+	},
+	{
+		"Id": 1190,
+		"Value": "Silver-Pickled Fowl Foot"
+	},
+	{
+		"Id": 1200,
+		"Value": "Gold-Pickled Fowl Foot"
+	},
+	{
+		"Id": 1210,
+		"Value": "Exalted Flesh"
+	},
+	{
+		"Id": 1220,
+		"Value": "Deathsbane Jerky"
+	},
+	{
+		"Id": 1235,
+		"Value": "Raw Meat Dumpling"
+	},
+	{
+		"Id": 1240,
+		"Value": "Shabriri Grape"
+	},
+	{
+		"Id": 1290,
+		"Value": "Starlight Shards"
+	},
+	{
+		"Id": 1310,
+		"Value": "Immunizing White Cured Meat"
+	},
+	{
+		"Id": 1320,
+		"Value": "Invigorating White Cured Meat"
+	},
+	{
+		"Id": 1330,
+		"Value": "Clarifying White Cured Meat"
+	},
+	{
+		"Id": 1340,
+		"Value": "Dappled White Cured Meat"
+	},
+	{
+		"Id": 1350,
+		"Value": "Deathsbane White Jerky"
+	},
+	{
+		"Id": 1400,
+		"Value": "Fire Grease"
+	},
+	{
+		"Id": 1410,
+		"Value": "Lightning Grease"
+	},
+	{
+		"Id": 1420,
+		"Value": "Magic Grease"
+	},
+	{
+		"Id": 1430,
+		"Value": "Holy Grease"
+	},
+	{
+		"Id": 1440,
+		"Value": "Blood Grease"
+	},
+	{
+		"Id": 1450,
+		"Value": "Soporific Grease"
+	},
+	{
+		"Id": 1460,
+		"Value": "Poison Grease"
+	},
+	{
+		"Id": 1470,
+		"Value": "Freezing Grease"
+	},
+	{
+		"Id": 1480,
+		"Value": "Dragonwound Grease"
+	},
+	{
+		"Id": 1490,
+		"Value": "Rot Grease"
+	},
+	{
+		"Id": 1500,
+		"Value": "Drawstring Fire Grease"
+	},
+	{
+		"Id": 1510,
+		"Value": "Drawstring Lightning Grease"
+	},
+	{
+		"Id": 1520,
+		"Value": "Drawstring Magic Grease"
+	},
+	{
+		"Id": 1530,
+		"Value": "Drawstring Holy Grease"
+	},
+	{
+		"Id": 1540,
+		"Value": "Drawstring Blood Grease"
+	},
+	{
+		"Id": 1550,
+		"Value": "Drawstring Soporific Grease"
+	},
+	{
+		"Id": 1560,
+		"Value": "Drawstring Poison Grease"
+	},
+	{
+		"Id": 1570,
+		"Value": "Drawstring Freezing Grease"
+	},
+	{
+		"Id": 1590,
+		"Value": "Drawstring Rot Grease"
+	},
+	{
+		"Id": 1690,
+		"Value": "Shield Grease"
+	},
+	{
+		"Id": 1700,
+		"Value": "Throwing Dagger"
+	},
+	{
+		"Id": 1710,
+		"Value": "Bone Dart"
+	},
+	{
+		"Id": 1720,
+		"Value": "Poisonbone Dart"
+	},
+	{
+		"Id": 1730,
+		"Value": "Kukri"
+	},
+	{
+		"Id": 1740,
+		"Value": "Crystal Dart"
+	},
+	{
+		"Id": 1750,
+		"Value": "Fan Daggers"
+	},
+	{
+		"Id": 1760,
+		"Value": "Ruin Fragment"
+	},
+	{
+		"Id": 1810,
+		"Value": "Fetid Flesh"
+	},
+	{
+		"Id": 1830,
+		"Value": "Explosive Stone"
+	},
+	{
+		"Id": 1831,
+		"Value": "Explosive Stone Clump"
+	},
+	{
+		"Id": 1840,
+		"Value": "Poisoned Stone"
+	},
+	{
+		"Id": 1841,
+		"Value": "Poisoned Stone Clump"
+	},
+	{
+		"Id": 2020,
+		"Value": "Rainbow Stone"
+	},
+	{
+		"Id": 2030,
+		"Value": "Glowstone"
+	},
+	{
+		"Id": 2040,
+		"Value": "Telescope"
+	},
+	{
+		"Id": 2050,
+		"Value": "Grace Mimic"
+	},
+	{
+		"Id": 2070,
+		"Value": "Lantern"
+	},
+	{
+		"Id": 2080,
+		"Value": "Blasphemous Claw"
+	},
+	{
+		"Id": 2090,
+		"Value": "Deathroot"
+	},
+	{
+		"Id": 2100,
+		"Value": "Soft Cotton"
+	},
+	{
+		"Id": 2120,
+		"Value": "Soap"
+	},
+	{
+		"Id": 2130,
+		"Value": "Celestial Dew"
+	},
+	{
+		"Id": 2140,
+		"Value": "Margit's Shackle"
+	},
+	{
+		"Id": 2150,
+		"Value": "Mohg's Shackle"
+	},
+	{
+		"Id": 2160,
+		"Value": "Pureblood Knight's Medal"
+	},
+	{
+		"Id": 2190,
+		"Value": "Miquella's Needle"
+	},
+	{
+		"Id": 2200,
+		"Value": "Prattling Pate \"Hello\""
+	},
+	{
+		"Id": 2201,
+		"Value": "Prattling Pate \"Thank you\""
+	},
+	{
+		"Id": 2202,
+		"Value": "Prattling Pate \"Apologies\""
+	},
+	{
+		"Id": 2203,
+		"Value": "Prattling Pate \"Wonderful\""
+	},
+	{
+		"Id": 2204,
+		"Value": "Prattling Pate \"Please help\""
+	},
+	{
+		"Id": 2205,
+		"Value": "Prattling Pate \"My beloved\""
+	},
+	{
+		"Id": 2206,
+		"Value": "Prattling Pate \"Let's get to it\""
+	},
+	{
+		"Id": 2207,
+		"Value": "Prattling Pate \"You're beautiful\""
+	},
+	{
+		"Id": 2900,
+		"Value": "Golden Rune [1]"
+	},
+	{
+		"Id": 2901,
+		"Value": "Golden Rune [2]"
+	},
+	{
+		"Id": 2902,
+		"Value": "Golden Rune [3]"
+	},
+	{
+		"Id": 2903,
+		"Value": "Golden Rune [4]"
+	},
+	{
+		"Id": 2904,
+		"Value": "Golden Rune [5]"
+	},
+	{
+		"Id": 2905,
+		"Value": "Golden Rune [6]"
+	},
+	{
+		"Id": 2906,
+		"Value": "Golden Rune [7]"
+	},
+	{
+		"Id": 2907,
+		"Value": "Golden Rune [8]"
+	},
+	{
+		"Id": 2908,
+		"Value": "Golden Rune [9]"
+	},
+	{
+		"Id": 2909,
+		"Value": "Golden Rune [10]"
+	},
+	{
+		"Id": 2910,
+		"Value": "Golden Rune [11]"
+	},
+	{
+		"Id": 2911,
+		"Value": "Golden Rune [12]"
+	},
+	{
+		"Id": 2912,
+		"Value": "Golden Rune [13]"
+	},
+	{
+		"Id": 2913,
+		"Value": "Numen's Rune"
+	},
+	{
+		"Id": 2914,
+		"Value": "Hero's Rune [1]"
+	},
+	{
+		"Id": 2915,
+		"Value": "Hero's Rune [2]"
+	},
+	{
+		"Id": 2916,
+		"Value": "Hero's Rune [3]"
+	},
+	{
+		"Id": 2917,
+		"Value": "Hero's Rune [4]"
+	},
+	{
+		"Id": 2918,
+		"Value": "Hero's Rune [5]"
+	},
+	{
+		"Id": 2919,
+		"Value": "Lord's Rune"
+	},
+	{
+		"Id": 2950,
+		"Value": "Remembrance of the Grafted"
+	},
+	{
+		"Id": 2951,
+		"Value": "Remembrance of the Starscourge"
+	},
+	{
+		"Id": 2952,
+		"Value": "Remembrance of the Omen King"
+	},
+	{
+		"Id": 2953,
+		"Value": "Remembrance of the Blasphemous"
+	},
+	{
+		"Id": 2954,
+		"Value": "Remembrance of the Rot Goddess"
+	},
+	{
+		"Id": 2955,
+		"Value": "Remembrance of the Blood Lord"
+	},
+	{
+		"Id": 2956,
+		"Value": "Remembrance of the Black Blade"
+	},
+	{
+		"Id": 2957,
+		"Value": "Remembrance of Hoarah Loux"
+	},
+	{
+		"Id": 2958,
+		"Value": "Remembrance of the Dragonlord"
+	},
+	{
+		"Id": 2959,
+		"Value": "Remembrance of the Full Moon Queen"
+	},
+	{
+		"Id": 2960,
+		"Value": "Remembrance of the Lichdragon"
+	},
+	{
+		"Id": 2961,
+		"Value": "Remembrance of the Fire Giant"
+	},
+	{
+		"Id": 2962,
+		"Value": "Remembrance of the Regal Ancestor"
+	},
+	{
+		"Id": 2963,
+		"Value": "Elden Remembrance"
+	},
+	{
+		"Id": 2964,
+		"Value": "Remembrance of the Naturalborn"
+	},
+	{
+		"Id": 2990,
+		"Value": "Lands Between Rune"
+	},
+	{
+		"Id": 3000,
+		"Value": "Ancestral Infant's Head"
+	},
+	{
+		"Id": 3010,
+		"Value": "Omen Bairn"
+	},
+	{
+		"Id": 3011,
+		"Value": "Regal Omen Bairn"
+	},
+	{
+		"Id": 3020,
+		"Value": "Miranda's Prayer"
+	},
+	{
+		"Id": 3030,
+		"Value": "Cuckoo Glintstone"
+	},
+	{
+		"Id": 3040,
+		"Value": "Mimic's Veil"
+	},
+	{
+		"Id": 3050,
+		"Value": "Glintstone Scrap"
+	},
+	{
+		"Id": 3051,
+		"Value": "Large Glintstone Scrap"
+	},
+	{
+		"Id": 3060,
+		"Value": "Gravity Stone Fan"
+	},
+	{
+		"Id": 3070,
+		"Value": "Gravity Stone Chunk"
+	},
+	{
+		"Id": 3080,
+		"Value": "Wraith Calling Bell"
+	},
+	{
+		"Id": 3300,
+		"Value": "Holy Water Grease"
+	},
+	{
+		"Id": 3310,
+		"Value": "Warming Stone"
+	},
+	{
+		"Id": 3311,
+		"Value": "Frenzyflame Stone"
+	},
+	{
+		"Id": 3320,
+		"Value": "Scriptstone"
+	},
+	{
+		"Id": 3350,
+		"Value": "Bewitching Branch"
+	},
+	{
+		"Id": 3360,
+		"Value": "Baldachin's Blessing"
+	},
+	{
+		"Id": 3361,
+		"Value": "Radiant Baldachin's Blessing"
+	},
+	{
+		"Id": 3500,
+		"Value": "Uplifting Aromatic"
+	},
+	{
+		"Id": 3510,
+		"Value": "Spark Aromatic"
+	},
+	{
+		"Id": 3520,
+		"Value": "Ironjar Aromatic"
+	},
+	{
+		"Id": 3550,
+		"Value": "Bloodboil Aromatic"
+	},
+	{
+		"Id": 3580,
+		"Value": "Poison Spraymist"
+	},
+	{
+		"Id": 3610,
+		"Value": "Acid Spraymist"
+	},
+	{
+		"Id": 4000,
+		"Value": "Glintstone Pebble"
+	},
+	{
+		"Id": 4001,
+		"Value": "Great Glintstone Shard"
+	},
+	{
+		"Id": 4010,
+		"Value": "Swift Glintstone Shard"
+	},
+	{
+		"Id": 4020,
+		"Value": "Glintstone Cometshard"
+	},
+	{
+		"Id": 4021,
+		"Value": "Comet"
+	},
+	{
+		"Id": 4030,
+		"Value": "Shard Spiral"
+	},
+	{
+		"Id": 4040,
+		"Value": "Glintstone Stars"
+	},
+	{
+		"Id": 4050,
+		"Value": "Star Shower"
+	},
+	{
+		"Id": 4060,
+		"Value": "Crystal Barrage"
+	},
+	{
+		"Id": 4070,
+		"Value": "Glintstone Arc"
+	},
+	{
+		"Id": 4080,
+		"Value": "Cannon of Haima"
+	},
+	{
+		"Id": 4090,
+		"Value": "Crystal Burst"
+	},
+	{
+		"Id": 4100,
+		"Value": "Shatter Earth"
+	},
+	{
+		"Id": 4110,
+		"Value": "Rock Blaster"
+	},
+	{
+		"Id": 4120,
+		"Value": "Gavel of Haima"
+	},
+	{
+		"Id": 4130,
+		"Value": "Terra Magicus"
+	},
+	{
+		"Id": 4140,
+		"Value": "Starlight"
+	},
+	{
+		"Id": 4200,
+		"Value": "Comet Azur"
+	},
+	{
+		"Id": 4210,
+		"Value": "Founding Rain of Stars"
+	},
+	{
+		"Id": 4220,
+		"Value": "Stars of Ruin"
+	},
+	{
+		"Id": 4300,
+		"Value": "Glintblade Phalanx"
+	},
+	{
+		"Id": 4301,
+		"Value": "Carian Phalanx"
+	},
+	{
+		"Id": 4302,
+		"Value": "Greatblade Phalanx"
+	},
+	{
+		"Id": 4360,
+		"Value": "Rennala's Full Moon"
+	},
+	{
+		"Id": 4361,
+		"Value": "Ranni's Dark Moon"
+	},
+	{
+		"Id": 4370,
+		"Value": "Magic Downpour"
+	},
+	{
+		"Id": 4380,
+		"Value": "Loretta's Greatbow"
+	},
+	{
+		"Id": 4381,
+		"Value": "Loretta's Mastery"
+	},
+	{
+		"Id": 4390,
+		"Value": "Magic Glintblade"
+	},
+	{
+		"Id": 4400,
+		"Value": "Glintstone Icecrag"
+	},
+	{
+		"Id": 4410,
+		"Value": "Zamor Ice Storm"
+	},
+	{
+		"Id": 4420,
+		"Value": "Freezing Mist"
+	},
+	{
+		"Id": 4430,
+		"Value": "Carian Greatsword"
+	},
+	{
+		"Id": 4431,
+		"Value": "Adula's Moonblade"
+	},
+	{
+		"Id": 4440,
+		"Value": "Carian Slicer"
+	},
+	{
+		"Id": 4450,
+		"Value": "Carian Piercer"
+	},
+	{
+		"Id": 4460,
+		"Value": "Scholar's Armament"
+	},
+	{
+		"Id": 4470,
+		"Value": "Scholar's Shield"
+	},
+	{
+		"Id": 4480,
+		"Value": "Lucidity"
+	},
+	{
+		"Id": 4490,
+		"Value": "Frozen Armament"
+	},
+	{
+		"Id": 4500,
+		"Value": "Shattering Crystal"
+	},
+	{
+		"Id": 4510,
+		"Value": "Crystal Release"
+	},
+	{
+		"Id": 4520,
+		"Value": "Crystal Torrent"
+	},
+	{
+		"Id": 4600,
+		"Value": "Ambush Shard"
+	},
+	{
+		"Id": 4610,
+		"Value": "Night Shard"
+	},
+	{
+		"Id": 4620,
+		"Value": "Night Comet"
+	},
+	{
+		"Id": 4630,
+		"Value": "Thops's Barrier"
+	},
+	{
+		"Id": 4640,
+		"Value": "Carian Retaliation"
+	},
+	{
+		"Id": 4650,
+		"Value": "Eternal Darkness"
+	},
+	{
+		"Id": 4660,
+		"Value": "Unseen Blade"
+	},
+	{
+		"Id": 4670,
+		"Value": "Unseen Form"
+	},
+	{
+		"Id": 4700,
+		"Value": "Meteorite"
+	},
+	{
+		"Id": 4701,
+		"Value": "Meteorite of Astel"
+	},
+	{
+		"Id": 4710,
+		"Value": "Rock Sling"
+	},
+	{
+		"Id": 4720,
+		"Value": "Gravity Well"
+	},
+	{
+		"Id": 4721,
+		"Value": "Collapsing Stars"
+	},
+	{
+		"Id": 4800,
+		"Value": "Magma Shot"
+	},
+	{
+		"Id": 4810,
+		"Value": "Gelmir's Fury"
+	},
+	{
+		"Id": 4820,
+		"Value": "Roiling Magma"
+	},
+	{
+		"Id": 4830,
+		"Value": "Rykard's Rancor"
+	},
+	{
+		"Id": 4900,
+		"Value": "Briars of Sin"
+	},
+	{
+		"Id": 4910,
+		"Value": "Briars of Punishment"
+	},
+	{
+		"Id": 5000,
+		"Value": "Rancorcall"
+	},
+	{
+		"Id": 5001,
+		"Value": "Ancient Death Rancor"
+	},
+	{
+		"Id": 5010,
+		"Value": "Explosive Ghostflame"
+	},
+	{
+		"Id": 5020,
+		"Value": "Fia's Mist"
+	},
+	{
+		"Id": 5030,
+		"Value": "Tibia's Summons"
+	},
+	{
+		"Id": 5040,
+		"Value": "Death Lightning"
+	},
+	{
+		"Id": 5100,
+		"Value": "Oracle Bubbles"
+	},
+	{
+		"Id": 5110,
+		"Value": "Great Oracular Bubble"
+	},
+	{
+		"Id": 6000,
+		"Value": "Catch Flame"
+	},
+	{
+		"Id": 6001,
+		"Value": "O, Flame!"
+	},
+	{
+		"Id": 6010,
+		"Value": "Flame Sling"
+	},
+	{
+		"Id": 6020,
+		"Value": "Flame, Fall Upon Them"
+	},
+	{
+		"Id": 6030,
+		"Value": "Whirl, O Flame!"
+	},
+	{
+		"Id": 6040,
+		"Value": "Flame, Cleanse Me"
+	},
+	{
+		"Id": 6050,
+		"Value": "Flame, Grant Me Strength"
+	},
+	{
+		"Id": 6060,
+		"Value": "Flame, Protect Me"
+	},
+	{
+		"Id": 6100,
+		"Value": "Giantsflame Take Thee"
+	},
+	{
+		"Id": 6110,
+		"Value": "Flame of the Fell God"
+	},
+	{
+		"Id": 6120,
+		"Value": "Burn, O Flame!"
+	},
+	{
+		"Id": 6210,
+		"Value": "Black Flame"
+	},
+	{
+		"Id": 6220,
+		"Value": "Surge, O Flame!"
+	},
+	{
+		"Id": 6230,
+		"Value": "Scouring Black Flame"
+	},
+	{
+		"Id": 6240,
+		"Value": "Black Flame Ritual"
+	},
+	{
+		"Id": 6250,
+		"Value": "Black Flame Blade"
+	},
+	{
+		"Id": 6260,
+		"Value": "Black Flame's Protection"
+	},
+	{
+		"Id": 6270,
+		"Value": "Noble Presence"
+	},
+	{
+		"Id": 6300,
+		"Value": "Bloodflame Talons"
+	},
+	{
+		"Id": 6310,
+		"Value": "Bloodboon"
+	},
+	{
+		"Id": 6320,
+		"Value": "Bloodflame Blade"
+	},
+	{
+		"Id": 6330,
+		"Value": "Barrier of Gold"
+	},
+	{
+		"Id": 6340,
+		"Value": "Protection of the Erdtree"
+	},
+	{
+		"Id": 6400,
+		"Value": "Rejection"
+	},
+	{
+		"Id": 6410,
+		"Value": "Wrath of Gold"
+	},
+	{
+		"Id": 6420,
+		"Value": "Urgent Heal"
+	},
+	{
+		"Id": 6421,
+		"Value": "Heal"
+	},
+	{
+		"Id": 6422,
+		"Value": "Great Heal"
+	},
+	{
+		"Id": 6423,
+		"Value": "Lord's Heal"
+	},
+	{
+		"Id": 6424,
+		"Value": "Erdtree Heal"
+	},
+	{
+		"Id": 6430,
+		"Value": "Blessing's Boon"
+	},
+	{
+		"Id": 6431,
+		"Value": "Blessing of the Erdtree"
+	},
+	{
+		"Id": 6440,
+		"Value": "Cure Poison"
+	},
+	{
+		"Id": 6441,
+		"Value": "Lord's Aid"
+	},
+	{
+		"Id": 6450,
+		"Value": "Flame Fortification"
+	},
+	{
+		"Id": 6460,
+		"Value": "Magic Fortification"
+	},
+	{
+		"Id": 6470,
+		"Value": "Lightning Fortification"
+	},
+	{
+		"Id": 6480,
+		"Value": "Divine Fortification"
+	},
+	{
+		"Id": 6490,
+		"Value": "Lord's Divine Fortification"
+	},
+	{
+		"Id": 6500,
+		"Value": "Night Maiden's Mist"
+	},
+	{
+		"Id": 6510,
+		"Value": "Assassin's Approach"
+	},
+	{
+		"Id": 6520,
+		"Value": "Shadow Bait"
+	},
+	{
+		"Id": 6530,
+		"Value": "Darkness"
+	},
+	{
+		"Id": 6600,
+		"Value": "Golden Vow"
+	},
+	{
+		"Id": 6700,
+		"Value": "Discus of Light"
+	},
+	{
+		"Id": 6701,
+		"Value": "Triple Rings of Light"
+	},
+	{
+		"Id": 6710,
+		"Value": "Radagon's Rings of Light"
+	},
+	{
+		"Id": 6720,
+		"Value": "Elden Stars"
+	},
+	{
+		"Id": 6730,
+		"Value": "Law of Regression"
+	},
+	{
+		"Id": 6740,
+		"Value": "Immutable Shield"
+	},
+	{
+		"Id": 6750,
+		"Value": "Litany of Proper Death"
+	},
+	{
+		"Id": 6760,
+		"Value": "Law of Causality"
+	},
+	{
+		"Id": 6770,
+		"Value": "Order's Blade"
+	},
+	{
+		"Id": 6780,
+		"Value": "Order Healing"
+	},
+	{
+		"Id": 6800,
+		"Value": "Bestial Sling"
+	},
+	{
+		"Id": 6810,
+		"Value": "Stone of Gurranq"
+	},
+	{
+		"Id": 6820,
+		"Value": "Beast Claw"
+	},
+	{
+		"Id": 6830,
+		"Value": "Gurranq's Beast Claw"
+	},
+	{
+		"Id": 6840,
+		"Value": "Bestial Vitality"
+	},
+	{
+		"Id": 6850,
+		"Value": "Bestial Constitution"
+	},
+	{
+		"Id": 6900,
+		"Value": "Lightning Spear"
+	},
+	{
+		"Id": 6910,
+		"Value": "Ancient Dragons' Lightning Strike"
+	},
+	{
+		"Id": 6920,
+		"Value": "Lightning Strike"
+	},
+	{
+		"Id": 6921,
+		"Value": "Frozen Lightning Spear"
+	},
+	{
+		"Id": 6930,
+		"Value": "Honed Bolt"
+	},
+	{
+		"Id": 6940,
+		"Value": "Ancient Dragons' Lightning Spear"
+	},
+	{
+		"Id": 6941,
+		"Value": "Fortissax's Lightning Spear"
+	},
+	{
+		"Id": 6950,
+		"Value": "Lansseax's Glaive"
+	},
+	{
+		"Id": 6960,
+		"Value": "Electrify Armament"
+	},
+	{
+		"Id": 6970,
+		"Value": "Vyke's Dragonbolt"
+	},
+	{
+		"Id": 6971,
+		"Value": "Dragonbolt Blessing"
+	},
+	{
+		"Id": 7000,
+		"Value": "Dragonfire"
+	},
+	{
+		"Id": 7001,
+		"Value": "Agheel's Flame"
+	},
+	{
+		"Id": 7010,
+		"Value": "Magma Breath"
+	},
+	{
+		"Id": 7011,
+		"Value": "Theodorix's Magma"
+	},
+	{
+		"Id": 7020,
+		"Value": "Dragonice"
+	},
+	{
+		"Id": 7021,
+		"Value": "Borealis's Mist"
+	},
+	{
+		"Id": 7030,
+		"Value": "Rotten Breath"
+	},
+	{
+		"Id": 7031,
+		"Value": "Ekzykes's Decay"
+	},
+	{
+		"Id": 7040,
+		"Value": "Glintstone Breath"
+	},
+	{
+		"Id": 7041,
+		"Value": "Smarag's Glintstone Breath"
+	},
+	{
+		"Id": 7050,
+		"Value": "Placidusax's Ruin"
+	},
+	{
+		"Id": 7060,
+		"Value": "Dragonclaw"
+	},
+	{
+		"Id": 7080,
+		"Value": "Dragonmaw"
+	},
+	{
+		"Id": 7090,
+		"Value": "Greyoll's Roar"
+	},
+	{
+		"Id": 7200,
+		"Value": "Pest Threads"
+	},
+	{
+		"Id": 7210,
+		"Value": "Swarm of Flies"
+	},
+	{
+		"Id": 7220,
+		"Value": "Poison Mist"
+	},
+	{
+		"Id": 7230,
+		"Value": "Poison Armament"
+	},
+	{
+		"Id": 7240,
+		"Value": "Scarlet Aeonia"
+	},
+	{
+		"Id": 7300,
+		"Value": "Inescapable Frenzy"
+	},
+	{
+		"Id": 7310,
+		"Value": "The Flame of Frenzy"
+	},
+	{
+		"Id": 7311,
+		"Value": "Unendurable Frenzy"
+	},
+	{
+		"Id": 7320,
+		"Value": "Frenzied Burst"
+	},
+	{
+		"Id": 7330,
+		"Value": "Howl of Shabriri"
+	},
+	{
+		"Id": 7500,
+		"Value": "Aspects of the Crucible: Tail"
+	},
+	{
+		"Id": 7510,
+		"Value": "Aspects of the Crucible: Horns"
+	},
+	{
+		"Id": 7520,
+		"Value": "Aspects of the Crucible: Breath"
+	},
+	{
+		"Id": 7530,
+		"Value": "Black Blade"
+	},
+	{
+		"Id": 7900,
+		"Value": "Fire's Deadly Sin"
+	},
+	{
+		"Id": 7903,
+		"Value": "Golden Lightning Fortification"
+	},
+	{
+		"Id": 8000,
+		"Value": "Stonesword Key"
+	},
+	{
+		"Id": 8010,
+		"Value": "Rusty Key"
+	},
+	{
+		"Id": 8102,
+		"Value": "Lucent Baldachin's Blessing"
+	},
+	{
+		"Id": 8105,
+		"Value": "Dectus Medallion (Left)"
+	},
+	{
+		"Id": 8106,
+		"Value": "Dectus Medallion (Right)"
+	},
+	{
+		"Id": 8107,
+		"Value": "Rold Medallion"
+	},
+	{
+		"Id": 8109,
+		"Value": "Academy Glintstone Key"
+	},
+	{
+		"Id": 8111,
+		"Value": "Carian Inverted Statue"
+	},
+	{
+		"Id": 8121,
+		"Value": "Dark Moon Ring"
+	},
+	{
+		"Id": 8126,
+		"Value": "Fingerprint Grape"
+	},
+	{
+		"Id": 8127,
+		"Value": "Letter from Volcano Manor"
+	},
+	{
+		"Id": 8128,
+		"Value": "Tonic of Forgetfulness"
+	},
+	{
+		"Id": 8129,
+		"Value": "Serpent's Amnion"
+	},
+	{
+		"Id": 8130,
+		"Value": "Rya's Necklace"
+	},
+	{
+		"Id": 8131,
+		"Value": "Irina's Letter"
+	},
+	{
+		"Id": 8132,
+		"Value": "Letter from Volcano Manor"
+	},
+	{
+		"Id": 8133,
+		"Value": "Red Letter"
+	},
+	{
+		"Id": 8134,
+		"Value": "Drawing-Room Key"
+	},
+	{
+		"Id": 8136,
+		"Value": "Rya's Necklace"
+	},
+	{
+		"Id": 8137,
+		"Value": "Volcano Manor Invitation"
+	},
+	{
+		"Id": 8142,
+		"Value": "Amber Starlight"
+	},
+	{
+		"Id": 8143,
+		"Value": "Seluvis's Introduction"
+	},
+	{
+		"Id": 8144,
+		"Value": "Sellen's Primal Glintstone"
+	},
+	{
+		"Id": 8146,
+		"Value": "Miniature Ranni"
+	},
+	{
+		"Id": 8147,
+		"Value": "Asimi, Silver Tear"
+	},
+	{
+		"Id": 8148,
+		"Value": "Godrick's Great Rune"
+	},
+	{
+		"Id": 8149,
+		"Value": "Radahn's Great Rune"
+	},
+	{
+		"Id": 8150,
+		"Value": "Morgott's Great Rune"
+	},
+	{
+		"Id": 8151,
+		"Value": "Rykard's Great Rune"
+	},
+	{
+		"Id": 8152,
+		"Value": "Mohg's Great Rune"
+	},
+	{
+		"Id": 8153,
+		"Value": "Malenia's Great Rune"
+	},
+	{
+		"Id": 8154,
+		"Value": "Lord of Blood's Favor"
+	},
+	{
+		"Id": 8155,
+		"Value": "Lord of Blood's Favor"
+	},
+	{
+		"Id": 8156,
+		"Value": "Burial Crow's Letter"
+	},
+	{
+		"Id": 8158,
+		"Value": "Spirit Calling Bell"
+	},
+	{
+		"Id": 8159,
+		"Value": "Fingerslayer Blade"
+	},
+	{
+		"Id": 8161,
+		"Value": "Sewing Needle"
+	},
+	{
+		"Id": 8162,
+		"Value": "Gold Sewing Needle"
+	},
+	{
+		"Id": 8163,
+		"Value": "Tailoring Tools"
+	},
+	{
+		"Id": 8164,
+		"Value": "Seluvis's Potion"
+	},
+	{
+		"Id": 8166,
+		"Value": "Amber Draught"
+	},
+	{
+		"Id": 8167,
+		"Value": "Letter to Patches"
+	},
+	{
+		"Id": 8168,
+		"Value": "Dancer's Castanets"
+	},
+	{
+		"Id": 8169,
+		"Value": "Sellian Sealbreaker"
+	},
+	{
+		"Id": 8171,
+		"Value": "Chrysalids' Memento"
+	},
+	{
+		"Id": 8172,
+		"Value": "Black Knifeprint"
+	},
+	{
+		"Id": 8173,
+		"Value": "Letter to Bernahl"
+	},
+	{
+		"Id": 8174,
+		"Value": "Academy Glintstone Key"
+	},
+	{
+		"Id": 8175,
+		"Value": "Haligtree Secret Medallion (Left)"
+	},
+	{
+		"Id": 8176,
+		"Value": "Haligtree Secret Medallion (Right)"
+	},
+	{
+		"Id": 8181,
+		"Value": "Burial Crow's Letter"
+	},
+	{
+		"Id": 8182,
+		"Value": "Mending Rune of Perfect Order"
+	},
+	{
+		"Id": 8183,
+		"Value": "Mending Rune of the Death-Prince"
+	},
+	{
+		"Id": 8184,
+		"Value": "Mending Rune of the Fell Curse"
+	},
+	{
+		"Id": 8185,
+		"Value": "Larval Tear"
+	},
+	{
+		"Id": 8186,
+		"Value": "Imbued Sword Key"
+	},
+	{
+		"Id": 8187,
+		"Value": "Miniature Ranni"
+	},
+	{
+		"Id": 8188,
+		"Value": "Golden Tailoring Tools"
+	},
+	{
+		"Id": 8189,
+		"Value": "Iji's Confession"
+	},
+	{
+		"Id": 8190,
+		"Value": "Knifeprint Clue"
+	},
+	{
+		"Id": 8191,
+		"Value": "Cursemark of Death"
+	},
+	{
+		"Id": 8192,
+		"Value": "Asimi's Husk"
+	},
+	{
+		"Id": 8193,
+		"Value": "Seedbed Curse"
+	},
+	{
+		"Id": 8194,
+		"Value": "The Stormhawk King"
+	},
+	{
+		"Id": 8195,
+		"Value": "Asimi, Silver Chrysalid"
+	},
+	{
+		"Id": 8196,
+		"Value": "Unalloyed Gold Needle"
+	},
+	{
+		"Id": 8197,
+		"Value": "Sewer-Gaol Key"
+	},
+	{
+		"Id": 8198,
+		"Value": "Meeting Place Map"
+	},
+	{
+		"Id": 8199,
+		"Value": "Discarded Palace Key"
+	},
+	{
+		"Id": 8200,
+		"Value": "\"Homing Instinct\" Painting"
+	},
+	{
+		"Id": 8201,
+		"Value": "\"Resurrection\" Painting"
+	},
+	{
+		"Id": 8202,
+		"Value": "\"Champion's Song\" Painting"
+	},
+	{
+		"Id": 8203,
+		"Value": "\"Sorcerer\" Painting"
+	},
+	{
+		"Id": 8204,
+		"Value": "\"Prophecy\" Painting"
+	},
+	{
+		"Id": 8205,
+		"Value": "\"Flightless Bird\" Painting"
+	},
+	{
+		"Id": 8206,
+		"Value": "\"Redmane\" Painting"
+	},
+	{
+		"Id": 8221,
+		"Value": "Zorayas's Letter"
+	},
+	{
+		"Id": 8222,
+		"Value": "Alexander's Innards"
+	},
+	{
+		"Id": 8223,
+		"Value": "Rogier's Letter"
+	},
+	{
+		"Id": 8500,
+		"Value": "Crafting Kit"
+	},
+	{
+		"Id": 8590,
+		"Value": "Whetstone Knife"
+	},
+	{
+		"Id": 8600,
+		"Value": "Map: Limgrave, West"
+	},
+	{
+		"Id": 8601,
+		"Value": "Map: Weeping Peninsula"
+	},
+	{
+		"Id": 8602,
+		"Value": "Map: Limgrave, East"
+	},
+	{
+		"Id": 8603,
+		"Value": "Map: Liurnia, East"
+	},
+	{
+		"Id": 8604,
+		"Value": "Map: Liurnia, North"
+	},
+	{
+		"Id": 8605,
+		"Value": "Map: Liurnia, West"
+	},
+	{
+		"Id": 8606,
+		"Value": "Map: Altus Plateau"
+	},
+	{
+		"Id": 8607,
+		"Value": "Map: Leyndell, Royal Capital"
+	},
+	{
+		"Id": 8608,
+		"Value": "Map: Mt. Gelmir"
+	},
+	{
+		"Id": 8609,
+		"Value": "Map: Caelid"
+	},
+	{
+		"Id": 8610,
+		"Value": "Map: Dragonbarrow"
+	},
+	{
+		"Id": 8611,
+		"Value": "Map: Mountaintops of the Giants, West"
+	},
+	{
+		"Id": 8612,
+		"Value": "Map: Mountaintops of the Giants, East"
+	},
+	{
+		"Id": 8613,
+		"Value": "Map: Ainsel River"
+	},
+	{
+		"Id": 8614,
+		"Value": "Map: Lake of Rot"
+	},
+	{
+		"Id": 8615,
+		"Value": "Map: Siofra River"
+	},
+	{
+		"Id": 8616,
+		"Value": "Map: Mohgwyn Palace"
+	},
+	{
+		"Id": 8617,
+		"Value": "Map: Deeproot Depths"
+	},
+	{
+		"Id": 8618,
+		"Value": "Map: Consecrated Snowfield"
+	},
+	{
+		"Id": 8660,
+		"Value": "Mirage Riddle"
+	},
+	{
+		"Id": 8700,
+		"Value": "Note: Hidden Cave"
+	},
+	{
+		"Id": 8701,
+		"Value": "Note: Imp Shades"
+	},
+	{
+		"Id": 8702,
+		"Value": "Note: Flask of Wondrous Physick"
+	},
+	{
+		"Id": 8703,
+		"Value": "Note: Stonedigger Trolls"
+	},
+	{
+		"Id": 8704,
+		"Value": "Note: Walking Mausoleum"
+	},
+	{
+		"Id": 8705,
+		"Value": "Note: Unseen Assassins"
+	},
+	{
+		"Id": 8706,
+		"Value": "Note: Great Coffins"
+	},
+	{
+		"Id": 8707,
+		"Value": "Note: Flame Chariots"
+	},
+	{
+		"Id": 8708,
+		"Value": "Note: Demi-human Mobs"
+	},
+	{
+		"Id": 8709,
+		"Value": "Note: Land Squirts"
+	},
+	{
+		"Id": 8710,
+		"Value": "Note: Gravity's Advantage"
+	},
+	{
+		"Id": 8711,
+		"Value": "Note: Revenants"
+	},
+	{
+		"Id": 8712,
+		"Value": "Note: Waypoint Ruins"
+	},
+	{
+		"Id": 8713,
+		"Value": "Note: Gateway"
+	},
+	{
+		"Id": 8714,
+		"Value": "Note: Miquella's Needle"
+	},
+	{
+		"Id": 8715,
+		"Value": "Note: Frenzied Flame Village"
+	},
+	{
+		"Id": 8716,
+		"Value": "Note: The Lord of Frenzied Flame"
+	},
+	{
+		"Id": 8750,
+		"Value": "Note: Hidden Cave"
+	},
+	{
+		"Id": 8751,
+		"Value": "Note: Imp Shades"
+	},
+	{
+		"Id": 8752,
+		"Value": "Note: Flask of Wondrous Physick"
+	},
+	{
+		"Id": 8753,
+		"Value": "Note: Stonedigger Trolls"
+	},
+	{
+		"Id": 8754,
+		"Value": "Note: Walking Mausoleum"
+	},
+	{
+		"Id": 8755,
+		"Value": "Note: Unseen Assassins"
+	},
+	{
+		"Id": 8756,
+		"Value": "Note: Great Coffins"
+	},
+	{
+		"Id": 8757,
+		"Value": "Note: Flame Chariots"
+	},
+	{
+		"Id": 8758,
+		"Value": "Note: Demi-human Mobs"
+	},
+	{
+		"Id": 8759,
+		"Value": "Note: Land Squirts"
+	},
+	{
+		"Id": 8760,
+		"Value": "Note: Gravity's Advantage"
+	},
+	{
+		"Id": 8761,
+		"Value": "Note: Revenants"
+	},
+	{
+		"Id": 8762,
+		"Value": "Note: Waypoint Ruins"
+	},
+	{
+		"Id": 8763,
+		"Value": "Note: Gateway"
+	},
+	{
+		"Id": 8765,
+		"Value": "Note: Frenzied Flame Village"
+	},
+	{
+		"Id": 8850,
+		"Value": "Conspectus Scroll"
+	},
+	{
+		"Id": 8851,
+		"Value": "Royal House Scroll"
+	},
+	{
+		"Id": 8855,
+		"Value": "Fire Monks' Prayerbook"
+	},
+	{
+		"Id": 8856,
+		"Value": "Giant's Prayerbook"
+	},
+	{
+		"Id": 8857,
+		"Value": "Godskin Prayerbook"
+	},
+	{
+		"Id": 8858,
+		"Value": "Two Fingers' Prayerbook"
+	},
+	{
+		"Id": 8859,
+		"Value": "Assassin's Prayerbook"
+	},
+	{
+		"Id": 8860,
+		"Value": "Erdtree Prayerbook"
+	},
+	{
+		"Id": 8861,
+		"Value": "Erdtree Codex"
+	},
+	{
+		"Id": 8862,
+		"Value": "Golden Order Principia"
+	},
+	{
+		"Id": 8863,
+		"Value": "Golden Order Principles"
+	},
+	{
+		"Id": 8864,
+		"Value": "Dragon Cult Prayerbook"
+	},
+	{
+		"Id": 8865,
+		"Value": "Ancient Dragon Prayerbook"
+	},
+	{
+		"Id": 8866,
+		"Value": "Academy Scroll"
+	},
+	{
+		"Id": 8910,
+		"Value": "Pidia's Bell Bearing"
+	},
+	{
+		"Id": 8911,
+		"Value": "Seluvis's Bell Bearing"
+	},
+	{
+		"Id": 8912,
+		"Value": "Patches' Bell Bearing"
+	},
+	{
+		"Id": 8913,
+		"Value": "Sellen's Bell Bearing"
+	},
+	{
+		"Id": 8915,
+		"Value": "D's Bell Bearing"
+	},
+	{
+		"Id": 8916,
+		"Value": "Bernahl's Bell Bearing"
+	},
+	{
+		"Id": 8917,
+		"Value": "Miriel's Bell Bearing"
+	},
+	{
+		"Id": 8918,
+		"Value": "Gostoc's Bell Bearing"
+	},
+	{
+		"Id": 8919,
+		"Value": "Thops's Bell Bearing"
+	},
+	{
+		"Id": 8920,
+		"Value": "Kalé's Bell Bearing"
+	},
+	{
+		"Id": 8921,
+		"Value": "Nomadic Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 8922,
+		"Value": "Nomadic Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 8923,
+		"Value": "Nomadic Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 8924,
+		"Value": "Nomadic Merchant's Bell Bearing [4]"
+	},
+	{
+		"Id": 8925,
+		"Value": "Nomadic Merchant's Bell Bearing [5]"
+	},
+	{
+		"Id": 8926,
+		"Value": "Isolated Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 8927,
+		"Value": "Isolated Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 8928,
+		"Value": "Nomadic Merchant's Bell Bearing [6]"
+	},
+	{
+		"Id": 8929,
+		"Value": "Hermit Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 8930,
+		"Value": "Nomadic Merchant's Bell Bearing [7]"
+	},
+	{
+		"Id": 8931,
+		"Value": "Nomadic Merchant's Bell Bearing [8]"
+	},
+	{
+		"Id": 8932,
+		"Value": "Nomadic Merchant's Bell Bearing [9]"
+	},
+	{
+		"Id": 8933,
+		"Value": "Nomadic Merchant's Bell Bearing [10]"
+	},
+	{
+		"Id": 8934,
+		"Value": "Nomadic Merchant's Bell Bearing [11]"
+	},
+	{
+		"Id": 8935,
+		"Value": "Isolated Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 8936,
+		"Value": "Hermit Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 8937,
+		"Value": "Abandoned Merchant's Bell Bearing"
+	},
+	{
+		"Id": 8938,
+		"Value": "Hermit Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 8939,
+		"Value": "Imprisoned Merchant's Bell Bearing"
+	},
+	{
+		"Id": 8940,
+		"Value": "Iji's Bell Bearing"
+	},
+	{
+		"Id": 8941,
+		"Value": "Rogier's Bell Bearing"
+	},
+	{
+		"Id": 8942,
+		"Value": "Blackguard's Bell Bearing"
+	},
+	{
+		"Id": 8943,
+		"Value": "Corhyn's Bell Bearing"
+	},
+	{
+		"Id": 8944,
+		"Value": "Gowry's Bell Bearing"
+	},
+	{
+		"Id": 8945,
+		"Value": "Bone Peddler's Bell Bearing"
+	},
+	{
+		"Id": 8946,
+		"Value": "Meat Peddler's Bell Bearing"
+	},
+	{
+		"Id": 8947,
+		"Value": "Medicine Peddler's Bell Bearing"
+	},
+	{
+		"Id": 8948,
+		"Value": "Gravity Stone Peddler's Bell Bearing"
+	},
+	{
+		"Id": 8951,
+		"Value": "Smithing-Stone Miner's Bell Bearing [1]"
+	},
+	{
+		"Id": 8952,
+		"Value": "Smithing-Stone Miner's Bell Bearing [2]"
+	},
+	{
+		"Id": 8953,
+		"Value": "Smithing-Stone Miner's Bell Bearing [3]"
+	},
+	{
+		"Id": 8954,
+		"Value": "Smithing-Stone Miner's Bell Bearing [4]"
+	},
+	{
+		"Id": 8955,
+		"Value": "Somberstone Miner's Bell Bearing [1]"
+	},
+	{
+		"Id": 8956,
+		"Value": "Somberstone Miner's Bell Bearing [2]"
+	},
+	{
+		"Id": 8957,
+		"Value": "Somberstone Miner's Bell Bearing [3]"
+	},
+	{
+		"Id": 8958,
+		"Value": "Somberstone Miner's Bell Bearing [4]"
+	},
+	{
+		"Id": 8959,
+		"Value": "Somberstone Miner's Bell Bearing [5]"
+	},
+	{
+		"Id": 8960,
+		"Value": "Glovewort Picker's Bell Bearing [1]"
+	},
+	{
+		"Id": 8961,
+		"Value": "Glovewort Picker's Bell Bearing [2]"
+	},
+	{
+		"Id": 8962,
+		"Value": "Glovewort Picker's Bell Bearing [3]"
+	},
+	{
+		"Id": 8963,
+		"Value": "Ghost-Glovewort Picker's Bell Bearing [1]"
+	},
+	{
+		"Id": 8964,
+		"Value": "Ghost-Glovewort Picker's Bell Bearing [2]"
+	},
+	{
+		"Id": 8965,
+		"Value": "Ghost-Glovewort Picker's Bell Bearing [3]"
+	},
+	{
+		"Id": 8970,
+		"Value": "Iron Whetblade"
+	},
+	{
+		"Id": 8971,
+		"Value": "Red-Hot Whetblade"
+	},
+	{
+		"Id": 8972,
+		"Value": "Sanctified Whetblade"
+	},
+	{
+		"Id": 8973,
+		"Value": "Glintstone Whetblade"
+	},
+	{
+		"Id": 8974,
+		"Value": "Black Whetblade"
+	},
+	{
+		"Id": 8975,
+		"Value": "Unalloyed Gold Needle"
+	},
+	{
+		"Id": 8976,
+		"Value": "Unalloyed Gold Needle"
+	},
+	{
+		"Id": 8977,
+		"Value": "Valkyrie's Prosthesis"
+	},
+	{
+		"Id": 8978,
+		"Value": "Sellia's Secret"
+	},
+	{
+		"Id": 8979,
+		"Value": "Beast Eye"
+	},
+	{
+		"Id": 8980,
+		"Value": "Weathered Dagger"
+	},
+	{
+		"Id": 9000,
+		"Value": "Bow"
+	},
+	{
+		"Id": 9001,
+		"Value": "Polite Bow"
+	},
+	{
+		"Id": 9002,
+		"Value": "My Thanks"
+	},
+	{
+		"Id": 9003,
+		"Value": "Curtsy"
+	},
+	{
+		"Id": 9004,
+		"Value": "Reverential Bow"
+	},
+	{
+		"Id": 9005,
+		"Value": "My Lord"
+	},
+	{
+		"Id": 9006,
+		"Value": "Warm Welcome"
+	},
+	{
+		"Id": 9007,
+		"Value": "Wave"
+	},
+	{
+		"Id": 9008,
+		"Value": "Casual Greeting"
+	},
+	{
+		"Id": 9009,
+		"Value": "Strength!"
+	},
+	{
+		"Id": 9010,
+		"Value": "As You Wish"
+	},
+	{
+		"Id": 9011,
+		"Value": "Point Forwards"
+	},
+	{
+		"Id": 9012,
+		"Value": "Point Upwards"
+	},
+	{
+		"Id": 9013,
+		"Value": "Point Downwards"
+	},
+	{
+		"Id": 9014,
+		"Value": "Beckon"
+	},
+	{
+		"Id": 9015,
+		"Value": "Wait!"
+	},
+	{
+		"Id": 9016,
+		"Value": "Calm Down!"
+	},
+	{
+		"Id": 9017,
+		"Value": "Nod In Thought"
+	},
+	{
+		"Id": 9018,
+		"Value": "Extreme Repentance"
+	},
+	{
+		"Id": 9019,
+		"Value": "Grovel For Mercy"
+	},
+	{
+		"Id": 9020,
+		"Value": "Rallying Cry"
+	},
+	{
+		"Id": 9021,
+		"Value": "Heartening Cry"
+	},
+	{
+		"Id": 9022,
+		"Value": "By My Sword"
+	},
+	{
+		"Id": 9023,
+		"Value": "Hoslow's Oath"
+	},
+	{
+		"Id": 9024,
+		"Value": "Fire Spur Me"
+	},
+	{
+		"Id": 9025,
+		"Value": "The Carian Oath"
+	},
+	{
+		"Id": 9026,
+		"Value": "Bravo!"
+	},
+	{
+		"Id": 9027,
+		"Value": "Jump for Joy"
+	},
+	{
+		"Id": 9028,
+		"Value": "Triumphant Delight"
+	},
+	{
+		"Id": 9029,
+		"Value": "Fancy Spin"
+	},
+	{
+		"Id": 9030,
+		"Value": "Finger Snap"
+	},
+	{
+		"Id": 9031,
+		"Value": "Dejection"
+	},
+	{
+		"Id": 9032,
+		"Value": "Patches' Crouch"
+	},
+	{
+		"Id": 9033,
+		"Value": "Crossed Legs"
+	},
+	{
+		"Id": 9034,
+		"Value": "Rest"
+	},
+	{
+		"Id": 9035,
+		"Value": "Sitting Sideways"
+	},
+	{
+		"Id": 9036,
+		"Value": "Dozing Cross-Legged"
+	},
+	{
+		"Id": 9037,
+		"Value": "Spread Out"
+	},
+	{
+		"Id": 9038,
+		"Value": "Fetal Position"
+	},
+	{
+		"Id": 9039,
+		"Value": "Balled Up"
+	},
+	{
+		"Id": 9040,
+		"Value": "What Do You Want?"
+	},
+	{
+		"Id": 9041,
+		"Value": "Prayer"
+	},
+	{
+		"Id": 9042,
+		"Value": "Desperate Prayer"
+	},
+	{
+		"Id": 9043,
+		"Value": "Rapture"
+	},
+	{
+		"Id": 9045,
+		"Value": "Erudition"
+	},
+	{
+		"Id": 9046,
+		"Value": "Outer Order"
+	},
+	{
+		"Id": 9047,
+		"Value": "Inner Order"
+	},
+	{
+		"Id": 9048,
+		"Value": "Golden Order Totality"
+	},
+	{
+		"Id": 9049,
+		"Value": "The Ring"
+	},
+	{
+		"Id": 9050,
+		"Value": "The Ring"
+	},
+	{
+		"Id": 9100,
+		"Value": "About Sites of Grace"
+	},
+	{
+		"Id": 9101,
+		"Value": "About Sorceries and Incantations"
+	},
+	{
+		"Id": 9102,
+		"Value": "About Bows"
+	},
+	{
+		"Id": 9103,
+		"Value": "About Crouching"
+	},
+	{
+		"Id": 9104,
+		"Value": "About Stance-Breaking"
+	},
+	{
+		"Id": 9105,
+		"Value": "About Stakes of Marika"
+	},
+	{
+		"Id": 9106,
+		"Value": "About Guard Counters"
+	},
+	{
+		"Id": 9107,
+		"Value": "About the Map"
+	},
+	{
+		"Id": 9108,
+		"Value": "About Guidance of Grace"
+	},
+	{
+		"Id": 9109,
+		"Value": "About Horseback Riding"
+	},
+	{
+		"Id": 9110,
+		"Value": "About Death"
+	},
+	{
+		"Id": 9111,
+		"Value": "About Summoning Spirits"
+	},
+	{
+		"Id": 9112,
+		"Value": "About Guarding"
+	},
+	{
+		"Id": 9113,
+		"Value": "About Item Crafting"
+	},
+	{
+		"Id": 9115,
+		"Value": "About Flask of Wondrous Physick"
+	},
+	{
+		"Id": 9116,
+		"Value": "About Adding Skills"
+	},
+	{
+		"Id": 9117,
+		"Value": "About Birdseye Telescopes"
+	},
+	{
+		"Id": 9118,
+		"Value": "About Spiritspring Jumping"
+	},
+	{
+		"Id": 9119,
+		"Value": "About Vanquishing Enemy Groups"
+	},
+	{
+		"Id": 9120,
+		"Value": "About Teardrop Scarabs"
+	},
+	{
+		"Id": 9121,
+		"Value": "About Summoning Other Players"
+	},
+	{
+		"Id": 9122,
+		"Value": "About Cooperative Multiplayer"
+	},
+	{
+		"Id": 9123,
+		"Value": "About Competitive Multiplayer"
+	},
+	{
+		"Id": 9124,
+		"Value": "About Invasion Multiplayer"
+	},
+	{
+		"Id": 9125,
+		"Value": "About Hunter Multiplayer"
+	},
+	{
+		"Id": 9126,
+		"Value": "About Summoning Pools"
+	},
+	{
+		"Id": 9127,
+		"Value": "About Monument Icon"
+	},
+	{
+		"Id": 9128,
+		"Value": "About Requesting Help from Hunters"
+	},
+	{
+		"Id": 9129,
+		"Value": "About Skills"
+	},
+	{
+		"Id": 9130,
+		"Value": "About Fast Travel to Sites of Grace"
+	},
+	{
+		"Id": 9131,
+		"Value": "About Strengthening Armaments"
+	},
+	{
+		"Id": 9132,
+		"Value": "About Roundtable Hold"
+	},
+	{
+		"Id": 9133,
+		"Value": "Note: Redeemers"
+	},
+	{
+		"Id": 9134,
+		"Value": "About Materials"
+	},
+	{
+		"Id": 9135,
+		"Value": "About Containers"
+	},
+	{
+		"Id": 9136,
+		"Value": "About Adding Affinities"
+	},
+	{
+		"Id": 9137,
+		"Value": "About Pouches"
+	},
+	{
+		"Id": 9138,
+		"Value": "About Dodging"
+	},
+	{
+		"Id": 9140,
+		"Value": "About Wielding Armaments"
+	},
+	{
+		"Id": 9195,
+		"Value": "About Multiplayer"
+	},
+	{
+		"Id": 9200,
+		"Value": "Carrier Pigeon Letter [1]"
+	},
+	{
+		"Id": 9201,
+		"Value": "Carrier Pigeon Letter [2]"
+	},
+	{
+		"Id": 9300,
+		"Value": "Nomadic Warrior's Cookbook [1]"
+	},
+	{
+		"Id": 9301,
+		"Value": "Nomadic Warrior's Cookbook [3]"
+	},
+	{
+		"Id": 9302,
+		"Value": "Nomadic Warrior's Cookbook [6]"
+	},
+	{
+		"Id": 9303,
+		"Value": "Nomadic Warrior's Cookbook [10]"
+	},
+	{
+		"Id": 9304,
+		"Value": "Fugitive Warrior's Recipe [5]"
+	},
+	{
+		"Id": 9305,
+		"Value": "Nomadic Warrior's Cookbook [7]"
+	},
+	{
+		"Id": 9306,
+		"Value": "Nomadic Warrior's Cookbook [12]"
+	},
+	{
+		"Id": 9307,
+		"Value": "Nomadic Warrior's Cookbook [19]"
+	},
+	{
+		"Id": 9308,
+		"Value": "Nomadic Warrior's Cookbook [13]"
+	},
+	{
+		"Id": 9309,
+		"Value": "Nomadic Warrior's Cookbook [23]"
+	},
+	{
+		"Id": 9310,
+		"Value": "Nomadic Warrior's Cookbook [17]"
+	},
+	{
+		"Id": 9311,
+		"Value": "Nomadic Warrior's Cookbook [2]"
+	},
+	{
+		"Id": 9312,
+		"Value": "Nomadic Warrior's Cookbook [21]"
+	},
+	{
+		"Id": 9313,
+		"Value": "Missionary's Cookbook [6]"
+	},
+	{
+		"Id": 9320,
+		"Value": "Armorer's Cookbook [1]"
+	},
+	{
+		"Id": 9321,
+		"Value": "Armorer's Cookbook [2]"
+	},
+	{
+		"Id": 9322,
+		"Value": "Nomadic Warrior's Cookbook [11]"
+	},
+	{
+		"Id": 9323,
+		"Value": "Nomadic Warrior's Cookbook [20]"
+	},
+	{
+		"Id": 9324,
+		"Value": "Armorer's Cookbook (5)"
+	},
+	{
+		"Id": 9325,
+		"Value": "Armorer's Cookbook [7]"
+	},
+	{
+		"Id": 9326,
+		"Value": "Armorer's Cookbook [4]"
+	},
+	{
+		"Id": 9327,
+		"Value": "Nomadic Warrior's Cookbook [18]"
+	},
+	{
+		"Id": 9328,
+		"Value": "Armorer's Cookbook [3]"
+	},
+	{
+		"Id": 9329,
+		"Value": "Nomadic Warrior's Cookbook [16]"
+	},
+	{
+		"Id": 9330,
+		"Value": "Armorer's Cookbook [6]"
+	},
+	{
+		"Id": 9331,
+		"Value": "Armorer's Cookbook [5]"
+	},
+	{
+		"Id": 9340,
+		"Value": "Glintstone Craftsman's Cookbook [4]"
+	},
+	{
+		"Id": 9341,
+		"Value": "Glintstone Craftsman's Cookbook [1]"
+	},
+	{
+		"Id": 9342,
+		"Value": "Glintstone Craftsman's Cookbook [5]"
+	},
+	{
+		"Id": 9343,
+		"Value": "Nomadic Warrior's Cookbook [9]"
+	},
+	{
+		"Id": 9344,
+		"Value": "Glintstone Craftsman's Cookbook [8]"
+	},
+	{
+		"Id": 9345,
+		"Value": "Glintstone Craftsman's Cookbook [2]"
+	},
+	{
+		"Id": 9346,
+		"Value": "Glintstone Craftsman's Cookbook [6]"
+	},
+	{
+		"Id": 9347,
+		"Value": "Glintstone Craftsman's Cookbook [7]"
+	},
+	{
+		"Id": 9348,
+		"Value": "Glintstone Craftsman's Cookbook [3]"
+	},
+	{
+		"Id": 9360,
+		"Value": "Missionary's Cookbook [2]"
+	},
+	{
+		"Id": 9361,
+		"Value": "Missionary's Cookbook [1]"
+	},
+	{
+		"Id": 9362,
+		"Value": "Missionary's Cookbook (3)"
+	},
+	{
+		"Id": 9363,
+		"Value": "Missionary's Cookbook [5]"
+	},
+	{
+		"Id": 9364,
+		"Value": "Missionary's Cookbook [4]"
+	},
+	{
+		"Id": 9365,
+		"Value": "Missionary's Cookbook [3]"
+	},
+	{
+		"Id": 9380,
+		"Value": "Nomadic Warrior's Cookbook [4]"
+	},
+	{
+		"Id": 9381,
+		"Value": "Perfumer's Cookbook (1)"
+	},
+	{
+		"Id": 9382,
+		"Value": "Perfumer's Cookbook (2)"
+	},
+	{
+		"Id": 9383,
+		"Value": "Nomadic Warrior's Cookbook [5]"
+	},
+	{
+		"Id": 9384,
+		"Value": "Perfumer's Cookbook [1]"
+	},
+	{
+		"Id": 9385,
+		"Value": "Perfumer's Cookbook [2]"
+	},
+	{
+		"Id": 9386,
+		"Value": "Perfumer's Cookbook [3]"
+	},
+	{
+		"Id": 9387,
+		"Value": "Nomadic Warrior's Cookbook [14]"
+	},
+	{
+		"Id": 9388,
+		"Value": "Nomadic Warrior's Cookbook [8]"
+	},
+	{
+		"Id": 9389,
+		"Value": "Nomadic Warrior's Cookbook [22]"
+	},
+	{
+		"Id": 9390,
+		"Value": "Nomadic Warrior's Cookbook [15]"
+	},
+	{
+		"Id": 9391,
+		"Value": "Nomadic Warrior's Cookbook [24]"
+	},
+	{
+		"Id": 9392,
+		"Value": "Perfumer's Cookbook [4]"
+	},
+	{
+		"Id": 9393,
+		"Value": "Perfumer's Cookbook (13)"
+	},
+	{
+		"Id": 9400,
+		"Value": "Ancient Dragon Apostle's Cookbook [1]"
+	},
+	{
+		"Id": 9401,
+		"Value": "Ancient Dragon Apostle's Cookbook [2]"
+	},
+	{
+		"Id": 9402,
+		"Value": "Ancient Dragon Apostle's Cookbook [4]"
+	},
+	{
+		"Id": 9403,
+		"Value": "Ancient Dragon Apostle's Cookbook [3]"
+	},
+	{
+		"Id": 9420,
+		"Value": "Fevor's Cookbook [1]"
+	},
+	{
+		"Id": 9421,
+		"Value": "Fevor's Cookbook [3]"
+	},
+	{
+		"Id": 9422,
+		"Value": "Fevor's Cookbook [2]"
+	},
+	{
+		"Id": 9423,
+		"Value": "Missionary's Cookbook [7]"
+	},
+	{
+		"Id": 9440,
+		"Value": "Frenzied's Cookbook [1]"
+	},
+	{
+		"Id": 9441,
+		"Value": "Frenzied's Cookbook [2]"
+	},
+	{
+		"Id": 9500,
+		"Value": "Cracked Pot"
+	},
+	{
+		"Id": 9501,
+		"Value": "Ritual Pot"
+	},
+	{
+		"Id": 9510,
+		"Value": "Perfume Bottle"
+	},
+	{
+		"Id": 10000,
+		"Value": "Glass Shard"
+	},
+	{
+		"Id": 10010,
+		"Value": "Golden Seed"
+	},
+	{
+		"Id": 10020,
+		"Value": "Sacred Tear"
+	},
+	{
+		"Id": 10030,
+		"Value": "Memory Stone"
+	},
+	{
+		"Id": 10040,
+		"Value": "Talisman Pouch"
+	},
+	{
+		"Id": 10060,
+		"Value": "Dragon Heart"
+	},
+	{
+		"Id": 10070,
+		"Value": "Lost Ashes of War"
+	},
+	{
+		"Id": 10080,
+		"Value": "Great Rune of the Unborn"
+	},
+	{
+		"Id": 10100,
+		"Value": "Smithing Stone [1]"
+	},
+	{
+		"Id": 10101,
+		"Value": "Smithing Stone [2]"
+	},
+	{
+		"Id": 10102,
+		"Value": "Smithing Stone [3]"
+	},
+	{
+		"Id": 10103,
+		"Value": "Smithing Stone [4]"
+	},
+	{
+		"Id": 10104,
+		"Value": "Smithing Stone [5]"
+	},
+	{
+		"Id": 10105,
+		"Value": "Smithing Stone [6]"
+	},
+	{
+		"Id": 10106,
+		"Value": "Smithing Stone [7]"
+	},
+	{
+		"Id": 10107,
+		"Value": "Smithing Stone [8]"
+	},
+	{
+		"Id": 10140,
+		"Value": "Ancient Dragon Smithing Stone"
+	},
+	{
+		"Id": 10160,
+		"Value": "Somber Smithing Stone [1]"
+	},
+	{
+		"Id": 10161,
+		"Value": "Somber Smithing Stone [2]"
+	},
+	{
+		"Id": 10162,
+		"Value": "Somber Smithing Stone [3]"
+	},
+	{
+		"Id": 10163,
+		"Value": "Somber Smithing Stone [4]"
+	},
+	{
+		"Id": 10164,
+		"Value": "Somber Smithing Stone [5]"
+	},
+	{
+		"Id": 10165,
+		"Value": "Somber Smithing Stone [6]"
+	},
+	{
+		"Id": 10166,
+		"Value": "Somber Smithing Stone [7]"
+	},
+	{
+		"Id": 10167,
+		"Value": "Somber Smithing Stone [8]"
+	},
+	{
+		"Id": 10168,
+		"Value": "Somber Ancient Dragon Smithing Stone"
+	},
+	{
+		"Id": 10200,
+		"Value": "Somber Smithing Stone [9]"
+	},
+	{
+		"Id": 10900,
+		"Value": "Grave Glovewort [1]"
+	},
+	{
+		"Id": 10901,
+		"Value": "Grave Glovewort [2]"
+	},
+	{
+		"Id": 10902,
+		"Value": "Grave Glovewort [3]"
+	},
+	{
+		"Id": 10903,
+		"Value": "Grave Glovewort [4]"
+	},
+	{
+		"Id": 10904,
+		"Value": "Grave Glovewort [5]"
+	},
+	{
+		"Id": 10905,
+		"Value": "Grave Glovewort [6]"
+	},
+	{
+		"Id": 10906,
+		"Value": "Grave Glovewort [7]"
+	},
+	{
+		"Id": 10907,
+		"Value": "Grave Glovewort [8]"
+	},
+	{
+		"Id": 10908,
+		"Value": "Grave Glovewort [9]"
+	},
+	{
+		"Id": 10909,
+		"Value": "Great Grave Glovewort"
+	},
+	{
+		"Id": 10910,
+		"Value": "Ghost Glovewort [1]"
+	},
+	{
+		"Id": 10911,
+		"Value": "Ghost Glovewort [2]"
+	},
+	{
+		"Id": 10912,
+		"Value": "Ghost Glovewort [3]"
+	},
+	{
+		"Id": 10913,
+		"Value": "Ghost Glovewort [4]"
+	},
+	{
+		"Id": 10914,
+		"Value": "Ghost Glovewort [5]"
+	},
+	{
+		"Id": 10915,
+		"Value": "Ghost Glovewort [6]"
+	},
+	{
+		"Id": 10916,
+		"Value": "Ghost Glovewort [7]"
+	},
+	{
+		"Id": 10917,
+		"Value": "Ghost Glovewort [8]"
+	},
+	{
+		"Id": 10918,
+		"Value": "Ghost Glovewort [9]"
+	},
+	{
+		"Id": 10919,
+		"Value": "Great Ghost Glovewort"
+	},
+	{
+		"Id": 11000,
+		"Value": "Crimsonspill Crystal Tear"
+	},
+	{
+		"Id": 11001,
+		"Value": "Greenspill Crystal Tear"
+	},
+	{
+		"Id": 11002,
+		"Value": "Crimson Crystal Tear"
+	},
+	{
+		"Id": 11003,
+		"Value": "Crimson Crystal Tear"
+	},
+	{
+		"Id": 11004,
+		"Value": "Cerulean Crystal Tear"
+	},
+	{
+		"Id": 11005,
+		"Value": "Cerulean Crystal Tear"
+	},
+	{
+		"Id": 11006,
+		"Value": "Speckled Hardtear"
+	},
+	{
+		"Id": 11007,
+		"Value": "Crimson Bubbletear"
+	},
+	{
+		"Id": 11008,
+		"Value": "Opaline Bubbletear"
+	},
+	{
+		"Id": 11009,
+		"Value": "Crimsonburst Crystal Tear"
+	},
+	{
+		"Id": 11010,
+		"Value": "Greenburst Crystal Tear"
+	},
+	{
+		"Id": 11011,
+		"Value": "Opaline Hardtear"
+	},
+	{
+		"Id": 11012,
+		"Value": "Winged Crystal Tear"
+	},
+	{
+		"Id": 11013,
+		"Value": "Thorny Cracked Tear"
+	},
+	{
+		"Id": 11014,
+		"Value": "Spiked Cracked Tear"
+	},
+	{
+		"Id": 11015,
+		"Value": "Windy Crystal Tear"
+	},
+	{
+		"Id": 11016,
+		"Value": "Ruptured Crystal Tear"
+	},
+	{
+		"Id": 11017,
+		"Value": "Ruptured Crystal Tear"
+	},
+	{
+		"Id": 11018,
+		"Value": "Leaden Hardtear"
+	},
+	{
+		"Id": 11019,
+		"Value": "Twiggy Cracked Tear"
+	},
+	{
+		"Id": 11020,
+		"Value": "Crimsonwhorl Bubbletear"
+	},
+	{
+		"Id": 11021,
+		"Value": "Strength-knot Crystal Tear"
+	},
+	{
+		"Id": 11022,
+		"Value": "Dexterity-knot Crystal Tear"
+	},
+	{
+		"Id": 11023,
+		"Value": "Intelligence-knot Crystal Tear"
+	},
+	{
+		"Id": 11024,
+		"Value": "Faith-knot Crystal Tear"
+	},
+	{
+		"Id": 11025,
+		"Value": "Cerulean Hidden Tear"
+	},
+	{
+		"Id": 11026,
+		"Value": "Stonebarb Cracked Tear"
+	},
+	{
+		"Id": 11027,
+		"Value": "Purifying Crystal Tear"
+	},
+	{
+		"Id": 11028,
+		"Value": "Flame-Shrouding Cracked Tear"
+	},
+	{
+		"Id": 11029,
+		"Value": "Magic-Shrouding Cracked Tear"
+	},
+	{
+		"Id": 11030,
+		"Value": "Lightning-Shrouding Cracked Tear"
+	},
+	{
+		"Id": 11031,
+		"Value": "Holy-Shrouding Cracked Tear"
+	},
+	{
+		"Id": 15000,
+		"Value": "Sliver of Meat"
+	},
+	{
+		"Id": 15010,
+		"Value": "Beast Liver"
+	},
+	{
+		"Id": 15020,
+		"Value": "Lump of Flesh"
+	},
+	{
+		"Id": 15030,
+		"Value": "Beast Blood"
+	},
+	{
+		"Id": 15040,
+		"Value": "Old Fang"
+	},
+	{
+		"Id": 15050,
+		"Value": "Budding Horn"
+	},
+	{
+		"Id": 15060,
+		"Value": "Flight Pinion"
+	},
+	{
+		"Id": 15070,
+		"Value": "Hidden Plumage"
+	},
+	{
+		"Id": 15080,
+		"Value": "Four-Toed Fowl Foot"
+	},
+	{
+		"Id": 15090,
+		"Value": "Turtle Neck Meat"
+	},
+	{
+		"Id": 15100,
+		"Value": "Human Bone Shard"
+	},
+	{
+		"Id": 15110,
+		"Value": "Great Dragonfly Head"
+	},
+	{
+		"Id": 15120,
+		"Value": "Slumbering Egg"
+	},
+	{
+		"Id": 15130,
+		"Value": "Crab Eggs"
+	},
+	{
+		"Id": 15140,
+		"Value": "Land Octopus Ovary"
+	},
+	{
+		"Id": 15150,
+		"Value": "Miranda Powder"
+	},
+	{
+		"Id": 15160,
+		"Value": "Strip of White Flesh"
+	},
+	{
+		"Id": 15310,
+		"Value": "Golden Dung"
+	},
+	{
+		"Id": 15340,
+		"Value": "Thin Beast Bones"
+	},
+	{
+		"Id": 15341,
+		"Value": "Hefty Beast Bone"
+	},
+	{
+		"Id": 15390,
+		"Value": "Glinstone Scrap"
+	},
+	{
+		"Id": 15400,
+		"Value": "String"
+	},
+	{
+		"Id": 15410,
+		"Value": "Living Jar Shard"
+	},
+	{
+		"Id": 15420,
+		"Value": "Albinauric Bloodclot"
+	},
+	{
+		"Id": 15430,
+		"Value": "Stormhawk Feather"
+	},
+	{
+		"Id": 20650,
+		"Value": "Poisonbloom"
+	},
+	{
+		"Id": 20651,
+		"Value": "Trina's Lily"
+	},
+	{
+		"Id": 20652,
+		"Value": "Fulgurbloom"
+	},
+	{
+		"Id": 20653,
+		"Value": "Miquella's Lily"
+	},
+	{
+		"Id": 20654,
+		"Value": "Grave Violet"
+	},
+	{
+		"Id": 20660,
+		"Value": "Faded Erdleaf Flower"
+	},
+	{
+		"Id": 20680,
+		"Value": "Erdleaf Flower"
+	},
+	{
+		"Id": 20681,
+		"Value": "Altus Bloom"
+	},
+	{
+		"Id": 20682,
+		"Value": "Fire Blossom"
+	},
+	{
+		"Id": 20683,
+		"Value": "Golden Sunflower"
+	},
+	{
+		"Id": 20685,
+		"Value": "Tarnished Golden Sunflower"
+	},
+	{
+		"Id": 20690,
+		"Value": "Herba"
+	},
+	{
+		"Id": 20691,
+		"Value": "Arteria Leaf"
+	},
+	{
+		"Id": 20710,
+		"Value": "Dewkissed Herba"
+	},
+	{
+		"Id": 20720,
+		"Value": "Rowa Fruit"
+	},
+	{
+		"Id": 20721,
+		"Value": "Golden Rowa"
+	},
+	{
+		"Id": 20722,
+		"Value": "Rimed Rowa"
+	},
+	{
+		"Id": 20723,
+		"Value": "Bloodrose"
+	},
+	{
+		"Id": 20740,
+		"Value": "Eye of Yelough"
+	},
+	{
+		"Id": 20750,
+		"Value": "Crystal Bud"
+	},
+	{
+		"Id": 20751,
+		"Value": "Rimed Crystal Bud"
+	},
+	{
+		"Id": 20753,
+		"Value": "Sacramental Bud"
+	},
+	{
+		"Id": 20760,
+		"Value": "Mushroom"
+	},
+	{
+		"Id": 20761,
+		"Value": "Melted Mushroom"
+	},
+	{
+		"Id": 20770,
+		"Value": "Toxic Mushroom"
+	},
+	{
+		"Id": 20775,
+		"Value": "Root Resin"
+	},
+	{
+		"Id": 20780,
+		"Value": "Cracked Crystal"
+	},
+	{
+		"Id": 20795,
+		"Value": "Sanctuary Stone"
+	},
+	{
+		"Id": 20800,
+		"Value": "Nascent Butterfly"
+	},
+	{
+		"Id": 20801,
+		"Value": "Aeonian Butterfly"
+	},
+	{
+		"Id": 20802,
+		"Value": "Smoldering Butterfly"
+	},
+	{
+		"Id": 20810,
+		"Value": "Silver Firefly"
+	},
+	{
+		"Id": 20811,
+		"Value": "Gold Firefly"
+	},
+	{
+		"Id": 20812,
+		"Value": "Glintstone Firefly"
+	},
+	{
+		"Id": 20820,
+		"Value": "Golden Centipede"
+	},
+	{
+		"Id": 20825,
+		"Value": "Silver Tear Husk"
+	},
+	{
+		"Id": 20830,
+		"Value": "Gold-Tinged Excrement"
+	},
+	{
+		"Id": 20831,
+		"Value": "Blood-Tainted Excrement"
+	},
+	{
+		"Id": 20840,
+		"Value": "Cave Moss"
+	},
+	{
+		"Id": 20841,
+		"Value": "Budding Cave Moss"
+	},
+	{
+		"Id": 20842,
+		"Value": "Crystal Cave Moss"
+	},
+	{
+		"Id": 20845,
+		"Value": "Yellow Ember"
+	},
+	{
+		"Id": 20850,
+		"Value": "Volcanic Stone"
+	},
+	{
+		"Id": 20852,
+		"Value": "Formic Rock"
+	},
+	{
+		"Id": 20855,
+		"Value": "Gravel Stone"
+	},
+	{
+		"Id": 200000,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200001,
+		"Value": "Black Knife Tiche +1"
+	},
+	{
+		"Id": 200002,
+		"Value": "Black Knife Tiche +2"
+	},
+	{
+		"Id": 200003,
+		"Value": "Black Knife Tiche +3"
+	},
+	{
+		"Id": 200004,
+		"Value": "Black Knife Tiche +4"
+	},
+	{
+		"Id": 200005,
+		"Value": "Black Knife Tiche +5"
+	},
+	{
+		"Id": 200006,
+		"Value": "Black Knife Tiche +6"
+	},
+	{
+		"Id": 200007,
+		"Value": "Black Knife Tiche +7"
+	},
+	{
+		"Id": 200008,
+		"Value": "Black Knife Tiche +8"
+	},
+	{
+		"Id": 200009,
+		"Value": "Black Knife Tiche +9"
+	},
+	{
+		"Id": 200010,
+		"Value": "Black Knife Tiche +10"
+	},
+	{
+		"Id": 201000,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201001,
+		"Value": "Banished Knight Oleg +1"
+	},
+	{
+		"Id": 201002,
+		"Value": "Banished Knight Oleg +2"
+	},
+	{
+		"Id": 201003,
+		"Value": "Banished Knight Oleg +3"
+	},
+	{
+		"Id": 201004,
+		"Value": "Banished Knight Oleg +4"
+	},
+	{
+		"Id": 201005,
+		"Value": "Banished Knight Oleg +5"
+	},
+	{
+		"Id": 201006,
+		"Value": "Banished Knight Oleg +6"
+	},
+	{
+		"Id": 201007,
+		"Value": "Banished Knight Oleg +7"
+	},
+	{
+		"Id": 201008,
+		"Value": "Banished Knight Oleg +8"
+	},
+	{
+		"Id": 201009,
+		"Value": "Banished Knight Oleg +9"
+	},
+	{
+		"Id": 201010,
+		"Value": "Banished Knight Oleg +10"
+	},
+	{
+		"Id": 202000,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202001,
+		"Value": "Banished Knight Engvall +1"
+	},
+	{
+		"Id": 202002,
+		"Value": "Banished Knight Engvall +2"
+	},
+	{
+		"Id": 202003,
+		"Value": "Banished Knight Engvall +3"
+	},
+	{
+		"Id": 202004,
+		"Value": "Banished Knight Engvall +4"
+	},
+	{
+		"Id": 202005,
+		"Value": "Banished Knight Engvall +5"
+	},
+	{
+		"Id": 202006,
+		"Value": "Banished Knight Engvall +6"
+	},
+	{
+		"Id": 202007,
+		"Value": "Banished Knight Engvall +7"
+	},
+	{
+		"Id": 202008,
+		"Value": "Banished Knight Engvall +8"
+	},
+	{
+		"Id": 202009,
+		"Value": "Banished Knight Engvall +9"
+	},
+	{
+		"Id": 202010,
+		"Value": "Banished Knight Engvall +10"
+	},
+	{
+		"Id": 203000,
+		"Value": "Fanged Imp Ashes"
+	},
+	{
+		"Id": 203001,
+		"Value": "Fanged Imp Ashes +1"
+	},
+	{
+		"Id": 203002,
+		"Value": "Fanged Imp Ashes +2"
+	},
+	{
+		"Id": 203003,
+		"Value": "Fanged Imp Ashes +3"
+	},
+	{
+		"Id": 203004,
+		"Value": "Fanged Imp Ashes +4"
+	},
+	{
+		"Id": 203005,
+		"Value": "Fanged Imp Ashes +5"
+	},
+	{
+		"Id": 203006,
+		"Value": "Fanged Imp Ashes +6"
+	},
+	{
+		"Id": 203007,
+		"Value": "Fanged Imp Ashes +7"
+	},
+	{
+		"Id": 203008,
+		"Value": "Fanged Imp Ashes +8"
+	},
+	{
+		"Id": 203009,
+		"Value": "Fanged Imp Ashes +9"
+	},
+	{
+		"Id": 203010,
+		"Value": "Fanged Imp Ashes +10"
+	},
+	{
+		"Id": 204000,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204001,
+		"Value": "Latenna the Albinauric +1"
+	},
+	{
+		"Id": 204002,
+		"Value": "Latenna the Albinauric +2"
+	},
+	{
+		"Id": 204003,
+		"Value": "Latenna the Albinauric +3"
+	},
+	{
+		"Id": 204004,
+		"Value": "Latenna the Albinauric +4"
+	},
+	{
+		"Id": 204005,
+		"Value": "Latenna the Albinauric +5"
+	},
+	{
+		"Id": 204006,
+		"Value": "Latenna the Albinauric +6"
+	},
+	{
+		"Id": 204007,
+		"Value": "Latenna the Albinauric +7"
+	},
+	{
+		"Id": 204008,
+		"Value": "Latenna the Albinauric +8"
+	},
+	{
+		"Id": 204009,
+		"Value": "Latenna the Albinauric +9"
+	},
+	{
+		"Id": 204010,
+		"Value": "Latenna the Albinauric +10"
+	},
+	{
+		"Id": 205000,
+		"Value": "Nomad Ashes"
+	},
+	{
+		"Id": 205001,
+		"Value": "Nomad Ashes +1"
+	},
+	{
+		"Id": 205002,
+		"Value": "Nomad Ashes +2"
+	},
+	{
+		"Id": 205003,
+		"Value": "Nomad Ashes +3"
+	},
+	{
+		"Id": 205004,
+		"Value": "Nomad Ashes +4"
+	},
+	{
+		"Id": 205005,
+		"Value": "Nomad Ashes +5"
+	},
+	{
+		"Id": 205006,
+		"Value": "Nomad Ashes +6"
+	},
+	{
+		"Id": 205007,
+		"Value": "Nomad Ashes +7"
+	},
+	{
+		"Id": 205008,
+		"Value": "Nomad Ashes +8"
+	},
+	{
+		"Id": 205009,
+		"Value": "Nomad Ashes +9"
+	},
+	{
+		"Id": 205010,
+		"Value": "Nomad Ashes +10"
+	},
+	{
+		"Id": 206000,
+		"Value": "Nightmaiden & Swordstress Puppets"
+	},
+	{
+		"Id": 206001,
+		"Value": "Nightmaiden & Swordstress Puppets +1"
+	},
+	{
+		"Id": 206002,
+		"Value": "Nightmaiden & Swordstress Puppets +2"
+	},
+	{
+		"Id": 206003,
+		"Value": "Nightmaiden & Swordstress Puppets +3"
+	},
+	{
+		"Id": 206004,
+		"Value": "Nightmaiden & Swordstress Puppets +4"
+	},
+	{
+		"Id": 206005,
+		"Value": "Nightmaiden & Swordstress Puppets +5"
+	},
+	{
+		"Id": 206006,
+		"Value": "Nightmaiden & Swordstress Puppets +6"
+	},
+	{
+		"Id": 206007,
+		"Value": "Nightmaiden & Swordstress Puppets +7"
+	},
+	{
+		"Id": 206008,
+		"Value": "Nightmaiden & Swordstress Puppets +8"
+	},
+	{
+		"Id": 206009,
+		"Value": "Nightmaiden & Swordstress Puppets +9"
+	},
+	{
+		"Id": 206010,
+		"Value": "Nightmaiden & Swordstress Puppets +10"
+	},
+	{
+		"Id": 207000,
+		"Value": "Mimic Tear Ashes"
+	},
+	{
+		"Id": 207001,
+		"Value": "Mimic Tear Ashes +1"
+	},
+	{
+		"Id": 207002,
+		"Value": "Mimic Tear Ashes +2"
+	},
+	{
+		"Id": 207003,
+		"Value": "Mimic Tear Ashes +3"
+	},
+	{
+		"Id": 207004,
+		"Value": "Mimic Tear Ashes +4"
+	},
+	{
+		"Id": 207005,
+		"Value": "Mimic Tear Ashes +5"
+	},
+	{
+		"Id": 207006,
+		"Value": "Mimic Tear Ashes +6"
+	},
+	{
+		"Id": 207007,
+		"Value": "Mimic Tear Ashes +7"
+	},
+	{
+		"Id": 207008,
+		"Value": "Mimic Tear Ashes +8"
+	},
+	{
+		"Id": 207009,
+		"Value": "Mimic Tear Ashes +9"
+	},
+	{
+		"Id": 207010,
+		"Value": "Mimic Tear Ashes +10"
+	},
+	{
+		"Id": 208000,
+		"Value": "Crystalian Ashes"
+	},
+	{
+		"Id": 208001,
+		"Value": "Crystalian Ashes +1"
+	},
+	{
+		"Id": 208002,
+		"Value": "Crystalian Ashes +2"
+	},
+	{
+		"Id": 208003,
+		"Value": "Crystalian Ashes +3"
+	},
+	{
+		"Id": 208004,
+		"Value": "Crystalian Ashes +4"
+	},
+	{
+		"Id": 208005,
+		"Value": "Crystalian Ashes +5"
+	},
+	{
+		"Id": 208006,
+		"Value": "Crystalian Ashes +6"
+	},
+	{
+		"Id": 208007,
+		"Value": "Crystalian Ashes +7"
+	},
+	{
+		"Id": 208008,
+		"Value": "Crystalian Ashes +8"
+	},
+	{
+		"Id": 208009,
+		"Value": "Crystalian Ashes +9"
+	},
+	{
+		"Id": 208010,
+		"Value": "Crystalian Ashes +10"
+	},
+	{
+		"Id": 209000,
+		"Value": "Ancestral Follower Ashes"
+	},
+	{
+		"Id": 209001,
+		"Value": "Ancestral Follower Ashes +1"
+	},
+	{
+		"Id": 209002,
+		"Value": "Ancestral Follower Ashes +2"
+	},
+	{
+		"Id": 209003,
+		"Value": "Ancestral Follower Ashes +3"
+	},
+	{
+		"Id": 209004,
+		"Value": "Ancestral Follower Ashes +4"
+	},
+	{
+		"Id": 209005,
+		"Value": "Ancestral Follower Ashes +5"
+	},
+	{
+		"Id": 209006,
+		"Value": "Ancestral Follower Ashes +6"
+	},
+	{
+		"Id": 209007,
+		"Value": "Ancestral Follower Ashes +7"
+	},
+	{
+		"Id": 209008,
+		"Value": "Ancestral Follower Ashes +8"
+	},
+	{
+		"Id": 209009,
+		"Value": "Ancestral Follower Ashes +9"
+	},
+	{
+		"Id": 209010,
+		"Value": "Ancestral Follower Ashes +10"
+	},
+	{
+		"Id": 210000,
+		"Value": "Winged Misbegotten Ashes"
+	},
+	{
+		"Id": 210001,
+		"Value": "Winged Misbegotten Ashes + 1"
+	},
+	{
+		"Id": 210002,
+		"Value": "Winged Misbegotten Ashes + 2"
+	},
+	{
+		"Id": 210003,
+		"Value": "Winged Misbegotten Ashes + 3"
+	},
+	{
+		"Id": 210004,
+		"Value": "Winged Misbegotten Ashes + 4"
+	},
+	{
+		"Id": 210005,
+		"Value": "Winged Misbegotten Ashes + 5"
+	},
+	{
+		"Id": 210006,
+		"Value": "Winged Misbegotten Ashes + 6"
+	},
+	{
+		"Id": 210007,
+		"Value": "Winged Misbegotten Ashes + 7"
+	},
+	{
+		"Id": 210008,
+		"Value": "Winged Misbegotten Ashes + 8"
+	},
+	{
+		"Id": 210009,
+		"Value": "Winged Misbegotten Ashes + 9"
+	},
+	{
+		"Id": 210010,
+		"Value": "Winged Misbegotten Ashes + 10"
+	},
+	{
+		"Id": 211000,
+		"Value": "Albinauric Ashes"
+	},
+	{
+		"Id": 211001,
+		"Value": "Albinauric Ashes +1"
+	},
+	{
+		"Id": 211002,
+		"Value": "Albinauric Ashes +2"
+	},
+	{
+		"Id": 211003,
+		"Value": "Albinauric Ashes +3"
+	},
+	{
+		"Id": 211004,
+		"Value": "Albinauric Ashes +4"
+	},
+	{
+		"Id": 211005,
+		"Value": "Albinauric Ashes +5"
+	},
+	{
+		"Id": 211006,
+		"Value": "Albinauric Ashes +6"
+	},
+	{
+		"Id": 211007,
+		"Value": "Albinauric Ashes +7"
+	},
+	{
+		"Id": 211008,
+		"Value": "Albinauric Ashes +8"
+	},
+	{
+		"Id": 211009,
+		"Value": "Albinauric Ashes +9"
+	},
+	{
+		"Id": 211010,
+		"Value": "Albinauric Ashes +10"
+	},
+	{
+		"Id": 212000,
+		"Value": "Skeletal Militiaman Ashes"
+	},
+	{
+		"Id": 212001,
+		"Value": "Skeletal Militiaman Ashes +1"
+	},
+	{
+		"Id": 212002,
+		"Value": "Skeletal Militiaman Ashes +2"
+	},
+	{
+		"Id": 212003,
+		"Value": "Skeletal Militiaman Ashes +3"
+	},
+	{
+		"Id": 212004,
+		"Value": "Skeletal Militiaman Ashes +4"
+	},
+	{
+		"Id": 212005,
+		"Value": "Skeletal Militiaman Ashes +5"
+	},
+	{
+		"Id": 212006,
+		"Value": "Skeletal Militiaman Ashes +6"
+	},
+	{
+		"Id": 212007,
+		"Value": "Skeletal Militiaman Ashes +7"
+	},
+	{
+		"Id": 212008,
+		"Value": "Skeletal Militiaman Ashes +8"
+	},
+	{
+		"Id": 212009,
+		"Value": "Skeletal Militiaman Ashes +9"
+	},
+	{
+		"Id": 212010,
+		"Value": "Skeletal Militiaman Ashes +10"
+	},
+	{
+		"Id": 213000,
+		"Value": "Skeletal Bandit Ashes"
+	},
+	{
+		"Id": 213001,
+		"Value": "Skeletal Bandit Ashes +1"
+	},
+	{
+		"Id": 213002,
+		"Value": "Skeletal Bandit Ashes +2"
+	},
+	{
+		"Id": 213003,
+		"Value": "Skeletal Bandit Ashes +3"
+	},
+	{
+		"Id": 213004,
+		"Value": "Skeletal Bandit Ashes +4"
+	},
+	{
+		"Id": 213005,
+		"Value": "Skeletal Bandit Ashes +5"
+	},
+	{
+		"Id": 213006,
+		"Value": "Skeletal Bandit Ashes +6"
+	},
+	{
+		"Id": 213007,
+		"Value": "Skeletal Bandit Ashes +7"
+	},
+	{
+		"Id": 213008,
+		"Value": "Skeletal Bandit Ashes +8"
+	},
+	{
+		"Id": 213009,
+		"Value": "Skeletal Bandit Ashes +9"
+	},
+	{
+		"Id": 213010,
+		"Value": "Skeletal Bandit Ashes +10"
+	},
+	{
+		"Id": 214000,
+		"Value": "Oracle Envoy Ashes"
+	},
+	{
+		"Id": 214001,
+		"Value": "Oracle Envoy Ashes +1"
+	},
+	{
+		"Id": 214002,
+		"Value": "Oracle Envoy Ashes +2"
+	},
+	{
+		"Id": 214003,
+		"Value": "Oracle Envoy Ashes +3"
+	},
+	{
+		"Id": 214004,
+		"Value": "Oracle Envoy Ashes +4"
+	},
+	{
+		"Id": 214005,
+		"Value": "Oracle Envoy Ashes +5"
+	},
+	{
+		"Id": 214006,
+		"Value": "Oracle Envoy Ashes +6"
+	},
+	{
+		"Id": 214007,
+		"Value": "Oracle Envoy Ashes +7"
+	},
+	{
+		"Id": 214008,
+		"Value": "Oracle Envoy Ashes +8"
+	},
+	{
+		"Id": 214009,
+		"Value": "Oracle Envoy Ashes +9"
+	},
+	{
+		"Id": 214010,
+		"Value": "Oracle Envoy Ashes +10"
+	},
+	{
+		"Id": 215000,
+		"Value": "Putrid Corpse Ashes"
+	},
+	{
+		"Id": 215001,
+		"Value": "Putrid Corpse Ashes +1"
+	},
+	{
+		"Id": 215002,
+		"Value": "Putrid Corpse Ashes +2"
+	},
+	{
+		"Id": 215003,
+		"Value": "Putrid Corpse Ashes +3"
+	},
+	{
+		"Id": 215004,
+		"Value": "Putrid Corpse Ashes +4"
+	},
+	{
+		"Id": 215005,
+		"Value": "Putrid Corpse Ashes +5"
+	},
+	{
+		"Id": 215006,
+		"Value": "Putrid Corpse Ashes +6"
+	},
+	{
+		"Id": 215007,
+		"Value": "Putrid Corpse Ashes +7"
+	},
+	{
+		"Id": 215008,
+		"Value": "Putrid Corpse Ashes +8"
+	},
+	{
+		"Id": 215009,
+		"Value": "Putrid Corpse Ashes +9"
+	},
+	{
+		"Id": 215010,
+		"Value": "Putrid Corpse Ashes +10"
+	},
+	{
+		"Id": 216000,
+		"Value": "Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216001,
+		"Value": "Depraved Perfumer Carmaan +1"
+	},
+	{
+		"Id": 216002,
+		"Value": "Depraved Perfumer Carmaan +2"
+	},
+	{
+		"Id": 216003,
+		"Value": "Depraved Perfumer Carmaan +3"
+	},
+	{
+		"Id": 216004,
+		"Value": "Depraved Perfumer Carmaan +4"
+	},
+	{
+		"Id": 216005,
+		"Value": "Depraved Perfumer Carmaan +5"
+	},
+	{
+		"Id": 216006,
+		"Value": "Depraved Perfumer Carmaan +6"
+	},
+	{
+		"Id": 216007,
+		"Value": "Depraved Perfumer Carmaan +7"
+	},
+	{
+		"Id": 216008,
+		"Value": "Depraved Perfumer Carmaan +8"
+	},
+	{
+		"Id": 216009,
+		"Value": "Depraved Perfumer Carmaan +9"
+	},
+	{
+		"Id": 216010,
+		"Value": "Depraved Perfumer Carmaan +10"
+	},
+	{
+		"Id": 217000,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217001,
+		"Value": "Perfumer Tricia +1"
+	},
+	{
+		"Id": 217002,
+		"Value": "Perfumer Tricia +2"
+	},
+	{
+		"Id": 217003,
+		"Value": "Perfumer Tricia +3"
+	},
+	{
+		"Id": 217004,
+		"Value": "Perfumer Tricia +4"
+	},
+	{
+		"Id": 217005,
+		"Value": "Perfumer Tricia +5"
+	},
+	{
+		"Id": 217006,
+		"Value": "Perfumer Tricia +6"
+	},
+	{
+		"Id": 217007,
+		"Value": "Perfumer Tricia +7"
+	},
+	{
+		"Id": 217008,
+		"Value": "Perfumer Tricia +8"
+	},
+	{
+		"Id": 217009,
+		"Value": "Perfumer Tricia +9"
+	},
+	{
+		"Id": 217010,
+		"Value": "Perfumer Tricia +10"
+	},
+	{
+		"Id": 218000,
+		"Value": "Glintstone Sorcerer Ashes"
+	},
+	{
+		"Id": 218001,
+		"Value": "Glintstone Sorcerer Ashes +1"
+	},
+	{
+		"Id": 218002,
+		"Value": "Glintstone Sorcerer Ashes +2"
+	},
+	{
+		"Id": 218003,
+		"Value": "Glintstone Sorcerer Ashes +3"
+	},
+	{
+		"Id": 218004,
+		"Value": "Glintstone Sorcerer Ashes +4"
+	},
+	{
+		"Id": 218005,
+		"Value": "Glintstone Sorcerer Ashes +5"
+	},
+	{
+		"Id": 218006,
+		"Value": "Glintstone Sorcerer Ashes +6"
+	},
+	{
+		"Id": 218007,
+		"Value": "Glintstone Sorcerer Ashes +7"
+	},
+	{
+		"Id": 218008,
+		"Value": "Glintstone Sorcerer Ashes +8"
+	},
+	{
+		"Id": 218009,
+		"Value": "Glintstone Sorcerer Ashes +9"
+	},
+	{
+		"Id": 218010,
+		"Value": "Glintstone Sorcerer Ashes +10"
+	},
+	{
+		"Id": 219000,
+		"Value": "Twinsage Sorcerer Ashes"
+	},
+	{
+		"Id": 219001,
+		"Value": "Twinsage Sorcerer Ashes +1"
+	},
+	{
+		"Id": 219002,
+		"Value": "Twinsage Sorcerer Ashes +2"
+	},
+	{
+		"Id": 219003,
+		"Value": "Twinsage Sorcerer Ashes +3"
+	},
+	{
+		"Id": 219004,
+		"Value": "Twinsage Sorcerer Ashes +4"
+	},
+	{
+		"Id": 219005,
+		"Value": "Twinsage Sorcerer Ashes +5"
+	},
+	{
+		"Id": 219006,
+		"Value": "Twinsage Sorcerer Ashes +6"
+	},
+	{
+		"Id": 219007,
+		"Value": "Twinsage Sorcerer Ashes +7"
+	},
+	{
+		"Id": 219008,
+		"Value": "Twinsage Sorcerer Ashes +8"
+	},
+	{
+		"Id": 219009,
+		"Value": "Twinsage Sorcerer Ashes +9"
+	},
+	{
+		"Id": 219010,
+		"Value": "Twinsage Sorcerer Ashes +10"
+	},
+	{
+		"Id": 220000,
+		"Value": "Page Ashes"
+	},
+	{
+		"Id": 220001,
+		"Value": "Page Ashes +1"
+	},
+	{
+		"Id": 220002,
+		"Value": "Page Ashes +2"
+	},
+	{
+		"Id": 220003,
+		"Value": "Page Ashes +3"
+	},
+	{
+		"Id": 220004,
+		"Value": "Page Ashes +4"
+	},
+	{
+		"Id": 220005,
+		"Value": "Page Ashes +5"
+	},
+	{
+		"Id": 220006,
+		"Value": "Page Ashes +6"
+	},
+	{
+		"Id": 220007,
+		"Value": "Page Ashes +7"
+	},
+	{
+		"Id": 220008,
+		"Value": "Page Ashes +8"
+	},
+	{
+		"Id": 220009,
+		"Value": "Page Ashes +9"
+	},
+	{
+		"Id": 220010,
+		"Value": "Page Ashes +10"
+	},
+	{
+		"Id": 221000,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221001,
+		"Value": "Battlemage Hugues +1"
+	},
+	{
+		"Id": 221002,
+		"Value": "Battlemage Hugues +2"
+	},
+	{
+		"Id": 221003,
+		"Value": "Battlemage Hugues +3"
+	},
+	{
+		"Id": 221004,
+		"Value": "Battlemage Hugues +4"
+	},
+	{
+		"Id": 221005,
+		"Value": "Battlemage Hugues +5"
+	},
+	{
+		"Id": 221006,
+		"Value": "Battlemage Hugues +6"
+	},
+	{
+		"Id": 221007,
+		"Value": "Battlemage Hugues +7"
+	},
+	{
+		"Id": 221008,
+		"Value": "Battlemage Hugues +8"
+	},
+	{
+		"Id": 221009,
+		"Value": "Battlemage Hugues +9"
+	},
+	{
+		"Id": 221010,
+		"Value": "Battlemage Hugues +10"
+	},
+	{
+		"Id": 222000,
+		"Value": "Clayman Ashes"
+	},
+	{
+		"Id": 222001,
+		"Value": "Clayman Ashes +1"
+	},
+	{
+		"Id": 222002,
+		"Value": "Clayman Ashes +2"
+	},
+	{
+		"Id": 222003,
+		"Value": "Clayman Ashes +3"
+	},
+	{
+		"Id": 222004,
+		"Value": "Clayman Ashes +4"
+	},
+	{
+		"Id": 222005,
+		"Value": "Clayman Ashes +5"
+	},
+	{
+		"Id": 222006,
+		"Value": "Clayman Ashes +6"
+	},
+	{
+		"Id": 222007,
+		"Value": "Clayman Ashes +7"
+	},
+	{
+		"Id": 222008,
+		"Value": "Clayman Ashes +8"
+	},
+	{
+		"Id": 222009,
+		"Value": "Clayman Ashes +9"
+	},
+	{
+		"Id": 222010,
+		"Value": "Clayman Ashes +10"
+	},
+	{
+		"Id": 223000,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223001,
+		"Value": "Cleanrot Knight Finlay +1"
+	},
+	{
+		"Id": 223002,
+		"Value": "Cleanrot Knight Finlay +2"
+	},
+	{
+		"Id": 223003,
+		"Value": "Cleanrot Knight Finlay +3"
+	},
+	{
+		"Id": 223004,
+		"Value": "Cleanrot Knight Finlay +4"
+	},
+	{
+		"Id": 223005,
+		"Value": "Cleanrot Knight Finlay +5"
+	},
+	{
+		"Id": 223006,
+		"Value": "Cleanrot Knight Finlay +6"
+	},
+	{
+		"Id": 223007,
+		"Value": "Cleanrot Knight Finlay +7"
+	},
+	{
+		"Id": 223008,
+		"Value": "Cleanrot Knight Finlay +8"
+	},
+	{
+		"Id": 223009,
+		"Value": "Cleanrot Knight Finlay +9"
+	},
+	{
+		"Id": 223010,
+		"Value": "Cleanrot Knight Finlay +10"
+	},
+	{
+		"Id": 224000,
+		"Value": "Kindred of Rot Ashes"
+	},
+	{
+		"Id": 224001,
+		"Value": "Kindred of Rot Ashes +1"
+	},
+	{
+		"Id": 224002,
+		"Value": "Kindred of Rot Ashes +2"
+	},
+	{
+		"Id": 224003,
+		"Value": "Kindred of Rot Ashes +3"
+	},
+	{
+		"Id": 224004,
+		"Value": "Kindred of Rot Ashes +4"
+	},
+	{
+		"Id": 224005,
+		"Value": "Kindred of Rot Ashes +5"
+	},
+	{
+		"Id": 224006,
+		"Value": "Kindred of Rot Ashes +6"
+	},
+	{
+		"Id": 224007,
+		"Value": "Kindred of Rot Ashes +7"
+	},
+	{
+		"Id": 224008,
+		"Value": "Kindred of Rot Ashes +8"
+	},
+	{
+		"Id": 224009,
+		"Value": "Kindred of Rot Ashes +9"
+	},
+	{
+		"Id": 224010,
+		"Value": "Kindred of Rot Ashes +10"
+	},
+	{
+		"Id": 225000,
+		"Value": "Marionette Soldier Ashes"
+	},
+	{
+		"Id": 225001,
+		"Value": "Marionette Soldier Ashes +1"
+	},
+	{
+		"Id": 225002,
+		"Value": "Marionette Soldier Ashes +2"
+	},
+	{
+		"Id": 225003,
+		"Value": "Marionette Soldier Ashes +3"
+	},
+	{
+		"Id": 225004,
+		"Value": "Marionette Soldier Ashes +4"
+	},
+	{
+		"Id": 225005,
+		"Value": "Marionette Soldier Ashes +5"
+	},
+	{
+		"Id": 225006,
+		"Value": "Marionette Soldier Ashes +6"
+	},
+	{
+		"Id": 225007,
+		"Value": "Marionette Soldier Ashes +7"
+	},
+	{
+		"Id": 225008,
+		"Value": "Marionette Soldier Ashes +8"
+	},
+	{
+		"Id": 225009,
+		"Value": "Marionette Soldier Ashes +9"
+	},
+	{
+		"Id": 225010,
+		"Value": "Marionette Soldier Ashes +10"
+	},
+	{
+		"Id": 226000,
+		"Value": "Avionette Soldier Ashes"
+	},
+	{
+		"Id": 226001,
+		"Value": "Avionette Soldier Ashes +1"
+	},
+	{
+		"Id": 226002,
+		"Value": "Avionette Soldier Ashes +2"
+	},
+	{
+		"Id": 226003,
+		"Value": "Avionette Soldier Ashes +3"
+	},
+	{
+		"Id": 226004,
+		"Value": "Avionette Soldier Ashes +4"
+	},
+	{
+		"Id": 226005,
+		"Value": "Avionette Soldier Ashes +5"
+	},
+	{
+		"Id": 226006,
+		"Value": "Avionette Soldier Ashes +6"
+	},
+	{
+		"Id": 226007,
+		"Value": "Avionette Soldier Ashes +7"
+	},
+	{
+		"Id": 226008,
+		"Value": "Avionette Soldier Ashes +8"
+	},
+	{
+		"Id": 226009,
+		"Value": "Avionette Soldier Ashes +9"
+	},
+	{
+		"Id": 226010,
+		"Value": "Avionette Soldier Ashes +10"
+	},
+	{
+		"Id": 227000,
+		"Value": "Fire Monk Ashes"
+	},
+	{
+		"Id": 227001,
+		"Value": "Fire Monk Ashes +1"
+	},
+	{
+		"Id": 227002,
+		"Value": "Fire Monk Ashes +2"
+	},
+	{
+		"Id": 227003,
+		"Value": "Fire Monk Ashes +3"
+	},
+	{
+		"Id": 227004,
+		"Value": "Fire Monk Ashes +4"
+	},
+	{
+		"Id": 227005,
+		"Value": "Fire Monk Ashes +5"
+	},
+	{
+		"Id": 227006,
+		"Value": "Fire Monk Ashes +6"
+	},
+	{
+		"Id": 227007,
+		"Value": "Fire Monk Ashes +7"
+	},
+	{
+		"Id": 227008,
+		"Value": "Fire Monk Ashes +8"
+	},
+	{
+		"Id": 227009,
+		"Value": "Fire Monk Ashes +9"
+	},
+	{
+		"Id": 227010,
+		"Value": "Fire Monk Ashes +10"
+	},
+	{
+		"Id": 228000,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228001,
+		"Value": "Blackflame Monk Amon +1"
+	},
+	{
+		"Id": 228002,
+		"Value": "Blackflame Monk Amon +2"
+	},
+	{
+		"Id": 228003,
+		"Value": "Blackflame Monk Amon +3"
+	},
+	{
+		"Id": 228004,
+		"Value": "Blackflame Monk Amon +4"
+	},
+	{
+		"Id": 228005,
+		"Value": "Blackflame Monk Amon +5"
+	},
+	{
+		"Id": 228006,
+		"Value": "Blackflame Monk Amon +6"
+	},
+	{
+		"Id": 228007,
+		"Value": "Blackflame Monk Amon +7"
+	},
+	{
+		"Id": 228008,
+		"Value": "Blackflame Monk Amon +8"
+	},
+	{
+		"Id": 228009,
+		"Value": "Blackflame Monk Amon +9"
+	},
+	{
+		"Id": 228010,
+		"Value": "Blackflame Monk Amon +10"
+	},
+	{
+		"Id": 229000,
+		"Value": "Man-Serpent Ashes"
+	},
+	{
+		"Id": 229001,
+		"Value": "Man-Serpent Ashes +1"
+	},
+	{
+		"Id": 229002,
+		"Value": "Man-Serpent Ashes +2"
+	},
+	{
+		"Id": 229003,
+		"Value": "Man-Serpent Ashes +3"
+	},
+	{
+		"Id": 229004,
+		"Value": "Man-Serpent Ashes +4"
+	},
+	{
+		"Id": 229005,
+		"Value": "Man-Serpent Ashes +5"
+	},
+	{
+		"Id": 229006,
+		"Value": "Man-Serpent Ashes +6"
+	},
+	{
+		"Id": 229007,
+		"Value": "Man-Serpent Ashes +7"
+	},
+	{
+		"Id": 229008,
+		"Value": "Man-Serpent Ashes +8"
+	},
+	{
+		"Id": 229009,
+		"Value": "Man-Serpent Ashes +9"
+	},
+	{
+		"Id": 229010,
+		"Value": "Man-Serpent Ashes +10"
+	},
+	{
+		"Id": 230000,
+		"Value": "Azula Beastman Ashes"
+	},
+	{
+		"Id": 230001,
+		"Value": "Azula Beastman Ashes +1"
+	},
+	{
+		"Id": 230002,
+		"Value": "Azula Beastman Ashes +2"
+	},
+	{
+		"Id": 230003,
+		"Value": "Azula Beastman Ashes +3"
+	},
+	{
+		"Id": 230004,
+		"Value": "Azula Beastman Ashes +4"
+	},
+	{
+		"Id": 230005,
+		"Value": "Azula Beastman Ashes +5"
+	},
+	{
+		"Id": 230006,
+		"Value": "Azula Beastman Ashes +6"
+	},
+	{
+		"Id": 230007,
+		"Value": "Azula Beastman Ashes +7"
+	},
+	{
+		"Id": 230008,
+		"Value": "Azula Beastman Ashes +8"
+	},
+	{
+		"Id": 230009,
+		"Value": "Azula Beastman Ashes +9"
+	},
+	{
+		"Id": 230010,
+		"Value": "Azula Beastman Ashes +10"
+	},
+	{
+		"Id": 231000,
+		"Value": "Kaiden Sellsword Ashes"
+	},
+	{
+		"Id": 231001,
+		"Value": "Kaiden Sellsword Ashes +1"
+	},
+	{
+		"Id": 231002,
+		"Value": "Kaiden Sellsword Ashes +2"
+	},
+	{
+		"Id": 231003,
+		"Value": "Kaiden Sellsword Ashes +3"
+	},
+	{
+		"Id": 231004,
+		"Value": "Kaiden Sellsword Ashes +4"
+	},
+	{
+		"Id": 231005,
+		"Value": "Kaiden Sellsword Ashes +5"
+	},
+	{
+		"Id": 231006,
+		"Value": "Kaiden Sellsword Ashes +6"
+	},
+	{
+		"Id": 231007,
+		"Value": "Kaiden Sellsword Ashes +7"
+	},
+	{
+		"Id": 231008,
+		"Value": "Kaiden Sellsword Ashes +8"
+	},
+	{
+		"Id": 231009,
+		"Value": "Kaiden Sellsword Ashes +9"
+	},
+	{
+		"Id": 231010,
+		"Value": "Kaiden Sellsword Ashes +10"
+	},
+	{
+		"Id": 232000,
+		"Value": "Lone Wolf Ashes"
+	},
+	{
+		"Id": 232001,
+		"Value": "Lone Wolf Ashes +1"
+	},
+	{
+		"Id": 232002,
+		"Value": "Lone Wolf Ashes +2"
+	},
+	{
+		"Id": 232003,
+		"Value": "Lone Wolf Ashes +3"
+	},
+	{
+		"Id": 232004,
+		"Value": "Lone Wolf Ashes +4"
+	},
+	{
+		"Id": 232005,
+		"Value": "Lone Wolf Ashes +5"
+	},
+	{
+		"Id": 232006,
+		"Value": "Lone Wolf Ashes +6"
+	},
+	{
+		"Id": 232007,
+		"Value": "Lone Wolf Ashes +7"
+	},
+	{
+		"Id": 232008,
+		"Value": "Lone Wolf Ashes +8"
+	},
+	{
+		"Id": 232009,
+		"Value": "Lone Wolf Ashes +9"
+	},
+	{
+		"Id": 232010,
+		"Value": "Lone Wolf Ashes +10"
+	},
+	{
+		"Id": 233000,
+		"Value": "Giant Rat Ashes"
+	},
+	{
+		"Id": 233001,
+		"Value": "Giant Rat Ashes +1"
+	},
+	{
+		"Id": 233002,
+		"Value": "Giant Rat Ashes +2"
+	},
+	{
+		"Id": 233003,
+		"Value": "Giant Rat Ashes +3"
+	},
+	{
+		"Id": 233004,
+		"Value": "Giant Rat Ashes +4"
+	},
+	{
+		"Id": 233005,
+		"Value": "Giant Rat Ashes +5"
+	},
+	{
+		"Id": 233006,
+		"Value": "Giant Rat Ashes +6"
+	},
+	{
+		"Id": 233007,
+		"Value": "Giant Rat Ashes +7"
+	},
+	{
+		"Id": 233008,
+		"Value": "Giant Rat Ashes +8"
+	},
+	{
+		"Id": 233009,
+		"Value": "Giant Rat Ashes +9"
+	},
+	{
+		"Id": 233010,
+		"Value": "Giant Rat Ashes +10"
+	},
+	{
+		"Id": 234000,
+		"Value": "Demi-Human Ashes"
+	},
+	{
+		"Id": 234001,
+		"Value": "Demi-Human Ashes +1"
+	},
+	{
+		"Id": 234002,
+		"Value": "Demi-Human Ashes +2"
+	},
+	{
+		"Id": 234003,
+		"Value": "Demi-Human Ashes +3"
+	},
+	{
+		"Id": 234004,
+		"Value": "Demi-Human Ashes +4"
+	},
+	{
+		"Id": 234005,
+		"Value": "Demi-Human Ashes +5"
+	},
+	{
+		"Id": 234006,
+		"Value": "Demi-Human Ashes +6"
+	},
+	{
+		"Id": 234007,
+		"Value": "Demi-Human Ashes +7"
+	},
+	{
+		"Id": 234008,
+		"Value": "Demi-Human Ashes +8"
+	},
+	{
+		"Id": 234009,
+		"Value": "Demi-Human Ashes +9"
+	},
+	{
+		"Id": 234010,
+		"Value": "Demi-Human Ashes +10"
+	},
+	{
+		"Id": 235000,
+		"Value": "Rotten Stray Ashes"
+	},
+	{
+		"Id": 235001,
+		"Value": "Rotten Stray Ashes +1"
+	},
+	{
+		"Id": 235002,
+		"Value": "Rotten Stray Ashes +2"
+	},
+	{
+		"Id": 235003,
+		"Value": "Rotten Stray Ashes +3"
+	},
+	{
+		"Id": 235004,
+		"Value": "Rotten Stray Ashes +4"
+	},
+	{
+		"Id": 235005,
+		"Value": "Rotten Stray Ashes +5"
+	},
+	{
+		"Id": 235006,
+		"Value": "Rotten Stray Ashes +6"
+	},
+	{
+		"Id": 235007,
+		"Value": "Rotten Stray Ashes +7"
+	},
+	{
+		"Id": 235008,
+		"Value": "Rotten Stray Ashes +8"
+	},
+	{
+		"Id": 235009,
+		"Value": "Rotten Stray Ashes +9"
+	},
+	{
+		"Id": 235010,
+		"Value": "Rotten Stray Ashes +10"
+	},
+	{
+		"Id": 236000,
+		"Value": "Spirit Jellyfish Ashes"
+	},
+	{
+		"Id": 236001,
+		"Value": "Spirit Jellyfish Ashes +1"
+	},
+	{
+		"Id": 236002,
+		"Value": "Spirit Jellyfish Ashes +2"
+	},
+	{
+		"Id": 236003,
+		"Value": "Spirit Jellyfish Ashes +3"
+	},
+	{
+		"Id": 236004,
+		"Value": "Spirit Jellyfish Ashes +4"
+	},
+	{
+		"Id": 236005,
+		"Value": "Spirit Jellyfish Ashes +5"
+	},
+	{
+		"Id": 236006,
+		"Value": "Spirit Jellyfish Ashes +6"
+	},
+	{
+		"Id": 236007,
+		"Value": "Spirit Jellyfish Ashes +7"
+	},
+	{
+		"Id": 236008,
+		"Value": "Spirit Jellyfish Ashes +8"
+	},
+	{
+		"Id": 236009,
+		"Value": "Spirit Jellyfish Ashes +9"
+	},
+	{
+		"Id": 236010,
+		"Value": "Spirit Jellyfish Ashes +10"
+	},
+	{
+		"Id": 237000,
+		"Value": "Warhawk Ashes"
+	},
+	{
+		"Id": 237001,
+		"Value": "Warhawk Ashes +1"
+	},
+	{
+		"Id": 237002,
+		"Value": "Warhawk Ashes +2"
+	},
+	{
+		"Id": 237003,
+		"Value": "Warhawk Ashes +3"
+	},
+	{
+		"Id": 237004,
+		"Value": "Warhawk Ashes +4"
+	},
+	{
+		"Id": 237005,
+		"Value": "Warhawk Ashes +5"
+	},
+	{
+		"Id": 237006,
+		"Value": "Warhawk Ashes +6"
+	},
+	{
+		"Id": 237007,
+		"Value": "Warhawk Ashes +7"
+	},
+	{
+		"Id": 237008,
+		"Value": "Warhawk Ashes +8"
+	},
+	{
+		"Id": 237009,
+		"Value": "Warhawk Ashes +9"
+	},
+	{
+		"Id": 237010,
+		"Value": "Warhawk Ashes +10"
+	},
+	{
+		"Id": 238000,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238001,
+		"Value": "Stormhawk Deenh +1"
+	},
+	{
+		"Id": 238002,
+		"Value": "Stormhawk Deenh +2"
+	},
+	{
+		"Id": 238003,
+		"Value": "Stormhawk Deenh +3"
+	},
+	{
+		"Id": 238004,
+		"Value": "Stormhawk Deenh +4"
+	},
+	{
+		"Id": 238005,
+		"Value": "Stormhawk Deenh +5"
+	},
+	{
+		"Id": 238006,
+		"Value": "Stormhawk Deenh +6"
+	},
+	{
+		"Id": 238007,
+		"Value": "Stormhawk Deenh +7"
+	},
+	{
+		"Id": 238008,
+		"Value": "Stormhawk Deenh +8"
+	},
+	{
+		"Id": 238009,
+		"Value": "Stormhawk Deenh +9"
+	},
+	{
+		"Id": 238010,
+		"Value": "Stormhawk Deenh +10"
+	},
+	{
+		"Id": 239000,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239001,
+		"Value": "Bloodhound Knight Floh +1"
+	},
+	{
+		"Id": 239002,
+		"Value": "Bloodhound Knight Floh +2"
+	},
+	{
+		"Id": 239003,
+		"Value": "Bloodhound Knight Floh +3"
+	},
+	{
+		"Id": 239004,
+		"Value": "Bloodhound Knight Floh +4"
+	},
+	{
+		"Id": 239005,
+		"Value": "Bloodhound Knight Floh +5"
+	},
+	{
+		"Id": 239006,
+		"Value": "Bloodhound Knight Floh +6"
+	},
+	{
+		"Id": 239007,
+		"Value": "Bloodhound Knight Floh +7"
+	},
+	{
+		"Id": 239008,
+		"Value": "Bloodhound Knight Floh +8"
+	},
+	{
+		"Id": 239009,
+		"Value": "Bloodhound Knight Floh +9"
+	},
+	{
+		"Id": 239010,
+		"Value": "Bloodhound Knight Floh +10"
+	},
+	{
+		"Id": 240000,
+		"Value": "Wandering Noble Ashes"
+	},
+	{
+		"Id": 240001,
+		"Value": "Wandering Noble Ashes +1"
+	},
+	{
+		"Id": 240002,
+		"Value": "Wandering Noble Ashes +2"
+	},
+	{
+		"Id": 240003,
+		"Value": "Wandering Noble Ashes +3"
+	},
+	{
+		"Id": 240004,
+		"Value": "Wandering Noble Ashes +4"
+	},
+	{
+		"Id": 240005,
+		"Value": "Wandering Noble Ashes +5"
+	},
+	{
+		"Id": 240006,
+		"Value": "Wandering Noble Ashes +6"
+	},
+	{
+		"Id": 240007,
+		"Value": "Wandering Noble Ashes +7"
+	},
+	{
+		"Id": 240008,
+		"Value": "Wandering Noble Ashes +8"
+	},
+	{
+		"Id": 240009,
+		"Value": "Wandering Noble Ashes +9"
+	},
+	{
+		"Id": 240010,
+		"Value": "Wandering Noble Ashes +10"
+	},
+	{
+		"Id": 241000,
+		"Value": "Noble Sorcerer Ashes"
+	},
+	{
+		"Id": 241001,
+		"Value": "Noble Sorcerer Ashes +1"
+	},
+	{
+		"Id": 241002,
+		"Value": "Noble Sorcerer Ashes +2"
+	},
+	{
+		"Id": 241003,
+		"Value": "Noble Sorcerer Ashes +3"
+	},
+	{
+		"Id": 241004,
+		"Value": "Noble Sorcerer Ashes +4"
+	},
+	{
+		"Id": 241005,
+		"Value": "Noble Sorcerer Ashes +5"
+	},
+	{
+		"Id": 241006,
+		"Value": "Noble Sorcerer Ashes +6"
+	},
+	{
+		"Id": 241007,
+		"Value": "Noble Sorcerer Ashes +7"
+	},
+	{
+		"Id": 241008,
+		"Value": "Noble Sorcerer Ashes +8"
+	},
+	{
+		"Id": 241009,
+		"Value": "Noble Sorcerer Ashes +9"
+	},
+	{
+		"Id": 241010,
+		"Value": "Noble Sorcerer Ashes +10"
+	},
+	{
+		"Id": 242000,
+		"Value": "Vulgar Militia Ashes"
+	},
+	{
+		"Id": 242001,
+		"Value": "Vulgar Militia Ashes +1"
+	},
+	{
+		"Id": 242002,
+		"Value": "Vulgar Militia Ashes +2"
+	},
+	{
+		"Id": 242003,
+		"Value": "Vulgar Militia Ashes +3"
+	},
+	{
+		"Id": 242004,
+		"Value": "Vulgar Militia Ashes +4"
+	},
+	{
+		"Id": 242005,
+		"Value": "Vulgar Militia Ashes +5"
+	},
+	{
+		"Id": 242006,
+		"Value": "Vulgar Militia Ashes +6"
+	},
+	{
+		"Id": 242007,
+		"Value": "Vulgar Militia Ashes +7"
+	},
+	{
+		"Id": 242008,
+		"Value": "Vulgar Militia Ashes +8"
+	},
+	{
+		"Id": 242009,
+		"Value": "Vulgar Militia Ashes +9"
+	},
+	{
+		"Id": 242010,
+		"Value": "Vulgar Militia Ashes +10"
+	},
+	{
+		"Id": 243000,
+		"Value": "Mad Pumpkin Head Ashes"
+	},
+	{
+		"Id": 243001,
+		"Value": "Mad Pumpkin Head Ashes +1"
+	},
+	{
+		"Id": 243002,
+		"Value": "Mad Pumpkin Head Ashes +2"
+	},
+	{
+		"Id": 243003,
+		"Value": "Mad Pumpkin Head Ashes +3"
+	},
+	{
+		"Id": 243004,
+		"Value": "Mad Pumpkin Head Ashes +4"
+	},
+	{
+		"Id": 243005,
+		"Value": "Mad Pumpkin Head Ashes +5"
+	},
+	{
+		"Id": 243006,
+		"Value": "Mad Pumpkin Head Ashes +6"
+	},
+	{
+		"Id": 243007,
+		"Value": "Mad Pumpkin Head Ashes +7"
+	},
+	{
+		"Id": 243008,
+		"Value": "Mad Pumpkin Head Ashes +8"
+	},
+	{
+		"Id": 243009,
+		"Value": "Mad Pumpkin Head Ashes +9"
+	},
+	{
+		"Id": 243010,
+		"Value": "Mad Pumpkin Head Ashes +10"
+	},
+	{
+		"Id": 244000,
+		"Value": "Land Squirt Ashes"
+	},
+	{
+		"Id": 244001,
+		"Value": "Land Squirt Ashes +1"
+	},
+	{
+		"Id": 244002,
+		"Value": "Land Squirt Ashes +2"
+	},
+	{
+		"Id": 244003,
+		"Value": "Land Squirt Ashes +3"
+	},
+	{
+		"Id": 244004,
+		"Value": "Land Squirt Ashes +4"
+	},
+	{
+		"Id": 244005,
+		"Value": "Land Squirt Ashes +5"
+	},
+	{
+		"Id": 244006,
+		"Value": "Land Squirt Ashes +6"
+	},
+	{
+		"Id": 244007,
+		"Value": "Land Squirt Ashes +7"
+	},
+	{
+		"Id": 244008,
+		"Value": "Land Squirt Ashes +8"
+	},
+	{
+		"Id": 244009,
+		"Value": "Land Squirt Ashes +9"
+	},
+	{
+		"Id": 244010,
+		"Value": "Land Squirt Ashes +10"
+	},
+	{
+		"Id": 245000,
+		"Value": "Miranda Sprout Ashes"
+	},
+	{
+		"Id": 245001,
+		"Value": "Miranda Sprout Ashes +1 "
+	},
+	{
+		"Id": 245002,
+		"Value": "Miranda Sprout Ashes +2"
+	},
+	{
+		"Id": 245003,
+		"Value": "Miranda Sprout Ashes +3"
+	},
+	{
+		"Id": 245004,
+		"Value": "Miranda Sprout Ashes +4"
+	},
+	{
+		"Id": 245005,
+		"Value": "Miranda Sprout Ashes +5"
+	},
+	{
+		"Id": 245006,
+		"Value": "Miranda Sprout Ashes +6"
+	},
+	{
+		"Id": 245007,
+		"Value": "Miranda Sprout Ashes +7"
+	},
+	{
+		"Id": 245008,
+		"Value": "Miranda Sprout Ashes +8"
+	},
+	{
+		"Id": 245009,
+		"Value": "Miranda Sprout Ashes +9"
+	},
+	{
+		"Id": 245010,
+		"Value": "Miranda Sprout Ashes +10"
+	},
+	{
+		"Id": 246000,
+		"Value": "Soldjars of Fortune Ashes"
+	},
+	{
+		"Id": 246001,
+		"Value": "Soldjars of Fortune Ashes +1"
+	},
+	{
+		"Id": 246002,
+		"Value": "Soldjars of Fortune Ashes +2"
+	},
+	{
+		"Id": 246003,
+		"Value": "Soldjars of Fortune Ashes +3"
+	},
+	{
+		"Id": 246004,
+		"Value": "Soldjars of Fortune Ashes +4"
+	},
+	{
+		"Id": 246005,
+		"Value": "Soldjars of Fortune Ashes +5"
+	},
+	{
+		"Id": 246006,
+		"Value": "Soldjars of Fortune Ashes +6"
+	},
+	{
+		"Id": 246007,
+		"Value": "Soldjars of Fortune Ashes +7"
+	},
+	{
+		"Id": 246008,
+		"Value": "Soldjars of Fortune Ashes +8"
+	},
+	{
+		"Id": 246009,
+		"Value": "Soldjars of Fortune Ashes +9"
+	},
+	{
+		"Id": 246010,
+		"Value": "Soldjars of Fortune Ashes +10"
+	},
+	{
+		"Id": 247000,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247001,
+		"Value": "Omenkiller Rollo +1"
+	},
+	{
+		"Id": 247002,
+		"Value": "Omenkiller Rollo +2"
+	},
+	{
+		"Id": 247003,
+		"Value": "Omenkiller Rollo +3"
+	},
+	{
+		"Id": 247004,
+		"Value": "Omenkiller Rollo +4"
+	},
+	{
+		"Id": 247005,
+		"Value": "Omenkiller Rollo +5"
+	},
+	{
+		"Id": 247006,
+		"Value": "Omenkiller Rollo +6"
+	},
+	{
+		"Id": 247007,
+		"Value": "Omenkiller Rollo +7"
+	},
+	{
+		"Id": 247008,
+		"Value": "Omenkiller Rollo +8"
+	},
+	{
+		"Id": 247009,
+		"Value": "Omenkiller Rollo +9"
+	},
+	{
+		"Id": 247010,
+		"Value": "Omenkiller Rollo +10"
+	},
+	{
+		"Id": 248000,
+		"Value": "Greatshield Soldier Ashes"
+	},
+	{
+		"Id": 248001,
+		"Value": "Greatshield Soldier Ashes +1"
+	},
+	{
+		"Id": 248002,
+		"Value": "Greatshield Soldier Ashes +2"
+	},
+	{
+		"Id": 248003,
+		"Value": "Greatshield Soldier Ashes +3"
+	},
+	{
+		"Id": 248004,
+		"Value": "Greatshield Soldier Ashes +4"
+	},
+	{
+		"Id": 248005,
+		"Value": "Greatshield Soldier Ashes +5"
+	},
+	{
+		"Id": 248006,
+		"Value": "Greatshield Soldier Ashes +6"
+	},
+	{
+		"Id": 248007,
+		"Value": "Greatshield Soldier Ashes +7"
+	},
+	{
+		"Id": 248008,
+		"Value": "Greatshield Soldier Ashes +8"
+	},
+	{
+		"Id": 248009,
+		"Value": "Greatshield Soldier Ashes +9"
+	},
+	{
+		"Id": 248010,
+		"Value": "Greatshield Soldier Ashes +10"
+	},
+	{
+		"Id": 249000,
+		"Value": "Archer Ashes"
+	},
+	{
+		"Id": 249001,
+		"Value": "Archer Ashes +1"
+	},
+	{
+		"Id": 249002,
+		"Value": "Archer Ashes +2"
+	},
+	{
+		"Id": 249003,
+		"Value": "Archer Ashes +3"
+	},
+	{
+		"Id": 249004,
+		"Value": "Archer Ashes +4"
+	},
+	{
+		"Id": 249005,
+		"Value": "Archer Ashes +5"
+	},
+	{
+		"Id": 249006,
+		"Value": "Archer Ashes +6"
+	},
+	{
+		"Id": 249007,
+		"Value": "Archer Ashes +7"
+	},
+	{
+		"Id": 249008,
+		"Value": "Archer Ashes +8"
+	},
+	{
+		"Id": 249009,
+		"Value": "Archer Ashes +9"
+	},
+	{
+		"Id": 249010,
+		"Value": "Archer Ashes +10"
+	},
+	{
+		"Id": 250000,
+		"Value": "Godrick Soldier Ashes"
+	},
+	{
+		"Id": 250001,
+		"Value": "Godrick Soldier Ashes +1"
+	},
+	{
+		"Id": 250002,
+		"Value": "Godrick Soldier Ashes +2"
+	},
+	{
+		"Id": 250003,
+		"Value": "Godrick Soldier Ashes +3"
+	},
+	{
+		"Id": 250004,
+		"Value": "Godrick Soldier Ashes +4"
+	},
+	{
+		"Id": 250005,
+		"Value": "Godrick Soldier Ashes +5"
+	},
+	{
+		"Id": 250006,
+		"Value": "Godrick Soldier Ashes +6"
+	},
+	{
+		"Id": 250007,
+		"Value": "Godrick Soldier Ashes +7"
+	},
+	{
+		"Id": 250008,
+		"Value": "Godrick Soldier Ashes +8"
+	},
+	{
+		"Id": 250009,
+		"Value": "Godrick Soldier Ashes +9"
+	},
+	{
+		"Id": 250010,
+		"Value": "Godrick Soldier Ashes +10"
+	},
+	{
+		"Id": 251000,
+		"Value": "Raya Lucaria Soldier Ashes"
+	},
+	{
+		"Id": 251001,
+		"Value": "Raya Lucaria Soldier Ashes +1"
+	},
+	{
+		"Id": 251002,
+		"Value": "Raya Lucaria Soldier Ashes +2"
+	},
+	{
+		"Id": 251003,
+		"Value": "Raya Lucaria Soldier Ashes +3"
+	},
+	{
+		"Id": 251004,
+		"Value": "Raya Lucaria Soldier Ashes +4"
+	},
+	{
+		"Id": 251005,
+		"Value": "Raya Lucaria Soldier Ashes +5"
+	},
+	{
+		"Id": 251006,
+		"Value": "Raya Lucaria Soldier Ashes +6"
+	},
+	{
+		"Id": 251007,
+		"Value": "Raya Lucaria Soldier Ashes +7"
+	},
+	{
+		"Id": 251008,
+		"Value": "Raya Lucaria Soldier Ashes +8"
+	},
+	{
+		"Id": 251009,
+		"Value": "Raya Lucaria Soldier Ashes +9"
+	},
+	{
+		"Id": 251010,
+		"Value": "Raya Lucaria Soldier Ashes +10"
+	},
+	{
+		"Id": 252000,
+		"Value": "Leyndell Soldier Ashes"
+	},
+	{
+		"Id": 252001,
+		"Value": "Leyndell Soldier Ashes +1"
+	},
+	{
+		"Id": 252002,
+		"Value": "Leyndell Soldier Ashes +2"
+	},
+	{
+		"Id": 252003,
+		"Value": "Leyndell Soldier Ashes +3"
+	},
+	{
+		"Id": 252004,
+		"Value": "Leyndell Soldier Ashes +4"
+	},
+	{
+		"Id": 252005,
+		"Value": "Leyndell Soldier Ashes +5"
+	},
+	{
+		"Id": 252006,
+		"Value": "Leyndell Soldier Ashes +6"
+	},
+	{
+		"Id": 252007,
+		"Value": "Leyndell Soldier Ashes +7"
+	},
+	{
+		"Id": 252008,
+		"Value": "Leyndell Soldier Ashes +8"
+	},
+	{
+		"Id": 252009,
+		"Value": "Leyndell Soldier Ashes +9"
+	},
+	{
+		"Id": 252010,
+		"Value": "Leyndell Soldier Ashes +10"
+	},
+	{
+		"Id": 253000,
+		"Value": "Radahn Soldier Ashes"
+	},
+	{
+		"Id": 253001,
+		"Value": "Radahn Soldier Ashes +1"
+	},
+	{
+		"Id": 253002,
+		"Value": "Radahn Soldier Ashes +2"
+	},
+	{
+		"Id": 253003,
+		"Value": "Radahn Soldier Ashes +3"
+	},
+	{
+		"Id": 253004,
+		"Value": "Radahn Soldier Ashes +4"
+	},
+	{
+		"Id": 253005,
+		"Value": "Radahn Soldier Ashes +5"
+	},
+	{
+		"Id": 253006,
+		"Value": "Radahn Soldier Ashes +6"
+	},
+	{
+		"Id": 253007,
+		"Value": "Radahn Soldier Ashes +7"
+	},
+	{
+		"Id": 253008,
+		"Value": "Radahn Soldier Ashes +8"
+	},
+	{
+		"Id": 253009,
+		"Value": "Radahn Soldier Ashes +9"
+	},
+	{
+		"Id": 253010,
+		"Value": "Radahn Soldier Ashes +10"
+	},
+	{
+		"Id": 254000,
+		"Value": "Mausoleum Soldier Ashes"
+	},
+	{
+		"Id": 254001,
+		"Value": "Mausoleum Soldier Ashes +1"
+	},
+	{
+		"Id": 254002,
+		"Value": "Mausoleum Soldier Ashes +2"
+	},
+	{
+		"Id": 254003,
+		"Value": "Mausoleum Soldier Ashes +3"
+	},
+	{
+		"Id": 254004,
+		"Value": "Mausoleum Soldier Ashes +4"
+	},
+	{
+		"Id": 254005,
+		"Value": "Mausoleum Soldier Ashes +5"
+	},
+	{
+		"Id": 254006,
+		"Value": "Mausoleum Soldier Ashes +6"
+	},
+	{
+		"Id": 254007,
+		"Value": "Mausoleum Soldier Ashes +7"
+	},
+	{
+		"Id": 254008,
+		"Value": "Mausoleum Soldier Ashes +8"
+	},
+	{
+		"Id": 254009,
+		"Value": "Mausoleum Soldier Ashes +9"
+	},
+	{
+		"Id": 254010,
+		"Value": "Mausoleum Soldier Ashes +10"
+	},
+	{
+		"Id": 255000,
+		"Value": "Haligtree Soldier Ashes"
+	},
+	{
+		"Id": 255001,
+		"Value": "Haligtree Soldier Ashes +1"
+	},
+	{
+		"Id": 255002,
+		"Value": "Haligtree Soldier Ashes +2"
+	},
+	{
+		"Id": 255003,
+		"Value": "Haligtree Soldier Ashes +3"
+	},
+	{
+		"Id": 255004,
+		"Value": "Haligtree Soldier Ashes +4"
+	},
+	{
+		"Id": 255005,
+		"Value": "Haligtree Soldier Ashes +5"
+	},
+	{
+		"Id": 255006,
+		"Value": "Haligtree Soldier Ashes +6"
+	},
+	{
+		"Id": 255007,
+		"Value": "Haligtree Soldier Ashes +7"
+	},
+	{
+		"Id": 255008,
+		"Value": "Haligtree Soldier Ashes +8"
+	},
+	{
+		"Id": 255009,
+		"Value": "Haligtree Soldier Ashes +9"
+	},
+	{
+		"Id": 255010,
+		"Value": "Haligtree Soldier Ashes +10"
+	},
+	{
+		"Id": 256000,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256001,
+		"Value": "Ancient Dragon Knight Kristoff +1"
+	},
+	{
+		"Id": 256002,
+		"Value": "Ancient Dragon Knight Kristoff +2"
+	},
+	{
+		"Id": 256003,
+		"Value": "Ancient Dragon Knight Kristoff +3"
+	},
+	{
+		"Id": 256004,
+		"Value": "Ancient Dragon Knight Kristoff +4"
+	},
+	{
+		"Id": 256005,
+		"Value": "Ancient Dragon Knight Kristoff +5"
+	},
+	{
+		"Id": 256006,
+		"Value": "Ancient Dragon Knight Kristoff +6"
+	},
+	{
+		"Id": 256007,
+		"Value": "Ancient Dragon Knight Kristoff +7"
+	},
+	{
+		"Id": 256008,
+		"Value": "Ancient Dragon Knight Kristoff +8"
+	},
+	{
+		"Id": 256009,
+		"Value": "Ancient Dragon Knight Kristoff +9"
+	},
+	{
+		"Id": 256010,
+		"Value": "Ancient Dragon Knight Kristoff +10"
+	},
+	{
+		"Id": 257000,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257001,
+		"Value": "Redmane Knight Ogha +1"
+	},
+	{
+		"Id": 257002,
+		"Value": "Redmane Knight Ogha +2"
+	},
+	{
+		"Id": 257003,
+		"Value": "Redmane Knight Ogha +3"
+	},
+	{
+		"Id": 257004,
+		"Value": "Redmane Knight Ogha +4"
+	},
+	{
+		"Id": 257005,
+		"Value": "Redmane Knight Ogha +5"
+	},
+	{
+		"Id": 257006,
+		"Value": "Redmane Knight Ogha +6"
+	},
+	{
+		"Id": 257007,
+		"Value": "Redmane Knight Ogha +7"
+	},
+	{
+		"Id": 257008,
+		"Value": "Redmane Knight Ogha +8"
+	},
+	{
+		"Id": 257009,
+		"Value": "Redmane Knight Ogha +9"
+	},
+	{
+		"Id": 257010,
+		"Value": "Redmane Knight Ogha +10"
+	},
+	{
+		"Id": 258000,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258001,
+		"Value": "Lhutel the Headless +1"
+	},
+	{
+		"Id": 258002,
+		"Value": "Lhutel the Headless +2"
+	},
+	{
+		"Id": 258003,
+		"Value": "Lhutel the Headless +3"
+	},
+	{
+		"Id": 258004,
+		"Value": "Lhutel the Headless +4"
+	},
+	{
+		"Id": 258005,
+		"Value": "Lhutel the Headless +5"
+	},
+	{
+		"Id": 258006,
+		"Value": "Lhutel the Headless +6"
+	},
+	{
+		"Id": 258007,
+		"Value": "Lhutel the Headless +7"
+	},
+	{
+		"Id": 258008,
+		"Value": "Lhutel the Headless +8"
+	},
+	{
+		"Id": 258009,
+		"Value": "Lhutel the Headless +9"
+	},
+	{
+		"Id": 258010,
+		"Value": "Lhutel the Headless +10"
+	},
+	{
+		"Id": 259000,
+		"Value": "Nepheli Loux Puppet"
+	},
+	{
+		"Id": 259001,
+		"Value": "Nepheli Loux Puppet +1"
+	},
+	{
+		"Id": 259002,
+		"Value": "Nepheli Loux Puppet +2"
+	},
+	{
+		"Id": 259003,
+		"Value": "Nepheli Loux Puppet +3"
+	},
+	{
+		"Id": 259004,
+		"Value": "Nepheli Loux Puppet +4"
+	},
+	{
+		"Id": 259005,
+		"Value": "Nepheli Loux Puppet +5"
+	},
+	{
+		"Id": 259006,
+		"Value": "Nepheli Loux Puppet +6"
+	},
+	{
+		"Id": 259007,
+		"Value": "Nepheli Loux Puppet +7"
+	},
+	{
+		"Id": 259008,
+		"Value": "Nepheli Loux Puppet +8"
+	},
+	{
+		"Id": 259009,
+		"Value": "Nepheli Loux Puppet +9"
+	},
+	{
+		"Id": 259010,
+		"Value": "Nepheli Loux Puppet +10"
+	},
+	{
+		"Id": 260000,
+		"Value": "Dung Eater Puppet"
+	},
+	{
+		"Id": 260001,
+		"Value": "Dung Eater Puppet +1"
+	},
+	{
+		"Id": 260002,
+		"Value": "Dung Eater Puppet +2"
+	},
+	{
+		"Id": 260003,
+		"Value": "Dung Eater Puppet +3"
+	},
+	{
+		"Id": 260004,
+		"Value": "Dung Eater Puppet +4"
+	},
+	{
+		"Id": 260005,
+		"Value": "Dung Eater Puppet +5"
+	},
+	{
+		"Id": 260006,
+		"Value": "Dung Eater Puppet +6"
+	},
+	{
+		"Id": 260007,
+		"Value": "Dung Eater Puppet +7"
+	},
+	{
+		"Id": 260008,
+		"Value": "Dung Eater Puppet +8"
+	},
+	{
+		"Id": 260009,
+		"Value": "Dung Eater Puppet +9"
+	},
+	{
+		"Id": 260010,
+		"Value": "Dung Eater Puppet +10"
+	},
+	{
+		"Id": 261000,
+		"Value": "Finger Maiden Therolina Puppet"
+	},
+	{
+		"Id": 261001,
+		"Value": "Finger Maiden Therolina Puppet +1"
+	},
+	{
+		"Id": 261002,
+		"Value": "Finger Maiden Therolina Puppet +2"
+	},
+	{
+		"Id": 261003,
+		"Value": "Finger Maiden Therolina Puppet +3"
+	},
+	{
+		"Id": 261004,
+		"Value": "Finger Maiden Therolina Puppet +4"
+	},
+	{
+		"Id": 261005,
+		"Value": "Finger Maiden Therolina Puppet +5"
+	},
+	{
+		"Id": 261006,
+		"Value": "Finger Maiden Therolina Puppet +6"
+	},
+	{
+		"Id": 261007,
+		"Value": "Finger Maiden Therolina Puppet +7"
+	},
+	{
+		"Id": 261008,
+		"Value": "Finger Maiden Therolina Puppet +8"
+	},
+	{
+		"Id": 261009,
+		"Value": "Finger Maiden Therolina Puppet +9"
+	},
+	{
+		"Id": 261010,
+		"Value": "Finger Maiden Therolina Puppet +10"
+	},
+	{
+		"Id": 262000,
+		"Value": "Dolores the Sleeping Arrow Puppet"
+	},
+	{
+		"Id": 262001,
+		"Value": "Dolores the Sleeping Arrow Puppet +1"
+	},
+	{
+		"Id": 262002,
+		"Value": "Dolores the Sleeping Arrow Puppet +2"
+	},
+	{
+		"Id": 262003,
+		"Value": "Dolores the Sleeping Arrow Puppet +3"
+	},
+	{
+		"Id": 262004,
+		"Value": "Dolores the Sleeping Arrow Puppet +4"
+	},
+	{
+		"Id": 262005,
+		"Value": "Dolores the Sleeping Arrow Puppet +5"
+	},
+	{
+		"Id": 262006,
+		"Value": "Dolores the Sleeping Arrow Puppet +6"
+	},
+	{
+		"Id": 262007,
+		"Value": "Dolores the Sleeping Arrow Puppet +7"
+	},
+	{
+		"Id": 262008,
+		"Value": "Dolores the Sleeping Arrow Puppet +8"
+	},
+	{
+		"Id": 262009,
+		"Value": "Dolores the Sleeping Arrow Puppet +9"
+	},
+	{
+		"Id": 262010,
+		"Value": "Dolores the Sleeping Arrow Puppet +10"
+	},
+	{
+		"Id": 263000,
+		"Value": "Jarwight Puppet"
+	},
+	{
+		"Id": 263001,
+		"Value": "Jarwight Puppet +1"
+	},
+	{
+		"Id": 263002,
+		"Value": "Jarwight Puppet +2"
+	},
+	{
+		"Id": 263003,
+		"Value": "Jarwight Puppet +3"
+	},
+	{
+		"Id": 263004,
+		"Value": "Jarwight Puppet +4"
+	},
+	{
+		"Id": 263005,
+		"Value": "Jarwight Puppet +5"
+	},
+	{
+		"Id": 263006,
+		"Value": "Jarwight Puppet +6"
+	},
+	{
+		"Id": 263007,
+		"Value": "Jarwight Puppet +7"
+	},
+	{
+		"Id": 263008,
+		"Value": "Jarwight Puppet +8"
+	},
+	{
+		"Id": 263009,
+		"Value": "Jarwight Puppet +9"
+	},
+	{
+		"Id": 263010,
+		"Value": "Jarwight Puppet +10"
+	}
+]

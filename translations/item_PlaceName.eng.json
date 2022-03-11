@@ -1,0 +1,2366 @@
+[
+	{
+		"Id": 10000,
+		"Value": "Stormveil Castle"
+	},
+	{
+		"Id": 10010,
+		"Value": "Chapel of Anticipation"
+	},
+	{
+		"Id": 11000,
+		"Value": "Leyndell, Royal Capital"
+	},
+	{
+		"Id": 11050,
+		"Value": "Leyndell, Ashen Capital"
+	},
+	{
+		"Id": 11100,
+		"Value": "Roundtable Hold"
+	},
+	{
+		"Id": 12010,
+		"Value": "Ainsel River Main"
+	},
+	{
+		"Id": 12011,
+		"Value": "Lake of Rot"
+	},
+	{
+		"Id": 12012,
+		"Value": "Ainsel River"
+	},
+	{
+		"Id": 12020,
+		"Value": "Nokron, Eternal City"
+	},
+	{
+		"Id": 12030,
+		"Value": "Deeproot Depths"
+	},
+	{
+		"Id": 12050,
+		"Value": "Mohgwyn Palace"
+	},
+	{
+		"Id": 12070,
+		"Value": "Siofra River"
+	},
+	{
+		"Id": 13000,
+		"Value": "Crumbling Farum Azula"
+	},
+	{
+		"Id": 14000,
+		"Value": "Academy of Raya Lucaria"
+	},
+	{
+		"Id": 15000,
+		"Value": "Elphael, Brace of the Haligtree"
+	},
+	{
+		"Id": 15001,
+		"Value": "Miquella's Haligtree"
+	},
+	{
+		"Id": 16000,
+		"Value": "Volcano Manor"
+	},
+	{
+		"Id": 18000,
+		"Value": "Stranded Graveyard"
+	},
+	{
+		"Id": 18001,
+		"Value": "Fringefolk Hero's Grave"
+	},
+	{
+		"Id": 19000,
+		"Value": "Stone Platform"
+	},
+	{
+		"Id": 30000,
+		"Value": "Tombsward Catacombs"
+	},
+	{
+		"Id": 30010,
+		"Value": "Impaler's Catacombs"
+	},
+	{
+		"Id": 30020,
+		"Value": "Stormfoot Catacombs"
+	},
+	{
+		"Id": 30030,
+		"Value": "Road's End Catacombs"
+	},
+	{
+		"Id": 30040,
+		"Value": "Murkwater Catacombs"
+	},
+	{
+		"Id": 30050,
+		"Value": "Black Knife Catacombs"
+	},
+	{
+		"Id": 30060,
+		"Value": "Cliffbottom Catacombs"
+	},
+	{
+		"Id": 30070,
+		"Value": "Wyndham Catacombs"
+	},
+	{
+		"Id": 30080,
+		"Value": "Sainted Hero's Grave"
+	},
+	{
+		"Id": 30090,
+		"Value": "Gelmir Hero's Grave"
+	},
+	{
+		"Id": 30100,
+		"Value": "Auriza Hero's Grave"
+	},
+	{
+		"Id": 30110,
+		"Value": "Deathtouched Catacombs"
+	},
+	{
+		"Id": 30120,
+		"Value": "Unsightly Catacombs"
+	},
+	{
+		"Id": 30130,
+		"Value": "Auriza Side Tomb"
+	},
+	{
+		"Id": 30140,
+		"Value": "Minor Erdtree Catacombs"
+	},
+	{
+		"Id": 30150,
+		"Value": "Caelid Catacombs"
+	},
+	{
+		"Id": 30160,
+		"Value": "War-Dead Catacombs"
+	},
+	{
+		"Id": 30170,
+		"Value": "Giant-Conquering Hero's Grave"
+	},
+	{
+		"Id": 30180,
+		"Value": "Giants' Mountaintop Catacombs"
+	},
+	{
+		"Id": 30190,
+		"Value": "Consecrated Snowfield Catacombs"
+	},
+	{
+		"Id": 30200,
+		"Value": "Hidden Path to the Haligtree"
+	},
+	{
+		"Id": 31000,
+		"Value": "Murkwater Cave"
+	},
+	{
+		"Id": 31010,
+		"Value": "Earthbore Cave"
+	},
+	{
+		"Id": 31020,
+		"Value": "Tombsward Cave"
+	},
+	{
+		"Id": 31030,
+		"Value": "Groveside Cave"
+	},
+	{
+		"Id": 31040,
+		"Value": "Stillwater Cave"
+	},
+	{
+		"Id": 31050,
+		"Value": "Lakeside Crystal Cave"
+	},
+	{
+		"Id": 31060,
+		"Value": "Academy Crystal Cave"
+	},
+	{
+		"Id": 31070,
+		"Value": "Seethewater Cave"
+	},
+	{
+		"Id": 31090,
+		"Value": "Volcano Cave"
+	},
+	{
+		"Id": 31100,
+		"Value": "Dragonbarrow Cave"
+	},
+	{
+		"Id": 31110,
+		"Value": "Sellia Hideaway"
+	},
+	{
+		"Id": 31120,
+		"Value": "Cave of the Forlorn"
+	},
+	{
+		"Id": 31150,
+		"Value": "Coastal Cave"
+	},
+	{
+		"Id": 31170,
+		"Value": "Highroad Cave"
+	},
+	{
+		"Id": 31180,
+		"Value": "Perfumer's Grotto"
+	},
+	{
+		"Id": 31190,
+		"Value": "Sage's Cave"
+	},
+	{
+		"Id": 31200,
+		"Value": "Abandoned Cave"
+	},
+	{
+		"Id": 31210,
+		"Value": "Gaol Cave"
+	},
+	{
+		"Id": 31220,
+		"Value": "Spiritcaller's Cave"
+	},
+	{
+		"Id": 32000,
+		"Value": "Morne Tunnel"
+	},
+	{
+		"Id": 32010,
+		"Value": "Limgrave Tunnels"
+	},
+	{
+		"Id": 32020,
+		"Value": "Raya Lucaria Crystal Tunnel"
+	},
+	{
+		"Id": 32040,
+		"Value": "Old Altus Tunnel"
+	},
+	{
+		"Id": 32050,
+		"Value": "Altus Tunnel"
+	},
+	{
+		"Id": 32070,
+		"Value": "Gael Tunnel"
+	},
+	{
+		"Id": 32080,
+		"Value": "Sellia Crystal Tunnel"
+	},
+	{
+		"Id": 32110,
+		"Value": "Yelough Anix Tunnel"
+	},
+	{
+		"Id": 34100,
+		"Value": "Divine Tower of Limgrave"
+	},
+	{
+		"Id": 34110,
+		"Value": "Carian Study Hall"
+	},
+	{
+		"Id": 34111,
+		"Value": "Divine Tower of Liurnia"
+	},
+	{
+		"Id": 34120,
+		"Value": "Sealed Tunnel"
+	},
+	{
+		"Id": 34121,
+		"Value": "Divine Tower of West Altus"
+	},
+	{
+		"Id": 34130,
+		"Value": "Divine Tower of Caelid"
+	},
+	{
+		"Id": 34140,
+		"Value": "Divine Tower of East Altus"
+	},
+	{
+		"Id": 34150,
+		"Value": "Isolated Divine Tower"
+	},
+	{
+		"Id": 35000,
+		"Value": "Subterranean Shunning-Grounds"
+	},
+	{
+		"Id": 35002,
+		"Value": "Leyndell Catacombs"
+	},
+	{
+		"Id": 39200,
+		"Value": "Ruin-Strewn Precipice"
+	},
+	{
+		"Id": 61000,
+		"Value": "Limgrave"
+	},
+	{
+		"Id": 61001,
+		"Value": "Stormhill"
+	},
+	{
+		"Id": 61002,
+		"Value": "Weeping Peninsula"
+	},
+	{
+		"Id": 62000,
+		"Value": "Liurnia of the Lakes"
+	},
+	{
+		"Id": 62001,
+		"Value": "Bellum Highway"
+	},
+	{
+		"Id": 62002,
+		"Value": "Moonlight Altar"
+	},
+	{
+		"Id": 63000,
+		"Value": "Altus Plateau"
+	},
+	{
+		"Id": 63001,
+		"Value": "Mt. Gelmir"
+	},
+	{
+		"Id": 63002,
+		"Value": "Capital Outskirts"
+	},
+	{
+		"Id": 63003,
+		"Value": "Forbidden Lands"
+	},
+	{
+		"Id": 64000,
+		"Value": "Caelid"
+	},
+	{
+		"Id": 64001,
+		"Value": "Greyoll's Dragonbarrow"
+	},
+	{
+		"Id": 64002,
+		"Value": "Swamp of Aeonia"
+	},
+	{
+		"Id": 65000,
+		"Value": "Mountaintops of the Giants"
+	},
+	{
+		"Id": 65001,
+		"Value": "Flame Peak"
+	},
+	{
+		"Id": 65002,
+		"Value": "Consecrated Snowfield"
+	},
+	{
+		"Id": 100000,
+		"Value": "Godrick the Grafted"
+	},
+	{
+		"Id": 100001,
+		"Value": "Margit, the Fell Omen"
+	},
+	{
+		"Id": 100002,
+		"Value": "Castleward Tunnel"
+	},
+	{
+		"Id": 100003,
+		"Value": "Gateside Chamber"
+	},
+	{
+		"Id": 100004,
+		"Value": "Stormveil Cliffside"
+	},
+	{
+		"Id": 100005,
+		"Value": "Rampart Tower"
+	},
+	{
+		"Id": 100006,
+		"Value": "Liftside Chamber"
+	},
+	{
+		"Id": 100007,
+		"Value": "Secluded Cell"
+	},
+	{
+		"Id": 100008,
+		"Value": "Stormveil Main Gate"
+	},
+	{
+		"Id": 110000,
+		"Value": "Elden Throne"
+	},
+	{
+		"Id": 110001,
+		"Value": "Erdtree Sanctuary"
+	},
+	{
+		"Id": 110002,
+		"Value": "East Capital Rampart"
+	},
+	{
+		"Id": 110003,
+		"Value": "Lower Capital Church"
+	},
+	{
+		"Id": 110004,
+		"Value": "Avenue Balcony"
+	},
+	{
+		"Id": 110005,
+		"Value": "West Capital Rampart"
+	},
+	{
+		"Id": 110007,
+		"Value": "Queen's Bedchamber"
+	},
+	{
+		"Id": 110008,
+		"Value": "Fortified Manor, First Floor"
+	},
+	{
+		"Id": 110009,
+		"Value": "Divine Bridge"
+	},
+	{
+		"Id": 110070,
+		"Value": "Volcano Manor Request: Vargram"
+	},
+	{
+		"Id": 110500,
+		"Value": "Elden Throne"
+	},
+	{
+		"Id": 110501,
+		"Value": "Erdtree Sanctuary"
+	},
+	{
+		"Id": 110502,
+		"Value": "East Capital Rampart"
+	},
+	{
+		"Id": 110503,
+		"Value": "Leyndell, Capital of Ash"
+	},
+	{
+		"Id": 110504,
+		"Value": "Queen's Bedchamber"
+	},
+	{
+		"Id": 110505,
+		"Value": "Divine Bridge"
+	},
+	{
+		"Id": 111000,
+		"Value": "Table of Lost Grace"
+	},
+	{
+		"Id": 120100,
+		"Value": "Dragonkin Soldier of Nokstella"
+	},
+	{
+		"Id": 120101,
+		"Value": "Ainsel River Well Depths"
+	},
+	{
+		"Id": 120102,
+		"Value": "Ainsel River Sluice Gate"
+	},
+	{
+		"Id": 120103,
+		"Value": "Ainsel River Downstream"
+	},
+	{
+		"Id": 120104,
+		"Value": "Ainsel River Main"
+	},
+	{
+		"Id": 120105,
+		"Value": "Nokstella, Eternal City"
+	},
+	{
+		"Id": 120106,
+		"Value": "Lake of Rot Shoreside"
+	},
+	{
+		"Id": 120107,
+		"Value": "Lake of Rot"
+	},
+	{
+		"Id": 120108,
+		"Value": "Grand Cloister"
+	},
+	{
+		"Id": 120109,
+		"Value": "Nokstella Waterfall Basin"
+	},
+	{
+		"Id": 120200,
+		"Value": "Great Waterfall Basin"
+	},
+	{
+		"Id": 120201,
+		"Value": "Mimic Tear"
+	},
+	{
+		"Id": 120203,
+		"Value": "Siofra River Bank"
+	},
+	{
+		"Id": 120204,
+		"Value": "Worshippers' Woods"
+	},
+	{
+		"Id": 120206,
+		"Value": "Ancestral Woods"
+	},
+	{
+		"Id": 120207,
+		"Value": "Aqueduct-Facing Cliffs"
+	},
+	{
+		"Id": 120208,
+		"Value": "Night's Sacred Ground"
+	},
+	{
+		"Id": 120209,
+		"Value": "Below the Well"
+	},
+	{
+		"Id": 120300,
+		"Value": "Prince of Death's Throne"
+	},
+	{
+		"Id": 120301,
+		"Value": "Root-Facing Cliffs"
+	},
+	{
+		"Id": 120302,
+		"Value": "Great Waterfall Crest"
+	},
+	{
+		"Id": 120303,
+		"Value": "Deeproot Depths"
+	},
+	{
+		"Id": 120304,
+		"Value": "The Nameless Eternal City"
+	},
+	{
+		"Id": 120305,
+		"Value": "Across the Roots"
+	},
+	{
+		"Id": 120400,
+		"Value": "Astel, Naturalborn of the Void"
+	},
+	{
+		"Id": 120500,
+		"Value": "Cocoon of the Empyrean"
+	},
+	{
+		"Id": 120501,
+		"Value": "Palace Approach Ledge-Road"
+	},
+	{
+		"Id": 120502,
+		"Value": "Dynasty Mausoleum Entrance"
+	},
+	{
+		"Id": 120503,
+		"Value": "Dynasty Mausoleum Midpoint"
+	},
+	{
+		"Id": 120700,
+		"Value": "Siofra River Well Depths"
+	},
+	{
+		"Id": 120701,
+		"Value": "Nokron, Eternal City"
+	},
+	{
+		"Id": 130000,
+		"Value": "Maliketh, the Black Blade"
+	},
+	{
+		"Id": 130001,
+		"Value": "Dragonlord Placidusax"
+	},
+	{
+		"Id": 130002,
+		"Value": "Dragon Temple Altar"
+	},
+	{
+		"Id": 130003,
+		"Value": "Crumbling Beast Grave"
+	},
+	{
+		"Id": 130004,
+		"Value": "Crumbling Beast Grave Depths"
+	},
+	{
+		"Id": 130005,
+		"Value": "Tempest-Facing Balcony"
+	},
+	{
+		"Id": 130006,
+		"Value": "Dragon Temple"
+	},
+	{
+		"Id": 130007,
+		"Value": "Dragon Temple Transept"
+	},
+	{
+		"Id": 130008,
+		"Value": "Dragon Temple Lift"
+	},
+	{
+		"Id": 130009,
+		"Value": "Dragon Temple Rooftop"
+	},
+	{
+		"Id": 130010,
+		"Value": "Beside the Great Bridge"
+	},
+	{
+		"Id": 140000,
+		"Value": "Raya Lucaria Grand Library"
+	},
+	{
+		"Id": 140001,
+		"Value": "Debate Parlor"
+	},
+	{
+		"Id": 140002,
+		"Value": "Church of the Cuckoo"
+	},
+	{
+		"Id": 140003,
+		"Value": "Schoolhouse Classroom"
+	},
+	{
+		"Id": 150000,
+		"Value": "Malenia, Goddess of Rot"
+	},
+	{
+		"Id": 150001,
+		"Value": "Prayer Room"
+	},
+	{
+		"Id": 150002,
+		"Value": "Elphael Inner Wall"
+	},
+	{
+		"Id": 150003,
+		"Value": "Drainage Channel"
+	},
+	{
+		"Id": 150004,
+		"Value": "Haligtree Roots"
+	},
+	{
+		"Id": 150005,
+		"Value": "Haligtree Promenade"
+	},
+	{
+		"Id": 150006,
+		"Value": "Haligtree Canopy"
+	},
+	{
+		"Id": 150007,
+		"Value": "Haligtree Town"
+	},
+	{
+		"Id": 150008,
+		"Value": "Haligtree Town Plaza"
+	},
+	{
+		"Id": 160000,
+		"Value": "Rykard, Lord of Blasphemy"
+	},
+	{
+		"Id": 160001,
+		"Value": "Temple of Eiglay"
+	},
+	{
+		"Id": 160002,
+		"Value": "Volcano Manor"
+	},
+	{
+		"Id": 160003,
+		"Value": "Prison Town Church"
+	},
+	{
+		"Id": 160004,
+		"Value": "Guest Hall"
+	},
+	{
+		"Id": 160005,
+		"Value": "Audience Pathway"
+	},
+	{
+		"Id": 160006,
+		"Value": "Abductor Virgin"
+	},
+	{
+		"Id": 160007,
+		"Value": "Subterranean Inquisition Chamber"
+	},
+	{
+		"Id": 180000,
+		"Value": "Cave of Knowledge"
+	},
+	{
+		"Id": 180001,
+		"Value": "Stranded Graveyard"
+	},
+	{
+		"Id": 190000,
+		"Value": "Fractured Marika"
+	},
+	{
+		"Id": 300000,
+		"Value": "Tombsward Catacombs"
+	},
+	{
+		"Id": 300100,
+		"Value": "Impaler's Catacombs"
+	},
+	{
+		"Id": 300200,
+		"Value": "Stormfoot Catacombs"
+	},
+	{
+		"Id": 300300,
+		"Value": "Road's End Catacombs"
+	},
+	{
+		"Id": 300400,
+		"Value": "Murkwater Catacombs"
+	},
+	{
+		"Id": 300500,
+		"Value": "Black Knife Catacombs"
+	},
+	{
+		"Id": 300600,
+		"Value": "Cliffbottom Catacombs"
+	},
+	{
+		"Id": 300700,
+		"Value": "Wyndham Catacombs"
+	},
+	{
+		"Id": 300800,
+		"Value": "Sainted Hero's Grave"
+	},
+	{
+		"Id": 300900,
+		"Value": "Gelmir Hero's Grave"
+	},
+	{
+		"Id": 301000,
+		"Value": "Auriza Hero's Grave"
+	},
+	{
+		"Id": 301100,
+		"Value": "Deathtouched Catacombs"
+	},
+	{
+		"Id": 301200,
+		"Value": "Unsightly Catacombs"
+	},
+	{
+		"Id": 301300,
+		"Value": "Auriza Side Tomb"
+	},
+	{
+		"Id": 301400,
+		"Value": "Minor Erdtree Catacombs"
+	},
+	{
+		"Id": 301500,
+		"Value": "Caelid Catacombs"
+	},
+	{
+		"Id": 301600,
+		"Value": "War-Dead Catacombs"
+	},
+	{
+		"Id": 301700,
+		"Value": "Giant-Conquering Hero's Grave"
+	},
+	{
+		"Id": 301800,
+		"Value": "Giants' Mountaintop Catacombs"
+	},
+	{
+		"Id": 301900,
+		"Value": "Consecrated Snowfield Catacombs"
+	},
+	{
+		"Id": 302000,
+		"Value": "Hidden Path to the Haligtree"
+	},
+	{
+		"Id": 310000,
+		"Value": "Murkwater Cave"
+	},
+	{
+		"Id": 310100,
+		"Value": "Earthbore Cave"
+	},
+	{
+		"Id": 310200,
+		"Value": "Tombsward Cave"
+	},
+	{
+		"Id": 310300,
+		"Value": "Groveside Cave"
+	},
+	{
+		"Id": 310400,
+		"Value": "Stillwater Cave"
+	},
+	{
+		"Id": 310500,
+		"Value": "Lakeside Crystal Cave"
+	},
+	{
+		"Id": 310600,
+		"Value": "Academy Crystal Cave"
+	},
+	{
+		"Id": 310700,
+		"Value": "Seethewater Cave"
+	},
+	{
+		"Id": 310900,
+		"Value": "Volcano Cave"
+	},
+	{
+		"Id": 311000,
+		"Value": "Dragonbarrow Cave"
+	},
+	{
+		"Id": 311100,
+		"Value": "Sellia Hideaway"
+	},
+	{
+		"Id": 311200,
+		"Value": "Cave of the Forlorn"
+	},
+	{
+		"Id": 311500,
+		"Value": "Coastal Cave"
+	},
+	{
+		"Id": 311700,
+		"Value": "Highroad Cave"
+	},
+	{
+		"Id": 311800,
+		"Value": "Perfumer's Grotto"
+	},
+	{
+		"Id": 311900,
+		"Value": "Sage's Cave"
+	},
+	{
+		"Id": 312000,
+		"Value": "Abandoned Cave"
+	},
+	{
+		"Id": 312100,
+		"Value": "Gaol Cave"
+	},
+	{
+		"Id": 312200,
+		"Value": "Spiritcaller's Cave"
+	},
+	{
+		"Id": 320000,
+		"Value": "Morne Tunnel"
+	},
+	{
+		"Id": 320100,
+		"Value": "Limgrave Tunnels"
+	},
+	{
+		"Id": 320200,
+		"Value": "Raya Lucaria Crystal Tunnel"
+	},
+	{
+		"Id": 320400,
+		"Value": "Old Altus Tunnel"
+	},
+	{
+		"Id": 320500,
+		"Value": "Altus Tunnel"
+	},
+	{
+		"Id": 320700,
+		"Value": "Gael Tunnel"
+	},
+	{
+		"Id": 320701,
+		"Value": "Rear Gael Tunnel Entrance"
+	},
+	{
+		"Id": 320800,
+		"Value": "Sellia Crystal Tunnel"
+	},
+	{
+		"Id": 321100,
+		"Value": "Yelough Anix Tunnel"
+	},
+	{
+		"Id": 341000,
+		"Value": "Limgrave Tower Bridge"
+	},
+	{
+		"Id": 341002,
+		"Value": "Divine Tower of Limgrave"
+	},
+	{
+		"Id": 341100,
+		"Value": "Study Hall Entrance"
+	},
+	{
+		"Id": 341101,
+		"Value": "Liurnia Tower Bridge"
+	},
+	{
+		"Id": 341102,
+		"Value": "Divine Tower of Liurnia"
+	},
+	{
+		"Id": 341200,
+		"Value": "Divine Tower of West Altus"
+	},
+	{
+		"Id": 341201,
+		"Value": "Sealed Tunnel"
+	},
+	{
+		"Id": 341202,
+		"Value": "Divine Tower of West Altus: Gate"
+	},
+	{
+		"Id": 341300,
+		"Value": "Divine Tower of Caelid"
+	},
+	{
+		"Id": 341301,
+		"Value": "Divine Tower of Caelid: Basement"
+	},
+	{
+		"Id": 341302,
+		"Value": "Divine Tower of Caelid: Center"
+	},
+	{
+		"Id": 341400,
+		"Value": "Divine Tower of East Altus: Gate"
+	},
+	{
+		"Id": 341401,
+		"Value": "Divine Tower of East Altus"
+	},
+	{
+		"Id": 341500,
+		"Value": "Isolated Divine Tower"
+	},
+	{
+		"Id": 350000,
+		"Value": "Cathedral of the Forsaken"
+	},
+	{
+		"Id": 350001,
+		"Value": "Underground Roadside"
+	},
+	{
+		"Id": 350002,
+		"Value": "Forsaken Depths"
+	},
+	{
+		"Id": 350003,
+		"Value": "Leyndell Catacombs"
+	},
+	{
+		"Id": 350004,
+		"Value": "Frenzied Flame Proscription"
+	},
+	{
+		"Id": 390000,
+		"Value": "Magma Wyrm"
+	},
+	{
+		"Id": 390001,
+		"Value": "Ruin-Strewn Precipice"
+	},
+	{
+		"Id": 390002,
+		"Value": "Ruin-Strewn Precipice Overlook"
+	},
+	{
+		"Id": 392070,
+		"Value": "Volcano Manor Request: Tragoth"
+	},
+	{
+		"Id": 610000,
+		"Value": "Church of Elleh"
+	},
+	{
+		"Id": 610001,
+		"Value": "Stormhill Shack"
+	},
+	{
+		"Id": 610002,
+		"Value": "Artist's Shack"
+	},
+	{
+		"Id": 610003,
+		"Value": "Third Church of Marika"
+	},
+	{
+		"Id": 610004,
+		"Value": "Fort Haight West"
+	},
+	{
+		"Id": 610005,
+		"Value": "Agheel Lake South"
+	},
+	{
+		"Id": 610007,
+		"Value": "Agheel Lake North"
+	},
+	{
+		"Id": 610008,
+		"Value": "Church of Dragon Communion"
+	},
+	{
+		"Id": 610009,
+		"Value": "Gatefront"
+	},
+	{
+		"Id": 610010,
+		"Value": "Garden Beyond the Bridge"
+	},
+	{
+		"Id": 610011,
+		"Value": "Seaside Ruins"
+	},
+	{
+		"Id": 610012,
+		"Value": "Mistwood Outskirts"
+	},
+	{
+		"Id": 610013,
+		"Value": "Mistwood"
+	},
+	{
+		"Id": 610014,
+		"Value": "Murkwater Coast"
+	},
+	{
+		"Id": 610015,
+		"Value": "Saintsbridge"
+	},
+	{
+		"Id": 610016,
+		"Value": "Summonwater Village Outskirts"
+	},
+	{
+		"Id": 610017,
+		"Value": "Warmaster's Shack"
+	},
+	{
+		"Id": 610018,
+		"Value": "Waypoint Ruins Cellar"
+	},
+	{
+		"Id": 610019,
+		"Value": "The First Step"
+	},
+	{
+		"Id": 611000,
+		"Value": "Fourth Church of Marika"
+	},
+	{
+		"Id": 611001,
+		"Value": "Castle Morne Rampart"
+	},
+	{
+		"Id": 611002,
+		"Value": "Tombsward"
+	},
+	{
+		"Id": 611003,
+		"Value": "South of the Lookout Tower"
+	},
+	{
+		"Id": 611004,
+		"Value": "Ailing Village Outskirts"
+	},
+	{
+		"Id": 611005,
+		"Value": "Beside the Crater-Pocked Glade"
+	},
+	{
+		"Id": 611006,
+		"Value": "Isolated Merchant's Shack"
+	},
+	{
+		"Id": 611007,
+		"Value": "Bridge of Sacrifice"
+	},
+	{
+		"Id": 611008,
+		"Value": "Castle Morne Lift"
+	},
+	{
+		"Id": 611009,
+		"Value": "Behind the Castle"
+	},
+	{
+		"Id": 611010,
+		"Value": "Beside the Rampart Gaol"
+	},
+	{
+		"Id": 611011,
+		"Value": "Morne Moangrave"
+	},
+	{
+		"Id": 611012,
+		"Value": "Church of Pilgrimage"
+	},
+	{
+		"Id": 620000,
+		"Value": "Lake-Facing Cliffs"
+	},
+	{
+		"Id": 620001,
+		"Value": "Liurnia Lake Shore"
+	},
+	{
+		"Id": 620002,
+		"Value": "Laskyar Ruins"
+	},
+	{
+		"Id": 620003,
+		"Value": "Scenic Isle"
+	},
+	{
+		"Id": 620004,
+		"Value": "Academy Gate Town"
+	},
+	{
+		"Id": 620005,
+		"Value": "Main Academy Gate"
+	},
+	{
+		"Id": 620010,
+		"Value": "East Raya Lucaria Gate"
+	},
+	{
+		"Id": 620011,
+		"Value": "Bellum Church"
+	},
+	{
+		"Id": 620012,
+		"Value": "Grand Lift of Dectus"
+	},
+	{
+		"Id": 620020,
+		"Value": "Foot of the Four Belfries"
+	},
+	{
+		"Id": 620021,
+		"Value": "Sorcerer's Isle"
+	},
+	{
+		"Id": 620022,
+		"Value": "Northern Liurnia Lake Shore"
+	},
+	{
+		"Id": 620023,
+		"Value": "Road to the Manor"
+	},
+	{
+		"Id": 620024,
+		"Value": "Main Caria Manor Gate"
+	},
+	{
+		"Id": 620030,
+		"Value": "Slumbering Wolf's Shack"
+	},
+	{
+		"Id": 620031,
+		"Value": "Boilprawn Shack"
+	},
+	{
+		"Id": 620032,
+		"Value": "Artist's Shack"
+	},
+	{
+		"Id": 620033,
+		"Value": "Revenger's Shack"
+	},
+	{
+		"Id": 620034,
+		"Value": "Folly on the Lake"
+	},
+	{
+		"Id": 620035,
+		"Value": "Village of the Albinaurics"
+	},
+	{
+		"Id": 620036,
+		"Value": "Liurnia Highway North"
+	},
+	{
+		"Id": 620037,
+		"Value": "Gate Town Bridge"
+	},
+	{
+		"Id": 620038,
+		"Value": "Eastern Liurnia Lake Shore"
+	},
+	{
+		"Id": 620039,
+		"Value": "Church of Vows"
+	},
+	{
+		"Id": 620040,
+		"Value": "Ruined Labyrinth"
+	},
+	{
+		"Id": 620041,
+		"Value": "Mausoleum Compound"
+	},
+	{
+		"Id": 620042,
+		"Value": "The Four Belfries"
+	},
+	{
+		"Id": 620043,
+		"Value": "Ranni's Rise"
+	},
+	{
+		"Id": 620044,
+		"Value": "Ravine-Veiled Village"
+	},
+	{
+		"Id": 620045,
+		"Value": "Manor Upper Level"
+	},
+	{
+		"Id": 620046,
+		"Value": "Manor Lower Level"
+	},
+	{
+		"Id": 620047,
+		"Value": "Royal Moongazing Grounds"
+	},
+	{
+		"Id": 620048,
+		"Value": "Gate Town North"
+	},
+	{
+		"Id": 620049,
+		"Value": "Eastern Tableland"
+	},
+	{
+		"Id": 620050,
+		"Value": "The Ravine"
+	},
+	{
+		"Id": 620051,
+		"Value": "Fallen Ruins of the Lake"
+	},
+	{
+		"Id": 620052,
+		"Value": "Converted Tower"
+	},
+	{
+		"Id": 620053,
+		"Value": "Behind Caria Manor"
+	},
+	{
+		"Id": 620054,
+		"Value": "Frenzied Flame Village Outskirts"
+	},
+	{
+		"Id": 620055,
+		"Value": "Church of Inhibition"
+	},
+	{
+		"Id": 620056,
+		"Value": "Temple Quarter"
+	},
+	{
+		"Id": 620057,
+		"Value": "East Gate Bridge Trestle"
+	},
+	{
+		"Id": 620058,
+		"Value": "Crystalline Woods"
+	},
+	{
+		"Id": 620059,
+		"Value": "Liurnia Highway South"
+	},
+	{
+		"Id": 620060,
+		"Value": "Jarburg"
+	},
+	{
+		"Id": 620061,
+		"Value": "South Raya Lucaria Gate"
+	},
+	{
+		"Id": 620062,
+		"Value": "Ranni's Chamber"
+	},
+	{
+		"Id": 621000,
+		"Value": "Moonlight Altar"
+	},
+	{
+		"Id": 621001,
+		"Value": "Cathedral of Manus Celes"
+	},
+	{
+		"Id": 621002,
+		"Value": "Altar South"
+	},
+	{
+		"Id": 630000,
+		"Value": "Erdtree-Gazing Hill"
+	},
+	{
+		"Id": 630001,
+		"Value": "Windmill Village"
+	},
+	{
+		"Id": 630002,
+		"Value": "Minor Erdtree Church"
+	},
+	{
+		"Id": 630003,
+		"Value": "Altus Highway Junction"
+	},
+	{
+		"Id": 630004,
+		"Value": "Rampartside Path"
+	},
+	{
+		"Id": 630005,
+		"Value": "Hermit Merchant's Shack"
+	},
+	{
+		"Id": 630006,
+		"Value": "Road of Iniquity Side Path"
+	},
+	{
+		"Id": 630007,
+		"Value": "Forest-Spanning Greatbridge"
+	},
+	{
+		"Id": 630008,
+		"Value": "Abandoned Coffin"
+	},
+	{
+		"Id": 630009,
+		"Value": "Altus Plateau"
+	},
+	{
+		"Id": 630010,
+		"Value": "Bower of Bounty"
+	},
+	{
+		"Id": 630011,
+		"Value": "Outer Wall Phantom Tree"
+	},
+	{
+		"Id": 630012,
+		"Value": "Outer Wall Battleground"
+	},
+	{
+		"Id": 630013,
+		"Value": "Windmill Heights"
+	},
+	{
+		"Id": 630014,
+		"Value": "Capital Rampart"
+	},
+	{
+		"Id": 630050,
+		"Value": "Castellan's Hall"
+	},
+	{
+		"Id": 630051,
+		"Value": "Shaded Castle Ramparts"
+	},
+	{
+		"Id": 630052,
+		"Value": "Shaded Castle Inner Gate"
+	},
+	{
+		"Id": 631000,
+		"Value": "Bridge of Iniquity"
+	},
+	{
+		"Id": 631001,
+		"Value": "Ninth Mt. Gelmir Campsite"
+	},
+	{
+		"Id": 631002,
+		"Value": "First Mt. Gelmir Campsite"
+	},
+	{
+		"Id": 631003,
+		"Value": "Road of Iniquity"
+	},
+	{
+		"Id": 631004,
+		"Value": "Seethewater River"
+	},
+	{
+		"Id": 631005,
+		"Value": "Seethewater Terminus"
+	},
+	{
+		"Id": 631006,
+		"Value": "Craftsman's Shack"
+	},
+	{
+		"Id": 631007,
+		"Value": "Primeval Sorcerer Azur"
+	},
+	{
+		"Id": 640000,
+		"Value": "Smoldering Church"
+	},
+	{
+		"Id": 640001,
+		"Value": "Rotview Balcony"
+	},
+	{
+		"Id": 640002,
+		"Value": "Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 640003,
+		"Value": "Smoldering Wall"
+	},
+	{
+		"Id": 640004,
+		"Value": "Deep Siofra Well"
+	},
+	{
+		"Id": 640005,
+		"Value": "Caelem Ruins"
+	},
+	{
+		"Id": 640006,
+		"Value": "Isolated Merchant's Shack"
+	},
+	{
+		"Id": 640007,
+		"Value": "Heart of Aeonia"
+	},
+	{
+		"Id": 640008,
+		"Value": "Chair-Crypt of Sellia"
+	},
+	{
+		"Id": 640009,
+		"Value": "Impassable Greatbridge"
+	},
+	{
+		"Id": 640010,
+		"Value": "Redmane Castle Plaza"
+	},
+	{
+		"Id": 640011,
+		"Value": "Chamber Outside the Plaza"
+	},
+	{
+		"Id": 640013,
+		"Value": "Fort Gael North"
+	},
+	{
+		"Id": 640014,
+		"Value": "Starscourge Radahn"
+	},
+	{
+		"Id": 640015,
+		"Value": "Aeonia Swamp Shore"
+	},
+	{
+		"Id": 640016,
+		"Value": "Southern Aeonia Swamp Bank"
+	},
+	{
+		"Id": 640017,
+		"Value": "Sellia Under-Stair"
+	},
+	{
+		"Id": 640018,
+		"Value": "Church of the Plague"
+	},
+	{
+		"Id": 640019,
+		"Value": "Caelid Highway South"
+	},
+	{
+		"Id": 640020,
+		"Value": "Dragonbarrow West"
+	},
+	{
+		"Id": 640021,
+		"Value": "Fort Faroth"
+	},
+	{
+		"Id": 640022,
+		"Value": "Dragonbarrow Fork"
+	},
+	{
+		"Id": 640023,
+		"Value": "Lenne's Rise"
+	},
+	{
+		"Id": 640024,
+		"Value": "Farum Greatbridge"
+	},
+	{
+		"Id": 640025,
+		"Value": "Bestial Sanctum"
+	},
+	{
+		"Id": 640026,
+		"Value": "Astray from Caelid Highway North"
+	},
+	{
+		"Id": 640027,
+		"Value": "Swamp of Aeonia"
+	},
+	{
+		"Id": 640028,
+		"Value": "Inner Aeonia"
+	},
+	{
+		"Id": 640029,
+		"Value": "Sellia Backstreets"
+	},
+	{
+		"Id": 650000,
+		"Value": "Forbidden Lands"
+	},
+	{
+		"Id": 650001,
+		"Value": "Zamor Ruins"
+	},
+	{
+		"Id": 650002,
+		"Value": "Ancient Snow Valley Ruins"
+	},
+	{
+		"Id": 650003,
+		"Value": "Freezing Lake"
+	},
+	{
+		"Id": 650004,
+		"Value": "First Church of Marika"
+	},
+	{
+		"Id": 650005,
+		"Value": "Giants' Gravepost"
+	},
+	{
+		"Id": 650006,
+		"Value": "Church of Repose"
+	},
+	{
+		"Id": 650007,
+		"Value": "Foot of the Forge"
+	},
+	{
+		"Id": 650008,
+		"Value": "Fire Giant"
+	},
+	{
+		"Id": 650009,
+		"Value": "Forge of the Giants"
+	},
+	{
+		"Id": 650010,
+		"Value": "Grand Lift of Rold"
+	},
+	{
+		"Id": 650050,
+		"Value": "Whiteridge Road"
+	},
+	{
+		"Id": 650051,
+		"Value": "Snow Valley Ruins Overlook"
+	},
+	{
+		"Id": 650052,
+		"Value": "Castle Sol Main Gate"
+	},
+	{
+		"Id": 650053,
+		"Value": "Church of the Eclipse"
+	},
+	{
+		"Id": 650054,
+		"Value": "Castle Sol Rooftop"
+	},
+	{
+		"Id": 651000,
+		"Value": "Consecrated Snowfield"
+	},
+	{
+		"Id": 651001,
+		"Value": "Inner Consecrated Snowfield"
+	},
+	{
+		"Id": 651002,
+		"Value": "Ordina, Liturgical Town"
+	},
+	{
+		"Id": 651003,
+		"Value": "Apostate Derelict"
+	},
+	{
+		"Id": 6100300,
+		"Value": "Church of Elleh"
+	},
+	{
+		"Id": 6100301,
+		"Value": "Church of Dragon Communion"
+	},
+	{
+		"Id": 6100302,
+		"Value": "Third Church of Marika"
+	},
+	{
+		"Id": 6100500,
+		"Value": "Mistwood Ruins"
+	},
+	{
+		"Id": 6100501,
+		"Value": "Waypoint Ruins"
+	},
+	{
+		"Id": 6100502,
+		"Value": "Dragon-Burnt Ruins"
+	},
+	{
+		"Id": 6100503,
+		"Value": "Gatefront Ruins"
+	},
+	{
+		"Id": 6100504,
+		"Value": "Summonwater Village"
+	},
+	{
+		"Id": 6100600,
+		"Value": "Artist's Shack"
+	},
+	{
+		"Id": 6100601,
+		"Value": "Warmaster's Shack"
+	},
+	{
+		"Id": 6100602,
+		"Value": "Stormhill Shack"
+	},
+	{
+		"Id": 6100900,
+		"Value": "Forlorn Hound Evergaol"
+	},
+	{
+		"Id": 6100901,
+		"Value": "Stormhill Evergaol"
+	},
+	{
+		"Id": 6101000,
+		"Value": "Stormgate"
+	},
+	{
+		"Id": 6101100,
+		"Value": "Bridge of Sacrifice"
+	},
+	{
+		"Id": 6101500,
+		"Value": "Siofra River Well"
+	},
+	{
+		"Id": 6101800,
+		"Value": "Fort Haight"
+	},
+	{
+		"Id": 6103000,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6108100,
+		"Value": "Agheel Lake"
+	},
+	{
+		"Id": 6108700,
+		"Value": "Sending Gate"
+	},
+	{
+		"Id": 6108701,
+		"Value": "Volcano Manor Request: Istvan"
+	},
+	{
+		"Id": 6110300,
+		"Value": "Fourth Church of Marika"
+	},
+	{
+		"Id": 6110301,
+		"Value": "Church of Pilgrimage"
+	},
+	{
+		"Id": 6110302,
+		"Value": "Callu Baptismal Church"
+	},
+	{
+		"Id": 6110500,
+		"Value": "Witchbane Ruins"
+	},
+	{
+		"Id": 6110501,
+		"Value": "Tombsward Ruins"
+	},
+	{
+		"Id": 6110502,
+		"Value": "Demi-Human Forest Ruins"
+	},
+	{
+		"Id": 6110600,
+		"Value": "Isolated Merchant's Shack"
+	},
+	{
+		"Id": 6110700,
+		"Value": "Ailing Village"
+	},
+	{
+		"Id": 6110800,
+		"Value": "Forest Lookout Tower"
+	},
+	{
+		"Id": 6110801,
+		"Value": "Tower of Return"
+	},
+	{
+		"Id": 6110900,
+		"Value": "Weeping Evergaol"
+	},
+	{
+		"Id": 6111700,
+		"Value": "Oridys's Rise"
+	},
+	{
+		"Id": 6112500,
+		"Value": "Castle Morne"
+	},
+	{
+		"Id": 6113000,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6120000,
+		"Value": "Stormveil Castle"
+	},
+	{
+		"Id": 6200000,
+		"Value": "Uld Palace Ruins"
+	},
+	{
+		"Id": 6200001,
+		"Value": "Three Sisters"
+	},
+	{
+		"Id": 6200300,
+		"Value": "Church of Irith"
+	},
+	{
+		"Id": 6200301,
+		"Value": "Church of Vows"
+	},
+	{
+		"Id": 6200302,
+		"Value": "Rose Church"
+	},
+	{
+		"Id": 6200303,
+		"Value": "Bellum Church"
+	},
+	{
+		"Id": 6200304,
+		"Value": "Church of Inhibition"
+	},
+	{
+		"Id": 6200500,
+		"Value": "Purified Ruins"
+	},
+	{
+		"Id": 6200501,
+		"Value": "Kingsrealm Ruins"
+	},
+	{
+		"Id": 6200502,
+		"Value": "Laskyar Ruins"
+	},
+	{
+		"Id": 6200600,
+		"Value": "Slumbering Wolf's Shack"
+	},
+	{
+		"Id": 6200601,
+		"Value": "Boilprawn Shack"
+	},
+	{
+		"Id": 6200602,
+		"Value": "Artist's Shack"
+	},
+	{
+		"Id": 6200603,
+		"Value": "Revenger's Shack"
+	},
+	{
+		"Id": 6200700,
+		"Value": "Village of the Albinaurics"
+	},
+	{
+		"Id": 6200701,
+		"Value": "Frenzied Flame Village"
+	},
+	{
+		"Id": 6200702,
+		"Value": "Jarburg"
+	},
+	{
+		"Id": 6200800,
+		"Value": "Highway Lookout Tower"
+	},
+	{
+		"Id": 6200801,
+		"Value": "Frenzy-Flaming Tower"
+	},
+	{
+		"Id": 6200900,
+		"Value": "Malefactor's Evergaol"
+	},
+	{
+		"Id": 6200901,
+		"Value": "Cuckoo's Evergaol"
+	},
+	{
+		"Id": 6200902,
+		"Value": "Royal Grave Evergaol"
+	},
+	{
+		"Id": 6201500,
+		"Value": "Ainsel River Well"
+	},
+	{
+		"Id": 6201700,
+		"Value": "Converted Tower"
+	},
+	{
+		"Id": 6201701,
+		"Value": "Testu's Rise"
+	},
+	{
+		"Id": 6201702,
+		"Value": "Seluvis's Rise"
+	},
+	{
+		"Id": 6201703,
+		"Value": "Ranni's Rise"
+	},
+	{
+		"Id": 6201704,
+		"Value": "Renna's Rise"
+	},
+	{
+		"Id": 6201705,
+		"Value": "Converted Fringe Tower"
+	},
+	{
+		"Id": 6202600,
+		"Value": "Caria Manor"
+	},
+	{
+		"Id": 6203000,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6203001,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6203200,
+		"Value": "Academy Gate Town"
+	},
+	{
+		"Id": 6203201,
+		"Value": "Temple Quarter"
+	},
+	{
+		"Id": 6205200,
+		"Value": "The Four Belfries"
+	},
+	{
+		"Id": 6210300,
+		"Value": "Cathedral of Manus Celes"
+	},
+	{
+		"Id": 6210500,
+		"Value": "Moonfolk Ruins"
+	},
+	{
+		"Id": 6210501,
+		"Value": "Lunar Estate Ruins"
+	},
+	{
+		"Id": 6210900,
+		"Value": "Ringleader's Evergaol"
+	},
+	{
+		"Id": 6211500,
+		"Value": "Deep Ainsel Well"
+	},
+	{
+		"Id": 6211700,
+		"Value": "Chelona's Rise"
+	},
+	{
+		"Id": 6220000,
+		"Value": "Academy of Raya Lucaria"
+	},
+	{
+		"Id": 6300300,
+		"Value": "Stormcaller Church"
+	},
+	{
+		"Id": 6300301,
+		"Value": "Second Church of Marika"
+	},
+	{
+		"Id": 6300302,
+		"Value": "Minor Erdtree Church"
+	},
+	{
+		"Id": 6300500,
+		"Value": "Woodfolk Ruins"
+	},
+	{
+		"Id": 6300501,
+		"Value": "Lux Ruins"
+	},
+	{
+		"Id": 6300502,
+		"Value": "Perfumer's Ruins"
+	},
+	{
+		"Id": 6300503,
+		"Value": "Writheblood Ruins"
+	},
+	{
+		"Id": 6300600,
+		"Value": "St. Trina's Hideaway"
+	},
+	{
+		"Id": 6300601,
+		"Value": "Hermit Merchant's Shack"
+	},
+	{
+		"Id": 6300700,
+		"Value": "Dominula, Windmill Village"
+	},
+	{
+		"Id": 6300800,
+		"Value": "Highway Lookout Tower"
+	},
+	{
+		"Id": 6300900,
+		"Value": "Golden Lineage Evergaol"
+	},
+	{
+		"Id": 6301000,
+		"Value": "Capital Outskirts"
+	},
+	{
+		"Id": 6301300,
+		"Value": "Woodfolk Ruins"
+	},
+	{
+		"Id": 6301700,
+		"Value": "Mirage Rise"
+	},
+	{
+		"Id": 6301900,
+		"Value": "West Windmill Pasture"
+	},
+	{
+		"Id": 6301901,
+		"Value": "East Windmill Pasture"
+	},
+	{
+		"Id": 6301902,
+		"Value": "Village Windmill Pasture"
+	},
+	{
+		"Id": 6301903,
+		"Value": "Dominula Checkpoint"
+	},
+	{
+		"Id": 6302100,
+		"Value": "Grand Lift of Dectus"
+	},
+	{
+		"Id": 6302700,
+		"Value": "The Shaded Castle"
+	},
+	{
+		"Id": 6303000,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6303001,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6308700,
+		"Value": "Volcano Manor Request: Rileigh"
+	},
+	{
+		"Id": 6310501,
+		"Value": "Wyndham Ruins"
+	},
+	{
+		"Id": 6310600,
+		"Value": "Corpse-Stench Shack"
+	},
+	{
+		"Id": 6310601,
+		"Value": "Hermit's Shack"
+	},
+	{
+		"Id": 6310604,
+		"Value": "Craftsman's Shack"
+	},
+	{
+		"Id": 6310700,
+		"Value": "Hermit Village"
+	},
+	{
+		"Id": 6311000,
+		"Value": "Leyndell, Royal Capital"
+	},
+	{
+		"Id": 6311800,
+		"Value": "Fort Laiedd"
+	},
+	{
+		"Id": 6313000,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6316000,
+		"Value": "Volcano Manor"
+	},
+	{
+		"Id": 6400000,
+		"Value": "Wailing Dunes"
+	},
+	{
+		"Id": 6400300,
+		"Value": "Smoldering Church"
+	},
+	{
+		"Id": 6400301,
+		"Value": "Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 6400302,
+		"Value": "Church of the Plague"
+	},
+	{
+		"Id": 6400500,
+		"Value": "Forsaken Ruins"
+	},
+	{
+		"Id": 6400501,
+		"Value": "Caelid Waypoint Ruins"
+	},
+	{
+		"Id": 6400502,
+		"Value": "Street of Sages Ruins"
+	},
+	{
+		"Id": 6400503,
+		"Value": "Caelem Ruins"
+	},
+	{
+		"Id": 6400600,
+		"Value": "Shack of the Rotting"
+	},
+	{
+		"Id": 6400601,
+		"Value": "Gowry's Shack"
+	},
+	{
+		"Id": 6400800,
+		"Value": "Swamp Lookout Tower"
+	},
+	{
+		"Id": 6401000,
+		"Value": "Sellia Gateway"
+	},
+	{
+		"Id": 6401500,
+		"Value": "Deep Siofra Well"
+	},
+	{
+		"Id": 6401800,
+		"Value": "Fort Gael"
+	},
+	{
+		"Id": 6402800,
+		"Value": "Redmane Castle"
+	},
+	{
+		"Id": 6403000,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6403001,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6403300,
+		"Value": "Sellia, Town of Sorcery"
+	},
+	{
+		"Id": 6410600,
+		"Value": "Isolated Merchant's Shack"
+	},
+	{
+		"Id": 6410900,
+		"Value": "Sellia Evergaol"
+	},
+	{
+		"Id": 6411700,
+		"Value": "Lenne's Rise"
+	},
+	{
+		"Id": 6411800,
+		"Value": "Fort Faroth"
+	},
+	{
+		"Id": 6413000,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6415400,
+		"Value": "Bestial Sanctum"
+	},
+	{
+		"Id": 6500300,
+		"Value": "First Church of Marika"
+	},
+	{
+		"Id": 6500301,
+		"Value": "Church of Repose"
+	},
+	{
+		"Id": 6500500,
+		"Value": "Zamor Ruins"
+	},
+	{
+		"Id": 6500501,
+		"Value": "Stargazers' Ruins"
+	},
+	{
+		"Id": 6500600,
+		"Value": "Shack of the Lofty"
+	},
+	{
+		"Id": 6500900,
+		"Value": "Lord Contender's Evergaol"
+	},
+	{
+		"Id": 6501700,
+		"Value": "Heretical Rise"
+	},
+	{
+		"Id": 6501800,
+		"Value": "Guardians' Garrison"
+	},
+	{
+		"Id": 6502100,
+		"Value": "Grand Lift of Rold"
+	},
+	{
+		"Id": 6502900,
+		"Value": "Castle Sol"
+	},
+	{
+		"Id": 6503000,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6505700,
+		"Value": "Forge of the Giants"
+	},
+	{
+		"Id": 6508700,
+		"Value": "Grand Lift of Rold"
+	},
+	{
+		"Id": 6508701,
+		"Value": "Volcano Manor Request: Juno Hoslow"
+	},
+	{
+		"Id": 6510300,
+		"Value": "Apostate Derelict"
+	},
+	{
+		"Id": 6510500,
+		"Value": "Yelough Anix Ruins"
+	},
+	{
+		"Id": 6511700,
+		"Value": "Albinauric Rise"
+	},
+	{
+		"Id": 6513000,
+		"Value": "Minor Erdtree"
+	},
+	{
+		"Id": 6513400,
+		"Value": "Ordina, Liturgical Town"
+	},
+	{
+		"Id": 6515000,
+		"Value": "Elphael, Brace of the Haligtree"
+	},
+	{
+		"Id": 6515500,
+		"Value": "Miquella's Haligtree"
+	},
+	{
+		"Id": 6515600,
+		"Value": "Elphael, Brace of the Haligtree"
+	},
+	{
+		"Id": 6604700,
+		"Value": "Uhl Palace Ruins"
+	},
+	{
+		"Id": 6614600,
+		"Value": "Nokstella, Eternal City"
+	},
+	{
+		"Id": 6614700,
+		"Value": "Grand Cloister"
+	},
+	{
+		"Id": 6614701,
+		"Value": "Uhl Palace Ruins"
+	},
+	{
+		"Id": 6654600,
+		"Value": "Nokron, Eternal City"
+	},
+	{
+		"Id": 6654601,
+		"Value": "Night's Sacred Ground"
+	},
+	{
+		"Id": 6654602,
+		"Value": "Siofra Aqueduct"
+	},
+	{
+		"Id": 6654604,
+		"Value": "Hallowhorn Grounds"
+	},
+	{
+		"Id": 6664500,
+		"Value": "Mohgwyn Dynasty Mausoleum"
+	},
+	{
+		"Id": 8000000,
+		"Value": "Limgrave"
+	},
+	{
+		"Id": 8000400,
+		"Value": "Liurnia"
+	},
+	{
+		"Id": 8000800,
+		"Value": "Altus Plateau"
+	},
+	{
+		"Id": 8000900,
+		"Value": "Caelid"
+	},
+	{
+		"Id": 8001200,
+		"Value": "Mountaintops of the Giants"
+	},
+	{
+		"Id": 8010000,
+		"Value": "Ainsel River"
+	},
+	{
+		"Id": 8010200,
+		"Value": "Siofra River"
+	},
+	{
+		"Id": 8010400,
+		"Value": "Deeproot Depths"
+	},
+	{
+		"Id": 8100001,
+		"Value": "Tenebrae Demesne"
+	}
+]

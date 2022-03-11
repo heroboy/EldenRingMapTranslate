@@ -1,0 +1,794 @@
+[
+	{
+		"Id": 1,
+		"Value": "OK"
+	},
+	{
+		"Id": 2,
+		"Value": "CANCEL"
+	},
+	{
+		"Id": 3,
+		"Value": "YES"
+	},
+	{
+		"Id": 4,
+		"Value": "NO"
+	},
+	{
+		"Id": 15,
+		"Value": "RETRY"
+	},
+	{
+		"Id": 16,
+		"Value": "CONTINUE"
+	},
+	{
+		"Id": 17,
+		"Value": "RETURN TO TITLE"
+	},
+	{
+		"Id": 40200,
+		"Value": "Insufficient runes"
+	},
+	{
+		"Id": 40201,
+		"Value": "Additional items required"
+	},
+	{
+		"Id": 40202,
+		"Value": "Insufficient items/runes"
+	},
+	{
+		"Id": 40300,
+		"Value": "Returning to default settings.\nIs that okay?"
+	},
+	{
+		"Id": 40500,
+		"Value": "Restoring all default settings.\nIs that okay?"
+	},
+	{
+		"Id": 102000,
+		"Value": "Leaving <?itemName?>.\nIs that okay?"
+	},
+	{
+		"Id": 102001,
+		"Value": "Discarding <?itemName?>.\nIs that okay?"
+	},
+	{
+		"Id": 102002,
+		"Value": "Leaving all selected items.\nIs that okay?"
+	},
+	{
+		"Id": 102003,
+		"Value": "Discarding all selected items.\nIs that okay?"
+	},
+	{
+		"Id": 102004,
+		"Value": "Only eight items can be left at once. If you leave any more items, the items you left earlier will be lost, starting with the oldest.\nIs that okay?"
+	},
+	{
+		"Id": 102005,
+		"Value": "Ashes of War are applied to <?itemName?>.\nIf this item is lost, its Ashes of War will be lost as well.\nIs that okay?"
+	},
+	{
+		"Id": 102006,
+		"Value": "Ashes of War are applied to <?itemName?>.\nIf you discard this item, its Ashes of War will be lost.\nIs that okay?"
+	},
+	{
+		"Id": 102007,
+		"Value": "Ashes of War are applied to an item you've selected.\nIf that item is lost, its Ashes of War will be lost as well.\nIs that okay?"
+	},
+	{
+		"Id": 102008,
+		"Value": "Ashes of War are applied to an item you've selected.\nIf you discard that item, its Ashes of War will be lost.\nIs that okay?"
+	},
+	{
+		"Id": 102010,
+		"Value": "This action will exceed maximum runes.\nRunes exceeding maximum will be lost.\nUse regardless?"
+	},
+	{
+		"Id": 103000,
+		"Value": "Unable to use this item effectively with present attributes"
+	},
+	{
+		"Id": 103001,
+		"Value": "Unable to use this item effectively with present attributes,\nunless wielded with both hands"
+	},
+	{
+		"Id": 103005,
+		"Value": "Cannot summon this spirit at present level"
+	},
+	{
+		"Id": 103110,
+		"Value": "Cannot equip talisman as an incompatible talisman is currently equipped"
+	},
+	{
+		"Id": 103130,
+		"Value": "Cannot change equipment at this time"
+	},
+	{
+		"Id": 103140,
+		"Value": "Loss of memory slots will result in removal of any excess sorceries or incantations.\nIs that okay?"
+	},
+	{
+		"Id": 103141,
+		"Value": "Sorceries and incantations exceeding the number of memory slots have been removed"
+	},
+	{
+		"Id": 104000,
+		"Value": "Multiplayer password history"
+	},
+	{
+		"Id": 104001,
+		"Value": "Select password"
+	},
+	{
+		"Id": 104002,
+		"Value": "Group password history"
+	},
+	{
+		"Id": 104003,
+		"Value": "Select password"
+	},
+	{
+		"Id": 104004,
+		"Value": "No multiplayer password history"
+	},
+	{
+		"Id": 104005,
+		"Value": "No group password history"
+	},
+	{
+		"Id": 104010,
+		"Value": "Using a Finger Remedy will send summoned spirits home.\nIs that okay?"
+	},
+	{
+		"Id": 104020,
+		"Value": "Using a Finger Remedy will retract your summon sign.\nIs that okay?"
+	},
+	{
+		"Id": 110000,
+		"Value": "Save the game and return to title menu?"
+	},
+	{
+		"Id": 110316,
+		"Value": "Return to the title menu to change language settings"
+	},
+	{
+		"Id": 111100,
+		"Value": "Settings have been changed.\nThis will revert to the previous setting in <?remainingSec?> seconds.\nKeep current settings?"
+	},
+	{
+		"Id": 111101,
+		"Value": "Keep current settings?"
+	},
+	{
+		"Id": 111102,
+		"Value": "Some settings will only be applied after returning to title menu"
+	},
+	{
+		"Id": 111103,
+		"Value": "This setting will be applied after restarting the game"
+	},
+	{
+		"Id": 111104,
+		"Value": "Settings have been changed.\nThis will revert to the previous setting in <?remainingSec?> seconds.\nKeep current settings?"
+	},
+	{
+		"Id": 111105,
+		"Value": "Some settings will only be applied after returning to title menu"
+	},
+	{
+		"Id": 111106,
+		"Value": "HDR turned off"
+	},
+	{
+		"Id": 111107,
+		"Value": "HDR turned on"
+	},
+	{
+		"Id": 111110,
+		"Value": "Some setting changes have not been applied.\nTo apply these changes, return to the title menu."
+	},
+	{
+		"Id": 211001,
+		"Value": "Traveling to <?placeName?>.\nIs that okay?"
+	},
+	{
+		"Id": 211002,
+		"Value": "Cannot travel to a site of grace from this location"
+	},
+	{
+		"Id": 211003,
+		"Value": "Cannot travel to a site of grace during multiplayer"
+	},
+	{
+		"Id": 211004,
+		"Value": "You cannot travel to a site of grace now"
+	},
+	{
+		"Id": 211005,
+		"Value": "You have been trapped.\nYou cannot travel to sites of grace until you rest at one."
+	},
+	{
+		"Id": 211006,
+		"Value": "Cannot travel to a site of grace right now"
+	},
+	{
+		"Id": 211010,
+		"Value": "Cannot travel to a site of grace right now"
+	},
+	{
+		"Id": 211100,
+		"Value": "Removing all markers placed.\nIs that okay?"
+	},
+	{
+		"Id": 211101,
+		"Value": "You have placed the maximum number of markers and cannot place any more"
+	},
+	{
+		"Id": 211200,
+		"Value": "Cannot focus on your current location"
+	},
+	{
+		"Id": 211300,
+		"Value": "You have marked the maximum number of\nsites of grace and cannot mark any more"
+	},
+	{
+		"Id": 211400,
+		"Value": "Removing the marker from this site of grace.\nIs that okay?"
+	},
+	{
+		"Id": 212000,
+		"Value": "Spend <?demandSoul?> runes and level up?"
+	},
+	{
+		"Id": 212001,
+		"Value": "Canceling level up.\nIs that okay?"
+	},
+	{
+		"Id": 212002,
+		"Value": "Select at least one attribute to level up"
+	},
+	{
+		"Id": 212010,
+		"Value": "Level at maximum.\nCannot raise level any further."
+	},
+	{
+		"Id": 212750,
+		"Value": "Undergo rebirth?"
+	},
+	{
+		"Id": 212751,
+		"Value": "Canceling rebirth"
+	},
+	{
+		"Id": 212752,
+		"Value": "Reallocate attributes until you reach your original level"
+	},
+	{
+		"Id": 212760,
+		"Value": "This will reduce your memory slots.\nLoss of memory slots will result in removal\nof any excess sorceries or incantations.\nUndergo rebirth?"
+	},
+	{
+		"Id": 212761,
+		"Value": "Sorceries/incantations exceeding the number of memory slots\nhave been removed"
+	},
+	{
+		"Id": 214000,
+		"Value": "Remove these Ashes of War from <?itemNameBeforeForge?> and apply them to <?itemNameAfterForge?>?"
+	},
+	{
+		"Id": 215000,
+		"Value": "If you change the equipped Great Rune, the\ncurrent Great Rune's effects will be removed.\nIs that okay?"
+	},
+	{
+		"Id": 216000,
+		"Value": "Strengthen <?itemNameBeforeForge?> into <?itemNameAfterForge?>?"
+	},
+	{
+		"Id": 216010,
+		"Value": "This cannot be strengthened, as you already have <?itemNameAfterForge?>"
+	},
+	{
+		"Id": 221000,
+		"Value": "Strengthen <?itemNameBeforeForge?>\nto make <?itemNameAfterForge?>?"
+	},
+	{
+		"Id": 221011,
+		"Value": "Armament cannot be strengthened any further at the smithing table"
+	},
+	{
+		"Id": 225000,
+		"Value": "Offer <?demandSoul?> Dragon Hearts\nto make <?itemName?> thine own"
+	},
+	{
+		"Id": 225100,
+		"Value": "This strength is already thine own"
+	},
+	{
+		"Id": 226000,
+		"Value": "Give <?demandSoul?> starlight shards\nto receive <?itemName?>"
+	},
+	{
+		"Id": 226100,
+		"Value": "This puppet is already yours"
+	},
+	{
+		"Id": 227000,
+		"Value": "Duplicate <?itemName?>"
+	},
+	{
+		"Id": 227100,
+		"Value": "Cannot further duplicate this Ash of War"
+	},
+	{
+		"Id": 230000,
+		"Value": "Receive <?itemName?>"
+	},
+	{
+		"Id": 230010,
+		"Value": "Items exceeding maximum have been placed in chest"
+	},
+	{
+		"Id": 230020,
+		"Value": "Cannot receive.\nThe number you would receive would exceed the maximum\nable to be held in inventory and storage."
+	},
+	{
+		"Id": 230100,
+		"Value": "Duplicate <?itemName?>"
+	},
+	{
+		"Id": 230110,
+		"Value": "Items exceeding maximum have been placed in chest"
+	},
+	{
+		"Id": 230120,
+		"Value": "Cannot duplicate.\nThe number you would receive would exceed the maximum\nable to be held in inventory and storage."
+	},
+	{
+		"Id": 230150,
+		"Value": "Cannot further duplicate this remembrance "
+	},
+	{
+		"Id": 231000,
+		"Value": "Purchase <?itemName?>\nfor <?demandSoul?> runes"
+	},
+	{
+		"Id": 231010,
+		"Value": "Items exceeding maximum have been placed in chest"
+	},
+	{
+		"Id": 231020,
+		"Value": "Cannot purchase.\nThe number you wish to buy would exceed the maximum\nable to be held in inventory and storage."
+	},
+	{
+		"Id": 231100,
+		"Value": "Out of stock.\nCannot purchase anymore."
+	},
+	{
+		"Id": 232000,
+		"Value": "Sell <?itemName?>\nfor <?sellSouls?> runes"
+	},
+	{
+		"Id": 232002,
+		"Value": "Cannot sell currently equipped items"
+	},
+	{
+		"Id": 232003,
+		"Value": "Cannot sell this item"
+	},
+	{
+		"Id": 232004,
+		"Value": "Ashes of War are applied to <?itemName?> .\nIf you sell this item, its Ashes of War will be lost.\nIs that okay?"
+	},
+	{
+		"Id": 235000,
+		"Value": "Allocate?"
+	},
+	{
+		"Id": 235001,
+		"Value": "Canceling allocation.\nIs that okay?"
+	},
+	{
+		"Id": 236001,
+		"Value": "Craft <?itemName?>"
+	},
+	{
+		"Id": 236010,
+		"Value": "Crafted items exceeding maximum have been placed in chest"
+	},
+	{
+		"Id": 236011,
+		"Value": "Cannot craft this item.\nThe number you wish to craft would exceed the maximum\nable to be held in inventory and storage."
+	},
+	{
+		"Id": 236020,
+		"Value": "Cannot craft this item as you do not have enough cracked pots"
+	},
+	{
+		"Id": 236021,
+		"Value": "Cannot craft this item as you do not have enough perfume bottles"
+	},
+	{
+		"Id": 236030,
+		"Value": "Cannot craft this item as you do not have enough ritual pots"
+	},
+	{
+		"Id": 236050,
+		"Value": "Cannot craft this item as you do not have any cracked pots"
+	},
+	{
+		"Id": 236055,
+		"Value": "Cannot craft this item as you do not have any ritual pots"
+	},
+	{
+		"Id": 236060,
+		"Value": "Cannot craft this item as you do not have any perfume bottles"
+	},
+	{
+		"Id": 236201,
+		"Value": "Spend remembrance and <?demandSoul?> runes\nto receive <?itemName?>"
+	},
+	{
+		"Id": 236202,
+		"Value": "Acquire <?itemName?> in exchange for remembrance"
+	},
+	{
+		"Id": 236210,
+		"Value": "Items exceeding maximum have been placed in chest"
+	},
+	{
+		"Id": 236211,
+		"Value": "You cannot receive this power.\nThe number you would receive would exceed the maximum\nable to be held in inventory and storage."
+	},
+	{
+		"Id": 236220,
+		"Value": "You cannot receive any more power from this remembrance,\nas you have reached its maximum"
+	},
+	{
+		"Id": 236401,
+		"Value": "Alter to <?itemName?>"
+	},
+	{
+		"Id": 236402,
+		"Value": "Use <?demandSoul?> runes to alter to <?itemName?>"
+	},
+	{
+		"Id": 236410,
+		"Value": "Altered items exceeding maximum have been placed in chest"
+	},
+	{
+		"Id": 236411,
+		"Value": "You cannot alter these items.\nThe number you would receive would exceed the maximum\nable to be held in inventory and storage."
+	},
+	{
+		"Id": 236420,
+		"Value": "You cannot alter any more of these items,\nas you have reached the maximum"
+	},
+	{
+		"Id": 237000,
+		"Value": "Flask of Crimson Tears"
+	},
+	{
+		"Id": 237001,
+		"Value": "Flask of Cerulean Tears"
+	},
+	{
+		"Id": 241000,
+		"Value": "A new map has been found.\n(Limgrave, West)"
+	},
+	{
+		"Id": 241001,
+		"Value": "A new map has been found.\n(Weeping Peninsula)"
+	},
+	{
+		"Id": 241002,
+		"Value": "A new map has been found.\n(Limgrave, East)"
+	},
+	{
+		"Id": 241003,
+		"Value": "A new map has been found.\n(Liurnia, East)"
+	},
+	{
+		"Id": 241004,
+		"Value": "A new map has been found.\n(Liurnia, North)"
+	},
+	{
+		"Id": 241005,
+		"Value": "A new map has been found.\n(Liurnia, West)"
+	},
+	{
+		"Id": 241006,
+		"Value": "A new map has been found.\n(Altus Plateau)"
+	},
+	{
+		"Id": 241007,
+		"Value": "A new map has been found.\n(Leyndell, Royal Capital)"
+	},
+	{
+		"Id": 241008,
+		"Value": "A new map has been found.\n(Mt. Gelmir)"
+	},
+	{
+		"Id": 241009,
+		"Value": "A new map has been found.\n(Caelid)"
+	},
+	{
+		"Id": 241010,
+		"Value": "A new map has been found.\n(Dragonbarrow)"
+	},
+	{
+		"Id": 241011,
+		"Value": "A new map has been found.\n(Mountaintops of the Giants, West)"
+	},
+	{
+		"Id": 241012,
+		"Value": "A new map has been found.\n(Mountaintops of the Giants, East)"
+	},
+	{
+		"Id": 241013,
+		"Value": "A new map has been found.\n(Consecrated Snowfield)"
+	},
+	{
+		"Id": 241014,
+		"Value": "A new map has been found"
+	},
+	{
+		"Id": 241100,
+		"Value": "A new map has been found.\n(Ainsel River)"
+	},
+	{
+		"Id": 241101,
+		"Value": "A new map has been found.\n(Lake of Rot)"
+	},
+	{
+		"Id": 241102,
+		"Value": "A new map has been found.\n(Mohgwyn Palace)"
+	},
+	{
+		"Id": 241103,
+		"Value": "A new map has been found.\n(Siofra River)"
+	},
+	{
+		"Id": 241104,
+		"Value": "A new map has been found.\n(Deeproot Depths)"
+	},
+	{
+		"Id": 241105,
+		"Value": "A new map has been found"
+	},
+	{
+		"Id": 251020,
+		"Value": "Cannot store currently equipped items"
+	},
+	{
+		"Id": 251021,
+		"Value": "Selected item cannot be placed in storage"
+	},
+	{
+		"Id": 251030,
+		"Value": "Cannot store item.\nStorage is full."
+	},
+	{
+		"Id": 251031,
+		"Value": "Cannot retrieve item.\nInventory is full."
+	},
+	{
+		"Id": 261000,
+		"Value": "Insufficient memory slots"
+	},
+	{
+		"Id": 261001,
+		"Value": "Insufficient free slots"
+	},
+	{
+		"Id": 261002,
+		"Value": "No memory slots"
+	},
+	{
+		"Id": 261003,
+		"Value": "Cannot memorize duplicate sorceries or incantations"
+	},
+	{
+		"Id": 261004,
+		"Value": "Cannot use this sorcery or incantation with present attributes"
+	},
+	{
+		"Id": 280001,
+		"Value": "Restoring all default settings.\nIs that okay?"
+	},
+	{
+		"Id": 281000,
+		"Value": "Cannot set duplicate items"
+	},
+	{
+		"Id": 290001,
+		"Value": "Abandon this character and return to character base selection?"
+	},
+	{
+		"Id": 290002,
+		"Value": "Starting game with this character.\nIs that okay?"
+	},
+	{
+		"Id": 290003,
+		"Value": "A name is required.\n\nEnter a name to finish creating this character."
+	},
+	{
+		"Id": 290004,
+		"Value": "Failed to save character information"
+	},
+	{
+		"Id": 290011,
+		"Value": "Changes will be discarded.\nIs that okay?"
+	},
+	{
+		"Id": 290020,
+		"Value": "Selected spelling contained inappropriate language\nand could not be used as a character name.\n\nEnter another name."
+	},
+	{
+		"Id": 290030,
+		"Value": "Changing gender will reset certain changes.\n\nOkay?"
+	},
+	{
+		"Id": 290040,
+		"Value": "Changing appearance will mean losing any unsaved changes.\n\nIs that okay?"
+	},
+	{
+		"Id": 290101,
+		"Value": "Discard changes and stop applying cosmetics?"
+	},
+	{
+		"Id": 290102,
+		"Value": "Finish applying cosmetics and proceed with this character?"
+	},
+	{
+		"Id": 290103,
+		"Value": "A name is required.\nEnter a name to finish applying cosmetics."
+	},
+	{
+		"Id": 290121,
+		"Value": "Discard changes and stop applying cosmetics?"
+	},
+	{
+		"Id": 290122,
+		"Value": "Finish applying cosmetics and proceed with this character?"
+	},
+	{
+		"Id": 290123,
+		"Value": "A name is required.\nEnter a name to finish applying cosmetics."
+	},
+	{
+		"Id": 290200,
+		"Value": "Save present appearance as a favorite?"
+	},
+	{
+		"Id": 290201,
+		"Value": "Overwrite favorite slot and save present appearance?"
+	},
+	{
+		"Id": 290202,
+		"Value": "Discard present changes and load favorite?"
+	},
+	{
+		"Id": 290203,
+		"Value": "Cannot load appearances corresponding to a different body type"
+	},
+	{
+		"Id": 290204,
+		"Value": "Deleting selected favorite.\nIs that okay?"
+	},
+	{
+		"Id": 290210,
+		"Value": "No favorites saved"
+	},
+	{
+		"Id": 290300,
+		"Value": "Cannot be edited at this time.\nPlease set \"Eye Alteration\" to OFF to edit this."
+	},
+	{
+		"Id": 311000,
+		"Value": "Deleting this message.\nIs that okay?"
+	},
+	{
+		"Id": 311001,
+		"Value": "Applaud this message?"
+	},
+	{
+		"Id": 311002,
+		"Value": "Disparage this message?"
+	},
+	{
+		"Id": 321000,
+		"Value": "Create this message"
+	},
+	{
+		"Id": 321001,
+		"Value": "This will delete message in progress.\nIs that okay?"
+	},
+	{
+		"Id": 322000,
+		"Value": "Delete this message from list?"
+	},
+	{
+		"Id": 334510,
+		"Value": "Unable to acquire <?itemName?>.\nThis would exceed the maximum able to be held\nin inventory and storage."
+	},
+	{
+		"Id": 334511,
+		"Value": "Unable to acquire every <?itemName?>.\nThis would exceed the maximum able to be held\nin inventory and storage."
+	},
+	{
+		"Id": 334520,
+		"Value": "Some items could not be acquired as they would\nexceed the maximum able to be held in inventory\nand storage"
+	},
+	{
+		"Id": 401172,
+		"Value": "Online connection is required to play\nELDEN RING Network Test Version.\nReturning to title menu."
+	},
+	{
+		"Id": 401701,
+		"Value": "<?sysmsg@401701?>"
+	},
+	{
+		"Id": 404010,
+		"Value": "Discard present changes and return to previous page?"
+	},
+	{
+		"Id": 404020,
+		"Value": "With HDR setting ON:\nPicture can be adjusted from the in-game system menu"
+	},
+	{
+		"Id": 406011,
+		"Value": "Starting with selected profile"
+	},
+	{
+		"Id": 406012,
+		"Value": "Delete selected profile and begin a new game?"
+	},
+	{
+		"Id": 406013,
+		"Value": "Deleting selected profile.\nIs that okay?"
+	},
+	{
+		"Id": 450000,
+		"Value": "Begin Journey <?nextLoopCount?>?\nIf you do not start over now, you can choose to begin\nJourney <?nextLoopCount?> later at the Table of Lost Grace\nin Roundtable Hold."
+	},
+	{
+		"Id": 450001,
+		"Value": "If you begin Journey <?nextLoopCount?>, you will not be able\nto return to the present world of Journey <?loopCount?>.\nBegin Journey <?nextLoopCount?>?"
+	},
+	{
+		"Id": 502000,
+		"Value": "Send chosen player back to their world?"
+	},
+	{
+		"Id": 502001,
+		"Value": "No player to send back"
+	},
+	{
+		"Id": 550000,
+		"Value": "Multiplayer is temporarily disabled due to repeated irregular termination\nof multiplayer sessions"
+	},
+	{
+		"Id": 550100,
+		"Value": "You were returned to your world due to inactivity"
+	},
+	{
+		"Id": 620001,
+		"Value": "Return to title menu?"
+	},
+	{
+		"Id": 620010,
+		"Value": "Close control guide and begin game?"
+	},
+	{
+		"Id": 620100,
+		"Value": "As this product is still in development, some functionality\n(including features that use the Xbox network) may not\nbe working as intended, and may result in shutdown"
+	},
+	{
+		"Id": 620110,
+		"Value": "Unlike the final release, this product cannot be played\nwithout a network connection"
+	}
+]

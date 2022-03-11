@@ -1,0 +1,394 @@
+[
+	{
+		"Id": 10000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 10100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 10200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 10300,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 10500,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 10600,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 10700,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 10800,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 10900,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 11000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 11100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 11200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 11300,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 11400,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 11500,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 11600,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 11700,
+		"Value": "Grants affinities and Skills to an armament"
+	},
+	{
+		"Id": 11800,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 11900,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 12000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 12100,
+		"Value": "Assign attack type and skill to weapon"
+	},
+	{
+		"Id": 12200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 12300,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 12400,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 12500,
+		"Value": "Grants affinities and Skills to an armament"
+	},
+	{
+		"Id": 20000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 20100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 20200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 20300,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 20400,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 20500,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 20700,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 20800,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 20900,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 21000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 21200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 21300,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 21400,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 21600,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 21700,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 21800,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 21900,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 22000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 22100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 22200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 22300,
+		"Value": "Grants affinities and Skills to an armament"
+	},
+	{
+		"Id": 22400,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 22500,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 22600,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 22700,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 22800,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 30000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 30100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 30200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 30300,
+		"Value": "Grants affinities and Skills to an armament"
+	},
+	{
+		"Id": 30400,
+		"Value": "Grants affinities and Skills to an armament"
+	},
+	{
+		"Id": 30500,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 30600,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 30700,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 30800,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 30900,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 31000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 40000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 40100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 40200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 40400,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 40500,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 40600,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 40700,
+		"Value": "Assign attack type and skill to weapon"
+	},
+	{
+		"Id": 50100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 50200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 50300,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 50400,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 50500,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 50600,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 50700,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 50800,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 50900,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 60000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 60100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 60200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 60300,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 60400,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 60500,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 60600,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 60700,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 65000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 65100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 65200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 65300,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 65400,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 70000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 70100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 70200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 80000,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 80100,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 80200,
+		"Value": "Grants affinities and skills to an armament"
+	},
+	{
+		"Id": 85000,
+		"Value": "Grants affinities and skills to an armament"
+	}
+]

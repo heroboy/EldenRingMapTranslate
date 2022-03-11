@@ -1,0 +1,574 @@
+[
+	{
+		"Id": 2001,
+		"Value": "KG_R_R"
+	},
+	{
+		"Id": 2002,
+		"Value": "KG_R_D"
+	},
+	{
+		"Id": 2003,
+		"Value": "KG_L_U"
+	},
+	{
+		"Id": 2004,
+		"Value": "KG_L_D"
+	},
+	{
+		"Id": 2005,
+		"Value": "KG_L_L"
+	},
+	{
+		"Id": 2006,
+		"Value": "KG_L_R"
+	},
+	{
+		"Id": 2007,
+		"Value": "KG_L_UD"
+	},
+	{
+		"Id": 2008,
+		"Value": "KG_L_LR"
+	},
+	{
+		"Id": 2009,
+		"Value": "KG_L_UDLR"
+	},
+	{
+		"Id": 2010,
+		"Value": "KG_R_U"
+	},
+	{
+		"Id": 2011,
+		"Value": "KG_R_L"
+	},
+	{
+		"Id": 2012,
+		"Value": "KG_L1"
+	},
+	{
+		"Id": 2013,
+		"Value": "KG_R1"
+	},
+	{
+		"Id": 2014,
+		"Value": "KG_L2"
+	},
+	{
+		"Id": 2015,
+		"Value": "KG_R2"
+	},
+	{
+		"Id": 2016,
+		"Value": "KG_L3"
+	},
+	{
+		"Id": 2017,
+		"Value": "KG_R3"
+	},
+	{
+		"Id": 2018,
+		"Value": "KG_LS"
+	},
+	{
+		"Id": 2019,
+		"Value": "KG_RS"
+	},
+	{
+		"Id": 2020,
+		"Value": "KG_Back"
+	},
+	{
+		"Id": 2021,
+		"Value": "KG_Start"
+	},
+	{
+		"Id": 2201,
+		"Value": "KG_TEX_Copyright"
+	},
+	{
+		"Id": 2202,
+		"Value": "KG_TEX_R_mark"
+	},
+	{
+		"Id": 2203,
+		"Value": "KG_TEX_TradeMark"
+	},
+	{
+		"Id": 2205,
+		"Value": "KG_TEX_R_mark_LineHelp"
+	},
+	{
+		"Id": 712010,
+		"Value": "KG_Mouse_Left"
+	},
+	{
+		"Id": 712011,
+		"Value": "KG_Mouse_Right"
+	},
+	{
+		"Id": 712014,
+		"Value": "KG_Mouse_Wheel_U"
+	},
+	{
+		"Id": 712015,
+		"Value": "KG_Mouse_Wheel_D"
+	},
+	{
+		"Id": 712016,
+		"Value": "KG_Mouse_Middle"
+	},
+	{
+		"Id": 712020,
+		"Value": "KG_Mouse_Button_4"
+	},
+	{
+		"Id": 712021,
+		"Value": "KG_Mouse_Button_5"
+	},
+	{
+		"Id": 712022,
+		"Value": "KG_Mouse_Button_6"
+	},
+	{
+		"Id": 712023,
+		"Value": "KG_Mouse_Button_7"
+	},
+	{
+		"Id": 712024,
+		"Value": "KG_Mouse_Button_8"
+	},
+	{
+		"Id": 712025,
+		"Value": "KG_Mouse_UDLR"
+	},
+	{
+		"Id": 712100,
+		"Value": "KG_Key_BackSpace"
+	},
+	{
+		"Id": 712101,
+		"Value": "KG_Key_Tab"
+	},
+	{
+		"Id": 712102,
+		"Value": "KG_Key_Enter"
+	},
+	{
+		"Id": 712103,
+		"Value": "KG_Key_Shift"
+	},
+	{
+		"Id": 712104,
+		"Value": "KG_Key_Shift_L"
+	},
+	{
+		"Id": 712105,
+		"Value": "KG_Key_Shift_R"
+	},
+	{
+		"Id": 712106,
+		"Value": "KG_Key_Ctrl"
+	},
+	{
+		"Id": 712107,
+		"Value": "KG_Key_Ctrl_L"
+	},
+	{
+		"Id": 712108,
+		"Value": "KG_Key_Ctrl_R"
+	},
+	{
+		"Id": 712109,
+		"Value": "KG_Key_Alt"
+	},
+	{
+		"Id": 712110,
+		"Value": "KG_Key_Alt_L"
+	},
+	{
+		"Id": 712111,
+		"Value": "KG_Key_Alt_R"
+	},
+	{
+		"Id": 712112,
+		"Value": "KG_Key_Alt_LR"
+	},
+	{
+		"Id": 712113,
+		"Value": "KG_Key_AltGr"
+	},
+	{
+		"Id": 712114,
+		"Value": "KG_Key_CapsLock"
+	},
+	{
+		"Id": 712115,
+		"Value": "KG_Key_Esc"
+	},
+	{
+		"Id": 712116,
+		"Value": "KG_Key_Space"
+	},
+	{
+		"Id": 712117,
+		"Value": "KG_Key_PageUp"
+	},
+	{
+		"Id": 712118,
+		"Value": "KG_Key_PageDown"
+	},
+	{
+		"Id": 712119,
+		"Value": "KG_Key_Home"
+	},
+	{
+		"Id": 712120,
+		"Value": "KG_Key_End"
+	},
+	{
+		"Id": 712121,
+		"Value": "KG_Key_Insert"
+	},
+	{
+		"Id": 712122,
+		"Value": "KG_Key_Delete"
+	},
+	{
+		"Id": 712150,
+		"Value": "KG_Key_Arrow_L"
+	},
+	{
+		"Id": 712151,
+		"Value": "KG_Key_Arrow_U"
+	},
+	{
+		"Id": 712152,
+		"Value": "KG_Key_Arrow_R"
+	},
+	{
+		"Id": 712153,
+		"Value": "KG_Key_Arrow_D"
+	},
+	{
+		"Id": 712154,
+		"Value": "KG_Key_Arrow_UD"
+	},
+	{
+		"Id": 712155,
+		"Value": "KG_Key_Arrow_LR"
+	},
+	{
+		"Id": 712156,
+		"Value": "KG_Key_Arrow_UDLR"
+	},
+	{
+		"Id": 712200,
+		"Value": "KG_Key_0"
+	},
+	{
+		"Id": 712201,
+		"Value": "KG_Key_1"
+	},
+	{
+		"Id": 712202,
+		"Value": "KG_Key_2"
+	},
+	{
+		"Id": 712203,
+		"Value": "KG_Key_3"
+	},
+	{
+		"Id": 712204,
+		"Value": "KG_Key_4"
+	},
+	{
+		"Id": 712205,
+		"Value": "KG_Key_5"
+	},
+	{
+		"Id": 712206,
+		"Value": "KG_Key_6"
+	},
+	{
+		"Id": 712207,
+		"Value": "KG_Key_7"
+	},
+	{
+		"Id": 712208,
+		"Value": "KG_Key_8"
+	},
+	{
+		"Id": 712209,
+		"Value": "KG_Key_9"
+	},
+	{
+		"Id": 712210,
+		"Value": "KG_Key_A"
+	},
+	{
+		"Id": 712211,
+		"Value": "KG_Key_B"
+	},
+	{
+		"Id": 712212,
+		"Value": "KG_Key_C"
+	},
+	{
+		"Id": 712213,
+		"Value": "KG_Key_D"
+	},
+	{
+		"Id": 712214,
+		"Value": "KG_Key_E"
+	},
+	{
+		"Id": 712215,
+		"Value": "KG_Key_F"
+	},
+	{
+		"Id": 712216,
+		"Value": "KG_Key_G"
+	},
+	{
+		"Id": 712217,
+		"Value": "KG_Key_H"
+	},
+	{
+		"Id": 712218,
+		"Value": "KG_Key_I"
+	},
+	{
+		"Id": 712219,
+		"Value": "KG_Key_J"
+	},
+	{
+		"Id": 712220,
+		"Value": "KG_Key_K"
+	},
+	{
+		"Id": 712221,
+		"Value": "KG_Key_L"
+	},
+	{
+		"Id": 712222,
+		"Value": "KG_Key_M"
+	},
+	{
+		"Id": 712223,
+		"Value": "KG_Key_N"
+	},
+	{
+		"Id": 712224,
+		"Value": "KG_Key_O"
+	},
+	{
+		"Id": 712225,
+		"Value": "KG_Key_P"
+	},
+	{
+		"Id": 712226,
+		"Value": "KG_Key_Q"
+	},
+	{
+		"Id": 712227,
+		"Value": "KG_Key_R"
+	},
+	{
+		"Id": 712228,
+		"Value": "KG_Key_S"
+	},
+	{
+		"Id": 712229,
+		"Value": "KG_Key_T"
+	},
+	{
+		"Id": 712230,
+		"Value": "KG_Key_U"
+	},
+	{
+		"Id": 712231,
+		"Value": "KG_Key_V"
+	},
+	{
+		"Id": 712232,
+		"Value": "KG_Key_W"
+	},
+	{
+		"Id": 712233,
+		"Value": "KG_Key_X"
+	},
+	{
+		"Id": 712234,
+		"Value": "KG_Key_Y"
+	},
+	{
+		"Id": 712235,
+		"Value": "KG_Key_Z"
+	},
+	{
+		"Id": 712250,
+		"Value": "KG_Key_Comma"
+	},
+	{
+		"Id": 712251,
+		"Value": "KG_Key_Period"
+	},
+	{
+		"Id": 712252,
+		"Value": "KG_Key_Semicolon"
+	},
+	{
+		"Id": 712253,
+		"Value": "KG_Key_Apostrophe"
+	},
+	{
+		"Id": 712260,
+		"Value": "KG_Key_WASD"
+	},
+	{
+		"Id": 712261,
+		"Value": "KG_Key_WS"
+	},
+	{
+		"Id": 712262,
+		"Value": "KG_Key_AD"
+	},
+	{
+		"Id": 712270,
+		"Value": "KG_Key_ZQSD"
+	},
+	{
+		"Id": 712271,
+		"Value": "KG_Key_ZS"
+	},
+	{
+		"Id": 712272,
+		"Value": "KG_Key_QD"
+	},
+	{
+		"Id": 712280,
+		"Value": "KG_Key_CommaAQE"
+	},
+	{
+		"Id": 712281,
+		"Value": "KG_Key_CommaQ"
+	},
+	{
+		"Id": 712282,
+		"Value": "KG_Key_AE"
+	},
+	{
+		"Id": 712310,
+		"Value": "KG_Key_Num_0"
+	},
+	{
+		"Id": 712311,
+		"Value": "KG_Key_Num_1"
+	},
+	{
+		"Id": 712312,
+		"Value": "KG_Key_Num_2"
+	},
+	{
+		"Id": 712313,
+		"Value": "KG_Key_Num_3"
+	},
+	{
+		"Id": 712314,
+		"Value": "KG_Key_Num_4"
+	},
+	{
+		"Id": 712315,
+		"Value": "KG_Key_Num_5"
+	},
+	{
+		"Id": 712316,
+		"Value": "KG_Key_Num_6"
+	},
+	{
+		"Id": 712317,
+		"Value": "KG_Key_Num_7"
+	},
+	{
+		"Id": 712318,
+		"Value": "KG_Key_Num_8"
+	},
+	{
+		"Id": 712319,
+		"Value": "KG_Key_Num_9"
+	},
+	{
+		"Id": 712320,
+		"Value": "KG_Key_Num_Enter"
+	},
+	{
+		"Id": 712323,
+		"Value": "KG_Key_Num_Slash"
+	},
+	{
+		"Id": 712324,
+		"Value": "KG_Key_Num_Asterisk"
+	},
+	{
+		"Id": 712325,
+		"Value": "KG_Key_Num_Minus"
+	},
+	{
+		"Id": 712326,
+		"Value": "KG_Key_Num_Plus"
+	},
+	{
+		"Id": 712327,
+		"Value": "KG_Key_Num_Period"
+	},
+	{
+		"Id": 712401,
+		"Value": "KG_Key_F1"
+	},
+	{
+		"Id": 712402,
+		"Value": "KG_Key_F2"
+	},
+	{
+		"Id": 712403,
+		"Value": "KG_Key_F3"
+	},
+	{
+		"Id": 712404,
+		"Value": "KG_Key_F4"
+	},
+	{
+		"Id": 712405,
+		"Value": "KG_Key_F5"
+	},
+	{
+		"Id": 712406,
+		"Value": "KG_Key_F6"
+	},
+	{
+		"Id": 712407,
+		"Value": "KG_Key_F7"
+	},
+	{
+		"Id": 712408,
+		"Value": "KG_Key_F8"
+	},
+	{
+		"Id": 712409,
+		"Value": "KG_Key_F9"
+	},
+	{
+		"Id": 712410,
+		"Value": "KG_Key_F10"
+	},
+	{
+		"Id": 712411,
+		"Value": "KG_Key_F11"
+	},
+	{
+		"Id": 712412,
+		"Value": "KG_Key_F12"
+	}
+]

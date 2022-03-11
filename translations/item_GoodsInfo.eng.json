@@ -1,0 +1,6658 @@
+[
+	{
+		"Id": 100,
+		"Value": "Creates a summon sign for cooperative multiplayer"
+	},
+	{
+		"Id": 101,
+		"Value": "Creates a summon sign for competitive multiplayer"
+	},
+	{
+		"Id": 102,
+		"Value": "Attempts invasion of other player's world"
+	},
+	{
+		"Id": 103,
+		"Value": "Sends another, or oneself, home"
+	},
+	{
+		"Id": 104,
+		"Value": "When invaded, requests the aid of a hunter"
+	},
+	{
+		"Id": 105,
+		"Value": "Answers requests for summoning from hunters"
+	},
+	{
+		"Id": 106,
+		"Value": "Used to write messages to other worlds"
+	},
+	{
+		"Id": 107,
+		"Value": "Attempts repeat invasion of last targeted world"
+	},
+	{
+		"Id": 108,
+		"Value": "Lures in invaders"
+	},
+	{
+		"Id": 109,
+		"Value": "Sends a co-op sign to summoning pools"
+	},
+	{
+		"Id": 110,
+		"Value": "Sends a hostile sign to summoning pools"
+	},
+	{
+		"Id": 111,
+		"Value": "Attempts invasion of other player's world"
+	},
+	{
+		"Id": 112,
+		"Value": "Attempts invasion of other player's world"
+	},
+	{
+		"Id": 113,
+		"Value": "Attempts repeat invasion of last targeted world"
+	},
+	{
+		"Id": 114,
+		"Value": "Attempts repeat invasion of last targeted world"
+	},
+	{
+		"Id": 115,
+		"Value": "Lose all runes, return to last site of lost grace visited"
+	},
+	{
+		"Id": 130,
+		"Value": "Summon and ride Torrent, the spectral steed"
+	},
+	{
+		"Id": 135,
+		"Value": "Give blessing of blood to enemies in invaded world"
+	},
+	{
+		"Id": 150,
+		"Value": "Reveals co-op and hostile summoning signs"
+	},
+	{
+		"Id": 170,
+		"Value": "Creates a summon sign for cooperative multiplayer"
+	},
+	{
+		"Id": 171,
+		"Value": "Creates a summon sign for competitive multiplayer"
+	},
+	{
+		"Id": 172,
+		"Value": "Attempts invasion of other player's world"
+	},
+	{
+		"Id": 174,
+		"Value": "When invaded, requests the aid of a hunter"
+	},
+	{
+		"Id": 175,
+		"Value": "Answers requests for summoning from hunters"
+	},
+	{
+		"Id": 178,
+		"Value": "Lures in invaders"
+	},
+	{
+		"Id": 179,
+		"Value": "Sends a co-op summoning sign to summoning pools"
+	},
+	{
+		"Id": 180,
+		"Value": "Sends a hostile summoning sign to summoning pools"
+	},
+	{
+		"Id": 181,
+		"Value": "Summon and ride Torrent, the spectral steed"
+	},
+	{
+		"Id": 182,
+		"Value": "Reveals co-op and hostile summoning signs"
+	},
+	{
+		"Id": 183,
+		"Value": "Attempts invasion of other player's world"
+	},
+	{
+		"Id": 184,
+		"Value": "Attempts invasion of other player's world"
+	},
+	{
+		"Id": 190,
+		"Value": "Grants the blessing of an equipped Great Rune upon use"
+	},
+	{
+		"Id": 191,
+		"Value": "Raises all attributes"
+	},
+	{
+		"Id": 192,
+		"Value": "Raises maximum HP, FP and stamina"
+	},
+	{
+		"Id": 193,
+		"Value": "Greatly raises maximum HP"
+	},
+	{
+		"Id": 194,
+		"Value": "Restores HP upon attacking enemies"
+	},
+	{
+		"Id": 195,
+		"Value": "Grants a blessing of blood to phantoms"
+	},
+	{
+		"Id": 196,
+		"Value": "Attacks recover HP after damage is taken"
+	},
+	{
+		"Id": 200,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 201,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 202,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 203,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 204,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 205,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 206,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 207,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 208,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 209,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 210,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 211,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 212,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 213,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 214,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 215,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 220,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 221,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 222,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 223,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 224,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 225,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 226,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 227,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 228,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 229,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 230,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 231,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 232,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 233,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 234,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 235,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 250,
+		"Value": "Bestows various special effects"
+	},
+	{
+		"Id": 251,
+		"Value": "Bestows various special effects, but is empty now"
+	},
+	{
+		"Id": 300,
+		"Value": "Throw at enemies to inflict fire damage"
+	},
+	{
+		"Id": 301,
+		"Value": "Throw at enemies to inflict heavy fire damage"
+	},
+	{
+		"Id": 302,
+		"Value": "Uses FP. Throw at enemies to inflict heavy fire damage."
+	},
+	{
+		"Id": 320,
+		"Value": "Throw at enemies to inflict lightning damage"
+	},
+	{
+		"Id": 321,
+		"Value": "Throw at enemies to inflict heavy lightning damage"
+	},
+	{
+		"Id": 330,
+		"Value": "Throw at enemies to cause buildup of deadly poison"
+	},
+	{
+		"Id": 340,
+		"Value": "Throw at enemies to release a swarm of flies"
+	},
+	{
+		"Id": 350,
+		"Value": "Uses FP. Throw at enemies to inflict holy damage."
+	},
+	{
+		"Id": 351,
+		"Value": "Uses FP. Throw at enemies to inflict heavy holy damage."
+	},
+	{
+		"Id": 360,
+		"Value": "Throw at enemies to cause buildup of frost"
+	},
+	{
+		"Id": 370,
+		"Value": "Throw at enemies to cause buildup of poison"
+	},
+	{
+		"Id": 380,
+		"Value": "Throw at enemies to soak them in oil"
+	},
+	{
+		"Id": 390,
+		"Value": "Uses FP. Throw to lure foes of human build only."
+	},
+	{
+		"Id": 391,
+		"Value": "Uses FP. Lures beasts only."
+	},
+	{
+		"Id": 400,
+		"Value": "Throw behind to inflict fire damage"
+	},
+	{
+		"Id": 420,
+		"Value": "Throw behind to inflict lightning damage"
+	},
+	{
+		"Id": 430,
+		"Value": "Throw behind to cause buildup of deadly poison"
+	},
+	{
+		"Id": 440,
+		"Value": "Throw behind to cause buildup of poison"
+	},
+	{
+		"Id": 450,
+		"Value": "Throw behind to douse enemies in oil"
+	},
+	{
+		"Id": 460,
+		"Value": "Uses FP. Throw behind to inflict magic damage."
+	},
+	{
+		"Id": 470,
+		"Value": "Throw behind to release a swarm of flies"
+	},
+	{
+		"Id": 480,
+		"Value": "Throw behind to cause frostbite build-up"
+	},
+	{
+		"Id": 490,
+		"Value": "Creates heat cloud, causing continuous fire damage"
+	},
+	{
+		"Id": 510,
+		"Value": "Uses FP. Throw behind to inflict holy damage."
+	},
+	{
+		"Id": 600,
+		"Value": "Creates heat cloud, causing continuous fire damage"
+	},
+	{
+		"Id": 610,
+		"Value": "Uses FP. Throw to impede healing using a flask of tears."
+	},
+	{
+		"Id": 630,
+		"Value": "Throw to douse enemy with accursed blood"
+	},
+	{
+		"Id": 640,
+		"Value": "Uses FP. Throw to cause buildup of sleep."
+	},
+	{
+		"Id": 650,
+		"Value": "Uses FP. Throw to spawn vengeful spirits."
+	},
+	{
+		"Id": 660,
+		"Value": "Uses FP. Throw to inflict magic damage."
+	},
+	{
+		"Id": 661,
+		"Value": "Uses FP. Throw to inflict heavy magic damage."
+	},
+	{
+		"Id": 670,
+		"Value": "Throw at enemies to cause buildup of scarlet rot"
+	},
+	{
+		"Id": 810,
+		"Value": "On horseback, feed to Torrent to restore HP"
+	},
+	{
+		"Id": 811,
+		"Value": "On horseback, feed to Torrent to greatly restore HP"
+	},
+	{
+		"Id": 812,
+		"Value": "On horseback, feed to Torrent to vastly restore HP"
+	},
+	{
+		"Id": 820,
+		"Value": "Greatly boosts physical damage negation for a time"
+	},
+	{
+		"Id": 830,
+		"Value": "Boosts physical damage negation for a time"
+	},
+	{
+		"Id": 900,
+		"Value": "Alleviates poison buildup and cures poison"
+	},
+	{
+		"Id": 910,
+		"Value": "Alleviates impending blood loss"
+	},
+	{
+		"Id": 920,
+		"Value": "Alleviates buildup of frost"
+	},
+	{
+		"Id": 930,
+		"Value": "Alleviates buildup of sleep"
+	},
+	{
+		"Id": 940,
+		"Value": "Alleviates scarlet rot buildup and cures rot"
+	},
+	{
+		"Id": 950,
+		"Value": "Alleviates death blight buildup"
+	},
+	{
+		"Id": 960,
+		"Value": "Alleviates madness buildup"
+	},
+	{
+		"Id": 1000,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1001,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1002,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1003,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1004,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1005,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1006,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1007,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1008,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1009,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1010,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1011,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1012,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1013,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1014,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1015,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1016,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1017,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1018,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1019,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1020,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1021,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1022,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1023,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1024,
+		"Value": "Restores HP, but is currently empty"
+	},
+	{
+		"Id": 1025,
+		"Value": "Restores HP"
+	},
+	{
+		"Id": 1050,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1051,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1052,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1053,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1054,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1055,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1056,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1057,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1058,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1059,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1060,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1061,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1062,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1063,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1064,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1065,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1066,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1067,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1068,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1069,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1070,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1071,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1072,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1073,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1074,
+		"Value": "Restores FP, but is currently empty"
+	},
+	{
+		"Id": 1075,
+		"Value": "Restores FP"
+	},
+	{
+		"Id": 1100,
+		"Value": "Temporarily boosts stamina recovery"
+	},
+	{
+		"Id": 1110,
+		"Value": "Temporarily boosts immunity"
+	},
+	{
+		"Id": 1120,
+		"Value": "Temporarily boosts robustness"
+	},
+	{
+		"Id": 1130,
+		"Value": "Temporarily boosts focus"
+	},
+	{
+		"Id": 1140,
+		"Value": "Temporarily boosts immunity, robustness and focus"
+	},
+	{
+		"Id": 1150,
+		"Value": "Temporarily boosts magic damage negation"
+	},
+	{
+		"Id": 1160,
+		"Value": "Temporarily boosts fire damage negation"
+	},
+	{
+		"Id": 1170,
+		"Value": "Temporarily boosts lightning damage negation"
+	},
+	{
+		"Id": 1180,
+		"Value": "Temporarily boosts holy damage negation"
+	},
+	{
+		"Id": 1190,
+		"Value": "Temporarily boosts item discovery"
+	},
+	{
+		"Id": 1200,
+		"Value": "Boosts rune acquisition for a time"
+	},
+	{
+		"Id": 1210,
+		"Value": "Temporarily boosts physical attack"
+	},
+	{
+		"Id": 1220,
+		"Value": "Boost instant death resistance for a short time"
+	},
+	{
+		"Id": 1235,
+		"Value": "Restores HP but causes poison buildup"
+	},
+	{
+		"Id": 1240,
+		"Value": "Yellowing, oozing eyeball of the infirm"
+	},
+	{
+		"Id": 1290,
+		"Value": "Use to gradually recover FP"
+	},
+	{
+		"Id": 1310,
+		"Value": "Temporarily boosts immunity"
+	},
+	{
+		"Id": 1320,
+		"Value": "Temporarily boosts robustness"
+	},
+	{
+		"Id": 1330,
+		"Value": "Temporarily boosts focus"
+	},
+	{
+		"Id": 1340,
+		"Value": "Temporarily boosts immunity, robustness and focus"
+	},
+	{
+		"Id": 1350,
+		"Value": "Boost instant death resistance for a short time"
+	},
+	{
+		"Id": 1400,
+		"Value": "Coats armament, inflicting fire damage"
+	},
+	{
+		"Id": 1410,
+		"Value": "Coats armament, inflicting lightning damage"
+	},
+	{
+		"Id": 1420,
+		"Value": "Coats armament, inflicting magic damage"
+	},
+	{
+		"Id": 1430,
+		"Value": "Coats armament, inflicting holy damage"
+	},
+	{
+		"Id": 1440,
+		"Value": "Coats armament, inflicting blood loss"
+	},
+	{
+		"Id": 1450,
+		"Value": "Coats armament, inflicting sleep"
+	},
+	{
+		"Id": 1460,
+		"Value": "Coats armament, inflicting poison"
+	},
+	{
+		"Id": 1470,
+		"Value": "Coats armament, inflicting frost"
+	},
+	{
+		"Id": 1480,
+		"Value": "Coats armament, granting special dragon attacks"
+	},
+	{
+		"Id": 1490,
+		"Value": "Coats armament, inflicting scarlet rot"
+	},
+	{
+		"Id": 1500,
+		"Value": "Quickly coats armament, inflicting fire damage"
+	},
+	{
+		"Id": 1510,
+		"Value": "Quickly coats armament, inflicting lightning damage"
+	},
+	{
+		"Id": 1520,
+		"Value": "Quickly coats armament, inflicting magic damage"
+	},
+	{
+		"Id": 1530,
+		"Value": "Quickly coats armament, inflicting holy damage"
+	},
+	{
+		"Id": 1540,
+		"Value": "Quickly coats armament, inflicting blood loss"
+	},
+	{
+		"Id": 1550,
+		"Value": "Quickly coats armament, inflicting sleep"
+	},
+	{
+		"Id": 1560,
+		"Value": "Quickly coats armament, inflicting poison"
+	},
+	{
+		"Id": 1570,
+		"Value": "Quickly coats weapon, inflicting frostbite"
+	},
+	{
+		"Id": 1590,
+		"Value": "Quickly coats armament, inflicting scarlet rot"
+	},
+	{
+		"Id": 1690,
+		"Value": "Boosts guarding ability and all damage negation"
+	},
+	{
+		"Id": 1700,
+		"Value": "Throw at enemies to inflict damage"
+	},
+	{
+		"Id": 1710,
+		"Value": "Throw at enemies to inflict damage"
+	},
+	{
+		"Id": 1720,
+		"Value": "Throw at enemies to inflict damage and build up poison"
+	},
+	{
+		"Id": 1730,
+		"Value": "Throw at enemies to inflict damage and build up onset of blood loss"
+	},
+	{
+		"Id": 1740,
+		"Value": "Uses FP. Throw to inflict magic damage."
+	},
+	{
+		"Id": 1750,
+		"Value": "Throw fanned-out knives at enemies to inflict damage"
+	},
+	{
+		"Id": 1760,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 1810,
+		"Value": "Utterly entrances wild beasts"
+	},
+	{
+		"Id": 1830,
+		"Value": "Explodes when thrown, inflicting fire damage"
+	},
+	{
+		"Id": 1831,
+		"Value": "Explodes when thrown together, inflicting fire damage"
+	},
+	{
+		"Id": 1840,
+		"Value": "Throw at enemies to cause buildup of poison"
+	},
+	{
+		"Id": 1841,
+		"Value": "Throw together to cause buildup of poison"
+	},
+	{
+		"Id": 2020,
+		"Value": "Shines with colored light when placed, serving as a guide"
+	},
+	{
+		"Id": 2030,
+		"Value": "Emits a faint light from the location it is placed"
+	},
+	{
+		"Id": 2040,
+		"Value": "Allows viewer to see faraway things"
+	},
+	{
+		"Id": 2050,
+		"Value": "Light shows the path, but without order"
+	},
+	{
+		"Id": 2070,
+		"Value": "Attach to waist to illuminate surroundings"
+	},
+	{
+		"Id": 2080,
+		"Value": "Deflects the power of the Black Blade"
+	},
+	{
+		"Id": 2090,
+		"Value": "Beast Clergyman seeks and devours these"
+	},
+	{
+		"Id": 2100,
+		"Value": "Temporarily reduces fall damage and sound"
+	},
+	{
+		"Id": 2120,
+		"Value": "Removes filth and accumulations on the body"
+	},
+	{
+		"Id": 2130,
+		"Value": "Carry out Absolution at the Church of Vows"
+	},
+	{
+		"Id": 2140,
+		"Value": "Briefly binds Margit, once imprisoned, to earth"
+	},
+	{
+		"Id": 2150,
+		"Value": "Briefly binds Mohg, once imprisoned, to earth"
+	},
+	{
+		"Id": 2160,
+		"Value": "Audience with Mohg will be granted, one day"
+	},
+	{
+		"Id": 2190,
+		"Value": "Subdues a once-accepted frenzied flame"
+	},
+	{
+		"Id": 2200,
+		"Value": "Emits a voice that says \"Hello\""
+	},
+	{
+		"Id": 2201,
+		"Value": "Emits a voice that says \"Thank you\""
+	},
+	{
+		"Id": 2202,
+		"Value": "Emits a voice that says \"Apologies\""
+	},
+	{
+		"Id": 2203,
+		"Value": "Emits a voice that says \"Wonderful\""
+	},
+	{
+		"Id": 2204,
+		"Value": "Emits a voice that says \"Please help\""
+	},
+	{
+		"Id": 2205,
+		"Value": "Emits a voice that says \"My beloved\""
+	},
+	{
+		"Id": 2206,
+		"Value": "Emits a voice that says \"Let's get to it\""
+	},
+	{
+		"Id": 2207,
+		"Value": "Emits a voice that says \"You're beautiful\""
+	},
+	{
+		"Id": 2290,
+		"Value": "Use to gain many runes"
+	},
+	{
+		"Id": 2900,
+		"Value": "Use to gain a small number of runes"
+	},
+	{
+		"Id": 2901,
+		"Value": "Use to gain a small number of runes"
+	},
+	{
+		"Id": 2902,
+		"Value": "Use to gain runes"
+	},
+	{
+		"Id": 2903,
+		"Value": "Use to gain runes"
+	},
+	{
+		"Id": 2904,
+		"Value": "Use to gain runes"
+	},
+	{
+		"Id": 2905,
+		"Value": "Use to gain many runes"
+	},
+	{
+		"Id": 2906,
+		"Value": "Use to gain many runes"
+	},
+	{
+		"Id": 2907,
+		"Value": "Use to gain many runes"
+	},
+	{
+		"Id": 2908,
+		"Value": "Use to gain many runes"
+	},
+	{
+		"Id": 2909,
+		"Value": "Use to gain a great many runes"
+	},
+	{
+		"Id": 2910,
+		"Value": "Use to gain a great many runes"
+	},
+	{
+		"Id": 2911,
+		"Value": "Use to gain a great many runes"
+	},
+	{
+		"Id": 2912,
+		"Value": "Use to gain a great many runes"
+	},
+	{
+		"Id": 2913,
+		"Value": "Use to gain a multitude of runes"
+	},
+	{
+		"Id": 2914,
+		"Value": "Use to gain an abundance of runes"
+	},
+	{
+		"Id": 2915,
+		"Value": "Use to gain an abundance of runes"
+	},
+	{
+		"Id": 2916,
+		"Value": "Use to gain an abundance of runes"
+	},
+	{
+		"Id": 2917,
+		"Value": "Use to gain an abundance of runes"
+	},
+	{
+		"Id": 2918,
+		"Value": "Use to gain an abundance of runes"
+	},
+	{
+		"Id": 2919,
+		"Value": "Use to gain an enormous abundance of runes"
+	},
+	{
+		"Id": 2950,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2951,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2952,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2953,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2954,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2955,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2956,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2957,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2958,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2959,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2960,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2961,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2962,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2963,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2964,
+		"Value": "Take the power of its namesake via Finger Reader"
+	},
+	{
+		"Id": 2990,
+		"Value": "Use to gain many runes"
+	},
+	{
+		"Id": 3000,
+		"Value": "Uses FP to spray spirit vapor"
+	},
+	{
+		"Id": 3010,
+		"Value": "Uses FP to unleash wraiths that chase down foes"
+	},
+	{
+		"Id": 3011,
+		"Value": "Uses FP to unleash many wraiths that chase down foes"
+	},
+	{
+		"Id": 3020,
+		"Value": "Uses FP to call down a deluge of light"
+	},
+	{
+		"Id": 3030,
+		"Value": "Uses FP to produce a magic bolt"
+	},
+	{
+		"Id": 3040,
+		"Value": "Uses FP to mimic nearby objects"
+	},
+	{
+		"Id": 3050,
+		"Value": "Break gem and use FP to produce a magic bolt"
+	},
+	{
+		"Id": 3051,
+		"Value": "Break gem and use FP to produce many magic bolts"
+	},
+	{
+		"Id": 3060,
+		"Value": "Uses FP to emit fan-shaped gravitational shockwave"
+	},
+	{
+		"Id": 3070,
+		"Value": "Uses FP to cause a gravitational explosion"
+	},
+	{
+		"Id": 3080,
+		"Value": "Uses FP to ring bell and calls prowling wraiths"
+	},
+	{
+		"Id": 3300,
+		"Value": "Consumes FP, allowing weapon to purify undead foes"
+	},
+	{
+		"Id": 3310,
+		"Value": "Uses FP to continuously heal nearby allies"
+	},
+	{
+		"Id": 3311,
+		"Value": "Uses FP to continuously heal chaos followers"
+	},
+	{
+		"Id": 3320,
+		"Value": "Reveals more messages from other worlds"
+	},
+	{
+		"Id": 3350,
+		"Value": "Uses FP to charm pierced enemy"
+	},
+	{
+		"Id": 3360,
+		"Value": "Uses FP to temporarily boost poise"
+	},
+	{
+		"Id": 3361,
+		"Value": "Uses FP to temporarily boost poise"
+	},
+	{
+		"Id": 3500,
+		"Value": "Boosts ally attack power and reduces incoming damage once"
+	},
+	{
+		"Id": 3510,
+		"Value": "Uses FP to scatter sparks in a wide area"
+	},
+	{
+		"Id": 3520,
+		"Value": "Uses FP to temporarily turn wielder's body to steel"
+	},
+	{
+		"Id": 3550,
+		"Value": "Uses FP to enter a temporary state of fervor"
+	},
+	{
+		"Id": 3580,
+		"Value": "Uses FP to release poison mist from the mouth"
+	},
+	{
+		"Id": 3610,
+		"Value": "Uses FP to release acid mist from the mouth"
+	},
+	{
+		"Id": 4000,
+		"Value": "Fires magic projectiles from glintstone"
+	},
+	{
+		"Id": 4001,
+		"Value": "Fires larger magic projectiles from glintstone"
+	},
+	{
+		"Id": 4010,
+		"Value": "Swiftly fires magic projectiles from glintstone"
+	},
+	{
+		"Id": 4020,
+		"Value": "Fires a magic comet with a trailing tail"
+	},
+	{
+		"Id": 4021,
+		"Value": "Fires a great magic comet"
+	},
+	{
+		"Id": 4030,
+		"Value": "Fires twin spiraling projectiles"
+	},
+	{
+		"Id": 4040,
+		"Value": "Fires three shooting stars that pursue foes"
+	},
+	{
+		"Id": 4050,
+		"Value": "Fires six shooting stars that pursue foes"
+	},
+	{
+		"Id": 4060,
+		"Value": "Fires a volley of glintstone crystal shards"
+	},
+	{
+		"Id": 4070,
+		"Value": "Fires a horizontally-widening magic arc"
+	},
+	{
+		"Id": 4080,
+		"Value": "Lobs an explosive magic projectile in an arc"
+	},
+	{
+		"Id": 4090,
+		"Value": "Fires a burst of glintstone crystal shards"
+	},
+	{
+		"Id": 4100,
+		"Value": "Thrust staff into ground to emit a shockwave"
+	},
+	{
+		"Id": 4110,
+		"Value": "Thrust staff into ground to emit a massive shockwave"
+	},
+	{
+		"Id": 4120,
+		"Value": "Attacks using a magic greathammer"
+	},
+	{
+		"Id": 4130,
+		"Value": "Raises the magic strength of those within the sigil"
+	},
+	{
+		"Id": 4140,
+		"Value": "Creates star light to illuminate surroundings"
+	},
+	{
+		"Id": 4200,
+		"Value": "Fires a tremendous comet within a starry torrent"
+	},
+	{
+		"Id": 4210,
+		"Value": "Releases a downpour of star rain for a while"
+	},
+	{
+		"Id": 4220,
+		"Value": "Fires twelve dark shooting stars that pursue foes"
+	},
+	{
+		"Id": 4300,
+		"Value": "Forms a defensive arch of magic glintblades"
+	},
+	{
+		"Id": 4301,
+		"Value": "Forms a defensive arch of numerous magic glintblades"
+	},
+	{
+		"Id": 4302,
+		"Value": "Forms a defensive arch of larger magic glintblades"
+	},
+	{
+		"Id": 4360,
+		"Value": "Incarnate a full moon and launch it at foes"
+	},
+	{
+		"Id": 4361,
+		"Value": "Incarnate a cold, dark moon and launch it at foes"
+	},
+	{
+		"Id": 4370,
+		"Value": "Summon a magic mass that sprays projectiles over area"
+	},
+	{
+		"Id": 4380,
+		"Value": "Fires great arrow from a magic greatbow"
+	},
+	{
+		"Id": 4381,
+		"Value": "Fires four great arrows from magic greatbow at once"
+	},
+	{
+		"Id": 4390,
+		"Value": "Creates sigil that forms a projectile glintblade after delay"
+	},
+	{
+		"Id": 4400,
+		"Value": "Fires mass of cold magic from glintstone"
+	},
+	{
+		"Id": 4410,
+		"Value": "Thrust staff into ground to create freezing tornado"
+	},
+	{
+		"Id": 4420,
+		"Value": "Releases cold mist before caster"
+	},
+	{
+		"Id": 4430,
+		"Value": "Performs sweeping slash using magical greatsword"
+	},
+	{
+		"Id": 4431,
+		"Value": "Sweeping slash followed by cold blade projectile"
+	},
+	{
+		"Id": 4440,
+		"Value": "Performs swift sweeping slash using magical sword"
+	},
+	{
+		"Id": 4450,
+		"Value": "Impales foes with magical greatsword"
+	},
+	{
+		"Id": 4460,
+		"Value": "Enchants right-hand armament with magic damage"
+	},
+	{
+		"Id": 4470,
+		"Value": "Enhances left-hand shield damage negation"
+	},
+	{
+		"Id": 4480,
+		"Value": "Alleviates buildup of sleep and madness"
+	},
+	{
+		"Id": 4490,
+		"Value": "Enchants right-hand armament with frost"
+	},
+	{
+		"Id": 4500,
+		"Value": "Creates crystal mass that shatters in forward burst"
+	},
+	{
+		"Id": 4510,
+		"Value": "Scours area with violent rain of crystal shards"
+	},
+	{
+		"Id": 4520,
+		"Value": "Creates crystal mass that fires stream of crystal shards"
+	},
+	{
+		"Id": 4600,
+		"Value": "Strikes from behind with projectile fired from distance"
+	},
+	{
+		"Id": 4610,
+		"Value": "Swiftly fires semi-invisible magic projectile"
+	},
+	{
+		"Id": 4620,
+		"Value": "Fires semi-invisible magic comet"
+	},
+	{
+		"Id": 4630,
+		"Value": "Erect a magic forcefield to deflect spells"
+	},
+	{
+		"Id": 4640,
+		"Value": "Dispels enemy spells and retaliates with glintblades"
+	},
+	{
+		"Id": 4650,
+		"Value": "Creates dark space that draws in spells"
+	},
+	{
+		"Id": 4660,
+		"Value": "Makes right-hand armament completely invisible"
+	},
+	{
+		"Id": 4670,
+		"Value": "Makes the caster semi-invisible"
+	},
+	{
+		"Id": 4700,
+		"Value": "Calls small meteorites down from the sky"
+	},
+	{
+		"Id": 4701,
+		"Value": "Calls a hail of small meteorites from the void"
+	},
+	{
+		"Id": 4710,
+		"Value": "Summons rocks from the earth and sends it flying"
+	},
+	{
+		"Id": 4720,
+		"Value": "Pulls foes toward caster with gravity projectile"
+	},
+	{
+		"Id": 4721,
+		"Value": "Pulls foes toward caster with gravity projectile volley"
+	},
+	{
+		"Id": 4800,
+		"Value": "Fires lump of magma that explodes on contact"
+	},
+	{
+		"Id": 4810,
+		"Value": "Covers area with surge of magma from the earth"
+	},
+	{
+		"Id": 4820,
+		"Value": "Fires lump of magma that explodes after delay"
+	},
+	{
+		"Id": 4830,
+		"Value": "Releases searing spirits that repeatedly explode after delay"
+	},
+	{
+		"Id": 4900,
+		"Value": "Summons thorns from a whorl of own blood"
+	},
+	{
+		"Id": 4910,
+		"Value": "Wounds caster to unleash trail of bloodthorns"
+	},
+	{
+		"Id": 5000,
+		"Value": "Summons vengeful spirits that chase down foes"
+	},
+	{
+		"Id": 5001,
+		"Value": "Summons horde of vengeful spirits that chase down foes"
+	},
+	{
+		"Id": 5010,
+		"Value": "Causes ghostflame explosion that burns wide area"
+	},
+	{
+		"Id": 5020,
+		"Value": "Releases a mist of death before caster"
+	},
+	{
+		"Id": 5030,
+		"Value": "Summons Those Who Live in Death"
+	},
+	{
+		"Id": 5040,
+		"Value": "Strikes surroundings with storm of death lightning"
+	},
+	{
+		"Id": 5100,
+		"Value": "Launches several small magic bubbles"
+	},
+	{
+		"Id": 5110,
+		"Value": "Launches a large magic bubble"
+	},
+	{
+		"Id": 6000,
+		"Value": "Momentarily sparks flame from hand"
+	},
+	{
+		"Id": 6001,
+		"Value": "Momentarily sparks roaring flame from hand"
+	},
+	{
+		"Id": 6010,
+		"Value": "Throws ball of raging fire"
+	},
+	{
+		"Id": 6020,
+		"Value": "Hurls several balls of fire at once"
+	},
+	{
+		"Id": 6030,
+		"Value": "Sweeps area before caster with stream of fire"
+	},
+	{
+		"Id": 6040,
+		"Value": "Alleviates buildup & cures poison and scarlet rot"
+	},
+	{
+		"Id": 6050,
+		"Value": "Raises physical and fire-affinity attack power"
+	},
+	{
+		"Id": 6060,
+		"Value": "Greatly increases fire damage negation"
+	},
+	{
+		"Id": 6100,
+		"Value": "Hurls massive ball of raging fire"
+	},
+	{
+		"Id": 6110,
+		"Value": "Summons raging fireball that explodes and sets the area ablaze"
+	},
+	{
+		"Id": 6120,
+		"Value": "Raises a series of flame pillars around caster"
+	},
+	{
+		"Id": 6210,
+		"Value": "Throws a ball of raging black fire"
+	},
+	{
+		"Id": 6220,
+		"Value": "Incinerates area before caster with stream of fire"
+	},
+	{
+		"Id": 6230,
+		"Value": "Sweeps area before caster with black flame"
+	},
+	{
+		"Id": 6240,
+		"Value": "Summons circle of black flame pillars around caster"
+	},
+	{
+		"Id": 6250,
+		"Value": "Enchants right-hand armament with black flame"
+	},
+	{
+		"Id": 6260,
+		"Value": "Increases physical damage negation"
+	},
+	{
+		"Id": 6270,
+		"Value": "Thrust out belly with gusto to unleash repelling shockwave"
+	},
+	{
+		"Id": 6300,
+		"Value": "Creates bloodflame lacerations that then explode"
+	},
+	{
+		"Id": 6310,
+		"Value": "Scatters bloodflame before caster to set area aflame"
+	},
+	{
+		"Id": 6320,
+		"Value": "Enchants right-hand armament with bloodflame"
+	},
+	{
+		"Id": 6330,
+		"Value": "Greatly increases magic damage negation for self & allies"
+	},
+	{
+		"Id": 6340,
+		"Value": "Increases affinity damage negation for self & allies"
+	},
+	{
+		"Id": 6400,
+		"Value": "Produces a shockwave that pushes away foes"
+	},
+	{
+		"Id": 6410,
+		"Value": "Produces golden shockwave that knocks back foes"
+	},
+	{
+		"Id": 6420,
+		"Value": "Heals a small amount of HP"
+	},
+	{
+		"Id": 6421,
+		"Value": "Heals HP for self and nearby allies"
+	},
+	{
+		"Id": 6422,
+		"Value": "Greatly heals HP for self and nearby allies"
+	},
+	{
+		"Id": 6423,
+		"Value": "Massively heals HP for self and nearby allies"
+	},
+	{
+		"Id": 6424,
+		"Value": "Vastly heals HP for self and nearby allies"
+	},
+	{
+		"Id": 6430,
+		"Value": "Grants blessing to self and nearby allies"
+	},
+	{
+		"Id": 6431,
+		"Value": "Grants greater blessing to self and nearby allies"
+	},
+	{
+		"Id": 6440,
+		"Value": "Alleviates poison buildup and cures poison"
+	},
+	{
+		"Id": 6441,
+		"Value": "Alleviates poison/blood loss/sleep buildup for self/allies"
+	},
+	{
+		"Id": 6450,
+		"Value": "Increases fire damage negation"
+	},
+	{
+		"Id": 6460,
+		"Value": "Increases magic damage negation"
+	},
+	{
+		"Id": 6470,
+		"Value": "Increases lightning damage negation"
+	},
+	{
+		"Id": 6480,
+		"Value": "Increases holy damage negation"
+	},
+	{
+		"Id": 6490,
+		"Value": "Greatly increases holy damage negation incl. allies"
+	},
+	{
+		"Id": 6500,
+		"Value": "Releases life-sapping silver mist before caster"
+	},
+	{
+		"Id": 6510,
+		"Value": "Silences footsteps, reduces fall damage/sound"
+	},
+	{
+		"Id": 6520,
+		"Value": "Creates shadow that lures the aggression of foes of human build"
+	},
+	{
+		"Id": 6530,
+		"Value": "Creates area of darkness that conceals caster"
+	},
+	{
+		"Id": 6600,
+		"Value": "Increases attack and defense for self and allies"
+	},
+	{
+		"Id": 6700,
+		"Value": "Fires ring of light before the caster"
+	},
+	{
+		"Id": 6701,
+		"Value": "Fires three rings of light before the caster"
+	},
+	{
+		"Id": 6710,
+		"Value": "Creates golden ring of light to attack wide area"
+	},
+	{
+		"Id": 6720,
+		"Value": "Creates a stream of golden shooting stars that assail the area"
+	},
+	{
+		"Id": 6730,
+		"Value": "Heals all ailments and dispels all special effects"
+	},
+	{
+		"Id": 6740,
+		"Value": "Increases left-hand shield's affinity/ailment resistance"
+	},
+	{
+		"Id": 6750,
+		"Value": "Creates image of Order to deal holy damage"
+	},
+	{
+		"Id": 6760,
+		"Value": "Retaliates upon receiving a number of blows"
+	},
+	{
+		"Id": 6770,
+		"Value": "Enchanted right-hand armament with holy damage"
+	},
+	{
+		"Id": 6780,
+		"Value": "Alleviates death blight buildup"
+	},
+	{
+		"Id": 6800,
+		"Value": "Swiftly flings numerous sharp rock shards"
+	},
+	{
+		"Id": 6810,
+		"Value": "Hurls a boulder before the caster"
+	},
+	{
+		"Id": 6820,
+		"Value": "Creates beast claws that tear through the land"
+	},
+	{
+		"Id": 6830,
+		"Value": "Creates beast claws to rend surroundings with shockwaves"
+	},
+	{
+		"Id": 6840,
+		"Value": "Heals HP over a period of time"
+	},
+	{
+		"Id": 6850,
+		"Value": "Alleviates blood loss and frost buildup"
+	},
+	{
+		"Id": 6900,
+		"Value": "Hurls lightning spear before caster"
+	},
+	{
+		"Id": 6910,
+		"Value": "Summons red lightning that spreads from impact"
+	},
+	{
+		"Id": 6920,
+		"Value": "Summons lightning bolt that spreads from impact"
+	},
+	{
+		"Id": 6921,
+		"Value": "Stabs with ice lightning spear from above"
+	},
+	{
+		"Id": 6930,
+		"Value": "Strikes foe with lightning bolt from above"
+	},
+	{
+		"Id": 6940,
+		"Value": "Stabs with red lightning spear from above"
+	},
+	{
+		"Id": 6941,
+		"Value": "Stabs from above with two red lightning spears in tandem"
+	},
+	{
+		"Id": 6950,
+		"Value": "Sweeps from above with red lightning glaive"
+	},
+	{
+		"Id": 6960,
+		"Value": "Enchants right-hand armament with lightning damage"
+	},
+	{
+		"Id": 6970,
+		"Value": "Bolsters right-hand armament & body with red lightning"
+	},
+	{
+		"Id": 6971,
+		"Value": "Bolsters caster's body with lightning"
+	},
+	{
+		"Id": 7000,
+		"Value": "Channels dragon to spew flame breath"
+	},
+	{
+		"Id": 7001,
+		"Value": "Spews flame breath of Agheel from above"
+	},
+	{
+		"Id": 7010,
+		"Value": "Channels wyrm to spew magma breath"
+	},
+	{
+		"Id": 7011,
+		"Value": "Spews magma breath of Theodorix from above"
+	},
+	{
+		"Id": 7020,
+		"Value": "Channels dragon to spew icy breath"
+	},
+	{
+		"Id": 7021,
+		"Value": "Spews icy breath of Borealis from above"
+	},
+	{
+		"Id": 7030,
+		"Value": "Channels dragon to spew scarlet rot breath"
+	},
+	{
+		"Id": 7031,
+		"Value": "Spews scarlet rot breath of Ekzykes from above"
+	},
+	{
+		"Id": 7040,
+		"Value": "Channels dragon to spew magic breath"
+	},
+	{
+		"Id": 7041,
+		"Value": "Spews magic breath of Glintstone Dragon Smarag from above"
+	},
+	{
+		"Id": 7050,
+		"Value": "Spews golden breath of Dragonlord Placidusax"
+	},
+	{
+		"Id": 7060,
+		"Value": "Channels dragon to rend foes with dragon claws"
+	},
+	{
+		"Id": 7080,
+		"Value": "Channels dragon to bite foes before caster"
+	},
+	{
+		"Id": 7090,
+		"Value": "Emits the roar of Elder Dragon Greyoll"
+	},
+	{
+		"Id": 7200,
+		"Value": "Launches countless sticky threads before caster"
+	},
+	{
+		"Id": 7210,
+		"Value": "Releases a swarm of bloodflies before caster"
+	},
+	{
+		"Id": 7220,
+		"Value": "Releases poison mist before caster"
+	},
+	{
+		"Id": 7230,
+		"Value": "Enchants right-hand armament with poison"
+	},
+	{
+		"Id": 7240,
+		"Value": "Creates giant flower that explodes with scarlet rot"
+	},
+	{
+		"Id": 7300,
+		"Value": "Latches onto foes to spread madness"
+	},
+	{
+		"Id": 7310,
+		"Value": "Emits burst of yellow flame of frenzy from eyes"
+	},
+	{
+		"Id": 7311,
+		"Value": "Emits violent burst of yellow flame of frenzy from eyes"
+	},
+	{
+		"Id": 7320,
+		"Value": "Emits concentrated blast of yellow flame of frenzy from eyes"
+	},
+	{
+		"Id": 7330,
+		"Value": "Shrieks, building up madness in nearby foes"
+	},
+	{
+		"Id": 7500,
+		"Value": "Creates supple tail to sweep area before caster"
+	},
+	{
+		"Id": 7510,
+		"Value": "Creates shoulder horn to gore foes from low stance"
+	},
+	{
+		"Id": 7520,
+		"Value": "Creates throat pouch to spew fire while walking"
+	},
+	{
+		"Id": 7530,
+		"Value": "Black blade spinning slash that emits wave of light"
+	},
+	{
+		"Id": 7900,
+		"Value": "Sets area and self ablaze with raging flames"
+	},
+	{
+		"Id": 7903,
+		"Value": "Greatly increases lightning resistance for self and allies"
+	},
+	{
+		"Id": 8000,
+		"Value": "Use to break one imp statue seal"
+	},
+	{
+		"Id": 8010,
+		"Value": "Opens a locked door in Stormveil Castle"
+	},
+	{
+		"Id": 8102,
+		"Value": "Raise in prayer to gain protection"
+	},
+	{
+		"Id": 8105,
+		"Value": "Join medallions to operate Grand Lift of Dectus"
+	},
+	{
+		"Id": 8106,
+		"Value": "Join medallions to operate Grand Lift of Dectus"
+	},
+	{
+		"Id": 8107,
+		"Value": "Operates Grand Lift of Rold"
+	},
+	{
+		"Id": 8109,
+		"Value": "Key to open the academy's two sealed gates"
+	},
+	{
+		"Id": 8111,
+		"Value": "Key revealing the hidden form of Carian Study Hall"
+	},
+	{
+		"Id": 8121,
+		"Value": "Ring of Lunar Princess Ranni's cold oath"
+	},
+	{
+		"Id": 8126,
+		"Value": "Eyeball of the knight Vyke, inflamed yellow"
+	},
+	{
+		"Id": 8127,
+		"Value": "Request from Volcano Manor\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8128,
+		"Value": "Tonic that banishes distress and bitter memories"
+	},
+	{
+		"Id": 8129,
+		"Value": "Amnion from a womb that bore unintended offspring"
+	},
+	{
+		"Id": 8130,
+		"Value": "Necklace worn everywhere by Irina"
+	},
+	{
+		"Id": 8131,
+		"Value": "Letter addressed to the commander of Castle Morne"
+	},
+	{
+		"Id": 8132,
+		"Value": "Request from Volcano Manor\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8133,
+		"Value": "Request from Volcano Manor\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8134,
+		"Value": "Key to the Volcano Manor drawing room"
+	},
+	{
+		"Id": 8136,
+		"Value": "Rya's necklace, stolen by a blackguard"
+	},
+	{
+		"Id": 8137,
+		"Value": "Letter of invitation to Volcano Manor"
+	},
+	{
+		"Id": 8142,
+		"Value": "Ingredient used in special draught"
+	},
+	{
+		"Id": 8143,
+		"Value": "Letter of introduction addressed to Sellen"
+	},
+	{
+		"Id": 8144,
+		"Value": "Glintstone from within Sellen's body"
+	},
+	{
+		"Id": 8146,
+		"Value": "Doll resembling Ranni the Witch"
+	},
+	{
+		"Id": 8147,
+		"Value": "Asimi that has infected a tarnished"
+	},
+	{
+		"Id": 8148,
+		"Value": "Godrick's Great Rune, devoid of any benediction"
+	},
+	{
+		"Id": 8149,
+		"Value": "Radahn's Great Rune, devoid of any benediction"
+	},
+	{
+		"Id": 8150,
+		"Value": "Morgott's Great Rune, devoid of any benediction"
+	},
+	{
+		"Id": 8151,
+		"Value": "Rykard's Great Rune, devoid of any benediction"
+	},
+	{
+		"Id": 8152,
+		"Value": "Mohg's Great Rune, devoid of any benediction"
+	},
+	{
+		"Id": 8153,
+		"Value": "Malenia's Great Rune, devoid of any benediction"
+	},
+	{
+		"Id": 8154,
+		"Value": "Pure white oath-cloth given by Varré"
+	},
+	{
+		"Id": 8155,
+		"Value": "Bloodied white oath-cloth, dyed in a maiden's blood"
+	},
+	{
+		"Id": 8156,
+		"Value": "Letter affixed to a graveyard crow's leg"
+	},
+	{
+		"Id": 8158,
+		"Value": "Bell that summons various spirits from ashen items"
+	},
+	{
+		"Id": 8159,
+		"Value": "Hidden treasure of the Eternal City of Nokron"
+	},
+	{
+		"Id": 8161,
+		"Value": "Boc the demi-human's prized sewing needle"
+	},
+	{
+		"Id": 8162,
+		"Value": "Special sewing needle for demigod attire"
+	},
+	{
+		"Id": 8163,
+		"Value": "Enables armor adjustment at sites of grace"
+	},
+	{
+		"Id": 8164,
+		"Value": "Small flask received from Preceptor Seluvis"
+	},
+	{
+		"Id": 8166,
+		"Value": "Glistening amber draught made for a scheme"
+	},
+	{
+		"Id": 8167,
+		"Value": "Request from Volcano Manor to Patches\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8168,
+		"Value": "Castanets used by dancers from distant lands"
+	},
+	{
+		"Id": 8169,
+		"Value": "Can release Master Lusat from his confinement"
+	},
+	{
+		"Id": 8171,
+		"Value": "Broach wrapped in red velvet"
+	},
+	{
+		"Id": 8172,
+		"Value": "Mark of the Night of the Black Knives ritual"
+	},
+	{
+		"Id": 8173,
+		"Value": "Request from Volcano Manor to Bernahl\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8174,
+		"Value": "Key to open the academy's two sealed gates"
+	},
+	{
+		"Id": 8175,
+		"Value": "Join medallions to operate Grand Lift of Rold"
+	},
+	{
+		"Id": 8176,
+		"Value": "Join medallions to operate Grand Lift of Rold"
+	},
+	{
+		"Id": 8181,
+		"Value": "Letter written about the caravans"
+	},
+	{
+		"Id": 8182,
+		"Value": "Can be used to mend the shattered Elden Ring"
+	},
+	{
+		"Id": 8183,
+		"Value": "Can be used to mend the shattered Elden Ring"
+	},
+	{
+		"Id": 8184,
+		"Value": "Can be used to mend the shattered Elden Ring"
+	},
+	{
+		"Id": 8185,
+		"Value": "Material needed by Rennala to grant rebirth"
+	},
+	{
+		"Id": 8186,
+		"Value": "Unseals sending gate, but disappears upon use"
+	},
+	{
+		"Id": 8187,
+		"Value": "Doll resembling Ranni the Witch"
+	},
+	{
+		"Id": 8188,
+		"Value": "Allows demigod garb alteration at sites of grace"
+	},
+	{
+		"Id": 8189,
+		"Value": "Letter of confession found on Iji's corpse"
+	},
+	{
+		"Id": 8190,
+		"Value": "Simple map showing location of black knifeprint\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8191,
+		"Value": "Cursemark carved into Lunar Princess Ranni's discarded flesh"
+	},
+	{
+		"Id": 8192,
+		"Value": "The shedding of an Asimi that infected a tarnished"
+	},
+	{
+		"Id": 8193,
+		"Value": "Curse grown on a body defiled by the Dung Eater"
+	},
+	{
+		"Id": 8194,
+		"Value": "Ashes of a hawk which heeds no summons"
+	},
+	{
+		"Id": 8195,
+		"Value": "An Asimi that infected a tarnished"
+	},
+	{
+		"Id": 8196,
+		"Value": "Intricate needle of unalloyed gold"
+	},
+	{
+		"Id": 8197,
+		"Value": "Unlocks sewer-gaol door beneath Leyndell"
+	},
+	{
+		"Id": 8198,
+		"Value": "Simple map showing a meeting place\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8199,
+		"Value": "Key to treasure chest for Carian Princesses"
+	},
+	{
+		"Id": 8200,
+		"Value": "Reminiscence of the painting \"Homing Instinct\"\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8201,
+		"Value": "Reminiscence of the painting \"Resurrection\"\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8202,
+		"Value": "Reminiscence of the painting \"Champion's Song\"\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8203,
+		"Value": "Reminiscence of the painting \"Sorcerer\"\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8204,
+		"Value": "Reminiscence of the painting \"Prophecy\"\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8205,
+		"Value": "Reminiscence of the painting \"Flightless Bird\"\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8206,
+		"Value": "Reminiscence of the painting \"Redmane\"\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8221,
+		"Value": "Farewell letter written in an inexpert hand\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8222,
+		"Value": "Keepsake of the warrior jar Alexander"
+	},
+	{
+		"Id": 8223,
+		"Value": "Letter written in a trembling hand\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8500,
+		"Value": "Enables the practice of item crafting"
+	},
+	{
+		"Id": 8590,
+		"Value": "Can add new battle arts and affinities to weapons"
+	},
+	{
+		"Id": 8600,
+		"Value": "Map of Limgrave's western region"
+	},
+	{
+		"Id": 8601,
+		"Value": "Map of Weeping peninsula"
+	},
+	{
+		"Id": 8602,
+		"Value": "Map of Limgrave's eastern region"
+	},
+	{
+		"Id": 8603,
+		"Value": "Map of Liurnia's eastern region"
+	},
+	{
+		"Id": 8604,
+		"Value": "Map of Liurnia's northern region"
+	},
+	{
+		"Id": 8605,
+		"Value": "Map of Liurnia's western region"
+	},
+	{
+		"Id": 8606,
+		"Value": "Map of Altus Plateau and environs"
+	},
+	{
+		"Id": 8607,
+		"Value": "Map of Leyndell Capital and environs"
+	},
+	{
+		"Id": 8608,
+		"Value": "Map of Mt. Gelmir and environs"
+	},
+	{
+		"Id": 8609,
+		"Value": "Map of Caelid and environs"
+	},
+	{
+		"Id": 8610,
+		"Value": "Map of Dragonbarrow and environs"
+	},
+	{
+		"Id": 8611,
+		"Value": "Map of Western Mountaintops of the Giants"
+	},
+	{
+		"Id": 8612,
+		"Value": "Map of Eastern Mountaintops of the Giants"
+	},
+	{
+		"Id": 8613,
+		"Value": "Map of Ainsel River and environs"
+	},
+	{
+		"Id": 8614,
+		"Value": "Map of Lake of Rot and environs"
+	},
+	{
+		"Id": 8615,
+		"Value": "Map of Siofra River and environs"
+	},
+	{
+		"Id": 8616,
+		"Value": "Map of Mohgwyn Palace and environs"
+	},
+	{
+		"Id": 8617,
+		"Value": "Map of Deeproot Depths and environs"
+	},
+	{
+		"Id": 8618,
+		"Value": "Map of Consecrated Snowfield and environs"
+	},
+	{
+		"Id": 8660,
+		"Value": "Simple map taken from an imp statue\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8700,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8701,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8702,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8703,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8704,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8705,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8706,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8707,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8708,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8709,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8710,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8711,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8712,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8713,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8714,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8715,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8716,
+		"Value": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8750,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8751,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8752,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8753,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8754,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8755,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8756,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8757,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8758,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8759,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8760,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8761,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8762,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8763,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8765,
+		"Value": "Note imparting knowledge in brief"
+	},
+	{
+		"Id": 8850,
+		"Value": "Give to a learned sorcerer to acquire new sorceries"
+	},
+	{
+		"Id": 8851,
+		"Value": "Give to a learned sorcerer to acquire new sorceries"
+	},
+	{
+		"Id": 8855,
+		"Value": "Give to a learned cleric to acquire new incantations"
+	},
+	{
+		"Id": 8856,
+		"Value": "Give to a learned cleric to acquire new incantations"
+	},
+	{
+		"Id": 8857,
+		"Value": "Give to a learned cleric to acquire new incantations"
+	},
+	{
+		"Id": 8858,
+		"Value": "Give to a learned cleric to acquire new incantations"
+	},
+	{
+		"Id": 8859,
+		"Value": "Give to a learned cleric to acquire new incantations"
+	},
+	{
+		"Id": 8860,
+		"Value": "Scroll containing incantations"
+	},
+	{
+		"Id": 8861,
+		"Value": "Scroll containing incantations"
+	},
+	{
+		"Id": 8862,
+		"Value": "Give to a learned cleric to acquire new incantations"
+	},
+	{
+		"Id": 8863,
+		"Value": "Scroll containing incantations"
+	},
+	{
+		"Id": 8864,
+		"Value": "Give to a learned cleric to acquire new incantations"
+	},
+	{
+		"Id": 8865,
+		"Value": "Give to a learned cleric to acquire new incantations"
+	},
+	{
+		"Id": 8866,
+		"Value": "Give to a learned sorcerer to acquire new sorceries"
+	},
+	{
+		"Id": 8910,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8911,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8912,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8913,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8915,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8916,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8917,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8918,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8919,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8920,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8921,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8922,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8923,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8924,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8925,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8926,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8927,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8928,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8929,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8930,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8931,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8932,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8933,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8934,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8935,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8936,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8937,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8938,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8939,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8940,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8941,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8942,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8943,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8944,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8945,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8946,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8947,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8948,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8951,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8952,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8953,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8954,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8955,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8956,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8957,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8958,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8959,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8960,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8961,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8962,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8963,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8964,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8965,
+		"Value": "Offer to Twin Maiden Husks for new item access"
+	},
+	{
+		"Id": 8970,
+		"Value": "Grants choice of affinity upgrade to weapon"
+	},
+	{
+		"Id": 8971,
+		"Value": "Grants choice of affinity upgrade to weapon"
+	},
+	{
+		"Id": 8972,
+		"Value": "Grants choice of affinity upgrade to weapon"
+	},
+	{
+		"Id": 8973,
+		"Value": "Grants choice of affinity upgrade to weapon"
+	},
+	{
+		"Id": 8974,
+		"Value": "Grants choice of affinity upgrade to weapon"
+	},
+	{
+		"Id": 8975,
+		"Value": "Snapped intricate needle of unalloyed gold"
+	},
+	{
+		"Id": 8976,
+		"Value": "Repaired intricate needle of unalloyed gold"
+	},
+	{
+		"Id": 8977,
+		"Value": "Golden prosthesis used by the one-armed Valkyrie"
+	},
+	{
+		"Id": 8978,
+		"Value": "A piece of paper given by Sage Gowry\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 8979,
+		"Value": "Said to tremble when close to Deathroot"
+	},
+	{
+		"Id": 8980,
+		"Value": "Dagger received from Fia, Deathbed Companion"
+	},
+	{
+		"Id": 9000,
+		"Value": "A bow"
+	},
+	{
+		"Id": 9001,
+		"Value": "A formal bow"
+	},
+	{
+		"Id": 9002,
+		"Value": "A stiff bow"
+	},
+	{
+		"Id": 9004,
+		"Value": "A reverential bow"
+	},
+	{
+		"Id": 9007,
+		"Value": "Wave hand"
+	},
+	{
+		"Id": 9009,
+		"Value": "A tough fist gesture"
+	},
+	{
+		"Id": 9020,
+		"Value": "Raise morale"
+	},
+	{
+		"Id": 9022,
+		"Value": "Pledge on one's sword"
+	},
+	{
+		"Id": 9023,
+		"Value": "A threatening gesture"
+	},
+	{
+		"Id": 9024,
+		"Value": "Inspire fellow warriors"
+	},
+	{
+		"Id": 9025,
+		"Value": "The Carian oath"
+	},
+	{
+		"Id": 9027,
+		"Value": "A gleeful leap"
+	},
+	{
+		"Id": 9031,
+		"Value": "Slump to the floor"
+	},
+	{
+		"Id": 9034,
+		"Value": "Rest on the floor"
+	},
+	{
+		"Id": 9040,
+		"Value": "A dismissive gesture"
+	},
+	{
+		"Id": 9042,
+		"Value": "A prayer borne of despair"
+	},
+	{
+		"Id": 9100,
+		"Value": "Information about sites of grace\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9101,
+		"Value": "Information about sorceries and incantations\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9102,
+		"Value": "Information about bows\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9103,
+		"Value": "Information about crouching\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9104,
+		"Value": "Information about stance-breaking\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9105,
+		"Value": "Information about Stakes of Marika\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9106,
+		"Value": "Information about guard counters\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9107,
+		"Value": "Information about the map\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9108,
+		"Value": "Information about Guidance of Grace\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9109,
+		"Value": "Information about horseback riding\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9110,
+		"Value": "Information about death\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9111,
+		"Value": "Information about summoning spirits\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9112,
+		"Value": "Information about guarding\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9113,
+		"Value": "Information about item crafting\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9115,
+		"Value": "Information about Flask of Wondrous Physick\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9116,
+		"Value": "Information about adding skills\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9117,
+		"Value": "Information about birdseye telescopes\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9118,
+		"Value": "Information about spiritspring jumping\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9119,
+		"Value": "Information about vanquishing enemy groups\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9120,
+		"Value": "Information about Teardrop Scarabs\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9121,
+		"Value": "Information about summoning other players\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9122,
+		"Value": "Information about cooperative multiplayer\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9123,
+		"Value": "Information about competitive multiplayer\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9124,
+		"Value": "Information about invasion multiplayer\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9125,
+		"Value": "Information about hunter multiplayer\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9126,
+		"Value": "Information about the summoning pools\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9127,
+		"Value": "Information about Monument Icon\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9128,
+		"Value": "Information about requesting help from hunters\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9129,
+		"Value": "Information about skills\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9130,
+		"Value": "Information about fast travel to sites of grace\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9131,
+		"Value": "Information about strengthening armaments\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9132,
+		"Value": "Information about the Roundtable Hold\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9134,
+		"Value": "Information about materials\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9135,
+		"Value": "Information about containers\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9136,
+		"Value": "Information about adding affinities to armaments\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9137,
+		"Value": "Information about pouches\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9138,
+		"Value": "Information about dodging\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9140,
+		"Value": "Information about wielding armaments\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9195,
+		"Value": "Information about multiplayer\nExamine using <?keyicon@31?>"
+	},
+	{
+		"Id": 9200,
+		"Value": "Letter concerning traces of silvery slime found"
+	},
+	{
+		"Id": 9201,
+		"Value": "Letter concerning traces of silvery slime found"
+	},
+	{
+		"Id": 9300,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9301,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9302,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9303,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9304,
+		"Value": "Fugitive warrior recipe.  Adds craft able items"
+	},
+	{
+		"Id": 9305,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9306,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9307,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9308,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9309,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9310,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9311,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9312,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9313,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9320,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9321,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9322,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9323,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9324,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9325,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9326,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9327,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9328,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9329,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9330,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9331,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9340,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9341,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9342,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9343,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9344,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9345,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9346,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9347,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9348,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9360,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9361,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9362,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9363,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9364,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9365,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9380,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9381,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9382,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9383,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9384,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9385,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9386,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9387,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9388,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9389,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9390,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9391,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9392,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9393,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9400,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9401,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9402,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9403,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9420,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9421,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9422,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9423,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9440,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9441,
+		"Value": "Expands crafting repertoire"
+	},
+	{
+		"Id": 9500,
+		"Value": "Container required for crafting cracked pot items"
+	},
+	{
+		"Id": 9501,
+		"Value": "Container required for crafting ritual pot items"
+	},
+	{
+		"Id": 9510,
+		"Value": "Container required for crafting perfume items"
+	},
+	{
+		"Id": 10000,
+		"Value": "Shard of filthy glass. Worthless rubbish."
+	},
+	{
+		"Id": 10010,
+		"Value": "Increases Sacred Flask's number of uses"
+	},
+	{
+		"Id": 10020,
+		"Value": "Improves Sacred Flask's potency"
+	},
+	{
+		"Id": 10030,
+		"Value": "Increases memory slots"
+	},
+	{
+		"Id": 10040,
+		"Value": "Increases talisman equip slots"
+	},
+	{
+		"Id": 10060,
+		"Value": "Gain power of the dragon at the Dragon Communion altar"
+	},
+	{
+		"Id": 10070,
+		"Value": "Used to duplicate Ashes of War"
+	},
+	{
+		"Id": 10080,
+		"Value": "Used to perfect rebirth"
+	},
+	{
+		"Id": 10100,
+		"Value": "Reinforce armaments up to +3"
+	},
+	{
+		"Id": 10101,
+		"Value": "Reinforce armaments up to +6"
+	},
+	{
+		"Id": 10102,
+		"Value": "Reinforce armaments up to +9"
+	},
+	{
+		"Id": 10103,
+		"Value": "Reinforce armaments up to +12"
+	},
+	{
+		"Id": 10104,
+		"Value": "Reinforce armaments up to +15"
+	},
+	{
+		"Id": 10105,
+		"Value": "Reinforce armaments up to +18"
+	},
+	{
+		"Id": 10106,
+		"Value": "Reinforce armaments up to +21"
+	},
+	{
+		"Id": 10107,
+		"Value": "Reinforce armaments up to +24"
+	},
+	{
+		"Id": 10140,
+		"Value": "Reinforce armaments to +25"
+	},
+	{
+		"Id": 10160,
+		"Value": "Reinforce special armaments to +1"
+	},
+	{
+		"Id": 10161,
+		"Value": "Reinforce special armaments to +2"
+	},
+	{
+		"Id": 10162,
+		"Value": "Reinforce special armaments to +3"
+	},
+	{
+		"Id": 10163,
+		"Value": "Reinforce special armaments to +4"
+	},
+	{
+		"Id": 10164,
+		"Value": "Reinforce special armaments to +5"
+	},
+	{
+		"Id": 10165,
+		"Value": "Reinforce special armaments to +6"
+	},
+	{
+		"Id": 10166,
+		"Value": "Reinforce special armaments to +7"
+	},
+	{
+		"Id": 10167,
+		"Value": "Reinforce special armaments to +8"
+	},
+	{
+		"Id": 10168,
+		"Value": "Reinforce special armaments to +10"
+	},
+	{
+		"Id": 10200,
+		"Value": "Reinforce special armaments to +9"
+	},
+	{
+		"Id": 10900,
+		"Value": "Strengthen ashes to +1"
+	},
+	{
+		"Id": 10901,
+		"Value": "Strengthen ashes to +2"
+	},
+	{
+		"Id": 10902,
+		"Value": "Strengthen ashes to +3"
+	},
+	{
+		"Id": 10903,
+		"Value": "Strengthen ashes to +4"
+	},
+	{
+		"Id": 10904,
+		"Value": "Strengthen ashes to +5"
+	},
+	{
+		"Id": 10905,
+		"Value": "Strengthen ashes to +6"
+	},
+	{
+		"Id": 10906,
+		"Value": "Strengthen ashes to +7"
+	},
+	{
+		"Id": 10907,
+		"Value": "Strengthen ashes to +8"
+	},
+	{
+		"Id": 10908,
+		"Value": "Strengthen ashes to +9"
+	},
+	{
+		"Id": 10909,
+		"Value": "Strengthen ashes to +10"
+	},
+	{
+		"Id": 10910,
+		"Value": "Strengthen renowned ashes to +1"
+	},
+	{
+		"Id": 10911,
+		"Value": "Strengthen renowned ashes to +2"
+	},
+	{
+		"Id": 10912,
+		"Value": "Strengthen renowned ashes to +3"
+	},
+	{
+		"Id": 10913,
+		"Value": "Strengthen renowned ashes to +4"
+	},
+	{
+		"Id": 10914,
+		"Value": "Strengthen renowned ashes to +5"
+	},
+	{
+		"Id": 10915,
+		"Value": "Strengthen renowned ashes to +6"
+	},
+	{
+		"Id": 10916,
+		"Value": "Strengthen renowned ashes to +7"
+	},
+	{
+		"Id": 10917,
+		"Value": "Strengthen renowned ashes to +8"
+	},
+	{
+		"Id": 10918,
+		"Value": "Strengthen renowned ashes to +9"
+	},
+	{
+		"Id": 10919,
+		"Value": "Strengthen renowned ashes to +10"
+	},
+	{
+		"Id": 11000,
+		"Value": "Temporarily boosts max HP in mixed physick"
+	},
+	{
+		"Id": 11001,
+		"Value": "Temporarily boosts stamina in mixed physick"
+	},
+	{
+		"Id": 11002,
+		"Value": "Restores half of total HP in mixed physick"
+	},
+	{
+		"Id": 11003,
+		"Value": "Restores half of total HP in mixed physick"
+	},
+	{
+		"Id": 11004,
+		"Value": "Restores half of total FP in mixed physick"
+	},
+	{
+		"Id": 11005,
+		"Value": "Restores half of total FP in mixed physick"
+	},
+	{
+		"Id": 11006,
+		"Value": "Boosts resistance and heals status in mixed physick"
+	},
+	{
+		"Id": 11007,
+		"Value": "Restores HP when near death in mixed physick"
+	},
+	{
+		"Id": 11008,
+		"Value": "Significantly negates damage in mixed physick"
+	},
+	{
+		"Id": 11009,
+		"Value": "Steadily restores HP for a time in mixed physick"
+	},
+	{
+		"Id": 11010,
+		"Value": "Temporarily boosts stamina recovery speed in mixed physick"
+	},
+	{
+		"Id": 11011,
+		"Value": "Temporarily boosts all damage negation in physick"
+	},
+	{
+		"Id": 11012,
+		"Value": "Temporarily reduces equip load in mixed physick"
+	},
+	{
+		"Id": 11013,
+		"Value": "Makes consecutive attacks grow stronger in mixed physick"
+	},
+	{
+		"Id": 11014,
+		"Value": "Enhances charged attacks for a time in mixed physick"
+	},
+	{
+		"Id": 11015,
+		"Value": "Enhances dodge rolls for a time in mixed physick"
+	},
+	{
+		"Id": 11016,
+		"Value": "Causes concoction to explode in mixed physick"
+	},
+	{
+		"Id": 11017,
+		"Value": "Causes concoction to explode in mixed physick"
+	},
+	{
+		"Id": 11018,
+		"Value": "Temporarily boosts poise in mixed physick"
+	},
+	{
+		"Id": 11019,
+		"Value": "Briefly stop rune loss on death in mixed physick"
+	},
+	{
+		"Id": 11020,
+		"Value": "Converts damage received into HP in mixed physick"
+	},
+	{
+		"Id": 11021,
+		"Value": "Temporarily boosts strength in mixed physick"
+	},
+	{
+		"Id": 11022,
+		"Value": "Temporarily boosts dexterity in mixed physick"
+	},
+	{
+		"Id": 11023,
+		"Value": "Temporarily boosts intelligence in mixed physick"
+	},
+	{
+		"Id": 11024,
+		"Value": "Temporarily boosts faith in mixed physick"
+	},
+	{
+		"Id": 11025,
+		"Value": "Eliminates all FP consumption in mixed physick"
+	},
+	{
+		"Id": 11026,
+		"Value": "Makes attacks more likely to break enemy stances in a mixed physick"
+	},
+	{
+		"Id": 11027,
+		"Value": "Purifies the Lord of Blood's curse in a mixed physick"
+	},
+	{
+		"Id": 11028,
+		"Value": "Temporarily boosts fire attacks in mixed physick"
+	},
+	{
+		"Id": 11029,
+		"Value": "Temporarily boosts magic attacks in mixed physick"
+	},
+	{
+		"Id": 11030,
+		"Value": "Temporarily boosts lightning attacks in mixed physick"
+	},
+	{
+		"Id": 11031,
+		"Value": "Temporarily boosts holy attacks in mixed physick"
+	},
+	{
+		"Id": 15000,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15010,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15020,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15030,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15040,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15050,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15060,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15070,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15080,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15090,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15100,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15110,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15120,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15130,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15140,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15150,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15160,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15310,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15340,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15341,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15390,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15400,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15410,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15420,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 15430,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20650,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20651,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20652,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20653,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20654,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20660,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20680,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20681,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20682,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20683,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20685,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20690,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20691,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20710,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20720,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20721,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20722,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20723,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20740,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20750,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20751,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20753,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20760,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20761,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20770,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20775,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20780,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20795,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20800,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20801,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20802,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20810,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20811,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20812,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20820,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20825,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20830,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20831,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20840,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20841,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20842,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20845,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20850,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20852,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 20855,
+		"Value": "Material used for crafting items"
+	},
+	{
+		"Id": 200000,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200001,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200002,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200003,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200004,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200005,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200006,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200007,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200008,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200009,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 200010,
+		"Value": "Summons spirit of Black Knife Tiche"
+	},
+	{
+		"Id": 201000,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201001,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201002,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201003,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201004,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201005,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201006,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201007,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201008,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201009,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 201010,
+		"Value": "Summons spirit of Banished Knight Oleg"
+	},
+	{
+		"Id": 202000,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202001,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202002,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202003,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202004,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202005,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202006,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202007,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202008,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202009,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 202010,
+		"Value": "Summons spirit of Banished Knight Engvall"
+	},
+	{
+		"Id": 203000,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203001,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203002,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203003,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203004,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203005,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203006,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203007,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203008,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203009,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 203010,
+		"Value": "Summons two fanged imp spirits"
+	},
+	{
+		"Id": 204000,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204001,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204002,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204003,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204004,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204005,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204006,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204007,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204008,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204009,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 204010,
+		"Value": "Summons spirit of Latenna the Albinauric"
+	},
+	{
+		"Id": 205000,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205001,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205002,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205003,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205004,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205005,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205006,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205007,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205008,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205009,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 205010,
+		"Value": "Summons nomad spirit"
+	},
+	{
+		"Id": 206000,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206001,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206002,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206003,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206004,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206005,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206006,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206007,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206008,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206009,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 206010,
+		"Value": "Summons nightmaiden & swordstress spirits"
+	},
+	{
+		"Id": 207000,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207001,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207002,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207003,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207004,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207005,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207006,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207007,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207008,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207009,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 207010,
+		"Value": "Summons mimic tear spirit"
+	},
+	{
+		"Id": 208000,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208001,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208002,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208003,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208004,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208005,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208006,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208007,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208008,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208009,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 208010,
+		"Value": "Summons Crystalian spirit"
+	},
+	{
+		"Id": 209000,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209001,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209002,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209003,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209004,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209005,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209006,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209007,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209008,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209009,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 209010,
+		"Value": "Summons ancestral follower spirit"
+	},
+	{
+		"Id": 210000,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210001,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210002,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210003,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210004,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210005,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210006,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210007,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210008,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210009,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 210010,
+		"Value": "Summons winged misbegotten spirit"
+	},
+	{
+		"Id": 211000,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211001,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211002,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211003,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211004,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211005,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211006,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211007,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211008,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211009,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 211010,
+		"Value": "Summons two Albinauric spirits"
+	},
+	{
+		"Id": 212000,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212001,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212002,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212003,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212004,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212005,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212006,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212007,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212008,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212009,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 212010,
+		"Value": "Summons two skeletal militiaman spirits"
+	},
+	{
+		"Id": 213000,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213001,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213002,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213003,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213004,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213005,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213006,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213007,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213008,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213009,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 213010,
+		"Value": "Summons skeletal bandit spirit"
+	},
+	{
+		"Id": 214000,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214001,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214002,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214003,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214004,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214005,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214006,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214007,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214008,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214009,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 214010,
+		"Value": "Summons four Oracle Envoy spirits"
+	},
+	{
+		"Id": 215000,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215001,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215002,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215003,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215004,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215005,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215006,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215007,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215008,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215009,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 215010,
+		"Value": "Summons four putrid corpse spirits"
+	},
+	{
+		"Id": 216000,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216001,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216002,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216003,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216004,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216005,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216006,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216007,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216008,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216009,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 216010,
+		"Value": "Summons spirit of Depraved Perfumer Carmaan"
+	},
+	{
+		"Id": 217000,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217001,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217002,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217003,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217004,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217005,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217006,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217007,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217008,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217009,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 217010,
+		"Value": "Summons spirit of Perfumer Tricia"
+	},
+	{
+		"Id": 218000,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218001,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218002,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218003,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218004,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218005,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218006,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218007,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218008,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218009,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 218010,
+		"Value": "Summons glintstone sorcerer spirit"
+	},
+	{
+		"Id": 219000,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219001,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219002,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219003,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219004,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219005,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219006,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219007,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219008,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219009,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 219010,
+		"Value": "Summons Twinsage sorcerer spirit"
+	},
+	{
+		"Id": 220000,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220001,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220002,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220003,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220004,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220005,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220006,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220007,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220008,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220009,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 220010,
+		"Value": "Summons page spirit"
+	},
+	{
+		"Id": 221000,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221001,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221002,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221003,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221004,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221005,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221006,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221007,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221008,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221009,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 221010,
+		"Value": "Summons spirit of Battlemage Hugues"
+	},
+	{
+		"Id": 222000,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222001,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222002,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222003,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222004,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222005,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222006,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222007,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222008,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222009,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 222010,
+		"Value": "Summons two clayman spirits"
+	},
+	{
+		"Id": 223000,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223001,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223002,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223003,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223004,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223005,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223006,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223007,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223008,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223009,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223010,
+		"Value": "Summons spirit of Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 224000,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224001,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224002,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224003,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224004,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224005,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224006,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224007,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224008,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224009,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 224010,
+		"Value": "Summons Kindred of Rot spirit"
+	},
+	{
+		"Id": 225000,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225001,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225002,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225003,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225004,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225005,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225006,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225007,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225008,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225009,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 225010,
+		"Value": "Summons two marionette soldier spirits"
+	},
+	{
+		"Id": 226000,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226001,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226002,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226003,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226004,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226005,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226006,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226007,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226008,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226009,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 226010,
+		"Value": "Summons two avionette soldier spirits"
+	},
+	{
+		"Id": 227000,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227001,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227002,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227003,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227004,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227005,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227006,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227007,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227008,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227009,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 227010,
+		"Value": "Summons Fire Monk spirit"
+	},
+	{
+		"Id": 228000,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228001,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228002,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228003,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228004,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228005,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228006,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228007,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228008,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228009,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 228010,
+		"Value": "Summons spirit of Blackflame Monk Amon"
+	},
+	{
+		"Id": 229000,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229001,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229002,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229003,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229004,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229005,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229006,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229007,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229008,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229009,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 229010,
+		"Value": "Summons man-serpent spirit"
+	},
+	{
+		"Id": 230000,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230001,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230002,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230003,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230004,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230005,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230006,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230007,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230008,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230009,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 230010,
+		"Value": "Summons two Azula beastman spirits"
+	},
+	{
+		"Id": 231000,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231001,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231002,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231003,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231004,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231005,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231006,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231007,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231008,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231009,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 231010,
+		"Value": "Summons Kaiden sellsword spirit"
+	},
+	{
+		"Id": 232000,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232001,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232002,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232003,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232004,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232005,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232006,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232007,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232008,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232009,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 232010,
+		"Value": "Summons three lone wolf spirits"
+	},
+	{
+		"Id": 233000,
+		"Value": "Summons three giant rat spirits"
+	},
+	{
+		"Id": 233001,
+		"Value": "Summons three giant rat spirits"
+	},
+	{
+		"Id": 233002,
+		"Value": "Summons three giant rat spirits"
+	},
+	{
+		"Id": 233003,
+		"Value": "Summons three giant rat spirits"
+	},
+	{
+		"Id": 233004,
+		"Value": "Summons three giant rat spirits"
+	},
+	{
+		"Id": 233005,
+		"Value": "Summons four giant rat spirits"
+	},
+	{
+		"Id": 233006,
+		"Value": "Summons four giant rat spirits"
+	},
+	{
+		"Id": 233007,
+		"Value": "Summons four giant rat spirits"
+	},
+	{
+		"Id": 233008,
+		"Value": "Summons four giant rat spirits"
+	},
+	{
+		"Id": 233009,
+		"Value": "Summons four giant rat spirits"
+	},
+	{
+		"Id": 233010,
+		"Value": "Summons five giant rat spirits"
+	},
+	{
+		"Id": 234000,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234001,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234002,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234003,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234004,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234005,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234006,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234007,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234008,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234009,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 234010,
+		"Value": "Summons five demi-human spirits"
+	},
+	{
+		"Id": 235000,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235001,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235002,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235003,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235004,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235005,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235006,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235007,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235008,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235009,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 235010,
+		"Value": "Summons rotten stray spirit"
+	},
+	{
+		"Id": 236000,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236001,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236002,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236003,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236004,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236005,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236006,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236007,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236008,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236009,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 236010,
+		"Value": "Summons spirit jellyfish"
+	},
+	{
+		"Id": 237000,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237001,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237002,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237003,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237004,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237005,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237006,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237007,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237008,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237009,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 237010,
+		"Value": "Summons warhawk spirit"
+	},
+	{
+		"Id": 238000,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238001,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238002,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238003,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238004,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238005,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238006,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238007,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238008,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238009,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 238010,
+		"Value": "Summons spirit of Stormhawk Deenh"
+	},
+	{
+		"Id": 239000,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239001,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239002,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239003,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239004,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239005,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239006,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239007,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239008,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239009,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239010,
+		"Value": "Summons spirit of Bloodhound Knight Floh"
+	},
+	{
+		"Id": 240000,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240001,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240002,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240003,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240004,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240005,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240006,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240007,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240008,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240009,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 240010,
+		"Value": "Summons five wandering noble spirits"
+	},
+	{
+		"Id": 241000,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241001,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241002,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241003,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241004,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241005,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241006,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241007,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241008,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241009,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 241010,
+		"Value": "Summons noble sorcerer spirit"
+	},
+	{
+		"Id": 242000,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242001,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242002,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242003,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242004,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242005,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242006,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242007,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242008,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242009,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 242010,
+		"Value": "Summons three vulgar militia spirits"
+	},
+	{
+		"Id": 243000,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243001,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243002,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243003,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243004,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243005,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243006,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243007,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243008,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243009,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 243010,
+		"Value": "Summons mad pumpkin head spirit"
+	},
+	{
+		"Id": 244000,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244001,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244002,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244003,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244004,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244005,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244006,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244007,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244008,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244009,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 244010,
+		"Value": "Summons three land squirt spirits"
+	},
+	{
+		"Id": 245000,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245001,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245002,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245003,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245004,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245005,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245006,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245007,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245008,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245009,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 245010,
+		"Value": "Summons five miranda sprout spirits"
+	},
+	{
+		"Id": 246000,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246001,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246002,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246003,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246004,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246005,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246006,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246007,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246008,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246009,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 246010,
+		"Value": "Summons three little living jar spirits"
+	},
+	{
+		"Id": 247000,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247001,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247002,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247003,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247004,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247005,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247006,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247007,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247008,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247009,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 247010,
+		"Value": "Summons spirit of Omenkiller Rollo"
+	},
+	{
+		"Id": 248000,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248001,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248002,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248003,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248004,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248005,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248006,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248007,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248008,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248009,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 248010,
+		"Value": "Summons five greatshield soldier spirits"
+	},
+	{
+		"Id": 249000,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249001,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249002,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249003,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249004,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249005,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249006,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249007,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249008,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249009,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 249010,
+		"Value": "Summons three archer spirits"
+	},
+	{
+		"Id": 250000,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250001,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250002,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250003,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250004,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250005,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250006,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250007,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250008,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250009,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 250010,
+		"Value": "Summons two Godrick soldier spirits"
+	},
+	{
+		"Id": 251000,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251001,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251002,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251003,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251004,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251005,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251006,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251007,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251008,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251009,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 251010,
+		"Value": "Summons three Raya Lucaria soldier spirits"
+	},
+	{
+		"Id": 252000,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252001,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252002,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252003,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252004,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252005,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252006,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252007,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252008,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252009,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 252010,
+		"Value": "Summons two Leyndell soldier spirits"
+	},
+	{
+		"Id": 253000,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253001,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253002,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253003,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253004,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253005,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253006,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253007,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253008,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253009,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 253010,
+		"Value": "Summons two Radahn soldier spirits"
+	},
+	{
+		"Id": 254000,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254001,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254002,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254003,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254004,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254005,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254006,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254007,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254008,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254009,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 254010,
+		"Value": "Summons five mausoleum soldier spirits"
+	},
+	{
+		"Id": 255000,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255001,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255002,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255003,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255004,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255005,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255006,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255007,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255008,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255009,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 255010,
+		"Value": "Summons four Haligtree soldier spirits"
+	},
+	{
+		"Id": 256000,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256001,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256002,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256003,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256004,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256005,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256006,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256007,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256008,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256009,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256010,
+		"Value": "Summons spirit of Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 257000,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257001,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257002,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257003,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257004,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257005,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257006,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257007,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257008,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257009,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 257010,
+		"Value": "Summons spirit of Redmane Knight Ogha"
+	},
+	{
+		"Id": 258000,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258001,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258002,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258003,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258004,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258005,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258006,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258007,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258008,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258009,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 258010,
+		"Value": "Summons spirit of Lhutel the Headless"
+	},
+	{
+		"Id": 259000,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259001,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259002,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259003,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259004,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259005,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259006,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259007,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259008,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259009,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 259010,
+		"Value": "Summons spirit of Nepheli Loux"
+	},
+	{
+		"Id": 260000,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260001,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260002,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260003,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260004,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260005,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260006,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260007,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260008,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260009,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 260010,
+		"Value": "Summons spirit of the Dung Eater"
+	},
+	{
+		"Id": 261000,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261001,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261002,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261003,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261004,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261005,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261006,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261007,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261008,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261009,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 261010,
+		"Value": "Summons spirit of Finger Maiden Therolina"
+	},
+	{
+		"Id": 262000,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262001,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262002,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262003,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262004,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262005,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262006,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262007,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262008,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262009,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262010,
+		"Value": "Summons spirit of Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 263000,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263001,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263002,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263003,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263004,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263005,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263006,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263007,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263008,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263009,
+		"Value": "Summons Jarwight spirit"
+	},
+	{
+		"Id": 263010,
+		"Value": "Summons Jarwight spirit"
+	}
+]

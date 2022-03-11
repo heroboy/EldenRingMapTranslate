@@ -1,0 +1,266 @@
+[
+	{
+		"Id": 201010,
+		"Value": "Using Items"
+	},
+	{
+		"Id": 201100,
+		"Value": "Wielding Armaments"
+	},
+	{
+		"Id": 301020,
+		"Value": "Sites of Grace"
+	},
+	{
+		"Id": 301060,
+		"Value": "Sorceries and Incantations"
+	},
+	{
+		"Id": 301130,
+		"Value": "Bows"
+	},
+	{
+		"Id": 301140,
+		"Value": "Crouching"
+	},
+	{
+		"Id": 301160,
+		"Value": "Stance-Breaking"
+	},
+	{
+		"Id": 301500,
+		"Value": "The Map"
+	},
+	{
+		"Id": 301510,
+		"Value": "Guidance of Grace"
+	},
+	{
+		"Id": 301520,
+		"Value": "Horseback Riding"
+	},
+	{
+		"Id": 301530,
+		"Value": "Death"
+	},
+	{
+		"Id": 301540,
+		"Value": "Stakes of Marika"
+	},
+	{
+		"Id": 301550,
+		"Value": "Summoning Spirits"
+	},
+	{
+		"Id": 301560,
+		"Value": "Materials"
+	},
+	{
+		"Id": 301570,
+		"Value": "Item Crafting"
+	},
+	{
+		"Id": 301580,
+		"Value": "Containers"
+	},
+	{
+		"Id": 301590,
+		"Value": "Flask of Wondrous Physick"
+	},
+	{
+		"Id": 301600,
+		"Value": "Adding Skills"
+	},
+	{
+		"Id": 301610,
+		"Value": "Birdseye Telescopes"
+	},
+	{
+		"Id": 301620,
+		"Value": "Spiritspring Jumping"
+	},
+	{
+		"Id": 301630,
+		"Value": "Vanquishing Enemy Groups"
+	},
+	{
+		"Id": 301640,
+		"Value": "Teardrop Scarabs"
+	},
+	{
+		"Id": 301650,
+		"Value": "Summoning Other Players"
+	},
+	{
+		"Id": 301660,
+		"Value": "Cooperative Multiplayer"
+	},
+	{
+		"Id": 301670,
+		"Value": "Competitive Multiplayer"
+	},
+	{
+		"Id": 301680,
+		"Value": "Invasion Multiplayer"
+	},
+	{
+		"Id": 301690,
+		"Value": "Summoning Pools"
+	},
+	{
+		"Id": 302000,
+		"Value": "Adding Affinities"
+	},
+	{
+		"Id": 302380,
+		"Value": "Hunter Multiplayer"
+	},
+	{
+		"Id": 302390,
+		"Value": "Monument Icon"
+	},
+	{
+		"Id": 302400,
+		"Value": "Guard Counters"
+	},
+	{
+		"Id": 302410,
+		"Value": "Guarding"
+	},
+	{
+		"Id": 302420,
+		"Value": "Requesting Aid from a Hunter"
+	},
+	{
+		"Id": 302430,
+		"Value": "Skills"
+	},
+	{
+		"Id": 302440,
+		"Value": "Fast Travel to Sites of Grace"
+	},
+	{
+		"Id": 302450,
+		"Value": "Strengthening Armaments"
+	},
+	{
+		"Id": 302460,
+		"Value": "Roundtable Hold"
+	},
+	{
+		"Id": 302470,
+		"Value": "Dense Fog of Sleep"
+	},
+	{
+		"Id": 302480,
+		"Value": "Pouches"
+	},
+	{
+		"Id": 302490,
+		"Value": "Dodging"
+	},
+	{
+		"Id": 302500,
+		"Value": "Great Runes"
+	},
+	{
+		"Id": 309000,
+		"Value": "Multiplayer"
+	},
+	{
+		"Id": 402000,
+		"Value": "Equipment Menu"
+	},
+	{
+		"Id": 402010,
+		"Value": "Item Crafting Menu"
+	},
+	{
+		"Id": 402020,
+		"Value": "Inventory Menu"
+	},
+	{
+		"Id": 402030,
+		"Value": "Status Menu"
+	},
+	{
+		"Id": 402040,
+		"Value": "Message Menu"
+	},
+	{
+		"Id": 402050,
+		"Value": "Multiplayer Menu"
+	},
+	{
+		"Id": 402100,
+		"Value": "Map Menu"
+	},
+	{
+		"Id": 402200,
+		"Value": "Level Up Menu"
+	},
+	{
+		"Id": 402210,
+		"Value": "Menu: Additional Healing Flasks"
+	},
+	{
+		"Id": 402220,
+		"Value": "Menu: Increasing Healing Amount"
+	},
+	{
+		"Id": 402230,
+		"Value": "Allocating Flask Uses"
+	},
+	{
+		"Id": 402240,
+		"Value": "Memorize Spells Menu"
+	},
+	{
+		"Id": 402250,
+		"Value": "Sorting the Chest"
+	},
+	{
+		"Id": 402300,
+		"Value": "Shop Menu"
+	},
+	{
+		"Id": 402310,
+		"Value": "Menu: Weapon Upgrades"
+	},
+	{
+		"Id": 402320,
+		"Value": "Ashes of War Menu"
+	},
+	{
+		"Id": 402330,
+		"Value": "Spirit Tuning Menu"
+	},
+	{
+		"Id": 402340,
+		"Value": "Menu: Dragon Communion Shop"
+	},
+	{
+		"Id": 402350,
+		"Value": "Great Rune Menu"
+	},
+	{
+		"Id": 402360,
+		"Value": "Mixing Physicks"
+	},
+	{
+		"Id": 402370,
+		"Value": "Rebirth Menu"
+	},
+	{
+		"Id": 402380,
+		"Value": "Power of Remembrance Menu"
+	},
+	{
+		"Id": 402390,
+		"Value": "Smithing Menu"
+	},
+	{
+		"Id": 402400,
+		"Value": "Remembrance Duplication Menu"
+	}
+]

@@ -1,0 +1,2806 @@
+[
+	{
+		"Id": 10011952,
+		"Value": "Last site of grace visited"
+	},
+	{
+		"Id": 13040000,
+		"Value": "The amount of HP/FP your flasks replenish cannot be increased any further"
+	},
+	{
+		"Id": 13040020,
+		"Value": "Increased the amount of HP/FP replenished by your flasks"
+	},
+	{
+		"Id": 13040100,
+		"Value": "No Flask of Crimson Tears in inventory"
+	},
+	{
+		"Id": 13040110,
+		"Value": "No Flask of Cerulean Tears in inventory"
+	},
+	{
+		"Id": 13040120,
+		"Value": "Flask charges already at maximum"
+	},
+	{
+		"Id": 13040130,
+		"Value": "No Golden Seed in inventory"
+	},
+	{
+		"Id": 13040140,
+		"Value": "Added a charge to Flask of Crimson Tears"
+	},
+	{
+		"Id": 13040150,
+		"Value": "No Flask of Crimson Tears in inventory"
+	},
+	{
+		"Id": 13040160,
+		"Value": "No Flask of Cerulean Tears in inventory"
+	},
+	{
+		"Id": 15000370,
+		"Value": "Add charge to flask"
+	},
+	{
+		"Id": 15000371,
+		"Value": "Flasks"
+	},
+	{
+		"Id": 15000372,
+		"Value": "Cancel"
+	},
+	{
+		"Id": 15000380,
+		"Value": "Increase amount replenished by flasks"
+	},
+	{
+		"Id": 15000385,
+		"Value": "Allocate flask charges"
+	},
+	{
+		"Id": 15000390,
+		"Value": "Memorize spell"
+	},
+	{
+		"Id": 15000395,
+		"Value": "Sort chest"
+	},
+	{
+		"Id": 15000420,
+		"Value": "Pass time"
+	},
+	{
+		"Id": 15000430,
+		"Value": "Until morning"
+	},
+	{
+		"Id": 15000440,
+		"Value": "Until noon"
+	},
+	{
+		"Id": 15000450,
+		"Value": "Until nightfall"
+	},
+	{
+		"Id": 15000460,
+		"Value": "Cancel"
+	},
+	{
+		"Id": 15000510,
+		"Value": "Mix Wondrous Physick"
+	},
+	{
+		"Id": 15000520,
+		"Value": "Great Runes"
+	},
+	{
+		"Id": 15000530,
+		"Value": "Ashes of War"
+	},
+	{
+		"Id": 15000540,
+		"Value": "Level Up"
+	},
+	{
+		"Id": 15000700,
+		"Value": "Purchase"
+	},
+	{
+		"Id": 15000710,
+		"Value": "Sell"
+	},
+	{
+		"Id": 15000720,
+		"Value": "Leave"
+	},
+	{
+		"Id": 20000000,
+		"Value": "Talk"
+	},
+	{
+		"Id": 20000009,
+		"Value": "Leave"
+	},
+	{
+		"Id": 20000010,
+		"Value": "Purchase"
+	},
+	{
+		"Id": 20000011,
+		"Value": "Sell"
+	},
+	{
+		"Id": 20010080,
+		"Value": "Begin Journey <?nextLoopCount?>"
+	},
+	{
+		"Id": 20010101,
+		"Value": "Listen to the sounds of flame"
+	},
+	{
+		"Id": 20011000,
+		"Value": "No Sacred Tear in inventory"
+	},
+	{
+		"Id": 20011001,
+		"Value": "Use a Sacred Tear to increase the amount of HP/FP replenished by your flasks?"
+	},
+	{
+		"Id": 20011010,
+		"Value": "Not enough Golden Seeds"
+	},
+	{
+		"Id": 20011011,
+		"Value": "Use one Golden Seed to increase your number of flask uses?"
+	},
+	{
+		"Id": 20011012,
+		"Value": "Use two Golden Seeds to increase your number of flask uses?"
+	},
+	{
+		"Id": 20011013,
+		"Value": "Use three Golden Seeds to increase your number of flask uses?"
+	},
+	{
+		"Id": 20011014,
+		"Value": "Use four Golden Seeds to increase your number of flask uses?"
+	},
+	{
+		"Id": 20011015,
+		"Value": "Use five Golden Seeds to increase your number of flask uses?"
+	},
+	{
+		"Id": 20011020,
+		"Value": "Cannot rest at sites of grace right now"
+	},
+	{
+		"Id": 20011080,
+		"Value": "Begin Journey <?nextLoopCount?>?"
+	},
+	{
+		"Id": 20011081,
+		"Value": "If you begin Journey <?nextLoopCount?>, you will not be able\nto return to the present world of Journey <?loopCount?>.\nBegin Journey <?nextLoopCount?>?"
+	},
+	{
+		"Id": 21000001,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000002,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000003,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000004,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000005,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000006,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000007,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000008,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000009,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000010,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000011,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000012,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000013,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000014,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000015,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000016,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000017,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000018,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000020,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000021,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000022,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000023,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000024,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000025,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000026,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000027,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000028,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000029,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000030,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000031,
+		"Value": "Talk to Melina"
+	},
+	{
+		"Id": 21000050,
+		"Value": "Tell her you're off to Roundtable Hold"
+	},
+	{
+		"Id": 21001000,
+		"Value": "Accept"
+	},
+	{
+		"Id": 21001001,
+		"Value": "Refuse"
+	},
+	{
+		"Id": 21001002,
+		"Value": "I'm interested"
+	},
+	{
+		"Id": 21001003,
+		"Value": "I'm not interested"
+	},
+	{
+		"Id": 21001004,
+		"Value": "I'll go, too"
+	},
+	{
+		"Id": 21001005,
+		"Value": "I'm ready"
+	},
+	{
+		"Id": 21001006,
+		"Value": "I'd like you to wait"
+	},
+	{
+		"Id": 21011000,
+		"Value": "Show your right hand"
+	},
+	{
+		"Id": 21011001,
+		"Value": "Show your left hand"
+	},
+	{
+		"Id": 21011002,
+		"Value": "Show hands"
+	},
+	{
+		"Id": 21011003,
+		"Value": "Show hands"
+	},
+	{
+		"Id": 21020000,
+		"Value": "Receive power from remembrance"
+	},
+	{
+		"Id": 21020001,
+		"Value": "About Great Runes"
+	},
+	{
+		"Id": 21020002,
+		"Value": "About Queen Marika"
+	},
+	{
+		"Id": 21020003,
+		"Value": "How to burn thorns"
+	},
+	{
+		"Id": 21020004,
+		"Value": "I want to burn the impenetrable thorns"
+	},
+	{
+		"Id": 21060900,
+		"Value": "Talk to miniature Ranni"
+	},
+	{
+		"Id": 21060901,
+		"Value": "Talk to miniature Ranni"
+	},
+	{
+		"Id": 21060902,
+		"Value": "Talk to miniature Ranni"
+	},
+	{
+		"Id": 21060903,
+		"Value": "Talk to Ranni"
+	},
+	{
+		"Id": 21060910,
+		"Value": "Talk to Ranni"
+	},
+	{
+		"Id": 21060911,
+		"Value": "Talk to Ranni"
+	},
+	{
+		"Id": 21060912,
+		"Value": "Talk to Ranni"
+	},
+	{
+		"Id": 21060920,
+		"Value": "Talk to Ranni"
+	},
+	{
+		"Id": 21060921,
+		"Value": "Talk to Ranni"
+	},
+	{
+		"Id": 21060930,
+		"Value": "Talk to miniature Ranni"
+	},
+	{
+		"Id": 21060931,
+		"Value": "Talk to Ranni"
+	},
+	{
+		"Id": 21061000,
+		"Value": "I can call the spectral steed"
+	},
+	{
+		"Id": 21061001,
+		"Value": "I cannot call the spectral steed"
+	},
+	{
+		"Id": 21061002,
+		"Value": "I can call the spectral steed"
+	},
+	{
+		"Id": 21061003,
+		"Value": "I cannot call the spectral steed"
+	},
+	{
+		"Id": 21061004,
+		"Value": "You must be Ranni the Witch, behind the Night of the Black Knives"
+	},
+	{
+		"Id": 21061005,
+		"Value": "I wish to serve you"
+	},
+	{
+		"Id": 21061006,
+		"Value": "No particular reason"
+	},
+	{
+		"Id": 21061007,
+		"Value": "Serve Ranni the Witch"
+	},
+	{
+		"Id": 21061008,
+		"Value": "Do not serve"
+	},
+	{
+		"Id": 21061009,
+		"Value": "Administer Amber Draught?"
+	},
+	{
+		"Id": 21121000,
+		"Value": "Tell him that Radagon is Marika"
+	},
+	{
+		"Id": 22000000,
+		"Value": "Rebirth"
+	},
+	{
+		"Id": 22000001,
+		"Value": "Cosmetics"
+	},
+	{
+		"Id": 22000002,
+		"Value": "Leave"
+	},
+	{
+		"Id": 22001000,
+		"Value": "Use a Larval Tear to accept rebirth?"
+	},
+	{
+		"Id": 22001001,
+		"Value": "Since you weren't reborn with new attributes,\nthe Larval Tear was not spent"
+	},
+	{
+		"Id": 22001002,
+		"Value": "A Larval Tear is required for rebirth"
+	},
+	{
+		"Id": 22021003,
+		"Value": "Choose how many to hand over"
+	},
+	{
+		"Id": 22130001,
+		"Value": "Strengthen armament"
+	},
+	{
+		"Id": 22130002,
+		"Value": "Repair Weapon"
+	},
+	{
+		"Id": 22130003,
+		"Value": "Ashes of War"
+	},
+	{
+		"Id": 22130004,
+		"Value": "About prayer"
+	},
+	{
+		"Id": 22130005,
+		"Value": "About Roderika"
+	},
+	{
+		"Id": 22130006,
+		"Value": "About Roderika"
+	},
+	{
+		"Id": 22130007,
+		"Value": "About Roderika"
+	},
+	{
+		"Id": 22130008,
+		"Value": "About Roderika"
+	},
+	{
+		"Id": 22130009,
+		"Value": "Let's talk a while"
+	},
+	{
+		"Id": 22130010,
+		"Value": "About the chains on your legs"
+	},
+	{
+		"Id": 22130011,
+		"Value": "You're a prisoner?"
+	},
+	{
+		"Id": 22130012,
+		"Value": "About the god-slaying weapon"
+	},
+	{
+		"Id": 22130013,
+		"Value": "About the god-slaying weapon"
+	},
+	{
+		"Id": 22130014,
+		"Value": "Why are you still making weapons?"
+	},
+	{
+		"Id": 22130015,
+		"Value": "What happened to her?"
+	},
+	{
+		"Id": 22130016,
+		"Value": "About yourself"
+	},
+	{
+		"Id": 22130017,
+		"Value": "What's that little knife for?"
+	},
+	{
+		"Id": 22130018,
+		"Value": "Ash of War duplication"
+	},
+	{
+		"Id": 22131000,
+		"Value": "Would you watch over Roderika?"
+	},
+	{
+		"Id": 22131001,
+		"Value": "Nothing"
+	},
+	{
+		"Id": 22131002,
+		"Value": "It's what she wants"
+	},
+	{
+		"Id": 22131003,
+		"Value": "Understood"
+	},
+	{
+		"Id": 22161000,
+		"Value": "I still don't understand"
+	},
+	{
+		"Id": 22161001,
+		"Value": "Tell Sellen's story"
+	},
+	{
+		"Id": 22161002,
+		"Value": "Don't say anything"
+	},
+	{
+		"Id": 22161003,
+		"Value": "Tell Iji's story"
+	},
+	{
+		"Id": 22161004,
+		"Value": "Open the evergaol"
+	},
+	{
+		"Id": 22161005,
+		"Value": "Don't open it"
+	},
+	{
+		"Id": 22201000,
+		"Value": "Help him out"
+	},
+	{
+		"Id": 22201001,
+		"Value": "Don't help"
+	},
+	{
+		"Id": 22230000,
+		"Value": "Alter garments"
+	},
+	{
+		"Id": 22230001,
+		"Value": "Don't tell me..."
+	},
+	{
+		"Id": 22230002,
+		"Value": "I'm sorry..."
+	},
+	{
+		"Id": 22230003,
+		"Value": "Give the Gold Sewing Needle"
+	},
+	{
+		"Id": 22230004,
+		"Value": "Surely she'd be happy for you?"
+	},
+	{
+		"Id": 22230005,
+		"Value": "Have you ever thought so?"
+	},
+	{
+		"Id": 22230006,
+		"Value": "Give a Larval Tear"
+	},
+	{
+		"Id": 22230007,
+		"Value": "Please wait"
+	},
+	{
+		"Id": 22230008,
+		"Value": "What do you really think?"
+	},
+	{
+		"Id": 22230009,
+		"Value": "I heard a voice"
+	},
+	{
+		"Id": 22230010,
+		"Value": "The voice was mine"
+	},
+	{
+		"Id": 22230011,
+		"Value": "I have a favor to ask"
+	},
+	{
+		"Id": 22230012,
+		"Value": "You may call me lord"
+	},
+	{
+		"Id": 22230013,
+		"Value": "Did you see it?"
+	},
+	{
+		"Id": 22231000,
+		"Value": "Give the Sewing Needle"
+	},
+	{
+		"Id": 22231001,
+		"Value": "Don't give it"
+	},
+	{
+		"Id": 22231002,
+		"Value": "You may call me lord"
+	},
+	{
+		"Id": 22231003,
+		"Value": "Don't call me that"
+	},
+	{
+		"Id": 22231004,
+		"Value": "That's right"
+	},
+	{
+		"Id": 22231005,
+		"Value": "Not at all"
+	},
+	{
+		"Id": 22240000,
+		"Value": "Strengthen armaments"
+	},
+	{
+		"Id": 22240001,
+		"Value": "Talk"
+	},
+	{
+		"Id": 22240002,
+		"Value": "Please take care"
+	},
+	{
+		"Id": 22240003,
+		"Value": "About Nokron"
+	},
+	{
+		"Id": 22240005,
+		"Value": "About Blaidd"
+	},
+	{
+		"Id": 22240006,
+		"Value": "About Jerren"
+	},
+	{
+		"Id": 22240007,
+		"Value": "Please go to the festival grounds"
+	},
+	{
+		"Id": 22240008,
+		"Value": "Talk"
+	},
+	{
+		"Id": 22240009,
+		"Value": "About Blaidd"
+	},
+	{
+		"Id": 22240010,
+		"Value": "About Jerren"
+	},
+	{
+		"Id": 22240011,
+		"Value": "Why is Blaidd in the Evergaol?"
+	},
+	{
+		"Id": 22240012,
+		"Value": "Blaidd's death"
+	},
+	{
+		"Id": 22240013,
+		"Value": "About advice"
+	},
+	{
+		"Id": 22240014,
+		"Value": "Blaidd sent me"
+	},
+	{
+		"Id": 22240015,
+		"Value": "Talk"
+	},
+	{
+		"Id": 22240016,
+		"Value": "About Jerren"
+	},
+	{
+		"Id": 22240017,
+		"Value": "Talk"
+	},
+	{
+		"Id": 22240018,
+		"Value": "Talk"
+	},
+	{
+		"Id": 22240020,
+		"Value": "Purchase"
+	},
+	{
+		"Id": 22241010,
+		"Value": "Cannot do this during multiplayer"
+	},
+	{
+		"Id": 22261000,
+		"Value": "I'll be your Potentate"
+	},
+	{
+		"Id": 22261001,
+		"Value": "I'm no Potentate"
+	},
+	{
+		"Id": 22261002,
+		"Value": "Give Alexander's Insides"
+	},
+	{
+		"Id": 22261003,
+		"Value": "Don't give it"
+	},
+	{
+		"Id": 22281000,
+		"Value": "Show the secret medallion"
+	},
+	{
+		"Id": 22281001,
+		"Value": "Don't show it"
+	},
+	{
+		"Id": 22281002,
+		"Value": "Hear her request"
+	},
+	{
+		"Id": 22281003,
+		"Value": "Refuse"
+	},
+	{
+		"Id": 22281004,
+		"Value": "Hear her request after all"
+	},
+	{
+		"Id": 22281005,
+		"Value": "Leave"
+	},
+	{
+		"Id": 23001000,
+		"Value": "Join Volcano Manor"
+	},
+	{
+		"Id": 23001001,
+		"Value": "Don't join"
+	},
+	{
+		"Id": 23001004,
+		"Value": "See the Lord"
+	},
+	{
+		"Id": 23001005,
+		"Value": "Don't see the Lord"
+	},
+	{
+		"Id": 23001006,
+		"Value": "Leave"
+	},
+	{
+		"Id": 23001007,
+		"Value": "Zorayas's form"
+	},
+	{
+		"Id": 23001008,
+		"Value": "Zorayas's troubles"
+	},
+	{
+		"Id": 23001009,
+		"Value": "Zorayas's absence"
+	},
+	{
+		"Id": 23001010,
+		"Value": "I gave her the potion"
+	},
+	{
+		"Id": 23001011,
+		"Value": "Zorayas is dead"
+	},
+	{
+		"Id": 23001012,
+		"Value": "Give the Dancer's Castanets"
+	},
+	{
+		"Id": 23001013,
+		"Value": "Don't give them"
+	},
+	{
+		"Id": 23011000,
+		"Value": "I'll fly straight and true!"
+	},
+	{
+		"Id": 23011001,
+		"Value": "I don't need a seat"
+	},
+	{
+		"Id": 23011002,
+		"Value": "They didn't seem right"
+	},
+	{
+		"Id": 23011003,
+		"Value": "They were magnificent"
+	},
+	{
+		"Id": 23011004,
+		"Value": "Anoint me"
+	},
+	{
+		"Id": 23011005,
+		"Value": "I refuse"
+	},
+	{
+		"Id": 23011006,
+		"Value": "Two Fingers seemed off"
+	},
+	{
+		"Id": 23011007,
+		"Value": "They were magnificent"
+	},
+	{
+		"Id": 23021000,
+		"Value": "No, I'll use the main gate"
+	},
+	{
+		"Id": 23021001,
+		"Value": "Very well"
+	},
+	{
+		"Id": 23021002,
+		"Value": "I want to use the main gate"
+	},
+	{
+		"Id": 23021003,
+		"Value": "Leave"
+	},
+	{
+		"Id": 23021010,
+		"Value": "Locked by some contraption"
+	},
+	{
+		"Id": 23070006,
+		"Value": "Study sorcery"
+	},
+	{
+		"Id": 23070007,
+		"Value": "Obtain a puppet"
+	},
+	{
+		"Id": 23070008,
+		"Value": "About your chambers"
+	},
+	{
+		"Id": 23070009,
+		"Value": "About Nokron"
+	},
+	{
+		"Id": 23070010,
+		"Value": "I want a new puppet"
+	},
+	{
+		"Id": 23070011,
+		"Value": "About the scheme"
+	},
+	{
+		"Id": 23070012,
+		"Value": "Give Amber Starlight"
+	},
+	{
+		"Id": 23070013,
+		"Value": "About the draught"
+	},
+	{
+		"Id": 23070014,
+		"Value": "About the draught"
+	},
+	{
+		"Id": 23070015,
+		"Value": "About your scheme"
+	},
+	{
+		"Id": 23070016,
+		"Value": "About Nepheli"
+	},
+	{
+		"Id": 23070017,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23070018,
+		"Value": "About Amber Starlight"
+	},
+	{
+		"Id": 23070019,
+		"Value": "Hand over the scroll"
+	},
+	{
+		"Id": 23070020,
+		"Value": "Purchase"
+	},
+	{
+		"Id": 23071001,
+		"Value": "Accept the task"
+	},
+	{
+		"Id": 23071002,
+		"Value": "Don't accept"
+	},
+	{
+		"Id": 23071009,
+		"Value": "I'm interested"
+	},
+	{
+		"Id": 23071010,
+		"Value": "I'm not interested"
+	},
+	{
+		"Id": 23071014,
+		"Value": "Ask about Nokron"
+	},
+	{
+		"Id": 23071015,
+		"Value": "Leave"
+	},
+	{
+		"Id": 23090000,
+		"Value": "About the bandits"
+	},
+	{
+		"Id": 23090001,
+		"Value": "That chest..."
+	},
+	{
+		"Id": 23090002,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23090003,
+		"Value": "What you spoke of before"
+	},
+	{
+		"Id": 23090004,
+		"Value": "Speaking of..."
+	},
+	{
+		"Id": 23090006,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23090007,
+		"Value": "What you spoke of before"
+	},
+	{
+		"Id": 23090008,
+		"Value": "About the previous request"
+	},
+	{
+		"Id": 23090009,
+		"Value": "About the previous request"
+	},
+	{
+		"Id": 23090010,
+		"Value": "The request is done"
+	},
+	{
+		"Id": 23090011,
+		"Value": "About Patches"
+	},
+	{
+		"Id": 23090012,
+		"Value": "What is the reward?"
+	},
+	{
+		"Id": 23091000,
+		"Value": "Forgive and forget"
+	},
+	{
+		"Id": 23091001,
+		"Value": "Some things can't be forgiven"
+	},
+	{
+		"Id": 23101000,
+		"Value": "Deliver the letter"
+	},
+	{
+		"Id": 23101001,
+		"Value": "Refuse"
+	},
+	{
+		"Id": 23101002,
+		"Value": "They're human eyes"
+	},
+	{
+		"Id": 23101003,
+		"Value": "Don't say anything"
+	},
+	{
+		"Id": 23101004,
+		"Value": "Give a Shabriri Grape"
+	},
+	{
+		"Id": 23101005,
+		"Value": "Don't give a grape"
+	},
+	{
+		"Id": 23101006,
+		"Value": "Give a Fingerprint Grape"
+	},
+	{
+		"Id": 23101009,
+		"Value": "She's dead"
+	},
+	{
+		"Id": 23111000,
+		"Value": "Deliver Irina's Letter"
+	},
+	{
+		"Id": 23111001,
+		"Value": "Don't give the letter"
+	},
+	{
+		"Id": 23121000,
+		"Value": "I love a good festival"
+	},
+	{
+		"Id": 23121001,
+		"Value": "I'm not the festive type"
+	},
+	{
+		"Id": 23121003,
+		"Value": "About Iji"
+	},
+	{
+		"Id": 23121004,
+		"Value": "Ready as I'll ever be"
+	},
+	{
+		"Id": 23121005,
+		"Value": "Not yet"
+	},
+	{
+		"Id": 23131000,
+		"Value": "Hear the request"
+	},
+	{
+		"Id": 23131001,
+		"Value": "Refuse"
+	},
+	{
+		"Id": 23131002,
+		"Value": "Take Rya's hand"
+	},
+	{
+		"Id": 23131003,
+		"Value": "Refuse Rya's hand"
+	},
+	{
+		"Id": 23131004,
+		"Value": "Tell her of the dark side of Volcano Manor"
+	},
+	{
+		"Id": 23131005,
+		"Value": "Don't tell her"
+	},
+	{
+		"Id": 23131006,
+		"Value": "Give Serpent's Amnion"
+	},
+	{
+		"Id": 23131007,
+		"Value": "Don't give it"
+	},
+	{
+		"Id": 23131009,
+		"Value": "Give Tonic of Forgetfulness"
+	},
+	{
+		"Id": 23131010,
+		"Value": "Give Rya's Necklace"
+	},
+	{
+		"Id": 23131011,
+		"Value": "Don't give it"
+	},
+	{
+		"Id": 23131012,
+		"Value": "Don't give it"
+	},
+	{
+		"Id": 23141000,
+		"Value": "You defended them"
+	},
+	{
+		"Id": 23141001,
+		"Value": "I'm afraid not"
+	},
+	{
+		"Id": 23160003,
+		"Value": "Study sorcery"
+	},
+	{
+		"Id": 23160006,
+		"Value": "I need to speak with you later"
+	},
+	{
+		"Id": 23160007,
+		"Value": "About the request"
+	},
+	{
+		"Id": 23160008,
+		"Value": "About the request"
+	},
+	{
+		"Id": 23160009,
+		"Value": "Show letter of introduction"
+	},
+	{
+		"Id": 23160010,
+		"Value": "Show Azur's sorcery"
+	},
+	{
+		"Id": 23160011,
+		"Value": "Tell me your story"
+	},
+	{
+		"Id": 23160012,
+		"Value": "I'll help restore the primeval current"
+	},
+	{
+		"Id": 23160013,
+		"Value": "I have a favor to ask"
+	},
+	{
+		"Id": 23160014,
+		"Value": "Lusat's location"
+	},
+	{
+		"Id": 23160015,
+		"Value": "About glintstone sorcery"
+	},
+	{
+		"Id": 23160016,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23160017,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23160018,
+		"Value": "About Lusat"
+	},
+	{
+		"Id": 23160019,
+		"Value": "Lusat's location"
+	},
+	{
+		"Id": 23160020,
+		"Value": "Give a scroll"
+	},
+	{
+		"Id": 23160021,
+		"Value": "Give the Conspectus Scroll"
+	},
+	{
+		"Id": 23160022,
+		"Value": "Give the Royal House Scroll"
+	},
+	{
+		"Id": 23160023,
+		"Value": "Give Ranni's Scroll"
+	},
+	{
+		"Id": 23160024,
+		"Value": "Give Sellian Scroll"
+	},
+	{
+		"Id": 23160025,
+		"Value": "Give Gelmirian Scroll"
+	},
+	{
+		"Id": 23160026,
+		"Value": "Don't give a scroll"
+	},
+	{
+		"Id": 23160027,
+		"Value": "Lead on Lusat"
+	},
+	{
+		"Id": 23160028,
+		"Value": "Give the Academy Scroll"
+	},
+	{
+		"Id": 23161000,
+		"Value": "I want to learn sorcery"
+	},
+	{
+		"Id": 23161001,
+		"Value": "Never mind"
+	},
+	{
+		"Id": 23161002,
+		"Value": "I still want to learn"
+	},
+	{
+		"Id": 23161003,
+		"Value": "Let me reconsider"
+	},
+	{
+		"Id": 23161006,
+		"Value": "Let us journey together"
+	},
+	{
+		"Id": 23161007,
+		"Value": "Let me think about it"
+	},
+	{
+		"Id": 23161008,
+		"Value": "Show letter of introduction"
+	},
+	{
+		"Id": 23161009,
+		"Value": "Don't show it"
+	},
+	{
+		"Id": 23161010,
+		"Value": "I still want to learn sorcery"
+	},
+	{
+		"Id": 23161011,
+		"Value": "I need a bit more time to think"
+	},
+	{
+		"Id": 23161012,
+		"Value": "You can now learn new sorcery"
+	},
+	{
+		"Id": 23190000,
+		"Value": "Study incantations"
+	},
+	{
+		"Id": 23190001,
+		"Value": "About D"
+	},
+	{
+		"Id": 23190002,
+		"Value": "About Rogier"
+	},
+	{
+		"Id": 23190003,
+		"Value": "Give the Weathered Dagger"
+	},
+	{
+		"Id": 23191002,
+		"Value": "Accept introduction"
+	},
+	{
+		"Id": 23191003,
+		"Value": "Refuse"
+	},
+	{
+		"Id": 23191004,
+		"Value": "Show Deathroot"
+	},
+	{
+		"Id": 23191005,
+		"Value": "Don't show it"
+	},
+	{
+		"Id": 23191006,
+		"Value": "Give the Weathered Dagger"
+	},
+	{
+		"Id": 23191007,
+		"Value": "Don't give it"
+	},
+	{
+		"Id": 23191008,
+		"Value": "Give the Twinned Armor set"
+	},
+	{
+		"Id": 23191009,
+		"Value": "Don't give it"
+	},
+	{
+		"Id": 23191010,
+		"Value": "Hand over the Twinned Armor set?"
+	},
+	{
+		"Id": 23191011,
+		"Value": "A red mark was made on the map"
+	},
+	{
+		"Id": 23200000,
+		"Value": "Spirit Tuning"
+	},
+	{
+		"Id": 23200001,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23200002,
+		"Value": "About Hewg"
+	},
+	{
+		"Id": 23200003,
+		"Value": "What's happened to Hewg"
+	},
+	{
+		"Id": 23200004,
+		"Value": "There's something you should know"
+	},
+	{
+		"Id": 23200005,
+		"Value": "There's something you should know"
+	},
+	{
+		"Id": 23200006,
+		"Value": "About the spirits' voices"
+	},
+	{
+		"Id": 23200007,
+		"Value": "Please take care"
+	},
+	{
+		"Id": 23200008,
+		"Value": "About the spirits' voices"
+	},
+	{
+		"Id": 23200009,
+		"Value": "Please"
+	},
+	{
+		"Id": 23200010,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23200011,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23201002,
+		"Value": "Give Chrysalids' Memento"
+	},
+	{
+		"Id": 23201003,
+		"Value": "Tell her what the blacksmith said"
+	},
+	{
+		"Id": 23201004,
+		"Value": "Don't tell her"
+	},
+	{
+		"Id": 23211000,
+		"Value": "Pledge service"
+	},
+	{
+		"Id": 23211001,
+		"Value": "Do not pledge service"
+	},
+	{
+		"Id": 23220000,
+		"Value": "Talk in secret"
+	},
+	{
+		"Id": 23220001,
+		"Value": "May I ask a favor?"
+	},
+	{
+		"Id": 23220002,
+		"Value": "About the dagger"
+	},
+	{
+		"Id": 23220003,
+		"Value": "Do you know...?"
+	},
+	{
+		"Id": 23220004,
+		"Value": "About the Black Knifeprint"
+	},
+	{
+		"Id": 23220005,
+		"Value": "About the Black Knifeprint"
+	},
+	{
+		"Id": 23220006,
+		"Value": "About Rogier"
+	},
+	{
+		"Id": 23220007,
+		"Value": "Talk in secret"
+	},
+	{
+		"Id": 23220008,
+		"Value": "Talk in secret"
+	},
+	{
+		"Id": 23220009,
+		"Value": "Talk in secret"
+	},
+	{
+		"Id": 23220010,
+		"Value": "Talk in secret"
+	},
+	{
+		"Id": 23220011,
+		"Value": "Talk in secret"
+	},
+	{
+		"Id": 23220012,
+		"Value": "Give Cursemark of Death"
+	},
+	{
+		"Id": 23220014,
+		"Value": "Talk in secret"
+	},
+	{
+		"Id": 23221000,
+		"Value": "Let her hold you"
+	},
+	{
+		"Id": 23221001,
+		"Value": "Refuse"
+	},
+	{
+		"Id": 23221002,
+		"Value": "That's right"
+	},
+	{
+		"Id": 23221003,
+		"Value": "No, I want to be held"
+	},
+	{
+		"Id": 23221004,
+		"Value": "Enter the Deathbed Dream"
+	},
+	{
+		"Id": 23221005,
+		"Value": "Don't enter"
+	},
+	{
+		"Id": 23221006,
+		"Value": "Enter the Deathbed Dream?"
+	},
+	{
+		"Id": 23231000,
+		"Value": "Leave your gaol!"
+	},
+	{
+		"Id": 23231001,
+		"Value": "Say nothing"
+	},
+	{
+		"Id": 23231002,
+		"Value": "Administer Seluvis's Potion"
+	},
+	{
+		"Id": 23231003,
+		"Value": "Use the Seedbed Curse"
+	},
+	{
+		"Id": 23231004,
+		"Value": "Leave"
+	},
+	{
+		"Id": 23240007,
+		"Value": "About Nepheli"
+	},
+	{
+		"Id": 23240008,
+		"Value": "Nepheli's despair"
+	},
+	{
+		"Id": 23240009,
+		"Value": "About Ensha"
+	},
+	{
+		"Id": 23240010,
+		"Value": "About Ensha"
+	},
+	{
+		"Id": 23240012,
+		"Value": "About Godrick"
+	},
+	{
+		"Id": 23240013,
+		"Value": "About Radahn"
+	},
+	{
+		"Id": 23240014,
+		"Value": "About Rykard"
+	},
+	{
+		"Id": 23240015,
+		"Value": "About Morgott"
+	},
+	{
+		"Id": 23240016,
+		"Value": "About Rennala"
+	},
+	{
+		"Id": 23240017,
+		"Value": "Unlocated demigods"
+	},
+	{
+		"Id": 23240018,
+		"Value": "About Radahn"
+	},
+	{
+		"Id": 23240019,
+		"Value": "About Rykard"
+	},
+	{
+		"Id": 23240020,
+		"Value": "About Rennala"
+	},
+	{
+		"Id": 23240021,
+		"Value": "About the secret medallions"
+	},
+	{
+		"Id": 23240022,
+		"Value": "The secret medallions are reunited"
+	},
+	{
+		"Id": 23240023,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23240024,
+		"Value": "Where should I go?"
+	},
+	{
+		"Id": 23240025,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23240026,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23240027,
+		"Value": "Using the secret medallions"
+	},
+	{
+		"Id": 23240028,
+		"Value": "About the Haligtree roots"
+	},
+	{
+		"Id": 23240029,
+		"Value": "Mohgwyn Palace"
+	},
+	{
+		"Id": 23240030,
+		"Value": "About the Lord of Blood's cocoon"
+	},
+	{
+		"Id": 23240031,
+		"Value": "Show him Seluvis's Potion"
+	},
+	{
+		"Id": 23240032,
+		"Value": "Give Gideon Seluvis's Potion"
+	},
+	{
+		"Id": 23240033,
+		"Value": "About Ensha"
+	},
+	{
+		"Id": 23240034,
+		"Value": "About the secret medallions"
+	},
+	{
+		"Id": 23240035,
+		"Value": "About the Lord of Blood's cocoon"
+	},
+	{
+		"Id": 23241000,
+		"Value": "What do you mean, a house guest?"
+	},
+	{
+		"Id": 23241001,
+		"Value": "Say nothing"
+	},
+	{
+		"Id": 23241002,
+		"Value": "Hand over Seluvis's Potion"
+	},
+	{
+		"Id": 23241003,
+		"Value": "Don't hand it over"
+	},
+	{
+		"Id": 23241004,
+		"Value": "A red mark was made on the map"
+	},
+	{
+		"Id": 23250000,
+		"Value": "Learn skills"
+	},
+	{
+		"Id": 23250001,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23250002,
+		"Value": "I've defeated Godrick"
+	},
+	{
+		"Id": 23250003,
+		"Value": "About the corpse under Stormveil"
+	},
+	{
+		"Id": 23250004,
+		"Value": "Give the Black Knifeprint"
+	},
+	{
+		"Id": 23250005,
+		"Value": "Ranni cast off her cursemark"
+	},
+	{
+		"Id": 23250007,
+		"Value": "About D"
+	},
+	{
+		"Id": 23250008,
+		"Value": "Why do you want a cursemark?"
+	},
+	{
+		"Id": 23250009,
+		"Value": "About D"
+	},
+	{
+		"Id": 23250010,
+		"Value": "Rogier's proposition"
+	},
+	{
+		"Id": 23250011,
+		"Value": "About D"
+	},
+	{
+		"Id": 23250012,
+		"Value": "About the corpse under Stormveil"
+	},
+	{
+		"Id": 23250013,
+		"Value": "Ranni's whereabouts"
+	},
+	{
+		"Id": 23250014,
+		"Value": "Ranni's whereabouts"
+	},
+	{
+		"Id": 23250015,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23251000,
+		"Value": "I'm here to defeat Godrick"
+	},
+	{
+		"Id": 23251001,
+		"Value": "I can't tell you"
+	},
+	{
+		"Id": 23251004,
+		"Value": "Handed over the Black Knifeprint"
+	},
+	{
+		"Id": 23260000,
+		"Value": "Learn skills"
+	},
+	{
+		"Id": 23260001,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23260002,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23261000,
+		"Value": "My faith holds firm"
+	},
+	{
+		"Id": 23261001,
+		"Value": "I'm not sure"
+	},
+	{
+		"Id": 23261002,
+		"Value": "I understand"
+	},
+	{
+		"Id": 23261003,
+		"Value": "I don't understand"
+	},
+	{
+		"Id": 23300000,
+		"Value": "Study sorcery"
+	},
+	{
+		"Id": 23300001,
+		"Value": "Atone"
+	},
+	{
+		"Id": 23300002,
+		"Value": "Show Celestial Dew"
+	},
+	{
+		"Id": 23300003,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23300005,
+		"Value": "About the miracle"
+	},
+	{
+		"Id": 23300006,
+		"Value": "About absolution"
+	},
+	{
+		"Id": 23300007,
+		"Value": "About Radagon"
+	},
+	{
+		"Id": 23300008,
+		"Value": "About Radagon"
+	},
+	{
+		"Id": 23300009,
+		"Value": "About Rennala"
+	},
+	{
+		"Id": 23300010,
+		"Value": "About Rennala"
+	},
+	{
+		"Id": 23300011,
+		"Value": "Give a scroll"
+	},
+	{
+		"Id": 23300012,
+		"Value": "Give a prayerbook"
+	},
+	{
+		"Id": 23300013,
+		"Value": "Study incantations"
+	},
+	{
+		"Id": 23301000,
+		"Value": "I don't know"
+	},
+	{
+		"Id": 23301001,
+		"Value": "You don't need absolution"
+	},
+	{
+		"Id": 23301002,
+		"Value": "No Celestial Dew in inventory"
+	},
+	{
+		"Id": 23301003,
+		"Value": "Use Celestial Dew to receive absolution?"
+	},
+	{
+		"Id": 23301004,
+		"Value": "Your sins are absolved"
+	},
+	{
+		"Id": 23310000,
+		"Value": "About Rya"
+	},
+	{
+		"Id": 23310001,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23310002,
+		"Value": "You should probably know... "
+	},
+	{
+		"Id": 23310003,
+		"Value": "About the Dung Eater"
+	},
+	{
+		"Id": 23310004,
+		"Value": "About the Dung Eater"
+	},
+	{
+		"Id": 23311000,
+		"Value": "Give me the necklace"
+	},
+	{
+		"Id": 23311001,
+		"Value": "Leave"
+	},
+	{
+		"Id": 23311002,
+		"Value": "Deal"
+	},
+	{
+		"Id": 23311003,
+		"Value": "Refuse"
+	},
+	{
+		"Id": 23330000,
+		"Value": "Study sorcery"
+	},
+	{
+		"Id": 23330001,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23330002,
+		"Value": "About the glintstone key"
+	},
+	{
+		"Id": 23330004,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23330005,
+		"Value": "Give the Academy Glintstone Key"
+	},
+	{
+		"Id": 23330006,
+		"Value": "About Sellen"
+	},
+	{
+		"Id": 23330008,
+		"Value": "About the glintstone key"
+	},
+	{
+		"Id": 23330009,
+		"Value": "Give a scroll"
+	},
+	{
+		"Id": 23330010,
+		"Value": "Don't give the scroll"
+	},
+	{
+		"Id": 23331000,
+		"Value": "Donate <?evntAcquittalPrice?> runes"
+	},
+	{
+		"Id": 23331001,
+		"Value": "Don't donate runes"
+	},
+	{
+		"Id": 23331003,
+		"Value": "Not enough runes to donate"
+	},
+	{
+		"Id": 23341000,
+		"Value": "Give Seluvis's Potion"
+	},
+	{
+		"Id": 23341001,
+		"Value": "Give the Stormhawk King"
+	},
+	{
+		"Id": 23341002,
+		"Value": "I heard from Gideon"
+	},
+	{
+		"Id": 23341003,
+		"Value": "Leave"
+	},
+	{
+		"Id": 23481000,
+		"Value": "Give an Unalloyed Gold Needle"
+	},
+	{
+		"Id": 23481001,
+		"Value": "Don't give it"
+	},
+	{
+		"Id": 23481002,
+		"Value": "Give the Valkyrie's Prosthesis"
+	},
+	{
+		"Id": 23490000,
+		"Value": "Study sorcery"
+	},
+	{
+		"Id": 23490001,
+		"Value": "Millicent paid a visit"
+	},
+	{
+		"Id": 23490002,
+		"Value": "I gave Millicent the prosthesis"
+	},
+	{
+		"Id": 23490003,
+		"Value": "About Millicent"
+	},
+	{
+		"Id": 23490004,
+		"Value": "About Malenia"
+	},
+	{
+		"Id": 23490005,
+		"Value": "What Millicent said"
+	},
+	{
+		"Id": 23490006,
+		"Value": "Why are you crying?"
+	},
+	{
+		"Id": 23490009,
+		"Value": "Become a flower?"
+	},
+	{
+		"Id": 23490010,
+		"Value": "Become a flower?"
+	},
+	{
+		"Id": 23490011,
+		"Value": "Study incantations"
+	},
+	{
+		"Id": 23491000,
+		"Value": "Hear the request"
+	},
+	{
+		"Id": 23491001,
+		"Value": "Refuse"
+	},
+	{
+		"Id": 23510000,
+		"Value": "Study incantations"
+	},
+	{
+		"Id": 23510001,
+		"Value": "Talk"
+	},
+	{
+		"Id": 23510002,
+		"Value": "About the noble Goldmask"
+	},
+	{
+		"Id": 23510003,
+		"Value": "Tell the noble Goldmask's whereabouts"
+	},
+	{
+		"Id": 23510004,
+		"Value": "About the noble Goldmask"
+	},
+	{
+		"Id": 23510005,
+		"Value": "About the noble Goldmask"
+	},
+	{
+		"Id": 23510006,
+		"Value": "About the noble Goldmask"
+	},
+	{
+		"Id": 23510007,
+		"Value": "About the noble Goldmask"
+	},
+	{
+		"Id": 23510008,
+		"Value": "About the noble Goldmask"
+	},
+	{
+		"Id": 23510009,
+		"Value": "Give Tonic of Forgetfulness"
+	},
+	{
+		"Id": 23510010,
+		"Value": "Give a prayerbook"
+	},
+	{
+		"Id": 23510011,
+		"Value": "Give the Fire Monks' Prayerbook"
+	},
+	{
+		"Id": 23510012,
+		"Value": "Give the Giant's Prayerbook"
+	},
+	{
+		"Id": 23510013,
+		"Value": "Give the Godskin Prayerbook"
+	},
+	{
+		"Id": 23510014,
+		"Value": "Give the Two Fingers' Prayerbook"
+	},
+	{
+		"Id": 23510015,
+		"Value": "Give the Assassin's Prayerbook"
+	},
+	{
+		"Id": 23510016,
+		"Value": "Give the Erdtree Prayerbook"
+	},
+	{
+		"Id": 23510017,
+		"Value": "Give the Erdtree Codex"
+	},
+	{
+		"Id": 23510018,
+		"Value": "Give the Golden Order Principia"
+	},
+	{
+		"Id": 23510019,
+		"Value": "Give the Golden Order Canon"
+	},
+	{
+		"Id": 23510020,
+		"Value": "Give the Dragon Cult Prayerbook"
+	},
+	{
+		"Id": 23510021,
+		"Value": "Give the Ancient Dragon Prayerbook"
+	},
+	{
+		"Id": 23510022,
+		"Value": "Don't give a prayerbook"
+	},
+	{
+		"Id": 23511000,
+		"Value": "I see it"
+	},
+	{
+		"Id": 23511001,
+		"Value": "I don't see it"
+	},
+	{
+		"Id": 26000000,
+		"Value": "Offer a bell bearing"
+	},
+	{
+		"Id": 26000001,
+		"Value": "Cancel"
+	},
+	{
+		"Id": 26000004,
+		"Value": "Go back"
+	},
+	{
+		"Id": 26000010,
+		"Value": "Purchase"
+	},
+	{
+		"Id": 26000011,
+		"Value": "Bell Bearing Shop 1"
+	},
+	{
+		"Id": 26000012,
+		"Value": "Bell Bearing Shop 2"
+	},
+	{
+		"Id": 26000013,
+		"Value": "Bell Bearing Shop 3"
+	},
+	{
+		"Id": 26000014,
+		"Value": "Bell Bearing Shop 4"
+	},
+	{
+		"Id": 26000020,
+		"Value": "Sellen's Bell Bearing"
+	},
+	{
+		"Id": 26000021,
+		"Value": "Seluvis's Bell Bearing"
+	},
+	{
+		"Id": 26000022,
+		"Value": "Seluvis's Bell Bearing"
+	},
+	{
+		"Id": 26000023,
+		"Value": "Thops's Bell Bearing"
+	},
+	{
+		"Id": 26000024,
+		"Value": "Corhyn's Bell Bearing"
+	},
+	{
+		"Id": 26000025,
+		"Value": "Miriel's Bell Bearing (Sorcery)"
+	},
+	{
+		"Id": 26000026,
+		"Value": "D's Bell Bearing"
+	},
+	{
+		"Id": 26000027,
+		"Value": "Gowry's Bell Bearing"
+	},
+	{
+		"Id": 26000028,
+		"Value": "Rogier's Bell Bearing"
+	},
+	{
+		"Id": 26000029,
+		"Value": "Bernahl's Bell Bearing"
+	},
+	{
+		"Id": 26000030,
+		"Value": "Iji's Bell Bearing"
+	},
+	{
+		"Id": 26000031,
+		"Value": "Miriel's Bell Bearing (Incantations)"
+	},
+	{
+		"Id": 26000040,
+		"Value": "Gostoc's Bell Bearing"
+	},
+	{
+		"Id": 26000041,
+		"Value": "Pidia's Bell Bearing"
+	},
+	{
+		"Id": 26000042,
+		"Value": "Patches' Bell Bearing"
+	},
+	{
+		"Id": 26000043,
+		"Value": "Blackguard's Bell Bearing"
+	},
+	{
+		"Id": 26000050,
+		"Value": "Nomadic Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000051,
+		"Value": "Nomadic Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000052,
+		"Value": "Nomadic Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 26000053,
+		"Value": "Nomadic Merchant's Bell Bearing [4]"
+	},
+	{
+		"Id": 26000054,
+		"Value": "Nomadic Merchant's Bell Bearing [5]"
+	},
+	{
+		"Id": 26000055,
+		"Value": "Nomadic Merchant's Bell Bearing [6]"
+	},
+	{
+		"Id": 26000056,
+		"Value": "Nomadic Merchant's Bell Bearing [7]"
+	},
+	{
+		"Id": 26000057,
+		"Value": "Nomadic Merchant's Bell Bearing [8]"
+	},
+	{
+		"Id": 26000058,
+		"Value": "Nomadic Merchant's Bell Bearing [9]"
+	},
+	{
+		"Id": 26000059,
+		"Value": "Nomadic Merchant's Bell Bearing [10]"
+	},
+	{
+		"Id": 26000060,
+		"Value": "Nomadic Merchant's Bell Bearing [11]"
+	},
+	{
+		"Id": 26000070,
+		"Value": "Kalé's Bell Bearing"
+	},
+	{
+		"Id": 26000071,
+		"Value": "Isolated Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000072,
+		"Value": "Isolated Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000073,
+		"Value": "Hermit Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000074,
+		"Value": "Isolated Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 26000075,
+		"Value": "Hermit Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000076,
+		"Value": "Abandoned Merchant's Bell Bearing"
+	},
+	{
+		"Id": 26000077,
+		"Value": "Hermit Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 26000078,
+		"Value": "Imprisoned Merchant's Bell Bearing"
+	},
+	{
+		"Id": 26000110,
+		"Value": "Offer Pidia's Bell Bearing"
+	},
+	{
+		"Id": 26000111,
+		"Value": "Offer Seluvis's Bell Bearing"
+	},
+	{
+		"Id": 26000112,
+		"Value": "Offer Patches' Bell Bearing"
+	},
+	{
+		"Id": 26000113,
+		"Value": "Offer Sellen's Bell Bearing"
+	},
+	{
+		"Id": 26000115,
+		"Value": "Offer D's Bell Bearing"
+	},
+	{
+		"Id": 26000116,
+		"Value": "Offer Bernahl's Bell Bearing"
+	},
+	{
+		"Id": 26000117,
+		"Value": "Offer Miriel's Bell Bearing"
+	},
+	{
+		"Id": 26000118,
+		"Value": "Offer Gostoc's Bell Bearing"
+	},
+	{
+		"Id": 26000119,
+		"Value": "Offer Thops's Bell Bearing"
+	},
+	{
+		"Id": 26000120,
+		"Value": "Offer Kalé's Bell Bearing"
+	},
+	{
+		"Id": 26000121,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000122,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000123,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 26000124,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [4]"
+	},
+	{
+		"Id": 26000125,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [5]"
+	},
+	{
+		"Id": 26000126,
+		"Value": "Offer Isolated Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000127,
+		"Value": "Offer Isolated Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000128,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [6]"
+	},
+	{
+		"Id": 26000129,
+		"Value": "Offer Hermit Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000130,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [7]"
+	},
+	{
+		"Id": 26000131,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [8]"
+	},
+	{
+		"Id": 26000132,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [9]"
+	},
+	{
+		"Id": 26000133,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [10]"
+	},
+	{
+		"Id": 26000134,
+		"Value": "Offer Nomadic Merchant's Bell Bearing [11]"
+	},
+	{
+		"Id": 26000135,
+		"Value": "Offer Isolated Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 26000136,
+		"Value": "Offer Hermit Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000137,
+		"Value": "Offer Abandoned Merchant's Bell Bearing"
+	},
+	{
+		"Id": 26000138,
+		"Value": "Offer Hermit Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 26000139,
+		"Value": "Offer Imprisoned Merchant's Bell Bearing"
+	},
+	{
+		"Id": 26000140,
+		"Value": "Offer Iji's Bell Bearing"
+	},
+	{
+		"Id": 26000141,
+		"Value": "Offer Rogier's Bell Bearing"
+	},
+	{
+		"Id": 26000142,
+		"Value": "Offer Blackguard's Bell Bearing"
+	},
+	{
+		"Id": 26000143,
+		"Value": "Offer Corhyn's Bell Bearing"
+	},
+	{
+		"Id": 26000144,
+		"Value": "Offer Gowry's Bell Bearing"
+	},
+	{
+		"Id": 26000145,
+		"Value": "Offer Bone Peddler's Bell Bearing"
+	},
+	{
+		"Id": 26000146,
+		"Value": "Offer Meat Peddler's Bell Bearing"
+	},
+	{
+		"Id": 26000147,
+		"Value": "Offer Medicine Peddler's Bell Bearing"
+	},
+	{
+		"Id": 26000148,
+		"Value": "Offer Gravity Stone Peddler's Bell Bearing"
+	},
+	{
+		"Id": 26000151,
+		"Value": "Offer Smithing Miner's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000152,
+		"Value": "Offer Smithing Miner's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000153,
+		"Value": "Offer Smithing Miner's Bell Bearing [3]"
+	},
+	{
+		"Id": 26000154,
+		"Value": "Offer Smithing Miner's Bell Bearing [4]"
+	},
+	{
+		"Id": 26000155,
+		"Value": "Offer Somber Miner's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000156,
+		"Value": "Offer Somber Miner's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000157,
+		"Value": "Offer Somber Miner's Bell Bearing [3]"
+	},
+	{
+		"Id": 26000158,
+		"Value": "Offer Somber Miner's Bell Bearing [4]"
+	},
+	{
+		"Id": 26000159,
+		"Value": "Offer Somber Miner's Bell Bearing [5]"
+	},
+	{
+		"Id": 26000160,
+		"Value": "Offer Glovewort Picker's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000161,
+		"Value": "Offer Glovewort Picker's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000162,
+		"Value": "Offer Glovewort Picker's Bell Bearing [3]"
+	},
+	{
+		"Id": 26000163,
+		"Value": "Offer Ghostform Picker's Bell Bearing [1]"
+	},
+	{
+		"Id": 26000164,
+		"Value": "Offer Ghostform Picker's Bell Bearing [2]"
+	},
+	{
+		"Id": 26000165,
+		"Value": "Offer Ghostform Picker's Bell Bearing [3]"
+	},
+	{
+		"Id": 26001000,
+		"Value": "No bell bearings offered"
+	},
+	{
+		"Id": 26001001,
+		"Value": "No bell bearing to offer"
+	},
+	{
+		"Id": 26001110,
+		"Value": "Offered Pidia's Bell Bearing"
+	},
+	{
+		"Id": 26001111,
+		"Value": "Offered Seluvis's Bell Bearing"
+	},
+	{
+		"Id": 26001112,
+		"Value": "Offered Patches' Bell Bearing"
+	},
+	{
+		"Id": 26001113,
+		"Value": "Offered Sellen's Bell Bearing"
+	},
+	{
+		"Id": 26001114,
+		"Value": "Offered Monk Jiko's Ashes"
+	},
+	{
+		"Id": 26001115,
+		"Value": "Offered D's Bell Bearing"
+	},
+	{
+		"Id": 26001116,
+		"Value": "Offered Bernahl's Bell Bearing"
+	},
+	{
+		"Id": 26001117,
+		"Value": "Offered Miriel's Bell Bearing"
+	},
+	{
+		"Id": 26001118,
+		"Value": "Offered Gostoc's Bell Bearing"
+	},
+	{
+		"Id": 26001119,
+		"Value": "Offered Thops's Bell Bearing"
+	},
+	{
+		"Id": 26001120,
+		"Value": "Offered Kalé's Bell Bearing"
+	},
+	{
+		"Id": 26001121,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 26001122,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 26001123,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 26001124,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [4]"
+	},
+	{
+		"Id": 26001125,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [5]"
+	},
+	{
+		"Id": 26001126,
+		"Value": "Offered Isolated Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 26001127,
+		"Value": "Offered Isolated Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 26001128,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [6]"
+	},
+	{
+		"Id": 26001129,
+		"Value": "Offered Hermit Merchant's Bell Bearing [1]"
+	},
+	{
+		"Id": 26001130,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [7]"
+	},
+	{
+		"Id": 26001131,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [8]"
+	},
+	{
+		"Id": 26001132,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [9]"
+	},
+	{
+		"Id": 26001133,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [10]"
+	},
+	{
+		"Id": 26001134,
+		"Value": "Offered Nomadic Merchant's Bell Bearing [11]"
+	},
+	{
+		"Id": 26001135,
+		"Value": "Offered Isolated Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 26001136,
+		"Value": "Offered Hermit Merchant's Bell Bearing [2]"
+	},
+	{
+		"Id": 26001137,
+		"Value": "Offered Abandoned Merchant's Bell Bearing"
+	},
+	{
+		"Id": 26001138,
+		"Value": "Offered Hermit Merchant's Bell Bearing [3]"
+	},
+	{
+		"Id": 26001139,
+		"Value": "Offered Imprisoned Merchant's Bell Bearing"
+	},
+	{
+		"Id": 26001140,
+		"Value": "Offered Iji's Bell Bearing"
+	},
+	{
+		"Id": 26001141,
+		"Value": "Offered Rogier's Bell Bearing"
+	},
+	{
+		"Id": 26001142,
+		"Value": "Offered Blackguard's Bell Bearing"
+	},
+	{
+		"Id": 26001143,
+		"Value": "Offered Corhyn's Bell Bearing"
+	},
+	{
+		"Id": 26001144,
+		"Value": "Offered Gowry's Bell Bearing"
+	},
+	{
+		"Id": 26001145,
+		"Value": "Offered Bone Peddler's Bell Bearing"
+	},
+	{
+		"Id": 26001146,
+		"Value": "Offered Meat Peddler's Bell Bearing"
+	},
+	{
+		"Id": 26001147,
+		"Value": "Offered Medicine Peddler's Bell Bearing"
+	},
+	{
+		"Id": 26001148,
+		"Value": "Offered Gravity Stone Peddler's Bell Bearing"
+	},
+	{
+		"Id": 26001151,
+		"Value": "Offered Smithing Miner's Bell Bearing [1]"
+	},
+	{
+		"Id": 26001152,
+		"Value": "Offered Smithing Miner's Bell Bearing [2]"
+	},
+	{
+		"Id": 26001153,
+		"Value": "Offered Smithing Miner's Bell Bearing [3]"
+	},
+	{
+		"Id": 26001154,
+		"Value": "Offered Smithing Miner's Bell Bearing [4]"
+	},
+	{
+		"Id": 26001155,
+		"Value": "Offered Somber Miner's Bell Bearing [1]"
+	},
+	{
+		"Id": 26001156,
+		"Value": "Offered Somber Miner's Bell Bearing [2]"
+	},
+	{
+		"Id": 26001157,
+		"Value": "Offered Somber Miner's Bell Bearing [3]"
+	},
+	{
+		"Id": 26001158,
+		"Value": "Offered Somber Miner's Bell Bearing [4]"
+	},
+	{
+		"Id": 26001159,
+		"Value": "Offered Somber Miner's Bell Bearing [5]"
+	},
+	{
+		"Id": 26001160,
+		"Value": "Offered Glovewort Picker's Bell Bearing [1]"
+	},
+	{
+		"Id": 26001161,
+		"Value": "Offered Glovewort Picker's Bell Bearing [2]"
+	},
+	{
+		"Id": 26001162,
+		"Value": "Offered Glovewort Picker's Bell Bearing [3]"
+	},
+	{
+		"Id": 26001163,
+		"Value": "Offered Ghostform Picker's Bell Bearing [1]"
+	},
+	{
+		"Id": 26001164,
+		"Value": "Offered Ghostform Picker's Bell Bearing [2]"
+	},
+	{
+		"Id": 26001165,
+		"Value": "Offered Ghostform Picker's Bell Bearing [3]"
+	},
+	{
+		"Id": 26010000,
+		"Value": "Ritual of Dragon Communion"
+	},
+	{
+		"Id": 26020000,
+		"Value": "Strengthen armament"
+	},
+	{
+		"Id": 26020001,
+		"Value": "Affix gem"
+	},
+	{
+		"Id": 26071000,
+		"Value": "Mend the Elden Ring"
+	},
+	{
+		"Id": 26071001,
+		"Value": "Use Mending Rune of Perfect Order"
+	},
+	{
+		"Id": 26071002,
+		"Value": "Use Mending Rune of the Death-Prince"
+	},
+	{
+		"Id": 26071003,
+		"Value": "Use Mending Rune of the Fell Curse"
+	},
+	{
+		"Id": 26080000,
+		"Value": "Apply cosmetics"
+	},
+	{
+		"Id": 26080001,
+		"Value": "Leave"
+	},
+	{
+		"Id": 28000002,
+		"Value": "About Kalé"
+	},
+	{
+		"Id": 28000003,
+		"Value": "Recommendation"
+	},
+	{
+		"Id": 28000004,
+		"Value": "Talk"
+	},
+	{
+		"Id": 28000005,
+		"Value": "Talk"
+	},
+	{
+		"Id": 28000014,
+		"Value": "About the howling in Mistwood"
+	},
+	{
+		"Id": 28000015,
+		"Value": "About Blaidd"
+	},
+	{
+		"Id": 99990205,
+		"Value": "Level up"
+	},
+	{
+		"Id": 99990301,
+		"Value": "Speak with Merina"
+	},
+	{
+		"Id": 99990302,
+		"Value": "You can now summon spirits at rebirth monuments"
+	},
+	{
+		"Id": 99990400,
+		"Value": "Your sins will be pardoned for <?evntAcquittalPrice?> runes\nRequest absolution?"
+	},
+	{
+		"Id": 99990401,
+		"Value": "Your sins have been pardoned"
+	},
+	{
+		"Id": 99990402,
+		"Value": "Insufficient runes"
+	},
+	{
+		"Id": 99990403,
+		"Value": "You are already absolved"
+	},
+	{
+		"Id": 99990404,
+		"Value": "Request absolution? (仮)"
+	},
+	{
+		"Id": 99990405,
+		"Value": "No item (仮)"
+	}
+]

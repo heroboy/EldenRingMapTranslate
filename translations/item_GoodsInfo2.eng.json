@@ -1,0 +1,3230 @@
+[
+	{
+		"Id": 1760,
+		"Value": "Found near the remains of fallen ruins"
+	},
+	{
+		"Id": 11000,
+		"Value": "Temporarily raises max HP"
+	},
+	{
+		"Id": 11001,
+		"Value": "Temporarily raises max stamina"
+	},
+	{
+		"Id": 11002,
+		"Value": "Restores half of max HP"
+	},
+	{
+		"Id": 11003,
+		"Value": "Restores half of max HP"
+	},
+	{
+		"Id": 11004,
+		"Value": "Restores half of max FP"
+	},
+	{
+		"Id": 11005,
+		"Value": "Restores half of max FP"
+	},
+	{
+		"Id": 11006,
+		"Value": "Heals status and raises resistance"
+	},
+	{
+		"Id": 11007,
+		"Value": "Restores HP when near death"
+	},
+	{
+		"Id": 11008,
+		"Value": "Significantly negates damage received"
+	},
+	{
+		"Id": 11009,
+		"Value": "Steadily restores HP for a time"
+	},
+	{
+		"Id": 11010,
+		"Value": "Temporarily boosts stamina recovery speed"
+	},
+	{
+		"Id": 11011,
+		"Value": "Temporarily boosts all damage negation"
+	},
+	{
+		"Id": 11012,
+		"Value": "Temporarily reduces equip load"
+	},
+	{
+		"Id": 11013,
+		"Value": "Temporarily boosts successive attack power"
+	},
+	{
+		"Id": 11014,
+		"Value": "Temporarily boosts charged attack power"
+	},
+	{
+		"Id": 11015,
+		"Value": "Temporarily increases rolling efficiency"
+	},
+	{
+		"Id": 11016,
+		"Value": "Causes an explosion"
+	},
+	{
+		"Id": 11017,
+		"Value": "Causes an explosion"
+	},
+	{
+		"Id": 11018,
+		"Value": "Temporarily boosts stability"
+	},
+	{
+		"Id": 11019,
+		"Value": "Temporarily stops rune loss on death"
+	},
+	{
+		"Id": 11020,
+		"Value": "Converts damage received into HP"
+	},
+	{
+		"Id": 11021,
+		"Value": "Temporarily boosts strength"
+	},
+	{
+		"Id": 11022,
+		"Value": "Temporarily boosts dexterity"
+	},
+	{
+		"Id": 11023,
+		"Value": "Temporarily boosts intelligence"
+	},
+	{
+		"Id": 11024,
+		"Value": "Temporarily boosts faith"
+	},
+	{
+		"Id": 11025,
+		"Value": "Eliminates all FP consumption"
+	},
+	{
+		"Id": 11026,
+		"Value": "Temporarily makes stance break easier"
+	},
+	{
+		"Id": 11027,
+		"Value": "Purifies the curse of the Lord of Blood"
+	},
+	{
+		"Id": 11028,
+		"Value": "Temporarily boosts fire attacks"
+	},
+	{
+		"Id": 11029,
+		"Value": "Temporarily boosts magic attacks"
+	},
+	{
+		"Id": 11030,
+		"Value": "Temporarily boosts lightning attacks"
+	},
+	{
+		"Id": 11031,
+		"Value": "Temporarily boosts holy attacks"
+	},
+	{
+		"Id": 15000,
+		"Value": "Found by hunting herbivorous beasts"
+	},
+	{
+		"Id": 15010,
+		"Value": "Found by hunting herbivorous beasts"
+	},
+	{
+		"Id": 15020,
+		"Value": "Found by hunting carnivorous beasts"
+	},
+	{
+		"Id": 15030,
+		"Value": "Found by hunting carnivorous beasts"
+	},
+	{
+		"Id": 15040,
+		"Value": "Found by hunting carnivorous beasts"
+	},
+	{
+		"Id": 15050,
+		"Value": "Found by hunting herbivorous beasts"
+	},
+	{
+		"Id": 15060,
+		"Value": "Found by hunting birds"
+	},
+	{
+		"Id": 15070,
+		"Value": "Sometimes found by hunting birds"
+	},
+	{
+		"Id": 15080,
+		"Value": "Found by hunting birds"
+	},
+	{
+		"Id": 15090,
+		"Value": "Found by hunting turtles"
+	},
+	{
+		"Id": 15100,
+		"Value": "Found by hunting Those Who Live in Death"
+	},
+	{
+		"Id": 15110,
+		"Value": "Found by hunting large dragonflies"
+	},
+	{
+		"Id": 15120,
+		"Value": "Found by hunting owls"
+	},
+	{
+		"Id": 15130,
+		"Value": "Found by hunting large crabs"
+	},
+	{
+		"Id": 15140,
+		"Value": "Found by hunting land octopuses"
+	},
+	{
+		"Id": 15150,
+		"Value": "Found by killing miranda flowers"
+	},
+	{
+		"Id": 15160,
+		"Value": "Found by hunting creatures bloodless creatures"
+	},
+	{
+		"Id": 15310,
+		"Value": "Often hidden in woods and thickets"
+	},
+	{
+		"Id": 15340,
+		"Value": "Found by hunting beasts"
+	},
+	{
+		"Id": 15341,
+		"Value": "Found by hunting particularly large beasts"
+	},
+	{
+		"Id": 15390,
+		"Value": "Found along roadways everywhere"
+	},
+	{
+		"Id": 15400,
+		"Value": "Often carried by demi-humans"
+	},
+	{
+		"Id": 15410,
+		"Value": "Found by killing living jars"
+	},
+	{
+		"Id": 15420,
+		"Value": "Found by killing Albinaurics"
+	},
+	{
+		"Id": 15430,
+		"Value": "Found by killing stormhawks"
+	},
+	{
+		"Id": 20650,
+		"Value": "Blooms in toxic terrain"
+	},
+	{
+		"Id": 20651,
+		"Value": "Exceedingly rare to find"
+	},
+	{
+		"Id": 20652,
+		"Value": "Blooms in lightning-struck lands"
+	},
+	{
+		"Id": 20653,
+		"Value": "Exceedingly rare to find"
+	},
+	{
+		"Id": 20654,
+		"Value": "Blooms in graveyards"
+	},
+	{
+		"Id": 20660,
+		"Value": "Blooms in rotten lands"
+	},
+	{
+		"Id": 20680,
+		"Value": "Found throughout the Lands Between"
+	},
+	{
+		"Id": 20681,
+		"Value": "Blooms on the Altus Plateau"
+	},
+	{
+		"Id": 20682,
+		"Value": "Blooms on the Mountaintops of the Giants"
+	},
+	{
+		"Id": 20683,
+		"Value": "Found near Minor Erdtrees"
+	},
+	{
+		"Id": 20685,
+		"Value": "Found near Minor Erdtrees"
+	},
+	{
+		"Id": 20690,
+		"Value": "Found in thickets and elsewhere"
+	},
+	{
+		"Id": 20691,
+		"Value": "Exceedingly rare to find"
+	},
+	{
+		"Id": 20710,
+		"Value": "Found in and around the Eternal City"
+	},
+	{
+		"Id": 20720,
+		"Value": "Easily found everywhere in the Lands Between"
+	},
+	{
+		"Id": 20721,
+		"Value": "Easily found near the Erdtree"
+	},
+	{
+		"Id": 20722,
+		"Value": "Found in frigid highlands"
+	},
+	{
+		"Id": 20723,
+		"Value": "Blooms in blood-soaked soil"
+	},
+	{
+		"Id": 20740,
+		"Value": "Grown in lands afflicted by frenzy"
+	},
+	{
+		"Id": 20750,
+		"Value": "Widely found in Liurnia Lake"
+	},
+	{
+		"Id": 20751,
+		"Value": "Widely found in cold regions"
+	},
+	{
+		"Id": 20753,
+		"Value": "Exceedingly rare to find"
+	},
+	{
+		"Id": 20760,
+		"Value": "Thrives in damp thickets and elsewhere"
+	},
+	{
+		"Id": 20761,
+		"Value": "Found in and around the Eternal City"
+	},
+	{
+		"Id": 20770,
+		"Value": "Grows in rotten lands"
+	},
+	{
+		"Id": 20775,
+		"Value": "Secreted from the roots of the Greattree.\nCan also be found near trees on the surface."
+	},
+	{
+		"Id": 20780,
+		"Value": "Widely found in crystal tunnels"
+	},
+	{
+		"Id": 20795,
+		"Value": "Found near the remains of fallen ruins, but rarely"
+	},
+	{
+		"Id": 20800,
+		"Value": "Exceedingly rare to find"
+	},
+	{
+		"Id": 20801,
+		"Value": "Found in the Swamp of Aeonia"
+	},
+	{
+		"Id": 20802,
+		"Value": "Found near wildfires and elsewhere"
+	},
+	{
+		"Id": 20810,
+		"Value": "Found near cold waters untouched by sunlight"
+	},
+	{
+		"Id": 20811,
+		"Value": "Found near waters close to Minor Erdtrees"
+	},
+	{
+		"Id": 20812,
+		"Value": "Widely found in Liurnia Lake"
+	},
+	{
+		"Id": 20820,
+		"Value": "Found near churches and similar"
+	},
+	{
+		"Id": 20825,
+		"Value": "Found in and around the Eternal City"
+	},
+	{
+		"Id": 20830,
+		"Value": "Often hidden in woods and thickets"
+	},
+	{
+		"Id": 20831,
+		"Value": "Found in the land of the new dynasty"
+	},
+	{
+		"Id": 20840,
+		"Value": "Gives off pale light in dark caves"
+	},
+	{
+		"Id": 20841,
+		"Value": "Gives off pale light in dark caves"
+	},
+	{
+		"Id": 20842,
+		"Value": "Gives off pale light in dark caves"
+	},
+	{
+		"Id": 20845,
+		"Value": "Found in lands afflicted by frenzy"
+	},
+	{
+		"Id": 20850,
+		"Value": "Found on Mt. Gelmir"
+	},
+	{
+		"Id": 20852,
+		"Value": "Found near Ainsel River and other places where giant ants live"
+	},
+	{
+		"Id": 20855,
+		"Value": "Found in lands once beset by ancient dragons"
+	},
+	{
+		"Id": 200000,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200001,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200002,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200003,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200004,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200005,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200006,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200007,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200008,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200009,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 200010,
+		"Value": "Black Knife Tiche"
+	},
+	{
+		"Id": 201000,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201001,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201002,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201003,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201004,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201005,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201006,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201007,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201008,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201009,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 201010,
+		"Value": "Banished Knight Oleg"
+	},
+	{
+		"Id": 202000,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202001,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202002,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202003,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202004,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202005,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202006,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202007,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202008,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202009,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 202010,
+		"Value": "Banished Knight Engvall"
+	},
+	{
+		"Id": 203000,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203001,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203002,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203003,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203004,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203005,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203006,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203007,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203008,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203009,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 203010,
+		"Value": "Fanged Imps"
+	},
+	{
+		"Id": 204000,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204001,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204002,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204003,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204004,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204005,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204006,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204007,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204008,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204009,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 204010,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 205000,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205001,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205002,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205003,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205004,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205005,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205006,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205007,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205008,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205009,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 205010,
+		"Value": "Nomad"
+	},
+	{
+		"Id": 206000,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206001,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206002,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206003,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206004,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206005,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206006,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206007,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206008,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206009,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 206010,
+		"Value": "Nightmaiden & Swordstress"
+	},
+	{
+		"Id": 207000,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207001,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207002,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207003,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207004,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207005,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207006,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207007,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207008,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207009,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 207010,
+		"Value": "Mimic Tear "
+	},
+	{
+		"Id": 208000,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208001,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208002,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208003,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208004,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208005,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208006,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208007,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208008,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208009,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 208010,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 209000,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209001,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209002,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209003,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209004,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209005,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209006,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209007,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209008,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209009,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 209010,
+		"Value": "Ancestral Follower"
+	},
+	{
+		"Id": 210000,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210001,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210002,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210003,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210004,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210005,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210006,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210007,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210008,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210009,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 210010,
+		"Value": "Winged Misbegotten"
+	},
+	{
+		"Id": 211000,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211001,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211002,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211003,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211004,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211005,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211006,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211007,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211008,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211009,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 211010,
+		"Value": "Albinaurics"
+	},
+	{
+		"Id": 212000,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212001,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212002,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212003,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212004,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212005,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212006,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212007,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212008,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212009,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 212010,
+		"Value": "Skeletal Militiamen"
+	},
+	{
+		"Id": 213000,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213001,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213002,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213003,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213004,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213005,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213006,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213007,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213008,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213009,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 213010,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214000,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214001,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214002,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214003,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214004,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214005,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214006,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214007,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214008,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214009,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 214010,
+		"Value": "Skeletal Bandits"
+	},
+	{
+		"Id": 215000,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215001,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215002,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215003,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215004,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215005,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215006,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215007,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215008,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215009,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 215010,
+		"Value": "Putrid Corpses"
+	},
+	{
+		"Id": 216000,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216001,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216002,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216003,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216004,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216005,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216006,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216007,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216008,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216009,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 216010,
+		"Value": "Fallen Perfumer Carmaan"
+	},
+	{
+		"Id": 217000,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217001,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217002,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217003,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217004,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217005,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217006,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217007,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217008,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217009,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 217010,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 218000,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218001,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218002,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218003,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218004,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218005,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218006,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218007,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218008,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218009,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 218010,
+		"Value": "Glintstone Sorcerer"
+	},
+	{
+		"Id": 219000,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219001,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219002,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219003,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219004,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219005,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219006,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219007,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219008,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219009,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 219010,
+		"Value": "Twinsage Sorcerer"
+	},
+	{
+		"Id": 220000,
+		"Value": "Page"
+	},
+	{
+		"Id": 220001,
+		"Value": "Page"
+	},
+	{
+		"Id": 220002,
+		"Value": "Page"
+	},
+	{
+		"Id": 220003,
+		"Value": "Page"
+	},
+	{
+		"Id": 220004,
+		"Value": "Page"
+	},
+	{
+		"Id": 220005,
+		"Value": "Page"
+	},
+	{
+		"Id": 220006,
+		"Value": "Page"
+	},
+	{
+		"Id": 220007,
+		"Value": "Page"
+	},
+	{
+		"Id": 220008,
+		"Value": "Page"
+	},
+	{
+		"Id": 220009,
+		"Value": "Page"
+	},
+	{
+		"Id": 220010,
+		"Value": "Page"
+	},
+	{
+		"Id": 221000,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221001,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221002,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221003,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221004,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221005,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221006,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221007,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221008,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221009,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 221010,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 222000,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222001,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222002,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222003,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222004,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222005,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222006,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222007,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222008,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222009,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 222010,
+		"Value": "Claymen "
+	},
+	{
+		"Id": 223000,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223001,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223002,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223003,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223004,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223005,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223006,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223007,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223008,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223009,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 223010,
+		"Value": "Cleanrot Knight Finlay"
+	},
+	{
+		"Id": 224000,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224001,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224002,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224003,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224004,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224005,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224006,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224007,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224008,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224009,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 224010,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 225000,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225001,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225002,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225003,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225004,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225005,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225006,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225007,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225008,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225009,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 225010,
+		"Value": "Marionette Soldiers"
+	},
+	{
+		"Id": 226000,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226001,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226002,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226003,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226004,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226005,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226006,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226007,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226008,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226009,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 226010,
+		"Value": "Avionette Soldiers"
+	},
+	{
+		"Id": 227000,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227001,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227002,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227003,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227004,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227005,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227006,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227007,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227008,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227009,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 227010,
+		"Value": "Fire Monk"
+	},
+	{
+		"Id": 228000,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228001,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228002,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228003,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228004,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228005,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228006,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228007,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228008,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228009,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 228010,
+		"Value": "Blackflame Monk Amon"
+	},
+	{
+		"Id": 229000,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229001,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229002,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229003,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229004,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229005,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229006,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229007,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229008,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229009,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 229010,
+		"Value": "Man-Serpent "
+	},
+	{
+		"Id": 230000,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230001,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230002,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230003,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230004,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230005,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230006,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230007,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230008,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230009,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 230010,
+		"Value": "Azula Beastmen"
+	},
+	{
+		"Id": 231000,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231001,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231002,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231003,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231004,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231005,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231006,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231007,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231008,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231009,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 231010,
+		"Value": "Kaiden Mercenary"
+	},
+	{
+		"Id": 232000,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232001,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232002,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232003,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232004,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232005,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232006,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232007,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232008,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232009,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 232010,
+		"Value": "Lone Wolves"
+	},
+	{
+		"Id": 233000,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233001,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233002,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233003,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233004,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233005,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233006,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233007,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233008,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233009,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 233010,
+		"Value": "Giant Rats"
+	},
+	{
+		"Id": 234000,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234001,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234002,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234003,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234004,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234005,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234006,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234007,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234008,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234009,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 234010,
+		"Value": "Demi-Humans"
+	},
+	{
+		"Id": 235000,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235001,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235002,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235003,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235004,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235005,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235006,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235007,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235008,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235009,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 235010,
+		"Value": "Rotten Stray"
+	},
+	{
+		"Id": 236000,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236001,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236002,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236003,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236004,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236005,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236006,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236007,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236008,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236009,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 236010,
+		"Value": "Spirit Jellyfish"
+	},
+	{
+		"Id": 237000,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237001,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237002,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237003,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237004,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237005,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237006,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237007,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237008,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237009,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 237010,
+		"Value": "Warhawk"
+	},
+	{
+		"Id": 238000,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238001,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238002,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238003,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238004,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238005,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238006,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238007,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238008,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238009,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 238010,
+		"Value": "Stormhawk Deenh"
+	},
+	{
+		"Id": 239000,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239001,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239002,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239003,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239004,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239005,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239006,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239007,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239008,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239009,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 239010,
+		"Value": "Bloodhound Knight Floh"
+	},
+	{
+		"Id": 240000,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240001,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240002,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240003,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240004,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240005,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240006,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240007,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240008,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240009,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 240010,
+		"Value": "Wandering Nobles"
+	},
+	{
+		"Id": 241000,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241001,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241002,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241003,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241004,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241005,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241006,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241007,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241008,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241009,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 241010,
+		"Value": "Noble Sorcerer"
+	},
+	{
+		"Id": 242000,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242001,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242002,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242003,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242004,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242005,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242006,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242007,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242008,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242009,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 242010,
+		"Value": "Vulgar Militia"
+	},
+	{
+		"Id": 243000,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243001,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243002,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243003,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243004,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243005,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243006,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243007,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243008,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243009,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 243010,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 244000,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244001,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244002,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244003,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244004,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244005,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244006,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244007,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244008,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244009,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 244010,
+		"Value": "Land Squirts"
+	},
+	{
+		"Id": 245000,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245001,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245002,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245003,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245004,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245005,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245006,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245007,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245008,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245009,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 245010,
+		"Value": "Miranda Sprouts"
+	},
+	{
+		"Id": 246000,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246001,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246002,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246003,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246004,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246005,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246006,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246007,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246008,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246009,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 246010,
+		"Value": "Soldjars of Fortune"
+	},
+	{
+		"Id": 247000,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247001,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247002,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247003,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247004,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247005,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247006,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247007,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247008,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247009,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 247010,
+		"Value": "Omenkiller Rollo"
+	},
+	{
+		"Id": 248000,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248001,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248002,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248003,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248004,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248005,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248006,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248007,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248008,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248009,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 248010,
+		"Value": "Greatshield Soldiers"
+	},
+	{
+		"Id": 249000,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249001,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249002,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249003,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249004,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249005,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249006,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249007,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249008,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249009,
+		"Value": "Archers"
+	},
+	{
+		"Id": 249010,
+		"Value": "Archers"
+	},
+	{
+		"Id": 250000,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250001,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250002,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250003,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250004,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250005,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250006,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250007,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250008,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250009,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 250010,
+		"Value": "Godrick Soldiers"
+	},
+	{
+		"Id": 251000,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251001,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251002,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251003,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251004,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251005,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251006,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251007,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251008,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251009,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 251010,
+		"Value": "Raya Lucaria Soldiers"
+	},
+	{
+		"Id": 252000,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252001,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252002,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252003,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252004,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252005,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252006,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252007,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252008,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252009,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 252010,
+		"Value": "Leyndell Soldiers"
+	},
+	{
+		"Id": 253000,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253001,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253002,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253003,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253004,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253005,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253006,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253007,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253008,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253009,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 253010,
+		"Value": "Radahn Soldiers"
+	},
+	{
+		"Id": 254000,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254001,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254002,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254003,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254004,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254005,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254006,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254007,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254008,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254009,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 254010,
+		"Value": "Mausoleum Soldiers"
+	},
+	{
+		"Id": 255000,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255001,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255002,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255003,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255004,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255005,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255006,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255007,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255008,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255009,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 255010,
+		"Value": "Haligtree Soldiers"
+	},
+	{
+		"Id": 256000,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256001,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256002,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256003,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256004,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256005,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256006,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256007,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256008,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256009,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 256010,
+		"Value": "Ancient Dragon Knight Kristoff"
+	},
+	{
+		"Id": 257000,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257001,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257002,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257003,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257004,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257005,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257006,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257007,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257008,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257009,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 257010,
+		"Value": "Redmane Knight Ogha"
+	},
+	{
+		"Id": 258000,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258001,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258002,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258003,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258004,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258005,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258006,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258007,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258008,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258009,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 258010,
+		"Value": "Lhutel the Headless"
+	},
+	{
+		"Id": 259000,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259001,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259002,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259003,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259004,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259005,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259006,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259007,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259008,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259009,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 259010,
+		"Value": "Nepheli Loux"
+	},
+	{
+		"Id": 260000,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260001,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260002,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260003,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260004,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260005,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260006,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260007,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260008,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260009,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 260010,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 261000,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261001,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261002,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261003,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261004,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261005,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261006,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261007,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261008,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261009,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 261010,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 262000,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262001,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262002,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262003,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262004,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262005,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262006,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262007,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262008,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262009,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 262010,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 263000,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263001,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263002,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263003,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263004,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263005,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263006,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263007,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263008,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263009,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 263010,
+		"Value": "Jarwight"
+	}
+]

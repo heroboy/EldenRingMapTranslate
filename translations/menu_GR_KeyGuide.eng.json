@@ -1,0 +1,382 @@
+[
+	{
+		"Id": 100000,
+		"Value": "OK"
+	},
+	{
+		"Id": 100001,
+		"Value": "Confirm"
+	},
+	{
+		"Id": 100003,
+		"Value": "Edit"
+	},
+	{
+		"Id": 100008,
+		"Value": "Equip/Remove"
+	},
+	{
+		"Id": 100020,
+		"Value": "Travel"
+	},
+	{
+		"Id": 100030,
+		"Value": "Next"
+	},
+	{
+		"Id": 100050,
+		"Value": "Remove"
+	},
+	{
+		"Id": 110000,
+		"Value": "Back"
+	},
+	{
+		"Id": 110001,
+		"Value": "Close"
+	},
+	{
+		"Id": 120000,
+		"Value": "Remove"
+	},
+	{
+		"Id": 120001,
+		"Value": "Use"
+	},
+	{
+		"Id": 120002,
+		"Value": "Finish"
+	},
+	{
+		"Id": 120003,
+		"Value": "Protect ON/OFF"
+	},
+	{
+		"Id": 120005,
+		"Value": "Switch view"
+	},
+	{
+		"Id": 120008,
+		"Value": "Sample"
+	},
+	{
+		"Id": 120010,
+		"Value": "Switch display (mid)"
+	},
+	{
+		"Id": 120011,
+		"Value": "Switch display (mid)"
+	},
+	{
+		"Id": 120012,
+		"Value": "Materials needed"
+	},
+	{
+		"Id": 120020,
+		"Value": "Sort"
+	},
+	{
+		"Id": 120030,
+		"Value": "Test now"
+	},
+	{
+		"Id": 120040,
+		"Value": "Copy"
+	},
+	{
+		"Id": 120041,
+		"Value": "Compare"
+	},
+	{
+		"Id": 120045,
+		"Value": "Restore"
+	},
+	{
+		"Id": 120050,
+		"Value": "Auto-refill ON"
+	},
+	{
+		"Id": 120051,
+		"Value": "Auto-refill OFF"
+	},
+	{
+		"Id": 120060,
+		"Value": "Show history"
+	},
+	{
+		"Id": 120080,
+		"Value": "Show helm"
+	},
+	{
+		"Id": 120081,
+		"Value": "Hide helm"
+	},
+	{
+		"Id": 120090,
+		"Value": "Delete"
+	},
+	{
+		"Id": 120100,
+		"Value": "Asc."
+	},
+	{
+		"Id": 120101,
+		"Value": "Desc."
+	},
+	{
+		"Id": 120110,
+		"Value": "Place beacon"
+	},
+	{
+		"Id": 120111,
+		"Value": "Remove beacon"
+	},
+	{
+		"Id": 120112,
+		"Value": "Go to Roundtable Hold"
+	},
+	{
+		"Id": 130000,
+		"Value": "Switch view (right)"
+	},
+	{
+		"Id": 130001,
+		"Value": "Swap screen"
+	},
+	{
+		"Id": 130005,
+		"Value": "Switch action"
+	},
+	{
+		"Id": 130010,
+		"Value": "Simple view"
+	},
+	{
+		"Id": 130011,
+		"Value": "Detailed view"
+	},
+	{
+		"Id": 130015,
+		"Value": "Show status"
+	},
+	{
+		"Id": 130016,
+		"Value": "Hide status"
+	},
+	{
+		"Id": 130020,
+		"Value": "Adjust color"
+	},
+	{
+		"Id": 130030,
+		"Value": "Switch"
+	},
+	{
+		"Id": 130040,
+		"Value": "Set password"
+	},
+	{
+		"Id": 130045,
+		"Value": "Settings"
+	},
+	{
+		"Id": 130063,
+		"Value": "End"
+	},
+	{
+		"Id": 130070,
+		"Value": "Marker"
+	},
+	{
+		"Id": 130071,
+		"Value": "Sites of grace"
+	},
+	{
+		"Id": 130072,
+		"Value": "Toggle list"
+	},
+	{
+		"Id": 130090,
+		"Value": "Defaults"
+	},
+	{
+		"Id": 140000,
+		"Value": "Switch menu tab"
+	},
+	{
+		"Id": 140002,
+		"Value": "Toggle message format"
+	},
+	{
+		"Id": 140004,
+		"Value": "Change equip slot"
+	},
+	{
+		"Id": 140039,
+		"Value": "Greatly change hue"
+	},
+	{
+		"Id": 140040,
+		"Value": "Change by 10"
+	},
+	{
+		"Id": 140041,
+		"Value": "-10"
+	},
+	{
+		"Id": 140042,
+		"Value": "+10"
+	},
+	{
+		"Id": 140050,
+		"Value": "Show underground"
+	},
+	{
+		"Id": 140060,
+		"Value": "Show above ground"
+	},
+	{
+		"Id": 140070,
+		"Value": "Show multiplayer status"
+	},
+	{
+		"Id": 140080,
+		"Value": "Hide multiplayer status"
+	},
+	{
+		"Id": 140090,
+		"Value": "Zoom out"
+	},
+	{
+		"Id": 140091,
+		"Value": "Zoom in"
+	},
+	{
+		"Id": 140100,
+		"Value": "Switch tab"
+	},
+	{
+		"Id": 140110,
+		"Value": "Mark site of grace"
+	},
+	{
+		"Id": 140111,
+		"Value": "Remove mark"
+	},
+	{
+		"Id": 140120,
+		"Value": "Swap above and below"
+	},
+	{
+		"Id": 150000,
+		"Value": "Switch to chest"
+	},
+	{
+		"Id": 150001,
+		"Value": "Switch to inventory"
+	},
+	{
+		"Id": 150004,
+		"Value": "Scroll"
+	},
+	{
+		"Id": 150005,
+		"Value": "Page up"
+	},
+	{
+		"Id": 150006,
+		"Value": "Page down"
+	},
+	{
+		"Id": 150040,
+		"Value": "Zoom"
+	},
+	{
+		"Id": 160000,
+		"Value": "Help"
+	},
+	{
+		"Id": 160010,
+		"Value": "Back"
+	},
+	{
+		"Id": 160020,
+		"Value": "Skip"
+	},
+	{
+		"Id": 160030,
+		"Value": "Map"
+	},
+	{
+		"Id": 160040,
+		"Value": "Close map"
+	},
+	{
+		"Id": 200000,
+		"Value": "Select"
+	},
+	{
+		"Id": 200001,
+		"Value": "Modify"
+	},
+	{
+		"Id": 200006,
+		"Value": "Scroll"
+	},
+	{
+		"Id": 202910,
+		"Value": "Hue"
+	},
+	{
+		"Id": 203000,
+		"Value": "Select site of grace"
+	},
+	{
+		"Id": 204000,
+		"Value": "Select marker"
+	},
+	{
+		"Id": 301000,
+		"Value": "Move cursor"
+	},
+	{
+		"Id": 302360,
+		"Value": "Zoom"
+	},
+	{
+		"Id": 302910,
+		"Value": "Saturation/Shade"
+	},
+	{
+		"Id": 310040,
+		"Value": "Rotate"
+	},
+	{
+		"Id": 320000,
+		"Value": "Compare details"
+	},
+	{
+		"Id": 320001,
+		"Value": "Reset camera"
+	},
+	{
+		"Id": 320040,
+		"Value": "Switch view"
+	},
+	{
+		"Id": 320050,
+		"Value": "Center on current location"
+	},
+	{
+		"Id": 400003,
+		"Value": "Delete"
+	},
+	{
+		"Id": 400004,
+		"Value": "Good"
+	},
+	{
+		"Id": 400005,
+		"Value": "Poor"
+	}
+]

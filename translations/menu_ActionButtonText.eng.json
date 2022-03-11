@@ -1,0 +1,638 @@
+[
+	{
+		"Id": 1000,
+		"Value": "Examine"
+	},
+	{
+		"Id": 1800,
+		"Value": "Touch grace"
+	},
+	{
+		"Id": 1810,
+		"Value": "Rest at site of grace"
+	},
+	{
+		"Id": 1830,
+		"Value": "Rest at table of lost grace"
+	},
+	{
+		"Id": 2000,
+		"Value": "Pick up item"
+	},
+	{
+		"Id": 2010,
+		"Value": "Pillage corpse"
+	},
+	{
+		"Id": 2020,
+		"Value": "Pillage remains"
+	},
+	{
+		"Id": 2030,
+		"Value": "Search treasure chest"
+	},
+	{
+		"Id": 2100,
+		"Value": "OK"
+	},
+	{
+		"Id": 2800,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2810,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2811,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2812,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2813,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2814,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2815,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2816,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2817,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2818,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2819,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2820,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2821,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2822,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2823,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2824,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2825,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2826,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2827,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 2828,
+		"Value": "Acquire materials"
+	},
+	{
+		"Id": 3000,
+		"Value": "Pull lever"
+	},
+	{
+		"Id": 3010,
+		"Value": "Push lever"
+	},
+	{
+		"Id": 3100,
+		"Value": "Open"
+	},
+	{
+		"Id": 3101,
+		"Value": "Close"
+	},
+	{
+		"Id": 3200,
+		"Value": "Traverse the mist"
+	},
+	{
+		"Id": 3300,
+		"Value": "Climb"
+	},
+	{
+		"Id": 3301,
+		"Value": "Descend"
+	},
+	{
+		"Id": 3310,
+		"Value": "Kick ladder"
+	},
+	{
+		"Id": 4000,
+		"Value": "Contraption does not move"
+	},
+	{
+		"Id": 4010,
+		"Value": "Does not open from this side"
+	},
+	{
+		"Id": 4020,
+		"Value": "It's locked"
+	},
+	{
+		"Id": 4070,
+		"Value": "You are not destined to open this"
+	},
+	{
+		"Id": 4072,
+		"Value": "Opens only to those carrying a finger"
+	},
+	{
+		"Id": 4073,
+		"Value": "The door is blocked shut"
+	},
+	{
+		"Id": 4080,
+		"Value": "The door is blocked shut"
+	},
+	{
+		"Id": 4081,
+		"Value": "It's tightly blocked shut"
+	},
+	{
+		"Id": 4082,
+		"Value": "It's tightly blocked shut"
+	},
+	{
+		"Id": 4083,
+		"Value": "It's tightly blocked shut"
+	},
+	{
+		"Id": 4084,
+		"Value": "It's tightly blocked shut"
+	},
+	{
+		"Id": 4085,
+		"Value": "It's tightly blocked shut"
+	},
+	{
+		"Id": 4086,
+		"Value": "It's tightly blocked shut"
+	},
+	{
+		"Id": 7000,
+		"Value": "Talk"
+	},
+	{
+		"Id": 7010,
+		"Value": "Kneel"
+	},
+	{
+		"Id": 7020,
+		"Value": "Steal"
+	},
+	{
+		"Id": 7030,
+		"Value": "Use smithing table"
+	},
+	{
+		"Id": 7040,
+		"Value": "Examine altar"
+	},
+	{
+		"Id": 7050,
+		"Value": "Touch Fractured Marika"
+	},
+	{
+		"Id": 7060,
+		"Value": "Hand over Deathroot"
+	},
+	{
+		"Id": 7080,
+		"Value": "Examine"
+	},
+	{
+		"Id": 7090,
+		"Value": "Accept primal glintstone"
+	},
+	{
+		"Id": 7100,
+		"Value": "Transplant primal glintstone"
+	},
+	{
+		"Id": 7110,
+		"Value": "Be held"
+	},
+	{
+		"Id": 7111,
+		"Value": "Touch Fia"
+	},
+	{
+		"Id": 7120,
+		"Value": "Touch the Two Fingers"
+	},
+	{
+		"Id": 7130,
+		"Value": "Summon Latenna"
+	},
+	{
+		"Id": 7140,
+		"Value": "Examine"
+	},
+	{
+		"Id": 7150,
+		"Value": "Touch Hyetta"
+	},
+	{
+		"Id": 7160,
+		"Value": "Offer finger"
+	},
+	{
+		"Id": 7161,
+		"Value": "Dye cloth with maiden's blood"
+	},
+	{
+		"Id": 7162,
+		"Value": "Dye cloth with maiden's blood"
+	},
+	{
+		"Id": 7170,
+		"Value": "Atone"
+	},
+	{
+		"Id": 7180,
+		"Value": "Talk"
+	},
+	{
+		"Id": 7190,
+		"Value": "Use dressing table"
+	},
+	{
+		"Id": 7200,
+		"Value": "Speak the truth about Radagon"
+	},
+	{
+		"Id": 7210,
+		"Value": "Where did the body go?"
+	},
+	{
+		"Id": 7211,
+		"Value": "Administer draught"
+	},
+	{
+		"Id": 7220,
+		"Value": "Examine"
+	},
+	{
+		"Id": 7230,
+		"Value": "Examine remains"
+	},
+	{
+		"Id": 7240,
+		"Value": "Receive mending rune"
+	},
+	{
+		"Id": 7241,
+		"Value": "Receive mending rune"
+	},
+	{
+		"Id": 7242,
+		"Value": "Receive mending rune"
+	},
+	{
+		"Id": 7250,
+		"Value": "Return Unalloyed Gold Needle"
+	},
+	{
+		"Id": 7270,
+		"Value": "Examine altar"
+	},
+	{
+		"Id": 7280,
+		"Value": "Examine grave"
+	},
+	{
+		"Id": 8100,
+		"Value": "Ride"
+	},
+	{
+		"Id": 9051,
+		"Value": "Invade White Mask Varré's world"
+	},
+	{
+		"Id": 9052,
+		"Value": "Invade Old Knight Istvan's world"
+	},
+	{
+		"Id": 9053,
+		"Value": "Invade Rileigh the Idle's world"
+	},
+	{
+		"Id": 9054,
+		"Value": "Invade Juno Hoslow, Knight of Blood's world"
+	},
+	{
+		"Id": 9055,
+		"Value": "Invade Vargram the Raging Wolf's world"
+	},
+	{
+		"Id": 9056,
+		"Value": "Invade Great Horned Tragoth's world"
+	},
+	{
+		"Id": 9057,
+		"Value": "Be summoned to assist Yura, Hunter of Bloody Fingers"
+	},
+	{
+		"Id": 9058,
+		"Value": "Be summoned to assist Sorceress Sellen"
+	},
+	{
+		"Id": 9059,
+		"Value": "Be summoned to challenge Sorceress Sellen"
+	},
+	{
+		"Id": 9060,
+		"Value": "Be summoned to assist Millicent"
+	},
+	{
+		"Id": 9061,
+		"Value": "Be summoned to challenge Millicent"
+	},
+	{
+		"Id": 9070,
+		"Value": "Touch cooperative sign"
+	},
+	{
+		"Id": 9071,
+		"Value": "Touch invasion sign"
+	},
+	{
+		"Id": 9080,
+		"Value": "Restore the power of the Great Rune"
+	},
+	{
+		"Id": 9081,
+		"Value": "Restore the power of the Great Rune"
+	},
+	{
+		"Id": 9082,
+		"Value": "Restore the power of the Great Rune"
+	},
+	{
+		"Id": 9083,
+		"Value": "Restore the power of the Great Rune"
+	},
+	{
+		"Id": 9084,
+		"Value": "Restore the power of the Great Rune"
+	},
+	{
+		"Id": 9085,
+		"Value": "Restore the power of the Great Rune"
+	},
+	{
+		"Id": 9100,
+		"Value": "Touch"
+	},
+	{
+		"Id": 9210,
+		"Value": "Examine"
+	},
+	{
+		"Id": 9240,
+		"Value": "Stargaze"
+	},
+	{
+		"Id": 9260,
+		"Value": "Examine"
+	},
+	{
+		"Id": 9270,
+		"Value": "Use Birdseye Telescope"
+	},
+	{
+		"Id": 9290,
+		"Value": "Return to entrance"
+	},
+	{
+		"Id": 9300,
+		"Value": "Touch"
+	},
+	{
+		"Id": 9310,
+		"Value": "Examine"
+	},
+	{
+		"Id": 9320,
+		"Value": "Examine"
+	},
+	{
+		"Id": 9330,
+		"Value": "Examine"
+	},
+	{
+		"Id": 9500,
+		"Value": "Touch wall of thorns"
+	},
+	{
+		"Id": 9501,
+		"Value": "Touch golden light"
+	},
+	{
+		"Id": 9503,
+		"Value": "Examine seal"
+	},
+	{
+		"Id": 9505,
+		"Value": "Examine seal"
+	},
+	{
+		"Id": 9506,
+		"Value": "Examine seal"
+	},
+	{
+		"Id": 9520,
+		"Value": "Light flame"
+	},
+	{
+		"Id": 9521,
+		"Value": "Touch phantom"
+	},
+	{
+		"Id": 9522,
+		"Value": "Examine seal"
+	},
+	{
+		"Id": 9524,
+		"Value": "Light flame"
+	},
+	{
+		"Id": 9525,
+		"Value": "Touch horned remains"
+	},
+	{
+		"Id": 9526,
+		"Value": "Go back"
+	},
+	{
+		"Id": 9527,
+		"Value": "Examine"
+	},
+	{
+		"Id": 9528,
+		"Value": "Light flame"
+	},
+	{
+		"Id": 9529,
+		"Value": "Examine seal"
+	},
+	{
+		"Id": 9530,
+		"Value": "Examine seal"
+	},
+	{
+		"Id": 9540,
+		"Value": "Summon Castellan Jerren"
+	},
+	{
+		"Id": 9541,
+		"Value": "Summon Blaidd the Half-Wolf"
+	},
+	{
+		"Id": 9542,
+		"Value": "Summon Alexander, Warrior Jar"
+	},
+	{
+		"Id": 9543,
+		"Value": "Summon Great Horned Tragoth"
+	},
+	{
+		"Id": 9544,
+		"Value": "Summon Okina"
+	},
+	{
+		"Id": 9545,
+		"Value": "Summon Finger Maiden Therolina"
+	},
+	{
+		"Id": 9546,
+		"Value": "Summon Lionel the Lionhearted"
+	},
+	{
+		"Id": 9547,
+		"Value": "Summon Patches"
+	},
+	{
+		"Id": 9600,
+		"Value": "Become the Elden Lord"
+	},
+	{
+		"Id": 9610,
+		"Value": "Summon Ranni"
+	},
+	{
+		"Id": 9620,
+		"Value": "Become the Lord of Frenzied Flame"
+	},
+	{
+		"Id": 9630,
+		"Value": "Wear ring"
+	},
+	{
+		"Id": 9640,
+		"Value": "Open door"
+	},
+	{
+		"Id": 9700,
+		"Value": "Hoist medallion"
+	},
+	{
+		"Id": 9701,
+		"Value": "Hoist secret medallion"
+	},
+	{
+		"Id": 9710,
+		"Value": "Rest in coffin"
+	},
+	{
+		"Id": 9720,
+		"Value": "Examine pedestal"
+	},
+	{
+		"Id": 9721,
+		"Value": "Remove inverted statue"
+	},
+	{
+		"Id": 9730,
+		"Value": "Open door"
+	},
+	{
+		"Id": 9740,
+		"Value": "Lie down"
+	},
+	{
+		"Id": 50000000,
+		"Value": "Touch gold summon sign"
+	},
+	{
+		"Id": 50000001,
+		"Value": "Touch red summon sign"
+	},
+	{
+		"Id": 50000100,
+		"Value": "Touch bloodstain"
+	},
+	{
+		"Id": 50000101,
+		"Value": "Touch <?codenameIcon?><?codenamePCName?>'s bloodstain"
+	},
+	{
+		"Id": 50000102,
+		"Value": "Touch <?codenameIcon?>'s bloodstain"
+	},
+	{
+		"Id": 50000200,
+		"Value": "Retrieve lost runes"
+	},
+	{
+		"Id": 50000210,
+		"Value": "Read message"
+	},
+	{
+		"Id": 50000211,
+		"Value": "Read <?codenameIcon?><?codenamePCName?>'s message"
+	},
+	{
+		"Id": 50000212,
+		"Value": "Read <?codenameIcon?>'s message"
+	},
+	{
+		"Id": 50000400,
+		"Value": "Check your summon sign"
+	},
+	{
+		"Id": 50000500,
+		"Value": "Check your message"
+	}
+]

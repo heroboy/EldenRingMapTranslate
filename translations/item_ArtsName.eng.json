@@ -1,0 +1,734 @@
+[
+	{
+		"Id": 10,
+		"Value": "No Skill"
+	},
+	{
+		"Id": 100,
+		"Value": "Lion's Claw"
+	},
+	{
+		"Id": 101,
+		"Value": "Impaling Thrust"
+	},
+	{
+		"Id": 102,
+		"Value": "Piercing Fang"
+	},
+	{
+		"Id": 103,
+		"Value": "Spinning Slash"
+	},
+	{
+		"Id": 105,
+		"Value": "Charge Forth"
+	},
+	{
+		"Id": 106,
+		"Value": "Stamp (Upward Cut)"
+	},
+	{
+		"Id": 107,
+		"Value": "Stamp (Sweep)"
+	},
+	{
+		"Id": 108,
+		"Value": "Blood Tax"
+	},
+	{
+		"Id": 109,
+		"Value": "Repeating Thrust"
+	},
+	{
+		"Id": 110,
+		"Value": "Wild Strikes"
+	},
+	{
+		"Id": 111,
+		"Value": "Spinning Strikes"
+	},
+	{
+		"Id": 112,
+		"Value": "Double Slash"
+	},
+	{
+		"Id": 113,
+		"Value": "Prelate's Charge"
+	},
+	{
+		"Id": 114,
+		"Value": "Unsheathe"
+	},
+	{
+		"Id": 115,
+		"Value": "Square Off"
+	},
+	{
+		"Id": 116,
+		"Value": "Giant Hunt"
+	},
+	{
+		"Id": 117,
+		"Value": "Torch Attack"
+	},
+	{
+		"Id": 118,
+		"Value": "Loretta's Slash"
+	},
+	{
+		"Id": 119,
+		"Value": "Poison Moth Flight"
+	},
+	{
+		"Id": 120,
+		"Value": "Spinning Weapon"
+	},
+	{
+		"Id": 122,
+		"Value": "Storm Assault"
+	},
+	{
+		"Id": 123,
+		"Value": "Stormcaller"
+	},
+	{
+		"Id": 124,
+		"Value": "Sword Dance"
+	},
+	{
+		"Id": 125,
+		"Value": "Spinning Chain"
+	},
+	{
+		"Id": 200,
+		"Value": "Glintblade Phalanx"
+	},
+	{
+		"Id": 201,
+		"Value": "Sacred Blade"
+	},
+	{
+		"Id": 202,
+		"Value": "Ice Spear"
+	},
+	{
+		"Id": 203,
+		"Value": "Glintstone Pebble"
+	},
+	{
+		"Id": 204,
+		"Value": "Bloody Slash"
+	},
+	{
+		"Id": 205,
+		"Value": "Lifesteal Fist"
+	},
+	{
+		"Id": 207,
+		"Value": "Eruption"
+	},
+	{
+		"Id": 208,
+		"Value": "Prayerful Strike"
+	},
+	{
+		"Id": 209,
+		"Value": "Gravitas"
+	},
+	{
+		"Id": 210,
+		"Value": "Storm Blade"
+	},
+	{
+		"Id": 212,
+		"Value": "Earthshaker"
+	},
+	{
+		"Id": 213,
+		"Value": "Golden Land"
+	},
+	{
+		"Id": 214,
+		"Value": "Flaming Strike"
+	},
+	{
+		"Id": 216,
+		"Value": "Thunderbolt"
+	},
+	{
+		"Id": 217,
+		"Value": "Lightning Slash"
+	},
+	{
+		"Id": 218,
+		"Value": "Carian Grandeur"
+	},
+	{
+		"Id": 219,
+		"Value": "Carian Greatsword"
+	},
+	{
+		"Id": 220,
+		"Value": "Vacuum Slice"
+	},
+	{
+		"Id": 221,
+		"Value": "Black Flame Tornado"
+	},
+	{
+		"Id": 222,
+		"Value": "Sacred Ring of Light"
+	},
+	{
+		"Id": 223,
+		"Value": "Firebreather"
+	},
+	{
+		"Id": 224,
+		"Value": "Blood Blade"
+	},
+	{
+		"Id": 225,
+		"Value": "Phantom Slash"
+	},
+	{
+		"Id": 226,
+		"Value": "Spectral Lance"
+	},
+	{
+		"Id": 227,
+		"Value": "Chilling Mist"
+	},
+	{
+		"Id": 228,
+		"Value": "Poisonous Mist"
+	},
+	{
+		"Id": 300,
+		"Value": "Shield Bash"
+	},
+	{
+		"Id": 301,
+		"Value": "Barricade Shield"
+	},
+	{
+		"Id": 302,
+		"Value": "Parry"
+	},
+	{
+		"Id": 303,
+		"Value": "Buckler Parry"
+	},
+	{
+		"Id": 304,
+		"Value": "Parry"
+	},
+	{
+		"Id": 305,
+		"Value": "Carian Retaliation"
+	},
+	{
+		"Id": 306,
+		"Value": "Storm Wall"
+	},
+	{
+		"Id": 307,
+		"Value": "Golden Parry"
+	},
+	{
+		"Id": 308,
+		"Value": "Shield Crash"
+	},
+	{
+		"Id": 309,
+		"Value": "Thops's Barrier"
+	},
+	{
+		"Id": 400,
+		"Value": "Through and Through"
+	},
+	{
+		"Id": 401,
+		"Value": "Barrage"
+	},
+	{
+		"Id": 402,
+		"Value": "Mighty Shot"
+	},
+	{
+		"Id": 404,
+		"Value": "Enchanted Shot"
+	},
+	{
+		"Id": 405,
+		"Value": "Sky Shot"
+	},
+	{
+		"Id": 406,
+		"Value": "Rain of Arrows"
+	},
+	{
+		"Id": 501,
+		"Value": "Hoarfrost Stomp"
+	},
+	{
+		"Id": 502,
+		"Value": "Storm Stomp"
+	},
+	{
+		"Id": 503,
+		"Value": "Kick"
+	},
+	{
+		"Id": 504,
+		"Value": "Lightning Ram"
+	},
+	{
+		"Id": 505,
+		"Value": "Flame of the Redmanes"
+	},
+	{
+		"Id": 506,
+		"Value": "Ground Slam"
+	},
+	{
+		"Id": 507,
+		"Value": "Golden Slam"
+	},
+	{
+		"Id": 508,
+		"Value": "Waves of Darkness"
+	},
+	{
+		"Id": 509,
+		"Value": "Hoarah Loux's Earthshaker"
+	},
+	{
+		"Id": 600,
+		"Value": "Determination"
+	},
+	{
+		"Id": 601,
+		"Value": "Royal Knight's Resolve"
+	},
+	{
+		"Id": 602,
+		"Value": "Assassin's Gambit"
+	},
+	{
+		"Id": 603,
+		"Value": "Golden Vow"
+	},
+	{
+		"Id": 604,
+		"Value": "Sacred Order"
+	},
+	{
+		"Id": 605,
+		"Value": "Shared Order"
+	},
+	{
+		"Id": 606,
+		"Value": "Seppuku"
+	},
+	{
+		"Id": 607,
+		"Value": "Cragblade"
+	},
+	{
+		"Id": 650,
+		"Value": "Barbaric Roar"
+	},
+	{
+		"Id": 651,
+		"Value": "War Cry"
+	},
+	{
+		"Id": 652,
+		"Value": "Beast's Roar"
+	},
+	{
+		"Id": 653,
+		"Value": "Troll's Roar"
+	},
+	{
+		"Id": 654,
+		"Value": "Braggart's Roar"
+	},
+	{
+		"Id": 700,
+		"Value": "Endure"
+	},
+	{
+		"Id": 701,
+		"Value": "Vow of the Indomitable"
+	},
+	{
+		"Id": 702,
+		"Value": "Holy Ground"
+	},
+	{
+		"Id": 800,
+		"Value": "Quickstep"
+	},
+	{
+		"Id": 801,
+		"Value": "Bloodhound's Step"
+	},
+	{
+		"Id": 802,
+		"Value": "Raptor of the Mists"
+	},
+	{
+		"Id": 850,
+		"Value": "White Shadow's Lure"
+	},
+	{
+		"Id": 1000,
+		"Value": "Surge of Faith"
+	},
+	{
+		"Id": 1001,
+		"Value": "Flame Spit"
+	},
+	{
+		"Id": 1002,
+		"Value": "Tongues of Fire"
+	},
+	{
+		"Id": 1003,
+		"Value": "Oracular Bubble"
+	},
+	{
+		"Id": 1004,
+		"Value": "Bubble Shower"
+	},
+	{
+		"Id": 1005,
+		"Value": "Great Oracular Bubble"
+	},
+	{
+		"Id": 1006,
+		"Value": "Sea of Magma"
+	},
+	{
+		"Id": 1007,
+		"Value": "Viper Bite"
+	},
+	{
+		"Id": 1008,
+		"Value": "Moonlight Greatsword"
+	},
+	{
+		"Id": 1009,
+		"Value": "Siluria's Woe"
+	},
+	{
+		"Id": 1010,
+		"Value": "Rallying Standard"
+	},
+	{
+		"Id": 1011,
+		"Value": "Bear Witness!"
+	},
+	{
+		"Id": 1012,
+		"Value": "Eochaid's Dancing Blade"
+	},
+	{
+		"Id": 1013,
+		"Value": "Soul Stifler"
+	},
+	{
+		"Id": 1014,
+		"Value": "Taker's Flames"
+	},
+	{
+		"Id": 1015,
+		"Value": "Shriek of Milos"
+	},
+	{
+		"Id": 1016,
+		"Value": "Reduvia Blood Blade"
+	},
+	{
+		"Id": 1017,
+		"Value": "Glintstone Dart"
+	},
+	{
+		"Id": 1018,
+		"Value": "Flowing Form"
+	},
+	{
+		"Id": 1019,
+		"Value": "Night-and-Flame Stance"
+	},
+	{
+		"Id": 1020,
+		"Value": "Wave of Gold"
+	},
+	{
+		"Id": 1021,
+		"Value": "Ruinous Ghostflame"
+	},
+	{
+		"Id": 1022,
+		"Value": "Establish Order"
+	},
+	{
+		"Id": 1023,
+		"Value": "Mists of Slumber"
+	},
+	{
+		"Id": 1024,
+		"Value": "Spearcall Ritual"
+	},
+	{
+		"Id": 1025,
+		"Value": "Wolf's Assault"
+	},
+	{
+		"Id": 1026,
+		"Value": "Thundercloud Form"
+	},
+	{
+		"Id": 1027,
+		"Value": "Cursed-Blood Slice"
+	},
+	{
+		"Id": 1028,
+		"Value": "Waterfowl Dance"
+	},
+	{
+		"Id": 1029,
+		"Value": "Gold Breaker"
+	},
+	{
+		"Id": 1030,
+		"Value": "I Command Thee, Kneel!"
+	},
+	{
+		"Id": 1031,
+		"Value": "Regal Roar"
+	},
+	{
+		"Id": 1032,
+		"Value": "Starcaller Cry"
+	},
+	{
+		"Id": 1033,
+		"Value": "Wave of Destruction"
+	},
+	{
+		"Id": 1034,
+		"Value": "Bloodboon Ritual"
+	},
+	{
+		"Id": 1035,
+		"Value": "Flowing Form"
+	},
+	{
+		"Id": 1036,
+		"Value": "Blade of Death"
+	},
+	{
+		"Id": 1037,
+		"Value": "Blade of Gold"
+	},
+	{
+		"Id": 1038,
+		"Value": "Destined Death"
+	},
+	{
+		"Id": 1039,
+		"Value": "Spinning Wheel"
+	},
+	{
+		"Id": 1040,
+		"Value": "Alabaster Lords' Pull"
+	},
+	{
+		"Id": 1041,
+		"Value": "Onyx Lords' Repulsion"
+	},
+	{
+		"Id": 1042,
+		"Value": "Oath of Vengeance"
+	},
+	{
+		"Id": 1043,
+		"Value": "Ice Lightning Sword"
+	},
+	{
+		"Id": 1044,
+		"Value": "Regal Beastclaw"
+	},
+	{
+		"Id": 1045,
+		"Value": "Flame Dance"
+	},
+	{
+		"Id": 1046,
+		"Value": "Claw Flick"
+	},
+	{
+		"Id": 1047,
+		"Value": "Nebula"
+	},
+	{
+		"Id": 1048,
+		"Value": "Ghostflame Ignition"
+	},
+	{
+		"Id": 1049,
+		"Value": "Ancient Lightning Spear"
+	},
+	{
+		"Id": 1050,
+		"Value": "Frenzyflame Thrust"
+	},
+	{
+		"Id": 1051,
+		"Value": "Miquella's Ring of Light"
+	},
+	{
+		"Id": 1052,
+		"Value": "Golden Tempering"
+	},
+	{
+		"Id": 1053,
+		"Value": "Last Rites"
+	},
+	{
+		"Id": 1054,
+		"Value": "Unblockable Blade"
+	},
+	{
+		"Id": 1055,
+		"Value": "Eochaid's Dancing Blade"
+	},
+	{
+		"Id": 1167,
+		"Value": "Corpse Wax Cutter"
+	},
+	{
+		"Id": 1168,
+		"Value": "Zamor Ice Storm"
+	},
+	{
+		"Id": 1169,
+		"Value": "Radahn's Rain"
+	},
+	{
+		"Id": 1170,
+		"Value": "The Queen's Black Flame"
+	},
+	{
+		"Id": 1171,
+		"Value": "Dynast's Finesse"
+	},
+	{
+		"Id": 1172,
+		"Value": "Magma Shower"
+	},
+	{
+		"Id": 1173,
+		"Value": "Nebula"
+	},
+	{
+		"Id": 1174,
+		"Value": "Death Flare"
+	},
+	{
+		"Id": 1175,
+		"Value": "Bloodhound's Finesse"
+	},
+	{
+		"Id": 1176,
+		"Value": "Magma Guillotine"
+	},
+	{
+		"Id": 1177,
+		"Value": "Corpse Piler"
+	},
+	{
+		"Id": 1178,
+		"Value": "Transient Moonlight"
+	},
+	{
+		"Id": 1179,
+		"Value": "Bloodblade Dance"
+	},
+	{
+		"Id": 1182,
+		"Value": "Knowledge Above All"
+	},
+	{
+		"Id": 1183,
+		"Value": "Devourer of Worlds"
+	},
+	{
+		"Id": 1184,
+		"Value": "Familal Rancor"
+	},
+	{
+		"Id": 1185,
+		"Value": "Rosus's Summons"
+	},
+	{
+		"Id": 1186,
+		"Value": "Thunderstorm"
+	},
+	{
+		"Id": 1187,
+		"Value": "Sacred Phalanx"
+	},
+	{
+		"Id": 1188,
+		"Value": "Great-Serpent Hunt"
+	},
+	{
+		"Id": 1189,
+		"Value": "Angel's Wings"
+	},
+	{
+		"Id": 1190,
+		"Value": "Storm Kick"
+	},
+	{
+		"Id": 1191,
+		"Value": "Unblockable Blade"
+	},
+	{
+		"Id": 1192,
+		"Value": "Sorcery of the Crozier"
+	},
+	{
+		"Id": 1193,
+		"Value": "Erdtree Slam"
+	},
+	{
+		"Id": 1194,
+		"Value": "Gravity Bolt"
+	},
+	{
+		"Id": 1195,
+		"Value": "Fires of Slumber"
+	},
+	{
+		"Id": 1196,
+		"Value": "Golden Retaliation"
+	},
+	{
+		"Id": 1197,
+		"Value": "Contagious Fury"
+	},
+	{
+		"Id": 1198,
+		"Value": "Ordovis's Vortex"
+	},
+	{
+		"Id": 1199,
+		"Value": "Spinning Weapon"
+	}
+]

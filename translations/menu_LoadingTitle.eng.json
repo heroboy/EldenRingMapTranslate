@@ -1,0 +1,270 @@
+[
+	{
+		"Id": 1,
+		"Value": "Crouching"
+	},
+	{
+		"Id": 2,
+		"Value": "Guarding"
+	},
+	{
+		"Id": 3,
+		"Value": "Guard Counters"
+	},
+	{
+		"Id": 4,
+		"Value": "Two-Handing Armaments"
+	},
+	{
+		"Id": 5,
+		"Value": "Charge and Jump Attacks"
+	},
+	{
+		"Id": 6,
+		"Value": "Skill"
+	},
+	{
+		"Id": 7,
+		"Value": "Parrying"
+	},
+	{
+		"Id": 8,
+		"Value": "Setting a Target"
+	},
+	{
+		"Id": 9,
+		"Value": "Precision Aiming"
+	},
+	{
+		"Id": 10,
+		"Value": "Equipping Armaments"
+	},
+	{
+		"Id": 11,
+		"Value": "Using Items"
+	},
+	{
+		"Id": 12,
+		"Value": "Using Torches"
+	},
+	{
+		"Id": 13,
+		"Value": "Critical Hits"
+	},
+	{
+		"Id": 14,
+		"Value": "Gestures"
+	},
+	{
+		"Id": 15,
+		"Value": "The Map"
+	},
+	{
+		"Id": 16,
+		"Value": "Spiritspring Jumping"
+	},
+	{
+		"Id": 17,
+		"Value": "Item Shortcut"
+	},
+	{
+		"Id": 50,
+		"Value": "Dying and Dropping Runes"
+	},
+	{
+		"Id": 52,
+		"Value": "Summoning Spirits"
+	},
+	{
+		"Id": 53,
+		"Value": "Resting at Sites of Grace"
+	},
+	{
+		"Id": 54,
+		"Value": "Finding Sites of Grace"
+	},
+	{
+		"Id": 55,
+		"Value": "Guidance of Grace"
+	},
+	{
+		"Id": 56,
+		"Value": "Sacred Flasks"
+	},
+	{
+		"Id": 57,
+		"Value": "Fast Travel to Sites of Grace"
+	},
+	{
+		"Id": 58,
+		"Value": "Mounted Attacks"
+	},
+	{
+		"Id": 59,
+		"Value": "No-Riding Areas"
+	},
+	{
+		"Id": 60,
+		"Value": "Item Crafting"
+	},
+	{
+		"Id": 61,
+		"Value": "Container Items"
+	},
+	{
+		"Id": 62,
+		"Value": "Armament Customization"
+	},
+	{
+		"Id": 64,
+		"Value": "Reviving After Dying"
+	},
+	{
+		"Id": 65,
+		"Value": "Equip Load"
+	},
+	{
+		"Id": 66,
+		"Value": "While in Combat"
+	},
+	{
+		"Id": 67,
+		"Value": "Strengthening Spirits"
+	},
+	{
+		"Id": 68,
+		"Value": "Leveling Up"
+	},
+	{
+		"Id": 70,
+		"Value": "Status: Poison"
+	},
+	{
+		"Id": 71,
+		"Value": "Status: Scarlet Rot"
+	},
+	{
+		"Id": 72,
+		"Value": "Status: Blood Loss"
+	},
+	{
+		"Id": 73,
+		"Value": "Status: Frost/Frostbite"
+	},
+	{
+		"Id": 74,
+		"Value": "Status: Sleep"
+	},
+	{
+		"Id": 75,
+		"Value": "Status: Madness"
+	},
+	{
+		"Id": 76,
+		"Value": "Status: Death"
+	},
+	{
+		"Id": 77,
+		"Value": "Poise"
+	},
+	{
+		"Id": 100,
+		"Value": "Cooperator's Objective (Furled Finger)"
+	},
+	{
+		"Id": 101,
+		"Value": "Adversary's Objective (Duelist)"
+	},
+	{
+		"Id": 102,
+		"Value": "Multiplayer Maximums"
+	},
+	{
+		"Id": 103,
+		"Value": "Seeing Summon Signs"
+	},
+	{
+		"Id": 104,
+		"Value": "Leaving Co-op Signs"
+	},
+	{
+		"Id": 105,
+		"Value": "Leaving Hostile Signs"
+	},
+	{
+		"Id": 106,
+		"Value": "Invasion"
+	},
+	{
+		"Id": 107,
+		"Value": "Requesting Support"
+	},
+	{
+		"Id": 108,
+		"Value": "Supporting"
+	},
+	{
+		"Id": 109,
+		"Value": "Summoning Pools"
+	},
+	{
+		"Id": 110,
+		"Value": "Group Passwords"
+	},
+	{
+		"Id": 111,
+		"Value": "Multiplayer Passwords"
+	},
+	{
+		"Id": 112,
+		"Value": "Messages"
+	},
+	{
+		"Id": 113,
+		"Value": "Multiplayer Movement Limits"
+	},
+	{
+		"Id": 114,
+		"Value": "Phantoms"
+	},
+	{
+		"Id": 115,
+		"Value": "Bloodstains"
+	},
+	{
+		"Id": 116,
+		"Value": "Support Objective (Hunter)"
+	},
+	{
+		"Id": 117,
+		"Value": "Summon Signs"
+	},
+	{
+		"Id": 118,
+		"Value": "Advanced Messages"
+	},
+	{
+		"Id": 119,
+		"Value": "Invader Objective"
+	},
+	{
+		"Id": 150,
+		"Value": "Limits of Guarding"
+	},
+	{
+		"Id": 151,
+		"Value": "Stance-Breaking"
+	},
+	{
+		"Id": 152,
+		"Value": "Knocking Down Mounted Enemies"
+	},
+	{
+		"Id": 153,
+		"Value": "Hardened Foes"
+	},
+	{
+		"Id": 200,
+		"Value": "Teardrop Scarabs"
+	}
+]

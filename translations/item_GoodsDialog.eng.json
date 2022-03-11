@@ -1,0 +1,150 @@
+[
+	{
+		"Id": 10010670,
+		"Value": "Talisman effects have prevented your runes from being lost upon death, at the cost of your Sacrificial Twig"
+	},
+	{
+		"Id": 10010680,
+		"Value": "Physick effects have prevented your runes from being lost upon death"
+	},
+	{
+		"Id": 10010800,
+		"Value": "Use <?gdsparam@390?>?"
+	},
+	{
+		"Id": 10010801,
+		"Value": "Use <?gdsparam@2950?>?"
+	},
+	{
+		"Id": 10010802,
+		"Value": "Use <?gdsparam@2951?>?"
+	},
+	{
+		"Id": 10010803,
+		"Value": "Use <?gdsparam@2952?>?"
+	},
+	{
+		"Id": 10010804,
+		"Value": "Use <?gdsparam@2953?>?"
+	},
+	{
+		"Id": 10010805,
+		"Value": "Use <?gdsparam@2954?>?"
+	},
+	{
+		"Id": 10010806,
+		"Value": "Use <?gdsparam@2955?>?"
+	},
+	{
+		"Id": 10010807,
+		"Value": "Use <?gdsparam@2956?>?"
+	},
+	{
+		"Id": 10010808,
+		"Value": "Use <?gdsparam@2957?>?"
+	},
+	{
+		"Id": 10010809,
+		"Value": "Use <?gdsparam@2958?>?"
+	},
+	{
+		"Id": 10010810,
+		"Value": "Use <?gdsparam@2959?>?"
+	},
+	{
+		"Id": 10010811,
+		"Value": "Use <?gdsparam@2960?>?"
+	},
+	{
+		"Id": 10010812,
+		"Value": "Use <?gdsparam@2961?>?"
+	},
+	{
+		"Id": 10010813,
+		"Value": "Use <?gdsparam@2962?>?"
+	},
+	{
+		"Id": 10010814,
+		"Value": "Use <?gdsparam@2963?>?"
+	},
+	{
+		"Id": 10010815,
+		"Value": "Use <?gdsparam@2964?>?"
+	},
+	{
+		"Id": 10010830,
+		"Value": "Use Miquella's Needle to tame the flame of frenzy?"
+	},
+	{
+		"Id": 10010840,
+		"Value": "Go to the audience grounds?"
+	},
+	{
+		"Id": 10011954,
+		"Value": "Lose all runes to return to the last site of grace visited?"
+	},
+	{
+		"Id": 20000001,
+		"Value": "Finger Remedy effect will be nullified. OK?"
+	},
+	{
+		"Id": 20000010,
+		"Value": "Attempt to invade another world?"
+	},
+	{
+		"Id": 20000011,
+		"Value": "Cancel invasion of other world?"
+	},
+	{
+		"Id": 20000021,
+		"Value": "Withdraw summon request?"
+	},
+	{
+		"Id": 20000031,
+		"Value": "Stop answering requests to be summoned as a rescuer?"
+	},
+	{
+		"Id": 20000040,
+		"Value": "Lure in invaders?"
+	},
+	{
+		"Id": 20000041,
+		"Value": "Stop luring in invaders?"
+	},
+	{
+		"Id": 20000050,
+		"Value": "Send a co-op sign to summoning pools?"
+	},
+	{
+		"Id": 20000051,
+		"Value": "Withdraw a co-op sign from summoning pools?"
+	},
+	{
+		"Id": 20000060,
+		"Value": "Send a hostile sign to summoning pools?"
+	},
+	{
+		"Id": 20000061,
+		"Value": "Withdraw a hostile sign from summoning pools?"
+	},
+	{
+		"Id": 20000070,
+		"Value": "Return to your world?"
+	},
+	{
+		"Id": 20000600,
+		"Value": "Send summoned spirit back to the beyond?"
+	},
+	{
+		"Id": 20000610,
+		"Value": "Summoning a new spirit will send any spirits present away. OK?"
+	},
+	{
+		"Id": 20000700,
+		"Value": "This Dream Mist has been already acquired"
+	},
+	{
+		"Id": 20000800,
+		"Value": "Resummon steed by consuming one charge of the Flask of Crimson Tears?"
+	}
+]

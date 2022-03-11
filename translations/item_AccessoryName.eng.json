@@ -1,0 +1,474 @@
+[
+	{
+		"Id": 100,
+		"Value": "Petition for Help"
+	},
+	{
+		"Id": 101,
+		"Value": "Broken Finger Stalker Contract"
+	},
+	{
+		"Id": 1000,
+		"Value": "Crimson Amber Medallion"
+	},
+	{
+		"Id": 1001,
+		"Value": "Crimson Amber Medallion +1"
+	},
+	{
+		"Id": 1002,
+		"Value": "Crimson Amber Medallion +2"
+	},
+	{
+		"Id": 1010,
+		"Value": "Cerulean Amber Medallion"
+	},
+	{
+		"Id": 1011,
+		"Value": "Cerulean Amber Medallion +1"
+	},
+	{
+		"Id": 1012,
+		"Value": "Cerulean Amber Medallion +2"
+	},
+	{
+		"Id": 1020,
+		"Value": "Viridian Amber Medallion"
+	},
+	{
+		"Id": 1021,
+		"Value": "Viridian Amber Medallion +1"
+	},
+	{
+		"Id": 1022,
+		"Value": "Viridian Amber Medallion +2"
+	},
+	{
+		"Id": 1030,
+		"Value": "Arsenal Charm"
+	},
+	{
+		"Id": 1031,
+		"Value": "Arsenal Charm +1"
+	},
+	{
+		"Id": 1032,
+		"Value": "Great-Jar's Arsenal"
+	},
+	{
+		"Id": 1040,
+		"Value": "Erdtree's Favor"
+	},
+	{
+		"Id": 1041,
+		"Value": "Erdtree's Favor +1"
+	},
+	{
+		"Id": 1042,
+		"Value": "Erdtree's Favor +2"
+	},
+	{
+		"Id": 1050,
+		"Value": "Radagon's Scarseal"
+	},
+	{
+		"Id": 1051,
+		"Value": "Radagon's Soreseal"
+	},
+	{
+		"Id": 1060,
+		"Value": "Starscourge Heirloom"
+	},
+	{
+		"Id": 1070,
+		"Value": "Prosthesis-Wearer Heirloom"
+	},
+	{
+		"Id": 1080,
+		"Value": "Stargazer Heirloom"
+	},
+	{
+		"Id": 1090,
+		"Value": "Two Fingers Heirloom"
+	},
+	{
+		"Id": 1100,
+		"Value": "Silver Scarab"
+	},
+	{
+		"Id": 1110,
+		"Value": "Gold Scarab"
+	},
+	{
+		"Id": 1140,
+		"Value": "Moon of Nokstella"
+	},
+	{
+		"Id": 1150,
+		"Value": "Green Turtle Talisman"
+	},
+	{
+		"Id": 1160,
+		"Value": "Stalwart Horn Charm"
+	},
+	{
+		"Id": 1161,
+		"Value": "Stalwart Horn Charm +1"
+	},
+	{
+		"Id": 1170,
+		"Value": "Immunizing Horn Charm"
+	},
+	{
+		"Id": 1171,
+		"Value": "Immunizing Horn Charm +1"
+	},
+	{
+		"Id": 1180,
+		"Value": "Clarifying Horn Charm"
+	},
+	{
+		"Id": 1181,
+		"Value": "Clarifying Horn Charm +1"
+	},
+	{
+		"Id": 1190,
+		"Value": "Prince of Death's Pustule"
+	},
+	{
+		"Id": 1191,
+		"Value": "Prince of Death's Cyst"
+	},
+	{
+		"Id": 1200,
+		"Value": "Mottled Necklace"
+	},
+	{
+		"Id": 1201,
+		"Value": "Mottled Necklace +1"
+	},
+	{
+		"Id": 1210,
+		"Value": "Bull-Goat's Talisman"
+	},
+	{
+		"Id": 1220,
+		"Value": "Marika's Scarseal"
+	},
+	{
+		"Id": 1221,
+		"Value": "Marika's Soreseal"
+	},
+	{
+		"Id": 1230,
+		"Value": "Warrior Jar Shard"
+	},
+	{
+		"Id": 1231,
+		"Value": "Shard of Alexander"
+	},
+	{
+		"Id": 1250,
+		"Value": "Millicent's Prosthesis"
+	},
+	{
+		"Id": 2000,
+		"Value": "Magic Scorpion Charm"
+	},
+	{
+		"Id": 2010,
+		"Value": "Lightning Scorpion Charm"
+	},
+	{
+		"Id": 2020,
+		"Value": "Fire Scorpion Charm"
+	},
+	{
+		"Id": 2030,
+		"Value": "Sacred Scorpion Charm"
+	},
+	{
+		"Id": 2040,
+		"Value": "Red-Feathered Branchsword"
+	},
+	{
+		"Id": 2050,
+		"Value": "Ritual Sword Talisman"
+	},
+	{
+		"Id": 2060,
+		"Value": "Spear Talisman"
+	},
+	{
+		"Id": 2070,
+		"Value": "Hammer Talisman"
+	},
+	{
+		"Id": 2080,
+		"Value": "Winged Sword Insignia"
+	},
+	{
+		"Id": 2081,
+		"Value": "Rotten Winged Sword Insignia"
+	},
+	{
+		"Id": 2090,
+		"Value": "Dagger Talisman"
+	},
+	{
+		"Id": 2100,
+		"Value": "Arrow's Reach Talisman"
+	},
+	{
+		"Id": 2110,
+		"Value": "Blue Dancer Charm"
+	},
+	{
+		"Id": 2120,
+		"Value": "Twinblade Talisman"
+	},
+	{
+		"Id": 2130,
+		"Value": "Axe Talisman"
+	},
+	{
+		"Id": 2140,
+		"Value": "Lance Talisman"
+	},
+	{
+		"Id": 2150,
+		"Value": "Arrow's Sting Talisman"
+	},
+	{
+		"Id": 2160,
+		"Value": "Lord of Blood's Exultation"
+	},
+	{
+		"Id": 2170,
+		"Value": "Kindred of Rot's Exultation"
+	},
+	{
+		"Id": 2180,
+		"Value": "Claw Talisman"
+	},
+	{
+		"Id": 2190,
+		"Value": "Roar Medallion"
+	},
+	{
+		"Id": 2200,
+		"Value": "Curved Sword Talisman"
+	},
+	{
+		"Id": 2210,
+		"Value": "Companion Jar"
+	},
+	{
+		"Id": 2220,
+		"Value": "Perfumer's Talisman"
+	},
+	{
+		"Id": 3000,
+		"Value": "Graven-School Talisman"
+	},
+	{
+		"Id": 3001,
+		"Value": "Graven-Mass Talisman"
+	},
+	{
+		"Id": 3040,
+		"Value": "Faithful's Canvas Talisman"
+	},
+	{
+		"Id": 3050,
+		"Value": "Flock's Canvas Talisman"
+	},
+	{
+		"Id": 3060,
+		"Value": "Old Lord's Talisman"
+	},
+	{
+		"Id": 3070,
+		"Value": "Radagon Icon"
+	},
+	{
+		"Id": 3080,
+		"Value": "Primal Glintstone Blade"
+	},
+	{
+		"Id": 3090,
+		"Value": "Godfrey Icon"
+	},
+	{
+		"Id": 4000,
+		"Value": "Dragoncrest Shield Talisman"
+	},
+	{
+		"Id": 4001,
+		"Value": "Dragoncrest Shield Talisman +1"
+	},
+	{
+		"Id": 4002,
+		"Value": "Dragoncrest Shield Talisman +2"
+	},
+	{
+		"Id": 4003,
+		"Value": "Dragoncrest Greatshield Talisman"
+	},
+	{
+		"Id": 4010,
+		"Value": "Spelldrake Talisman"
+	},
+	{
+		"Id": 4011,
+		"Value": "Spelldrake Talisman +1"
+	},
+	{
+		"Id": 4012,
+		"Value": "Spelldrake Talisman +2"
+	},
+	{
+		"Id": 4020,
+		"Value": "Flamedrake Talisman"
+	},
+	{
+		"Id": 4021,
+		"Value": "Flamedrake Talisman +1"
+	},
+	{
+		"Id": 4022,
+		"Value": "Flamedrake Talisman +2"
+	},
+	{
+		"Id": 4030,
+		"Value": "Boltdrake Talisman"
+	},
+	{
+		"Id": 4031,
+		"Value": "Boltdrake Talisman +1"
+	},
+	{
+		"Id": 4032,
+		"Value": "Boltdrake Talisman +2"
+	},
+	{
+		"Id": 4040,
+		"Value": "Haligdrake Talisman"
+	},
+	{
+		"Id": 4041,
+		"Value": "Haligdrake Talisman +1"
+	},
+	{
+		"Id": 4042,
+		"Value": "Haligdrake Talisman +2"
+	},
+	{
+		"Id": 4050,
+		"Value": "Pearldrake Talisman"
+	},
+	{
+		"Id": 4051,
+		"Value": "Pearldrake Talisman +1"
+	},
+	{
+		"Id": 4052,
+		"Value": "Pearldrake Talisman +2"
+	},
+	{
+		"Id": 4060,
+		"Value": "Crucible Scale Talisman"
+	},
+	{
+		"Id": 4070,
+		"Value": "Crucible Feather Talisman"
+	},
+	{
+		"Id": 4080,
+		"Value": "Blue-Feathered Branchsword"
+	},
+	{
+		"Id": 4090,
+		"Value": "Ritual Shield Talisman"
+	},
+	{
+		"Id": 4100,
+		"Value": "Greatshield Talisman"
+	},
+	{
+		"Id": 4110,
+		"Value": "Crucible Knot Talisman"
+	},
+	{
+		"Id": 5000,
+		"Value": "Crimson Seed Talisman"
+	},
+	{
+		"Id": 5010,
+		"Value": "Cerulean Seed Talisman"
+	},
+	{
+		"Id": 5020,
+		"Value": "Blessed Dew Talisman"
+	},
+	{
+		"Id": 5030,
+		"Value": "Taker's Cameo"
+	},
+	{
+		"Id": 5040,
+		"Value": "Godskin Swaddling Cloth"
+	},
+	{
+		"Id": 5050,
+		"Value": "Assassin's Crimson Dagger"
+	},
+	{
+		"Id": 5060,
+		"Value": "Assassin's Cerulean Dagger"
+	},
+	{
+		"Id": 6000,
+		"Value": "Crepus's Vial"
+	},
+	{
+		"Id": 6010,
+		"Value": "Concealing Veil"
+	},
+	{
+		"Id": 6020,
+		"Value": "Carian Filigreed Crest"
+	},
+	{
+		"Id": 6040,
+		"Value": "Longtail Cat Talisman"
+	},
+	{
+		"Id": 6050,
+		"Value": "Shabriri's Woe"
+	},
+	{
+		"Id": 6060,
+		"Value": "Daedicar's Woe"
+	},
+	{
+		"Id": 6070,
+		"Value": "Sacrificial Twig"
+	},
+	{
+		"Id": 6080,
+		"Value": "Furled Finger's Trick-Mirror"
+	},
+	{
+		"Id": 6090,
+		"Value": "Host's Trick-Mirror"
+	},
+	{
+		"Id": 6100,
+		"Value": "Entwining Umbilical Cord"
+	},
+	{
+		"Id": 6110,
+		"Value": "Ancestral Spirit's Horn"
+	}
+]

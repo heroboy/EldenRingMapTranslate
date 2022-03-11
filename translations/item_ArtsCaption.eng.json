@@ -1,0 +1,754 @@
+[
+	{
+		"Id": 1,
+		"Value": "-"
+	},
+	{
+		"Id": 10,
+		"Value": "No skill.\n\nThis armament has no skill.\nIf the armament in the other hand has a skill, that skill will be used instead."
+	},
+	{
+		"Id": 100,
+		"Value": "Skill: Lion's Claw\n\nSkill of the Redmanes, who fought alongside General Radahn.\nSomersault forwards, striking foes with armament."
+	},
+	{
+		"Id": 101,
+		"Value": "Skill: Impaling Thrust\n\nSkill that lets piercing armaments overcome enemy shields. Build power, then lunge forward for a strong thrust that pierces an enemy's guard."
+	},
+	{
+		"Id": 102,
+		"Value": "Skill: Piercing Fang\n\nSkill used by Yura, the Bloody Finger Hunter.\nStarting with the blade held horizontally, make a powerful thrust that cannot be blocked."
+	},
+	{
+		"Id": 103,
+		"Value": "Skill: Spinning Slash\n\nSkill favored by dexterous warriors.\nSlash foes as your body spins. Additional input allows for a follow-up attack."
+	},
+	{
+		"Id": 104,
+		"Value": "Skill: Spinning Reaper\n\nSkill developed to face crowds of enemies.\nSlice at foes while performing a great\nrotation with the body. The momentum\ngenerated can empower a final, heavy strike."
+	},
+	{
+		"Id": 105,
+		"Value": "Skill: Charge Forth\n\nQuickly charge forward with the armament at the hip, carrying the momentum into a thrust.\nHold to cover a greater distance."
+	},
+	{
+		"Id": 106,
+		"Value": "Skill: Stamp (Upward Cut)\n\nBrace armament and step into a low stance that prevents recoil from most enemy attacks.\nFollow up with a strong attack for an upward strike."
+	},
+	{
+		"Id": 107,
+		"Value": "Skill: Stamp (Sweep)\n\nBrace armament and step into a low stance that prevents recoil from most enemy attacks.\nFollow up with a strong attack for a sweeping strike."
+	},
+	{
+		"Id": 108,
+		"Value": "Skill: Blood Tax\n\nBlood Oath skill granted by the Lord of Blood.\nTwist to build power, then unleash a flurry of thrusts that rob the target of both their blood and their HP."
+	},
+	{
+		"Id": 109,
+		"Value": "Skill: Repeating Thrust\n\nTwist to build power, then unleash a flurry of thrusts."
+	},
+	{
+		"Id": 110,
+		"Value": "Skill: Wild Strikes\n\nSwing armament with wild abandon.\nHold to continue swinging. Can be followed up with a normal or strong attack."
+	},
+	{
+		"Id": 111,
+		"Value": "Skill: Spinning Strikes\n\nPolearm skill that performs continuous spinning attacks. Hold to continue the attack. Can be followed up with a normal or strong attack. Nullifies projectiles such as arrows while spinning."
+	},
+	{
+		"Id": 112,
+		"Value": "Skill: Double Slash\n\nSkill of superior swordsmen.\nPerform a crossing slash attack from a low stance.\nRepeated inputs allow for up to two follow-up attacks."
+	},
+	{
+		"Id": 113,
+		"Value": "Skill: Prelate's Charge\n\nSlam armament into the ground to create a surge of flames, then charge in.\nHold to continue the charge."
+	},
+	{
+		"Id": 114,
+		"Value": "Skill: Unsheathe\n\nSkill of swordsmen from the Land of Reeds.\nSheathe blade, holding it at the hip in a composed stance.\nFollow up with a normal or strong attack to perform a swift slash attack."
+	},
+	{
+		"Id": 115,
+		"Value": "Skill: Square Off\n\nThis skill starts with the sword held level.\nFollow up with a normal attack to slash upwards through enemy's guard, or a strong attack to perform a running thrust."
+	},
+	{
+		"Id": 116,
+		"Value": "Skill: Giant Hunt\n\nSkill developed for confronting gigantic foes.\nStep forward from a low stance, carrying the momentum into a sudden upward thrust."
+	},
+	{
+		"Id": 117,
+		"Value": "Skill: Torch Attack\n\nThrust torch forward to set foes ablaze.\nThis skill is especially effective against foes who are weak to fire."
+	},
+	{
+		"Id": 118,
+		"Value": "Skill: Loretta's Slash\n\nSkill of Loretta the Royal Knight.\nLeap forward, imbuing the blade with glintstone, then descend, accelerating into a sweeping slash."
+	},
+	{
+		"Id": 119,
+		"Value": "Skill: Poison Moth Flight\n\nSlash with a poison-infused blade.\nIf the follow-up strike lands on a poisoned foe, it will deal significant damage."
+	},
+	{
+		"Id": 120,
+		"Value": "Skill: Spinning Weapon\n\nDefensive skill employed by Carian princesses.\nLifts armament into mid-air, then makes it spin violently. Those it touches will suffer successive attacks."
+	},
+	{
+		"Id": 122,
+		"Value": "Skill: Storm Assault\n\nOne of the skills that channel the tempests of Stormveil.\nLeap forward through surrounding storm winds and thrust armament downward. The attack will produce more storm winds at the point of impact."
+	},
+	{
+		"Id": 123,
+		"Value": "Skill: Stormcaller\n\nOne of the skills that channel the tempests of Stormveil. Spin armament to create surrounding storm winds. Repeated inputs allow for up to two follow-up attacks."
+	},
+	{
+		"Id": 124,
+		"Value": "Skill: Sword Dance\n\nQuickly close in to perform a series of spinning upward slashes.\nFollow up with an additional input to finish with a downward slash."
+	},
+	{
+		"Id": 125,
+		"Value": "Skill: Spinning Chain\n\nSpins the striking part of a flail at high speed to attack.\nFollow up with a normal or strong attack to link the momentum of this skill into a successive attack."
+	},
+	{
+		"Id": 200,
+		"Value": "Skill: Glintblade Phalanx\n\nSkill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust."
+	},
+	{
+		"Id": 201,
+		"Value": "Skill: Sacred Blade\n\nGrants armament's attacks holy essence and fires off a golden blade projectile.\nThe armament retains its holy essence for a while."
+	},
+	{
+		"Id": 202,
+		"Value": "Skill: Ice Spear\n\nSkill of the warriors who served Lunar Princess Ranni.\nSpin armament to release cold magic, then channel it into a piercing spear of ice."
+	},
+	{
+		"Id": 203,
+		"Value": "Skill: Glintstone Pebble\n\nSkill that employs the glintstone sorcery of the same name.\nFollow up with a strong attack to chain this skill into a lunging thrust, performed while the armament is still imbued with glintstone."
+	},
+	{
+		"Id": 204,
+		"Value": "Skill: Bloody Slash\n\nBlood Oath skill granted by the Lord of Blood.\nFrom a low stance, coat the blade in your own blood to unleash a rending blood slash in a wide arc."
+	},
+	{
+		"Id": 205,
+		"Value": "Skill: Lifesteal Fist\n\nSkill that demonstrates mastery of the art of controlling vital energies.\nA slow, controlled punch with an energy-infused fist that renders foes unconscious and steals their HP. Only effective against foes of human build."
+	},
+	{
+		"Id": 207,
+		"Value": "Skill: Eruption\n\nSkill of the knights who serve at Volcano Manor.\nSlam armament into the ground, spawning roiling lava which spouts up upon release."
+	},
+	{
+		"Id": 208,
+		"Value": "Skill: Prayerful Strike\n\nRaise armament aloft in prayer, then slam it into the ground.\nThis inspired blow restores HP to the self and nearby allies if it successfully hits."
+	},
+	{
+		"Id": 209,
+		"Value": "Skill: Gravitas\n\nSkill originating from the Alabaster Lords, who had skin of stone.\nThrust the armament into the ground to create a gravity well.\nIn addition to dealing damage, this attack pulls enemies in."
+	},
+	{
+		"Id": 210,
+		"Value": "Skill: Storm Blade\n\nLost skill of Stormveil.\nSurround armament with shearing storm winds that can be fired forward.\nCan be fired in rapid succession."
+	},
+	{
+		"Id": 212,
+		"Value": "Skill: Earthshaker\n\nThrust armament into the ground, then gather strength to unleash an earth-shaking shockwave.\nFollow up with a strong attack to swing the armament in a sweeping strike."
+	},
+	{
+		"Id": 213,
+		"Value": "Skill: Golden Land\n\nThrust armament into the ground, then gather strength to unleash a blast of sacred energy that coalesces into golden darts. Follow up with a strong attack to swing the armament in a sweeping strike."
+	},
+	{
+		"Id": 214,
+		"Value": "Skill: Flaming Strike\n\nSkill that emits flame in a wide frontward arc.\nFollow up with a strong attack to perform a lunging, sweeping strike.\nThis will also coat the armament in fire."
+	},
+	{
+		"Id": 216,
+		"Value": "Skill: Thunderbolt\n\nSkill used by the capital's ancient dragon cult.\nRaise armament aloft to call down a bolt of lightning.\nCan be fired in rapid succession."
+	},
+	{
+		"Id": 217,
+		"Value": "Skill: Lightning Slash\n\nCall down a bolt of lightning into armament, then swing it down to create an explosive shock.\nThe armament retains the lightning enchantment for a while."
+	},
+	{
+		"Id": 218,
+		"Value": "Skill: Carian Grandeur\n\nCarian royal prestige embodied in a skill.\nTransform blade into a magical greatsword and swing it down.\nCan be charged to increase its power by up to two levels."
+	},
+	{
+		"Id": 219,
+		"Value": "Skill: Carian Greatsword\n\nCarian royal prestige embodied in a skill.\nTransform blade into a magical greatsword and swing it down.\nCan be charged to increase its power."
+	},
+	{
+		"Id": 220,
+		"Value": "Skill: Vacuum Slice\n\nLost skill of ancient heroes.\nHold the armament aloft to surround it with a shearing vacuum, then launch it forwards as a blade-like projectile."
+	},
+	{
+		"Id": 221,
+		"Value": "Skill: Black Flame Tornado\n\nSpin armament overhead and then plunge it into the ground to summon a raging vortex of black flames.\nHold to create an initial flame tornado while spinning the armament."
+	},
+	{
+		"Id": 222,
+		"Value": "Skill: Sacred Ring of Light\n\nSkill used by the commanders of the Cleanrot Knights. Gather a sacred ring of light in the armament, then fire it forwards.\nCan be fired in rapid succession."
+	},
+	{
+		"Id": 223,
+		"Value": "Skill: Firebreather\n\nBlow into torch flame, spreading flames in a wide frontward arc. The flames on the ground will continue to burn for a short time."
+	},
+	{
+		"Id": 224,
+		"Value": "Skill: Blood Blade\n\nWound self to coat the armament with blood, then unleash an airborne blood blade that causes hemorrhaging.\nCan be fired in rapid succession."
+	},
+	{
+		"Id": 225,
+		"Value": "Skill: Phantom Slash\n\nSkill inspired by the fond remembrances of the Night's Cavalry. Creates an apparition of the knights' former instructor who guides a joint lunging upward swing. Additional input allows for a follow-up attack."
+	},
+	{
+		"Id": 226,
+		"Value": "Skill: Spectral Lance\n\nSkill of the headless Mausoleum Knights.\nHurl a phantasmic spear at foes."
+	},
+	{
+		"Id": 227,
+		"Value": "Skill: Chilling Mist\n\nCoat armament in frost, and then slash, spreading frigid mist forwards.\nThe armament retains its frost for a while."
+	},
+	{
+		"Id": 228,
+		"Value": "Skill: Poisonous Mist\n\nBathe armament in poison, and then slash, spreading toxic mist forwards.\nThe armament retains its poison for a while."
+	},
+	{
+		"Id": 300,
+		"Value": "Skill: Shield Bash\n\nBrace behind shield before using bodyweight to ram foes while maintaining guarding stance.\nWeaker enemies will be shoved backwards, and can even be staggered."
+	},
+	{
+		"Id": 301,
+		"Value": "Skill: Barricade Shield\n\nSkill made famous by Sir Neidhardt.\nFocus your energy into the shield, temporarily hardening it to deflect greater blows."
+	},
+	{
+		"Id": 302,
+		"Value": "Skill: Parry\n\nUse this skill in time with a foe's melee attack to deflect it and break that foe's stance.\nThis provides an opening to perform a critical hit."
+	},
+	{
+		"Id": 303,
+		"Value": "Skill: Buckler Parry\n\nUse this skill in time with a foe's melee attack to deflect it and break that foe's stance.\nThis is faster than a regular parry."
+	},
+	{
+		"Id": 304,
+		"Value": "Skill: Parry\n\nUse this skill in time with a foe's melee attack to deflect it and break that foe's stance.\nThis provides an opening to perform a critical hit."
+	},
+	{
+		"Id": 305,
+		"Value": "Skill: Carian Retaliation\n\nSwing the shield to dispel incoming sorceries and incantations, transforming the magic into retaliatory glintblades.\nCan also be used in the same way as a regular parry."
+	},
+	{
+		"Id": 306,
+		"Value": "Skill: Storm Wall\n\nSwing the shield to create a wall of storm winds in front of you, deflecting arrows and other such physical projectiles.\nCan also be used in the same way as a regular parry."
+	},
+	{
+		"Id": 307,
+		"Value": "Skill: Golden Parry\n\nPerform an Erdtree incantation and swing the shield to deflect enemy attacks and break their stance.\nEffective even at a slight distance."
+	},
+	{
+		"Id": 308,
+		"Value": "Skill: Shield Crash\n\nTwo-hand the shield and charge forwards while maintaining guard. Weaker enemies will be shoved backwards and can even be staggered.\nHold to extend the duration of the charge forwards."
+	},
+	{
+		"Id": 309,
+		"Value": "Skill: Thops's Barrier\n\nErect a magical forcefield while swinging the shield to deflect sorceries and incantations.\nCan also be used in the same way as a regular parry."
+	},
+	{
+		"Id": 400,
+		"Value": "Skill: Through and Through\n\nPowerful archery skill using a greatbow held in an oblique stance.\nReady the greatbow, then twist the bowstring to fire a mighty greatarrow that can penetrate through enemies."
+	},
+	{
+		"Id": 401,
+		"Value": "Skill: Barrage\n\nArchery skill using a bow held horizontally.\nReady the bow, then fire off a rapid succession of shots faster than the eye can see."
+	},
+	{
+		"Id": 402,
+		"Value": "Skill: Mighty Shot\n\nArchery skill performed from an oblique stance.\nReady the bow, then pull the bowstring to its limit to enhance the power of the shot, penetrating the enemy's guard."
+	},
+	{
+		"Id": 404,
+		"Value": "Skill: Enchanted Shot\n\nArchery skill that enlivens the arrow with spiritual essence.\nThe resulting shot will fly faster than regular shots and change its trajectory to follow the target."
+	},
+	{
+		"Id": 405,
+		"Value": "Skill: Sky Shot\n\nArchery skill performed from a low stance.\nReady the bow, then fire an arrow high up into the air, arcing so as to strike the enemy from above when it comes down."
+	},
+	{
+		"Id": 406,
+		"Value": "Skill: Rain of Arrows\n\nArchery skill performed from a low stance.\nReady the bow, then fire a burst of arrows into the sky to shower the enemy with projectiles."
+	},
+	{
+		"Id": 407,
+		"Value": "Skill: Invisible Arrow\n\nNearly invisible magic arrow that leaves\nno trail and disappears on impact."
+	},
+	{
+		"Id": 501,
+		"Value": "Skill: Hoarfrost Stomp\n\nStomp hard to spread a trail of freezing mist on the ground.\nThe mist applies the frost status effect."
+	},
+	{
+		"Id": 502,
+		"Value": "Skill: Storm Stomp\n\nOne of the skills that channel the tempests of Stormveil.\nStomp hard on the ground to kick up a momentary storm."
+	},
+	{
+		"Id": 503,
+		"Value": "Skill: Kick\n\nPush an enemy back with a high kick.\nEffective against enemies who are guarding, and can break a foe's stance.\nSometimes a simple tool is the most effective."
+	},
+	{
+		"Id": 504,
+		"Value": "Skill: Lightning Ram\n\nSkill inspired by tumbling rams.\nLet out a bleat, then tumble forwards, clad in lightning.\nTumbles can be repeated in rapid succession."
+	},
+	{
+		"Id": 505,
+		"Value": "Skill: Flame of the Redmanes\n\nSkill of the Redmanes, who fought alongside General Radahn.\nProduce a powerful burst of flames in a wide frontward arc."
+	},
+	{
+		"Id": 506,
+		"Value": "Skill: Ground Slam\n\nJump up high into the air and crash down on the ground ahead.\nThe resulting pratfall sends a powerful shockwave in all directions."
+	},
+	{
+		"Id": 507,
+		"Value": "Skill: Golden Slam\n\nSkill of the avatars who protect Minor Erdtrees.\nJump up high into the air and crash down on the ground ahead.\nThe resulting pratfall sends golden shockwaves in all directions."
+	},
+	{
+		"Id": 508,
+		"Value": "Skill: Waves of Darkness\n\nPlunge armament into the ground to release three waves of darkness.\nFollow up with a strong attack to swing the armament in a sweeping strike."
+	},
+	{
+		"Id": 509,
+		"Value": "Skill: Hoarah Loux's Earthshaker\n\nSlam both hands onto the ground to violently shake the earth and unleash a shockwave.\nFollow up with an additional input to slam the ground again."
+	},
+	{
+		"Id": 600,
+		"Value": "Skill: Determination\n\nA knightly skill.\nHold the flat of the armament to your face and pledge your resolve, powering up your next attack."
+	},
+	{
+		"Id": 601,
+		"Value": "Skill: Royal Knight's Resolve\n\nSkill of the knights who once served the Elden Lord.\nHold the flat of the armament to your face and pledge your resolve, greatly powering up your next attack."
+	},
+	{
+		"Id": 602,
+		"Value": "Skill: Assassin's Gambit\n\nSkill that masks the user's presence at the cost of a self-inflicted wound.\nGrants near-invisibility and silences footsteps."
+	},
+	{
+		"Id": 603,
+		"Value": "Skill: Golden Vow\n\nSkill passed down from antiquity among the knights of the capital. Raise armament aloft and pledge to honor the Erdtree in battle, granting self and nearby allies increased attack power and defense."
+	},
+	{
+		"Id": 604,
+		"Value": "Skill: Sacred Order\n\nSkill of the Golden Order fundamentalist knights.\nPerform a salute and grant the armament holy essence.\nHighly effective against Those Who Live in Death."
+	},
+	{
+		"Id": 605,
+		"Value": "Skill: Shared Order\n\nSkill of the Golden Order fundamentalist knights.\nGrant the armament and those of nearby allies holy essence.\nHighly effective against Those Who Live in Death."
+	},
+	{
+		"Id": 606,
+		"Value": "Skill: Seppuku\n\nA forbidden technique used by swordsmen from the Land of Reeds. Plunge the blade into your stomach to stain it with blood. Increases attack power and improves ability to inflict blood loss."
+	},
+	{
+		"Id": 607,
+		"Value": "Skill: Cragblade\n\nSkill that manipulates gravity.\nBury the armament in the ground, pulling rocks from the earth to reinforce it. Increases attack power and makes it easier to break enemy stance."
+	},
+	{
+		"Id": 650,
+		"Value": "Skill: Barbaric Roar\n\nLet loose a bestial roar to rally the spirit and increase attack power.\nWhile active, strong attacks change to savage combo attacks."
+	},
+	{
+		"Id": 651,
+		"Value": "Skill: War Cry\n\nGive a war cry to rally the spirit and increase attack power.\nWhile active, strong attacks change to charging attacks."
+	},
+	{
+		"Id": 652,
+		"Value": "Skill: Beast's Roar\n\nUnleash a beastly roar, rending the air as a forward-travelling projectile."
+	},
+	{
+		"Id": 653,
+		"Value": "Skill: Troll's Roar\n\nLook into the distance and let out an intense roar, generating a powerful shockwave that blows back surrounding foes.\nFollow up with a strong attack to slam the armament down."
+	},
+	{
+		"Id": 654,
+		"Value": "Skill: Braggart's Roar\n\nDeclare your presence with a boastful roar.\nRaises attack power, defense, and stamina recovery speed."
+	},
+	{
+		"Id": 700,
+		"Value": "Skill: Endure\n\nAssume an anchored stance to brace for incoming attacks, briefly boosting poise.\nDamage taken while using this skill is reduced."
+	},
+	{
+		"Id": 701,
+		"Value": "Skill: Vow of the Indomitable\n\nSkill of the ancient warriors of the Erdtree.\nHold shield aloft to imbue yourself with golden power, granting momentary invincibility."
+	},
+	{
+		"Id": 702,
+		"Value": "Skill: Holy Ground\n\nRaise shield to create an Erdtree-consecrated area that continuously restores HP and boosts defense for self and allies inside it."
+	},
+	{
+		"Id": 800,
+		"Value": "Skill: Quickstep\n\nSkill prized by the crafty and fleet of foot.\nPerform a quickstep maneuver that allows for circling around lock-on targets."
+	},
+	{
+		"Id": 801,
+		"Value": "Skill: Bloodhound's Step\n\nSkill that allows the user to become temporarily invisible while dodging at high speed. Moves faster and travels farther than a regular quickstep.\nThis skill can be used to circle around lock-on targets."
+	},
+	{
+		"Id": 802,
+		"Value": "Skill: Raptor of the Mists\n\nDuck into a low stance, momentarily vanishing.\nIf an enemy attack connects, avian wings will allow for a quick escape into the air."
+	},
+	{
+		"Id": 850,
+		"Value": "Skill: White Shadow's Lure\n\nHold armament in a brief, silent prayer to create a white shadow.\nThe apparition lures in foes of human build who are not in combat, drawing their aggression. Effective on demi-humans even if they are already in a combat state."
+	},
+	{
+		"Id": 1000,
+		"Value": "Unique Skill: Surge of Faith\n\nSet the flames of Birac's faith ablaze in the cranial vessel, then raise it aloft to rain down fireballs in all directions.\nRepeated inputs will continue to raise the armament aloft, continuing the attack."
+	},
+	{
+		"Id": 1001,
+		"Value": "Unique Skill: Flame Spit\n\nReady the shield, then launch a fireball from the barrel.\nThe fireball explodes on impact."
+	},
+	{
+		"Id": 1002,
+		"Value": "Unique Skill: Tongues of Fire\n\nReady the shield, then spray violent jets of fire from the tongues protruding from its maw.\nHold to continue spraying fire. This skill can be used while walking."
+	},
+	{
+		"Id": 1003,
+		"Value": "Unique Skill: Oracular Bubble\n\nBlow on the horn to release a magic bubble.\nThe bubble floats gently through the air towards its target."
+	},
+	{
+		"Id": 1004,
+		"Value": "Unique Skill: Bubble Shower\n\nBlow on the horn to release a spume of magic bubbles.\nThe bubbles float gently before raining down on the target."
+	},
+	{
+		"Id": 1005,
+		"Value": "Unique Skill: Great Oracular Bubble\n\nBlow on the horn to release a massive magic bubble.\nThe bubble floats gently through the air towards its target."
+	},
+	{
+		"Id": 1006,
+		"Value": "Unique Skill: Sea of Magma\n\nSwing a molten whip overhead to temporarily cover the surrounding area in a sea of magma.\nHold to continue swinging the lava whip."
+	},
+	{
+		"Id": 1007,
+		"Value": "Unique Skill: Viper Bite\n\nGive the shield a quick shake to temporarily bring the bronze viper to life, inciting it to lash out and bite foes."
+	},
+	{
+		"Id": 1008,
+		"Value": "Unique Skill: Moonlight Greatsword\n\nRaise the sword aloft, bathing it in the light of the dark moon.\nTemporarily increases magic attack power and imbues blade with frost.\nCharged attacks release blasts of moonlight."
+	},
+	{
+		"Id": 1009,
+		"Value": "Unique Skill: Siluria's Woe\n\nThrust the treespear in a spiraling motion, surrounding it in a vortex of wind.\nCharged attacks have the power to blow away enemies and can fire the tornado forwards."
+	},
+	{
+		"Id": 1010,
+		"Value": "Unique Skill: Rallying Standard\n\nHoist the war banner aloft and give a rallying command.\nRaises attack power and defense for self and nearby allies."
+	},
+	{
+		"Id": 1011,
+		"Value": "Unique Skill: Bear Witness!\n\nGrant the small dragon a fleeting glimpse of life and thrust it skyward, spewing flames over a wide frontward area."
+	},
+	{
+		"Id": 1012,
+		"Value": "Unique Skill: Eochaid's Dancing Blade\n\nInfuse the sword with energy, then fling it forwards in a corkscrew attack. The sword continuously deals damage while violently spinning.\nCharge the attack to increase reach and duration of the spin."
+	},
+	{
+		"Id": 1013,
+		"Value": "Unique Skill: Soul Stifler\n\nRaise the greathorn's wings to summon a soul-sapping miasma.\nEnemies in the affected area will temporarily suffer from reduced defense."
+	},
+	{
+		"Id": 1014,
+		"Value": "Unique Skill: Taker's Flames\n\nRaise the sacred sword aloft to set it ablaze with blasphemous flames, then bring it down to fire off a forward blast.\nThe flames steal HP from those they touch."
+	},
+	{
+		"Id": 1015,
+		"Value": "Unique Skill: Shriek of Milos\n\nLets out a horrific cursed scream that reduces all damage negation and status resistances for nearby foes.\nWhile active, strong attacks will change to a combo attack."
+	},
+	{
+		"Id": 1016,
+		"Value": "Unique Skill: Reduvia Blood Blade\n\nSlash with the wicked dagger, transforming its never-drying bloodstains into airborne blood blades that cause hemorrhaging.\nCan be fired in rapid succession."
+	},
+	{
+		"Id": 1017,
+		"Value": "Unique Skill: Glintstone Dart\n\nSkill that builds from the Glintstone Pebble sorcery.\nCharge the skill to upgrade it to Glintstone Dart.\nFollow up with a strong attack to chain this skill into a lunging thrust."
+	},
+	{
+		"Id": 1018,
+		"Value": "Unique Skill: Flowing Form\n\nTemporarily transforms armament into its liquid form.\nSwing the armament like a whip to perform a sweeping slice over a wide area."
+	},
+	{
+		"Id": 1019,
+		"Value": "Unique Skill: Night-and-Flame Stance\n\nHold the sword level and prepare to cast a sorcery.\nFollow up with a normal attack to cast the Night Comet sorcery, or a strong attack to sweep forward with a burst of flames."
+	},
+	{
+		"Id": 1020,
+		"Value": "Unique Skill: Wave of Gold\n\nImbue the sword with bygone golden glory, then fire it at foes.\nA wide, golden wave fans out forwards, sweeping through all enemies caught in its path."
+	},
+	{
+		"Id": 1021,
+		"Value": "Unique Skill: Ruinous Ghostflame\n\nSwing the sword to bathe its blade in ghostflame.\nThe ghostflame adds magic damage to attacks, and also has a bitterly cold bite."
+	},
+	{
+		"Id": 1022,
+		"Value": "Unique Skill: Establish Order\n\nRaise the armament in a salute, releasing a golden explosion.\nRepeated inputs send out waves of golden light."
+	},
+	{
+		"Id": 1023,
+		"Value": "Unique Skill: Mists of Slumber\n\nReleases a faint purple mist that spreads across a wide frontwards area.\nThis mist inflicts the sleep ailment upon foes."
+	},
+	{
+		"Id": 1024,
+		"Value": "Unique Skill: Spearcall Ritual\n\nThrust the spear high, bearing prayers into the sky to summon a downpour of spectral spears."
+	},
+	{
+		"Id": 1025,
+		"Value": "Unique Skill: Wolf's Assault\n\nInfuse the greatsword with frost, then perform a forward somersault to plunge it into the ground. Then, pull it out to release a cold blast."
+	},
+	{
+		"Id": 1026,
+		"Value": "Unique Skill: Thundercloud Form\n\nTemporarily transform into a red thundercloud and fly through the air, then plunge down with a lightning-infused blade.\nHold to increase the reach of the thundercloud form."
+	},
+	{
+		"Id": 1027,
+		"Value": "Unique Skill: Cursed-Blood Slice\n\nBrace, then charge forward to deliver a downward diagonal slice.\nThe bloody trail of the blade is followed by a burst of flame.\nAdditional input allows for a follow-up attack."
+	},
+	{
+		"Id": 1028,
+		"Value": "Unique Skill: Waterfowl Dance\n\nPerform a series of one-footed leaps in the manner of a waterfowl to unleash a swift yet graceful slashing combo.\nRepeated inputs allow for up to two follow-up attacks."
+	},
+	{
+		"Id": 1029,
+		"Value": "Unique Skill: Gold Breaker\n\nLeap up high and, while suspended in midair, imbue the rune shard with light before smashing it down hard onto the ground.\nThe heroic Radagon's signature attack."
+	},
+	{
+		"Id": 1030,
+		"Value": "Unique Skill: I Command Thee, Kneel!\n\nRepeatedly smash the Axe of Godrick into the ground, unleashing two earth-shaking shockwaves.\nFollow up with an additional input to produce a third shockwave."
+	},
+	{
+		"Id": 1031,
+		"Value": "Unique Skill: Regal Roar\n\nLet loose a mighty war cry, raising attack power, while sending out a shockwave that cannot be guarded against by stomping the ground. While active, strong attack becomes a lunging slash."
+	},
+	{
+		"Id": 1032,
+		"Value": "Unique Skill: Starcaller Cry\n\nBring the two swords together and roar into the skies, pulling in enemies with a gravitational wave.\nFollow up with an additional input to slam down with gravity-infused swords."
+	},
+	{
+		"Id": 1033,
+		"Value": "Unique Skill: Wave of Destruction\n\nRaise the sword up high, then strike it against the ground to fire off a wave of gravitational force."
+	},
+	{
+		"Id": 1034,
+		"Value": "Unique Skill: Bloodboon Ritual\n\nRaise the sacred spear and pierce the body of the Formless Mother. Stab up to three times, creating explosions of blood with each thrust.\nThis skill will coat the armament with bloodflame for a while."
+	},
+	{
+		"Id": 1035,
+		"Value": "Unique Skill: Flowing Form\n\nTemporarily transforms armament into its liquid form. Swing the armament like a whip to strike surroundings before slamming its teardrop-shaped head down."
+	},
+	{
+		"Id": 1036,
+		"Value": "Unique Skill: Blade of Death\n\nUnleash the power of the Rune of Death to fire off a blade-like projectile.\nIn addition to dealing immediate damage, the blade reduces the enemy's maximum HP and continues to wear down HP for a while."
+	},
+	{
+		"Id": 1037,
+		"Value": "Unique Skill: Blade of Gold\n\nLeap into the air, charging the armament with golden flames that are then shot at the enemy as a single, blade-like projectile.\nInflicts holy damage."
+	},
+	{
+		"Id": 1038,
+		"Value": "Unique Skill: Destined Death\n\nSet free the remnants of Destined Death, plunging the greatsword into the ground to summon a myriad of blades. In addition to dealing immediate damage, this attack reduces the enemy's maximum HP and continues to wear down HP for a short time."
+	},
+	{
+		"Id": 1039,
+		"Value": "Unique Skill: Spinning Wheel\n\nStrike the wheel against the ground to set it spinning at top speed. Hold to keep the wheel spinning. Can be used while walking to push the armament into enemies."
+	},
+	{
+		"Id": 1040,
+		"Value": "Unique Skill: Alabaster Lord's Pull\n\nThrust the armament into the ground to create a gravity well. In addition to dealing damage, this attack pulls enemies in.\nHas a greater area of effect than Gravitas."
+	},
+	{
+		"Id": 1041,
+		"Value": "Unique Skill: Onyx Lord's Repulsion\n\nThrust the armament into the ground to create a gravity well. In addition to dealing damage, this attack sends enemies flying away."
+	},
+	{
+		"Id": 1042,
+		"Value": "Unique Skill: Oath of Vengeance\n\nSwear an oath upon the greatsword to avenge the clan, temporarily raising all attributes for a certain duration. While the oath's effects are active, poise will also be increased."
+	},
+	{
+		"Id": 1043,
+		"Value": "Unique Skill: Ice Lightning Sword\n\nCall down a bolt of ice lightning into the blade and bring it down upon a foe.\nThe ice lightning effect will persist for a while."
+	},
+	{
+		"Id": 1044,
+		"Value": "Unique Skill: Regal Beastclaw\n\nSlam the hammer into the ground, rending the land asunder with the armament's five bestial claws."
+	},
+	{
+		"Id": 1045,
+		"Value": "Unique Skill: Flame Dance\n\nImbue the red braid with the Giants' Flame and lash out in a wide range with a series of agile swings."
+	},
+	{
+		"Id": 1046,
+		"Value": "Unique Skill: Claw Flick\n\nCause the finger to swell, then flex to build up strength before giving enemies an almighty flick."
+	},
+	{
+		"Id": 1047,
+		"Value": "Unique Skill: Nebula\n\nImbue the Naturalborn's stars with magic to perform a sweeping strike.\nThis attack leaves a dark cloud of stars in its wake that lingers briefly before exploding."
+	},
+	{
+		"Id": 1048,
+		"Value": "Unique Skill: Ghostflame Ignition\n\nThrust out the barbed rod and set its tip alight with ghostflame.\nFollow up with a normal attack to set the ground ablaze with ghostflame, or a strong attack to trigger a massive explosion."
+	},
+	{
+		"Id": 1049,
+		"Value": "Unique Skill: Ancient Lightning Spear\n\nImbue the armament with the ancient dragons' red lightning, then throw it as a spear.\nCan be charged to increase its power."
+	},
+	{
+		"Id": 1050,
+		"Value": "Unique Skill: Frenzyflame Thrust\n\nImbue the spear with the flame of frenzy and leap forwards, plunging it into the ground and setting off a maddening explosion.\nThe skill inflicts both the enemy and the user with madness."
+	},
+	{
+		"Id": 1051,
+		"Value": "Unique Skill: Miquella's Ring of Light\n\nSummon Miquella's shining halo and fire it forwards.\nCan be fired in rapid succession."
+	},
+	{
+		"Id": 1052,
+		"Value": "Unique Skill: Golden Tempering\n\nCross the two swords to grant their attacks holy essence.\nWhile in effect, strong attack performs a dual-wielding combo attack."
+	},
+	{
+		"Id": 1053,
+		"Value": "Unique Skill: Last Rites\n\nRaise the epitaph to grant the effect of Sacred Order to yourself and allies in the vicinity.\nParticularly effective at laying to rest Those Who Live in Death."
+	},
+	{
+		"Id": 1054,
+		"Value": "Unique Skill: Unblockable Blade\n\nImbue the cipher blade with light, extending its length, then strike with a sudden sweeping attack.\nThis attack cannot be blocked."
+	},
+	{
+		"Id": 1055,
+		"Value": "Unique Skill: Eochaid's Dancing Blade\n\nInfuse the sword with energy, then fling it forwards in a corkscrew attack. The sword continuously deals damage while violently spinning.\nCharge the attack to increase reach and duration of the spin."
+	},
+	{
+		"Id": 1167,
+		"Value": "Unique Skill: Corpse Wax Cutter\n\nLost skill of ancient heroes.\nLift the sword up high to release the power of corpse wax and launch it forwards as a blade-like projectile.\n"
+	},
+	{
+		"Id": 1168,
+		"Value": "Unique Skill: Zamor Ice Storm\n\nPlunge the curved sword into the ground, building power before unleashing a freezing storm that batters the surroundings."
+	},
+	{
+		"Id": 1169,
+		"Value": "Unique Skill: Radahn's Rain\n\nArchery skill performed from a low stance.\nReady the bow and fire a sudden flurry of arrows up into the sky. The arrows will pour on foes like rain."
+	},
+	{
+		"Id": 1170,
+		"Value": "Unique Skill: The Queen's Black Flame\n\nSet the blade ablaze with the god-slaying black flame before delivering a sweeping slash. Additional input allows for a follow-up attack. The black flames will continue to wear down HP for a while."
+	},
+	{
+		"Id": 1171,
+		"Value": "Unique Skill: Dynast's Finesse\n\nNimbly avoid an attack, securing some distance from foes. Follow up with strong attack to perform a sudden lunge, and press strong attack again to perform a sweeping slice."
+	},
+	{
+		"Id": 1172,
+		"Value": "Unique Skill: Magma Shower\n\nSlash at foes in a twirling motion while scattering magma all around.\nAdditional input allows for a follow-up attack."
+	},
+	{
+		"Id": 1173,
+		"Value": "Unique Skill: Nebula\n\nImbue the Naturalborn's wings with magic to send forth a dark cloud of stars that lingers briefly before exploding."
+	},
+	{
+		"Id": 1174,
+		"Value": "Unique Skill: Death Flare\n\nSet the lusterless sun ablaze with the Prince of Death's flames, inflicting the death ailment upon foes.\nFollow up with an additional input to bring down the armament, triggering an explosion."
+	},
+	{
+		"Id": 1175,
+		"Value": "Unique Skill: Bloodhound's Finesse\n\nSlash upwards with the Bloodhound's Fang, using the momentum of the strike to perform a backwards somersault and gain some distance from foes. Follow up with a strong attack to perform the Bloodhound's Step attack."
+	},
+	{
+		"Id": 1176,
+		"Value": "Unique Skill: Magma Guillotine\n\nGrab the scalesword with both hands, as a wyrm would hold it in its mouth, and leap forwards, smashing it into the ground and triggering a blast of magma. Follow up with an additional input to perform a chopping attack."
+	},
+	{
+		"Id": 1177,
+		"Value": "Unique Skill: Corpse Piler\n\nForms a blade of cursed blood for repeated, interweaving successive attacks. Follow up with an additional input for further successive attacks. "
+	},
+	{
+		"Id": 1178,
+		"Value": "Unique Skill: Transient Moonlight\n\nSheathe blade, holding it at the hip in a composed stance.\nFollow up with either a normal or a strong attack to draw the blade at great speed for an instant slash attack. Both attacks fire off a wave of light."
+	},
+	{
+		"Id": 1179,
+		"Value": "Unique Skill: Bloodblade Dance\n\nLeap at foe to perform a flurry of tornado-like attacks.\nFollow up with an additional input to perform an attack that ends in an evasive maneuver."
+	},
+	{
+		"Id": 1180,
+		"Value": "Skill: Death Monarch\n\nLaunch summoned death monarchs at enemies,\nsiphoning HP from those hit and returning\nit to the caster."
+	},
+	{
+		"Id": 1181,
+		"Value": "Skill: Miquella's Hidden Blade\n\nConjures a blade blessed with Miquella's protection, and performs an attack that is highly damaging against those who live in death."
+	},
+	{
+		"Id": 1182,
+		"Value": "Unique Skill: Knowledge Above All\n\nRaise the scepter to manifest the realm of the All-Knowing. Enemy magic and holy damage negation will be reduced for all within the area, including the caster."
+	},
+	{
+		"Id": 1183,
+		"Value": "Unique Skill: Devourer of Worlds\n\nCharge the scepter with magic and strike it against the ground to steal the HP of all nearby enemies."
+	},
+	{
+		"Id": 1184,
+		"Value": "Unique Skill: Familial Rancor\n\nGently rattle the copper heads to summon vengeful spirits that chase down foes.\nThe anguish of a spouse and children invites accursed wrath."
+	},
+	{
+		"Id": 1185,
+		"Value": "Unique Skill: Rosus's Summons\n\nRaise the axe aloft to summon those lost in death.\nThree skeletons will appear at a distance and attack in tandem before vanishing."
+	},
+	{
+		"Id": 1186,
+		"Value": "Unique Skill: Thunderstorm\n\nImbue the armament's wing-blade with lightning and swing it around to create a tempestuous lightning storm. Follow up with an additional input to perform up to two spinning attacks.\nThe lightning will stay on the blade for a while."
+	},
+	{
+		"Id": 1187,
+		"Value": "Unique Skill: Sacred Phalanx\n\nRelease the power of a hidden incantation to erect a palisade of golden spears frontwards."
+	},
+	{
+		"Id": 1188,
+		"Value": "Unique Skill: Great-Serpent Hunt\n\nPerform a powerful forward lunge and follow up with an upward thrust via additional input. When fighting a great serpent, a long blade of light will appear, revealing the armament's true power."
+	},
+	{
+		"Id": 1189,
+		"Value": "Unique Skill: Angel's Wings\n\nJump and imbue the wing-blade of the armament with light, then deliver a slashing attack on the enemy.\nThe white wings impede recovery actions using a flask of tears."
+	},
+	{
+		"Id": 1190,
+		"Value": "Unique Skill: Storm Kick\n\nThrust the prosthetic leg blade into the ground, creating a storm.\nFollow up with a strong attack to perform a lightning-infused jumping attack."
+	},
+	{
+		"Id": 1191,
+		"Value": "Unique Skill: Unblockable Blade\n\nImbue the cipher blade with light, then lunge forward with a sudden piercing attack.\nThis attack cannot be blocked."
+	},
+	{
+		"Id": 1192,
+		"Value": "Unique Skill: Sorcery of the Crozier\n\nChannel magic into the glintstone to activate an ancient sorcery, producing floating magic projectiles that chase enemies automatically."
+	},
+	{
+		"Id": 1193,
+		"Value": "Unique Skill: Erdtree Slam\n\nJump up high into the air and crash down on the ground ahead. The resulting pratfall sends golden shockwaves in all directions.\nThis is the most powerful of all the Ground Slam skills."
+	},
+	{
+		"Id": 1194,
+		"Value": "Unique Skill: Gravity Bolt\n\nImbue the jaw of fallingstar beast with gravitational lightning, sending a bolt crashing down a short distance away.\nCan be fired in rapid succession."
+	},
+	{
+		"Id": 1195,
+		"Value": "Unique Skill: Fires of Slumber\n\nBlow into the candlestick's flame, creating a stream of hazy purple fire to cover the ground ahead.\nThe intoxicating flames inflict the sleep ailment upon foes."
+	},
+	{
+		"Id": 1196,
+		"Value": "Unique Skill: Golden Retaliation\n\nReady the shield to unleash its protective incantation.\nThis will dispel sorceries and incantations, retaliating with golden power."
+	},
+	{
+		"Id": 1197,
+		"Value": "Unique Skill: Contagious Fury\n\nIncite the jellyfish's wrath and allow its fury to flow through you.\nRaises attack power for a certain duration."
+	},
+	{
+		"Id": 1198,
+		"Value": "Unique Skill: Ordovis's Vortex\n\nChannel the power of the crucible to spin the entire sword in midair, building momentum before slamming the blade down onto the ground.\nThis skill can be charged to increase its power."
+	},
+	{
+		"Id": 1199,
+		"Value": "Unique Skill: Spinning Weapon\n\nChannel magic into the glintstone to suspend the scepter in mid air and cause it to spin violently.\nThose it touches will suffer successive magic attacks."
+	}
+]

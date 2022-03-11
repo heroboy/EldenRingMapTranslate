@@ -1,0 +1,406 @@
+[
+	{
+		"Id": 10,
+		"Value": "test gem 1"
+	},
+	{
+		"Id": 20,
+		"Value": "test gem 2"
+	},
+	{
+		"Id": 30,
+		"Value": "test gem 3"
+	},
+	{
+		"Id": 10000,
+		"Value": "Ash of War: Lion's Claw"
+	},
+	{
+		"Id": 10100,
+		"Value": "Ash of War: Impaling Thrust"
+	},
+	{
+		"Id": 10200,
+		"Value": "Ash of War: Piercing Fang"
+	},
+	{
+		"Id": 10300,
+		"Value": "Ash of War: Spinning Slash"
+	},
+	{
+		"Id": 10500,
+		"Value": "Ash of War: Charge Forth"
+	},
+	{
+		"Id": 10600,
+		"Value": "Ash of War: Stamp (Upward Cut)"
+	},
+	{
+		"Id": 10700,
+		"Value": "Ash of War: Stamp (Sweep)"
+	},
+	{
+		"Id": 10800,
+		"Value": "Ash of War: Blood Tax"
+	},
+	{
+		"Id": 10900,
+		"Value": "Ash of War: Repeating Thrust"
+	},
+	{
+		"Id": 11000,
+		"Value": "Ash of War: Wild Strikes"
+	},
+	{
+		"Id": 11100,
+		"Value": "Ash of War: Spinning Strikes"
+	},
+	{
+		"Id": 11200,
+		"Value": "Ash of War: Double Slash"
+	},
+	{
+		"Id": 11300,
+		"Value": "Ash of War: Prelate's Charge"
+	},
+	{
+		"Id": 11400,
+		"Value": "Ash of War: Unsheathe"
+	},
+	{
+		"Id": 11500,
+		"Value": "Ash of War: Square Off"
+	},
+	{
+		"Id": 11600,
+		"Value": "Ash of War: Giant Hunt"
+	},
+	{
+		"Id": 11700,
+		"Value": "Ash of War: Torch Attack"
+	},
+	{
+		"Id": 11800,
+		"Value": "Ash of War: Loretta's Slash"
+	},
+	{
+		"Id": 11900,
+		"Value": "Ash of War: Poison Moth Flight"
+	},
+	{
+		"Id": 12000,
+		"Value": "Ash of War: Spinning Weapon"
+	},
+	{
+		"Id": 12100,
+		"Value": "Ashes of War: Wicked Stance"
+	},
+	{
+		"Id": 12200,
+		"Value": "Ash of War: Storm Assault"
+	},
+	{
+		"Id": 12300,
+		"Value": "Ash of War: Stormcaller"
+	},
+	{
+		"Id": 12400,
+		"Value": "Ash of War: Sword Dance"
+	},
+	{
+		"Id": 12500,
+		"Value": "Ash of War: Spinning Chain"
+	},
+	{
+		"Id": 20000,
+		"Value": "Ash of War: Glintblade Phalanx"
+	},
+	{
+		"Id": 20100,
+		"Value": "Ash of War: Sacred Blade"
+	},
+	{
+		"Id": 20200,
+		"Value": "Ash of War: Ice Spear"
+	},
+	{
+		"Id": 20300,
+		"Value": "Ash of War: Glintstone Pebble"
+	},
+	{
+		"Id": 20400,
+		"Value": "Ash of War: Bloody Slash"
+	},
+	{
+		"Id": 20500,
+		"Value": "Ash of War: Lifesteal Fist"
+	},
+	{
+		"Id": 20700,
+		"Value": "Ash of War: Eruption"
+	},
+	{
+		"Id": 20800,
+		"Value": "Ash of War: Prayerful Strike"
+	},
+	{
+		"Id": 20900,
+		"Value": "Ash of War: Gravitas"
+	},
+	{
+		"Id": 21000,
+		"Value": "Ash of War: Storm Blade"
+	},
+	{
+		"Id": 21200,
+		"Value": "Ash of War: Earthshaker"
+	},
+	{
+		"Id": 21300,
+		"Value": "Ash of War: Golden Land"
+	},
+	{
+		"Id": 21400,
+		"Value": "Ash of War: Flaming Strike"
+	},
+	{
+		"Id": 21600,
+		"Value": "Ash of War: Thunderbolt"
+	},
+	{
+		"Id": 21700,
+		"Value": "Ash of War: Lightning Slash"
+	},
+	{
+		"Id": 21800,
+		"Value": "Ash of War: Carian Grandeur"
+	},
+	{
+		"Id": 21900,
+		"Value": "Ash of War: Carian Greatsword"
+	},
+	{
+		"Id": 22000,
+		"Value": "Ash of War: Vacuum Slice"
+	},
+	{
+		"Id": 22100,
+		"Value": "Ash of War: Black Flame Tornado"
+	},
+	{
+		"Id": 22200,
+		"Value": "Ash of War: Sacred Ring of Light"
+	},
+	{
+		"Id": 22300,
+		"Value": "Ash of War: Firebreather"
+	},
+	{
+		"Id": 22400,
+		"Value": "Ash of War: Blood Blade"
+	},
+	{
+		"Id": 22500,
+		"Value": "Ash of War: Phantom Slash"
+	},
+	{
+		"Id": 22600,
+		"Value": "Ash of War: Spectral Lance"
+	},
+	{
+		"Id": 22700,
+		"Value": "Ash of War: Chilling Mist"
+	},
+	{
+		"Id": 22800,
+		"Value": "Ash of War: Poisonous Mist"
+	},
+	{
+		"Id": 30000,
+		"Value": "Ash of War: Shield Bash"
+	},
+	{
+		"Id": 30100,
+		"Value": "Ash of War: Barricade Shield"
+	},
+	{
+		"Id": 30200,
+		"Value": "Ash of War: Parry"
+	},
+	{
+		"Id": 30300,
+		"Value": "Ash of War: Buckler Parry"
+	},
+	{
+		"Id": 30400,
+		"Value": "Ash of War: Parry"
+	},
+	{
+		"Id": 30500,
+		"Value": "Ash of War: Carian Retaliation"
+	},
+	{
+		"Id": 30600,
+		"Value": "Ash of War: Storm Wall"
+	},
+	{
+		"Id": 30700,
+		"Value": "Ash of War: Golden Parry"
+	},
+	{
+		"Id": 30800,
+		"Value": "Ash of War: Shield Crash"
+	},
+	{
+		"Id": 30900,
+		"Value": "Ash of War: No Skill"
+	},
+	{
+		"Id": 31000,
+		"Value": "Ash of War: Thops's Barrier"
+	},
+	{
+		"Id": 40000,
+		"Value": "Ash of War: Through and Through"
+	},
+	{
+		"Id": 40100,
+		"Value": "Ash of War: Barrage"
+	},
+	{
+		"Id": 40200,
+		"Value": "Ash of War: Mighty Shot"
+	},
+	{
+		"Id": 40400,
+		"Value": "Ash of War: Enchanted Shot"
+	},
+	{
+		"Id": 40500,
+		"Value": "Ash of War: Sky Shot"
+	},
+	{
+		"Id": 40600,
+		"Value": "Ash of War: Rain of Arrows"
+	},
+	{
+		"Id": 40700,
+		"Value": "Ashes of War: Invisible Arrow"
+	},
+	{
+		"Id": 50100,
+		"Value": "Ash of War: Hoarfrost Stomp"
+	},
+	{
+		"Id": 50200,
+		"Value": "Ash of War: Storm Stomp"
+	},
+	{
+		"Id": 50300,
+		"Value": "Ash of War: Kick"
+	},
+	{
+		"Id": 50400,
+		"Value": "Ash of War: Lightning Ram"
+	},
+	{
+		"Id": 50500,
+		"Value": "Ash of War: Flame of the Redmanes"
+	},
+	{
+		"Id": 50600,
+		"Value": "Ash of War: Ground Slam"
+	},
+	{
+		"Id": 50700,
+		"Value": "Ash of War: Golden Slam"
+	},
+	{
+		"Id": 50800,
+		"Value": "Ash of War: Waves of Darkness"
+	},
+	{
+		"Id": 50900,
+		"Value": "Ash of War: Hoarah Loux's Earthshaker"
+	},
+	{
+		"Id": 60000,
+		"Value": "Ash of War: Determination"
+	},
+	{
+		"Id": 60100,
+		"Value": "Ash of War: Royal Knight's Resolve"
+	},
+	{
+		"Id": 60200,
+		"Value": "Ash of War: Assassin's Gambit"
+	},
+	{
+		"Id": 60300,
+		"Value": "Ash of War: Golden Vow"
+	},
+	{
+		"Id": 60400,
+		"Value": "Ash of War: Sacred Order"
+	},
+	{
+		"Id": 60500,
+		"Value": "Ash of War: Shared Order"
+	},
+	{
+		"Id": 60600,
+		"Value": "Ash of War: Seppuku"
+	},
+	{
+		"Id": 60700,
+		"Value": "Ash of War: Cragblade"
+	},
+	{
+		"Id": 65000,
+		"Value": "Ash of War: Barbaric Roar"
+	},
+	{
+		"Id": 65100,
+		"Value": "Ash of War: War Cry"
+	},
+	{
+		"Id": 65200,
+		"Value": "Ash of War: Beast's Roar"
+	},
+	{
+		"Id": 65300,
+		"Value": "Ash of War: Troll's Roar"
+	},
+	{
+		"Id": 65400,
+		"Value": "Ash of War: Braggart's Roar"
+	},
+	{
+		"Id": 70000,
+		"Value": "Ash of War: Endure"
+	},
+	{
+		"Id": 70100,
+		"Value": "Ash of War: Vow of the Indomitable"
+	},
+	{
+		"Id": 70200,
+		"Value": "Ash of War: Holy Ground"
+	},
+	{
+		"Id": 80000,
+		"Value": "Ash of War: Quickstep"
+	},
+	{
+		"Id": 80100,
+		"Value": "Ash of War: Bloodhound's Step"
+	},
+	{
+		"Id": 80200,
+		"Value": "Ash of War: Raptor of the Mists"
+	},
+	{
+		"Id": 85000,
+		"Value": "Ash of War: White Shadow's Lure"
+	}
+]

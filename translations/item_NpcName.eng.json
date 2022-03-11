@@ -1,0 +1,1462 @@
+[
+	{
+		"Id": 110000,
+		"Value": "Melina"
+	},
+	{
+		"Id": 110200,
+		"Value": "Finger Reader Enia"
+	},
+	{
+		"Id": 110400,
+		"Value": "The Two Fingers"
+	},
+	{
+		"Id": 110600,
+		"Value": "Ranni the Witch"
+	},
+	{
+		"Id": 110610,
+		"Value": "Renna the Witch"
+	},
+	{
+		"Id": 111000,
+		"Value": "Primeval Sorcerer Lusat"
+	},
+	{
+		"Id": 111100,
+		"Value": "Primeval Sorcerer Azur"
+	},
+	{
+		"Id": 111200,
+		"Value": "The Noble Goldmask"
+	},
+	{
+		"Id": 120000,
+		"Value": "Rennala, Queen of the Full Moon"
+	},
+	{
+		"Id": 120200,
+		"Value": "Gurranq, Beast Clergyman"
+	},
+	{
+		"Id": 121300,
+		"Value": "Smithing Master Hewg"
+	},
+	{
+		"Id": 121600,
+		"Value": "Blaidd the Half-Wolf"
+	},
+	{
+		"Id": 121610,
+		"Value": "Baleful Shadow"
+	},
+	{
+		"Id": 121700,
+		"Value": "Pidia, Carian Servant"
+	},
+	{
+		"Id": 121800,
+		"Value": "Asimi, Silver Tear"
+	},
+	{
+		"Id": 121810,
+		"Value": "Asimi, Eternal King"
+	},
+	{
+		"Id": 121900,
+		"Value": "Old Albus"
+	},
+	{
+		"Id": 122000,
+		"Value": "Alexander, Warrior Jar"
+	},
+	{
+		"Id": 122300,
+		"Value": "Demi-Human Boc"
+	},
+	{
+		"Id": 122310,
+		"Value": "Boc the Seamster"
+	},
+	{
+		"Id": 122400,
+		"Value": "Smithing Master Iji"
+	},
+	{
+		"Id": 122401,
+		"Value": "War Counselor Iji"
+	},
+	{
+		"Id": 122600,
+		"Value": "Jar-Bairn"
+	},
+	{
+		"Id": 122800,
+		"Value": "Latenna the Albinauric"
+	},
+	{
+		"Id": 123000,
+		"Value": "Tanith's Knight"
+	},
+	{
+		"Id": 123300,
+		"Value": "Phillia, Towering Little Sister"
+	},
+	{
+		"Id": 130000,
+		"Value": "Tanith, Volcano Manor Proprietress"
+	},
+	{
+		"Id": 130100,
+		"Value": "White Mask Varré"
+	},
+	{
+		"Id": 130200,
+		"Value": "Gatekeeper Gostoc"
+	},
+	{
+		"Id": 130400,
+		"Value": "Festering Fingerprint Vyke"
+	},
+	{
+		"Id": 130401,
+		"Value": "Roundtable Knight Vyke"
+	},
+	{
+		"Id": 130700,
+		"Value": "Preceptor Seluvis"
+	},
+	{
+		"Id": 130900,
+		"Value": "Patches"
+	},
+	{
+		"Id": 130901,
+		"Value": "Patches"
+	},
+	{
+		"Id": 131000,
+		"Value": "Irina of Morne"
+	},
+	{
+		"Id": 131010,
+		"Value": "Lightseeker Hyetta"
+	},
+	{
+		"Id": 131011,
+		"Value": "Finger Maiden Hyetta"
+	},
+	{
+		"Id": 131100,
+		"Value": "Castellan Edgar"
+	},
+	{
+		"Id": 131101,
+		"Value": "Edgar the Revenger"
+	},
+	{
+		"Id": 131200,
+		"Value": "Castellan Jerren"
+	},
+	{
+		"Id": 131201,
+		"Value": "Witch-Hunter Jerren"
+	},
+	{
+		"Id": 131300,
+		"Value": "Rya the Scout"
+	},
+	{
+		"Id": 131310,
+		"Value": "Zorayas the Scout"
+	},
+	{
+		"Id": 131400,
+		"Value": "Knight Diallos"
+	},
+	{
+		"Id": 131401,
+		"Value": "Potentate Diallos"
+	},
+	{
+		"Id": 131600,
+		"Value": "Sorceress Sellen"
+	},
+	{
+		"Id": 131800,
+		"Value": "Yura, Hunter of Bloody Fingers"
+	},
+	{
+		"Id": 131801,
+		"Value": "Shabriri"
+	},
+	{
+		"Id": 131900,
+		"Value": "D, Hunter of the Dead"
+	},
+	{
+		"Id": 131901,
+		"Value": "D, Hunter of the Dead"
+	},
+	{
+		"Id": 131910,
+		"Value": "D, Hunter of the Dead"
+	},
+	{
+		"Id": 132000,
+		"Value": "Heartbroken Maiden"
+	},
+	{
+		"Id": 132001,
+		"Value": "Roderika"
+	},
+	{
+		"Id": 132002,
+		"Value": "Roderika, Spirit Tuner"
+	},
+	{
+		"Id": 132100,
+		"Value": "Kenneth Haight, Limgrave Heir"
+	},
+	{
+		"Id": 132200,
+		"Value": "Fia, Deathbed Companion"
+	},
+	{
+		"Id": 132300,
+		"Value": "Dung Eater"
+	},
+	{
+		"Id": 132400,
+		"Value": "Sir Gideon Ofnir, the All-Knowing"
+	},
+	{
+		"Id": 132500,
+		"Value": "Sorcerer Rogier"
+	},
+	{
+		"Id": 132501,
+		"Value": "Sorcerer Rogier"
+	},
+	{
+		"Id": 132600,
+		"Value": "Knight Bernahl"
+	},
+	{
+		"Id": 132601,
+		"Value": "Recusant Bernahl"
+	},
+	{
+		"Id": 132700,
+		"Value": "Eleonora, Violet Bloody Finger"
+	},
+	{
+		"Id": 132900,
+		"Value": "Lionel the Lionhearted"
+	},
+	{
+		"Id": 133000,
+		"Value": "Miriel, Pastor of Vows"
+	},
+	{
+		"Id": 133100,
+		"Value": "Blackguard"
+	},
+	{
+		"Id": 133101,
+		"Value": "Blackguard"
+	},
+	{
+		"Id": 133300,
+		"Value": "Sorcerer Thops"
+	},
+	{
+		"Id": 133400,
+		"Value": "Nepheli Loux, Warrior"
+	},
+	{
+		"Id": 133401,
+		"Value": "Nepheli Loux, Warrior"
+	},
+	{
+		"Id": 133500,
+		"Value": "Reeling Rico"
+	},
+	{
+		"Id": 133600,
+		"Value": "Vyke's Finger Maiden"
+	},
+	{
+		"Id": 133800,
+		"Value": "Finger Maiden"
+	},
+	{
+		"Id": 133900,
+		"Value": "Ensha of the Royal Remains"
+	},
+	{
+		"Id": 134000,
+		"Value": "Bloody Finger Ravenmount Assassin"
+	},
+	{
+		"Id": 134300,
+		"Value": "Bloody Finger Nerijus"
+	},
+	{
+		"Id": 134310,
+		"Value": "Sanguine Noble"
+	},
+	{
+		"Id": 134400,
+		"Value": "Great Horned Tragoth"
+	},
+	{
+		"Id": 134500,
+		"Value": "Old Knight Istvan"
+	},
+	{
+		"Id": 134501,
+		"Value": "Old Knight Istvan"
+	},
+	{
+		"Id": 134600,
+		"Value": "Rileigh the Idle"
+	},
+	{
+		"Id": 134700,
+		"Value": "Juno Hoslow, Knight of Blood"
+	},
+	{
+		"Id": 134800,
+		"Value": "Millicent"
+	},
+	{
+		"Id": 134900,
+		"Value": "Sage Gowry"
+	},
+	{
+		"Id": 135100,
+		"Value": "Brother Corhyn"
+	},
+	{
+		"Id": 135101,
+		"Value": "Scribe Corhyn"
+	},
+	{
+		"Id": 135200,
+		"Value": "Preceptor Miriam"
+	},
+	{
+		"Id": 135300,
+		"Value": "Anastasia, Tarnished-Eater"
+	},
+	{
+		"Id": 135500,
+		"Value": "Okina"
+	},
+	{
+		"Id": 135501,
+		"Value": "Bloody Finger Okina"
+	},
+	{
+		"Id": 135600,
+		"Value": "Adan, Thief of Fire"
+	},
+	{
+		"Id": 135900,
+		"Value": "Moongrum, Carian Knight"
+	},
+	{
+		"Id": 136000,
+		"Value": "Vargram the Raging Wolf"
+	},
+	{
+		"Id": 136100,
+		"Value": "Fia's Champion"
+	},
+	{
+		"Id": 136300,
+		"Value": "Finger Maiden Therolina"
+	},
+	{
+		"Id": 136400,
+		"Value": "Dolores the Sleeping Arrow"
+	},
+	{
+		"Id": 136500,
+		"Value": "Jarwight"
+	},
+	{
+		"Id": 136700,
+		"Value": "Inaba, Disciple of Okina"
+	},
+	{
+		"Id": 136800,
+		"Value": "Silver Tear"
+	},
+	{
+		"Id": 136900,
+		"Value": "Recusant Henricus"
+	},
+	{
+		"Id": 137000,
+		"Value": "Fia's Champion"
+	},
+	{
+		"Id": 137100,
+		"Value": "Fia's Champion"
+	},
+	{
+		"Id": 137200,
+		"Value": "Maleigh Marais, Shaded Castle Castellan"
+	},
+	{
+		"Id": 137300,
+		"Value": "Knight of the Great Jar"
+	},
+	{
+		"Id": 137400,
+		"Value": "Knight of the Great Jar"
+	},
+	{
+		"Id": 137500,
+		"Value": "Knight of the Great Jar"
+	},
+	{
+		"Id": 137600,
+		"Value": "Necromancer Garris"
+	},
+	{
+		"Id": 137700,
+		"Value": "Nameless White Mask"
+	},
+	{
+		"Id": 138000,
+		"Value": "Errant Sorcerer Wilhelm"
+	},
+	{
+		"Id": 138200,
+		"Value": "Chief Guardian Arghanthy"
+	},
+	{
+		"Id": 138300,
+		"Value": "Flame Guardian"
+	},
+	{
+		"Id": 138400,
+		"Value": "Inquisitor Ghiza"
+	},
+	{
+		"Id": 138500,
+		"Value": "Mad Tongue Alberich"
+	},
+	{
+		"Id": 138600,
+		"Value": "Esgar, Priest of Blood"
+	},
+	{
+		"Id": 138700,
+		"Value": "Mary, Eldest Sister"
+	},
+	{
+		"Id": 138800,
+		"Value": "Maureen, Second Sister"
+	},
+	{
+		"Id": 138900,
+		"Value": "Amy, Third Sister"
+	},
+	{
+		"Id": 139000,
+		"Value": "Polyanna, Youngest Sister"
+	},
+	{
+		"Id": 160000,
+		"Value": "Twin Maiden Husks"
+	},
+	{
+		"Id": 160100,
+		"Value": "Church of Dragon Communion"
+	},
+	{
+		"Id": 160200,
+		"Value": "Smithing Table"
+	},
+	{
+		"Id": 160300,
+		"Value": "Walking Mausoleum Corpse"
+	},
+	{
+		"Id": 160400,
+		"Value": "Basin of Atonement"
+	},
+	{
+		"Id": 160500,
+		"Value": "Cathedral of Dragon Communion"
+	},
+	{
+		"Id": 160700,
+		"Value": "Fractured Marika"
+	},
+	{
+		"Id": 160800,
+		"Value": "Clouded Mirror Stand"
+	},
+	{
+		"Id": 160900,
+		"Value": "Sword of Bernahl"
+	},
+	{
+		"Id": 175000,
+		"Value": "Finger Reader Crone"
+	},
+	{
+		"Id": 175001,
+		"Value": "Finger Reader Crone"
+	},
+	{
+		"Id": 175002,
+		"Value": "Finger Reader Crone"
+	},
+	{
+		"Id": 175003,
+		"Value": "Finger Reader Crone"
+	},
+	{
+		"Id": 175004,
+		"Value": "Finger Reader Crone"
+	},
+	{
+		"Id": 175005,
+		"Value": "Finger Reader Crone"
+	},
+	{
+		"Id": 175006,
+		"Value": "Finger Reader Crone"
+	},
+	{
+		"Id": 175007,
+		"Value": "Keeper of Forbidden Lands"
+	},
+	{
+		"Id": 175008,
+		"Value": "Godwyn's Wet Nurse"
+	},
+	{
+		"Id": 180000,
+		"Value": "Merchant Kalé"
+	},
+	{
+		"Id": 180101,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180102,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180103,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180104,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180105,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180106,
+		"Value": "Isolated Merchant"
+	},
+	{
+		"Id": 180107,
+		"Value": "Isolated Merchant"
+	},
+	{
+		"Id": 180108,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180109,
+		"Value": "Hermit Merchant"
+	},
+	{
+		"Id": 180110,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180111,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180112,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180113,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180114,
+		"Value": "Nomadic Merchant"
+	},
+	{
+		"Id": 180115,
+		"Value": "Isolated Merchant"
+	},
+	{
+		"Id": 180116,
+		"Value": "Hermit Merchant"
+	},
+	{
+		"Id": 180117,
+		"Value": "Abandoned Merchant"
+	},
+	{
+		"Id": 180118,
+		"Value": "Hermit Merchant"
+	},
+	{
+		"Id": 180119,
+		"Value": "Imprisoned Merchant"
+	},
+	{
+		"Id": 10104137,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 10204435,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 10304533,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 10403943,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 10503542,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 10711400,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 10803550,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 10903752,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 11003654,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 11103954,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 11204737,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 11305039,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 11405136,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 11505243,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 11605254,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 11705057,
+		"Value": "Someone Yet Unseen"
+	},
+	{
+		"Id": 900000520,
+		"Value": "Adan, Thief of Fire"
+	},
+	{
+		"Id": 900000521,
+		"Value": "Vyke the Dragonspear"
+	},
+	{
+		"Id": 900000601,
+		"Value": "Okina"
+	},
+	{
+		"Id": 902030000,
+		"Value": "Rennala, Queen of the Full Moon"
+	},
+	{
+		"Id": 902030001,
+		"Value": "Rennala, Queen of the Full Moon"
+	},
+	{
+		"Id": 902100300,
+		"Value": "Black Knife Assassin"
+	},
+	{
+		"Id": 902100301,
+		"Value": "Black Knife Assassin"
+	},
+	{
+		"Id": 902100302,
+		"Value": "Black Knife Assassin"
+	},
+	{
+		"Id": 902100310,
+		"Value": "Black Knife Assassin"
+	},
+	{
+		"Id": 902100521,
+		"Value": "Alecto, Black Knife Ringleader"
+	},
+	{
+		"Id": 902100600,
+		"Value": "Black Knife Assassin"
+	},
+	{
+		"Id": 902110000,
+		"Value": "Beast Clergyman"
+	},
+	{
+		"Id": 902110001,
+		"Value": "Maliketh, the Black Blade"
+	},
+	{
+		"Id": 902120000,
+		"Value": "Malenia, Blade of Miquella"
+	},
+	{
+		"Id": 902120001,
+		"Value": "Malenia, Goddess of Rot"
+	},
+	{
+		"Id": 902130000,
+		"Value": "Margit, the Fell Omen"
+	},
+	{
+		"Id": 902130002,
+		"Value": "Morgott, the Omen King"
+	},
+	{
+		"Id": 902130003,
+		"Value": "Morgott, the Omen King"
+	},
+	{
+		"Id": 902140000,
+		"Value": "Fell Twin"
+	},
+	{
+		"Id": 902140001,
+		"Value": "Fell Twin"
+	},
+	{
+		"Id": 902190000,
+		"Value": "Radagon of the Golden Order"
+	},
+	{
+		"Id": 902200000,
+		"Value": "Elden Beast"
+	},
+	{
+		"Id": 902500300,
+		"Value": "Crucible Knight Ordovis"
+	},
+	{
+		"Id": 902500301,
+		"Value": "Crucible Knight"
+	},
+	{
+		"Id": 902500500,
+		"Value": "Crucible Knight"
+	},
+	{
+		"Id": 902500520,
+		"Value": "Crucible Knight"
+	},
+	{
+		"Id": 902500600,
+		"Value": "Crucible Knight Siluria"
+	},
+	{
+		"Id": 903050500,
+		"Value": "Commander Niall"
+	},
+	{
+		"Id": 903050600,
+		"Value": "Commander O'Neil"
+	},
+	{
+		"Id": 903100500,
+		"Value": "Elemer of the Briar"
+	},
+	{
+		"Id": 903100600,
+		"Value": "Bell Bearing Hunter"
+	},
+	{
+		"Id": 903100601,
+		"Value": "Bell Bearing Hunter"
+	},
+	{
+		"Id": 903100602,
+		"Value": "Bell Bearing Hunter"
+	},
+	{
+		"Id": 903100603,
+		"Value": "Bell Bearing Hunter"
+	},
+	{
+		"Id": 903150600,
+		"Value": "Night's Cavalry"
+	},
+	{
+		"Id": 903150601,
+		"Value": "Night's Cavalry"
+	},
+	{
+		"Id": 903150602,
+		"Value": "Night's Cavalry"
+	},
+	{
+		"Id": 903150603,
+		"Value": "Night's Cavalry"
+	},
+	{
+		"Id": 903150604,
+		"Value": "Night's Cavalry"
+	},
+	{
+		"Id": 903150605,
+		"Value": "Night's Cavalry"
+	},
+	{
+		"Id": 903150606,
+		"Value": "Night's Cavalry"
+	},
+	{
+		"Id": 903150607,
+		"Value": "Night's Cavalry"
+	},
+	{
+		"Id": 903150608,
+		"Value": "Night's Cavalry (Glaive)"
+	},
+	{
+		"Id": 903150609,
+		"Value": "Night's Cavalry (Flail)"
+	},
+	{
+		"Id": 903181000,
+		"Value": "Red Wolf of Radagon"
+	},
+	{
+		"Id": 903181300,
+		"Value": "Red Wolf of the Champion"
+	},
+	{
+		"Id": 903250600,
+		"Value": "Draconic Tree Sentinel"
+	},
+	{
+		"Id": 903251600,
+		"Value": "Tree Sentinel"
+	},
+	{
+		"Id": 903251601,
+		"Value": "Tree Sentinel"
+	},
+	{
+		"Id": 903251602,
+		"Value": "Tree Sentinel"
+	},
+	{
+		"Id": 903252000,
+		"Value": "Loretta, Knight of the Haligtree"
+	},
+	{
+		"Id": 903253500,
+		"Value": "Royal Knight Loretta"
+	},
+	{
+		"Id": 903300560,
+		"Value": "Nox Priest"
+	},
+	{
+		"Id": 903300561,
+		"Value": "Nox Swordstress"
+	},
+	{
+		"Id": 903320000,
+		"Value": "Mimic Tear"
+	},
+	{
+		"Id": 903320300,
+		"Value": "Stray Mimic Tear"
+	},
+	{
+		"Id": 903350310,
+		"Value": "Crystalian (Staff)"
+	},
+	{
+		"Id": 903350311,
+		"Value": "Crystalian (Spear)"
+	},
+	{
+		"Id": 903350312,
+		"Value": "Putrid Crystalian (Ringblade)"
+	},
+	{
+		"Id": 903350313,
+		"Value": "Putrid Crystalian (Spear)"
+	},
+	{
+		"Id": 903350314,
+		"Value": "Putrid Crystalian (Staff)"
+	},
+	{
+		"Id": 903350320,
+		"Value": "Crystalian"
+	},
+	{
+		"Id": 903350321,
+		"Value": "Crystalian (Ringblade)"
+	},
+	{
+		"Id": 903350322,
+		"Value": "Crystalian (Spear)"
+	},
+	{
+		"Id": 903400300,
+		"Value": "Grave Warden Duelist"
+	},
+	{
+		"Id": 903400301,
+		"Value": "Grave Warden Duelist"
+	},
+	{
+		"Id": 903400302,
+		"Value": "Putrid Grave Warden Duelist"
+	},
+	{
+		"Id": 903400310,
+		"Value": "Frenzied Duelist"
+	},
+	{
+		"Id": 903451320,
+		"Value": "Scaly Misbegotten"
+	},
+	{
+		"Id": 903460300,
+		"Value": "Misbegotten Warrior"
+	},
+	{
+		"Id": 903460310,
+		"Value": "Misbegotten Crusader"
+	},
+	{
+		"Id": 903460500,
+		"Value": "Leonine Misbegotten"
+	},
+	{
+		"Id": 903460501,
+		"Value": "Misbegotten Warrior"
+	},
+	{
+		"Id": 903550540,
+		"Value": "Sanguine Noble"
+	},
+	{
+		"Id": 903560000,
+		"Value": "Godskin Apostle"
+	},
+	{
+		"Id": 903560310,
+		"Value": "Godskin Apostle"
+	},
+	{
+		"Id": 903560600,
+		"Value": "Godskin Apostle"
+	},
+	{
+		"Id": 903570000,
+		"Value": "Godskin Noble"
+	},
+	{
+		"Id": 903570310,
+		"Value": "Godskin Noble"
+	},
+	{
+		"Id": 903575000,
+		"Value": "Godskin Duo"
+	},
+	{
+		"Id": 903600320,
+		"Value": "Onyx Lord"
+	},
+	{
+		"Id": 903600520,
+		"Value": "Alabaster Lord"
+	},
+	{
+		"Id": 903664300,
+		"Value": "Cemetery Shade"
+	},
+	{
+		"Id": 903664301,
+		"Value": "Cemetery Shade"
+	},
+	{
+		"Id": 903664302,
+		"Value": "Cemetery Shade"
+	},
+	{
+		"Id": 903700300,
+		"Value": "Perfumer Tricia"
+	},
+	{
+		"Id": 903704520,
+		"Value": "Battlemage Hugues"
+	},
+	{
+		"Id": 903800310,
+		"Value": "Cleanrot Knight"
+	},
+	{
+		"Id": 903800311,
+		"Value": "Cleanrot Knight (Spear)"
+	},
+	{
+		"Id": 903800312,
+		"Value": "Cleanrot Knight (Sickle)"
+	},
+	{
+		"Id": 903810310,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 903810311,
+		"Value": "Kindred of Rot"
+	},
+	{
+		"Id": 903970310,
+		"Value": "Beastman of Farum Azula"
+	},
+	{
+		"Id": 903970311,
+		"Value": "Beastman of Farum Azula (Greatsword)"
+	},
+	{
+		"Id": 903970312,
+		"Value": "Beastman of Farum Azula (Throwing Knife)"
+	},
+	{
+		"Id": 904020540,
+		"Value": "Royal Revenant"
+	},
+	{
+		"Id": 904120310,
+		"Value": "Demi-Human Chief"
+	},
+	{
+		"Id": 904120311,
+		"Value": "Demi-Human Chief"
+	},
+	{
+		"Id": 904130310,
+		"Value": "Demi-Human Queen Margot"
+	},
+	{
+		"Id": 904130540,
+		"Value": "Demi-Human Queen Gilika"
+	},
+	{
+		"Id": 904130600,
+		"Value": "Demi-Human Queen Maggie"
+	},
+	{
+		"Id": 904140300,
+		"Value": "Spirit-Caller Snail"
+	},
+	{
+		"Id": 904140310,
+		"Value": "Spirit-Caller Snail"
+	},
+	{
+		"Id": 904260300,
+		"Value": "Erdtree Burial Watchdog"
+	},
+	{
+		"Id": 904260301,
+		"Value": "Erdtree Burial Watchdog"
+	},
+	{
+		"Id": 904260302,
+		"Value": "Erdtree Burial Watchdog"
+	},
+	{
+		"Id": 904260303,
+		"Value": "Erdtree Burial Watchdog"
+	},
+	{
+		"Id": 904260304,
+		"Value": "Erdtree Burial Watchdog (Sword)"
+	},
+	{
+		"Id": 904260305,
+		"Value": "Erdtree Burial Watchdog (Scepter)"
+	},
+	{
+		"Id": 904290310,
+		"Value": "Bloodhound Knight"
+	},
+	{
+		"Id": 904290520,
+		"Value": "Bloodhound Knight Darriwil"
+	},
+	{
+		"Id": 904311000,
+		"Value": "Soldier of Godrick"
+	},
+	{
+		"Id": 904340540,
+		"Value": "Mad Pumpkin Head"
+	},
+	{
+		"Id": 904340541,
+		"Value": "Mad Pumpkin Head (Hammer)"
+	},
+	{
+		"Id": 904340542,
+		"Value": "Mad Pumpkin Head (Flail)"
+	},
+	{
+		"Id": 904470000,
+		"Value": "Abductor Virgin (Swinging Sickle)"
+	},
+	{
+		"Id": 904470001,
+		"Value": "Abductor Virgin (Wheel)"
+	},
+	{
+		"Id": 904480310,
+		"Value": "Miranda the Blighted Bloom"
+	},
+	{
+		"Id": 904480311,
+		"Value": "Miranda Blossom"
+	},
+	{
+		"Id": 904500600,
+		"Value": "Flying Dragon Agheel"
+	},
+	{
+		"Id": 904500601,
+		"Value": "Flying Dragon Greyll"
+	},
+	{
+		"Id": 904501600,
+		"Value": "Decaying Ekzykes"
+	},
+	{
+		"Id": 904502600,
+		"Value": "Glintstone Dragon Smarag"
+	},
+	{
+		"Id": 904502601,
+		"Value": "Glintstone Dragon Adula"
+	},
+	{
+		"Id": 904502602,
+		"Value": "Glintstone Dragon Adula"
+	},
+	{
+		"Id": 904503600,
+		"Value": "Borealis the Freezing Fog"
+	},
+	{
+		"Id": 904510000,
+		"Value": "Lichdragon Fortissax"
+	},
+	{
+		"Id": 904510600,
+		"Value": "Ancient Dragon Lansseax"
+	},
+	{
+		"Id": 904520000,
+		"Value": "Dragonlord Placidusax"
+	},
+	{
+		"Id": 904580600,
+		"Value": "Wormface"
+	},
+	{
+		"Id": 904580601,
+		"Value": "Wormface"
+	},
+	{
+		"Id": 904600320,
+		"Value": "Stonedigger Troll"
+	},
+	{
+		"Id": 904600321,
+		"Value": "Stonedigger Troll"
+	},
+	{
+		"Id": 904600520,
+		"Value": "Bols, Carian Knight"
+	},
+	{
+		"Id": 904620001,
+		"Value": "Astel, Naturalborn of the Void"
+	},
+	{
+		"Id": 904620320,
+		"Value": "Astel, Stars of Darkness"
+	},
+	{
+		"Id": 904630310,
+		"Value": "Runebear"
+	},
+	{
+		"Id": 904640000,
+		"Value": "Ulcerated Tree Spirit"
+	},
+	{
+		"Id": 904640300,
+		"Value": "Putrid Tree Spirit"
+	},
+	{
+		"Id": 904640301,
+		"Value": "Ulcerated Tree Spirit"
+	},
+	{
+		"Id": 904640600,
+		"Value": "Ulcerated Tree Spirit"
+	},
+	{
+		"Id": 904650000,
+		"Value": "Dragonkin Soldier of Nokstella"
+	},
+	{
+		"Id": 904650600,
+		"Value": "Dragonkin Soldier"
+	},
+	{
+		"Id": 904650601,
+		"Value": "Dragonkin Soldier"
+	},
+	{
+		"Id": 904660310,
+		"Value": "Guardian Golem"
+	},
+	{
+		"Id": 904670000,
+		"Value": "Ancestor Spirit"
+	},
+	{
+		"Id": 904670001,
+		"Value": "Regal Ancestor Spirit"
+	},
+	{
+		"Id": 904680320,
+		"Value": "Fallingstar Beast"
+	},
+	{
+		"Id": 904680601,
+		"Value": "Fallingstar Beast"
+	},
+	{
+		"Id": 904680602,
+		"Value": "Fallingstar Beast"
+	},
+	{
+		"Id": 904680603,
+		"Value": "Full-Grown Fallingstar Beast"
+	},
+	{
+		"Id": 904690000,
+		"Value": "Grafted Scion"
+	},
+	{
+		"Id": 904710000,
+		"Value": "God-Devouring Serpent"
+	},
+	{
+		"Id": 904710001,
+		"Value": "Rykard, Lord of Blasphemy"
+	},
+	{
+		"Id": 904720000,
+		"Value": "Godfrey, First Elden Lord"
+	},
+	{
+		"Id": 904720001,
+		"Value": "Hoarah Loux, Warrior"
+	},
+	{
+		"Id": 904720002,
+		"Value": "Godfrey, First Elden Lord"
+	},
+	{
+		"Id": 904730000,
+		"Value": "Starscourge Radahn"
+	},
+	{
+		"Id": 904750000,
+		"Value": "Godrick the Grafted"
+	},
+	{
+		"Id": 904750520,
+		"Value": "Godefroy the Grafted"
+	},
+	{
+		"Id": 904760000,
+		"Value": "Fire Giant"
+	},
+	{
+		"Id": 904770000,
+		"Value": "Valiant Gargoyle"
+	},
+	{
+		"Id": 904770001,
+		"Value": "Valiant Gargoyle (Twinblade)"
+	},
+	{
+		"Id": 904770600,
+		"Value": "Black Blade Kindred"
+	},
+	{
+		"Id": 904770601,
+		"Value": "Black Blade Kindred"
+	},
+	{
+		"Id": 904800000,
+		"Value": "Mohg, Lord of Blood"
+	},
+	{
+		"Id": 904800002,
+		"Value": "Mohg, the Omen"
+	},
+	{
+		"Id": 904810600,
+		"Value": "Erdtree Avatar"
+	},
+	{
+		"Id": 904810601,
+		"Value": "Erdtree Avatar"
+	},
+	{
+		"Id": 904810602,
+		"Value": "Erdtree Avatar"
+	},
+	{
+		"Id": 904811600,
+		"Value": "Putrid Avatar"
+	},
+	{
+		"Id": 904811601,
+		"Value": "Putrid Avatar"
+	},
+	{
+		"Id": 904820310,
+		"Value": "Omenkiller"
+	},
+	{
+		"Id": 904820600,
+		"Value": "Omenkiller"
+	},
+	{
+		"Id": 904910000,
+		"Value": "Magma Wyrm Makar"
+	},
+	{
+		"Id": 904910320,
+		"Value": "Magma Wyrm"
+	},
+	{
+		"Id": 904910600,
+		"Value": "Magma Wyrm"
+	},
+	{
+		"Id": 904911600,
+		"Value": "Great Wyrm Theodorix"
+	},
+	{
+		"Id": 904950600,
+		"Value": "Tibia Mariner"
+	},
+	{
+		"Id": 904950601,
+		"Value": "Tibia Mariner"
+	},
+	{
+		"Id": 904950602,
+		"Value": "Tibia Mariner"
+	},
+	{
+		"Id": 904950603,
+		"Value": "Tibia Mariner"
+	},
+	{
+		"Id": 904980600,
+		"Value": "Death Rite Bird"
+	},
+	{
+		"Id": 904980601,
+		"Value": "Deathbird"
+	},
+	{
+		"Id": 904980602,
+		"Value": "Deathbird"
+	},
+	{
+		"Id": 904980603,
+		"Value": "Deathbird"
+	},
+	{
+		"Id": 904980604,
+		"Value": "Death Rite Bird"
+	},
+	{
+		"Id": 904980605,
+		"Value": "Deathbird"
+	},
+	{
+		"Id": 904980606,
+		"Value": "Death Rite Bird"
+	},
+	{
+		"Id": 904980607,
+		"Value": "Death Rite Bird"
+	},
+	{
+		"Id": 907100300,
+		"Value": "Ancient Hero of Zamor"
+	},
+	{
+		"Id": 907100301,
+		"Value": "Ancient Hero of Zamor"
+	},
+	{
+		"Id": 907100520,
+		"Value": "Ancient Hero of Zamor"
+	}
+]

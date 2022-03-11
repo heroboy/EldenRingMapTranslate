@@ -1,0 +1,258 @@
+[
+	{
+		"Id": 1000,
+		"Value": "Some damage isn't negated when guarded"
+	},
+	{
+		"Id": 1001,
+		"Value": "Recovers HP from defeated enemies"
+	},
+	{
+		"Id": 1002,
+		"Value": "Recovers FP from defeated enemies"
+	},
+	{
+		"Id": 1003,
+		"Value": "Successful attacks recover HP"
+	},
+	{
+		"Id": 1004,
+		"Value": "Successful attacks recover FP"
+	},
+	{
+		"Id": 1005,
+		"Value": "Slowly recovers HP"
+	},
+	{
+		"Id": 1006,
+		"Value": "Slowly recovers FP"
+	},
+	{
+		"Id": 1007,
+		"Value": "Boosts stamina recovery speed"
+	},
+	{
+		"Id": 1008,
+		"Value": "Attack power rises as attacks continue"
+	},
+	{
+		"Id": 1009,
+		"Value": "Take self-inflicted damage"
+	},
+	{
+		"Id": 1010,
+		"Value": "Saps beasts of the will to fight"
+	},
+	{
+		"Id": 1012,
+		"Value": "Boosts potency of physical spells"
+	},
+	{
+		"Id": 1013,
+		"Value": "Boosts potency of fire spells"
+	},
+	{
+		"Id": 1014,
+		"Value": "Boosts potency of spirit spells"
+	},
+	{
+		"Id": 1015,
+		"Value": "Boosts potency of lightning spells"
+	},
+	{
+		"Id": 1016,
+		"Value": "Boosts potency of sacred spells"
+	},
+	{
+		"Id": 1017,
+		"Value": "Boosts area of buffs and healing spells"
+	},
+	{
+		"Id": 1018,
+		"Value": "Handles any sorcery or incantation"
+	},
+	{
+		"Id": 1019,
+		"Value": "Use as catalyst for glintstone sorcery"
+	},
+	{
+		"Id": 1020,
+		"Value": "Use as seal for incantations"
+	},
+	{
+		"Id": 1021,
+		"Value": "Successive attacks recover HP"
+	},
+	{
+		"Id": 1022,
+		"Value": "Successive attacks recover FP"
+	},
+	{
+		"Id": 1100,
+		"Value": "Boosts Crystalian sorcery"
+	},
+	{
+		"Id": 1101,
+		"Value": "Boosts gravity sorcery"
+	},
+	{
+		"Id": 1102,
+		"Value": "Boosts thorn sorcery"
+	},
+	{
+		"Id": 1103,
+		"Value": "Boosts death sorcery"
+	},
+	{
+		"Id": 1104,
+		"Value": "Boosts full moon sorcery"
+	},
+	{
+		"Id": 1105,
+		"Value": "Boosts Stonedigger sorcery"
+	},
+	{
+		"Id": 1106,
+		"Value": "Boosts Glintblade sorcery"
+	},
+	{
+		"Id": 1107,
+		"Value": "Boosts Carian sword sorcery"
+	},
+	{
+		"Id": 1108,
+		"Value": "Boosts Azur's primeval sorcery"
+	},
+	{
+		"Id": 1109,
+		"Value": "Boosts Lusat's primeval sorcery"
+	},
+	{
+		"Id": 1110,
+		"Value": "Boosts invisibility sorcery"
+	},
+	{
+		"Id": 1111,
+		"Value": "Boosts Giants' Flame incantations"
+	},
+	{
+		"Id": 1112,
+		"Value": "Boosts Fundamentalist incantations"
+	},
+	{
+		"Id": 1113,
+		"Value": "Boosts bestial incantations"
+	},
+	{
+		"Id": 1114,
+		"Value": "Boosts Dragon Cult incantations"
+	},
+	{
+		"Id": 1115,
+		"Value": "Boosts Dragon Communion incantations"
+	},
+	{
+		"Id": 1116,
+		"Value": "Boosts Frenzied Flame incantations"
+	},
+	{
+		"Id": 1117,
+		"Value": "Boosts lava sorcery"
+	},
+	{
+		"Id": 1118,
+		"Value": "Boosts godslayer incantations"
+	},
+	{
+		"Id": 6400,
+		"Value": "Causes slight poison buildup (<?poisonATKpwr?>)"
+	},
+	{
+		"Id": 6401,
+		"Value": "Causes poison buildup (<?poisonATKpwr?>)"
+	},
+	{
+		"Id": 6402,
+		"Value": "Causes heavy poison buildup (<?poisonATKpwr?>)"
+	},
+	{
+		"Id": 6410,
+		"Value": "Causes intense poison buildup (<?poisonATKpwr?>)"
+	},
+	{
+		"Id": 6450,
+		"Value": "Causes slight scarlet rot buildup (<?diseaseATKpwr?>)"
+	},
+	{
+		"Id": 6451,
+		"Value": "Causes scarlet rot buildup (<?diseaseATKpwr?>)"
+	},
+	{
+		"Id": 6452,
+		"Value": "Causes heavy scarlet rot buildup (<?diseaseATKpwr?>)"
+	},
+	{
+		"Id": 6500,
+		"Value": "Causes slight blood loss buildup (<?bleedATKpwr?>)"
+	},
+	{
+		"Id": 6501,
+		"Value": "Causes blood loss buildup (<?bleedATKpwr?>)"
+	},
+	{
+		"Id": 6502,
+		"Value": "Causes heavy blood loss buildup (<?bleedATKpwr?>)"
+	},
+	{
+		"Id": 6510,
+		"Value": "Causes intense blood loss buildup (<?bleedATKpwr?>)"
+	},
+	{
+		"Id": 6550,
+		"Value": "Causes slight death buildup (<?curseATKpwr?>)"
+	},
+	{
+		"Id": 6551,
+		"Value": "Causes death buildup (<?curseATKpwr?>)"
+	},
+	{
+		"Id": 6552,
+		"Value": "Causes heavy death buildup (<?curseATKpwr?>)"
+	},
+	{
+		"Id": 6600,
+		"Value": "Causes slight frost buildup (<?freezeATKpwr?>)"
+	},
+	{
+		"Id": 6601,
+		"Value": "Causes frost buildup (<?freezeATKpwr?>)"
+	},
+	{
+		"Id": 6602,
+		"Value": "Causes heavy frost buildup (<?freezeATKpwr?>)"
+	},
+	{
+		"Id": 6650,
+		"Value": "Causes slight sleep buildup (<?sleepATKpwr?>)"
+	},
+	{
+		"Id": 6651,
+		"Value": "Causes sleep buildup (<?sleepATKpwr?>)"
+	},
+	{
+		"Id": 6652,
+		"Value": "Causes heavy sleep buildup (<?sleepATKpwr?>)"
+	},
+	{
+		"Id": 6700,
+		"Value": "Causes slight madness buildup (<?madnessATKpwr?>)"
+	},
+	{
+		"Id": 6701,
+		"Value": "Causes madness buildup (<?madnessATKpwr?>)"
+	},
+	{
+		"Id": 6702,
+		"Value": "Causes heavy madness buildup (<?madnessATKpwr?>)"
+	}
+]

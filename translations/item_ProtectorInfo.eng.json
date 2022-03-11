@@ -1,0 +1,2334 @@
+[
+	{
+		"Id": 200,
+		"Value": " "
+	},
+	{
+		"Id": 1000,
+		"Value": " "
+	},
+	{
+		"Id": 1100,
+		"Value": " "
+	},
+	{
+		"Id": 40000,
+		"Value": "An ordinary iron helmet"
+	},
+	{
+		"Id": 40100,
+		"Value": "Armor composed of small metal plates"
+	},
+	{
+		"Id": 40200,
+		"Value": "Ordinary iron gauntlets"
+	},
+	{
+		"Id": 40300,
+		"Value": "Well-made leather trousers"
+	},
+	{
+		"Id": 50000,
+		"Value": "Helm worn by Kaiden sellswords"
+	},
+	{
+		"Id": 50100,
+		"Value": "Armor worn by Kaiden sellswords"
+	},
+	{
+		"Id": 50200,
+		"Value": "Gauntlets worn by Kaiden sellswords"
+	},
+	{
+		"Id": 50300,
+		"Value": "Trousers worn by Kaiden sellswords"
+	},
+	{
+		"Id": 60000,
+		"Value": "Malformed helm fused with dragon flesh"
+	},
+	{
+		"Id": 60100,
+		"Value": "Malformed armor fused with dragon flesh"
+	},
+	{
+		"Id": 60200,
+		"Value": "Malformed gauntlets fused with dragon flesh"
+	},
+	{
+		"Id": 60300,
+		"Value": "Malformed greaves fused with dragon flesh"
+	},
+	{
+		"Id": 61000,
+		"Value": "Malformed light helm fused with dragon flesh"
+	},
+	{
+		"Id": 61100,
+		"Value": "Malformed armor fused with dragon flesh"
+	},
+	{
+		"Id": 80000,
+		"Value": "Helm made from layered ancient dragon scales"
+	},
+	{
+		"Id": 80100,
+		"Value": "Armor made from layered ancient dragon scales"
+	},
+	{
+		"Id": 80200,
+		"Value": "Gauntlets made from layered ancient dragon scales"
+	},
+	{
+		"Id": 80300,
+		"Value": "Greaves made from layered ancient dragon scales"
+	},
+	{
+		"Id": 81100,
+		"Value": "Armor made of layered ancient dragon scales"
+	},
+	{
+		"Id": 90000,
+		"Value": "Hood of an Erdtree Capital perfumer"
+	},
+	{
+		"Id": 90100,
+		"Value": "Robe of an Erdtree Capital perfumer"
+	},
+	{
+		"Id": 90200,
+		"Value": "Gloves of an Erdtree Capital perfumer"
+	},
+	{
+		"Id": 90300,
+		"Value": "Sarong of an Erdtree Capital perfumer"
+	},
+	{
+		"Id": 91100,
+		"Value": "Tunic of an Erdtree Capital perfumer"
+	},
+	{
+		"Id": 100000,
+		"Value": "Leather tricorne of an unaffiliated perfumer"
+	},
+	{
+		"Id": 100100,
+		"Value": "Robe of an unaffiliated perfumer"
+	},
+	{
+		"Id": 100200,
+		"Value": "Gloves of an unaffiliated perfumer"
+	},
+	{
+		"Id": 100300,
+		"Value": "Trousers of an unaffiliated perfumer"
+	},
+	{
+		"Id": 101100,
+		"Value": "Tunic of an unaffiliated perfumer"
+	},
+	{
+		"Id": 120000,
+		"Value": "Hat of a defected glintstone sorcerer"
+	},
+	{
+		"Id": 120100,
+		"Value": "Robe of a defected glintstone sorcerer"
+	},
+	{
+		"Id": 120200,
+		"Value": "Gloves of a defected glintstone sorcerer"
+	},
+	{
+		"Id": 120300,
+		"Value": "Boots of a defected glintstone sorcerer"
+	},
+	{
+		"Id": 121000,
+		"Value": "Cowl of a defected glintstone sorcerer"
+	},
+	{
+		"Id": 121100,
+		"Value": "Tunic of a defected glintstone sorcerer"
+	},
+	{
+		"Id": 130000,
+		"Value": "Glintstone sorcerer Rogier's hat"
+	},
+	{
+		"Id": 130100,
+		"Value": "Glintstone sorcerer Rogier's cape"
+	},
+	{
+		"Id": 130200,
+		"Value": "Glintstone sorcerer Rogier's gloves"
+	},
+	{
+		"Id": 130300,
+		"Value": "Glintstone sorcerer Rogier's Trousers"
+	},
+	{
+		"Id": 131100,
+		"Value": "Glintstone sorcerer Rogier's vest"
+	},
+	{
+		"Id": 140000,
+		"Value": "Great Horned Tragoth's helm"
+	},
+	{
+		"Id": 140100,
+		"Value": "Great Horned Tragoth's armor"
+	},
+	{
+		"Id": 140200,
+		"Value": "Great Horned Tragoth's gauntlets"
+	},
+	{
+		"Id": 140300,
+		"Value": "Great Horned Tragoth's greaves"
+	},
+	{
+		"Id": 150000,
+		"Value": "Bloody Finger Hunter Yura's umbrella"
+	},
+	{
+		"Id": 150100,
+		"Value": "Bloody Finger Hunter Yura's armor"
+	},
+	{
+		"Id": 150200,
+		"Value": "Bloody Finger Hunter Yura's gauntlets"
+	},
+	{
+		"Id": 150300,
+		"Value": "Bloody Finger Hunter Yura's greaves"
+	},
+	{
+		"Id": 151100,
+		"Value": "Bloody Finger Hunter's armor"
+	},
+	{
+		"Id": 160000,
+		"Value": "Coarse hooded cloak of olive brown"
+	},
+	{
+		"Id": 160100,
+		"Value": "Garb made of rough material"
+	},
+	{
+		"Id": 160200,
+		"Value": "Arm wraps made of rough material"
+	},
+	{
+		"Id": 160300,
+		"Value": "Trousers made of rough material"
+	},
+	{
+		"Id": 170000,
+		"Value": "Helm made with the head of an old wolf"
+	},
+	{
+		"Id": 170100,
+		"Value": "Armor of Blaidd, Knight of Ranni"
+	},
+	{
+		"Id": 170200,
+		"Value": "Gauntlets of Blaidd, Knight of Ranni"
+	},
+	{
+		"Id": 170300,
+		"Value": "Greaves of Blaidd, Knight of Ranni"
+	},
+	{
+		"Id": 171100,
+		"Value": "Armor of Blaidd, Knight of Ranni"
+	},
+	{
+		"Id": 180000,
+		"Value": "Hood used by the Black Blade Assassins"
+	},
+	{
+		"Id": 180100,
+		"Value": "Armor used by the Black Blade Assassins"
+	},
+	{
+		"Id": 180200,
+		"Value": "Gauntlets used by the Black Blade Assassins"
+	},
+	{
+		"Id": 180300,
+		"Value": "Greaves used by the Black Blade Assassins"
+	},
+	{
+		"Id": 181100,
+		"Value": "Armor used by the Black Blade Assassins"
+	},
+	{
+		"Id": 190000,
+		"Value": "Deep red hood that covers the whole head"
+	},
+	{
+		"Id": 190100,
+		"Value": "Worn body armor, wrapped in a great cloth "
+	},
+	{
+		"Id": 190200,
+		"Value": "Iron gauntlets worn by salt winds and battle"
+	},
+	{
+		"Id": 190300,
+		"Value": "Iron greaves worn by salt winds and battle"
+	},
+	{
+		"Id": 200000,
+		"Value": "Knight's helm covered in a long cloth of deep red"
+	},
+	{
+		"Id": 200100,
+		"Value": "Knight's armor, worn by salt winds and battle"
+	},
+	{
+		"Id": 200200,
+		"Value": "Knight's gauntlets, worn by salt winds and battle"
+	},
+	{
+		"Id": 200300,
+		"Value": "Knight's greaves, worn by salt winds and battle"
+	},
+	{
+		"Id": 201000,
+		"Value": "Helm of a Stormveil Knight"
+	},
+	{
+		"Id": 201100,
+		"Value": "Armor of a Stormveil Knight"
+	},
+	{
+		"Id": 210000,
+		"Value": "Helm worn by Condor Knights"
+	},
+	{
+		"Id": 210100,
+		"Value": "Armor worn by Condor Knights"
+	},
+	{
+		"Id": 210200,
+		"Value": "Gauntlets worn by Condor Knights"
+	},
+	{
+		"Id": 210300,
+		"Value": "Greaves worn by Condor Knights"
+	},
+	{
+		"Id": 211100,
+		"Value": "Armor worn by Condor Knights"
+	},
+	{
+		"Id": 220000,
+		"Value": "Hood worn by pages"
+	},
+	{
+		"Id": 220100,
+		"Value": "Garb worn by pages"
+	},
+	{
+		"Id": 220300,
+		"Value": "Trousers worn by pages"
+	},
+	{
+		"Id": 221100,
+		"Value": "Tunic worn by pages"
+	},
+	{
+		"Id": 230000,
+		"Value": "Helm covered in blackened bloodstains"
+	},
+	{
+		"Id": 230100,
+		"Value": "Armor covered in blackened bloodstains"
+	},
+	{
+		"Id": 230200,
+		"Value": "Gauntlets covered in blackened bloodstains"
+	},
+	{
+		"Id": 230300,
+		"Value": "Greaves covered in blackened bloodstains"
+	},
+	{
+		"Id": 231000,
+		"Value": "Light helm covered in blackened bloodstains"
+	},
+	{
+		"Id": 231100,
+		"Value": "Armor covered in blackened bloodstains"
+	},
+	{
+		"Id": 240000,
+		"Value": "Chainmail hood made of motherly silver"
+	},
+	{
+		"Id": 240100,
+		"Value": "Chainmail armor made of motherly silver"
+	},
+	{
+		"Id": 240200,
+		"Value": "Bracelets made of motherly silver"
+	},
+	{
+		"Id": 240300,
+		"Value": "Chainmail skirt made of motherly silver"
+	},
+	{
+		"Id": 241100,
+		"Value": "Armor made of motherly silver"
+	},
+	{
+		"Id": 250000,
+		"Value": "Peddler Kalé's hat"
+	},
+	{
+		"Id": 250100,
+		"Value": "Peddler Kalé's cloak"
+	},
+	{
+		"Id": 250300,
+		"Value": "Peddler Kalé's trousers"
+	},
+	{
+		"Id": 251100,
+		"Value": "Peddler Kalé's vest"
+	},
+	{
+		"Id": 260000,
+		"Value": "Malformed, golden helm used by Gnarrl"
+	},
+	{
+		"Id": 260100,
+		"Value": "Malformed, golden armor used by Gnarrl"
+	},
+	{
+		"Id": 260200,
+		"Value": "Malformed, golden gauntlets used by Gnarrl"
+	},
+	{
+		"Id": 260300,
+		"Value": "Malformed, golden greaves used by Gnarrl"
+	},
+	{
+		"Id": 270000,
+		"Value": "Helm of a Tree Sentinel"
+	},
+	{
+		"Id": 270100,
+		"Value": "Armor of a Tree Sentinel"
+	},
+	{
+		"Id": 270200,
+		"Value": "Gauntlets of a Tree Sentinel"
+	},
+	{
+		"Id": 270300,
+		"Value": "Greaves of a Tree Sentinel"
+	},
+	{
+		"Id": 271100,
+		"Value": "Armor of a Tree Sentinel"
+	},
+	{
+		"Id": 280000,
+		"Value": "Helm of an Arbor Sentinel"
+	},
+	{
+		"Id": 280100,
+		"Value": "Armor of an Arbor Sentinel"
+	},
+	{
+		"Id": 280200,
+		"Value": "Gauntlets of an Arbor Sentinel"
+	},
+	{
+		"Id": 280300,
+		"Value": "Greaves of an Arbor Sentinel"
+	},
+	{
+		"Id": 281100,
+		"Value": "Armor of an Arbor Sentinel"
+	},
+	{
+		"Id": 290000,
+		"Value": "Hood worn by members of the Empyrean family"
+	},
+	{
+		"Id": 290100,
+		"Value": "Armor worn by members of the Empyrean family"
+	},
+	{
+		"Id": 290200,
+		"Value": "Bracelets worn by members of the Empyrean family"
+	},
+	{
+		"Id": 290300,
+		"Value": "Waistcloth worn by members of the Empyrean family"
+	},
+	{
+		"Id": 291000,
+		"Value": "Headband worn by members of the Empyrean family"
+	},
+	{
+		"Id": 291100,
+		"Value": "Vest worn by members of the Empyrean family"
+	},
+	{
+		"Id": 292000,
+		"Value": "Crown worn by members of the Empyrean family"
+	},
+	{
+		"Id": 292100,
+		"Value": "Robe worn by members of the Empyrean family"
+	},
+	{
+		"Id": 293000,
+		"Value": "Crown worn by members of the Empyrean family"
+	},
+	{
+		"Id": 293100,
+		"Value": "Tunic worn by members of the Empyrean family"
+	},
+	{
+		"Id": 294000,
+		"Value": "Crown worn by members of the Empyrean family"
+	},
+	{
+		"Id": 294100,
+		"Value": "Tunic worn by members of the Empyrean family"
+	},
+	{
+		"Id": 300000,
+		"Value": "Headband worn by worshippers of stag specters"
+	},
+	{
+		"Id": 300100,
+		"Value": "Garb worn by worshippers of stag specters"
+	},
+	{
+		"Id": 300300,
+		"Value": "Leggings worn by worshippers of stag specters"
+	},
+	{
+		"Id": 310000,
+		"Value": "Bronze helm adorned with many snakes"
+	},
+	{
+		"Id": 310100,
+		"Value": "Robe made from a beast pelt"
+	},
+	{
+		"Id": 310300,
+		"Value": "Bronze anklets adorned with snakes"
+	},
+	{
+		"Id": 311100,
+		"Value": "Bronze bracelets adorned with snakes"
+	},
+	{
+		"Id": 320000,
+		"Value": "Hood of dyed black cloth featuring gold embroidery"
+	},
+	{
+		"Id": 320100,
+		"Value": "Robe of dyed black cloth featuring gold embroidery"
+	},
+	{
+		"Id": 320300,
+		"Value": "Waistcloth of dyed black material"
+	},
+	{
+		"Id": 330000,
+		"Value": "Mask worn by the people of rotted abundance"
+	},
+	{
+		"Id": 330100,
+		"Value": "Armor worn by the people of rotted abundance"
+	},
+	{
+		"Id": 330200,
+		"Value": "Gauntlets worn by the people of rotted abundance"
+	},
+	{
+		"Id": 330300,
+		"Value": "Greaves worn by the people of rotted abundance"
+	},
+	{
+		"Id": 331100,
+		"Value": "Vest worn by the people of rotted abundance"
+	},
+	{
+		"Id": 340000,
+		"Value": "Helm of a Wing Knight. Somewhat decayed..."
+	},
+	{
+		"Id": 340100,
+		"Value": "Armor of a Wing Knight. Somewhat decayed..."
+	},
+	{
+		"Id": 340200,
+		"Value": "Gauntlets of a Wing Knight. Somewhat decayed..."
+	},
+	{
+		"Id": 340300,
+		"Value": "Greaves of a Wing Knight. Somewhat decayed..."
+	},
+	{
+		"Id": 341000,
+		"Value": "Light helm of a Wing Knight. Somewhat decayed…"
+	},
+	{
+		"Id": 341100,
+		"Value": "Armor of a Wing Knight. Somewhat decayed…"
+	},
+	{
+		"Id": 350000,
+		"Value": "Mail helm covering a headband engraved with flames"
+	},
+	{
+		"Id": 350100,
+		"Value": "Fire Monk armor adorned with a red cloth"
+	},
+	{
+		"Id": 350200,
+		"Value": "Fire Monk gauntlets which resemble flames"
+	},
+	{
+		"Id": 350300,
+		"Value": "Fire Monk greaves which resemble flames"
+	},
+	{
+		"Id": 351000,
+		"Value": "Chain helm worn above a fire shaped crown"
+	},
+	{
+		"Id": 351100,
+		"Value": "Godskin Monk armor adorned with a white cloth"
+	},
+	{
+		"Id": 351200,
+		"Value": "Godskin Monk gauntlets which resemble flames"
+	},
+	{
+		"Id": 351300,
+		"Value": "Godskin Monk greaves which resemble flames"
+	},
+	{
+		"Id": 360000,
+		"Value": "Fire Prelate helm sculpted in the image of a sage"
+	},
+	{
+		"Id": 360100,
+		"Value": "Fire Prelate armor adorned with a red cloth"
+	},
+	{
+		"Id": 360200,
+		"Value": "Fire Prelate gauntlets which resemble flames"
+	},
+	{
+		"Id": 360300,
+		"Value": "Fire Prelate greaves which resemble flames"
+	},
+	{
+		"Id": 361100,
+		"Value": "Fire Prelate armor adorned with a red cloth"
+	},
+	{
+		"Id": 370000,
+		"Value": "Aristocrat headband, decorated with fine goldwork"
+	},
+	{
+		"Id": 370100,
+		"Value": "Aristocrat garb featuring fine gold embroidery"
+	},
+	{
+		"Id": 370300,
+		"Value": "Aristocrat boots, made of thick leather"
+	},
+	{
+		"Id": 371100,
+		"Value": "Aristocrat garb, adorned with golden embroidery"
+	},
+	{
+		"Id": 380000,
+		"Value": "Aristocrat hat, decorated with a marcescent feather"
+	},
+	{
+		"Id": 380100,
+		"Value": "Aristocrat coat featuring fine gold embroidery"
+	},
+	{
+		"Id": 390000,
+		"Value": "Aristocrat hood, made from superior cloth"
+	},
+	{
+		"Id": 390100,
+		"Value": "Aristocrat gown featuring fine gold embroidery"
+	},
+	{
+		"Id": 390300,
+		"Value": "Aristocrat shoes made from sturdy leather"
+	},
+	{
+		"Id": 420000,
+		"Value": "Helm worn by wandering soldiers"
+	},
+	{
+		"Id": 420100,
+		"Value": "Armor worn by wandering soldiers"
+	},
+	{
+		"Id": 420200,
+		"Value": "Gloves worn by wandering soldiers"
+	},
+	{
+		"Id": 420300,
+		"Value": "Boots worn by wandering soldiers"
+	},
+	{
+		"Id": 430000,
+		"Value": "Hood of a travelling musician gripped by death"
+	},
+	{
+		"Id": 430100,
+		"Value": "Robe of a travelling musician gripped by death"
+	},
+	{
+		"Id": 430300,
+		"Value": "Waistcloth of travelling musician gripped by death"
+	},
+	{
+		"Id": 440000,
+		"Value": "Oval helmet large enough to cover any head"
+	},
+	{
+		"Id": 460000,
+		"Value": "Crown of Godfrey, the first Elden Lord"
+	},
+	{
+		"Id": 460100,
+		"Value": "Armor of Godfrey, the first Elden Lord"
+	},
+	{
+		"Id": 460200,
+		"Value": "Gauntlets of Godfrey, the first Elden Lord"
+	},
+	{
+		"Id": 460300,
+		"Value": "Greaves of Godfrey, the first Elden Lord"
+	},
+	{
+		"Id": 461100,
+		"Value": "Armor of Godfrey, the first Elden Lord"
+	},
+	{
+		"Id": 470000,
+		"Value": "Helm of Radahn, God of War"
+	},
+	{
+		"Id": 470100,
+		"Value": "Armor of Radahn, God of War"
+	},
+	{
+		"Id": 470200,
+		"Value": "Gauntlets of Radahn, God of War"
+	},
+	{
+		"Id": 470300,
+		"Value": "Greaves of Radahn, God of War"
+	},
+	{
+		"Id": 471100,
+		"Value": "Armor of Radahn, God of War"
+	},
+	{
+		"Id": 480100,
+		"Value": "Robe of Mohg, Lord of Blood"
+	},
+	{
+		"Id": 481100,
+		"Value": "Gown of Mohg, Lord of Blood"
+	},
+	{
+		"Id": 510000,
+		"Value": "Crown of Rennala, the Full Moon Witch"
+	},
+	{
+		"Id": 510100,
+		"Value": "Robe of Rennala, the Full Moon Witch"
+	},
+	{
+		"Id": 510200,
+		"Value": "Bracelet of Rennala, the Full Moon Witch"
+	},
+	{
+		"Id": 510300,
+		"Value": "Trousers of Rennala, the Full Moon Witch"
+	},
+	{
+		"Id": 520000,
+		"Value": "Hood made from tanned Demigod skin"
+	},
+	{
+		"Id": 520100,
+		"Value": "Robe made from tanned Demigod skin"
+	},
+	{
+		"Id": 520200,
+		"Value": "Bracelets made from tanned Demigod skin"
+	},
+	{
+		"Id": 520300,
+		"Value": "Boots made from tanned Demigod skin"
+	},
+	{
+		"Id": 530000,
+		"Value": "Hood made from tanned corpulent Demigod skin"
+	},
+	{
+		"Id": 530100,
+		"Value": "Robe made from tanned corpulent Demigod skin"
+	},
+	{
+		"Id": 530200,
+		"Value": "Bracelets made from tanned corpulent Demigod skin"
+	},
+	{
+		"Id": 530300,
+		"Value": "Boots made from tanned corpulent Demigod skin"
+	},
+	{
+		"Id": 540000,
+		"Value": "Hood of a depraved perfumer gripped by madness"
+	},
+	{
+		"Id": 540100,
+		"Value": "Robe of a depraved perfumer gripped by madness"
+	},
+	{
+		"Id": 540200,
+		"Value": "Gloves of a depraved perfumer gripped by madness"
+	},
+	{
+		"Id": 540300,
+		"Value": "Boots of a depraved perfumer gripped by madness"
+	},
+	{
+		"Id": 541100,
+		"Value": "Tunic of a depraved perfumer gripped by madness"
+	},
+	{
+		"Id": 570000,
+		"Value": "Helm used by Ordovis of the Crucible and his men"
+	},
+	{
+		"Id": 570100,
+		"Value": "Armor used by Ordovis of the Crucible and his men"
+	},
+	{
+		"Id": 570200,
+		"Value": "Gauntlets used by the Crucible Knights"
+	},
+	{
+		"Id": 570300,
+		"Value": "Greaves used by the Crucible Knights"
+	},
+	{
+		"Id": 571000,
+		"Value": "Helm used by Siluria of the Crucible and her men"
+	},
+	{
+		"Id": 571100,
+		"Value": "Armor used by Siluria of the Crucible and her men"
+	},
+	{
+		"Id": 572100,
+		"Value": "Armor used by Ordovis of the Crucible and his men"
+	},
+	{
+		"Id": 573100,
+		"Value": "Armor used by Siluria of the Crucible and her men"
+	},
+	{
+		"Id": 580000,
+		"Value": "Skull-merged Crown of a Crystal Sorcerer"
+	},
+	{
+		"Id": 580100,
+		"Value": "Dull red robe of a Crystal Sorcerer"
+	},
+	{
+		"Id": 580200,
+		"Value": "Dull red  arm wraps of a Crystal Sorcerer"
+	},
+	{
+		"Id": 580300,
+		"Value": "Dull red waistcloth of a Crystal Sorcerer"
+	},
+	{
+		"Id": 581000,
+		"Value": "Blue transparent crown of a Crystal Sorcerer"
+	},
+	{
+		"Id": 581100,
+		"Value": "Blue transparent robe of a Crystal Sorcerer"
+	},
+	{
+		"Id": 581200,
+		"Value": "Blue transparent arm wraps of a Crystal Sorcerer"
+	},
+	{
+		"Id": 590000,
+		"Value": "Helm of Gideon Ofnir, the All-Knowing"
+	},
+	{
+		"Id": 590100,
+		"Value": "Armor of Gideon Ofnir, the All-Knowing"
+	},
+	{
+		"Id": 590200,
+		"Value": "Gauntlets of Gideon Ofnir, the All-Knowing"
+	},
+	{
+		"Id": 590300,
+		"Value": "Greaves of Gideon Ofnir, the All-Knowing"
+	},
+	{
+		"Id": 591100,
+		"Value": "Armor of Gideon Ofnir, the All-Knowing"
+	},
+	{
+		"Id": 600000,
+		"Value": "Helm worn by D, Knight of the Golden Order"
+	},
+	{
+		"Id": 600100,
+		"Value": "Armor worn by D, Knight of the Golden Order"
+	},
+	{
+		"Id": 600200,
+		"Value": "Gauntlets worn by D, Knight of the Golden Order"
+	},
+	{
+		"Id": 600300,
+		"Value": "Greaves worn by D, Knight of the Golden Order"
+	},
+	{
+		"Id": 601100,
+		"Value": "Armor worn by D, Knight of the Golden Order"
+	},
+	{
+		"Id": 601300,
+		"Value": "Greaves worn by D, Knight of the Golden Order"
+	},
+	{
+		"Id": 610000,
+		"Value": "Helm pieced together from scavenged metal"
+	},
+	{
+		"Id": 610100,
+		"Value": "Armor pieced together from scavenged metal"
+	},
+	{
+		"Id": 610200,
+		"Value": "Gauntlets pieced together from scavenged metal"
+	},
+	{
+		"Id": 610300,
+		"Value": "Greaves pieced together from scavenged metal"
+	},
+	{
+		"Id": 611000,
+		"Value": "Helm pieced together from scavenged metal"
+	},
+	{
+		"Id": 611100,
+		"Value": "Armor pieced together from scavenged metal"
+	},
+	{
+		"Id": 620000,
+		"Value": "Blindfold of the exiled prophets"
+	},
+	{
+		"Id": 620100,
+		"Value": "Robe of the exiled prophets"
+	},
+	{
+		"Id": 620300,
+		"Value": "Trousers of the exiled prophets"
+	},
+	{
+		"Id": 621100,
+		"Value": "Robe of the exiled prophets"
+	},
+	{
+		"Id": 622100,
+		"Value": "Tunic of the exiled prophets"
+	},
+	{
+		"Id": 630000,
+		"Value": "Hood of the glintstone polishers"
+	},
+	{
+		"Id": 630100,
+		"Value": "Robe of the glintstone polishers"
+	},
+	{
+		"Id": 630200,
+		"Value": "Gloves of the glintstone polishers"
+	},
+	{
+		"Id": 630300,
+		"Value": "Trousers of the glintstone polishers"
+	},
+	{
+		"Id": 631100,
+		"Value": "Robe of the glintstone polishers"
+	},
+	{
+		"Id": 640000,
+		"Value": "Oddly shaped helm used by foreign knights"
+	},
+	{
+		"Id": 640100,
+		"Value": "Oddly shaped armor used by foreign knights"
+	},
+	{
+		"Id": 640200,
+		"Value": "Oddly shaped gauntlets used by foreign knights"
+	},
+	{
+		"Id": 640300,
+		"Value": "Oddly shaped greaves used by foreign knights"
+	},
+	{
+		"Id": 641100,
+		"Value": "Oddly shaped armor used by foreign knights"
+	},
+	{
+		"Id": 650000,
+		"Value": "Heavy helm passed down through the Hoslow family"
+	},
+	{
+		"Id": 650100,
+		"Value": "Armor passed down through the Hoslow family"
+	},
+	{
+		"Id": 650200,
+		"Value": "Gauntlets passed down through the Hoslow family"
+	},
+	{
+		"Id": 650300,
+		"Value": "Greaves passed down through the Hoslow family"
+	},
+	{
+		"Id": 651000,
+		"Value": "Helm passed down through the Hoslow family"
+	},
+	{
+		"Id": 652100,
+		"Value": "Armor passed down through the Hoslow family"
+	},
+	{
+		"Id": 660000,
+		"Value": "Helm of a banished knight"
+	},
+	{
+		"Id": 660100,
+		"Value": "Armor  of a banished knight"
+	},
+	{
+		"Id": 660200,
+		"Value": "Gauntlets of a banished knight"
+	},
+	{
+		"Id": 660300,
+		"Value": "Greaves of a banished knight"
+	},
+	{
+		"Id": 661100,
+		"Value": "Chest Piece of a banished knight"
+	},
+	{
+		"Id": 670000,
+		"Value": "Cowl of a nomadic warrior, made of blue cloth"
+	},
+	{
+		"Id": 670100,
+		"Value": "Vest of a nomadic warrior, made of blue cloth"
+	},
+	{
+		"Id": 670200,
+		"Value": "Gauntlets of a nomadic warrior"
+	},
+	{
+		"Id": 670300,
+		"Value": "Greaves of a nomadic warrior"
+	},
+	{
+		"Id": 680000,
+		"Value": "Strange birch mask that hides one's expression"
+	},
+	{
+		"Id": 680100,
+		"Value": "Old white tunic, stained with blood"
+	},
+	{
+		"Id": 680200,
+		"Value": "Physician's gloves made from thick leather"
+	},
+	{
+		"Id": 680300,
+		"Value": "Physician's trousers made from thick leather"
+	},
+	{
+		"Id": 681100,
+		"Value": "Physician's vest made from thick leather"
+	},
+	{
+		"Id": 690000,
+		"Value": "Mask that mediates via body of famed ancestor"
+	},
+	{
+		"Id": 690100,
+		"Value": "Armor that mediates via body of famed ancestor"
+	},
+	{
+		"Id": 690200,
+		"Value": "Gauntlets that mediate via body of famed ancestor"
+	},
+	{
+		"Id": 690300,
+		"Value": "Greaves that mediate via body of famed ancestor"
+	},
+	{
+		"Id": 700000,
+		"Value": "Headband of a warrior of the frigid uplands"
+	},
+	{
+		"Id": 700100,
+		"Value": "Battlewear of a warrior of the frigid uplands"
+	},
+	{
+		"Id": 700200,
+		"Value": "Gauntlets of a warrior of the frigid uplands"
+	},
+	{
+		"Id": 700300,
+		"Value": "Greaves of a warrior of the frigid uplands"
+	},
+	{
+		"Id": 701000,
+		"Value": "Helm of a warrior of the frigid uplands"
+	},
+	{
+		"Id": 702000,
+		"Value": "Battlewear of a warrior of the frigid uplands"
+	},
+	{
+		"Id": 720000,
+		"Value": "Helm of Belnahr the Traitor"
+	},
+	{
+		"Id": 720100,
+		"Value": "Armor of Belnahr the Traitor"
+	},
+	{
+		"Id": 720200,
+		"Value": "Gauntlets of Belnahr the Traitor"
+	},
+	{
+		"Id": 720300,
+		"Value": "Greaves of Belnahr the Traitor"
+	},
+	{
+		"Id": 721100,
+		"Value": "Armor of Belnahr the Traitor"
+	},
+	{
+		"Id": 730000,
+		"Value": "Headband reserved for the badlands' bravest"
+	},
+	{
+		"Id": 730100,
+		"Value": "Pauldron reserved for the badlands' bravest"
+	},
+	{
+		"Id": 730200,
+		"Value": "Gauntlets reserved for the badlands' bravest"
+	},
+	{
+		"Id": 730300,
+		"Value": "Gaiters formed only of leather straps"
+	},
+	{
+		"Id": 740000,
+		"Value": "Hooded cloak of expatriated royalty"
+	},
+	{
+		"Id": 740100,
+		"Value": "Armor of expatriated royalty"
+	},
+	{
+		"Id": 740200,
+		"Value": "Gloves of expatriated royalty"
+	},
+	{
+		"Id": 740300,
+		"Value": "Trousers of expatriated royalty"
+	},
+	{
+		"Id": 741000,
+		"Value": "Hooded cloak of expatriated royalty"
+	},
+	{
+		"Id": 760000,
+		"Value": "Helm of Maliketh the Black Blade"
+	},
+	{
+		"Id": 760100,
+		"Value": "Armor of Maliketh the Black Blade"
+	},
+	{
+		"Id": 760200,
+		"Value": "Gauntlets of Maliketh the Black Blade"
+	},
+	{
+		"Id": 760300,
+		"Value": "Greaves of Maliketh the Black Blade"
+	},
+	{
+		"Id": 761100,
+		"Value": "Armor of Maliketh the Black Blade"
+	},
+	{
+		"Id": 770000,
+		"Value": "Helm of Arbitress Malenia"
+	},
+	{
+		"Id": 770100,
+		"Value": "Armor of Arbitress Malenia"
+	},
+	{
+		"Id": 770200,
+		"Value": "Gauntlets of Arbitress Malenia"
+	},
+	{
+		"Id": 770300,
+		"Value": "Greaves of Arbitress Malenia"
+	},
+	{
+		"Id": 771100,
+		"Value": "Armor of Arbitress Malenia"
+	},
+	{
+		"Id": 780000,
+		"Value": "Veteran General's old helm"
+	},
+	{
+		"Id": 780100,
+		"Value": "Veteran General's old armor"
+	},
+	{
+		"Id": 780200,
+		"Value": "Veteran General's old gauntlets"
+	},
+	{
+		"Id": 780300,
+		"Value": "Veteran General's old greaves"
+	},
+	{
+		"Id": 781100,
+		"Value": "Veteran General's old armor"
+	},
+	{
+		"Id": 790000,
+		"Value": "Beast-like helm of the Bloodhound Knights"
+	},
+	{
+		"Id": 790100,
+		"Value": "Beast-like armor of the Bloodhound Knights"
+	},
+	{
+		"Id": 790200,
+		"Value": "Beast-like gauntlets of the Bloodhound Knights"
+	},
+	{
+		"Id": 790300,
+		"Value": "Beast-like greaves of the Bloodhound Knights"
+	},
+	{
+		"Id": 791100,
+		"Value": "Beast-like armor of the Bloodhound Knights"
+	},
+	{
+		"Id": 800000,
+		"Value": "Hood worn for a humble festival"
+	},
+	{
+		"Id": 800100,
+		"Value": "Cloak worn for a humble festival"
+	},
+	{
+		"Id": 801000,
+		"Value": "Wreath of flowers worn for a humble festival"
+	},
+	{
+		"Id": 801100,
+		"Value": "Ceremonial garb worn for a humble festival"
+	},
+	{
+		"Id": 802000,
+		"Value": "Hood worn for a humble festival"
+	},
+	{
+		"Id": 802100,
+		"Value": "Cloak worn for a humble festival"
+	},
+	{
+		"Id": 810000,
+		"Value": "Hood of a rune cursed citizen"
+	},
+	{
+		"Id": 810100,
+		"Value": "Garb of a rune cursed citizen"
+	},
+	{
+		"Id": 810300,
+		"Value": "Waistcloth of a rune cursed citizen"
+	},
+	{
+		"Id": 811000,
+		"Value": "Garb of a rune cursed citizen"
+	},
+	{
+		"Id": 811100,
+		"Value": "Garb of a rune cursed citizen"
+	},
+	{
+		"Id": 812000,
+		"Value": "Crown of a rune cursed citizen"
+	},
+	{
+		"Id": 812100,
+		"Value": "Garb of a rune cursed citizen"
+	},
+	{
+		"Id": 820000,
+		"Value": "Head concealing silver robe"
+	},
+	{
+		"Id": 830000,
+		"Value": "Stone mask of the Twin Crystal Sage"
+	},
+	{
+		"Id": 830100,
+		"Value": "Robe worn by Raya Lucaria's magic scholars"
+	},
+	{
+		"Id": 830200,
+		"Value": "Manchettes worn by Raya Lucaria's magic scholars"
+	},
+	{
+		"Id": 830300,
+		"Value": "Leggings worn by Raya Lucaria's magic scholars"
+	},
+	{
+		"Id": 831000,
+		"Value": "Stone mask of a Gold Amber Sage"
+	},
+	{
+		"Id": 832000,
+		"Value": "Stone mask of a Red Glintstone Sage"
+	},
+	{
+		"Id": 833000,
+		"Value": "Stone mask depicting the wise Karolos"
+	},
+	{
+		"Id": 834000,
+		"Value": "Stone mask of a Green Glintstone Sage"
+	},
+	{
+		"Id": 834100,
+		"Value": "Broken stone mask with fractured Glintstone"
+	},
+	{
+		"Id": 840000,
+		"Value": "Cylindrical helm worn by marionette soldiers"
+	},
+	{
+		"Id": 840100,
+		"Value": "Armor of lattice plate worn by marionette soldiers"
+	},
+	{
+		"Id": 850000,
+		"Value": "Iron mask worn by marionette soldiers"
+	},
+	{
+		"Id": 860000,
+		"Value": "Helm of Vargram the Bloody Wolf"
+	},
+	{
+		"Id": 860100,
+		"Value": "Armor of Vargram the Bloody Wolf"
+	},
+	{
+		"Id": 860200,
+		"Value": "Gauntlets of Vargram the Bloody Wolf"
+	},
+	{
+		"Id": 860300,
+		"Value": "Greaves of Vargram the Bloody Wolf"
+	},
+	{
+		"Id": 861100,
+		"Value": "Breastplate of Vargram the Bloody Wolf"
+	},
+	{
+		"Id": 870000,
+		"Value": "Helm of a warrior from the land of reeds"
+	},
+	{
+		"Id": 870100,
+		"Value": "Chest piece of a warrior from the land of reeds"
+	},
+	{
+		"Id": 870200,
+		"Value": "Gauntlets of a warrior from the land of reeds"
+	},
+	{
+		"Id": 870300,
+		"Value": "Greaves of a warrior from the land of reeds"
+	},
+	{
+		"Id": 871100,
+		"Value": "Armor of a warrior from the land of reeds"
+	},
+	{
+		"Id": 872000,
+		"Value": "Mask adorned with a land of reeds veteran warrior"
+	},
+	{
+		"Id": 872100,
+		"Value": "Stomach band of a land of reeds veteran warrior"
+	},
+	{
+		"Id": 872200,
+		"Value": "Gauntlets of a land of reeds veteran warrior"
+	},
+	{
+		"Id": 872300,
+		"Value": "Greaves of a land of reeds veteran warrior"
+	},
+	{
+		"Id": 880000,
+		"Value": "Black hood of those who kill for a living"
+	},
+	{
+		"Id": 880100,
+		"Value": "Black robe of those who kill for a living"
+	},
+	{
+		"Id": 880200,
+		"Value": "Gloves of those who kill for a living"
+	},
+	{
+		"Id": 880300,
+		"Value": "Boots of those who kill for a living"
+	},
+	{
+		"Id": 881000,
+		"Value": "Mask of those who kill for a living"
+	},
+	{
+		"Id": 881100,
+		"Value": "Vest of those who kill for a living"
+	},
+	{
+		"Id": 890000,
+		"Value": "Iron mask worn by grave offenders"
+	},
+	{
+		"Id": 890100,
+		"Value": "Tattered clothing"
+	},
+	{
+		"Id": 890300,
+		"Value": "Tattered trousers"
+	},
+	{
+		"Id": 891000,
+		"Value": "Iron mask worn by only the most violent offenders"
+	},
+	{
+		"Id": 900000,
+		"Value": "Hood worn by traveling clerics"
+	},
+	{
+		"Id": 900100,
+		"Value": "Robe worn by traveling clerics"
+	},
+	{
+		"Id": 900200,
+		"Value": "Gloves worn by traveling clerics"
+	},
+	{
+		"Id": 900300,
+		"Value": "Skirt worn by traveling clerics"
+	},
+	{
+		"Id": 901100,
+		"Value": "Tunic worn by traveling clerics"
+	},
+	{
+		"Id": 902000,
+		"Value": "Crown worn by Saints"
+	},
+	{
+		"Id": 902100,
+		"Value": "Dress worn by Saints"
+	},
+	{
+		"Id": 902300,
+		"Value": "Skirt worn by Saints"
+	},
+	{
+		"Id": 903100,
+		"Value": "Tunic worn by Saints"
+	},
+	{
+		"Id": 910000,
+		"Value": "Hat worn by ruthless Chaplains"
+	},
+	{
+		"Id": 910100,
+		"Value": "Gown worn by ruthless Chaplains"
+	},
+	{
+		"Id": 910200,
+		"Value": "Gloves worn by ruthless Chaplains"
+	},
+	{
+		"Id": 910300,
+		"Value": "Boots worn by ruthless Chaplains"
+	},
+	{
+		"Id": 911000,
+		"Value": "Hood worn by ruthless Chaplains"
+	},
+	{
+		"Id": 911100,
+		"Value": "Vest worn by ruthless Chaplains"
+	},
+	{
+		"Id": 920000,
+		"Value": "Headdress made from wildflowers"
+	},
+	{
+		"Id": 930000,
+		"Value": "Hood worn by followers of the deadly birds"
+	},
+	{
+		"Id": 930100,
+		"Value": "Cloak worn by followers of the deadly birds"
+	},
+	{
+		"Id": 930200,
+		"Value": "Wraps worn by followers of the deadly birds"
+	},
+	{
+		"Id": 930300,
+		"Value": "Trousers worn by followers of the deadly birds"
+	},
+	{
+		"Id": 931100,
+		"Value": "Vest worn by followers of the deadly birds"
+	},
+	{
+		"Id": 940000,
+		"Value": "Deathwatch, Jerren's hood"
+	},
+	{
+		"Id": 940100,
+		"Value": "Deathwatch, Jerren's armor"
+	},
+	{
+		"Id": 940200,
+		"Value": "Deathwatch, Jerren's gauntlets"
+	},
+	{
+		"Id": 940300,
+		"Value": "Deathwatch, Jerren's tights"
+	},
+	{
+		"Id": 941000,
+		"Value": "Deathwatch, Jerren's helm"
+	},
+	{
+		"Id": 950000,
+		"Value": "Deformed helm of a mad knight in despair"
+	},
+	{
+		"Id": 950100,
+		"Value": "Deformed armor of a mad knight in despair"
+	},
+	{
+		"Id": 950200,
+		"Value": "Deformed gauntlets of a mad knight in despair"
+	},
+	{
+		"Id": 950300,
+		"Value": "Deformed greaves of a mad knight in despair"
+	},
+	{
+		"Id": 951100,
+		"Value": "Deformed armor of a mad knight in despair"
+	},
+	{
+		"Id": 960000,
+		"Value": "White mask of Tanith, Lady of the Volcano Manor"
+	},
+	{
+		"Id": 960100,
+		"Value": "Dress of Tanith, Lady of the Volcano Manor"
+	},
+	{
+		"Id": 960300,
+		"Value": "Skirt of Tanith, Lady of the Volcano Manor"
+	},
+	{
+		"Id": 961000,
+		"Value": "Stone mask of Rya, servant to the Volcano Manor"
+	},
+	{
+		"Id": 961100,
+		"Value": "Extravagantly embroidered noble's robe"
+	},
+	{
+		"Id": 962100,
+		"Value": "Extravagantly embroidered noble's gown"
+	},
+	{
+		"Id": 963000,
+		"Value": "An eerie white haired silver mask"
+	},
+	{
+		"Id": 963100,
+		"Value": "Noble's cape woven with sturdy fabric"
+	},
+	{
+		"Id": 963200,
+		"Value": "Noble's waistcloth woven with sturdy fabric"
+	},
+	{
+		"Id": 964000,
+		"Value": "Bandages dirtied with blood"
+	},
+	{
+		"Id": 964100,
+		"Value": "Noble's gown woven with sturdy fabric"
+	},
+	{
+		"Id": 970000,
+		"Value": "Mask of a curse gnawed Omen"
+	},
+	{
+		"Id": 970100,
+		"Value": "Armor of a curse gnawed Omen"
+	},
+	{
+		"Id": 970200,
+		"Value": "Gauntlets of a curse gnawed Omen"
+	},
+	{
+		"Id": 970300,
+		"Value": "Greaves of a curse gnawed Omen"
+	},
+	{
+		"Id": 980000,
+		"Value": "Helm of enchanted Carian knights"
+	},
+	{
+		"Id": 980100,
+		"Value": "Armor of enchanted Carian knights"
+	},
+	{
+		"Id": 980200,
+		"Value": "Gauntlets of enchanted Carian knights"
+	},
+	{
+		"Id": 980300,
+		"Value": "Greaves of enchanted Carian knights"
+	},
+	{
+		"Id": 981100,
+		"Value": "Armor of enchanted Carian knights"
+	},
+	{
+		"Id": 990000,
+		"Value": "Eyepatch worn by a great sorcerer turned hermit"
+	},
+	{
+		"Id": 990100,
+		"Value": "Cape worn by a great sorcerer turned hermit"
+	},
+	{
+		"Id": 990200,
+		"Value": "Arm wraps worn by a great sorcerer turned hermit"
+	},
+	{
+		"Id": 990300,
+		"Value": "Shoes worn by a great sorcerer turned hermit"
+	},
+	{
+		"Id": 991100,
+		"Value": "Tunic worn by a great sorcerer turned hermit"
+	},
+	{
+		"Id": 1000000,
+		"Value": "Mask of an unaffiliated glintstone sorcerer"
+	},
+	{
+		"Id": 1000100,
+		"Value": "Robe of an unaffiliated glintstone sorcerer"
+	},
+	{
+		"Id": 1000200,
+		"Value": "Arm wraps of an unaffiliated glintstone sorcerer"
+	},
+	{
+		"Id": 1000300,
+		"Value": "Waistcloth of an unaffiliated glintstone sorcerer"
+	},
+	{
+		"Id": 1010000,
+		"Value": "Hat worn by Enchantress Ranni"
+	},
+	{
+		"Id": 1010100,
+		"Value": "Robe worn by Enchantress Ranni"
+	},
+	{
+		"Id": 1010300,
+		"Value": "Skirt worn by Enchantress Ranni"
+	},
+	{
+		"Id": 1011100,
+		"Value": "Dress worn by Enchantress Ranni"
+	},
+	{
+		"Id": 1020100,
+		"Value": "Robe worn by Malenia"
+	},
+	{
+		"Id": 1020200,
+		"Value": "Arm wraps worn by Malenia"
+	},
+	{
+		"Id": 1020300,
+		"Value": "Skirt worn by Malenia"
+	},
+	{
+		"Id": 1030000,
+		"Value": "Cap worn by students of the Raya Lucaria Academy"
+	},
+	{
+		"Id": 1030100,
+		"Value": "Robe worn by students of the Raya Lucaria Academy"
+	},
+	{
+		"Id": 1040000,
+		"Value": "Mask worn by researchers of the Golden Order"
+	},
+	{
+		"Id": 1040100,
+		"Value": "Robe worn by researchers of the Golden Order"
+	},
+	{
+		"Id": 1040200,
+		"Value": "Arm wraps worn by researchers of the Golden Order"
+	},
+	{
+		"Id": 1040300,
+		"Value": "Waistcloth worn by researchers of the Golden Order"
+	},
+	{
+		"Id": 1050100,
+		"Value": "Robe worn by Morgott, the Elden Lord"
+	},
+	{
+		"Id": 1060000,
+		"Value": "Helm modeled after the silent Frog People"
+	},
+	{
+		"Id": 1060100,
+		"Value": "Chainmail worn by the silent Frog People"
+	},
+	{
+		"Id": 1070000,
+		"Value": "Mask worn by an ancient hero"
+	},
+	{
+		"Id": 1070100,
+		"Value": "Armor worn by an ancient hero"
+	},
+	{
+		"Id": 1070200,
+		"Value": "Arm wraps worn by an ancient hero"
+	},
+	{
+		"Id": 1070300,
+		"Value": "Waistcloth worn by an ancient hero"
+	},
+	{
+		"Id": 1080000,
+		"Value": "Ancient mask with an animal motif"
+	},
+	{
+		"Id": 1081000,
+		"Value": "Ancient mask with an animal motif"
+	},
+	{
+		"Id": 1082000,
+		"Value": "Ancient mask with an animal motif"
+	},
+	{
+		"Id": 1083000,
+		"Value": "Ancient mask with an animal motif"
+	},
+	{
+		"Id": 1084000,
+		"Value": "Ancient mask with an animal motif"
+	},
+	{
+		"Id": 1085000,
+		"Value": "Ancient mask with an animal motif"
+	},
+	{
+		"Id": 1090000,
+		"Value": "Head covering formed from silver tears"
+	},
+	{
+		"Id": 1100000,
+		"Value": "Helm made of woven chain"
+	},
+	{
+		"Id": 1100100,
+		"Value": "Chest piece made of woven chain"
+	},
+	{
+		"Id": 1100200,
+		"Value": "Gauntlets made of woven chain"
+	},
+	{
+		"Id": 1100300,
+		"Value": "Greaves made of woven chain"
+	},
+	{
+		"Id": 1101000,
+		"Value": "Sturdy helm made from iron"
+	},
+	{
+		"Id": 1101100,
+		"Value": "Iron armor with a surcoat attached"
+	},
+	{
+		"Id": 1102100,
+		"Value": "Iron armor with a blue surcoat attached"
+	},
+	{
+		"Id": 1110000,
+		"Value": "Helm modeled after a Land Octopus"
+	},
+	{
+		"Id": 1120000,
+		"Value": "This sturdy jar might serve well as a helm"
+	},
+	{
+		"Id": 1130000,
+		"Value": "Helm with slime mold growing on it"
+	},
+	{
+		"Id": 1130100,
+		"Value": "Armor with slime mold growing on it"
+	},
+	{
+		"Id": 1130200,
+		"Value": "Arm wraps with slime mold growing on them"
+	},
+	{
+		"Id": 1130300,
+		"Value": "Leg wraps with slime mold growing on it"
+	},
+	{
+		"Id": 1300000,
+		"Value": "Shining helm decorated with a mirror"
+	},
+	{
+		"Id": 1301000,
+		"Value": "Shining helm decorated on all sides with mirrors"
+	},
+	{
+		"Id": 1400000,
+		"Value": "Dirty hood worn by bandits"
+	},
+	{
+		"Id": 1400100,
+		"Value": "Dirty leather armor worn by bandits"
+	},
+	{
+		"Id": 1400200,
+		"Value": "Dirty gloves worn by bandits"
+	},
+	{
+		"Id": 1400300,
+		"Value": "Dirty boots worn by bandits"
+	},
+	{
+		"Id": 1401000,
+		"Value": "Dirty garb worn by bandits"
+	},
+	{
+		"Id": 1500000,
+		"Value": "Iron helm worn by foreign knights"
+	},
+	{
+		"Id": 1500100,
+		"Value": "Iron armor worn by foreign knights"
+	},
+	{
+		"Id": 1500200,
+		"Value": "Iron gauntlets worn by foreign knights"
+	},
+	{
+		"Id": 1500300,
+		"Value": "Iron greaves worn by foreign knights"
+	},
+	{
+		"Id": 1600000,
+		"Value": "Hood with a mysterious silhouette"
+	},
+	{
+		"Id": 1700000,
+		"Value": "Helm used by Stormveil Knights"
+	},
+	{
+		"Id": 1700100,
+		"Value": "Armor used by Stormveil Knights"
+	},
+	{
+		"Id": 1700200,
+		"Value": "Gauntlets used by Stormveil Knights"
+	},
+	{
+		"Id": 1700300,
+		"Value": "Greaves used by Stormveil Knights"
+	},
+	{
+		"Id": 1710000,
+		"Value": "Helm used by Raya Lucaria Academy Knights"
+	},
+	{
+		"Id": 1710100,
+		"Value": "Armor used by Raya Lucaria Academy Knights"
+	},
+	{
+		"Id": 1710200,
+		"Value": "Gauntlets used by Raya Lucaria Academy Knights"
+	},
+	{
+		"Id": 1710300,
+		"Value": "Greaves used by Raya Lucaria Academy Knights"
+	},
+	{
+		"Id": 1720000,
+		"Value": "Helm used by Capital Knights"
+	},
+	{
+		"Id": 1720100,
+		"Value": "Armor used by Capital Knights"
+	},
+	{
+		"Id": 1720200,
+		"Value": "Gauntlets used by Capital Knights"
+	},
+	{
+		"Id": 1720300,
+		"Value": "Greaves used by Capital Knights"
+	},
+	{
+		"Id": 1730000,
+		"Value": "Helm used by Caelid Wilds Knights"
+	},
+	{
+		"Id": 1730100,
+		"Value": "Armor used by Caelid Wilds Knights"
+	},
+	{
+		"Id": 1730200,
+		"Value": "Gauntlets used by Caelid Wilds Knights"
+	},
+	{
+		"Id": 1730300,
+		"Value": "Greaves used by Caelid Wilds Knights"
+	},
+	{
+		"Id": 1740100,
+		"Value": "Armor used by Mausoleum Knights"
+	},
+	{
+		"Id": 1740200,
+		"Value": "Gauntlets used by Mausoleum Knights"
+	},
+	{
+		"Id": 1740300,
+		"Value": "Greaves used by Mausoleum Knights"
+	},
+	{
+		"Id": 1750000,
+		"Value": "Helm used by Knights of Miquella"
+	},
+	{
+		"Id": 1750100,
+		"Value": "Armor used by Knights of Miquella"
+	},
+	{
+		"Id": 1750200,
+		"Value": "Gauntlets used by Knights of Miquella"
+	},
+	{
+		"Id": 1750300,
+		"Value": "Greaves used by Knights of Miquella"
+	},
+	{
+		"Id": 1760000,
+		"Value": "Helm used by Capital Knights"
+	},
+	{
+		"Id": 1760100,
+		"Value": "Armor used by Capital Knights"
+	},
+	{
+		"Id": 1760200,
+		"Value": "Gauntlets used by Capital Knights"
+	},
+	{
+		"Id": 1760300,
+		"Value": "Greaves used by Capital Knights"
+	},
+	{
+		"Id": 1761100,
+		"Value": "Armor used by Capital Knights"
+	},
+	{
+		"Id": 1770000,
+		"Value": "Helm used by Stormveil Elite Knights"
+	},
+	{
+		"Id": 1770100,
+		"Value": "Armor used by Stormveil Elite Knights"
+	},
+	{
+		"Id": 1770200,
+		"Value": "Gauntlets used by Stormveil Elite Knights"
+	},
+	{
+		"Id": 1770300,
+		"Value": "Greaves used by Stormveil Elite Knights"
+	},
+	{
+		"Id": 1771100,
+		"Value": "Armor used by Stormveil Elite Knights"
+	},
+	{
+		"Id": 1780000,
+		"Value": "Helm of Raya Lucaria Academy Elite Knights"
+	},
+	{
+		"Id": 1780100,
+		"Value": "Armor of Raya Lucaria Academy Elite Knights"
+	},
+	{
+		"Id": 1780200,
+		"Value": "Gauntlets of Raya Lucaria Academy Elite Knights"
+	},
+	{
+		"Id": 1780300,
+		"Value": "Greaves of Raya Lucaria Academy Elite Knights"
+	},
+	{
+		"Id": 1781100,
+		"Value": "Armor of Raya Lucaria Academy Elite Knights"
+	},
+	{
+		"Id": 1790000,
+		"Value": "Helm used by Elite Capital Knights"
+	},
+	{
+		"Id": 1790100,
+		"Value": "Armor used by Elite Capital Knights"
+	},
+	{
+		"Id": 1790200,
+		"Value": "Gauntlets used by Elite Capital Knights"
+	},
+	{
+		"Id": 1790300,
+		"Value": "Greaves used by Elite Capital Knights"
+	},
+	{
+		"Id": 1791100,
+		"Value": "Armor used by Elite Capital Knights"
+	},
+	{
+		"Id": 1800000,
+		"Value": "Helm used by Elite Caelid Wilds Knights"
+	},
+	{
+		"Id": 1800100,
+		"Value": "Armor used by Elite Caelid Wilds Knights"
+	},
+	{
+		"Id": 1800200,
+		"Value": "Gauntlets used by Elite Caelid Wilds Knights"
+	},
+	{
+		"Id": 1800300,
+		"Value": "Greaves used by Elite Caelid Wilds Knights"
+	},
+	{
+		"Id": 1801100,
+		"Value": "Armor used by Elite Caelid Wilds Knights"
+	},
+	{
+		"Id": 1810100,
+		"Value": "Armor used by Elite Mausoleum Knights"
+	},
+	{
+		"Id": 1810200,
+		"Value": "Gauntlets used by Elite Mausoleum Knights"
+	},
+	{
+		"Id": 1810300,
+		"Value": "Greaves used by Elite Mausoleum Knights"
+	},
+	{
+		"Id": 1811100,
+		"Value": "Armor used by Elite Mausoleum Knights"
+	},
+	{
+		"Id": 1820000,
+		"Value": "Helm used by Elite Knights of Miquella"
+	},
+	{
+		"Id": 1820100,
+		"Value": "Armor used by Elite Knights of Miquella"
+	},
+	{
+		"Id": 1820200,
+		"Value": "Gauntlets used by Elite Knights of Miquella"
+	},
+	{
+		"Id": 1820300,
+		"Value": "Greaves used by Elite Knights of Miquella"
+	},
+	{
+		"Id": 1821100,
+		"Value": "Armor used by Elite Knights of Miquella"
+	},
+	{
+		"Id": 1830000,
+		"Value": "Helm used by Stormveil Soldiers"
+	},
+	{
+		"Id": 1830100,
+		"Value": "Armor used by Stormveil Soldiers"
+	},
+	{
+		"Id": 1830200,
+		"Value": "Gauntlets used by Stormveil Soldiers"
+	},
+	{
+		"Id": 1830300,
+		"Value": "Greaves used by Stormveil Soldiers"
+	},
+	{
+		"Id": 1840000,
+		"Value": "Helm used by Raya Lucaria Academy Soldiers"
+	},
+	{
+		"Id": 1840100,
+		"Value": "Armor used by Raya Lucaria Academy Soldiers"
+	},
+	{
+		"Id": 1850000,
+		"Value": "Helm used by Capital Soldiers"
+	},
+	{
+		"Id": 1850100,
+		"Value": "Armor used by Capital Soldiers"
+	},
+	{
+		"Id": 1860000,
+		"Value": "Helm used by Caelid Wilds Patrol Soldiers"
+	},
+	{
+		"Id": 1860100,
+		"Value": "Armor used by Caelid Wilds Patrol Soldiers"
+	},
+	{
+		"Id": 1870100,
+		"Value": "Armor used by Mausoleum Soldiers"
+	},
+	{
+		"Id": 1880000,
+		"Value": "Helm used by Miquella's Soldiers"
+	},
+	{
+		"Id": 1880100,
+		"Value": "Armor used by Miquella's Soldiers"
+	},
+	{
+		"Id": 1890000,
+		"Value": "Mask worn by Executioners"
+	},
+	{
+		"Id": 1890100,
+		"Value": "Robe worn by Executioners"
+	},
+	{
+		"Id": 1890200,
+		"Value": "Gloves worn by Executioners"
+	},
+	{
+		"Id": 1890300,
+		"Value": "Boots worn by Executioners"
+	},
+	{
+		"Id": 1900000,
+		"Value": "Mask made from a large, old white scarab's body"
+	},
+	{
+		"Id": 1900100,
+		"Value": "Mask made from a large, old red scarab's body"
+	},
+	{
+		"Id": 1900200,
+		"Value": "Mask made from a large, old blue scarab's body"
+	},
+	{
+		"Id": 1910000,
+		"Value": "Mask made from a large, old yellow scarab's body"
+	},
+	{
+		"Id": 1920000,
+		"Value": "Mask made from a large, old green scarab's body"
+	},
+	{
+		"Id": 1930100,
+		"Value": "Dress worn by Phia, the Deathbed Companion"
+	},
+	{
+		"Id": 1930300,
+		"Value": "Skirt worn by Phia, the Deathbed Companion"
+	},
+	{
+		"Id": 1940000,
+		"Value": "Hood worn by Phia, the Deathbed Companion"
+	},
+	{
+		"Id": 1940100,
+		"Value": "Robe worn by Phia, the Deathbed Companion"
+	},
+	{
+		"Id": 1941100,
+		"Value": "Gown worn by Phia, the Deathbed Companion"
+	},
+	{
+		"Id": 1950000,
+		"Value": " "
+	},
+	{
+		"Id": 1950100,
+		"Value": "Robe worn by Millicent the Rotting"
+	},
+	{
+		"Id": 1950200,
+		"Value": "Gloves worn by Millicent the Rotting"
+	},
+	{
+		"Id": 1950300,
+		"Value": "Boots worn by Millicent the Rotting"
+	},
+	{
+		"Id": 1960000,
+		"Value": " "
+	},
+	{
+		"Id": 1970100,
+		"Value": "Tunic worn by Millicent the Rotting"
+	},
+	{
+		"Id": 1970200,
+		"Value": "Golden prosthetic forged using ancient techniques"
+	},
+	{
+		"Id": 1980000,
+		"Value": "Hood worn by cave-dwelling foot soldiers"
+	},
+	{
+		"Id": 1980100,
+		"Value": "Robe worn by cave-dwelling foot soldiers"
+	},
+	{
+		"Id": 1980200,
+		"Value": "Gloves worn by cave-dwelling foot soldiers"
+	},
+	{
+		"Id": 1990000,
+		"Value": "Hood of a Page loyal to a certain noble family"
+	},
+	{
+		"Id": 1990100,
+		"Value": "Garb of a Page loyal to a certain noble family"
+	},
+	{
+		"Id": 1991100,
+		"Value": "Vest of a Page loyal to a certain noble family"
+	},
+	{
+		"Id": 2000000,
+		"Value": "Scarlet-bronze helm adorned with many snakes"
+	},
+	{
+		"Id": 2000100,
+		"Value": "Robe fashioned from the pelt of a deadly beast"
+	},
+	{
+		"Id": 2000300,
+		"Value": "Scarlet-bronze bracelet depicting coiled snakes"
+	},
+	{
+		"Id": 2001100,
+		"Value": "Scarlet-bronze anklet depicting coiled snakes"
+	},
+	{
+		"Id": 2010000,
+		"Value": "Garland crown of large flowers rotted by poison"
+	},
+	{
+		"Id": 2020000,
+		"Value": "Red cloth blindfold used to cover prisoners' eyes"
+	},
+	{
+		"Id": 2030000,
+		"Value": "Sorcerer's robe, dyed in a beautiful cerulean hue"
+	}
+]

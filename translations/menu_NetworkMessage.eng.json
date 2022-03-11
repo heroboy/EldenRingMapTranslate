@@ -1,0 +1,1098 @@
+[
+	{
+		"Id": 2120000,
+		"Value": "Summon this cooperator?"
+	},
+	{
+		"Id": 2120100,
+		"Value": "Summon this adversary?"
+	},
+	{
+		"Id": 2120200,
+		"Value": "Hunters from other worlds will be automatically summoned to rescue\nyou when your world is invaded"
+	},
+	{
+		"Id": 2120201,
+		"Value": "Hunters will no longer be summoned automatically"
+	},
+	{
+		"Id": 2120210,
+		"Value": "You will now respond to calls for rescue from other worlds"
+	},
+	{
+		"Id": 2120211,
+		"Value": "You are no longer responding to calls for rescue from other worlds"
+	},
+	{
+		"Id": 2121000,
+		"Value": "Cancel summon sign?"
+	},
+	{
+		"Id": 2200000,
+		"Value": "Your summon sign disappeared"
+	},
+	{
+		"Id": 2200200,
+		"Value": "Invasion canceled"
+	},
+	{
+		"Id": 2200300,
+		"Value": "Finger Remedy effects wore off"
+	},
+	{
+		"Id": 2210000,
+		"Value": "Failed to create summon sign"
+	},
+	{
+		"Id": 2300000,
+		"Value": "Summoning cooperator..."
+	},
+	{
+		"Id": 2300010,
+		"Value": "Summoning cooperator..."
+	},
+	{
+		"Id": 2300100,
+		"Value": "Summoning adversary..."
+	},
+	{
+		"Id": 2301000,
+		"Value": "You are being summoned to another world..."
+	},
+	{
+		"Id": 2301100,
+		"Value": "You are being summoned to another world..."
+	},
+	{
+		"Id": 2301200,
+		"Value": "Invading another world..."
+	},
+	{
+		"Id": 2301210,
+		"Value": "Invading another world..."
+	},
+	{
+		"Id": 2301304,
+		"Value": "You are being summoned to another world..."
+	},
+	{
+		"Id": 2302000,
+		"Value": "Summoning another cooperator..."
+	},
+	{
+		"Id": 2302010,
+		"Value": "Summoning another cooperator..."
+	},
+	{
+		"Id": 2302100,
+		"Value": "Summoning another adversary..."
+	},
+	{
+		"Id": 2311000,
+		"Value": "Being summoned to another world as a cooperator..."
+	},
+	{
+		"Id": 2311100,
+		"Value": "Being summoned to another world as an adversary..."
+	},
+	{
+		"Id": 2311200,
+		"Value": "Invading another world..."
+	},
+	{
+		"Id": 2311210,
+		"Value": "Invading another world..."
+	},
+	{
+		"Id": 2311304,
+		"Value": "Being summoned to another world as a hunter..."
+	},
+	{
+		"Id": 2331200,
+		"Value": "Attempting to invade another world..."
+	},
+	{
+		"Id": 2331201,
+		"Value": "Searching for world to be summoned to as an ally..."
+	},
+	{
+		"Id": 2331202,
+		"Value": "Requesting the summons of a Broken Finger Stalker"
+	},
+	{
+		"Id": 2331210,
+		"Value": "Attempting to invade another world..."
+	},
+	{
+		"Id": 2331300,
+		"Value": "Sending co-op sign to summoning pool"
+	},
+	{
+		"Id": 2331301,
+		"Value": "Sending hostile sign to summoning pool"
+	},
+	{
+		"Id": 2410000,
+		"Value": "Could not summon cooperator.\nCooperator was unable to join session."
+	},
+	{
+		"Id": 2410100,
+		"Value": "Could not summon adversary.\nAdversary was unable to join session."
+	},
+	{
+		"Id": 2411000,
+		"Value": "Summoning aborted.\nUnable to join session."
+	},
+	{
+		"Id": 2411100,
+		"Value": "Summoning aborted.\nUnable to join session."
+	},
+	{
+		"Id": 2411200,
+		"Value": "Could not invade.\nUnable to join session."
+	},
+	{
+		"Id": 2411210,
+		"Value": "Could not invade.\nUnable to join session."
+	},
+	{
+		"Id": 2411304,
+		"Value": "Summoning aborted.\nUnable to join session."
+	},
+	{
+		"Id": 2450000,
+		"Value": "Summoning of cooperator aborted.\nCooperator died in their world."
+	},
+	{
+		"Id": 2450100,
+		"Value": "Summoning of adversary aborted.\nAdversary died in their world."
+	},
+	{
+		"Id": 2460000,
+		"Value": "Unable to summon cooperator due to\ntime out"
+	},
+	{
+		"Id": 2460100,
+		"Value": "Unable to summon adversary due to\ntime out"
+	},
+	{
+		"Id": 2461000,
+		"Value": "Summoning aborted due to\ntime out"
+	},
+	{
+		"Id": 2461100,
+		"Value": "Summoning aborted due to\ntime out"
+	},
+	{
+		"Id": 2461200,
+		"Value": "Invasion aborted due to\ntime out"
+	},
+	{
+		"Id": 2461210,
+		"Value": "Invasion aborted due to\ntime out"
+	},
+	{
+		"Id": 2461304,
+		"Value": "Summoning aborted due to\ntime out"
+	},
+	{
+		"Id": 2490000,
+		"Value": "Unable to summon cooperator"
+	},
+	{
+		"Id": 2490100,
+		"Value": "Unable to summon adversary"
+	},
+	{
+		"Id": 2491000,
+		"Value": "Unable to be summoned"
+	},
+	{
+		"Id": 2491100,
+		"Value": "Unable to be summoned"
+	},
+	{
+		"Id": 2491200,
+		"Value": "Unable to invade"
+	},
+	{
+		"Id": 2491210,
+		"Value": "Unable to invade"
+	},
+	{
+		"Id": 2491304,
+		"Value": "Unable to be summoned"
+	},
+	{
+		"Id": 2510000,
+		"Value": "Could not summon cooperator.\nFailed to create session."
+	},
+	{
+		"Id": 2510100,
+		"Value": "Could not summon adversary.\nFailed to create session."
+	},
+	{
+		"Id": 2521000,
+		"Value": "Unable to be summoned.\nFailed to join session."
+	},
+	{
+		"Id": 2521100,
+		"Value": "Unable to be summoned.\nFailed to join session."
+	},
+	{
+		"Id": 2521200,
+		"Value": "Could not invade.\nFailed to join session."
+	},
+	{
+		"Id": 2521210,
+		"Value": "Could not invade.\nFailed to join session."
+	},
+	{
+		"Id": 2521304,
+		"Value": "Unable to be summoned.\nFailed to join session."
+	},
+	{
+		"Id": 2600000,
+		"Value": "Furled Finger <?joinName?> summoned as a cooperator"
+	},
+	{
+		"Id": 2600010,
+		"Value": "<?joinName?> summoned as a cooperator"
+	},
+	{
+		"Id": 2600100,
+		"Value": "Duelist <?joinName?> summoned as an adversary"
+	},
+	{
+		"Id": 2600200,
+		"Value": "Invaded by Bloody Finger <?joinName?>!"
+	},
+	{
+		"Id": 2600210,
+		"Value": "Invaded by Recusant <?joinName?>!"
+	},
+	{
+		"Id": 2600220,
+		"Value": "Invaded by <?joinName?>!"
+	},
+	{
+		"Id": 2600230,
+		"Value": "Invaded by <?joinName?>!"
+	},
+	{
+		"Id": 2600240,
+		"Value": "Invaded by <?joinName?>!"
+	},
+	{
+		"Id": 2600304,
+		"Value": "Hunter <?joinName?> summoned"
+	},
+	{
+		"Id": 2601000,
+		"Value": "Summoned as a Furled Finger cooperator.\nHelp <?hostName?>, Host of Fingers,\ndefeat the area boss!"
+	},
+	{
+		"Id": 2601100,
+		"Value": "Summoned as a duelist adversary.\nDefeat <?hostName?>, Host of Fingers!"
+	},
+	{
+		"Id": 2601200,
+		"Value": "Invading another world.\nDefeat <?hostName?>, Host of Fingers!"
+	},
+	{
+		"Id": 2601210,
+		"Value": "Invading another world.\nDefeat <?hostName?>, Host of Fingers!"
+	},
+	{
+		"Id": 2601304,
+		"Value": "Summoned to the world of <?hostName?>,\nHost of Fingers, as a hunter.\nHelp them defeat Bloody Finger <?joinName?>!"
+	},
+	{
+		"Id": 2601409,
+		"Value": "Summoned to another world."
+	},
+	{
+		"Id": 2601410,
+		"Value": "Invading another world.\nDefeat <?hostName?>!"
+	},
+	{
+		"Id": 2601411,
+		"Value": "Invading another world.\nDefeat <?hostName?>!"
+	},
+	{
+		"Id": 2601412,
+		"Value": "Invading another world.\nDefeat White Mask Varré!"
+	},
+	{
+		"Id": 2601413,
+		"Value": "Invading another world.\nDefeat Old Knight Istvan!"
+	},
+	{
+		"Id": 2601414,
+		"Value": "Invading another world.\nDefeat Rileigh the Idle!"
+	},
+	{
+		"Id": 2601415,
+		"Value": "Invading another world.\nDefeat Juno Hoslow, Knight of Blood!"
+	},
+	{
+		"Id": 2601416,
+		"Value": "Invading another world.\nDefeat Vargram the Raging Wolf and Errant Sorcerer Wilhelm!"
+	},
+	{
+		"Id": 2601417,
+		"Value": "Invading another world.\nDefeat Great Horned Tragoth!"
+	},
+	{
+		"Id": 2601418,
+		"Value": "Summoned to another world.\nDefeat Bloody Finger Ravenmount Assassin!"
+	},
+	{
+		"Id": 2601419,
+		"Value": "Summoned to another world.\nDefeat Sorceress Sellen!"
+	},
+	{
+		"Id": 2601420,
+		"Value": "Summoned to another world.\nDefeat Witch-Hunter Jerren!"
+	},
+	{
+		"Id": 2601421,
+		"Value": "Summoned to another world.\nDefeat Millicent's sisters!"
+	},
+	{
+		"Id": 2601422,
+		"Value": "Summoned to another world.\nDefeat Millicent!"
+	},
+	{
+		"Id": 2601423,
+		"Value": "You have been ambushed!\nDefeat Ensha of the Royal Remains!"
+	},
+	{
+		"Id": 2602000,
+		"Value": "Furled Finger <?joinName?> summoned as a cooperator"
+	},
+	{
+		"Id": 2602010,
+		"Value": "<?joinName?> summoned as a cooperator"
+	},
+	{
+		"Id": 2602100,
+		"Value": "Duelist <?joinName?> summoned as an adversary"
+	},
+	{
+		"Id": 2602200,
+		"Value": "Invaded by Bloody Finger <?joinName?>!"
+	},
+	{
+		"Id": 2602210,
+		"Value": "Invaded by Recusant <?joinName?>!"
+	},
+	{
+		"Id": 2602220,
+		"Value": "Invaded by <?joinName?>!"
+	},
+	{
+		"Id": 2602230,
+		"Value": "Invaded by <?joinName?>!"
+	},
+	{
+		"Id": 2602240,
+		"Value": "Invaded by <?joinName?>!"
+	},
+	{
+		"Id": 2602250,
+		"Value": "Bloody Finger <?joinName?> has invaded"
+	},
+	{
+		"Id": 2602260,
+		"Value": "Recusant <?joinName?> has invaded"
+	},
+	{
+		"Id": 2602270,
+		"Value": "<?joinName?> has invaded"
+	},
+	{
+		"Id": 2602280,
+		"Value": "<?joinName?> has invaded"
+	},
+	{
+		"Id": 2602290,
+		"Value": "<?joinName?> has invaded"
+	},
+	{
+		"Id": 2602304,
+		"Value": "Hunter <?joinName?> summoned"
+	},
+	{
+		"Id": 2602354,
+		"Value": "Hunter <?joinName?> summoned"
+	},
+	{
+		"Id": 2610304,
+		"Value": "With their objective accomplished,\nHunter <?leaveName?> returned to their world"
+	},
+	{
+		"Id": 2611000,
+		"Value": "Objective accomplished.\nReturning to your world."
+	},
+	{
+		"Id": 2611010,
+		"Value": "The Host of Fingers accomplished their objective in a distant location.\nReturning to your world."
+	},
+	{
+		"Id": 2611100,
+		"Value": "Host of Fingers defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611200,
+		"Value": "Host of Fingers defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611210,
+		"Value": "Host of Fingers defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611304,
+		"Value": "Invader defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611409,
+		"Value": "Objective accomplished.\nReturning to your world."
+	},
+	{
+		"Id": 2611410,
+		"Value": "Objective accomplished.\nReturning to your world."
+	},
+	{
+		"Id": 2611411,
+		"Value": "Objective accomplished.\nReturning to your world."
+	},
+	{
+		"Id": 2611412,
+		"Value": "White Mask Varré defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611413,
+		"Value": "Old Knight Istvan defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611414,
+		"Value": "Rileigh the Idle defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611415,
+		"Value": "Juno Hoslow, Knight of Blood defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611416,
+		"Value": "Vargram the Raging Wolf and Errant Sorcerer Wilhelm defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611417,
+		"Value": "Great Horned Tragoth defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611418,
+		"Value": "Bloody Finger Ravenmount Assassin defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611419,
+		"Value": "Sorceress Sellen defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611420,
+		"Value": "Witch-Hunter Jerren defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611421,
+		"Value": "Millicent's sisters defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611422,
+		"Value": "Millicent defeated.\nReturning to your world."
+	},
+	{
+		"Id": 2611423,
+		"Value": "Defeated Ensha of the Royal Remains."
+	},
+	{
+		"Id": 2612304,
+		"Value": "With their objective accomplished,\nHunter <?leaveName?> returned to their world"
+	},
+	{
+		"Id": 2620000,
+		"Value": "Furled Finger <?deadName?> has died"
+	},
+	{
+		"Id": 2620010,
+		"Value": "<?deadName?> has died"
+	},
+	{
+		"Id": 2620100,
+		"Value": "Duelist <?deadName?> has died"
+	},
+	{
+		"Id": 2620200,
+		"Value": "Bloody Finger <?deadName?> has died"
+	},
+	{
+		"Id": 2620210,
+		"Value": "Recusant <?deadName?> has died"
+	},
+	{
+		"Id": 2620220,
+		"Value": "<?deadName?> has died"
+	},
+	{
+		"Id": 2620230,
+		"Value": "<?deadName?> has died"
+	},
+	{
+		"Id": 2620240,
+		"Value": "<?deadName?> has died"
+	},
+	{
+		"Id": 2620304,
+		"Value": "Hunter <?deadName?> has died"
+	},
+	{
+		"Id": 2621000,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621100,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621200,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621210,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621304,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621409,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621410,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621411,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621412,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621413,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621414,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621415,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621416,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621417,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621418,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621419,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621420,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621421,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621422,
+		"Value": "You died. Returning to your world."
+	},
+	{
+		"Id": 2621423,
+		"Value": "You died"
+	},
+	{
+		"Id": 2622000,
+		"Value": "Furled Finger <?deadName?> has died"
+	},
+	{
+		"Id": 2622010,
+		"Value": "<?deadName?> has died"
+	},
+	{
+		"Id": 2622100,
+		"Value": "Duelist <?deadName?> has died"
+	},
+	{
+		"Id": 2622200,
+		"Value": "Bloody Finger <?deadName?> has died"
+	},
+	{
+		"Id": 2622210,
+		"Value": "Recusant <?deadName?> has died"
+	},
+	{
+		"Id": 2622220,
+		"Value": "<?deadName?> has died"
+	},
+	{
+		"Id": 2622230,
+		"Value": "<?deadName?> has died"
+	},
+	{
+		"Id": 2622240,
+		"Value": "<?deadName?> has died"
+	},
+	{
+		"Id": 2622304,
+		"Value": "Hunter <?deadName?> has died"
+	},
+	{
+		"Id": 2630000,
+		"Value": "Furled Finger <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2630010,
+		"Value": "<?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2630100,
+		"Value": "Duelist <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2630200,
+		"Value": "Bloody Finger <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2630210,
+		"Value": "Recusant <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2630220,
+		"Value": "<?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2630230,
+		"Value": "<?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2630240,
+		"Value": "<?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2630304,
+		"Value": "Hunter <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2631000,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631100,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631200,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631210,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631304,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631409,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631410,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631411,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631412,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631413,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631414,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631415,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631416,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631417,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631418,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631419,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631420,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631421,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2631422,
+		"Value": "Returning to your world"
+	},
+	{
+		"Id": 2632000,
+		"Value": "Furled Finger <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2632010,
+		"Value": "<?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2632100,
+		"Value": "Duelist <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2632200,
+		"Value": "Bloody Finger <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2632210,
+		"Value": "Recusant <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2632220,
+		"Value": "<?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2632230,
+		"Value": "<?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2632240,
+		"Value": "<?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2632304,
+		"Value": "Hunter <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2640000,
+		"Value": "Furled Finger <?leaveName?> was sent back to their world"
+	},
+	{
+		"Id": 2640010,
+		"Value": "<?leaveName?> was sent back to their world"
+	},
+	{
+		"Id": 2640304,
+		"Value": "Hunter <?leaveName?> was sent back to their world"
+	},
+	{
+		"Id": 2640305,
+		"Value": "Duelist <?leaveName?> was sent back to their world"
+	},
+	{
+		"Id": 2641000,
+		"Value": "Sent home by the Host of Fingers.\nReturning to your world."
+	},
+	{
+		"Id": 2641304,
+		"Value": "Sent home by the Host of Fingers.\nReturning to your world."
+	},
+	{
+		"Id": 2641305,
+		"Value": "Sent home by the Host of Fingers.\nReturning to your world."
+	},
+	{
+		"Id": 2642000,
+		"Value": "Furled Finger <?leaveName?> has been sent back to their world"
+	},
+	{
+		"Id": 2642010,
+		"Value": "<?leaveName?> has been sent back to their world"
+	},
+	{
+		"Id": 2642304,
+		"Value": "Hunter <?leaveName?> has been sent back to their world"
+	},
+	{
+		"Id": 2642305,
+		"Value": "Duelist <?leaveName?> has been sent back to their world"
+	},
+	{
+		"Id": 2651000,
+		"Value": "The Host of Fingers has died.\nReturning to your world."
+	},
+	{
+		"Id": 2651304,
+		"Value": "The Host of Fingers has died.\nReturning to your world."
+	},
+	{
+		"Id": 2651420,
+		"Value": "Sorceress Sellen has died.\nReturning to your world."
+	},
+	{
+		"Id": 2651421,
+		"Value": "Millicent has died.\nReturning to your world."
+	},
+	{
+		"Id": 2661000,
+		"Value": "You may now challenge the area boss"
+	},
+	{
+		"Id": 2661100,
+		"Value": "The Host of Fingers has begun fighting the area boss.\nReturning to your world."
+	},
+	{
+		"Id": 2661200,
+		"Value": "The Host of Fingers has begun fighting the area boss.\nReturning to your world."
+	},
+	{
+		"Id": 2661205,
+		"Value": "The Host of Fingers has begun fighting the area boss.\nReturning to your world."
+	},
+	{
+		"Id": 2661210,
+		"Value": "The Host of Fingers has accomplished their objective.\nReturning to your world."
+	},
+	{
+		"Id": 2661220,
+		"Value": "The Host of Fingers has accomplished their objective.\nReturning to your world."
+	},
+	{
+		"Id": 2661225,
+		"Value": "The Host of Fingers has accomplished their objective.\nReturning to your world."
+	},
+	{
+		"Id": 2661304,
+		"Value": "The Host of Fingers has begun fighting the area boss.\nReturning to your world."
+	},
+	{
+		"Id": 2670304,
+		"Value": "Hunter <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2672304,
+		"Value": "Hunter <?leaveName?> has returned to their world"
+	},
+	{
+		"Id": 2681100,
+		"Value": "The Host of Fingers has left the area. Returning to your world."
+	},
+	{
+		"Id": 2701000,
+		"Value": "A connection error occurred.\nReturning to your world."
+	},
+	{
+		"Id": 2701100,
+		"Value": "A connection error occurred.\nReturning to your world."
+	},
+	{
+		"Id": 2701200,
+		"Value": "A connection error occurred.\nReturning to your world."
+	},
+	{
+		"Id": 2701210,
+		"Value": "A connection error occurred.\nReturning to your world."
+	},
+	{
+		"Id": 2701304,
+		"Value": "A connection error occurred.\nReturning to your world."
+	},
+	{
+		"Id": 2712200,
+		"Value": "Bloody Finger <?deadName?> defeated.\nObjective accomplished. Returning to your world."
+	},
+	{
+		"Id": 2712210,
+		"Value": "Recusant <?deadName?> defeated.\nObjective accomplished. Returning to your world."
+	},
+	{
+		"Id": 2712220,
+		"Value": "Defeated <?deadName?>.\nObjective accomplished. Returning to your world."
+	},
+	{
+		"Id": 2712230,
+		"Value": "Defeated <?deadName?>.\nObjective accomplished. Returning to your world."
+	},
+	{
+		"Id": 2712240,
+		"Value": "Defeated <?deadName?>.\nObjective accomplished. Returning to your world."
+	},
+	{
+		"Id": 2722200,
+		"Value": "Bloody Finger <?leaveName?> has returned to their world.\nObjective accomplished. Returning to your world."
+	},
+	{
+		"Id": 2722210,
+		"Value": "Recusant <?leaveName?> has returned to their world.\nObjective accomplished. Returning to your world."
+	},
+	{
+		"Id": 2722220,
+		"Value": "<?leaveName?> has returned to their world.\nReturning to your world."
+	},
+	{
+		"Id": 2722230,
+		"Value": "<?leaveName?> has returned to their world.\nReturning to your world."
+	},
+	{
+		"Id": 2722240,
+		"Value": "<?leaveName?> has returned to their world.\nReturning to your world."
+	},
+	{
+		"Id": 2741000,
+		"Value": "The Host of Fingers has left the area. Returning to your world."
+	},
+	{
+		"Id": 2741100,
+		"Value": "The Host of Fingers has left the area. Returning to your world."
+	},
+	{
+		"Id": 2741200,
+		"Value": "The Host of Fingers has left the area. Returning to your world."
+	},
+	{
+		"Id": 2741210,
+		"Value": "The Host of Fingers has left the area. Returning to your world."
+	},
+	{
+		"Id": 2741304,
+		"Value": "The Host of Fingers has left the area. Returning to your world."
+	},
+	{
+		"Id": 2920000,
+		"Value": "You are beyond the boundaries of the\nmultiplayer area. Returning inside."
+	},
+	{
+		"Id": 3000000,
+		"Value": "Message was appraised"
+	},
+	{
+		"Id": 3000001,
+		"Value": "Failed to create message due to network error"
+	},
+	{
+		"Id": 3000100,
+		"Value": "This summoning pool is now functional"
+	},
+	{
+		"Id": 3000200,
+		"Value": "<?codenameIcon?><?codenamePCName?> defeated the shardbearer!"
+	},
+	{
+		"Id": 3000201,
+		"Value": "Someone in the <?codenameIcon?> group\ndefeated the shardbearer!"
+	},
+	{
+		"Id": 3000202,
+		"Value": "Someone in your group has accomplished something remarkable!"
+	},
+	{
+		"Id": 3000210,
+		"Value": "<?codenameIcon?><?codenamePCName?> has become the Elden Lord"
+	},
+	{
+		"Id": 3000211,
+		"Value": "Someone in the <?codenameIcon?> group has become the Elden Lord"
+	},
+	{
+		"Id": 3000220,
+		"Value": "<?codenameIcon?><?codenamePCName?> has become the Elden Lord"
+	},
+	{
+		"Id": 3000221,
+		"Value": "Someone in the <?codenameIcon?> group has become the Elden Lord"
+	},
+	{
+		"Id": 3000230,
+		"Value": "<?codenameIcon?><?codenamePCName?> has become the Elden Lord"
+	},
+	{
+		"Id": 3000231,
+		"Value": "Someone in the <?codenameIcon?> group has become the Elden Lord"
+	},
+	{
+		"Id": 3000240,
+		"Value": "<?codenameIcon?><?codenamePCName?> has become the Elden Lord"
+	},
+	{
+		"Id": 3000241,
+		"Value": "Someone in the <?codenameIcon?> group has become the Elden Lord"
+	},
+	{
+		"Id": 3000250,
+		"Value": "<?codenameIcon?><?codenamePCName?> has become a Lord"
+	},
+	{
+		"Id": 3000251,
+		"Value": "Someone in the <?codenameIcon?> group has become a Lord"
+	},
+	{
+		"Id": 3000260,
+		"Value": "<?codenameIcon?><?codenamePCName?> has become a Lord"
+	},
+	{
+		"Id": 3000261,
+		"Value": "Someone in the <?codenameIcon?> group has become a Lord"
+	},
+	{
+		"Id": 3000270,
+		"Value": "<?codenameIcon?><?codenamePCName?> has become a Lord"
+	},
+	{
+		"Id": 3000271,
+		"Value": "Someone in the <?codenameIcon?> group has become a Lord"
+	},
+	{
+		"Id": 3000280,
+		"Value": "<?codenameIcon?><?codenamePCName?> has become a Lord"
+	},
+	{
+		"Id": 3000281,
+		"Value": "Someone in the <?codenameIcon?> group has become a Lord"
+	}
+]
