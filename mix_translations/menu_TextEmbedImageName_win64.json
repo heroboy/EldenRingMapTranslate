@@ -1,0 +1,717 @@
+[
+	{
+		"id": 2001,
+		"eng": "KG_R_R",
+		"chn": "KG_R_R"
+	},
+	{
+		"id": 2002,
+		"eng": "KG_R_D",
+		"chn": "KG_R_D"
+	},
+	{
+		"id": 2003,
+		"eng": "KG_L_U",
+		"chn": "KG_L_U"
+	},
+	{
+		"id": 2004,
+		"eng": "KG_L_D",
+		"chn": "KG_L_D"
+	},
+	{
+		"id": 2005,
+		"eng": "KG_L_L",
+		"chn": "KG_L_L"
+	},
+	{
+		"id": 2006,
+		"eng": "KG_L_R",
+		"chn": "KG_L_R"
+	},
+	{
+		"id": 2007,
+		"eng": "KG_L_UD",
+		"chn": "KG_L_UD"
+	},
+	{
+		"id": 2008,
+		"eng": "KG_L_LR",
+		"chn": "KG_L_LR"
+	},
+	{
+		"id": 2009,
+		"eng": "KG_L_UDLR",
+		"chn": "KG_L_UDLR"
+	},
+	{
+		"id": 2010,
+		"eng": "KG_R_U",
+		"chn": "KG_R_U"
+	},
+	{
+		"id": 2011,
+		"eng": "KG_R_L",
+		"chn": "KG_R_L"
+	},
+	{
+		"id": 2012,
+		"eng": "KG_L1",
+		"chn": "KG_L1"
+	},
+	{
+		"id": 2013,
+		"eng": "KG_R1",
+		"chn": "KG_R1"
+	},
+	{
+		"id": 2014,
+		"eng": "KG_L2",
+		"chn": "KG_L2"
+	},
+	{
+		"id": 2015,
+		"eng": "KG_R2",
+		"chn": "KG_R2"
+	},
+	{
+		"id": 2016,
+		"eng": "KG_L3",
+		"chn": "KG_L3"
+	},
+	{
+		"id": 2017,
+		"eng": "KG_R3",
+		"chn": "KG_R3"
+	},
+	{
+		"id": 2018,
+		"eng": "KG_LS",
+		"chn": "KG_LS"
+	},
+	{
+		"id": 2019,
+		"eng": "KG_RS",
+		"chn": "KG_RS"
+	},
+	{
+		"id": 2020,
+		"eng": "KG_Back",
+		"chn": "KG_Back"
+	},
+	{
+		"id": 2021,
+		"eng": "KG_Start",
+		"chn": "KG_Start"
+	},
+	{
+		"id": 2201,
+		"eng": "KG_TEX_Copyright",
+		"chn": "KG_TEX_Copyright"
+	},
+	{
+		"id": 2202,
+		"eng": "KG_TEX_R_mark",
+		"chn": "KG_TEX_R_mark"
+	},
+	{
+		"id": 2203,
+		"eng": "KG_TEX_TradeMark",
+		"chn": "KG_TEX_TradeMark"
+	},
+	{
+		"id": 2205,
+		"eng": "KG_TEX_R_mark_LineHelp",
+		"chn": "KG_TEX_R_mark_LineHelp"
+	},
+	{
+		"id": 712010,
+		"eng": "KG_Mouse_Left",
+		"chn": "KG_Mouse_Left"
+	},
+	{
+		"id": 712011,
+		"eng": "KG_Mouse_Right",
+		"chn": "KG_Mouse_Right"
+	},
+	{
+		"id": 712014,
+		"eng": "KG_Mouse_Wheel_U",
+		"chn": "KG_Mouse_Wheel_U"
+	},
+	{
+		"id": 712015,
+		"eng": "KG_Mouse_Wheel_D",
+		"chn": "KG_Mouse_Wheel_D"
+	},
+	{
+		"id": 712016,
+		"eng": "KG_Mouse_Middle",
+		"chn": "KG_Mouse_Middle"
+	},
+	{
+		"id": 712020,
+		"eng": "KG_Mouse_Button_4",
+		"chn": "KG_Mouse_Button_4"
+	},
+	{
+		"id": 712021,
+		"eng": "KG_Mouse_Button_5",
+		"chn": "KG_Mouse_Button_5"
+	},
+	{
+		"id": 712022,
+		"eng": "KG_Mouse_Button_6",
+		"chn": "KG_Mouse_Button_6"
+	},
+	{
+		"id": 712023,
+		"eng": "KG_Mouse_Button_7",
+		"chn": "KG_Mouse_Button_7"
+	},
+	{
+		"id": 712024,
+		"eng": "KG_Mouse_Button_8",
+		"chn": "KG_Mouse_Button_8"
+	},
+	{
+		"id": 712025,
+		"eng": "KG_Mouse_UDLR",
+		"chn": "KG_Mouse_UDLR"
+	},
+	{
+		"id": 712100,
+		"eng": "KG_Key_BackSpace",
+		"chn": "KG_Key_BackSpace"
+	},
+	{
+		"id": 712101,
+		"eng": "KG_Key_Tab",
+		"chn": "KG_Key_Tab"
+	},
+	{
+		"id": 712102,
+		"eng": "KG_Key_Enter",
+		"chn": "KG_Key_Enter"
+	},
+	{
+		"id": 712103,
+		"eng": "KG_Key_Shift",
+		"chn": "KG_Key_Shift"
+	},
+	{
+		"id": 712104,
+		"eng": "KG_Key_Shift_L",
+		"chn": "KG_Key_Shift_L"
+	},
+	{
+		"id": 712105,
+		"eng": "KG_Key_Shift_R",
+		"chn": "KG_Key_Shift_R"
+	},
+	{
+		"id": 712106,
+		"eng": "KG_Key_Ctrl",
+		"chn": "KG_Key_Ctrl"
+	},
+	{
+		"id": 712107,
+		"eng": "KG_Key_Ctrl_L",
+		"chn": "KG_Key_Ctrl_L"
+	},
+	{
+		"id": 712108,
+		"eng": "KG_Key_Ctrl_R",
+		"chn": "KG_Key_Ctrl_R"
+	},
+	{
+		"id": 712109,
+		"eng": "KG_Key_Alt",
+		"chn": "KG_Key_Alt"
+	},
+	{
+		"id": 712110,
+		"eng": "KG_Key_Alt_L",
+		"chn": "KG_Key_Alt_L"
+	},
+	{
+		"id": 712111,
+		"eng": "KG_Key_Alt_R",
+		"chn": "KG_Key_Alt_R"
+	},
+	{
+		"id": 712112,
+		"eng": "KG_Key_Alt_LR",
+		"chn": "KG_Key_Alt_LR"
+	},
+	{
+		"id": 712113,
+		"eng": "KG_Key_AltGr",
+		"chn": "KG_Key_AltGr"
+	},
+	{
+		"id": 712114,
+		"eng": "KG_Key_CapsLock",
+		"chn": "KG_Key_CapsLock"
+	},
+	{
+		"id": 712115,
+		"eng": "KG_Key_Esc",
+		"chn": "KG_Key_Esc"
+	},
+	{
+		"id": 712116,
+		"eng": "KG_Key_Space",
+		"chn": "KG_Key_Space"
+	},
+	{
+		"id": 712117,
+		"eng": "KG_Key_PageUp",
+		"chn": "KG_Key_PageUp"
+	},
+	{
+		"id": 712118,
+		"eng": "KG_Key_PageDown",
+		"chn": "KG_Key_PageDown"
+	},
+	{
+		"id": 712119,
+		"eng": "KG_Key_Home",
+		"chn": "KG_Key_Home"
+	},
+	{
+		"id": 712120,
+		"eng": "KG_Key_End",
+		"chn": "KG_Key_End"
+	},
+	{
+		"id": 712121,
+		"eng": "KG_Key_Insert",
+		"chn": "KG_Key_Insert"
+	},
+	{
+		"id": 712122,
+		"eng": "KG_Key_Delete",
+		"chn": "KG_Key_Delete"
+	},
+	{
+		"id": 712150,
+		"eng": "KG_Key_Arrow_L",
+		"chn": "KG_Key_Arrow_L"
+	},
+	{
+		"id": 712151,
+		"eng": "KG_Key_Arrow_U",
+		"chn": "KG_Key_Arrow_U"
+	},
+	{
+		"id": 712152,
+		"eng": "KG_Key_Arrow_R",
+		"chn": "KG_Key_Arrow_R"
+	},
+	{
+		"id": 712153,
+		"eng": "KG_Key_Arrow_D",
+		"chn": "KG_Key_Arrow_D"
+	},
+	{
+		"id": 712154,
+		"eng": "KG_Key_Arrow_UD",
+		"chn": "KG_Key_Arrow_UD"
+	},
+	{
+		"id": 712155,
+		"eng": "KG_Key_Arrow_LR",
+		"chn": "KG_Key_Arrow_LR"
+	},
+	{
+		"id": 712156,
+		"eng": "KG_Key_Arrow_UDLR",
+		"chn": "KG_Key_Arrow_UDLR"
+	},
+	{
+		"id": 712200,
+		"eng": "KG_Key_0",
+		"chn": "KG_Key_0"
+	},
+	{
+		"id": 712201,
+		"eng": "KG_Key_1",
+		"chn": "KG_Key_1"
+	},
+	{
+		"id": 712202,
+		"eng": "KG_Key_2",
+		"chn": "KG_Key_2"
+	},
+	{
+		"id": 712203,
+		"eng": "KG_Key_3",
+		"chn": "KG_Key_3"
+	},
+	{
+		"id": 712204,
+		"eng": "KG_Key_4",
+		"chn": "KG_Key_4"
+	},
+	{
+		"id": 712205,
+		"eng": "KG_Key_5",
+		"chn": "KG_Key_5"
+	},
+	{
+		"id": 712206,
+		"eng": "KG_Key_6",
+		"chn": "KG_Key_6"
+	},
+	{
+		"id": 712207,
+		"eng": "KG_Key_7",
+		"chn": "KG_Key_7"
+	},
+	{
+		"id": 712208,
+		"eng": "KG_Key_8",
+		"chn": "KG_Key_8"
+	},
+	{
+		"id": 712209,
+		"eng": "KG_Key_9",
+		"chn": "KG_Key_9"
+	},
+	{
+		"id": 712210,
+		"eng": "KG_Key_A",
+		"chn": "KG_Key_A"
+	},
+	{
+		"id": 712211,
+		"eng": "KG_Key_B",
+		"chn": "KG_Key_B"
+	},
+	{
+		"id": 712212,
+		"eng": "KG_Key_C",
+		"chn": "KG_Key_C"
+	},
+	{
+		"id": 712213,
+		"eng": "KG_Key_D",
+		"chn": "KG_Key_D"
+	},
+	{
+		"id": 712214,
+		"eng": "KG_Key_E",
+		"chn": "KG_Key_E"
+	},
+	{
+		"id": 712215,
+		"eng": "KG_Key_F",
+		"chn": "KG_Key_F"
+	},
+	{
+		"id": 712216,
+		"eng": "KG_Key_G",
+		"chn": "KG_Key_G"
+	},
+	{
+		"id": 712217,
+		"eng": "KG_Key_H",
+		"chn": "KG_Key_H"
+	},
+	{
+		"id": 712218,
+		"eng": "KG_Key_I",
+		"chn": "KG_Key_I"
+	},
+	{
+		"id": 712219,
+		"eng": "KG_Key_J",
+		"chn": "KG_Key_J"
+	},
+	{
+		"id": 712220,
+		"eng": "KG_Key_K",
+		"chn": "KG_Key_K"
+	},
+	{
+		"id": 712221,
+		"eng": "KG_Key_L",
+		"chn": "KG_Key_L"
+	},
+	{
+		"id": 712222,
+		"eng": "KG_Key_M",
+		"chn": "KG_Key_M"
+	},
+	{
+		"id": 712223,
+		"eng": "KG_Key_N",
+		"chn": "KG_Key_N"
+	},
+	{
+		"id": 712224,
+		"eng": "KG_Key_O",
+		"chn": "KG_Key_O"
+	},
+	{
+		"id": 712225,
+		"eng": "KG_Key_P",
+		"chn": "KG_Key_P"
+	},
+	{
+		"id": 712226,
+		"eng": "KG_Key_Q",
+		"chn": "KG_Key_Q"
+	},
+	{
+		"id": 712227,
+		"eng": "KG_Key_R",
+		"chn": "KG_Key_R"
+	},
+	{
+		"id": 712228,
+		"eng": "KG_Key_S",
+		"chn": "KG_Key_S"
+	},
+	{
+		"id": 712229,
+		"eng": "KG_Key_T",
+		"chn": "KG_Key_T"
+	},
+	{
+		"id": 712230,
+		"eng": "KG_Key_U",
+		"chn": "KG_Key_U"
+	},
+	{
+		"id": 712231,
+		"eng": "KG_Key_V",
+		"chn": "KG_Key_V"
+	},
+	{
+		"id": 712232,
+		"eng": "KG_Key_W",
+		"chn": "KG_Key_W"
+	},
+	{
+		"id": 712233,
+		"eng": "KG_Key_X",
+		"chn": "KG_Key_X"
+	},
+	{
+		"id": 712234,
+		"eng": "KG_Key_Y",
+		"chn": "KG_Key_Y"
+	},
+	{
+		"id": 712235,
+		"eng": "KG_Key_Z",
+		"chn": "KG_Key_Z"
+	},
+	{
+		"id": 712250,
+		"eng": "KG_Key_Comma",
+		"chn": "KG_Key_Comma"
+	},
+	{
+		"id": 712251,
+		"eng": "KG_Key_Period",
+		"chn": "KG_Key_Period"
+	},
+	{
+		"id": 712252,
+		"eng": "KG_Key_Semicolon",
+		"chn": "KG_Key_Semicolon"
+	},
+	{
+		"id": 712253,
+		"eng": "KG_Key_Apostrophe",
+		"chn": "KG_Key_Apostrophe"
+	},
+	{
+		"id": 712260,
+		"eng": "KG_Key_WASD",
+		"chn": "KG_Key_WASD"
+	},
+	{
+		"id": 712261,
+		"eng": "KG_Key_WS",
+		"chn": "KG_Key_WS"
+	},
+	{
+		"id": 712262,
+		"eng": "KG_Key_AD",
+		"chn": "KG_Key_AD"
+	},
+	{
+		"id": 712270,
+		"eng": "KG_Key_ZQSD",
+		"chn": "KG_Key_ZQSD"
+	},
+	{
+		"id": 712271,
+		"eng": "KG_Key_ZS",
+		"chn": "KG_Key_ZS"
+	},
+	{
+		"id": 712272,
+		"eng": "KG_Key_QD",
+		"chn": "KG_Key_QD"
+	},
+	{
+		"id": 712280,
+		"eng": "KG_Key_CommaAQE",
+		"chn": "KG_Key_CommaAQE"
+	},
+	{
+		"id": 712281,
+		"eng": "KG_Key_CommaQ",
+		"chn": "KG_Key_CommaQ"
+	},
+	{
+		"id": 712282,
+		"eng": "KG_Key_AE",
+		"chn": "KG_Key_AE"
+	},
+	{
+		"id": 712310,
+		"eng": "KG_Key_Num_0",
+		"chn": "KG_Key_Num_0"
+	},
+	{
+		"id": 712311,
+		"eng": "KG_Key_Num_1",
+		"chn": "KG_Key_Num_1"
+	},
+	{
+		"id": 712312,
+		"eng": "KG_Key_Num_2",
+		"chn": "KG_Key_Num_2"
+	},
+	{
+		"id": 712313,
+		"eng": "KG_Key_Num_3",
+		"chn": "KG_Key_Num_3"
+	},
+	{
+		"id": 712314,
+		"eng": "KG_Key_Num_4",
+		"chn": "KG_Key_Num_4"
+	},
+	{
+		"id": 712315,
+		"eng": "KG_Key_Num_5",
+		"chn": "KG_Key_Num_5"
+	},
+	{
+		"id": 712316,
+		"eng": "KG_Key_Num_6",
+		"chn": "KG_Key_Num_6"
+	},
+	{
+		"id": 712317,
+		"eng": "KG_Key_Num_7",
+		"chn": "KG_Key_Num_7"
+	},
+	{
+		"id": 712318,
+		"eng": "KG_Key_Num_8",
+		"chn": "KG_Key_Num_8"
+	},
+	{
+		"id": 712319,
+		"eng": "KG_Key_Num_9",
+		"chn": "KG_Key_Num_9"
+	},
+	{
+		"id": 712320,
+		"eng": "KG_Key_Num_Enter",
+		"chn": "KG_Key_Num_Enter"
+	},
+	{
+		"id": 712323,
+		"eng": "KG_Key_Num_Slash",
+		"chn": "KG_Key_Num_Slash"
+	},
+	{
+		"id": 712324,
+		"eng": "KG_Key_Num_Asterisk",
+		"chn": "KG_Key_Num_Asterisk"
+	},
+	{
+		"id": 712325,
+		"eng": "KG_Key_Num_Minus",
+		"chn": "KG_Key_Num_Minus"
+	},
+	{
+		"id": 712326,
+		"eng": "KG_Key_Num_Plus",
+		"chn": "KG_Key_Num_Plus"
+	},
+	{
+		"id": 712327,
+		"eng": "KG_Key_Num_Period",
+		"chn": "KG_Key_Num_Period"
+	},
+	{
+		"id": 712401,
+		"eng": "KG_Key_F1",
+		"chn": "KG_Key_F1"
+	},
+	{
+		"id": 712402,
+		"eng": "KG_Key_F2",
+		"chn": "KG_Key_F2"
+	},
+	{
+		"id": 712403,
+		"eng": "KG_Key_F3",
+		"chn": "KG_Key_F3"
+	},
+	{
+		"id": 712404,
+		"eng": "KG_Key_F4",
+		"chn": "KG_Key_F4"
+	},
+	{
+		"id": 712405,
+		"eng": "KG_Key_F5",
+		"chn": "KG_Key_F5"
+	},
+	{
+		"id": 712406,
+		"eng": "KG_Key_F6",
+		"chn": "KG_Key_F6"
+	},
+	{
+		"id": 712407,
+		"eng": "KG_Key_F7",
+		"chn": "KG_Key_F7"
+	},
+	{
+		"id": 712408,
+		"eng": "KG_Key_F8",
+		"chn": "KG_Key_F8"
+	},
+	{
+		"id": 712409,
+		"eng": "KG_Key_F9",
+		"chn": "KG_Key_F9"
+	},
+	{
+		"id": 712410,
+		"eng": "KG_Key_F10",
+		"chn": "KG_Key_F10"
+	},
+	{
+		"id": 712411,
+		"eng": "KG_Key_F11",
+		"chn": "KG_Key_F11"
+	},
+	{
+		"id": 712412,
+		"eng": "KG_Key_F12",
+		"chn": "KG_Key_F12"
+	}
+]

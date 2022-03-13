@@ -1,0 +1,1827 @@
+[
+	{
+		"id": 110000,
+		"eng": "Melina",
+		"chn": "梅琳娜"
+	},
+	{
+		"id": 110200,
+		"eng": "Finger Reader Enia",
+		"chn": "“解指”恩雅"
+	},
+	{
+		"id": 110400,
+		"eng": "The Two Fingers",
+		"chn": "双指"
+	},
+	{
+		"id": 110600,
+		"eng": "Ranni the Witch",
+		"chn": "魔女菈妮"
+	},
+	{
+		"id": 110610,
+		"eng": "Renna the Witch",
+		"chn": "魔女蕾娜"
+	},
+	{
+		"id": 111000,
+		"eng": "Primeval Sorcerer Lusat",
+		"chn": "“起源魔法师”卢瑟特"
+	},
+	{
+		"id": 111100,
+		"eng": "Primeval Sorcerer Azur",
+		"chn": "“起源魔法师”亚兹勒"
+	},
+	{
+		"id": 111200,
+		"eng": "The Noble Goldmask",
+		"chn": "金面具"
+	},
+	{
+		"id": 120000,
+		"eng": "Rennala, Queen of the Full Moon",
+		"chn": "“满月女王”蕾娜菈"
+	},
+	{
+		"id": 120200,
+		"eng": "Gurranq, Beast Clergyman",
+		"chn": "“野兽祭司”古兰格"
+	},
+	{
+		"id": 121300,
+		"eng": "Smithing Master Hewg",
+		"chn": "铁匠修古"
+	},
+	{
+		"id": 121600,
+		"eng": "Blaidd the Half-Wolf",
+		"chn": "“半狼”布莱泽"
+	},
+	{
+		"id": 121610,
+		"eng": "Baleful Shadow",
+		"chn": "灾厄影子"
+	},
+	{
+		"id": 121700,
+		"eng": "Pidia, Carian Servant",
+		"chn": "仆人毕迪"
+	},
+	{
+		"id": 121800,
+		"eng": "Asimi, Silver Tear",
+		"chn": "“银色泪滴”阿史米"
+	},
+	{
+		"id": 121810,
+		"eng": "Asimi, Eternal King",
+		"chn": "“永恒之王”阿史米"
+	},
+	{
+		"id": 121900,
+		"eng": "Old Albus",
+		"chn": "艾尔帕斯"
+	},
+	{
+		"id": 122000,
+		"eng": "Alexander, Warrior Jar",
+		"chn": "“战士壶”亚历山大"
+	},
+	{
+		"id": 122300,
+		"eng": "Demi-Human Boc",
+		"chn": "亚人柏克"
+	},
+	{
+		"id": 122310,
+		"eng": "Boc the Seamster",
+		"chn": "裁缝师柏克"
+	},
+	{
+		"id": 122400,
+		"eng": "Smithing Master Iji",
+		"chn": "铁匠伊吉"
+	},
+	{
+		"id": 122401,
+		"eng": "War Counselor Iji",
+		"chn": "军师伊吉"
+	},
+	{
+		"id": 122600,
+		"eng": "Jar-Bairn",
+		"chn": "小壶"
+	},
+	{
+		"id": 122800,
+		"eng": "Latenna the Albinauric",
+		"chn": "白金之子勒缇娜"
+	},
+	{
+		"id": 123000,
+		"eng": "Tanith's Knight",
+		"chn": "塔妮丝的骑士"
+	},
+	{
+		"id": 123300,
+		"eng": "Phillia, Towering Little Sister",
+		"chn": "“庞大妹妹”菲莉亚"
+	},
+	{
+		"id": 130000,
+		"eng": "Tanith, Volcano Manor Proprietress",
+		"chn": "“火山官邸之主”塔妮丝"
+	},
+	{
+		"id": 130100,
+		"eng": "White Mask Varré",
+		"chn": "“白面具”梵雷"
+	},
+	{
+		"id": 130200,
+		"eng": "Gatekeeper Gostoc",
+		"chn": "门卫葛托克"
+	},
+	{
+		"id": 130400,
+		"eng": "Festering Fingerprint Vyke",
+		"chn": "“烧灼指痕”维克"
+	},
+	{
+		"id": 130401,
+		"eng": "Roundtable Knight Vyke",
+		"chn": "“圆桌骑士”维克"
+	},
+	{
+		"id": 130700,
+		"eng": "Preceptor Seluvis",
+		"chn": "魔法教授赛尔维斯"
+	},
+	{
+		"id": 130900,
+		"eng": "Patches",
+		"chn": "帕奇"
+	},
+	{
+		"id": 130901,
+		"eng": "Patches",
+		"chn": "帕奇"
+	},
+	{
+		"id": 131000,
+		"eng": "Irina of Morne",
+		"chn": "摩恩的伊蕾娜"
+	},
+	{
+		"id": 131010,
+		"eng": "Lightseeker Hyetta",
+		"chn": "“探寻灯火”海妲"
+	},
+	{
+		"id": 131011,
+		"eng": "Finger Maiden Hyetta",
+		"chn": "女巫海妲"
+	},
+	{
+		"id": 131100,
+		"eng": "Castellan Edgar",
+		"chn": "城主艾德格"
+	},
+	{
+		"id": 131101,
+		"eng": "Edgar the Revenger",
+		"chn": "“复仇者”艾德格"
+	},
+	{
+		"id": 131200,
+		"eng": "Castellan Jerren",
+		"chn": "城主杰廉"
+	},
+	{
+		"id": 131201,
+		"eng": "Witch-Hunter Jerren",
+		"chn": "“魔女猎人”杰廉"
+	},
+	{
+		"id": 131300,
+		"eng": "Rya the Scout",
+		"chn": "“招募者”菈雅"
+	},
+	{
+		"id": 131310,
+		"eng": "Zorayas the Scout",
+		"chn": "“招募者”泽菈雅丝"
+	},
+	{
+		"id": 131400,
+		"eng": "Knight Diallos",
+		"chn": "骑士狄亚罗斯"
+	},
+	{
+		"id": 131401,
+		"eng": "Potentate Diallos",
+		"chn": "维壶师狄亚罗斯"
+	},
+	{
+		"id": 131600,
+		"eng": "Sorceress Sellen",
+		"chn": "魔法师瑟濂"
+	},
+	{
+		"id": 131800,
+		"eng": "Yura, Hunter of Bloody Fingers",
+		"chn": "“血指猎人”尤拉"
+	},
+	{
+		"id": 131801,
+		"eng": "Shabriri",
+		"chn": "夏玻利利"
+	},
+	{
+		"id": 131900,
+		"eng": "D, Hunter of the Dead",
+		"chn": "“狩猎死亡”Ｄ"
+	},
+	{
+		"id": 131901,
+		"eng": "D, Hunter of the Dead",
+		"chn": "“狩猎死亡”Ｄ"
+	},
+	{
+		"id": 131910,
+		"eng": "D, Hunter of the Dead",
+		"chn": "“狩猎死亡”Ｄ"
+	},
+	{
+		"id": 132000,
+		"eng": "Heartbroken Maiden",
+		"chn": "颓丧的女性"
+	},
+	{
+		"id": 132001,
+		"eng": "Roderika",
+		"chn": "罗德莉卡"
+	},
+	{
+		"id": 132002,
+		"eng": "Roderika, Spirit Tuner",
+		"chn": "调灵师罗德莉卡"
+	},
+	{
+		"id": 132100,
+		"eng": "Kenneth Haight, Limgrave Heir",
+		"chn": "“领主的嫡长子”肯尼斯·海德"
+	},
+	{
+		"id": 132200,
+		"eng": "Fia, Deathbed Companion",
+		"chn": "“死眠少女”菲雅"
+	},
+	{
+		"id": 132300,
+		"eng": "Dung Eater",
+		"chn": "食粪者"
+	},
+	{
+		"id": 132400,
+		"eng": "Sir Gideon Ofnir, the All-Knowing",
+		"chn": "“百智爵士”基甸·奥夫尼尔"
+	},
+	{
+		"id": 132500,
+		"eng": "Sorcerer Rogier",
+		"chn": "魔法师罗杰尔"
+	},
+	{
+		"id": 132501,
+		"eng": "Sorcerer Rogier",
+		"chn": "魔法师罗杰尔"
+	},
+	{
+		"id": 132600,
+		"eng": "Knight Bernahl",
+		"chn": "骑士贝纳尔"
+	},
+	{
+		"id": 132601,
+		"eng": "Recusant Bernahl",
+		"chn": "“叛律者”贝纳尔"
+	},
+	{
+		"id": 132700,
+		"eng": "Eleonora, Violet Bloody Finger",
+		"chn": "“纯紫血指”艾琉诺拉"
+	},
+	{
+		"id": 132900,
+		"eng": "Lionel the Lionhearted",
+		"chn": "“无畏”莱恩尼尔"
+	},
+	{
+		"id": 133000,
+		"eng": "Miriel, Pastor of Vows",
+		"chn": "“结缘牧师”米利耶"
+	},
+	{
+		"id": 133100,
+		"eng": "Blackguard",
+		"chn": "流氓"
+	},
+	{
+		"id": 133101,
+		"eng": "Blackguard",
+		"chn": "流氓"
+	},
+	{
+		"id": 133300,
+		"eng": "Sorcerer Thops",
+		"chn": "魔法师托普斯"
+	},
+	{
+		"id": 133400,
+		"eng": "Nepheli Loux, Warrior",
+		"chn": "战士涅斐丽·露"
+	},
+	{
+		"id": 133401,
+		"eng": "Nepheli Loux, Warrior",
+		"chn": "战士涅斐丽·露"
+	},
+	{
+		"id": 133500,
+		"eng": "Reeling Rico",
+		"chn": "“酒味”里可"
+	},
+	{
+		"id": 133600,
+		"eng": "Vyke's Finger Maiden",
+		"chn": "维克的指头女巫"
+	},
+	{
+		"id": 133800,
+		"eng": "Finger Maiden",
+		"chn": "指头女巫"
+	},
+	{
+		"id": 133900,
+		"eng": "Ensha of the Royal Remains",
+		"chn": "“王骸”恩夏"
+	},
+	{
+		"id": 134000,
+		"eng": "Bloody Finger Ravenmount Assassin",
+		"chn": "“血指”鸦山的杀手"
+	},
+	{
+		"id": 134300,
+		"eng": "Bloody Finger Nerijus",
+		"chn": "“血指”涅利乌斯"
+	},
+	{
+		"id": 134310,
+		"eng": "Sanguine Noble",
+		"chn": "鲜血贵族"
+	},
+	{
+		"id": 134400,
+		"eng": "Great Horned Tragoth",
+		"chn": "“大角”忒拉格斯"
+	},
+	{
+		"id": 134500,
+		"eng": "Old Knight Istvan",
+		"chn": "“古老骑士”伊修托邦"
+	},
+	{
+		"id": 134501,
+		"eng": "Old Knight Istvan",
+		"chn": "“古老骑士”伊修托邦"
+	},
+	{
+		"id": 134600,
+		"eng": "Rileigh the Idle",
+		"chn": "“黄昏将尽”莱利"
+	},
+	{
+		"id": 134700,
+		"eng": "Juno Hoslow, Knight of Blood",
+		"chn": "“血言骑士”尤诺·霍斯劳"
+	},
+	{
+		"id": 134800,
+		"eng": "Millicent",
+		"chn": "米莉森"
+	},
+	{
+		"id": 134900,
+		"eng": "Sage Gowry",
+		"chn": "贤者格威"
+	},
+	{
+		"id": 135100,
+		"eng": "Brother Corhyn",
+		"chn": "圣职人员柯林"
+	},
+	{
+		"id": 135101,
+		"eng": "Scribe Corhyn",
+		"chn": "记录者柯林"
+	},
+	{
+		"id": 135200,
+		"eng": "Preceptor Miriam",
+		"chn": "魔法教授米丽安"
+	},
+	{
+		"id": 135300,
+		"eng": "Anastasia, Tarnished-Eater",
+		"chn": "“吞噬褪色者”安娜塔西亚"
+	},
+	{
+		"id": 135500,
+		"eng": "Okina",
+		"chn": "老翁"
+	},
+	{
+		"id": 135501,
+		"eng": "Bloody Finger Okina",
+		"chn": "“血指”老翁"
+	},
+	{
+		"id": 135600,
+		"eng": "Adan, Thief of Fire",
+		"chn": "“盗火”亚当"
+	},
+	{
+		"id": 135900,
+		"eng": "Moongrum, Carian Knight",
+		"chn": "“卡利亚骑士”穆格拉姆"
+	},
+	{
+		"id": 136000,
+		"eng": "Vargram the Raging Wolf",
+		"chn": "“白狼战鬼”巴格莱姆"
+	},
+	{
+		"id": 136100,
+		"eng": "Fia's Champion",
+		"chn": "菲雅的英雄"
+	},
+	{
+		"id": 136300,
+		"eng": "Finger Maiden Therolina",
+		"chn": "指头女巫瑟萝莉娜"
+	},
+	{
+		"id": 136400,
+		"eng": "Dolores the Sleeping Arrow",
+		"chn": "“深眠之箭”朵罗雷丝"
+	},
+	{
+		"id": 136500,
+		"eng": "Jarwight",
+		"chn": "壶男"
+	},
+	{
+		"id": 136700,
+		"eng": "Inaba, Disciple of Okina",
+		"chn": "“老翁的高徒”稻叶众"
+	},
+	{
+		"id": 136800,
+		"eng": "Silver Tear",
+		"chn": "银色泪滴"
+	},
+	{
+		"id": 136900,
+		"eng": "Recusant Henricus",
+		"chn": "“叛律者”亨利克斯"
+	},
+	{
+		"id": 137000,
+		"eng": "Fia's Champion",
+		"chn": "菲雅的英雄"
+	},
+	{
+		"id": 137100,
+		"eng": "Fia's Champion",
+		"chn": "菲雅的英雄"
+	},
+	{
+		"id": 137200,
+		"eng": "Maleigh Marais, Shaded Castle Castellan",
+		"chn": "“日荫城主”玛雷玛雷"
+	},
+	{
+		"id": 137300,
+		"eng": "Knight of the Great Jar",
+		"chn": "大壶骑士"
+	},
+	{
+		"id": 137400,
+		"eng": "Knight of the Great Jar",
+		"chn": "大壶骑士"
+	},
+	{
+		"id": 137500,
+		"eng": "Knight of the Great Jar",
+		"chn": "大壶骑士"
+	},
+	{
+		"id": 137600,
+		"eng": "Necromancer Garris",
+		"chn": "死术师哥瑞斯"
+	},
+	{
+		"id": 137700,
+		"eng": "Nameless White Mask",
+		"chn": "无名白面具"
+	},
+	{
+		"id": 138000,
+		"eng": "Errant Sorcerer Wilhelm",
+		"chn": "“离群魔法师”维赫勒"
+	},
+	{
+		"id": 138200,
+		"eng": "Chief Guardian Arghanthy",
+		"chn": "“监视者之首”亚冈提"
+	},
+	{
+		"id": 138300,
+		"eng": "Flame Guardian",
+		"chn": "火焰监视者"
+	},
+	{
+		"id": 138400,
+		"eng": "Inquisitor Ghiza",
+		"chn": "拷问官基萨"
+	},
+	{
+		"id": 138500,
+		"eng": "Mad Tongue Alberich",
+		"chn": "“发狂之舌”阿尔佩利希"
+	},
+	{
+		"id": 138600,
+		"eng": "Esgar, Priest of Blood",
+		"chn": "“鲜血祭司”艾斯加"
+	},
+	{
+		"id": 138700,
+		"eng": "Mary, Eldest Sister",
+		"chn": "大姊玛莉"
+	},
+	{
+		"id": 138800,
+		"eng": "Maureen, Second Sister",
+		"chn": "二姊茉莉"
+	},
+	{
+		"id": 138900,
+		"eng": "Amy, Third Sister",
+		"chn": "三姊艾蜜"
+	},
+	{
+		"id": 139000,
+		"eng": "Polyanna, Youngest Sister",
+		"chn": "么妹波莉安娜"
+	},
+	{
+		"id": 160000,
+		"eng": "Twin Maiden Husks",
+		"chn": "孪生老妪"
+	},
+	{
+		"id": 160100,
+		"eng": "Church of Dragon Communion",
+		"chn": "龙飨教堂"
+	},
+	{
+		"id": 160200,
+		"eng": "Smithing Table",
+		"chn": "锻造台"
+	},
+	{
+		"id": 160300,
+		"eng": "Walking Mausoleum Corpse",
+		"chn": "漫步灵庙的尸体"
+	},
+	{
+		"id": 160400,
+		"eng": "Basin of Atonement",
+		"chn": "赎罪水池"
+	},
+	{
+		"id": 160500,
+		"eng": "Cathedral of Dragon Communion",
+		"chn": "龙飨大教堂"
+	},
+	{
+		"id": 160700,
+		"eng": "Fractured Marika",
+		"chn": "濒毁玛莉卡"
+	},
+	{
+		"id": 160800,
+		"eng": "Clouded Mirror Stand",
+		"chn": "雾镜化妆台"
+	},
+	{
+		"id": 160900,
+		"eng": "Sword of Bernahl",
+		"chn": "贝纳尔的剑"
+	},
+	{
+		"id": 175000,
+		"eng": "Finger Reader Crone",
+		"chn": "解指老妪"
+	},
+	{
+		"id": 175001,
+		"eng": "Finger Reader Crone",
+		"chn": "解指老妪"
+	},
+	{
+		"id": 175002,
+		"eng": "Finger Reader Crone",
+		"chn": "解指老妪"
+	},
+	{
+		"id": 175003,
+		"eng": "Finger Reader Crone",
+		"chn": "解指老妪"
+	},
+	{
+		"id": 175004,
+		"eng": "Finger Reader Crone",
+		"chn": "解指老妪"
+	},
+	{
+		"id": 175005,
+		"eng": "Finger Reader Crone",
+		"chn": "解指老妪"
+	},
+	{
+		"id": 175006,
+		"eng": "Finger Reader Crone",
+		"chn": "解指老妪"
+	},
+	{
+		"id": 175007,
+		"eng": "Keeper of Forbidden Lands",
+		"chn": "看守禁域的老妪"
+	},
+	{
+		"id": 175008,
+		"eng": "Godwyn's Wet Nurse",
+		"chn": "葛德文的乳母"
+	},
+	{
+		"id": 180000,
+		"eng": "Merchant Kalé",
+		"chn": "“流浪商人”咖列"
+	},
+	{
+		"id": 180101,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180102,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180103,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180104,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180105,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180106,
+		"eng": "Isolated Merchant",
+		"chn": "隐居商人"
+	},
+	{
+		"id": 180107,
+		"eng": "Isolated Merchant",
+		"chn": "隐居商人"
+	},
+	{
+		"id": 180108,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180109,
+		"eng": "Hermit Merchant",
+		"chn": "遁世商人"
+	},
+	{
+		"id": 180110,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180111,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180112,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180113,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180114,
+		"eng": "Nomadic Merchant",
+		"chn": "流浪民族的商人"
+	},
+	{
+		"id": 180115,
+		"eng": "Isolated Merchant",
+		"chn": "隐居商人"
+	},
+	{
+		"id": 180116,
+		"eng": "Hermit Merchant",
+		"chn": "遁世商人"
+	},
+	{
+		"id": 180117,
+		"eng": "Abandoned Merchant",
+		"chn": "见弃商人"
+	},
+	{
+		"id": 180118,
+		"eng": "Hermit Merchant",
+		"chn": "遁世商人"
+	},
+	{
+		"id": 180119,
+		"eng": "Imprisoned Merchant",
+		"chn": "受囚商人"
+	},
+	{
+		"id": 10104137,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 10204435,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 10304533,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 10403943,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 10503542,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 10711400,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 10803550,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 10903752,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 11003654,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 11103954,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 11204737,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 11305039,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 11405136,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 11505243,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 11605254,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 11705057,
+		"eng": "Someone Yet Unseen",
+		"chn": "未曾谋面的人物"
+	},
+	{
+		"id": 900000520,
+		"eng": "Adan, Thief of Fire",
+		"chn": "“盗火”亚当"
+	},
+	{
+		"id": 900000521,
+		"eng": "Vyke the Dragonspear",
+		"chn": "“龙枪”维克"
+	},
+	{
+		"id": 900000601,
+		"eng": "Okina",
+		"chn": "老翁"
+	},
+	{
+		"id": 902030000,
+		"eng": "Rennala, Queen of the Full Moon",
+		"chn": "“满月女王”蕾娜菈"
+	},
+	{
+		"id": 902030001,
+		"eng": "Rennala, Queen of the Full Moon",
+		"chn": "“满月女王”蕾娜菈"
+	},
+	{
+		"id": 902100300,
+		"eng": "Black Knife Assassin",
+		"chn": "黑刀刺客"
+	},
+	{
+		"id": 902100301,
+		"eng": "Black Knife Assassin",
+		"chn": "黑刀刺客"
+	},
+	{
+		"id": 902100302,
+		"eng": "Black Knife Assassin",
+		"chn": "黑刀刺客"
+	},
+	{
+		"id": 902100310,
+		"eng": "Black Knife Assassin",
+		"chn": "黑刀刺客"
+	},
+	{
+		"id": 902100521,
+		"eng": "Alecto, Black Knife Ringleader",
+		"chn": "“黑刀之首”亚勒托"
+	},
+	{
+		"id": 902100600,
+		"eng": "Black Knife Assassin",
+		"chn": "黑刀刺客"
+	},
+	{
+		"id": 902110000,
+		"eng": "Beast Clergyman",
+		"chn": "野兽祭司"
+	},
+	{
+		"id": 902110001,
+		"eng": "Maliketh, the Black Blade",
+		"chn": "“黑剑”玛利喀斯"
+	},
+	{
+		"id": 902120000,
+		"eng": "Malenia, Blade of Miquella",
+		"chn": "“米凯拉的锋刃”玛莲妮亚"
+	},
+	{
+		"id": 902120001,
+		"eng": "Malenia, Goddess of Rot",
+		"chn": "“腐败女神”玛莲妮亚"
+	},
+	{
+		"id": 902130000,
+		"eng": "Margit, the Fell Omen",
+		"chn": "“恶兆妖鬼”玛尔基特"
+	},
+	{
+		"id": 902130002,
+		"eng": "Morgott, the Omen King",
+		"chn": "“恶兆王”蒙葛特"
+	},
+	{
+		"id": 902130003,
+		"eng": "Morgott, the Omen King",
+		"chn": "“恶兆王”蒙葛特"
+	},
+	{
+		"id": 902140000,
+		"eng": "Fell Twin",
+		"chn": "恶兆孪生子"
+	},
+	{
+		"id": 902140001,
+		"eng": "Fell Twin",
+		"chn": "恶兆孪生子"
+	},
+	{
+		"id": 902190000,
+		"eng": "Radagon of the Golden Order",
+		"chn": "“黄金律法”拉达冈"
+	},
+	{
+		"id": 902200000,
+		"eng": "Elden Beast",
+		"chn": "艾尔登之兽"
+	},
+	{
+		"id": 902500300,
+		"eng": "Crucible Knight Ordovis",
+		"chn": "“熔炉骑士”奥陶琵斯"
+	},
+	{
+		"id": 902500301,
+		"eng": "Crucible Knight",
+		"chn": "熔炉骑士"
+	},
+	{
+		"id": 902500500,
+		"eng": "Crucible Knight",
+		"chn": "熔炉骑士"
+	},
+	{
+		"id": 902500520,
+		"eng": "Crucible Knight",
+		"chn": "熔炉骑士"
+	},
+	{
+		"id": 902500600,
+		"eng": "Crucible Knight Siluria",
+		"chn": "“熔炉骑士”志留亚"
+	},
+	{
+		"id": 903050500,
+		"eng": "Commander Niall",
+		"chn": "老将尼奥"
+	},
+	{
+		"id": 903050600,
+		"eng": "Commander O'Neil",
+		"chn": "老将欧尼尔"
+	},
+	{
+		"id": 903100500,
+		"eng": "Elemer of the Briar",
+		"chn": "“铁棘”艾隆梅尔"
+	},
+	{
+		"id": 903100600,
+		"eng": "Bell Bearing Hunter",
+		"chn": "铃珠猎人"
+	},
+	{
+		"id": 903100601,
+		"eng": "Bell Bearing Hunter",
+		"chn": "铃珠猎人"
+	},
+	{
+		"id": 903100602,
+		"eng": "Bell Bearing Hunter",
+		"chn": "铃珠猎人"
+	},
+	{
+		"id": 903100603,
+		"eng": "Bell Bearing Hunter",
+		"chn": "铃珠猎人"
+	},
+	{
+		"id": 903150600,
+		"eng": "Night's Cavalry",
+		"chn": "黑夜骑兵"
+	},
+	{
+		"id": 903150601,
+		"eng": "Night's Cavalry",
+		"chn": "黑夜骑兵"
+	},
+	{
+		"id": 903150602,
+		"eng": "Night's Cavalry",
+		"chn": "黑夜骑兵"
+	},
+	{
+		"id": 903150603,
+		"eng": "Night's Cavalry",
+		"chn": "黑夜骑兵"
+	},
+	{
+		"id": 903150604,
+		"eng": "Night's Cavalry",
+		"chn": "黑夜骑兵"
+	},
+	{
+		"id": 903150605,
+		"eng": "Night's Cavalry",
+		"chn": "黑夜骑兵"
+	},
+	{
+		"id": 903150606,
+		"eng": "Night's Cavalry",
+		"chn": "黑夜骑兵"
+	},
+	{
+		"id": 903150607,
+		"eng": "Night's Cavalry",
+		"chn": "黑夜骑兵"
+	},
+	{
+		"id": 903150608,
+		"eng": "Night's Cavalry (Glaive)",
+		"chn": "黑夜骑兵（剑刃戟）"
+	},
+	{
+		"id": 903150609,
+		"eng": "Night's Cavalry (Flail)",
+		"chn": "黑夜骑兵（连枷）"
+	},
+	{
+		"id": 903181000,
+		"eng": "Red Wolf of Radagon",
+		"chn": "拉达冈的红狼"
+	},
+	{
+		"id": 903181300,
+		"eng": "Red Wolf of the Champion",
+		"chn": "英雄红狼"
+	},
+	{
+		"id": 903250600,
+		"eng": "Draconic Tree Sentinel",
+		"chn": "龙装大树守卫"
+	},
+	{
+		"id": 903251600,
+		"eng": "Tree Sentinel",
+		"chn": "大树守卫"
+	},
+	{
+		"id": 903251601,
+		"eng": "Tree Sentinel",
+		"chn": "大树守卫"
+	},
+	{
+		"id": 903251602,
+		"eng": "Tree Sentinel",
+		"chn": "大树守卫"
+	},
+	{
+		"id": 903252000,
+		"eng": "Loretta, Knight of the Haligtree",
+		"chn": "“圣树骑士”罗蕾塔"
+	},
+	{
+		"id": 903253500,
+		"eng": "Royal Knight Loretta",
+		"chn": "禁卫骑士罗蕾塔"
+	},
+	{
+		"id": 903300560,
+		"eng": "Nox Priest",
+		"chn": "诺克斯修士"
+	},
+	{
+		"id": 903300561,
+		"eng": "Nox Swordstress",
+		"chn": "诺克斯剑士"
+	},
+	{
+		"id": 903320000,
+		"eng": "Mimic Tear",
+		"chn": "仿身泪滴"
+	},
+	{
+		"id": 903320300,
+		"eng": "Stray Mimic Tear",
+		"chn": "离群仿身泪滴"
+	},
+	{
+		"id": 903350310,
+		"eng": "Crystalian (Staff)",
+		"chn": "结晶人（手杖）"
+	},
+	{
+		"id": 903350311,
+		"eng": "Crystalian (Spear)",
+		"chn": "结晶人（矛）"
+	},
+	{
+		"id": 903350312,
+		"eng": "Putrid Crystalian (Ringblade)",
+		"chn": "腐败结晶人（圆刃刀）"
+	},
+	{
+		"id": 903350313,
+		"eng": "Putrid Crystalian (Spear)",
+		"chn": "腐败结晶人（矛）"
+	},
+	{
+		"id": 903350314,
+		"eng": "Putrid Crystalian (Staff)",
+		"chn": "腐败结晶人（手杖）"
+	},
+	{
+		"id": 903350320,
+		"eng": "Crystalian",
+		"chn": "结晶人"
+	},
+	{
+		"id": 903350321,
+		"eng": "Crystalian (Ringblade)",
+		"chn": "结晶人（圆刃刀）"
+	},
+	{
+		"id": 903350322,
+		"eng": "Crystalian (Spear)",
+		"chn": "结晶人（矛）"
+	},
+	{
+		"id": 903400300,
+		"eng": "Grave Warden Duelist",
+		"chn": "守墓斗士"
+	},
+	{
+		"id": 903400301,
+		"eng": "Grave Warden Duelist",
+		"chn": "守墓斗士"
+	},
+	{
+		"id": 903400302,
+		"eng": "Putrid Grave Warden Duelist",
+		"chn": "腐败守墓斗士"
+	},
+	{
+		"id": 903400310,
+		"eng": "Frenzied Duelist",
+		"chn": "发狂斗士"
+	},
+	{
+		"id": 903451320,
+		"eng": "Scaly Misbegotten",
+		"chn": "片鳞混种"
+	},
+	{
+		"id": 903460300,
+		"eng": "Misbegotten Warrior",
+		"chn": "混种战士"
+	},
+	{
+		"id": 903460310,
+		"eng": "Misbegotten Crusader",
+		"chn": "混种圣骑士"
+	},
+	{
+		"id": 903460500,
+		"eng": "Leonine Misbegotten",
+		"chn": "狮子混种"
+	},
+	{
+		"id": 903460501,
+		"eng": "Misbegotten Warrior",
+		"chn": "混种战士"
+	},
+	{
+		"id": 903550540,
+		"eng": "Sanguine Noble",
+		"chn": "鲜血贵族"
+	},
+	{
+		"id": 903560000,
+		"eng": "Godskin Apostle",
+		"chn": "神皮使徒"
+	},
+	{
+		"id": 903560310,
+		"eng": "Godskin Apostle",
+		"chn": "神皮使徒"
+	},
+	{
+		"id": 903560600,
+		"eng": "Godskin Apostle",
+		"chn": "神皮使徒"
+	},
+	{
+		"id": 903570000,
+		"eng": "Godskin Noble",
+		"chn": "神皮贵族"
+	},
+	{
+		"id": 903570310,
+		"eng": "Godskin Noble",
+		"chn": "神皮贵族"
+	},
+	{
+		"id": 903575000,
+		"eng": "Godskin Duo",
+		"chn": "神皮双人组"
+	},
+	{
+		"id": 903600320,
+		"eng": "Onyx Lord",
+		"chn": "石肤黑王"
+	},
+	{
+		"id": 903600520,
+		"eng": "Alabaster Lord",
+		"chn": "石肤白王"
+	},
+	{
+		"id": 903664300,
+		"eng": "Cemetery Shade",
+		"chn": "墓地影子"
+	},
+	{
+		"id": 903664301,
+		"eng": "Cemetery Shade",
+		"chn": "墓地影子"
+	},
+	{
+		"id": 903664302,
+		"eng": "Cemetery Shade",
+		"chn": "墓地影子"
+	},
+	{
+		"id": 903700300,
+		"eng": "Perfumer Tricia",
+		"chn": "调香师托莉夏"
+	},
+	{
+		"id": 903704520,
+		"eng": "Battlemage Hugues",
+		"chn": "战场魔法师犹格"
+	},
+	{
+		"id": 903800310,
+		"eng": "Cleanrot Knight",
+		"chn": "玛莲妮亚的尊腐骑士"
+	},
+	{
+		"id": 903800311,
+		"eng": "Cleanrot Knight (Spear)",
+		"chn": "玛莲妮亚的尊腐骑士（矛）"
+	},
+	{
+		"id": 903800312,
+		"eng": "Cleanrot Knight (Sickle)",
+		"chn": "玛莲妮亚的尊腐骑士（镰刀）"
+	},
+	{
+		"id": 903810310,
+		"eng": "Kindred of Rot",
+		"chn": "腐败眷属"
+	},
+	{
+		"id": 903810311,
+		"eng": "Kindred of Rot",
+		"chn": "腐败眷属"
+	},
+	{
+		"id": 903970310,
+		"eng": "Beastman of Farum Azula",
+		"chn": "法姆·亚兹拉的兽人"
+	},
+	{
+		"id": 903970311,
+		"eng": "Beastman of Farum Azula (Greatsword)",
+		"chn": "法姆·亚兹拉的兽人（大刀）"
+	},
+	{
+		"id": 903970312,
+		"eng": "Beastman of Farum Azula (Throwing Knife)",
+		"chn": "法姆·亚兹拉的兽人（投掷刀）"
+	},
+	{
+		"id": 904020540,
+		"eng": "Royal Revenant",
+		"chn": "王室幽魂"
+	},
+	{
+		"id": 904120310,
+		"eng": "Demi-Human Chief",
+		"chn": "亚人首领"
+	},
+	{
+		"id": 904120311,
+		"eng": "Demi-Human Chief",
+		"chn": "亚人首领"
+	},
+	{
+		"id": 904130310,
+		"eng": "Demi-Human Queen Margot",
+		"chn": "“亚人女王”玛格"
+	},
+	{
+		"id": 904130540,
+		"eng": "Demi-Human Queen Gilika",
+		"chn": "“亚人女王”姬丽卡"
+	},
+	{
+		"id": 904130600,
+		"eng": "Demi-Human Queen Maggie",
+		"chn": "“亚人女王”玛姬"
+	},
+	{
+		"id": 904140300,
+		"eng": "Spirit-Caller Snail",
+		"chn": "唤灵蜗牛"
+	},
+	{
+		"id": 904140310,
+		"eng": "Spirit-Caller Snail",
+		"chn": "唤灵蜗牛"
+	},
+	{
+		"id": 904260300,
+		"eng": "Erdtree Burial Watchdog",
+		"chn": "归树看门犬"
+	},
+	{
+		"id": 904260301,
+		"eng": "Erdtree Burial Watchdog",
+		"chn": "归树看门犬"
+	},
+	{
+		"id": 904260302,
+		"eng": "Erdtree Burial Watchdog",
+		"chn": "归树看门犬"
+	},
+	{
+		"id": 904260303,
+		"eng": "Erdtree Burial Watchdog",
+		"chn": "归树看门犬"
+	},
+	{
+		"id": 904260304,
+		"eng": "Erdtree Burial Watchdog (Sword)",
+		"chn": "归树看门犬（剑）"
+	},
+	{
+		"id": 904260305,
+		"eng": "Erdtree Burial Watchdog (Scepter)",
+		"chn": "归树看门犬（杖）"
+	},
+	{
+		"id": 904290310,
+		"eng": "Bloodhound Knight",
+		"chn": "猎犬骑士"
+	},
+	{
+		"id": 904290520,
+		"eng": "Bloodhound Knight Darriwil",
+		"chn": "“猎犬骑士”达瑞威尔"
+	},
+	{
+		"id": 904311000,
+		"eng": "Soldier of Godrick",
+		"chn": "葛瑞克的士兵"
+	},
+	{
+		"id": 904340540,
+		"eng": "Mad Pumpkin Head",
+		"chn": "发狂南瓜头士兵"
+	},
+	{
+		"id": 904340541,
+		"eng": "Mad Pumpkin Head (Hammer)",
+		"chn": "发狂南瓜头士兵（槌）"
+	},
+	{
+		"id": 904340542,
+		"eng": "Mad Pumpkin Head (Flail)",
+		"chn": "发狂南瓜头士兵（连枷）"
+	},
+	{
+		"id": 904470000,
+		"eng": "Abductor Virgin (Swinging Sickle)",
+		"chn": "掳人少女人偶（摆荡镰刀）"
+	},
+	{
+		"id": 904470001,
+		"eng": "Abductor Virgin (Wheel)",
+		"chn": "掳人少女人偶（刺轮）"
+	},
+	{
+		"id": 904480310,
+		"eng": "Miranda the Blighted Bloom",
+		"chn": "“病花”米兰达"
+	},
+	{
+		"id": 904480311,
+		"eng": "Miranda Blossom",
+		"chn": "米兰达之花"
+	},
+	{
+		"id": 904500600,
+		"eng": "Flying Dragon Agheel",
+		"chn": "“飞龙”亚基尔"
+	},
+	{
+		"id": 904500601,
+		"eng": "Flying Dragon Greyll",
+		"chn": "“飞龙”桂雷尔"
+	},
+	{
+		"id": 904501600,
+		"eng": "Decaying Ekzykes",
+		"chn": "“步入腐败”艾格基斯"
+	},
+	{
+		"id": 904502600,
+		"eng": "Glintstone Dragon Smarag",
+		"chn": "“辉石龙”史玛拉格"
+	},
+	{
+		"id": 904502601,
+		"eng": "Glintstone Dragon Adula",
+		"chn": "“辉石龙”亚杜拉"
+	},
+	{
+		"id": 904502602,
+		"eng": "Glintstone Dragon Adula",
+		"chn": "“辉石龙”亚杜拉"
+	},
+	{
+		"id": 904503600,
+		"eng": "Borealis the Freezing Fog",
+		"chn": "“冻结冰雾”玻列琉斯"
+	},
+	{
+		"id": 904510000,
+		"eng": "Lichdragon Fortissax",
+		"chn": "“死龙”弗尔桑克斯"
+	},
+	{
+		"id": 904510600,
+		"eng": "Ancient Dragon Lansseax",
+		"chn": "“古龙”兰斯桑克斯"
+	},
+	{
+		"id": 904520000,
+		"eng": "Dragonlord Placidusax",
+		"chn": "“龙王”普拉顿桑克斯"
+	},
+	{
+		"id": 904580600,
+		"eng": "Wormface",
+		"chn": "蚯蚓脸"
+	},
+	{
+		"id": 904580601,
+		"eng": "Wormface",
+		"chn": "蚯蚓脸"
+	},
+	{
+		"id": 904600320,
+		"eng": "Stonedigger Troll",
+		"chn": "挖石山妖"
+	},
+	{
+		"id": 904600321,
+		"eng": "Stonedigger Troll",
+		"chn": "挖石山妖"
+	},
+	{
+		"id": 904600520,
+		"eng": "Bols, Carian Knight",
+		"chn": "“卡利亚骑士”波尔斯"
+	},
+	{
+		"id": 904620001,
+		"eng": "Astel, Naturalborn of the Void",
+		"chn": "“黑暗弃子”艾丝缇"
+	},
+	{
+		"id": 904620320,
+		"eng": "Astel, Stars of Darkness",
+		"chn": "“黑暗繁星”艾丝缇"
+	},
+	{
+		"id": 904630310,
+		"eng": "Runebear",
+		"chn": "卢恩熊"
+	},
+	{
+		"id": 904640000,
+		"eng": "Ulcerated Tree Spirit",
+		"chn": "腐烂树灵"
+	},
+	{
+		"id": 904640300,
+		"eng": "Putrid Tree Spirit",
+		"chn": "腐败树灵"
+	},
+	{
+		"id": 904640301,
+		"eng": "Ulcerated Tree Spirit",
+		"chn": "腐烂树灵"
+	},
+	{
+		"id": 904640600,
+		"eng": "Ulcerated Tree Spirit",
+		"chn": "腐烂树灵"
+	},
+	{
+		"id": 904650000,
+		"eng": "Dragonkin Soldier of Nokstella",
+		"chn": "诺克史黛拉的龙人士兵"
+	},
+	{
+		"id": 904650600,
+		"eng": "Dragonkin Soldier",
+		"chn": "龙人士兵"
+	},
+	{
+		"id": 904650601,
+		"eng": "Dragonkin Soldier",
+		"chn": "龙人士兵"
+	},
+	{
+		"id": 904660310,
+		"eng": "Guardian Golem",
+		"chn": "魔像守卫"
+	},
+	{
+		"id": 904670000,
+		"eng": "Ancestor Spirit",
+		"chn": "祖灵"
+	},
+	{
+		"id": 904670001,
+		"eng": "Regal Ancestor Spirit",
+		"chn": "祖灵之王"
+	},
+	{
+		"id": 904680320,
+		"eng": "Fallingstar Beast",
+		"chn": "坠星兽物"
+	},
+	{
+		"id": 904680601,
+		"eng": "Fallingstar Beast",
+		"chn": "坠星兽物"
+	},
+	{
+		"id": 904680602,
+		"eng": "Fallingstar Beast",
+		"chn": "坠星兽物"
+	},
+	{
+		"id": 904680603,
+		"eng": "Full-Grown Fallingstar Beast",
+		"chn": "坠星成兽"
+	},
+	{
+		"id": 904690000,
+		"eng": "Grafted Scion",
+		"chn": "“接肢”贵族后裔"
+	},
+	{
+		"id": 904710000,
+		"eng": "God-Devouring Serpent",
+		"chn": "噬神大蛇"
+	},
+	{
+		"id": 904710001,
+		"eng": "Rykard, Lord of Blasphemy",
+		"chn": "“亵渎君王”拉卡德"
+	},
+	{
+		"id": 904720000,
+		"eng": "Godfrey, First Elden Lord",
+		"chn": "“初始之王”葛孚雷"
+	},
+	{
+		"id": 904720001,
+		"eng": "Hoarah Loux, Warrior",
+		"chn": "战士荷莱·露"
+	},
+	{
+		"id": 904720002,
+		"eng": "Godfrey, First Elden Lord",
+		"chn": "“初始之王”葛孚雷"
+	},
+	{
+		"id": 904730000,
+		"eng": "Starscourge Radahn",
+		"chn": "“碎星”拉塔恩"
+	},
+	{
+		"id": 904750000,
+		"eng": "Godrick the Grafted",
+		"chn": "“接肢”葛瑞克"
+	},
+	{
+		"id": 904750520,
+		"eng": "Godefroy the Grafted",
+		"chn": "“接肢”葛孚亚"
+	},
+	{
+		"id": 904760000,
+		"eng": "Fire Giant",
+		"chn": "火焰巨人"
+	},
+	{
+		"id": 904770000,
+		"eng": "Valiant Gargoyle",
+		"chn": "英雄石像鬼"
+	},
+	{
+		"id": 904770001,
+		"eng": "Valiant Gargoyle (Twinblade)",
+		"chn": "英雄石像鬼（双头剑）"
+	},
+	{
+		"id": 904770600,
+		"eng": "Black Blade Kindred",
+		"chn": "黑剑眷属"
+	},
+	{
+		"id": 904770601,
+		"eng": "Black Blade Kindred",
+		"chn": "黑剑眷属"
+	},
+	{
+		"id": 904800000,
+		"eng": "Mohg, Lord of Blood",
+		"chn": "“鲜血君王”蒙格"
+	},
+	{
+		"id": 904800002,
+		"eng": "Mohg, the Omen",
+		"chn": "“恶兆之子”蒙格"
+	},
+	{
+		"id": 904810600,
+		"eng": "Erdtree Avatar",
+		"chn": "黄金树的化身"
+	},
+	{
+		"id": 904810601,
+		"eng": "Erdtree Avatar",
+		"chn": "黄金树的化身"
+	},
+	{
+		"id": 904810602,
+		"eng": "Erdtree Avatar",
+		"chn": "黄金树的化身"
+	},
+	{
+		"id": 904811600,
+		"eng": "Putrid Avatar",
+		"chn": "腐败化身"
+	},
+	{
+		"id": 904811601,
+		"eng": "Putrid Avatar",
+		"chn": "腐败化身"
+	},
+	{
+		"id": 904820310,
+		"eng": "Omenkiller",
+		"chn": "恶兆猎人"
+	},
+	{
+		"id": 904820600,
+		"eng": "Omenkiller",
+		"chn": "恶兆猎人"
+	},
+	{
+		"id": 904910000,
+		"eng": "Magma Wyrm Makar",
+		"chn": "“熔岩土龙”马卡尔"
+	},
+	{
+		"id": 904910320,
+		"eng": "Magma Wyrm",
+		"chn": "熔岩土龙"
+	},
+	{
+		"id": 904910600,
+		"eng": "Magma Wyrm",
+		"chn": "熔岩土龙"
+	},
+	{
+		"id": 904911600,
+		"eng": "Great Wyrm Theodorix",
+		"chn": "“大土龙”席欧朵利克"
+	},
+	{
+		"id": 904950600,
+		"eng": "Tibia Mariner",
+		"chn": "提比亚的唤声船"
+	},
+	{
+		"id": 904950601,
+		"eng": "Tibia Mariner",
+		"chn": "提比亚的唤声船"
+	},
+	{
+		"id": 904950602,
+		"eng": "Tibia Mariner",
+		"chn": "提比亚的唤声船"
+	},
+	{
+		"id": 904950603,
+		"eng": "Tibia Mariner",
+		"chn": "提比亚的唤声船"
+	},
+	{
+		"id": 904980600,
+		"eng": "Death Rite Bird",
+		"chn": "死亡仪式鸟"
+	},
+	{
+		"id": 904980601,
+		"eng": "Deathbird",
+		"chn": "死之鸟"
+	},
+	{
+		"id": 904980602,
+		"eng": "Deathbird",
+		"chn": "死之鸟"
+	},
+	{
+		"id": 904980603,
+		"eng": "Deathbird",
+		"chn": "死之鸟"
+	},
+	{
+		"id": 904980604,
+		"eng": "Death Rite Bird",
+		"chn": "死亡仪式鸟"
+	},
+	{
+		"id": 904980605,
+		"eng": "Deathbird",
+		"chn": "死之鸟"
+	},
+	{
+		"id": 904980606,
+		"eng": "Death Rite Bird",
+		"chn": "死亡仪式鸟"
+	},
+	{
+		"id": 904980607,
+		"eng": "Death Rite Bird",
+		"chn": "死亡仪式鸟"
+	},
+	{
+		"id": 907100300,
+		"eng": "Ancient Hero of Zamor",
+		"chn": "萨米尔的古英雄"
+	},
+	{
+		"id": 907100301,
+		"eng": "Ancient Hero of Zamor",
+		"chn": "萨米尔的古英雄"
+	},
+	{
+		"id": 907100520,
+		"eng": "Ancient Hero of Zamor",
+		"chn": "萨米尔的古英雄"
+	}
+]

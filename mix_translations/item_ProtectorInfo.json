@@ -1,0 +1,2852 @@
+[
+	{
+		"id": 40000,
+		"eng": "An ordinary iron helmet",
+		"chn": "造型简朴的铁制头盔"
+	},
+	{
+		"id": 40100,
+		"eng": "Armor composed of small metal plates",
+		"chn": "串连小型金属片以防御攻击的铠甲"
+	},
+	{
+		"id": 40200,
+		"eng": "Ordinary iron gauntlets",
+		"chn": "造型简朴的铁制臂甲"
+	},
+	{
+		"id": 40300,
+		"eng": "Well-made leather trousers",
+		"chn": "材质坚固的皮革长裤"
+	},
+	{
+		"id": 50000,
+		"eng": "Helm worn by Kaiden sellswords",
+		"chn": "凯丹佣兵装备的头盔"
+	},
+	{
+		"id": 50100,
+		"eng": "Armor worn by Kaiden sellswords",
+		"chn": "凯丹佣兵装备的铠甲"
+	},
+	{
+		"id": 50200,
+		"eng": "Gauntlets worn by Kaiden sellswords",
+		"chn": "凯丹佣兵装备的臂甲"
+	},
+	{
+		"id": 50300,
+		"eng": "Trousers worn by Kaiden sellswords",
+		"chn": "凯丹佣兵装备的长裤"
+	},
+	{
+		"id": 60000,
+		"eng": "Malformed helm fused with dragon flesh",
+		"chn": "结合龙的部分身体形成的畸形头盔"
+	},
+	{
+		"id": 60100,
+		"eng": "Malformed armor fused with dragon flesh",
+		"chn": "结合龙的部分身体形成的畸形铠甲"
+	},
+	{
+		"id": 60200,
+		"eng": "Malformed gauntlets fused with dragon flesh",
+		"chn": "结合龙的部分身体形成的畸形臂甲"
+	},
+	{
+		"id": 60300,
+		"eng": "Malformed greaves fused with dragon flesh",
+		"chn": "结合龙的部分身体形成的畸形腿甲"
+	},
+	{
+		"id": 61000,
+		"eng": "Malformed light helm fused with dragon flesh",
+		"chn": "结合龙的部分身体形成的轻量化畸形头盔"
+	},
+	{
+		"id": 61100,
+		"eng": "Malformed armor fused with dragon flesh",
+		"chn": "结合龙的部分身体形成的畸形铠甲"
+	},
+	{
+		"id": 80000,
+		"eng": "Helm made from layered ancient dragon scales",
+		"chn": "拼合古龙鳞片的头盔"
+	},
+	{
+		"id": 80100,
+		"eng": "Armor made from layered ancient dragon scales",
+		"chn": "拼合古龙鳞片的铠甲"
+	},
+	{
+		"id": 80200,
+		"eng": "Gauntlets made from layered ancient dragon scales",
+		"chn": "拼合古龙鳞片的臂甲"
+	},
+	{
+		"id": 80300,
+		"eng": "Greaves made from layered ancient dragon scales",
+		"chn": "拼合古龙鳞片的腿甲"
+	},
+	{
+		"id": 81100,
+		"eng": "Armor made of layered ancient dragon scales",
+		"chn": "拼合古龙鳞片的铠甲"
+	},
+	{
+		"id": 90000,
+		"eng": "Hood of an Erdtree Capital perfumer",
+		"chn": "黄金树王城的调香师穿戴的风帽"
+	},
+	{
+		"id": 90100,
+		"eng": "Robe of an Erdtree Capital perfumer",
+		"chn": "黄金树王城的调香师穿戴的长袍"
+	},
+	{
+		"id": 90200,
+		"eng": "Gloves of an Erdtree Capital perfumer",
+		"chn": "黄金树王城的调香师穿戴的手套"
+	},
+	{
+		"id": 90300,
+		"eng": "Sarong of an Erdtree Capital perfumer",
+		"chn": "黄金树王城的调香师穿戴的腰巾"
+	},
+	{
+		"id": 91100,
+		"eng": "Tunic of an Erdtree Capital perfumer",
+		"chn": "黄金树王城的调香师穿戴的上衣"
+	},
+	{
+		"id": 100000,
+		"eng": "Leather tricorne of an unaffiliated perfumer",
+		"chn": "漂流在外的调香师穿戴的皮革帽子"
+	},
+	{
+		"id": 100100,
+		"eng": "Robe of an unaffiliated perfumer",
+		"chn": "漂流在外的调香师穿戴的长袍"
+	},
+	{
+		"id": 100200,
+		"eng": "Gloves of an unaffiliated perfumer",
+		"chn": "漂流在外的调香师穿戴的手套"
+	},
+	{
+		"id": 100300,
+		"eng": "Trousers of an unaffiliated perfumer",
+		"chn": "漂流在外的调香师穿戴的长裤"
+	},
+	{
+		"id": 101100,
+		"eng": "Tunic of an unaffiliated perfumer",
+		"chn": "漂流在外的调香师穿戴的上衣"
+	},
+	{
+		"id": 120000,
+		"eng": "Hat of a defected glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的帽子"
+	},
+	{
+		"id": 120100,
+		"eng": "Robe of a defected glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的长袍"
+	},
+	{
+		"id": 120200,
+		"eng": "Gloves of a defected glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的手套"
+	},
+	{
+		"id": 120300,
+		"eng": "Boots of a defected glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的靴子"
+	},
+	{
+		"id": 121000,
+		"eng": "Cowl of a defected glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的头巾"
+	},
+	{
+		"id": 121100,
+		"eng": "Tunic of a defected glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的上衣"
+	},
+	{
+		"id": 130000,
+		"eng": "Glintstone sorcerer Rogier's hat",
+		"chn": "辉石魔法师罗杰尔的帽子"
+	},
+	{
+		"id": 130100,
+		"eng": "Glintstone sorcerer Rogier's cape",
+		"chn": "辉石魔法师罗杰尔的斗篷"
+	},
+	{
+		"id": 130200,
+		"eng": "Glintstone sorcerer Rogier's gloves",
+		"chn": "辉石魔法师罗杰尔的手套"
+	},
+	{
+		"id": 130300,
+		"eng": "Glintstone sorcerer Rogier's Trousers",
+		"chn": "辉石魔法师罗杰尔的长裤"
+	},
+	{
+		"id": 131100,
+		"eng": "Glintstone sorcerer Rogier's vest",
+		"chn": "辉石魔法师罗杰尔的背心"
+	},
+	{
+		"id": 140000,
+		"eng": "Great Horned Tragoth's helm",
+		"chn": "“大角”忒拉格斯的头盔"
+	},
+	{
+		"id": 140100,
+		"eng": "Great Horned Tragoth's armor",
+		"chn": "“大角”忒拉格斯的铠甲"
+	},
+	{
+		"id": 140200,
+		"eng": "Great Horned Tragoth's gauntlets",
+		"chn": "“大角”忒拉格斯的臂甲"
+	},
+	{
+		"id": 140300,
+		"eng": "Great Horned Tragoth's greaves",
+		"chn": "“大角”忒拉格斯的腿甲"
+	},
+	{
+		"id": 150000,
+		"eng": "Bloody Finger Hunter Yura's umbrella",
+		"chn": "“血指猎人”尤拉的伞"
+	},
+	{
+		"id": 150100,
+		"eng": "Bloody Finger Hunter Yura's armor",
+		"chn": "血指猎人的铠甲"
+	},
+	{
+		"id": 150200,
+		"eng": "Bloody Finger Hunter Yura's gauntlets",
+		"chn": "血指猎人的臂甲"
+	},
+	{
+		"id": 150300,
+		"eng": "Bloody Finger Hunter Yura's greaves",
+		"chn": "血指猎人的腿甲"
+	},
+	{
+		"id": 151100,
+		"eng": "Bloody Finger Hunter's armor",
+		"chn": "血指猎人的铠甲"
+	},
+	{
+		"id": 160000,
+		"eng": "Coarse hooded cloak of olive brown",
+		"chn": "粗糙的黄褐色附帽披风"
+	},
+	{
+		"id": 160100,
+		"eng": "Garb made of rough material",
+		"chn": "褪色者的上衣"
+	},
+	{
+		"id": 160200,
+		"eng": "Arm wraps made of rough material",
+		"chn": "粗糙的布质腕带"
+	},
+	{
+		"id": 160300,
+		"eng": "Trousers made of rough material",
+		"chn": "粗糙的布质长裤"
+	},
+	{
+		"id": 170000,
+		"eng": "Helm made with the head of an old wolf",
+		"chn": "将年长野狼的头部披在头上的饰品"
+	},
+	{
+		"id": 170100,
+		"eng": "Armor of Blaidd, Knight of Ranni",
+		"chn": "菈妮的战士，布莱泽的铠甲"
+	},
+	{
+		"id": 170200,
+		"eng": "Gauntlets of Blaidd, Knight of Ranni",
+		"chn": "菈妮的战士，布莱泽的臂甲"
+	},
+	{
+		"id": 170300,
+		"eng": "Greaves of Blaidd, Knight of Ranni",
+		"chn": "菈妮的战士，布莱泽的腿甲"
+	},
+	{
+		"id": 171100,
+		"eng": "Armor of Blaidd, Knight of Ranni",
+		"chn": "菈妮的战士，布莱泽的铠甲"
+	},
+	{
+		"id": 180000,
+		"eng": "Hood used by the Black Blade Assassins",
+		"chn": "黑刀刺客集团穿戴的风帽"
+	},
+	{
+		"id": 180100,
+		"eng": "Armor used by the Black Blade Assassins",
+		"chn": "黑刀刺客集团穿戴的铠甲"
+	},
+	{
+		"id": 180200,
+		"eng": "Gauntlets used by the Black Blade Assassins",
+		"chn": "黑刀刺客集团穿戴的臂甲"
+	},
+	{
+		"id": 180300,
+		"eng": "Greaves used by the Black Blade Assassins",
+		"chn": "黑刀刺客集团穿戴的腿甲"
+	},
+	{
+		"id": 181100,
+		"eng": "Armor used by the Black Blade Assassins",
+		"chn": "黑刀刺客集团穿戴的铠甲"
+	},
+	{
+		"id": 190000,
+		"eng": "Deep red hood that covers the whole head",
+		"chn": "用来盖住头部的深红色风帽"
+	},
+	{
+		"id": 190100,
+		"eng": "Worn body armor, wrapped in a great cloth ",
+		"chn": "盖着大片布料，受战事与海风洗礼的铠甲"
+	},
+	{
+		"id": 190200,
+		"eng": "Iron gauntlets worn by salt winds and battle",
+		"chn": "受战事与海风洗礼的铁臂甲"
+	},
+	{
+		"id": 190300,
+		"eng": "Iron greaves worn by salt winds and battle",
+		"chn": "受战事与海风洗礼的铁腿甲"
+	},
+	{
+		"id": 200000,
+		"eng": "Knight's helm covered in a long cloth of deep red",
+		"chn": "表面盖着深红色布料的骑士头盔"
+	},
+	{
+		"id": 200100,
+		"eng": "Knight's armor, worn by salt winds and battle",
+		"chn": "受战事与海风洗礼的骑士铠甲"
+	},
+	{
+		"id": 200200,
+		"eng": "Knight's gauntlets, worn by salt winds and battle",
+		"chn": "受战事与海风洗礼的骑士臂甲"
+	},
+	{
+		"id": 200300,
+		"eng": "Knight's greaves, worn by salt winds and battle",
+		"chn": "受战事与海风洗礼的骑士腿甲"
+	},
+	{
+		"id": 201000,
+		"eng": "Helm of a Stormveil Knight",
+		"chn": "史东薇尔骑士的头盔"
+	},
+	{
+		"id": 201100,
+		"eng": "Armor of a Stormveil Knight",
+		"chn": "史东薇尔骑士的铠甲"
+	},
+	{
+		"id": 210000,
+		"eng": "Helm worn by Condor Knights",
+		"chn": "秃鹰骑士穿戴的头盔"
+	},
+	{
+		"id": 210100,
+		"eng": "Armor worn by Condor Knights",
+		"chn": "秃鹰骑士穿戴的铠甲"
+	},
+	{
+		"id": 210200,
+		"eng": "Gauntlets worn by Condor Knights",
+		"chn": "秃鹰骑士穿戴的臂甲"
+	},
+	{
+		"id": 210300,
+		"eng": "Greaves worn by Condor Knights",
+		"chn": "秃鹰骑士穿戴的腿甲"
+	},
+	{
+		"id": 211100,
+		"eng": "Armor worn by Condor Knights",
+		"chn": "秃鹰骑士穿戴的铠甲"
+	},
+	{
+		"id": 220000,
+		"eng": "Hood worn by pages",
+		"chn": "随从穿戴的风帽"
+	},
+	{
+		"id": 220100,
+		"eng": "Garb worn by pages",
+		"chn": "随从穿戴的上衣"
+	},
+	{
+		"id": 220300,
+		"eng": "Trousers worn by pages",
+		"chn": "随从穿戴的长裤"
+	},
+	{
+		"id": 221100,
+		"eng": "Tunic worn by pages",
+		"chn": "随从穿戴的上衣"
+	},
+	{
+		"id": 230000,
+		"eng": "Helm covered in blackened bloodstains",
+		"chn": "表面变质成黑色，带有血痕的头盔"
+	},
+	{
+		"id": 230100,
+		"eng": "Armor covered in blackened bloodstains",
+		"chn": "表面变质成黑色，带有血痕的铠甲"
+	},
+	{
+		"id": 230200,
+		"eng": "Gauntlets covered in blackened bloodstains",
+		"chn": "表面变质成黑色，带有血痕的臂甲"
+	},
+	{
+		"id": 230300,
+		"eng": "Greaves covered in blackened bloodstains",
+		"chn": "表面变质成黑色，带有血痕的腿甲"
+	},
+	{
+		"id": 231000,
+		"eng": "Light helm covered in blackened bloodstains",
+		"chn": "表面变质成黑色，带有血痕、轻量化的头盔"
+	},
+	{
+		"id": 231100,
+		"eng": "Armor covered in blackened bloodstains",
+		"chn": "表面变质成黑色，带有血痕的铠甲"
+	},
+	{
+		"id": 240000,
+		"eng": "Chainmail hood made of motherly silver",
+		"chn": "从母质“银”化成丝编成的风帽"
+	},
+	{
+		"id": 240100,
+		"eng": "Chainmail armor made of motherly silver",
+		"chn": "从母质“银”化成丝编成的铠甲"
+	},
+	{
+		"id": 240200,
+		"eng": "Bracelets made of motherly silver",
+		"chn": "从母质“银”制成的手环"
+	},
+	{
+		"id": 240300,
+		"eng": "Chainmail skirt made of motherly silver",
+		"chn": "从母质“银”化成丝编成的长裙"
+	},
+	{
+		"id": 241100,
+		"eng": "Armor made of motherly silver",
+		"chn": "从母质“银”化成丝编成的铠甲"
+	},
+	{
+		"id": 250000,
+		"eng": "Peddler Kalé's hat",
+		"chn": "流浪旅行商人咖列的帽子"
+	},
+	{
+		"id": 250100,
+		"eng": "Peddler Kalé's cloak",
+		"chn": "流浪旅行商人咖列的斗篷"
+	},
+	{
+		"id": 250300,
+		"eng": "Peddler Kalé's trousers",
+		"chn": "流浪旅行商人咖列的长裤"
+	},
+	{
+		"id": 251100,
+		"eng": "Peddler Kalé's vest",
+		"chn": "流浪旅行商人咖列的背心"
+	},
+	{
+		"id": 260000,
+		"eng": "Malformed, golden helm used by Gnarrl",
+		"chn": "大树守卫奈鲁尔的扭曲黄金头盔"
+	},
+	{
+		"id": 260100,
+		"eng": "Malformed, golden armor used by Gnarrl",
+		"chn": "大树守卫奈鲁尔的扭曲黄金铠甲"
+	},
+	{
+		"id": 260200,
+		"eng": "Malformed, golden gauntlets used by Gnarrl",
+		"chn": "大树守卫奈鲁尔的扭曲黄金臂甲"
+	},
+	{
+		"id": 260300,
+		"eng": "Malformed, golden greaves used by Gnarrl",
+		"chn": "大树守卫奈鲁尔的扭曲黄金腿甲"
+	},
+	{
+		"id": 270000,
+		"eng": "Helm of a Tree Sentinel",
+		"chn": "大树守卫的黄金头盔"
+	},
+	{
+		"id": 270100,
+		"eng": "Armor of a Tree Sentinel",
+		"chn": "大树守卫的黄金铠甲"
+	},
+	{
+		"id": 270200,
+		"eng": "Gauntlets of a Tree Sentinel",
+		"chn": "大树守卫的黄金臂甲"
+	},
+	{
+		"id": 270300,
+		"eng": "Greaves of a Tree Sentinel",
+		"chn": "大树守卫的黄金腿甲"
+	},
+	{
+		"id": 271100,
+		"eng": "Armor of a Tree Sentinel",
+		"chn": "大树守卫的黄金铠甲"
+	},
+	{
+		"id": 280000,
+		"eng": "Helm of an Arbor Sentinel",
+		"chn": "稚树守卫穿戴的银铁头盔"
+	},
+	{
+		"id": 280100,
+		"eng": "Armor of an Arbor Sentinel",
+		"chn": "稚树守卫穿戴的银铁铠甲"
+	},
+	{
+		"id": 280200,
+		"eng": "Gauntlets of an Arbor Sentinel",
+		"chn": "稚树守卫穿戴的银铁臂甲"
+	},
+	{
+		"id": 280300,
+		"eng": "Greaves of an Arbor Sentinel",
+		"chn": "稚树守卫穿戴的银铁腿甲"
+	},
+	{
+		"id": 281100,
+		"eng": "Armor of an Arbor Sentinel",
+		"chn": "稚树守卫穿戴的银铁铠甲"
+	},
+	{
+		"id": 290000,
+		"eng": "Hood worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的风帽"
+	},
+	{
+		"id": 290100,
+		"eng": "Armor worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的铠甲"
+	},
+	{
+		"id": 290200,
+		"eng": "Bracelets worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的手环"
+	},
+	{
+		"id": 290300,
+		"eng": "Waistcloth worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的腰巾"
+	},
+	{
+		"id": 291000,
+		"eng": "Headband worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的头巾"
+	},
+	{
+		"id": 291100,
+		"eng": "Vest worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的背心"
+	},
+	{
+		"id": 292000,
+		"eng": "Crown worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的头冠"
+	},
+	{
+		"id": 292100,
+		"eng": "Robe worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的长袍"
+	},
+	{
+		"id": 293000,
+		"eng": "Crown worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的头冠"
+	},
+	{
+		"id": 293100,
+		"eng": "Tunic worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的上衣"
+	},
+	{
+		"id": 294000,
+		"eng": "Crown worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的头冠"
+	},
+	{
+		"id": 294100,
+		"eng": "Tunic worn by members of the Empyrean family",
+		"chn": "神人一族穿戴的上衣"
+	},
+	{
+		"id": 300000,
+		"eng": "Headband worn by worshippers of stag specters",
+		"chn": "鹿灵信徒穿戴的头带"
+	},
+	{
+		"id": 300100,
+		"eng": "Garb worn by worshippers of stag specters",
+		"chn": "鹿灵信徒穿戴的上衣"
+	},
+	{
+		"id": 300300,
+		"eng": "Leggings worn by worshippers of stag specters",
+		"chn": "鹿灵信徒穿戴的绑腿"
+	},
+	{
+		"id": 310000,
+		"eng": "Bronze helm adorned with many snakes",
+		"chn": "装饰大量蛇造型物的青铜头盔"
+	},
+	{
+		"id": 310100,
+		"eng": "Robe made from a beast pelt",
+		"chn": "以猛兽毛皮制成的长袍"
+	},
+	{
+		"id": 310300,
+		"eng": "Bronze anklets adorned with snakes",
+		"chn": "以缠绕的蛇为主题制成的青铜脚环"
+	},
+	{
+		"id": 311100,
+		"eng": "Bronze bracelets adorned with snakes",
+		"chn": "在竞技场以战斗维生的剑斗士穿戴的上衣"
+	},
+	{
+		"id": 320000,
+		"eng": "Hood of dyed black cloth featuring gold embroidery",
+		"chn": "布料染黑后缀以金色刺绣的风帽"
+	},
+	{
+		"id": 320100,
+		"eng": "Robe of dyed black cloth featuring gold embroidery",
+		"chn": "布料染黑后缀以金色刺绣的长袍"
+	},
+	{
+		"id": 320300,
+		"eng": "Waistcloth of dyed black material",
+		"chn": "布料染黑后制成的腰巾"
+	},
+	{
+		"id": 330000,
+		"eng": "Mask worn by the people of rotted abundance",
+		"chn": "已然腐败的丰饶之民穿戴的面具"
+	},
+	{
+		"id": 330100,
+		"eng": "Armor worn by the people of rotted abundance",
+		"chn": "已然腐败的丰饶之民穿戴的开花铠甲"
+	},
+	{
+		"id": 330200,
+		"eng": "Gauntlets worn by the people of rotted abundance",
+		"chn": "已然腐败的丰饶之民穿戴的臂甲"
+	},
+	{
+		"id": 330300,
+		"eng": "Greaves worn by the people of rotted abundance",
+		"chn": "已然腐败的丰饶之民穿戴的腿甲"
+	},
+	{
+		"id": 331100,
+		"eng": "Vest worn by the people of rotted abundance",
+		"chn": "已然腐败的丰饶之民穿戴的背心"
+	},
+	{
+		"id": 340000,
+		"eng": "Helm of a Wing Knight. Somewhat decayed...",
+		"chn": "飞翼骑士的腐败头盔"
+	},
+	{
+		"id": 340100,
+		"eng": "Armor of a Wing Knight. Somewhat decayed...",
+		"chn": "飞翼骑士的腐败铠甲"
+	},
+	{
+		"id": 340200,
+		"eng": "Gauntlets of a Wing Knight. Somewhat decayed...",
+		"chn": "飞翼骑士的腐败臂甲"
+	},
+	{
+		"id": 340300,
+		"eng": "Greaves of a Wing Knight. Somewhat decayed...",
+		"chn": "飞翼骑士的腐败腿甲"
+	},
+	{
+		"id": 341000,
+		"eng": "Light helm of a Wing Knight. Somewhat decayed…",
+		"chn": "飞翼骑士的腐败、轻量化头盔"
+	},
+	{
+		"id": 341100,
+		"eng": "Armor of a Wing Knight. Somewhat decayed…",
+		"chn": "飞翼骑士的腐败铠甲"
+	},
+	{
+		"id": 350000,
+		"eng": "Mail helm covering a headband engraved with flames",
+		"chn": "以火焰形象制成的额冠，再披上锁子甲"
+	},
+	{
+		"id": 350100,
+		"eng": "Fire Monk armor adorned with a red cloth",
+		"chn": "搭配鲜红上衣的火焰习武修士铠甲"
+	},
+	{
+		"id": 350200,
+		"eng": "Fire Monk gauntlets which resemble flames",
+		"chn": "参考火纹制成的火焰习武修士臂甲"
+	},
+	{
+		"id": 350300,
+		"eng": "Fire Monk greaves which resemble flames",
+		"chn": "参考火纹制成的火焰习武修士腿甲"
+	},
+	{
+		"id": 351000,
+		"eng": "Chain helm worn above a fire shaped crown",
+		"chn": "以火焰形象制成的额冠，再披上锁子甲"
+	},
+	{
+		"id": 351100,
+		"eng": "Godskin Monk armor adorned with a white cloth",
+		"chn": "搭配雪白上衣的神皮习武修士铠甲"
+	},
+	{
+		"id": 351200,
+		"eng": "Godskin Monk gauntlets which resemble flames",
+		"chn": "搭配雪白上衣的神皮习武修士臂甲"
+	},
+	{
+		"id": 351300,
+		"eng": "Godskin Monk greaves which resemble flames",
+		"chn": "搭配雪白上衣的神皮习武修士腿甲"
+	},
+	{
+		"id": 360000,
+		"eng": "Fire Prelate helm sculpted in the image of a sage",
+		"chn": "以年长智者形象制成的火焰主教头盔"
+	},
+	{
+		"id": 360100,
+		"eng": "Fire Prelate armor adorned with a red cloth",
+		"chn": "搭配鲜红上衣的火焰主教铠甲"
+	},
+	{
+		"id": 360200,
+		"eng": "Fire Prelate gauntlets which resemble flames",
+		"chn": "参考火纹制成的火焰主教臂甲"
+	},
+	{
+		"id": 360300,
+		"eng": "Fire Prelate greaves which resemble flames",
+		"chn": "参考火纹制成的火焰主教腿甲"
+	},
+	{
+		"id": 361100,
+		"eng": "Fire Prelate armor adorned with a red cloth",
+		"chn": "搭配鲜红上衣的火焰主教铠甲"
+	},
+	{
+		"id": 370000,
+		"eng": "Aristocrat headband, decorated with fine goldwork",
+		"chn": "缀以黄金雕饰的王民头带"
+	},
+	{
+		"id": 370100,
+		"eng": "Aristocrat garb featuring fine gold embroidery",
+		"chn": "缀以细致金色刺绣的王民上衣"
+	},
+	{
+		"id": 370300,
+		"eng": "Aristocrat boots, made of thick leather",
+		"chn": "用厚实皮革制作的王民长靴"
+	},
+	{
+		"id": 371100,
+		"eng": "Aristocrat garb, adorned with golden embroidery",
+		"chn": "缀以细致金色刺绣的王民上衣"
+	},
+	{
+		"id": 380000,
+		"eng": "Aristocrat hat, decorated with a marcescent feather",
+		"chn": "用稀疏羽毛装饰的王民帽子"
+	},
+	{
+		"id": 380100,
+		"eng": "Aristocrat coat featuring fine gold embroidery",
+		"chn": "缀以细致金色刺绣的王民大衣"
+	},
+	{
+		"id": 390000,
+		"eng": "Aristocrat hood, made from superior cloth",
+		"chn": "用优质布料制作的王民头巾"
+	},
+	{
+		"id": 390100,
+		"eng": "Aristocrat gown featuring fine gold embroidery",
+		"chn": "缀以细致金色刺绣的王民长袍"
+	},
+	{
+		"id": 390300,
+		"eng": "Aristocrat shoes made from sturdy leather",
+		"chn": "作工坚固，皮革制的王民短靴"
+	},
+	{
+		"id": 420000,
+		"eng": "Helm worn by wandering soldiers",
+		"chn": "四处徘徊的恶质士兵穿戴的头盔"
+	},
+	{
+		"id": 420100,
+		"eng": "Armor worn by wandering soldiers",
+		"chn": "四处徘徊的恶质士兵穿戴的铠甲"
+	},
+	{
+		"id": 420200,
+		"eng": "Gloves worn by wandering soldiers",
+		"chn": "四处徘徊的恶质士兵穿戴的手套"
+	},
+	{
+		"id": 420300,
+		"eng": "Boots worn by wandering soldiers",
+		"chn": "四处徘徊的恶质士兵穿戴的靴子"
+	},
+	{
+		"id": 430000,
+		"eng": "Hood of a travelling musician gripped by death",
+		"chn": "受死亡所困的旅行乐师穿戴的风帽"
+	},
+	{
+		"id": 430100,
+		"eng": "Robe of a travelling musician gripped by death",
+		"chn": "受死亡所困的旅行乐师穿戴的长袍"
+	},
+	{
+		"id": 430300,
+		"eng": "Waistcloth of travelling musician gripped by death",
+		"chn": "受死亡所困的旅行乐师穿戴的腰巾"
+	},
+	{
+		"id": 440000,
+		"eng": "Oval helmet large enough to cover any head",
+		"chn": "完全覆盖头部的椭圆形头盔"
+	},
+	{
+		"id": 460000,
+		"eng": "Crown of Godfrey, the first Elden Lord",
+		"chn": "初始艾尔登之王葛孚雷的王冠"
+	},
+	{
+		"id": 460100,
+		"eng": "Armor of Godfrey, the first Elden Lord",
+		"chn": "初始艾尔登之王葛孚雷的铠甲"
+	},
+	{
+		"id": 460200,
+		"eng": "Gauntlets of Godfrey, the first Elden Lord",
+		"chn": "初始艾尔登之王葛孚雷的臂甲"
+	},
+	{
+		"id": 460300,
+		"eng": "Greaves of Godfrey, the first Elden Lord",
+		"chn": "初始艾尔登之王葛孚雷的腿甲"
+	},
+	{
+		"id": 461100,
+		"eng": "Armor of Godfrey, the first Elden Lord",
+		"chn": "初始艾尔登之王葛孚雷的铠甲"
+	},
+	{
+		"id": 470000,
+		"eng": "Helm of Radahn, God of War",
+		"chn": "战神拉塔恩将军的头盔"
+	},
+	{
+		"id": 470100,
+		"eng": "Armor of Radahn, God of War",
+		"chn": "战神拉塔恩将军的铠甲"
+	},
+	{
+		"id": 470200,
+		"eng": "Gauntlets of Radahn, God of War",
+		"chn": "战神拉塔恩将军的臂甲"
+	},
+	{
+		"id": 470300,
+		"eng": "Greaves of Radahn, God of War",
+		"chn": "战神拉塔恩将军的腿甲"
+	},
+	{
+		"id": 471100,
+		"eng": "Armor of Radahn, God of War",
+		"chn": "战神拉塔恩将军的铠甲"
+	},
+	{
+		"id": 480100,
+		"eng": "Robe of Mohg, Lord of Blood",
+		"chn": "鲜血君王蒙格的长袍"
+	},
+	{
+		"id": 481100,
+		"eng": "Gown of Mohg, Lord of Blood",
+		"chn": "鲜血君王蒙格的长袍"
+	},
+	{
+		"id": 510000,
+		"eng": "Crown of Rennala, the Full Moon Witch",
+		"chn": "满月魔法师蕾娜菈的头冠"
+	},
+	{
+		"id": 510100,
+		"eng": "Robe of Rennala, the Full Moon Witch",
+		"chn": "满月魔法师蕾娜菈的长袍"
+	},
+	{
+		"id": 510200,
+		"eng": "Bracelet of Rennala, the Full Moon Witch",
+		"chn": "满月魔法师蕾娜菈的手环"
+	},
+	{
+		"id": 510300,
+		"eng": "Trousers of Rennala, the Full Moon Witch",
+		"chn": "满月魔法师蕾娜菈的长裤"
+	},
+	{
+		"id": 520000,
+		"eng": "Hood made from tanned Demigod skin",
+		"chn": "用半神的皮鞣成的风帽"
+	},
+	{
+		"id": 520100,
+		"eng": "Robe made from tanned Demigod skin",
+		"chn": "用半神的皮鞣成的长袍"
+	},
+	{
+		"id": 520200,
+		"eng": "Bracelets made from tanned Demigod skin",
+		"chn": "用半神的皮鞣成的手环"
+	},
+	{
+		"id": 520300,
+		"eng": "Boots made from tanned Demigod skin",
+		"chn": "用半神的皮鞣成的靴子"
+	},
+	{
+		"id": 530000,
+		"eng": "Hood made from tanned corpulent Demigod skin",
+		"chn": "用丰腴半神的皮鞣成的风帽"
+	},
+	{
+		"id": 530100,
+		"eng": "Robe made from tanned corpulent Demigod skin",
+		"chn": "用丰腴半神的皮鞣成的长袍"
+	},
+	{
+		"id": 530200,
+		"eng": "Bracelets made from tanned corpulent Demigod skin",
+		"chn": "用丰腴半神的皮鞣成的手环"
+	},
+	{
+		"id": 530300,
+		"eng": "Boots made from tanned corpulent Demigod skin",
+		"chn": "用丰腴半神的皮鞣成的靴子"
+	},
+	{
+		"id": 540000,
+		"eng": "Hood of a depraved perfumer gripped by madness",
+		"chn": "陷入疯狂，因此堕落的调香师穿戴的风帽"
+	},
+	{
+		"id": 540100,
+		"eng": "Robe of a depraved perfumer gripped by madness",
+		"chn": "陷入疯狂，因此堕落的调香师穿戴的长袍"
+	},
+	{
+		"id": 540200,
+		"eng": "Gloves of a depraved perfumer gripped by madness",
+		"chn": "陷入疯狂，因此堕落的调香师穿戴的手套"
+	},
+	{
+		"id": 540300,
+		"eng": "Boots of a depraved perfumer gripped by madness",
+		"chn": "陷入疯狂，因此堕落的调香师穿戴的靴子"
+	},
+	{
+		"id": 541100,
+		"eng": "Tunic of a depraved perfumer gripped by madness",
+		"chn": "陷入疯狂，因此堕落的调香师穿戴的上衣"
+	},
+	{
+		"id": 570000,
+		"eng": "Helm used by Ordovis of the Crucible and his men",
+		"chn": "熔炉骑士奥陶琵斯与其部下穿戴的头盔"
+	},
+	{
+		"id": 570100,
+		"eng": "Armor used by Ordovis of the Crucible and his men",
+		"chn": "熔炉骑士奥陶琵斯与其部下穿戴的铠甲"
+	},
+	{
+		"id": 570200,
+		"eng": "Gauntlets used by the Crucible Knights",
+		"chn": "侍奉初始艾尔登之王的熔炉骑士穿戴的臂甲"
+	},
+	{
+		"id": 570300,
+		"eng": "Greaves used by the Crucible Knights",
+		"chn": "侍奉初始艾尔登之王的熔炉骑士穿戴的腿甲"
+	},
+	{
+		"id": 571000,
+		"eng": "Helm used by Siluria of the Crucible and her men",
+		"chn": "熔炉骑士志留亚与其部下穿戴的头盔"
+	},
+	{
+		"id": 571100,
+		"eng": "Armor used by Siluria of the Crucible and her men",
+		"chn": "熔炉骑士志留亚与其部下穿戴的铠甲"
+	},
+	{
+		"id": 572100,
+		"eng": "Armor used by Ordovis of the Crucible and his men",
+		"chn": "熔炉骑士奥陶琵斯与其部下穿戴的铠甲"
+	},
+	{
+		"id": 573100,
+		"eng": "Armor used by Siluria of the Crucible and her men",
+		"chn": "熔炉骑士志留亚与其部下穿戴的铠甲"
+	},
+	{
+		"id": 580000,
+		"eng": "Skull-merged Crown of a Crystal Sorcerer",
+		"chn": "水晶魔法师们穿戴，与头盖骨化为一体的魔法头冠"
+	},
+	{
+		"id": 580100,
+		"eng": "Dull red robe of a Crystal Sorcerer",
+		"chn": "水晶魔法师们穿戴的暗红污浊长袍"
+	},
+	{
+		"id": 580200,
+		"eng": "Dull red  arm wraps of a Crystal Sorcerer",
+		"chn": "水晶魔法师们穿戴的暗红污浊腕套"
+	},
+	{
+		"id": 580300,
+		"eng": "Dull red waistcloth of a Crystal Sorcerer",
+		"chn": "水晶魔法师们穿戴的暗红污浊腰巾"
+	},
+	{
+		"id": 581000,
+		"eng": "Blue transparent crown of a Crystal Sorcerer",
+		"chn": "水晶魔法师们穿戴，苍蓝清透的魔法头冠"
+	},
+	{
+		"id": 581100,
+		"eng": "Blue transparent robe of a Crystal Sorcerer",
+		"chn": "水晶魔法师们穿戴，苍蓝清透的长袍"
+	},
+	{
+		"id": 581200,
+		"eng": "Blue transparent arm wraps of a Crystal Sorcerer",
+		"chn": "水晶魔法师们穿戴，苍蓝清透的腕套"
+	},
+	{
+		"id": 590000,
+		"eng": "Helm of Gideon Ofnir, the All-Knowing",
+		"chn": "百智爵士基甸·奥夫尼尔的头盔"
+	},
+	{
+		"id": 590100,
+		"eng": "Armor of Gideon Ofnir, the All-Knowing",
+		"chn": "百智爵士基甸·奥夫尼尔的铠甲"
+	},
+	{
+		"id": 590200,
+		"eng": "Gauntlets of Gideon Ofnir, the All-Knowing",
+		"chn": "百智爵士基甸·奥夫尼尔的臂甲"
+	},
+	{
+		"id": 590300,
+		"eng": "Greaves of Gideon Ofnir, the All-Knowing",
+		"chn": "百智爵士基甸·奥夫尼尔的腿甲"
+	},
+	{
+		"id": 591100,
+		"eng": "Armor of Gideon Ofnir, the All-Knowing",
+		"chn": "百智爵士基甸·奥夫尼尔的铠甲"
+	},
+	{
+		"id": 600000,
+		"eng": "Helm worn by D, Knight of the Golden Order",
+		"chn": "黄金律法骑士Ｄ穿戴的头盔"
+	},
+	{
+		"id": 600100,
+		"eng": "Armor worn by D, Knight of the Golden Order",
+		"chn": "黄金律法骑士Ｄ穿戴的铠甲"
+	},
+	{
+		"id": 600200,
+		"eng": "Gauntlets worn by D, Knight of the Golden Order",
+		"chn": "黄金律法骑士Ｄ穿戴的臂甲"
+	},
+	{
+		"id": 600300,
+		"eng": "Greaves worn by D, Knight of the Golden Order",
+		"chn": "黄金律法骑士Ｄ穿戴的腿甲"
+	},
+	{
+		"id": 601100,
+		"eng": "Armor worn by D, Knight of the Golden Order",
+		"chn": "黄金律法骑士Ｄ穿戴的铠甲"
+	},
+	{
+		"id": 601300,
+		"eng": "Greaves worn by D, Knight of the Golden Order",
+		"chn": "黄金律法骑士Ｄ穿戴的腿甲"
+	},
+	{
+		"id": 610000,
+		"eng": "Helm pieced together from scavenged metal",
+		"chn": "捡拾战场上的金属拼凑制成的头盔"
+	},
+	{
+		"id": 610100,
+		"eng": "Armor pieced together from scavenged metal",
+		"chn": "捡拾战场上的金属拼凑制成的铠甲"
+	},
+	{
+		"id": 610200,
+		"eng": "Gauntlets pieced together from scavenged metal",
+		"chn": "捡拾战场上的金属拼凑制成的臂甲"
+	},
+	{
+		"id": 610300,
+		"eng": "Greaves pieced together from scavenged metal",
+		"chn": "捡拾战场上的布拼凑制成的袜子"
+	},
+	{
+		"id": 611000,
+		"eng": "Helm pieced together from scavenged metal",
+		"chn": "捡拾战场上的金属拼凑制成的头盔"
+	},
+	{
+		"id": 611100,
+		"eng": "Armor pieced together from scavenged metal",
+		"chn": "捡拾战场上的金属拼凑制成的铠甲"
+	},
+	{
+		"id": 620000,
+		"eng": "Blindfold of the exiled prophets",
+		"chn": "被赶出故乡的预言家穿戴的眼罩"
+	},
+	{
+		"id": 620100,
+		"eng": "Robe of the exiled prophets",
+		"chn": "被赶出故乡的预言家穿戴的长袍"
+	},
+	{
+		"id": 620300,
+		"eng": "Trousers of the exiled prophets",
+		"chn": "被赶出故乡的预言家穿戴的长裤"
+	},
+	{
+		"id": 621100,
+		"eng": "Robe of the exiled prophets",
+		"chn": "被赶出故乡的预言家穿戴的长袍"
+	},
+	{
+		"id": 622100,
+		"eng": "Tunic of the exiled prophets",
+		"chn": "被赶出故乡的预言家穿戴的长袍"
+	},
+	{
+		"id": 630000,
+		"eng": "Hood of the glintstone polishers",
+		"chn": "打磨辉石的工匠穿戴的风帽"
+	},
+	{
+		"id": 630100,
+		"eng": "Robe of the glintstone polishers",
+		"chn": "打磨辉石的工匠穿戴的长袍"
+	},
+	{
+		"id": 630200,
+		"eng": "Gloves of the glintstone polishers",
+		"chn": "打磨辉石的工匠穿戴的手套"
+	},
+	{
+		"id": 630300,
+		"eng": "Trousers of the glintstone polishers",
+		"chn": "打磨辉石的工匠穿戴的长裤"
+	},
+	{
+		"id": 631100,
+		"eng": "Robe of the glintstone polishers",
+		"chn": "打磨辉石的工匠穿戴的长袍"
+	},
+	{
+		"id": 640000,
+		"eng": "Oddly shaped helm used by foreign knights",
+		"chn": "异国骑士们穿戴，有着独特形状的头盔"
+	},
+	{
+		"id": 640100,
+		"eng": "Oddly shaped armor used by foreign knights",
+		"chn": "异国骑士们穿戴，有着独特形状的铠甲"
+	},
+	{
+		"id": 640200,
+		"eng": "Oddly shaped gauntlets used by foreign knights",
+		"chn": "异国骑士们穿戴，有着独特形状的臂甲"
+	},
+	{
+		"id": 640300,
+		"eng": "Oddly shaped greaves used by foreign knights",
+		"chn": "异国骑士们穿戴，有着独特形状的腿甲"
+	},
+	{
+		"id": 641100,
+		"eng": "Oddly shaped armor used by foreign knights",
+		"chn": "异国骑士们穿戴，有着独特形状的铠甲"
+	},
+	{
+		"id": 650000,
+		"eng": "Heavy helm passed down through the Hoslow family",
+		"chn": "霍斯劳家族代代相传的传统重头盔"
+	},
+	{
+		"id": 650100,
+		"eng": "Armor passed down through the Hoslow family",
+		"chn": "霍斯劳家族代代相传的传统铠甲"
+	},
+	{
+		"id": 650200,
+		"eng": "Gauntlets passed down through the Hoslow family",
+		"chn": "霍斯劳家族代代相传的传统臂甲"
+	},
+	{
+		"id": 650300,
+		"eng": "Greaves passed down through the Hoslow family",
+		"chn": "霍斯劳家族代代相传的传统腿甲"
+	},
+	{
+		"id": 651000,
+		"eng": "Helm passed down through the Hoslow family",
+		"chn": "霍斯劳家族代代相传的传统头盔"
+	},
+	{
+		"id": 652100,
+		"eng": "Armor passed down through the Hoslow family",
+		"chn": "霍斯劳家族代代相传的传统铠甲"
+	},
+	{
+		"id": 660000,
+		"eng": "Helm of a banished knight",
+		"chn": "受祖国放逐的骑士穿戴的头盔"
+	},
+	{
+		"id": 660100,
+		"eng": "Armor  of a banished knight",
+		"chn": "受祖国放逐的骑士穿戴的铠甲"
+	},
+	{
+		"id": 660200,
+		"eng": "Gauntlets of a banished knight",
+		"chn": "受祖国放逐的骑士穿戴的臂甲"
+	},
+	{
+		"id": 660300,
+		"eng": "Greaves of a banished knight",
+		"chn": "受祖国放逐的骑士穿戴的腿甲"
+	},
+	{
+		"id": 661100,
+		"eng": "Chest Piece of a banished knight",
+		"chn": "受祖国放逐的骑士穿戴的铠甲"
+	},
+	{
+		"id": 670000,
+		"eng": "Cowl of a nomadic warrior, made of blue cloth",
+		"chn": "游牧民族剑士的蓝色头巾"
+	},
+	{
+		"id": 670100,
+		"eng": "Vest of a nomadic warrior, made of blue cloth",
+		"chn": "游牧民族剑士的蓝色上衣"
+	},
+	{
+		"id": 670200,
+		"eng": "Gauntlets of a nomadic warrior",
+		"chn": "游牧民族剑士的臂甲"
+	},
+	{
+		"id": 670300,
+		"eng": "Greaves of a nomadic warrior",
+		"chn": "游牧民族剑士的腿甲"
+	},
+	{
+		"id": 680000,
+		"eng": "Strange birch mask that hides one's expression",
+		"chn": "用来掩饰表情，诡异的白木制面具"
+	},
+	{
+		"id": 680100,
+		"eng": "Old white tunic, stained with blood",
+		"chn": "布满血迹的老旧白上衣"
+	},
+	{
+		"id": 680200,
+		"eng": "Physician's gloves made from thick leather",
+		"chn": "以厚实皮革制成，流浪医师穿戴的手套"
+	},
+	{
+		"id": 680300,
+		"eng": "Physician's trousers made from thick leather",
+		"chn": "以厚实皮革制成，流浪医师穿戴的长裤"
+	},
+	{
+		"id": 681100,
+		"eng": "Physician's vest made from thick leather",
+		"chn": "以厚实皮革制成，流浪医师穿戴的背心"
+	},
+	{
+		"id": 690000,
+		"eng": "Mask that mediates via body of famed ancestor",
+		"chn": "将知名祖先的遗体作为媒介使用的狂人面具"
+	},
+	{
+		"id": 690100,
+		"eng": "Armor that mediates via body of famed ancestor",
+		"chn": "将知名祖先的遗体作为媒介使用的狂人铠甲"
+	},
+	{
+		"id": 690200,
+		"eng": "Gauntlets that mediate via body of famed ancestor",
+		"chn": "将知名祖先的遗体作为媒介使用的狂人臂甲"
+	},
+	{
+		"id": 690300,
+		"eng": "Greaves that mediate via body of famed ancestor",
+		"chn": "将知名祖先的遗体作为媒介使用的狂人腿甲"
+	},
+	{
+		"id": 700000,
+		"eng": "Headband of a warrior of the frigid uplands",
+		"chn": "寒冷高地的战士穿戴的额带"
+	},
+	{
+		"id": 700100,
+		"eng": "Battlewear of a warrior of the frigid uplands",
+		"chn": "寒冷高地的战士穿戴的战袍"
+	},
+	{
+		"id": 700200,
+		"eng": "Gauntlets of a warrior of the frigid uplands",
+		"chn": "寒冷高地的战士穿戴的臂甲"
+	},
+	{
+		"id": 700300,
+		"eng": "Greaves of a warrior of the frigid uplands",
+		"chn": "寒冷高地的战士穿戴的腿甲"
+	},
+	{
+		"id": 701000,
+		"eng": "Helm of a warrior of the frigid uplands",
+		"chn": "寒冷高地的战士穿戴的头盔"
+	},
+	{
+		"id": 702000,
+		"eng": "Battlewear of a warrior of the frigid uplands",
+		"chn": "寒冷高地的战士穿戴的战袍"
+	},
+	{
+		"id": 720000,
+		"eng": "Helm of Belnahr the Traitor",
+		"chn": "叛律者贝纳尔的头盔"
+	},
+	{
+		"id": 720100,
+		"eng": "Armor of Belnahr the Traitor",
+		"chn": "叛律者贝纳尔的铠甲"
+	},
+	{
+		"id": 720200,
+		"eng": "Gauntlets of Belnahr the Traitor",
+		"chn": "叛律者贝纳尔的臂甲"
+	},
+	{
+		"id": 720300,
+		"eng": "Greaves of Belnahr the Traitor",
+		"chn": "叛律者贝纳尔的腿甲"
+	},
+	{
+		"id": 721100,
+		"eng": "Armor of Belnahr the Traitor",
+		"chn": "叛律者贝纳尔的铠甲"
+	},
+	{
+		"id": 730000,
+		"eng": "Headband reserved for the badlands' bravest",
+		"chn": "在蛮荒地，仅限勇者配戴的头带"
+	},
+	{
+		"id": 730100,
+		"eng": "Pauldron reserved for the badlands' bravest",
+		"chn": "在蛮荒地，仅限勇者配戴的肩甲"
+	},
+	{
+		"id": 730200,
+		"eng": "Gauntlets reserved for the badlands' bravest",
+		"chn": "在蛮荒地，仅限勇者配戴的臂甲"
+	},
+	{
+		"id": 730300,
+		"eng": "Gaiters formed only of leather straps",
+		"chn": "缠绕皮带的绑腿"
+	},
+	{
+		"id": 740000,
+		"eng": "Hooded cloak of expatriated royalty",
+		"chn": "流浪在外的王室成员穿戴的附帽长袍"
+	},
+	{
+		"id": 740100,
+		"eng": "Armor of expatriated royalty",
+		"chn": "流浪在外的王室成员穿戴的铠甲"
+	},
+	{
+		"id": 740200,
+		"eng": "Gloves of expatriated royalty",
+		"chn": "流浪在外的王室成员穿戴的手套"
+	},
+	{
+		"id": 740300,
+		"eng": "Trousers of expatriated royalty",
+		"chn": "流浪在外的王室成员穿戴的长裤"
+	},
+	{
+		"id": 741000,
+		"eng": "Hooded cloak of expatriated royalty",
+		"chn": "流浪在外的王室成员穿戴的附帽长袍"
+	},
+	{
+		"id": 760000,
+		"eng": "Helm of Maliketh the Black Blade",
+		"chn": "黑剑玛利喀斯的头盔"
+	},
+	{
+		"id": 760100,
+		"eng": "Armor of Maliketh the Black Blade",
+		"chn": "黑剑玛利喀斯的铠甲"
+	},
+	{
+		"id": 760200,
+		"eng": "Gauntlets of Maliketh the Black Blade",
+		"chn": "黑剑玛利喀斯的臂甲"
+	},
+	{
+		"id": 760300,
+		"eng": "Greaves of Maliketh the Black Blade",
+		"chn": "黑剑玛利喀斯的腿甲"
+	},
+	{
+		"id": 761100,
+		"eng": "Armor of Maliketh the Black Blade",
+		"chn": "黑剑玛利喀斯的铠甲"
+	},
+	{
+		"id": 770000,
+		"eng": "Helm of Arbitress Malenia",
+		"chn": "调停者玛莲妮亚的头盔"
+	},
+	{
+		"id": 770100,
+		"eng": "Armor of Arbitress Malenia",
+		"chn": "调停者玛莲妮亚的铠甲"
+	},
+	{
+		"id": 770200,
+		"eng": "Gauntlets of Arbitress Malenia",
+		"chn": "调停者玛莲妮亚的臂甲"
+	},
+	{
+		"id": 770300,
+		"eng": "Greaves of Arbitress Malenia",
+		"chn": "调停者玛莲妮亚的腿甲"
+	},
+	{
+		"id": 771100,
+		"eng": "Armor of Arbitress Malenia",
+		"chn": "调停者玛莲妮亚的铠甲"
+	},
+	{
+		"id": 780000,
+		"eng": "Veteran General's old helm",
+		"chn": "身经百战的老将长久使用的头盔"
+	},
+	{
+		"id": 780100,
+		"eng": "Veteran General's old armor",
+		"chn": "身经百战的老将长久使用的铠甲"
+	},
+	{
+		"id": 780200,
+		"eng": "Veteran General's old gauntlets",
+		"chn": "身经百战的老将长久使用的臂甲"
+	},
+	{
+		"id": 780300,
+		"eng": "Veteran General's old greaves",
+		"chn": "身经百战的老将长久使用的腿甲"
+	},
+	{
+		"id": 781100,
+		"eng": "Veteran General's old armor",
+		"chn": "身经百战的老将长久使用的铠甲"
+	},
+	{
+		"id": 790000,
+		"eng": "Beast-like helm of the Bloodhound Knights",
+		"chn": "外貌如兽的猎犬骑士们穿戴的头盔"
+	},
+	{
+		"id": 790100,
+		"eng": "Beast-like armor of the Bloodhound Knights",
+		"chn": "外貌如兽的猎犬骑士们穿戴的铠甲"
+	},
+	{
+		"id": 790200,
+		"eng": "Beast-like gauntlets of the Bloodhound Knights",
+		"chn": "外貌如兽的猎犬骑士们穿戴的臂甲"
+	},
+	{
+		"id": 790300,
+		"eng": "Beast-like greaves of the Bloodhound Knights",
+		"chn": "外貌如兽的猎犬骑士们穿戴的腿甲"
+	},
+	{
+		"id": 791100,
+		"eng": "Beast-like armor of the Bloodhound Knights",
+		"chn": "外貌如兽的猎犬骑士们穿戴的铠甲"
+	},
+	{
+		"id": 800000,
+		"eng": "Hood worn for a humble festival",
+		"chn": "为了小型庆典而制的风帽"
+	},
+	{
+		"id": 800100,
+		"eng": "Cloak worn for a humble festival",
+		"chn": "为了小型庆典而制的披风"
+	},
+	{
+		"id": 801000,
+		"eng": "Wreath of flowers worn for a humble festival",
+		"chn": "为了小型庆典而制的花冠"
+	},
+	{
+		"id": 801100,
+		"eng": "Ceremonial garb worn for a humble festival",
+		"chn": "为了小型庆典而制的礼服"
+	},
+	{
+		"id": 802000,
+		"eng": "Hood worn for a humble festival",
+		"chn": "为了小型庆典而制的风帽"
+	},
+	{
+		"id": 802100,
+		"eng": "Cloak worn for a humble festival",
+		"chn": "为了小型庆典而制的披风"
+	},
+	{
+		"id": 810000,
+		"eng": "Hood of a rune cursed citizen",
+		"chn": "受卢恩诅咒的市民们穿戴的风帽"
+	},
+	{
+		"id": 810100,
+		"eng": "Garb of a rune cursed citizen",
+		"chn": "受卢恩诅咒的市民们穿戴的上衣"
+	},
+	{
+		"id": 810300,
+		"eng": "Waistcloth of a rune cursed citizen",
+		"chn": "受卢恩诅咒的市民们穿戴的腰巾"
+	},
+	{
+		"id": 811000,
+		"eng": "Garb of a rune cursed citizen",
+		"chn": "受卢恩诅咒的市民们穿戴的上衣"
+	},
+	{
+		"id": 811100,
+		"eng": "Garb of a rune cursed citizen",
+		"chn": "受卢恩诅咒的市民们穿戴的上衣"
+	},
+	{
+		"id": 812000,
+		"eng": "Crown of a rune cursed citizen",
+		"chn": "受卢恩诅咒的市民们穿戴的头冠"
+	},
+	{
+		"id": 812100,
+		"eng": "Garb of a rune cursed citizen",
+		"chn": "受卢恩诅咒的市民们穿戴的上衣"
+	},
+	{
+		"id": 820000,
+		"eng": "Head concealing silver robe",
+		"chn": "完全覆盖头部的白银色头冠"
+	},
+	{
+		"id": 830000,
+		"eng": "Stone mask of the Twin Crystal Sage",
+		"chn": "参考双水晶贤者的形象设计的石头面具"
+	},
+	{
+		"id": 830100,
+		"eng": "Robe worn by Raya Lucaria's magic scholars",
+		"chn": "雷亚卢卡利亚的魔法学徒穿戴的长袍"
+	},
+	{
+		"id": 830200,
+		"eng": "Manchettes worn by Raya Lucaria's magic scholars",
+		"chn": "雷亚卢卡利亚的魔法学徒穿戴的腕套"
+	},
+	{
+		"id": 830300,
+		"eng": "Leggings worn by Raya Lucaria's magic scholars",
+		"chn": "雷亚卢卡利亚的魔法学徒穿戴的绑腿"
+	},
+	{
+		"id": 831000,
+		"eng": "Stone mask of a Gold Amber Sage",
+		"chn": "参考金琥珀贤者的形象设计的石头面具"
+	},
+	{
+		"id": 832000,
+		"eng": "Stone mask of a Red Glintstone Sage",
+		"chn": "参考红辉石贤者的形象设计的石头面具"
+	},
+	{
+		"id": 833000,
+		"eng": "Stone mask depicting the wise Karolos",
+		"chn": "参考贤者卡勒罗斯的形象设计的石膏面具"
+	},
+	{
+		"id": 834000,
+		"eng": "Stone mask of a Green Glintstone Sage",
+		"chn": "参考绿辉石贤者的形象设计的石头面具"
+	},
+	{
+		"id": 834100,
+		"eng": "Broken stone mask with fractured Glintstone",
+		"chn": "辉石碎裂，受损的石头面具"
+	},
+	{
+		"id": 840000,
+		"eng": "Cylindrical helm worn by marionette soldiers",
+		"chn": "人偶士兵的桶盔"
+	},
+	{
+		"id": 840100,
+		"eng": "Armor of lattice plate worn by marionette soldiers",
+		"chn": "人偶士兵的格状金属板铠甲"
+	},
+	{
+		"id": 850000,
+		"eng": "Iron mask worn by marionette soldiers",
+		"chn": "人偶士兵的铁面具"
+	},
+	{
+		"id": 860000,
+		"eng": "Helm of Vargram the Bloody Wolf",
+		"chn": "白狼战鬼巴格莱姆的头盔"
+	},
+	{
+		"id": 860100,
+		"eng": "Armor of Vargram the Bloody Wolf",
+		"chn": "白狼战鬼巴格莱姆的铠甲"
+	},
+	{
+		"id": 860200,
+		"eng": "Gauntlets of Vargram the Bloody Wolf",
+		"chn": "白狼战鬼巴格莱姆的臂甲"
+	},
+	{
+		"id": 860300,
+		"eng": "Greaves of Vargram the Bloody Wolf",
+		"chn": "白狼战鬼巴格莱姆的腿甲"
+	},
+	{
+		"id": 861100,
+		"eng": "Breastplate of Vargram the Bloody Wolf",
+		"chn": "白狼战鬼巴格莱姆的铠甲"
+	},
+	{
+		"id": 870000,
+		"eng": "Helm of a warrior from the land of reeds",
+		"chn": "芦苇之地的战士穿戴的头盔"
+	},
+	{
+		"id": 870100,
+		"eng": "Chest piece of a warrior from the land of reeds",
+		"chn": "芦苇之地的战士穿戴的铠甲"
+	},
+	{
+		"id": 870200,
+		"eng": "Gauntlets of a warrior from the land of reeds",
+		"chn": "芦苇之地的战士穿戴的臂甲"
+	},
+	{
+		"id": 870300,
+		"eng": "Greaves of a warrior from the land of reeds",
+		"chn": "芦苇之地的战士穿戴的腿甲"
+	},
+	{
+		"id": 871100,
+		"eng": "Armor of a warrior from the land of reeds",
+		"chn": "芦苇之地的战士穿戴的铠甲"
+	},
+	{
+		"id": 872000,
+		"eng": "Mask adorned with a land of reeds veteran warrior",
+		"chn": "以芦苇之地的老练战士形象设计的面具"
+	},
+	{
+		"id": 872100,
+		"eng": "Stomach band of a land of reeds veteran warrior",
+		"chn": "芦苇之地老练战士的胸甲"
+	},
+	{
+		"id": 872200,
+		"eng": "Gauntlets of a land of reeds veteran warrior",
+		"chn": "芦苇之地老练战士的臂甲"
+	},
+	{
+		"id": 872300,
+		"eng": "Greaves of a land of reeds veteran warrior",
+		"chn": "芦苇之地老练战士的腿甲"
+	},
+	{
+		"id": 880000,
+		"eng": "Black hood of those who kill for a living",
+		"chn": "以杀戮维生的人物所穿戴的黑色风帽"
+	},
+	{
+		"id": 880100,
+		"eng": "Black robe of those who kill for a living",
+		"chn": "以杀戮维生的人物所穿戴的黑色长袍"
+	},
+	{
+		"id": 880200,
+		"eng": "Gloves of those who kill for a living",
+		"chn": "以杀戮维生的人物所穿戴的手套"
+	},
+	{
+		"id": 880300,
+		"eng": "Boots of those who kill for a living",
+		"chn": "以杀戮维生的人物所穿戴的靴子"
+	},
+	{
+		"id": 881000,
+		"eng": "Mask of those who kill for a living",
+		"chn": "以杀戮维生的人物所穿戴的面具"
+	},
+	{
+		"id": 881100,
+		"eng": "Vest of those who kill for a living",
+		"chn": "以杀戮维生的人物所穿戴的背心"
+	},
+	{
+		"id": 890000,
+		"eng": "Iron mask worn by grave offenders",
+		"chn": "犯下重罪的囚犯所戴的铁面具"
+	},
+	{
+		"id": 890100,
+		"eng": "Tattered clothing",
+		"chn": "破烂不堪的布制衣服"
+	},
+	{
+		"id": 890300,
+		"eng": "Tattered trousers",
+		"chn": "破烂不堪的长裤"
+	},
+	{
+		"id": 891000,
+		"eng": "Iron mask worn by only the most violent offenders",
+		"chn": "只有凶暴的囚犯才会配戴的铁面具"
+	},
+	{
+		"id": 900000,
+		"eng": "Hood worn by traveling clerics",
+		"chn": "旅行的圣职人员穿戴的风帽"
+	},
+	{
+		"id": 900100,
+		"eng": "Robe worn by traveling clerics",
+		"chn": "旅行的圣职人员穿戴的长袍"
+	},
+	{
+		"id": 900200,
+		"eng": "Gloves worn by traveling clerics",
+		"chn": "旅行的圣职人员穿戴的手套"
+	},
+	{
+		"id": 900300,
+		"eng": "Skirt worn by traveling clerics",
+		"chn": "旅行的圣职人员穿戴的裙子"
+	},
+	{
+		"id": 901100,
+		"eng": "Tunic worn by traveling clerics",
+		"chn": "旅行的圣职人员穿戴的上衣"
+	},
+	{
+		"id": 902000,
+		"eng": "Crown worn by Saints",
+		"chn": "圣女穿戴的头冠"
+	},
+	{
+		"id": 902100,
+		"eng": "Dress worn by Saints",
+		"chn": "圣女穿戴的连身裙"
+	},
+	{
+		"id": 902300,
+		"eng": "Skirt worn by Saints",
+		"chn": "圣女穿戴的裙子"
+	},
+	{
+		"id": 903100,
+		"eng": "Tunic worn by Saints",
+		"chn": "圣女穿戴的上衣"
+	},
+	{
+		"id": 910000,
+		"eng": "Hat worn by ruthless Chaplains",
+		"chn": "冷酷的教诲师们穿戴的帽子"
+	},
+	{
+		"id": 910100,
+		"eng": "Gown worn by ruthless Chaplains",
+		"chn": "冷酷的教诲师们穿戴的长袍"
+	},
+	{
+		"id": 910200,
+		"eng": "Gloves worn by ruthless Chaplains",
+		"chn": "冷酷的教诲师们穿戴的手套"
+	},
+	{
+		"id": 910300,
+		"eng": "Boots worn by ruthless Chaplains",
+		"chn": "冷酷的教诲师们穿戴的裤子"
+	},
+	{
+		"id": 911000,
+		"eng": "Hood worn by ruthless Chaplains",
+		"chn": "冷酷的教诲师们穿戴的风帽"
+	},
+	{
+		"id": 911100,
+		"eng": "Vest worn by ruthless Chaplains",
+		"chn": "冷酷的教诲师们穿戴的背心"
+	},
+	{
+		"id": 930000,
+		"eng": "Hood worn by followers of the deadly birds",
+		"chn": "侍奉死鸟的人物穿戴的风帽"
+	},
+	{
+		"id": 930100,
+		"eng": "Cloak worn by followers of the deadly birds",
+		"chn": "侍奉死鸟的人物穿戴的披风"
+	},
+	{
+		"id": 930200,
+		"eng": "Wraps worn by followers of the deadly birds",
+		"chn": "侍奉死鸟的人物穿戴的腕套"
+	},
+	{
+		"id": 930300,
+		"eng": "Trousers worn by followers of the deadly birds",
+		"chn": "侍奉死鸟的人物穿戴的长裤"
+	},
+	{
+		"id": 931100,
+		"eng": "Vest worn by followers of the deadly birds",
+		"chn": "侍奉死鸟的人物穿戴的背心"
+	},
+	{
+		"id": 940000,
+		"eng": "Deathwatch, Jerren's hood",
+		"chn": "见证人杰廉的风帽"
+	},
+	{
+		"id": 940100,
+		"eng": "Deathwatch, Jerren's armor",
+		"chn": "见证人杰廉的铠甲"
+	},
+	{
+		"id": 940200,
+		"eng": "Deathwatch, Jerren's gauntlets",
+		"chn": "见证人杰廉的臂甲"
+	},
+	{
+		"id": 940300,
+		"eng": "Deathwatch, Jerren's tights",
+		"chn": "见证人杰廉的贴身裤"
+	},
+	{
+		"id": 941000,
+		"eng": "Deathwatch, Jerren's helm",
+		"chn": "见证人杰廉的头盔"
+	},
+	{
+		"id": 950000,
+		"eng": "Deformed helm of a mad knight in despair",
+		"chn": "受疯狂与绝望吞噬的异形骑士头盔"
+	},
+	{
+		"id": 950100,
+		"eng": "Deformed armor of a mad knight in despair",
+		"chn": "受疯狂与绝望吞噬的异形骑士铠甲"
+	},
+	{
+		"id": 950200,
+		"eng": "Deformed gauntlets of a mad knight in despair",
+		"chn": "受疯狂与绝望吞噬的异形骑士臂甲"
+	},
+	{
+		"id": 950300,
+		"eng": "Deformed greaves of a mad knight in despair",
+		"chn": "受疯狂与绝望吞噬的异形骑士腿甲"
+	},
+	{
+		"id": 951100,
+		"eng": "Deformed armor of a mad knight in despair",
+		"chn": "受疯狂与绝望吞噬的异形骑士铠甲"
+	},
+	{
+		"id": 960000,
+		"eng": "White mask of Tanith, Lady of the Volcano Manor",
+		"chn": "火山官邸的主人塔妮丝的白色面具"
+	},
+	{
+		"id": 960100,
+		"eng": "Dress of Tanith, Lady of the Volcano Manor",
+		"chn": "火山官邸的主人塔妮丝的连身裙"
+	},
+	{
+		"id": 960300,
+		"eng": "Skirt of Tanith, Lady of the Volcano Manor",
+		"chn": "火山官邸的主人塔妮丝的裙子"
+	},
+	{
+		"id": 961000,
+		"eng": "Stone mask of Rya, servant to the Volcano Manor",
+		"chn": "火山官邸的邀请人拉雅的石制面具"
+	},
+	{
+		"id": 961100,
+		"eng": "Extravagantly embroidered noble's robe",
+		"chn": "缀满奢华刺绣的贵族长袍"
+	},
+	{
+		"id": 962100,
+		"eng": "Extravagantly embroidered noble's gown",
+		"chn": "缀满奢华刺绣的贵族长上衣"
+	},
+	{
+		"id": 963000,
+		"eng": "An eerie white haired silver mask",
+		"chn": "搭配白发的诡异银色面具"
+	},
+	{
+		"id": 963100,
+		"eng": "Noble's cape woven with sturdy fabric",
+		"chn": "地方贵族穿戴，用坚固的布料制成的斗篷"
+	},
+	{
+		"id": 963200,
+		"eng": "Noble's waistcloth woven with sturdy fabric",
+		"chn": "地方贵族穿戴，用坚固的布料制成的腕套"
+	},
+	{
+		"id": 964000,
+		"eng": "Bandages dirtied with blood",
+		"chn": "渗出血液的老旧绷带"
+	},
+	{
+		"id": 964100,
+		"eng": "Noble's gown woven with sturdy fabric",
+		"chn": "地方贵族穿戴，用坚固的布料制成的长袍"
+	},
+	{
+		"id": 970000,
+		"eng": "Mask of a curse gnawed Omen",
+		"chn": "受诅咒侵蚀，忌讳之子穿戴的头盔"
+	},
+	{
+		"id": 970100,
+		"eng": "Armor of a curse gnawed Omen",
+		"chn": "受诅咒侵蚀，忌讳之子穿戴的铠甲"
+	},
+	{
+		"id": 970200,
+		"eng": "Gauntlets of a curse gnawed Omen",
+		"chn": "受诅咒侵蚀，忌讳之子穿戴的臂甲"
+	},
+	{
+		"id": 970300,
+		"eng": "Greaves of a curse gnawed Omen",
+		"chn": "受诅咒侵蚀，忌讳之子穿戴的腿甲"
+	},
+	{
+		"id": 980000,
+		"eng": "Helm of enchanted Carian knights",
+		"chn": "侍奉卡利亚王室的魔法骑士穿戴的头盔"
+	},
+	{
+		"id": 980100,
+		"eng": "Armor of enchanted Carian knights",
+		"chn": "侍奉卡利亚王室的魔法骑士穿戴的铠甲"
+	},
+	{
+		"id": 980200,
+		"eng": "Gauntlets of enchanted Carian knights",
+		"chn": "侍奉卡利亚王室的魔法骑士穿戴的臂甲"
+	},
+	{
+		"id": 980300,
+		"eng": "Greaves of enchanted Carian knights",
+		"chn": "侍奉卡利亚王室的魔法骑士穿戴的腿甲"
+	},
+	{
+		"id": 981100,
+		"eng": "Armor of enchanted Carian knights",
+		"chn": "侍奉卡利亚王室的魔法骑士穿戴的铠甲"
+	},
+	{
+		"id": 990000,
+		"eng": "Eyepatch worn by a great sorcerer turned hermit",
+		"chn": "隐居的大魔法师穿戴的眼罩"
+	},
+	{
+		"id": 990100,
+		"eng": "Cape worn by a great sorcerer turned hermit",
+		"chn": "隐居的大魔法师穿戴的斗篷"
+	},
+	{
+		"id": 990200,
+		"eng": "Arm wraps worn by a great sorcerer turned hermit",
+		"chn": "隐居的大魔法师穿戴的腕套"
+	},
+	{
+		"id": 990300,
+		"eng": "Shoes worn by a great sorcerer turned hermit",
+		"chn": "隐居的大魔法师穿戴的靴子"
+	},
+	{
+		"id": 991100,
+		"eng": "Tunic worn by a great sorcerer turned hermit",
+		"chn": "隐居的大魔法师穿戴的上衣"
+	},
+	{
+		"id": 1000000,
+		"eng": "Mask of an unaffiliated glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的面具"
+	},
+	{
+		"id": 1000100,
+		"eng": "Robe of an unaffiliated glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的长袍"
+	},
+	{
+		"id": 1000200,
+		"eng": "Arm wraps of an unaffiliated glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的腕套"
+	},
+	{
+		"id": 1000300,
+		"eng": "Waistcloth of an unaffiliated glintstone sorcerer",
+		"chn": "离开学院的辉石魔法师穿戴的腰巾"
+	},
+	{
+		"id": 1010000,
+		"eng": "Hat worn by Enchantress Ranni",
+		"chn": "魔女菈妮穿戴的帽子"
+	},
+	{
+		"id": 1010100,
+		"eng": "Robe worn by Enchantress Ranni",
+		"chn": "魔女菈妮穿戴的长袍"
+	},
+	{
+		"id": 1010300,
+		"eng": "Skirt worn by Enchantress Ranni",
+		"chn": "魔女菈妮穿戴的裙子"
+	},
+	{
+		"id": 1011100,
+		"eng": "Dress worn by Enchantress Ranni",
+		"chn": "魔女菈妮穿戴的连身裙"
+	},
+	{
+		"id": 1020100,
+		"eng": "Robe worn by Malenia",
+		"chn": "梅琳娜穿戴的长袍"
+	},
+	{
+		"id": 1020200,
+		"eng": "Arm wraps worn by Malenia",
+		"chn": "梅琳娜穿戴的腕套"
+	},
+	{
+		"id": 1020300,
+		"eng": "Skirt worn by Malenia",
+		"chn": "梅琳娜穿戴的裙子"
+	},
+	{
+		"id": 1030000,
+		"eng": "Cap worn by students of the Raya Lucaria Academy",
+		"chn": "雷亚卢卡利亚学院所用的学生帽"
+	},
+	{
+		"id": 1030100,
+		"eng": "Robe worn by students of the Raya Lucaria Academy",
+		"chn": "雷亚卢卡利亚学院所用的长袍"
+	},
+	{
+		"id": 1040000,
+		"eng": "Mask worn by researchers of the Golden Order",
+		"chn": "黄金律法的研究者穿戴的面具"
+	},
+	{
+		"id": 1040100,
+		"eng": "Robe worn by researchers of the Golden Order",
+		"chn": "黄金律法的研究者穿戴的长袍"
+	},
+	{
+		"id": 1040200,
+		"eng": "Arm wraps worn by researchers of the Golden Order",
+		"chn": "黄金律法的研究者穿戴的腕套"
+	},
+	{
+		"id": 1040300,
+		"eng": "Waistcloth worn by researchers of the Golden Order",
+		"chn": "黄金律法的研究者穿戴的腰巾"
+	},
+	{
+		"id": 1050100,
+		"eng": "Robe worn by Morgott, the Elden Lord",
+		"chn": "艾尔登之王蒙葛特的长袍"
+	},
+	{
+		"id": 1060000,
+		"eng": "Helm modeled after the silent Frog People",
+		"chn": "参考不能言语的“青蛙”形象设计的头套"
+	},
+	{
+		"id": 1060100,
+		"eng": "Chainmail worn by the silent Frog People",
+		"chn": "不能言语的“青蛙”们穿戴的锁子甲"
+	},
+	{
+		"id": 1070000,
+		"eng": "Mask worn by an ancient hero",
+		"chn": "神明时代的英雄穿戴的面具"
+	},
+	{
+		"id": 1070100,
+		"eng": "Armor worn by an ancient hero",
+		"chn": "神明时代的英雄穿戴的铠甲"
+	},
+	{
+		"id": 1070200,
+		"eng": "Arm wraps worn by an ancient hero",
+		"chn": "神明时代的英雄穿戴的腕套"
+	},
+	{
+		"id": 1070300,
+		"eng": "Waistcloth worn by an ancient hero",
+		"chn": "神明时代的英雄穿戴的腰巾"
+	},
+	{
+		"id": 1080000,
+		"eng": "Ancient mask with an animal motif",
+		"chn": "参考动物的模样制成的古代面具"
+	},
+	{
+		"id": 1081000,
+		"eng": "Ancient mask with an animal motif",
+		"chn": "参考动物的模样制成的古代面具"
+	},
+	{
+		"id": 1082000,
+		"eng": "Ancient mask with an animal motif",
+		"chn": "参考动物的模样制成的古代面具"
+	},
+	{
+		"id": 1083000,
+		"eng": "Ancient mask with an animal motif",
+		"chn": "参考动物的模样制成的古代面具"
+	},
+	{
+		"id": 1084000,
+		"eng": "Ancient mask with an animal motif",
+		"chn": "参考动物的模样制成的古代面具"
+	},
+	{
+		"id": 1085000,
+		"eng": "Ancient mask with an animal motif",
+		"chn": "参考动物的模样制成的古代面具"
+	},
+	{
+		"id": 1090000,
+		"eng": "Head covering formed from silver tears",
+		"chn": "将银色露滴化为球体，覆盖头部的头套"
+	},
+	{
+		"id": 1100000,
+		"eng": "Helm made of woven chain",
+		"chn": "用细钢丝编成的头盔"
+	},
+	{
+		"id": 1100100,
+		"eng": "Chest piece made of woven chain",
+		"chn": "用细钢丝编成的铠甲"
+	},
+	{
+		"id": 1100200,
+		"eng": "Gauntlets made of woven chain",
+		"chn": "用细钢丝编成的臂甲"
+	},
+	{
+		"id": 1100300,
+		"eng": "Greaves made of woven chain",
+		"chn": "用细钢丝编成的腿甲"
+	},
+	{
+		"id": 1101000,
+		"eng": "Sturdy helm made from iron",
+		"chn": "完整覆盖头部的坚固铁制头盔"
+	},
+	{
+		"id": 1101100,
+		"eng": "Iron armor with a surcoat attached",
+		"chn": "附有筒形外衣的铁铠甲"
+	},
+	{
+		"id": 1102100,
+		"eng": "Iron armor with a blue surcoat attached",
+		"chn": "附有蓝色筒形外衣的铁铠甲"
+	},
+	{
+		"id": 1110000,
+		"eng": "Helm modeled after a Land Octopus",
+		"chn": "参考陆生章鱼模样制成的头套"
+	},
+	{
+		"id": 1120000,
+		"eng": "This sturdy jar might serve well as a helm",
+		"chn": "常见的壶"
+	},
+	{
+		"id": 1130000,
+		"eng": "Helm with slime mold growing on it",
+		"chn": "有粘菌寄生头部的头盔"
+	},
+	{
+		"id": 1130100,
+		"eng": "Armor with slime mold growing on it",
+		"chn": "有粘菌寄生身体的铠甲"
+	},
+	{
+		"id": 1130200,
+		"eng": "Arm wraps with slime mold growing on them",
+		"chn": "有黏菌寄生手臂的腕套"
+	},
+	{
+		"id": 1130300,
+		"eng": "Leg wraps with slime mold growing on it",
+		"chn": "有粘菌寄生腿部的脚套"
+	},
+	{
+		"id": 1300000,
+		"eng": "Shining helm decorated with a mirror",
+		"chn": "用镜子装饰的头盔"
+	},
+	{
+		"id": 1301000,
+		"eng": "Shining helm decorated on all sides with mirrors",
+		"chn": "用镜子覆盖整体的头盔"
+	},
+	{
+		"id": 1400000,
+		"eng": "Dirty hood worn by bandits",
+		"chn": "小偷们穿戴，有些脏污的风帽"
+	},
+	{
+		"id": 1400100,
+		"eng": "Dirty leather armor worn by bandits",
+		"chn": "小偷们穿戴，有些脏污的皮铠"
+	},
+	{
+		"id": 1400200,
+		"eng": "Dirty gloves worn by bandits",
+		"chn": "小偷们穿戴，有些脏污的手套"
+	},
+	{
+		"id": 1400300,
+		"eng": "Dirty boots worn by bandits",
+		"chn": "小偷们穿戴，有些脏污的裤子"
+	},
+	{
+		"id": 1401000,
+		"eng": "Dirty garb worn by bandits",
+		"chn": "小偷们穿戴，有些脏污的面具"
+	},
+	{
+		"id": 1500000,
+		"eng": "Iron helm worn by foreign knights",
+		"chn": "异国骑士穿戴的铁头盔"
+	},
+	{
+		"id": 1500100,
+		"eng": "Iron armor worn by foreign knights",
+		"chn": "异国骑士穿戴的铁铠甲"
+	},
+	{
+		"id": 1500200,
+		"eng": "Iron gauntlets worn by foreign knights",
+		"chn": "异国骑士穿戴的铁臂甲"
+	},
+	{
+		"id": 1500300,
+		"eng": "Iron greaves worn by foreign knights",
+		"chn": "异国骑士穿戴的铁腿甲"
+	},
+	{
+		"id": 1600000,
+		"eng": "Hood with a mysterious silhouette",
+		"chn": "有着神秘轮廓的巨大风帽"
+	},
+	{
+		"id": 1700000,
+		"eng": "Helm used by Stormveil Knights",
+		"chn": "史东薇尔骑士们穿戴的头盔"
+	},
+	{
+		"id": 1700100,
+		"eng": "Armor used by Stormveil Knights",
+		"chn": "史东薇尔骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1700200,
+		"eng": "Gauntlets used by Stormveil Knights",
+		"chn": "史东薇尔骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1700300,
+		"eng": "Greaves used by Stormveil Knights",
+		"chn": "史东薇尔骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1710000,
+		"eng": "Helm used by Raya Lucaria Academy Knights",
+		"chn": "雷亚卢卡利亚魔法学院骑士们穿戴的头盔"
+	},
+	{
+		"id": 1710100,
+		"eng": "Armor used by Raya Lucaria Academy Knights",
+		"chn": "雷亚卢卡利亚魔法学院骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1710200,
+		"eng": "Gauntlets used by Raya Lucaria Academy Knights",
+		"chn": "雷亚卢卡利亚魔法学院骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1710300,
+		"eng": "Greaves used by Raya Lucaria Academy Knights",
+		"chn": "雷亚卢卡利亚魔法学院骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1720000,
+		"eng": "Helm used by Capital Knights",
+		"chn": "守卫王城的骑士们穿戴的头盔"
+	},
+	{
+		"id": 1720100,
+		"eng": "Armor used by Capital Knights",
+		"chn": "守卫王城的骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1720200,
+		"eng": "Gauntlets used by Capital Knights",
+		"chn": "守卫王城的骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1720300,
+		"eng": "Greaves used by Capital Knights",
+		"chn": "守卫王城的骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1730000,
+		"eng": "Helm used by Caelid Wilds Knights",
+		"chn": "守卫盖利德原野的骑士们穿戴的头盔"
+	},
+	{
+		"id": 1730100,
+		"eng": "Armor used by Caelid Wilds Knights",
+		"chn": "守卫盖利德原野的骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1730200,
+		"eng": "Gauntlets used by Caelid Wilds Knights",
+		"chn": "守卫盖利德原野的骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1730300,
+		"eng": "Greaves used by Caelid Wilds Knights",
+		"chn": "守卫盖利德原野的骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1740100,
+		"eng": "Armor used by Mausoleum Knights",
+		"chn": "守卫灵庙的骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1740200,
+		"eng": "Gauntlets used by Mausoleum Knights",
+		"chn": "守卫灵庙的骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1740300,
+		"eng": "Greaves used by Mausoleum Knights",
+		"chn": "守卫灵庙的骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1750000,
+		"eng": "Helm used by Knights of Miquella",
+		"chn": "守护黄金孪生子米凯拉的骑士们穿戴的头盔"
+	},
+	{
+		"id": 1750100,
+		"eng": "Armor used by Knights of Miquella",
+		"chn": "守护黄金孪生子米凯拉的骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1750200,
+		"eng": "Gauntlets used by Knights of Miquella",
+		"chn": "守护黄金孪生子米凯拉的骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1750300,
+		"eng": "Greaves used by Knights of Miquella",
+		"chn": "守护黄金孪生子米凯拉的骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1760000,
+		"eng": "Helm used by Capital Knights",
+		"chn": "王军的骑兵们穿戴的头盔"
+	},
+	{
+		"id": 1760100,
+		"eng": "Armor used by Capital Knights",
+		"chn": "王军的骑兵们穿戴的铠甲"
+	},
+	{
+		"id": 1760200,
+		"eng": "Gauntlets used by Capital Knights",
+		"chn": "王军的骑兵们穿戴的臂甲"
+	},
+	{
+		"id": 1760300,
+		"eng": "Greaves used by Capital Knights",
+		"chn": "王军的骑兵们穿戴的腿甲"
+	},
+	{
+		"id": 1761100,
+		"eng": "Armor used by Capital Knights",
+		"chn": "王军的骑兵们穿戴的铠甲"
+	},
+	{
+		"id": 1770000,
+		"eng": "Helm used by Stormveil Elite Knights",
+		"chn": "史东薇尔的高阶骑士们穿戴的头盔"
+	},
+	{
+		"id": 1770100,
+		"eng": "Armor used by Stormveil Elite Knights",
+		"chn": "史东薇尔的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1770200,
+		"eng": "Gauntlets used by Stormveil Elite Knights",
+		"chn": "史东薇尔的高阶骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1770300,
+		"eng": "Greaves used by Stormveil Elite Knights",
+		"chn": "史东薇尔的高阶骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1771100,
+		"eng": "Armor used by Stormveil Elite Knights",
+		"chn": "史东薇尔的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1780000,
+		"eng": "Helm of Raya Lucaria Academy Elite Knights",
+		"chn": "雷亚卢卡利亚魔法学院的高阶骑士们穿戴的头盔"
+	},
+	{
+		"id": 1780100,
+		"eng": "Armor of Raya Lucaria Academy Elite Knights",
+		"chn": "雷亚卢卡利亚魔法学院的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1780200,
+		"eng": "Gauntlets of Raya Lucaria Academy Elite Knights",
+		"chn": "雷亚卢卡利亚魔法学院的高阶骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1780300,
+		"eng": "Greaves of Raya Lucaria Academy Elite Knights",
+		"chn": "雷亚卢卡利亚魔法学院的高阶骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1781100,
+		"eng": "Armor of Raya Lucaria Academy Elite Knights",
+		"chn": "雷亚卢卡利亚魔法学院的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1790000,
+		"eng": "Helm used by Elite Capital Knights",
+		"chn": "守卫王城的高阶骑士们穿戴的头盔"
+	},
+	{
+		"id": 1790100,
+		"eng": "Armor used by Elite Capital Knights",
+		"chn": "守卫王城的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1790200,
+		"eng": "Gauntlets used by Elite Capital Knights",
+		"chn": "守卫王城的高阶骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1790300,
+		"eng": "Greaves used by Elite Capital Knights",
+		"chn": "守卫王城的高阶骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1791100,
+		"eng": "Armor used by Elite Capital Knights",
+		"chn": "守卫王城的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1800000,
+		"eng": "Helm used by Elite Caelid Wilds Knights",
+		"chn": "守卫盖利德原野的高阶骑士们穿戴的头盔"
+	},
+	{
+		"id": 1800100,
+		"eng": "Armor used by Elite Caelid Wilds Knights",
+		"chn": "守卫盖利德原野的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1800200,
+		"eng": "Gauntlets used by Elite Caelid Wilds Knights",
+		"chn": "守卫盖利德原野的高阶骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1800300,
+		"eng": "Greaves used by Elite Caelid Wilds Knights",
+		"chn": "守卫盖利德原野的高阶骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1801100,
+		"eng": "Armor used by Elite Caelid Wilds Knights",
+		"chn": "守卫盖利德原野的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1810100,
+		"eng": "Armor used by Elite Mausoleum Knights",
+		"chn": "守卫灵庙的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1810200,
+		"eng": "Gauntlets used by Elite Mausoleum Knights",
+		"chn": "守卫灵庙的高阶骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1810300,
+		"eng": "Greaves used by Elite Mausoleum Knights",
+		"chn": "守卫灵庙的高阶骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1811100,
+		"eng": "Armor used by Elite Mausoleum Knights",
+		"chn": "守卫灵庙的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1820000,
+		"eng": "Helm used by Elite Knights of Miquella",
+		"chn": "守护黄金孪生子米凯拉的高阶骑士们穿戴的头盔"
+	},
+	{
+		"id": 1820100,
+		"eng": "Armor used by Elite Knights of Miquella",
+		"chn": "守护黄金孪生子米凯拉的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1820200,
+		"eng": "Gauntlets used by Elite Knights of Miquella",
+		"chn": "守护黄金孪生子米凯拉的高阶骑士们穿戴的臂甲"
+	},
+	{
+		"id": 1820300,
+		"eng": "Greaves used by Elite Knights of Miquella",
+		"chn": "守护黄金孪生子米凯拉的高阶骑士们穿戴的腿甲"
+	},
+	{
+		"id": 1821100,
+		"eng": "Armor used by Elite Knights of Miquella",
+		"chn": "守护黄金孪生子米凯拉的高阶骑士们穿戴的铠甲"
+	},
+	{
+		"id": 1830000,
+		"eng": "Helm used by Stormveil Soldiers",
+		"chn": "史东薇尔士兵们穿戴的头盔"
+	},
+	{
+		"id": 1830100,
+		"eng": "Armor used by Stormveil Soldiers",
+		"chn": "史东薇尔士兵们穿戴的铠甲"
+	},
+	{
+		"id": 1830200,
+		"eng": "Gauntlets used by Stormveil Soldiers",
+		"chn": "史东薇尔士兵们穿戴的臂甲"
+	},
+	{
+		"id": 1830300,
+		"eng": "Greaves used by Stormveil Soldiers",
+		"chn": "史东薇尔士兵们穿戴的腿甲"
+	},
+	{
+		"id": 1840000,
+		"eng": "Helm used by Raya Lucaria Academy Soldiers",
+		"chn": "雷亚卢卡利亚魔法学院士兵们穿戴的头盔"
+	},
+	{
+		"id": 1840100,
+		"eng": "Armor used by Raya Lucaria Academy Soldiers",
+		"chn": "雷亚卢卡利亚魔法学院士兵们穿戴的铠甲"
+	},
+	{
+		"id": 1850000,
+		"eng": "Helm used by Capital Soldiers",
+		"chn": "守卫王城的士兵们穿戴的头盔"
+	},
+	{
+		"id": 1850100,
+		"eng": "Armor used by Capital Soldiers",
+		"chn": "守卫王城的士兵们穿戴的铠甲"
+	},
+	{
+		"id": 1860000,
+		"eng": "Helm used by Caelid Wilds Patrol Soldiers",
+		"chn": "巡逻盖利德原野的士兵们穿戴的头盔"
+	},
+	{
+		"id": 1860100,
+		"eng": "Armor used by Caelid Wilds Patrol Soldiers",
+		"chn": "巡逻盖利德原野的士兵们穿戴的铠甲"
+	},
+	{
+		"id": 1870100,
+		"eng": "Armor used by Mausoleum Soldiers",
+		"chn": "守卫灵庙的士兵们穿戴的铠甲"
+	},
+	{
+		"id": 1880000,
+		"eng": "Helm used by Miquella's Soldiers",
+		"chn": "尊敬黄金孪生子米凯拉的士兵们穿戴的头盔"
+	},
+	{
+		"id": 1880100,
+		"eng": "Armor used by Miquella's Soldiers",
+		"chn": "尊敬黄金孪生子米凯拉的士兵们穿戴的铠甲"
+	},
+	{
+		"id": 1890000,
+		"eng": "Mask worn by Executioners",
+		"chn": "调香魔法师的刺客──行刑人穿戴的面具"
+	},
+	{
+		"id": 1890100,
+		"eng": "Robe worn by Executioners",
+		"chn": "调香魔法师的刺客──行刑人穿戴的长袍"
+	},
+	{
+		"id": 1890200,
+		"eng": "Gloves worn by Executioners",
+		"chn": "调香魔法师的刺客──行刑人穿戴的手套"
+	},
+	{
+		"id": 1890300,
+		"eng": "Boots worn by Executioners",
+		"chn": "调香魔法师的刺客──行刑人穿戴的靴子"
+	},
+	{
+		"id": 1900000,
+		"eng": "Mask made from a large, old white scarab's body",
+		"chn": "将有些年岁，白色巨大的粪金龟尸体加工制成的面具"
+	},
+	{
+		"id": 1910000,
+		"eng": "Mask made from a large, old yellow scarab's body",
+		"chn": "将有些年岁，黄色巨大的粪金龟尸体加工制成的面具"
+	},
+	{
+		"id": 1920000,
+		"eng": "Mask made from a large, old green scarab's body",
+		"chn": "将有些年岁，绿色巨大的粪金龟尸体加工制成的面具"
+	},
+	{
+		"id": 1930100,
+		"eng": "Dress worn by Phia, the Deathbed Companion",
+		"chn": "死眠少女菲雅的连身裙"
+	},
+	{
+		"id": 1930300,
+		"eng": "Skirt worn by Phia, the Deathbed Companion",
+		"chn": "死眠少女菲雅的裙子"
+	},
+	{
+		"id": 1940000,
+		"eng": "Hood worn by Phia, the Deathbed Companion",
+		"chn": "死眠少女菲雅的风帽"
+	},
+	{
+		"id": 1940100,
+		"eng": "Robe worn by Phia, the Deathbed Companion",
+		"chn": "死眠少女菲雅的长袍"
+	},
+	{
+		"id": 1941100,
+		"eng": "Gown worn by Phia, the Deathbed Companion",
+		"chn": "死眠少女菲雅的长上衣"
+	},
+	{
+		"id": 1980000,
+		"eng": "Hood worn by cave-dwelling foot soldiers",
+		"chn": "以昏暗洞窟作为据点的小兵们穿戴的风帽"
+	},
+	{
+		"id": 1980100,
+		"eng": "Robe worn by cave-dwelling foot soldiers",
+		"chn": "以昏暗洞窟作为据点的小兵们穿戴的长袍"
+	},
+	{
+		"id": 1980200,
+		"eng": "Gloves worn by cave-dwelling foot soldiers",
+		"chn": "以昏暗洞窟作为据点的小兵们穿戴的手套"
+	},
+	{
+		"id": 1990000,
+		"eng": "Hood of a Page loyal to a certain noble family",
+		"chn": "侍奉某位贵族的随从穿戴的头巾"
+	},
+	{
+		"id": 1990100,
+		"eng": "Garb of a Page loyal to a certain noble family",
+		"chn": "侍奉某位贵族的随从穿戴的上衣"
+	},
+	{
+		"id": 1991100,
+		"eng": "Vest of a Page loyal to a certain noble family",
+		"chn": "侍奉某位贵族的随从穿戴的背心"
+	},
+	{
+		"id": 2000000,
+		"eng": "Scarlet-bronze helm adorned with many snakes",
+		"chn": "装饰大量蛇造型物的红铜头盔"
+	},
+	{
+		"id": 2000100,
+		"eng": "Robe fashioned from the pelt of a deadly beast",
+		"chn": "以猛兽毛皮制成的长袍"
+	},
+	{
+		"id": 2000300,
+		"eng": "Scarlet-bronze bracelet depicting coiled snakes",
+		"chn": "以缠绕的蛇为主题制成的红铜铠甲"
+	},
+	{
+		"id": 2001100,
+		"eng": "Scarlet-bronze anklet depicting coiled snakes",
+		"chn": "以缠绕的蛇为主题制成的红铜脚环"
+	},
+	{
+		"id": 2010000,
+		"eng": "Garland crown of large flowers rotted by poison",
+		"chn": "受毒性与腐败侵蚀的巨大花头冠"
+	},
+	{
+		"id": 2020000,
+		"eng": "Red cloth blindfold used to cover prisoners' eyes",
+		"chn": "用来遮住囚犯视线的红布眼罩"
+	},
+	{
+		"id": 2030000,
+		"eng": "Sorcerer's robe, dyed in a beautiful cerulean hue",
+		"chn": "染上美丽天空色的魔法师长袍"
+	}
+]

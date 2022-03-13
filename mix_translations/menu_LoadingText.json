@@ -1,0 +1,337 @@
+[
+	{
+		"id": 1,
+		"eng": "Crouch to make it harder for enemies to discover you.\nEspecially effective in tall grass.\nAttacking an enemy that hasn't noticed you will cause more damage than usual.\n\n<?keyicon@9?>: <?keyActName@9?>",
+		"chn": "蹲下后较不容易被敌人发现。\n在草丛蹲下，藏身效果更佳。\n\n在没有被敌人发现的情况下攻击，\n能够比一般攻击给予更多的伤害。\n\n<?keyicon@9?>：<?keyActName@9?>"
+	},
+	{
+		"id": 2,
+		"eng": "Use an armament in your left hand or both hands to guard against incoming attacks.\nShields are particularly effective for guarding.\nGuarding consumes stamina.\nIf your stamina runs out, your stance will be broken.\n\n<?keyicon@24?>: Guard",
+		"chn": "能用左手武器，或是以双手共持的武器防御敌人攻击。\n用盾牌防御的效果尤佳。\n\n防御攻击时会消耗精力，精力耗尽后会失去平衡。\n\n按下<?keyicon@24?>：防御"
+	},
+	{
+		"id": 3,
+		"eng": "You can perform a counterattack immediately after blocking an enemy attack.\nGuard counters make it easy to break an enemy's stance.\n\n<?keyicon@23?> immediately after blocking an attack: Guard Counter",
+		"chn": "防住敌人攻击的当下，能立刻使出防御反击。\n防御反击容易让敌人失去平衡。\n\n防住敌人攻击后立刻按下<?keyicon@23?>：防御反击"
+	},
+	{
+		"id": 4,
+		"eng": "Wielding an armament in two hands will increase your effective strength for that armament by 50%.\nThis eases attribute requirements, and armaments that scale with strength will do more damage. In addition, attacks with that armament are more difficult to repel with shields.\n\n<?keyicon@27?>+<?keyicon@24?>/<?keyicon@22?>: Wield with two hands",
+		"chn": "双手共持武器，力气会以１.５倍计算。\n（会影响必需能力值，使用力气加成的武器会提升攻击力。）\n\n以此状态进攻时，攻击比较不会被盾牌弹开。\n\n<?keyicon@27?>＋<?keyicon@24?>／<?keyicon@22?>：双手共持武器"
+	},
+	{
+		"id": 5,
+		"eng": "Charge attacks and jump attacks are powerful.\nUsing them makes it easy to break an enemy's stance.\nThey are also likely to knock mounted enemies off of their mounts.\n\nHold <?keyicon@23?>: Charge attack\n<?keyicon@23?> while jumping: Jump attack",
+		"chn": "蓄力攻击、跳跃攻击的攻击力较高，\n容易让敌人失去平衡。\n当敌人骑马时，则是容易让对方坠马。\n\n按住<?keyicon@23?>：蓄力攻击\n跳跃时按下<?keyicon@23?>：跳跃攻击"
+	},
+	{
+		"id": 6,
+		"eng": "Armaments have special abilities called skills.\nSkills are highly varied, and range from powerful attacks to temporary effects.\nUsing skills consumes FP.\n\n<?keyicon@25?>: <?keyActName@25?>",
+		"chn": "战技是武器具备的特殊招式。\n\n战技的种类繁多，从使出强大攻击，到产生短暂特殊效果皆有。\n使用时会消耗专注值。\n\n<?keyicon@25?>：<?keyActName@25?>"
+	},
+	{
+		"id": 7,
+		"eng": "Shields allow you to use the \"Parry\" skill to deflect enemies' close-range attacks.\nA successful parry will break the attacker's stance, giving you a chance to perform a critical hit.\n\n<?keyicon@25?> in time with an enemy attack: Parry",
+		"chn": "盾牌的其中一项战技“格挡”，\n需要在敌人近距离攻击时配合使用。\n\n格挡成功后，敌人会失去平衡，\n使出“致命一击”的机会随之到来。\n\n配合敌人的攻势按下<?keyicon@25?>：格挡"
+	},
+	{
+		"id": 8,
+		"eng": "Lock-on to an enemy to keep it targeted, making it easier to focus on it as you fight.\n\n<?keyicon@15?>: <?keyActName@15?>\n<?keyControlCamera?> while locked-on to a target: Change target",
+		"chn": "锁定目标后，比较容易和锁定的敌人正面相对。\n\n<?keyicon@15?>：<?keyActName@15?>\n锁定目标时<?keyControlCamera?>：切换目标"
+	},
+	{
+		"id": 9,
+		"eng": "When wielding a bow with two hands, you can hold <?keyicon@24?> for precision aiming.\nThis lets you aim more precisely with <?keyControlCamera?>.\nYou can do major damage to foes of human or similar build by aiming for their heads.\n\n<?keyicon@24?> while wielding a bow with two hands: Precision aiming",
+		"chn": "双手共持弓，按住<?keyicon@24?>能精密射击。\n用<?keyControlCamera?>能移动准心。\n\n对人形敌人瞄准头部射击，通常会给予较多伤害。\n\n双手共持弓时按住<?keyicon@24?>：精密射击"
+	},
+	{
+		"id": 10,
+		"eng": "You can equip up to three armaments each to your left and right hands.\n\nSome armaments, such as shields, have different actions depending on which hand equips them.",
+		"chn": "左手与右手各能装备３把武器。\n部分武器例如盾牌，装备在不同手，动作各有不同。"
+	},
+	{
+		"id": 11,
+		"eng": "You can equip up to ten items at a time.\nEquipped items can be used without accessing the item menu.\nYou can also assign items to your pouch to use them directly from the main menu.\n\n<?keyicon@18?>: <?keyActName@18?>\n<?keyicon@26?>: <?keyActName@26?>",
+		"chn": "道具最多能装备１０种，不必开启选单就能直接使用。\n配置在“随身包包”内的道具，能从主选单使用。\n\n<?keyicon@18?>：<?keyActName@18?>\n<?keyicon@26?>：<?keyActName@26?>"
+	},
+	{
+		"id": 12,
+		"eng": "Raise your torch to see further into dark spaces.\n\n<?keyicon@24?> with torch equipped in left hand: Raise torch",
+		"chn": "高举火把，能照亮较远的地方。\n\n左手装备火把，按下<?keyicon@24?>：高举火把"
+	},
+	{
+		"id": 13,
+		"eng": "If you get behind an enemy, you'll have a chance to perform a critical hit.\nYou can also perform a critical hit after breaking an enemy's stance.\nStance-break critical hits cause more damage than critical hits from behind.\n\n<?keyicon@22?> when near a backturned enemy: Critical hit\n<?keyicon@22?> when near a stance-broken enemy: Critical hit",
+		"chn": "当靠近敌人的背后，或是敌人失去平衡的时候，\n就有机会使出“致命一击”。\n\n致命一击给予敌人的伤害较高。\n\n靠近敌人背后，按下<?keyicon@22?>：致命一击\n靠近失去平衡的敌人，按下<?keyicon@22?>：致命一击"
+	},
+	{
+		"id": 14,
+		"eng": "Use \"Gestures\" from the main menu to perform a variety of basic poses.",
+		"chn": "从主选单的“肢体动作”选单，能够挑选、做出简单的姿势。"
+	},
+	{
+		"id": 15,
+		"eng": "Use your map to check your current position, as well as the terrain and surrounding structures.\nYou can update your map with new information by finding map fragments at steles along the road.\n\n<?keyicon@29?>: <?keyActName@29?>",
+		"chn": "透过地图能确认自己的所在位置、地形以及建筑物等等资讯。\n座落路边的石碑放有“地图碎片”，取得后能更新地图。\n\n<?keyicon@29?>：<?keyActName@29?>"
+	},
+	{
+		"id": 16,
+		"eng": "Jump while on horseback near a spiritspring to ride its current high into the air.\nYou won't take damage from jumping into a spiritspring while on horseback, even from a great height.\n\n<?keyicon@8?> at a spiritspring while on horseback: Spiritspring jump",
+		"chn": "骑马时靠近有“灵魂气流”的地方跳跃，\n能够顺着气流往上大幅跳跃。\n\n骑马状态下顺着“灵魂气流”落地时，\n即使是从高处坠落，也不会受到损伤。\n\n骑马时靠近灵魂气流，按下<?keyicon@8?>：灵魂气流跳跃"
+	},
+	{
+		"id": 17,
+		"eng": "When you have multiple items equipped, you can hold <?keyicon@18?> to quickly select the item in your first item slot.\n\nHold <?keyicon@18?>: Select first equipped item",
+		"chn": "在装备多个道具的情况下，按住<?keyicon@18?>会切换至第一个道具空格，\n能够立刻选用所装备的道具。\n\n按住<?keyicon@18?>：切换至第一个道具空格"
+	},
+	{
+		"id": 50,
+		"eng": "Upon dying, you will drop any runes in your possession at the site of your death.\nYou can reclaim those runes by reaching that same spot again.\nHowever, if you die again before reclaiming those dropped runes, they will be lost forever.",
+		"chn": "死亡之后，持有的卢恩会留在原地。\n\n重回死亡地点能拿回卢恩，\n但如果在那之前再次死亡，卢恩将会消失。"
+	},
+	{
+		"id": 52,
+		"eng": "When the monument icon is shown on the left side of the screen, you can summon spirits from ashes.\nThere are several different types of spirits that can be summoned.\nSummoning spirits typically consumes FP.",
+		"chn": "当画面左侧出现碑文图案时，\n能够透过骨灰召唤灵魂。\n\n灵魂的种类繁多，召唤时基本上需要消耗专注值。"
+	},
+	{
+		"id": 53,
+		"eng": "Resting at a site of grace will restore your HP, FP, and cleanse any status ailments.\nIt will also refill your sacred flasks.\n\nHowever, most of the enemies you've defeated will be revived.",
+		"chn": "在赐福休息能完全恢复血量、专注值，\n治愈异常状态等等，也能补充圣杯瓶。\n\n但是大部分的敌人也会随之复活。"
+	},
+	{
+		"id": 54,
+		"eng": "Sites of grace that you haven't discovered yet illuminate their surroundings.\nIf you see light while exploring, seek it out—you might find a site of grace.",
+		"chn": "还没有被发现的赐福会散发光芒。\n\n如果在旅途中看见光芒，\n朝光芒汇集的方向前进，可能会有赐福。"
+	},
+	{
+		"id": 55,
+		"eng": "Grace exists to guide the Tarnished and lead them along the proper path.\nEven now, some sites of grace retain that power.\nTheir golden rays will guide you along your way.",
+		"chn": "赐福原本是引导褪色者前进，\n替褪色者指路的存在。\n\n如今仍有部分赐福留有指引的力量，\n会以金黄色的光芒轨迹，指出褪色者该前进的方向。"
+	},
+	{
+		"id": 56,
+		"eng": "The Flask of Crimson Tears replenishes your HP.\nThe Flask of Cerulean Tears replenishes your FP.\n\nAt sites of grace, you can allocate portions of doses to each flask.\nYou can also use certain items to upgrade your flasks at sites of grace.",
+		"chn": "红露滴圣杯瓶能恢复血量；蓝露滴圣杯瓶能恢复专注值。\n\n在赐福能够配置各个圣杯瓶的使用次数，\n也能用特殊道具强化圣杯瓶。"
+	},
+	{
+		"id": 57,
+		"eng": "Through your map, you can instantly travel to any sites of grace that you've discovered.\nHowever, there are some dungeons and other areas where this cannot be done.",
+		"chn": "能够从地图点选已知的赐福，瞬间移动过去。\n但是部分区域（例如地下迷宫等等），无法进行瞬间移动。"
+	},
+	{
+		"id": 58,
+		"eng": "While on horseback, you can attack with armaments equipped in your right hand or in both hands.\nIf you take a certain amount of damage while on horseback, you will fall from your horse.\nThis will leave you greatly vulnerable.",
+		"chn": "骑马时会用装备在右手，或是双手共持的武器进行攻击。\n\n在骑马时受到一定程度的损伤，\n会摔下马背，陷入毫无防备的状态。"
+	},
+	{
+		"id": 59,
+		"eng": "You cannot enter large buildings, caves, catacombs, or similar spaces while on horseback.\nYou also cannot summon your horse while inside such spaces.",
+		"chn": "无法骑马进入大型建筑物、洞窟，或是地下墓地等等地方，\n也无法在这些地方召唤灵马。"
+	},
+	{
+		"id": 60,
+		"eng": "If you have a Crafting Kit, you can make various items from materials that you find.\nSelect \"Item Crafting\" from the main menu to make items.\n\n<?keyicon@28?>: <?keyActName@28?>",
+		"chn": "拥有“工具皮袋”之后，能用材料道具制作各种道具。\n从主选单的“制作道具”选单能制作道具。\n\n<?keyicon@28?>：<?keyActName@28?>"
+	},
+	{
+		"id": 61,
+		"eng": "You will need cracked pots or other containers to craft certain items.\nContainer items will run out with use, but the containers themselves will remain.",
+		"chn": "在能够制作的道具之中，\n部分道具需要有特定的容器（例如龟裂壶等等）才能制作。\n\n制作出来的道具使用后会消失，但容器不会不见。"
+	},
+	{
+		"id": 62,
+		"eng": "Ashes of War are memories of the affinities and skills imbued in armaments wielded long ago.\nWith a Whetstone Knife, you can use Ashes of War to customize your armaments at sites of grace.",
+		"chn": "来自过去战士持有的武器，\n关于属性与战技的记忆，称作“战灰”。\n\n只要有“砥石小刀”，就能在赐福使用“战灰”自定义武器。"
+	},
+	{
+		"id": 64,
+		"eng": "Upon dying, you will be revived at the last site of grace that you visited.\n\nHowever, if there is a Stake of Marika near where you died, you can choose to be revived there instead.",
+		"chn": "死亡之后，会在最后停留的赐福复活。\n\n如果死亡地点附近有“玛莉卡楔石”，\n也能选择在那里复活。"
+	},
+	{
+		"id": 65,
+		"eng": "When you carry more than 70% of your maximum equipment load, your dodge rolling will become slower and clumsier.\nIf you exceed your maximum equipment load entirely, you will be unable to roll at all.",
+		"chn": "当装备重量超过上限值的７成，翻滚动作会变得迟钝。\n如果超过上限值，就会无法翻滚。"
+	},
+	{
+		"id": 66,
+		"eng": "While in combat, you are unable to craft items or open your map.",
+		"chn": "和敌人战斗时无法制作道具，也无法打开地图。"
+	},
+	{
+		"id": 67,
+		"eng": "Spirits that you've summoned from ashes can be made more powerful by a spirit tuner.\nYou'll need glovewort to upgrade spirits.",
+		"chn": "调灵师能强化透过骨灰召唤的灵魂。\n强化时需要用到铃兰。"
+	},
+	{
+		"id": 68,
+		"eng": "When you level up, you can spend runes to increase your attributes.\nAs your attributes increase, your level rises—and so does the amount of runes required for your next attribute increase.",
+		"chn": "所谓的升级，指的是花费卢恩提升能力值。\n\n提升能力值也会连带提升等级。\n当等级越来越高，提升能力值所需的卢恩也会越来越多。"
+	},
+	{
+		"id": 70,
+		"eng": "When the poison gauge is full, you will become poisoned and take continuous damage.\nThe higher your immunity, the longer it takes for the poison gauge to fill.",
+		"chn": "中毒的量表会持续累积，\n突破界限后会引发异常状态“中毒”。\n中毒后会持续受到损伤。\n\n免疫力越高，量表累积的速度就越慢。"
+	},
+	{
+		"id": 71,
+		"eng": "When the scarlet rot gauge is full, you will become sick and take continuous damage.\nThe scarlet rot is a very dangerous status ailment, but the higher your immunity, the longer it takes for the gauge to fill.",
+		"chn": "猩红腐败的量表会持续累积，\n突破界限后会引发异常状态“猩红腐败”。\n病发后会持续受到损伤。\n\n此为非常恐怖的异常状态。\n免疫力越高，量表累积的速度就越慢。"
+	},
+	{
+		"id": 72,
+		"eng": "When the blood loss gauge is full, you will hemorrhage blood.\nThis causes a large amount of damage relative to your maximum HP.\nThe higher your robustness, the longer it takes for the blood loss gauge to fill.",
+		"chn": "出血的量表会持续累积，\n突破界限后会引发异常状态“出血”。\n会根据血量上限的比例受到大损伤。\n\n健壮度越高，量表累积的速度就越慢。"
+	},
+	{
+		"id": 73,
+		"eng": "When the frost gauge is full, you will take damage and become frostbitten for a while.\nWhile suffering from frostbite, you will take increased damage from other sources.\nThe higher your robustness, the longer it takes for the frost gauge to fill.",
+		"chn": "冻伤的量表会持续累积，\n突破界限后会引发异常状态“冻伤”。\n冻伤后会受到损伤，并在一定时间内，受到攻击时的损伤加剧。\n\n健壮度越高，量表累积的速度就越慢。"
+	},
+	{
+		"id": 74,
+		"eng": "When the sleep gauge is full, you will become drowsy.\nWeaker characters will fall asleep entirely.\nThe higher your focus, the longer it takes for the sleep gauge to fill.",
+		"chn": "催眠的量表会持续累积，\n突破界限后会引发异常状态“催眠”。\n不敌睡意的人物会陷入酣眠。\n\n理智度越高，量表累积的速度就越慢。"
+	},
+	{
+		"id": 75,
+		"eng": "When the madness gauge is full, you will go mad and lose a great deal of both HP and FP.\nOnly humans can be afflicted with madness.\nThe higher your focus, the longer it takes for the madness gauge to fill.",
+		"chn": "发狂的量表会持续累积，\n突破界限后会引发异常状态“发狂”。\n血量、专注值会受到大损伤。\n\n此异常状态只对人类有作用。\n理智度越高，量表累积的速度就越慢。"
+	},
+	{
+		"id": 76,
+		"eng": "When your death gauge is full, you will be struck with instant death.\nThis is a very dangerous status ailment, but the higher your resistance to death, the longer it takes for the death gauge to fill.",
+		"chn": "死亡的量表会持续累积，\n突破界限后会引发异常状态“死亡”。\n承受异常状态的人物会立刻死亡。\n\n此为非常恐怖的异常状态。\n对死属性的抵抗力越高，量表累积的速度就越慢。"
+	},
+	{
+		"id": 77,
+		"eng": "Heavy armor provides high poise, making you less likely to recoil from enemy attacks.\nWielding a heavy weapon with two hands may also provide similar effects.",
+		"chn": "厚重的装备强韧度较高，\n不容易因为敌人的攻击而产生硬直。\n\n用双手共持挥舞沉重武器等等行动，也能有相同效果。"
+	},
+	{
+		"id": 100,
+		"eng": "During cooperative multiplayer, a Furled Finger's objective is to help the Host of Fingers defeat the boss of the area.\nA Furled Finger will return to their own world when they die or the boss is defeated, whichever happens first.",
+		"chn": "在协力多人联机游玩中，\n协助者（勾指）的目标是打败区域内的头目。\n\n在达成目标，或是没达成目标就死亡的时候，\n协助者会回到自己的世界。"
+	},
+	{
+		"id": 101,
+		"eng": "During competitive multiplayer, a duelist's objective is to defeat the Host of Fingers.\nA duelist will return to their own world when they die or the Host of Fingers is defeated, whichever happens first.",
+		"chn": "在敌对多人联机游玩中，\n敌对者（斗士）的目标是打败“勾指主人”。\n\n在达成目标，或是没达成目标就死亡的时候，\n敌对者会回到自己的世界。"
+	},
+	{
+		"id": 102,
+		"eng": "In typical multiplayer, there can be up to two cooperators and one invader or adversary present at once.\n\nThe host player can use a Taunter's Tongue to increase the maximum number of invaders or adversaries.",
+		"chn": "在多人联机游玩中，协助者人数最多２人，\n入侵者、敌对者最多共１人。\n\n使用“嘲弄者舌头”之后，\n会提升入侵者、敌对者的人数上限。"
+	},
+	{
+		"id": 103,
+		"eng": "With a Furlcalling Finger Remedy, you can see summon signs left by players in other worlds.\n\nIf you summon another player through their sign, multiplayer will begin, with you as the Host of Fingers.",
+		"chn": "使用“唤勾指药”能看见其他世界的玩家写下的召唤记号。\n\n利用记号召唤玩家后，自己会变成“勾指主人”，\n开始多人联机游玩。"
+	},
+	{
+		"id": 104,
+		"eng": "With a Tarnished's Furled Finger, you can leave a gold summon sign.\nThis sign will appear in other players' worlds and allow them to summon you as a Furled Finger for cooperative multiplayer.",
+		"chn": "使用“褪色者勾指”能写下金色召唤记号。\n记号会传布到其他世界。\n\n被其他世界的玩家召唤后，自己会变成协助者（勾指），\n开始多人联机游玩。"
+	},
+	{
+		"id": 105,
+		"eng": "With a Duelist's Furled Finger, you can leave a red summon sign.\nThis sign will appear in other players' worlds and allow them to summon you as a duelist adversary for competitive multiplayer.",
+		"chn": "使用“斗士勾指”能写下红色召唤记号。\n记号会传布到其他世界。\n\n被其他世界的玩家召唤后，自己会变成敌对者（斗士），\n开始多人联机游玩。"
+	},
+	{
+		"id": 106,
+		"eng": "With a Festering Bloody Finger, you can enter another player's world as an invading Bloody Finger.\nThere are other items that allow you to invade other worlds as well.",
+		"chn": "使用“溃烂血指”自己会变成入侵者（血指），\n入侵其他玩家的世界。\n\n除了这个道具以外，还有其他入侵用的道具。"
+	},
+	{
+		"id": 107,
+		"eng": "If you use a White Cipher Ring, you will automatically request for a hunter from another world to come to your rescue when your world is invaded.\n(Summoning is not always possible.)",
+		"chn": "使用“白秘文戒指”之后，当受到入侵者入侵时，\n能自动向其他世界发出请求，召唤支援者（猎人）前来。\n\n（但在部分场合无法进行召唤。）"
+	},
+	{
+		"id": 108,
+		"eng": "If you use a Blue Cipher Ring, you will make yourself open to summons for rescue from other worlds. You will be summoned to their world as a hunter.",
+		"chn": "使用“蓝秘文戒指”能接收其他世界的召唤请求。\n\n收到请求之后能够回应，\n作为支援者（猎人）接受召唤，前往其他世界。"
+	},
+	{
+		"id": 109,
+		"eng": "In each area, you may find effigies of martyrs.\nThese effigies are summoning pools.\n\nSummon signs made with small effigies are gathered at these summoning pools.\nYou'll find it easy to summon other players at these locations.",
+		"chn": "散布各地的殉教者雕像，是记号的聚集处。\n使用小雕像写下的记号会汇集在记号聚集处，方便召唤其他玩家。"
+	},
+	{
+		"id": 110,
+		"eng": "If you set a group password, you'll be more likely to see messages, summon signs, bloodstains, and phantoms from other players using the same password.",
+		"chn": "在配置群组暗号之后，\n会优先显示使用同一组暗号玩家的下列状态：\n讯息、召唤记号、血迹、幻影等等。"
+	},
+	{
+		"id": 111,
+		"eng": "If you set a multiplayer password, you'll only be matched with other players using the same password for most multiplayer features.\n\nHowever, multiplayer passwords do not apply to invasion multiplayer.",
+		"chn": "在配置多人联机游玩的暗号之后，\n会和配置同一组暗号的玩家进行联机配对。\n\n在入侵多人联机游玩中，不适用暗号功能。"
+	},
+	{
+		"id": 112,
+		"eng": "You can use the Messages menu to leave messages for other players.\n\nYour message will appear in other players' worlds at the spot where you stood when you wrote it.",
+		"chn": "能从讯息选单，选择想留下的讯息。\n讯息会传布到其他世界，让其他世界的玩家看见。"
+	},
+	{
+		"id": 113,
+		"eng": "During multiplayer, you can only explore a limited area.\nAreas beyond those limits are blocked off with a wall of light.\nThey will be accessible again after multiplayer ends.",
+		"chn": "在多人联机游玩时，会出现光墙分割出可活动的范围。\n结束多人联机游玩后，会解除活动范围的限制。"
+	},
+	{
+		"id": 114,
+		"eng": "You may occasionally see faint, white phantoms.\nThese are traces of players in other worlds and the actions they recently performed.",
+		"chn": "短暂现身的半透明白色幻影，\n是在一段时间以前，其他世界的玩家活动的身影。"
+	},
+	{
+		"id": 115,
+		"eng": "Bloodstains are left behind in spots where players in other worlds have died.\nYou can examine them to see how those players died.",
+		"chn": "血迹是其他世界的玩家死亡时的痕迹。\n调查血迹能确认玩家遭遇死亡时的情况。"
+	},
+	{
+		"id": 116,
+		"eng": "During supportive multiplayer, a hunter's objective is to defeat an invader.\nA hunter will return to their own world when they die or the invader is defeated, whichever happens first.",
+		"chn": "在支援多人联机游玩中，\n支援者（猎人）的目标是打败入侵者。\n\n在达成目标，或是没达成目标就死亡的时候，\n支援者会回到自己的世界。"
+	},
+	{
+		"id": 117,
+		"eng": "There are two types of summon signs left by players in other worlds.\n\nGold signs will summon Furled Finger cooperators.\nRed signs will summon duelist adversaries.",
+		"chn": "其他世界的玩家写下的召唤记号，共有２种。\n\n金色记号能召唤协助者“勾指”；\n红色记号能召唤敌对者“斗士”。"
+	},
+	{
+		"id": 118,
+		"eng": "You can change the message format to leave more complex messages.\nYou can also attach gestures to your messages.\n\n<?keyicon@30?>: Change message format",
+		"chn": "能够切换讯息的格式，留下更为复杂的讯息。\n此外，也能替讯息搭配肢体动作。\n\n<?keyicon@30?>：切换讯息的格式"
+	},
+	{
+		"id": 119,
+		"eng": "During invasion multiplayer, the invader's objective is to defeat the Host of Fingers.\nAn invader will return to their own world when they die or the Host of Fingers is defeated, whichever happens first.",
+		"chn": "在入侵多人联机游玩中，\n入侵者的目标是打败“勾指主人”。\n\n在达成目标，或是没达成目标就死亡的时候，\n入侵者会回到自己的世界。"
+	},
+	{
+		"id": 150,
+		"eng": "Attacks with certain affinities, such as fire or lightning, may make guarding less effective than it is against normal physical attacks.\n\nGuarding does not work against many grappling attacks.",
+		"chn": "一般而言，遇上火属性、雷属性等等属性攻击时，\n和物理类攻击相比，即使防御，效果也不好。\n\n此外，当敌人使出抓技等等的攻击，时常会无法防御。"
+	},
+	{
+		"id": 151,
+		"eng": "Some attacks may break an enemy's stance, giving you a chance to perform a critical hit.\nCharge attacks and jump attacks make it particularly easy to break an enemy's stance.",
+		"chn": "敌人会因为我方的攻击而失去平衡，\n此时就有机会使出致命一击。\n\n蓄力攻击、跳跃攻击特别容易让敌人失去平衡。"
+	},
+	{
+		"id": 152,
+		"eng": "Repeatedly attack a mounted enemy to knock them off of their mount and break their stance.\nThis will give you a chance to perform a critical hit.\nCharge attacks and jump attacks are particularly likely to knock enemies off of their mounts.",
+		"chn": "对骑马敌人持续展开攻势，能够让对方坠马、失去平衡，\n就有机会使出致命一击。\n\n蓄力攻击、跳跃攻击特别容易让敌人坠马。"
+	},
+	{
+		"id": 153,
+		"eng": "The slashing attacks of sharp weapons are largely ineffective against hardened armor and scales. Strike attacks are likely to hit the mark.",
+		"chn": "对上穿着坚硬铠甲或有鳞片的敌人，\n用利刃使出斩击，攻击效果不彰。\n\n改以打击属性攻击，通常比较有效。"
+	},
+	{
+		"id": 200,
+		"eng": "There are both Crimson and Cerulean Teardrop Scarabs.\nDefeat them to replenish the flasks that match their type.\nHowever, you cannot replenish more flasks than your maximum amount allows.",
+		"chn": "露滴粪金龟有红色、蓝色之分，\n打败它之后能恢复与颜色对应的圣杯瓶。\n\n如果恢复前使用次数已达上限，则不能累加。"
+	}
+]

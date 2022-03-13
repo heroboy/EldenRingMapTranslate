@@ -1,0 +1,2957 @@
+[
+	{
+		"id": 10000,
+		"eng": "Stormveil Castle",
+		"chn": "史东薇尔城"
+	},
+	{
+		"id": 10010,
+		"eng": "Chapel of Anticipation",
+		"chn": "候王礼拜堂"
+	},
+	{
+		"id": 11000,
+		"eng": "Leyndell, Royal Capital",
+		"chn": "王城罗德尔"
+	},
+	{
+		"id": 11050,
+		"eng": "Leyndell, Ashen Capital",
+		"chn": "灰城罗德尔"
+	},
+	{
+		"id": 11100,
+		"eng": "Roundtable Hold",
+		"chn": "圆桌厅堂"
+	},
+	{
+		"id": 12010,
+		"eng": "Ainsel River Main",
+		"chn": "安瑟尔河主流"
+	},
+	{
+		"id": 12011,
+		"eng": "Lake of Rot",
+		"chn": "腐败湖"
+	},
+	{
+		"id": 12012,
+		"eng": "Ainsel River",
+		"chn": "安瑟尔河"
+	},
+	{
+		"id": 12020,
+		"eng": "Nokron, Eternal City",
+		"chn": "“永恒之城”诺克隆恩"
+	},
+	{
+		"id": 12030,
+		"eng": "Deeproot Depths",
+		"chn": "深根底层"
+	},
+	{
+		"id": 12050,
+		"eng": "Mohgwyn Palace",
+		"chn": "蒙格温王朝"
+	},
+	{
+		"id": 12070,
+		"eng": "Siofra River",
+		"chn": "希芙拉河"
+	},
+	{
+		"id": 13000,
+		"eng": "Crumbling Farum Azula",
+		"chn": "逐渐崩毁的法姆·亚兹拉"
+	},
+	{
+		"id": 14000,
+		"eng": "Academy of Raya Lucaria",
+		"chn": "魔法学院雷亚卢卡利亚"
+	},
+	{
+		"id": 15000,
+		"eng": "Elphael, Brace of the Haligtree",
+		"chn": "“圣树分枝”艾布雷菲尔"
+	},
+	{
+		"id": 15001,
+		"eng": "Miquella's Haligtree",
+		"chn": "米凯拉的圣树"
+	},
+	{
+		"id": 16000,
+		"eng": "Volcano Manor",
+		"chn": "火山官邸"
+	},
+	{
+		"id": 18000,
+		"eng": "Stranded Graveyard",
+		"chn": "漂流墓地"
+	},
+	{
+		"id": 18001,
+		"eng": "Fringefolk Hero's Grave",
+		"chn": "边境英雄墓地"
+	},
+	{
+		"id": 19000,
+		"eng": "Stone Platform",
+		"chn": "石舞台"
+	},
+	{
+		"id": 30000,
+		"eng": "Tombsward Catacombs",
+		"chn": "灵庙原野地下墓地"
+	},
+	{
+		"id": 30010,
+		"eng": "Impaler's Catacombs",
+		"chn": "穿刺地下墓地"
+	},
+	{
+		"id": 30020,
+		"eng": "Stormfoot Catacombs",
+		"chn": "风暴根脚的地下墓地"
+	},
+	{
+		"id": 30030,
+		"eng": "Road's End Catacombs",
+		"chn": "绝路地下墓地"
+	},
+	{
+		"id": 30040,
+		"eng": "Murkwater Catacombs",
+		"chn": "蒙流地下墓地"
+	},
+	{
+		"id": 30050,
+		"eng": "Black Knife Catacombs",
+		"chn": "黑刀地下墓地"
+	},
+	{
+		"id": 30060,
+		"eng": "Cliffbottom Catacombs",
+		"chn": "断崖下的地下墓地"
+	},
+	{
+		"id": 30070,
+		"eng": "Wyndham Catacombs",
+		"chn": "威达姆地下墓地"
+	},
+	{
+		"id": 30080,
+		"eng": "Sainted Hero's Grave",
+		"chn": "尊贵者的英雄墓地"
+	},
+	{
+		"id": 30090,
+		"eng": "Gelmir Hero's Grave",
+		"chn": "格密尔英雄墓地"
+	},
+	{
+		"id": 30100,
+		"eng": "Auriza Hero's Grave",
+		"chn": "亚雷萨英雄墓地"
+	},
+	{
+		"id": 30110,
+		"eng": "Deathtouched Catacombs",
+		"chn": "死亡降临的地下墓地"
+	},
+	{
+		"id": 30120,
+		"eng": "Unsightly Catacombs",
+		"chn": "丑恶地下墓地"
+	},
+	{
+		"id": 30130,
+		"eng": "Auriza Side Tomb",
+		"chn": "亚雷萨副墓地"
+	},
+	{
+		"id": 30140,
+		"eng": "Minor Erdtree Catacombs",
+		"chn": "小黄金树地下墓地"
+	},
+	{
+		"id": 30150,
+		"eng": "Caelid Catacombs",
+		"chn": "盖利德地下墓地"
+	},
+	{
+		"id": 30160,
+		"eng": "War-Dead Catacombs",
+		"chn": "英灵地下墓地"
+	},
+	{
+		"id": 30170,
+		"eng": "Giant-Conquering Hero's Grave",
+		"chn": "巨人战争的英雄墓地"
+	},
+	{
+		"id": 30180,
+		"eng": "Giants' Mountaintop Catacombs",
+		"chn": "巨人山顶地下墓地"
+	},
+	{
+		"id": 30190,
+		"eng": "Consecrated Snowfield Catacombs",
+		"chn": "化圣雪原地下墓地"
+	},
+	{
+		"id": 30200,
+		"eng": "Hidden Path to the Haligtree",
+		"chn": "通往圣树的密道"
+	},
+	{
+		"id": 31000,
+		"eng": "Murkwater Cave",
+		"chn": "蒙流洞窟"
+	},
+	{
+		"id": 31010,
+		"eng": "Earthbore Cave",
+		"chn": "垂穴洞窟"
+	},
+	{
+		"id": 31020,
+		"eng": "Tombsward Cave",
+		"chn": "灵庙原野洞窟"
+	},
+	{
+		"id": 31030,
+		"eng": "Groveside Cave",
+		"chn": "近林洞窟"
+	},
+	{
+		"id": 31040,
+		"eng": "Stillwater Cave",
+		"chn": "留水洞窟"
+	},
+	{
+		"id": 31050,
+		"eng": "Lakeside Crystal Cave",
+		"chn": "湖旁结晶洞窟"
+	},
+	{
+		"id": 31060,
+		"eng": "Academy Crystal Cave",
+		"chn": "学院结晶洞窟"
+	},
+	{
+		"id": 31070,
+		"eng": "Seethewater Cave",
+		"chn": "沸滚河洞窟"
+	},
+	{
+		"id": 31090,
+		"eng": "Volcano Cave",
+		"chn": "火山洞窟"
+	},
+	{
+		"id": 31100,
+		"eng": "Dragonbarrow Cave",
+		"chn": "龙墓洞窟"
+	},
+	{
+		"id": 31110,
+		"eng": "Sellia Hideaway",
+		"chn": "瑟利亚隐藏洞窟"
+	},
+	{
+		"id": 31120,
+		"eng": "Cave of the Forlorn",
+		"chn": "安身洞窟"
+	},
+	{
+		"id": 31150,
+		"eng": "Coastal Cave",
+		"chn": "海岸洞窟"
+	},
+	{
+		"id": 31170,
+		"eng": "Highroad Cave",
+		"chn": "大道下的洞窟"
+	},
+	{
+		"id": 31180,
+		"eng": "Perfumer's Grotto",
+		"chn": "调香师的藏身洞窟"
+	},
+	{
+		"id": 31190,
+		"eng": "Sage's Cave",
+		"chn": "贤者的洞窟"
+	},
+	{
+		"id": 31200,
+		"eng": "Abandoned Cave",
+		"chn": "废弃洞窟"
+	},
+	{
+		"id": 31210,
+		"eng": "Gaol Cave",
+		"chn": "牢狱洞窟"
+	},
+	{
+		"id": 31220,
+		"eng": "Spiritcaller's Cave",
+		"chn": "唤灵洞窟"
+	},
+	{
+		"id": 32000,
+		"eng": "Morne Tunnel",
+		"chn": "摩恩坑道"
+	},
+	{
+		"id": 32010,
+		"eng": "Limgrave Tunnels",
+		"chn": "宁姆格福坑道"
+	},
+	{
+		"id": 32020,
+		"eng": "Raya Lucaria Crystal Tunnel",
+		"chn": "雷亚卢卡利亚结晶坑道"
+	},
+	{
+		"id": 32040,
+		"eng": "Old Altus Tunnel",
+		"chn": "亚坛古坑道"
+	},
+	{
+		"id": 32050,
+		"eng": "Altus Tunnel",
+		"chn": "亚坛坑道"
+	},
+	{
+		"id": 32070,
+		"eng": "Gael Tunnel",
+		"chn": "盖尔坑道"
+	},
+	{
+		"id": 32080,
+		"eng": "Sellia Crystal Tunnel",
+		"chn": "瑟利亚结晶坑道"
+	},
+	{
+		"id": 32110,
+		"eng": "Yelough Anix Tunnel",
+		"chn": "耶罗·亚尼斯坑道"
+	},
+	{
+		"id": 34100,
+		"eng": "Divine Tower of Limgrave",
+		"chn": "宁姆格福神授塔"
+	},
+	{
+		"id": 34110,
+		"eng": "Carian Study Hall",
+		"chn": "卡利亚书斋"
+	},
+	{
+		"id": 34111,
+		"eng": "Divine Tower of Liurnia",
+		"chn": "利耶尼亚神授塔"
+	},
+	{
+		"id": 34120,
+		"eng": "Sealed Tunnel",
+		"chn": "封印坑道"
+	},
+	{
+		"id": 34121,
+		"eng": "Divine Tower of West Altus",
+		"chn": "西亚坛神授塔"
+	},
+	{
+		"id": 34130,
+		"eng": "Divine Tower of Caelid",
+		"chn": "盖利德神授塔"
+	},
+	{
+		"id": 34140,
+		"eng": "Divine Tower of East Altus",
+		"chn": "东亚坛神授塔"
+	},
+	{
+		"id": 34150,
+		"eng": "Isolated Divine Tower",
+		"chn": "孤立神授塔"
+	},
+	{
+		"id": 35000,
+		"eng": "Subterranean Shunning-Grounds",
+		"chn": "弃置恶兆的地底"
+	},
+	{
+		"id": 35002,
+		"eng": "Leyndell Catacombs",
+		"chn": "罗德尔地下墓地"
+	},
+	{
+		"id": 39200,
+		"eng": "Ruin-Strewn Precipice",
+		"chn": "古遗迹断崖"
+	},
+	{
+		"id": 61000,
+		"eng": "Limgrave",
+		"chn": "宁姆格福"
+	},
+	{
+		"id": 61001,
+		"eng": "Stormhill",
+		"chn": "风暴山丘"
+	},
+	{
+		"id": 61002,
+		"eng": "Weeping Peninsula",
+		"chn": "啜泣半岛"
+	},
+	{
+		"id": 62000,
+		"eng": "Liurnia of the Lakes",
+		"chn": "湖之利耶尼亚"
+	},
+	{
+		"id": 62001,
+		"eng": "Bellum Highway",
+		"chn": "彼鲁姆大道"
+	},
+	{
+		"id": 62002,
+		"eng": "Moonlight Altar",
+		"chn": "月光祭坛"
+	},
+	{
+		"id": 63000,
+		"eng": "Altus Plateau",
+		"chn": "亚坛高原"
+	},
+	{
+		"id": 63001,
+		"eng": "Mt. Gelmir",
+		"chn": "格密尔火山"
+	},
+	{
+		"id": 63002,
+		"eng": "Capital Outskirts",
+		"chn": "王城外围"
+	},
+	{
+		"id": 63003,
+		"eng": "Forbidden Lands",
+		"chn": "禁域"
+	},
+	{
+		"id": 64000,
+		"eng": "Caelid",
+		"chn": "盖利德"
+	},
+	{
+		"id": 64001,
+		"eng": "Greyoll's Dragonbarrow",
+		"chn": "桂奥尔龙墓"
+	},
+	{
+		"id": 64002,
+		"eng": "Swamp of Aeonia",
+		"chn": "艾奥尼亚沼泽"
+	},
+	{
+		"id": 65000,
+		"eng": "Mountaintops of the Giants",
+		"chn": "巨人山顶"
+	},
+	{
+		"id": 65001,
+		"eng": "Flame Peak",
+		"chn": "火焰之巅"
+	},
+	{
+		"id": 65002,
+		"eng": "Consecrated Snowfield",
+		"chn": "化圣雪原"
+	},
+	{
+		"id": 100000,
+		"eng": "Godrick the Grafted",
+		"chn": "“接肢”葛瑞克"
+	},
+	{
+		"id": 100001,
+		"eng": "Margit, the Fell Omen",
+		"chn": "“恶兆妖鬼”玛尔基特"
+	},
+	{
+		"id": 100002,
+		"eng": "Castleward Tunnel",
+		"chn": "通城隧道"
+	},
+	{
+		"id": 100003,
+		"eng": "Gateside Chamber",
+		"chn": "门旁小屋"
+	},
+	{
+		"id": 100004,
+		"eng": "Stormveil Cliffside",
+		"chn": "史东薇尔断崖"
+	},
+	{
+		"id": 100005,
+		"eng": "Rampart Tower",
+		"chn": "城墙塔"
+	},
+	{
+		"id": 100006,
+		"eng": "Liftside Chamber",
+		"chn": "升降机旁房间"
+	},
+	{
+		"id": 100007,
+		"eng": "Secluded Cell",
+		"chn": "深处小房间"
+	},
+	{
+		"id": 100008,
+		"eng": "Stormveil Main Gate",
+		"chn": "史东薇尔正门"
+	},
+	{
+		"id": 110000,
+		"eng": "Elden Throne",
+		"chn": "艾尔登宝座"
+	},
+	{
+		"id": 110001,
+		"eng": "Erdtree Sanctuary",
+		"chn": "黄金树大教堂"
+	},
+	{
+		"id": 110002,
+		"eng": "East Capital Rampart",
+		"chn": "王城东边城墙"
+	},
+	{
+		"id": 110003,
+		"eng": "Lower Capital Church",
+		"chn": "王城底层教堂"
+	},
+	{
+		"id": 110004,
+		"eng": "Avenue Balcony",
+		"chn": "大道旁露台"
+	},
+	{
+		"id": 110005,
+		"eng": "West Capital Rampart",
+		"chn": "王城西边城墙"
+	},
+	{
+		"id": 110007,
+		"eng": "Queen's Bedchamber",
+		"chn": "女王闺阁"
+	},
+	{
+		"id": 110008,
+		"eng": "Fortified Manor, First Floor",
+		"chn": "城寨一楼"
+	},
+	{
+		"id": 110009,
+		"eng": "Divine Bridge",
+		"chn": "神授桥"
+	},
+	{
+		"id": 110070,
+		"eng": "Volcano Manor Request: Vargram",
+		"chn": "火山官邸的委托：巴格莱姆"
+	},
+	{
+		"id": 110500,
+		"eng": "Elden Throne",
+		"chn": "艾尔登宝座"
+	},
+	{
+		"id": 110501,
+		"eng": "Erdtree Sanctuary",
+		"chn": "黄金树大教堂"
+	},
+	{
+		"id": 110502,
+		"eng": "East Capital Rampart",
+		"chn": "王城东边城墙"
+	},
+	{
+		"id": 110503,
+		"eng": "Leyndell, Capital of Ash",
+		"chn": "“灰烬王城”罗德尔"
+	},
+	{
+		"id": 110504,
+		"eng": "Queen's Bedchamber",
+		"chn": "女王闺阁"
+	},
+	{
+		"id": 110505,
+		"eng": "Divine Bridge",
+		"chn": "神授桥"
+	},
+	{
+		"id": 111000,
+		"eng": "Table of Lost Grace",
+		"chn": "大赐福"
+	},
+	{
+		"id": 120100,
+		"eng": "Dragonkin Soldier of Nokstella",
+		"chn": "诺克史黛拉的龙人士兵"
+	},
+	{
+		"id": 120101,
+		"eng": "Ainsel River Well Depths",
+		"chn": "安瑟尔河（井底）"
+	},
+	{
+		"id": 120102,
+		"eng": "Ainsel River Sluice Gate",
+		"chn": "安瑟尔河（水门）"
+	},
+	{
+		"id": 120103,
+		"eng": "Ainsel River Downstream",
+		"chn": "安瑟尔河（下游）"
+	},
+	{
+		"id": 120104,
+		"eng": "Ainsel River Main",
+		"chn": "安瑟尔河主流"
+	},
+	{
+		"id": 120105,
+		"eng": "Nokstella, Eternal City",
+		"chn": "“永恒之城”诺克史黛拉"
+	},
+	{
+		"id": 120106,
+		"eng": "Lake of Rot Shoreside",
+		"chn": "腐败湖畔"
+	},
+	{
+		"id": 120107,
+		"eng": "Lake of Rot",
+		"chn": "腐败湖"
+	},
+	{
+		"id": 120108,
+		"eng": "Grand Cloister",
+		"chn": "大回廊"
+	},
+	{
+		"id": 120109,
+		"eng": "Nokstella Waterfall Basin",
+		"chn": "诺克史黛拉水潭"
+	},
+	{
+		"id": 120200,
+		"eng": "Great Waterfall Basin",
+		"chn": "大瀑布水潭"
+	},
+	{
+		"id": 120201,
+		"eng": "Mimic Tear",
+		"chn": "仿身泪滴"
+	},
+	{
+		"id": 120203,
+		"eng": "Siofra River Bank",
+		"chn": "希芙拉河（岸边）"
+	},
+	{
+		"id": 120204,
+		"eng": "Worshippers' Woods",
+		"chn": "信仰者森林"
+	},
+	{
+		"id": 120206,
+		"eng": "Ancestral Woods",
+		"chn": "祖灵森林"
+	},
+	{
+		"id": 120207,
+		"eng": "Aqueduct-Facing Cliffs",
+		"chn": "导水桥旁断崖"
+	},
+	{
+		"id": 120208,
+		"eng": "Night's Sacred Ground",
+		"chn": "黑夜神域"
+	},
+	{
+		"id": 120209,
+		"eng": "Below the Well",
+		"chn": "出口井的下方"
+	},
+	{
+		"id": 120300,
+		"eng": "Prince of Death's Throne",
+		"chn": "死王子宝座"
+	},
+	{
+		"id": 120301,
+		"eng": "Root-Facing Cliffs",
+		"chn": "树根旁断崖"
+	},
+	{
+		"id": 120302,
+		"eng": "Great Waterfall Crest",
+		"chn": "大瀑布顶端"
+	},
+	{
+		"id": 120303,
+		"eng": "Deeproot Depths",
+		"chn": "深根底层"
+	},
+	{
+		"id": 120304,
+		"eng": "The Nameless Eternal City",
+		"chn": "无名永恒之城"
+	},
+	{
+		"id": 120305,
+		"eng": "Across the Roots",
+		"chn": "树根前路"
+	},
+	{
+		"id": 120400,
+		"eng": "Astel, Naturalborn of the Void",
+		"chn": "“黑暗弃子”艾丝缇"
+	},
+	{
+		"id": 120500,
+		"eng": "Cocoon of the Empyrean",
+		"chn": "神人坠眠之茧"
+	},
+	{
+		"id": 120501,
+		"eng": "Palace Approach Ledge-Road",
+		"chn": "通往王朝的崖上道路"
+	},
+	{
+		"id": 120502,
+		"eng": "Dynasty Mausoleum Entrance",
+		"chn": "王朝灵庙（入口）"
+	},
+	{
+		"id": 120503,
+		"eng": "Dynasty Mausoleum Midpoint",
+		"chn": "王朝灵庙（中段）"
+	},
+	{
+		"id": 120700,
+		"eng": "Siofra River Well Depths",
+		"chn": "希芙拉河（井底）"
+	},
+	{
+		"id": 120701,
+		"eng": "Nokron, Eternal City",
+		"chn": "“永恒之城”诺克隆恩"
+	},
+	{
+		"id": 130000,
+		"eng": "Maliketh, the Black Blade",
+		"chn": "“黑剑”玛利喀斯"
+	},
+	{
+		"id": 130001,
+		"eng": "Dragonlord Placidusax",
+		"chn": "“龙王”普拉顿桑克斯"
+	},
+	{
+		"id": 130002,
+		"eng": "Dragon Temple Altar",
+		"chn": "龙教堂祭坛"
+	},
+	{
+		"id": 130003,
+		"eng": "Crumbling Beast Grave",
+		"chn": "渐毁野兽墓"
+	},
+	{
+		"id": 130004,
+		"eng": "Crumbling Beast Grave Depths",
+		"chn": "渐毁野兽墓（深处）"
+	},
+	{
+		"id": 130005,
+		"eng": "Tempest-Facing Balcony",
+		"chn": "龙卷旁露台"
+	},
+	{
+		"id": 130006,
+		"eng": "Dragon Temple",
+		"chn": "龙教堂"
+	},
+	{
+		"id": 130007,
+		"eng": "Dragon Temple Transept",
+		"chn": "龙教堂（耳堂）"
+	},
+	{
+		"id": 130008,
+		"eng": "Dragon Temple Lift",
+		"chn": "龙教堂（升降机前）"
+	},
+	{
+		"id": 130009,
+		"eng": "Dragon Temple Rooftop",
+		"chn": "龙教堂（屋顶）"
+	},
+	{
+		"id": 130010,
+		"eng": "Beside the Great Bridge",
+		"chn": "大桥侧边"
+	},
+	{
+		"id": 140000,
+		"eng": "Raya Lucaria Grand Library",
+		"chn": "雷亚卢卡利亚大书库"
+	},
+	{
+		"id": 140001,
+		"eng": "Debate Parlor",
+		"chn": "讨论室"
+	},
+	{
+		"id": 140002,
+		"eng": "Church of the Cuckoo",
+		"chn": "杜鹃教堂"
+	},
+	{
+		"id": 140003,
+		"eng": "Schoolhouse Classroom",
+		"chn": "校舍内的教室"
+	},
+	{
+		"id": 150000,
+		"eng": "Malenia, Goddess of Rot",
+		"chn": "“腐败女神”玛莲妮亚"
+	},
+	{
+		"id": 150001,
+		"eng": "Prayer Room",
+		"chn": "祈祷室"
+	},
+	{
+		"id": 150002,
+		"eng": "Elphael Inner Wall",
+		"chn": "艾布雷菲尔城墙内部"
+	},
+	{
+		"id": 150003,
+		"eng": "Drainage Channel",
+		"chn": "排水通道"
+	},
+	{
+		"id": 150004,
+		"eng": "Haligtree Roots",
+		"chn": "圣树底层"
+	},
+	{
+		"id": 150005,
+		"eng": "Haligtree Promenade",
+		"chn": "圣树大舞台"
+	},
+	{
+		"id": 150006,
+		"eng": "Haligtree Canopy",
+		"chn": "圣树树冠"
+	},
+	{
+		"id": 150007,
+		"eng": "Haligtree Town",
+		"chn": "圣树镇"
+	},
+	{
+		"id": 150008,
+		"eng": "Haligtree Town Plaza",
+		"chn": "圣树镇（广场）"
+	},
+	{
+		"id": 160000,
+		"eng": "Rykard, Lord of Blasphemy",
+		"chn": "“亵渎君王”拉卡德"
+	},
+	{
+		"id": 160001,
+		"eng": "Temple of Eiglay",
+		"chn": "艾格蕾教堂"
+	},
+	{
+		"id": 160002,
+		"eng": "Volcano Manor",
+		"chn": "火山官邸"
+	},
+	{
+		"id": 160003,
+		"eng": "Prison Town Church",
+		"chn": "牢镇教堂"
+	},
+	{
+		"id": 160004,
+		"eng": "Guest Hall",
+		"chn": "迎宾厅"
+	},
+	{
+		"id": 160005,
+		"eng": "Audience Pathway",
+		"chn": "谒见之路"
+	},
+	{
+		"id": 160006,
+		"eng": "Abductor Virgin",
+		"chn": "掳人少女人偶"
+	},
+	{
+		"id": 160007,
+		"eng": "Subterranean Inquisition Chamber",
+		"chn": "地底拷问所"
+	},
+	{
+		"id": 180000,
+		"eng": "Cave of Knowledge",
+		"chn": "求学洞窟"
+	},
+	{
+		"id": 180001,
+		"eng": "Stranded Graveyard",
+		"chn": "漂流墓地"
+	},
+	{
+		"id": 190000,
+		"eng": "Fractured Marika",
+		"chn": "濒毁玛莉卡"
+	},
+	{
+		"id": 300000,
+		"eng": "Tombsward Catacombs",
+		"chn": "灵庙原野地下墓地"
+	},
+	{
+		"id": 300100,
+		"eng": "Impaler's Catacombs",
+		"chn": "穿刺地下墓地"
+	},
+	{
+		"id": 300200,
+		"eng": "Stormfoot Catacombs",
+		"chn": "风暴根脚的地下墓地"
+	},
+	{
+		"id": 300300,
+		"eng": "Road's End Catacombs",
+		"chn": "绝路地下墓地"
+	},
+	{
+		"id": 300400,
+		"eng": "Murkwater Catacombs",
+		"chn": "蒙流地下墓地"
+	},
+	{
+		"id": 300500,
+		"eng": "Black Knife Catacombs",
+		"chn": "黑刀地下墓地"
+	},
+	{
+		"id": 300600,
+		"eng": "Cliffbottom Catacombs",
+		"chn": "断崖下的地下墓地"
+	},
+	{
+		"id": 300700,
+		"eng": "Wyndham Catacombs",
+		"chn": "威达姆地下墓地"
+	},
+	{
+		"id": 300800,
+		"eng": "Sainted Hero's Grave",
+		"chn": "尊贵者的英雄墓地"
+	},
+	{
+		"id": 300900,
+		"eng": "Gelmir Hero's Grave",
+		"chn": "格密尔英雄墓地"
+	},
+	{
+		"id": 301000,
+		"eng": "Auriza Hero's Grave",
+		"chn": "亚雷萨英雄墓地"
+	},
+	{
+		"id": 301100,
+		"eng": "Deathtouched Catacombs",
+		"chn": "死亡降临的地下墓地"
+	},
+	{
+		"id": 301200,
+		"eng": "Unsightly Catacombs",
+		"chn": "丑恶地下墓地"
+	},
+	{
+		"id": 301300,
+		"eng": "Auriza Side Tomb",
+		"chn": "亚雷萨副墓地"
+	},
+	{
+		"id": 301400,
+		"eng": "Minor Erdtree Catacombs",
+		"chn": "小黄金树地下墓地"
+	},
+	{
+		"id": 301500,
+		"eng": "Caelid Catacombs",
+		"chn": "盖利德地下墓地"
+	},
+	{
+		"id": 301600,
+		"eng": "War-Dead Catacombs",
+		"chn": "英灵地下墓地"
+	},
+	{
+		"id": 301700,
+		"eng": "Giant-Conquering Hero's Grave",
+		"chn": "巨人战争的英雄墓地"
+	},
+	{
+		"id": 301800,
+		"eng": "Giants' Mountaintop Catacombs",
+		"chn": "巨人山顶地下墓地"
+	},
+	{
+		"id": 301900,
+		"eng": "Consecrated Snowfield Catacombs",
+		"chn": "化圣雪原地下墓地"
+	},
+	{
+		"id": 302000,
+		"eng": "Hidden Path to the Haligtree",
+		"chn": "通往圣树的密道"
+	},
+	{
+		"id": 310000,
+		"eng": "Murkwater Cave",
+		"chn": "蒙流洞窟"
+	},
+	{
+		"id": 310100,
+		"eng": "Earthbore Cave",
+		"chn": "垂穴洞窟"
+	},
+	{
+		"id": 310200,
+		"eng": "Tombsward Cave",
+		"chn": "灵庙原野洞窟"
+	},
+	{
+		"id": 310300,
+		"eng": "Groveside Cave",
+		"chn": "近林洞窟"
+	},
+	{
+		"id": 310400,
+		"eng": "Stillwater Cave",
+		"chn": "留水洞窟"
+	},
+	{
+		"id": 310500,
+		"eng": "Lakeside Crystal Cave",
+		"chn": "湖旁结晶洞窟"
+	},
+	{
+		"id": 310600,
+		"eng": "Academy Crystal Cave",
+		"chn": "学院结晶洞窟"
+	},
+	{
+		"id": 310700,
+		"eng": "Seethewater Cave",
+		"chn": "沸滚河洞窟"
+	},
+	{
+		"id": 310900,
+		"eng": "Volcano Cave",
+		"chn": "火山洞窟"
+	},
+	{
+		"id": 311000,
+		"eng": "Dragonbarrow Cave",
+		"chn": "龙墓洞窟"
+	},
+	{
+		"id": 311100,
+		"eng": "Sellia Hideaway",
+		"chn": "瑟利亚隐藏洞窟"
+	},
+	{
+		"id": 311200,
+		"eng": "Cave of the Forlorn",
+		"chn": "安身洞窟"
+	},
+	{
+		"id": 311500,
+		"eng": "Coastal Cave",
+		"chn": "海岸洞窟"
+	},
+	{
+		"id": 311700,
+		"eng": "Highroad Cave",
+		"chn": "大道下的洞窟"
+	},
+	{
+		"id": 311800,
+		"eng": "Perfumer's Grotto",
+		"chn": "调香师的藏身洞窟"
+	},
+	{
+		"id": 311900,
+		"eng": "Sage's Cave",
+		"chn": "贤者的洞窟"
+	},
+	{
+		"id": 312000,
+		"eng": "Abandoned Cave",
+		"chn": "废弃洞窟"
+	},
+	{
+		"id": 312100,
+		"eng": "Gaol Cave",
+		"chn": "牢狱洞窟"
+	},
+	{
+		"id": 312200,
+		"eng": "Spiritcaller's Cave",
+		"chn": "唤灵洞窟"
+	},
+	{
+		"id": 320000,
+		"eng": "Morne Tunnel",
+		"chn": "摩恩坑道"
+	},
+	{
+		"id": 320100,
+		"eng": "Limgrave Tunnels",
+		"chn": "宁姆格福坑道"
+	},
+	{
+		"id": 320200,
+		"eng": "Raya Lucaria Crystal Tunnel",
+		"chn": "雷亚卢卡利亚结晶坑道"
+	},
+	{
+		"id": 320400,
+		"eng": "Old Altus Tunnel",
+		"chn": "旧亚坛坑道"
+	},
+	{
+		"id": 320500,
+		"eng": "Altus Tunnel",
+		"chn": "亚坛坑道"
+	},
+	{
+		"id": 320700,
+		"eng": "Gael Tunnel",
+		"chn": "盖尔坑道"
+	},
+	{
+		"id": 320701,
+		"eng": "Rear Gael Tunnel Entrance",
+		"chn": "盖尔坑道（侧门口）"
+	},
+	{
+		"id": 320800,
+		"eng": "Sellia Crystal Tunnel",
+		"chn": "瑟利亚结晶坑道"
+	},
+	{
+		"id": 321100,
+		"eng": "Yelough Anix Tunnel",
+		"chn": "耶罗·亚尼斯坑道"
+	},
+	{
+		"id": 341000,
+		"eng": "Limgrave Tower Bridge",
+		"chn": "宁姆格福神授塔（桥上）"
+	},
+	{
+		"id": 341002,
+		"eng": "Divine Tower of Limgrave",
+		"chn": "宁姆格福神授塔"
+	},
+	{
+		"id": 341100,
+		"eng": "Study Hall Entrance",
+		"chn": "书斋入口"
+	},
+	{
+		"id": 341101,
+		"eng": "Liurnia Tower Bridge",
+		"chn": "利耶尼亚神授塔（桥上）"
+	},
+	{
+		"id": 341102,
+		"eng": "Divine Tower of Liurnia",
+		"chn": "利耶尼亚神授塔"
+	},
+	{
+		"id": 341200,
+		"eng": "Divine Tower of West Altus",
+		"chn": "西亚坛神授塔"
+	},
+	{
+		"id": 341201,
+		"eng": "Sealed Tunnel",
+		"chn": "封印坑道"
+	},
+	{
+		"id": 341202,
+		"eng": "Divine Tower of West Altus: Gate",
+		"chn": "西亚坛神授塔（门口）"
+	},
+	{
+		"id": 341300,
+		"eng": "Divine Tower of Caelid",
+		"chn": "盖利德神授塔"
+	},
+	{
+		"id": 341301,
+		"eng": "Divine Tower of Caelid: Basement",
+		"chn": "盖利德神授塔（地底）"
+	},
+	{
+		"id": 341302,
+		"eng": "Divine Tower of Caelid: Center",
+		"chn": "盖利德神授塔（中段）"
+	},
+	{
+		"id": 341400,
+		"eng": "Divine Tower of East Altus: Gate",
+		"chn": "东亚坛神授塔（门口）"
+	},
+	{
+		"id": 341401,
+		"eng": "Divine Tower of East Altus",
+		"chn": "东亚坛神授塔"
+	},
+	{
+		"id": 341500,
+		"eng": "Isolated Divine Tower",
+		"chn": "孤立神授塔"
+	},
+	{
+		"id": 350000,
+		"eng": "Cathedral of the Forsaken",
+		"chn": "弃置恶兆的大教堂"
+	},
+	{
+		"id": 350001,
+		"eng": "Underground Roadside",
+		"chn": "地底大道旁"
+	},
+	{
+		"id": 350002,
+		"eng": "Forsaken Depths",
+		"chn": "弃置恶兆的底层"
+	},
+	{
+		"id": 350003,
+		"eng": "Leyndell Catacombs",
+		"chn": "罗德尔地下墓地"
+	},
+	{
+		"id": 350004,
+		"eng": "Frenzied Flame Proscription",
+		"chn": "癫火封印"
+	},
+	{
+		"id": 390000,
+		"eng": "Magma Wyrm",
+		"chn": "熔岩土龙"
+	},
+	{
+		"id": 390001,
+		"eng": "Ruin-Strewn Precipice",
+		"chn": "古遗迹断崖"
+	},
+	{
+		"id": 390002,
+		"eng": "Ruin-Strewn Precipice Overlook",
+		"chn": "古遗迹断崖（对岸）"
+	},
+	{
+		"id": 392070,
+		"eng": "Volcano Manor Request: Tragoth",
+		"chn": "火山官邸的委托：忒拉格斯"
+	},
+	{
+		"id": 610000,
+		"eng": "Church of Elleh",
+		"chn": "艾雷教堂"
+	},
+	{
+		"id": 610001,
+		"eng": "Stormhill Shack",
+		"chn": "风暴山丘的破屋"
+	},
+	{
+		"id": 610002,
+		"eng": "Artist's Shack",
+		"chn": "画家的破屋"
+	},
+	{
+		"id": 610003,
+		"eng": "Third Church of Marika",
+		"chn": "玛莉卡第三教堂"
+	},
+	{
+		"id": 610004,
+		"eng": "Fort Haight West",
+		"chn": "海德要塞西方"
+	},
+	{
+		"id": 610005,
+		"eng": "Agheel Lake South",
+		"chn": "亚基尔湖南方"
+	},
+	{
+		"id": 610007,
+		"eng": "Agheel Lake North",
+		"chn": "亚基尔湖北方"
+	},
+	{
+		"id": 610008,
+		"eng": "Church of Dragon Communion",
+		"chn": "龙飨教堂"
+	},
+	{
+		"id": 610009,
+		"eng": "Gatefront",
+		"chn": "关卡前方"
+	},
+	{
+		"id": 610010,
+		"eng": "Garden Beyond the Bridge",
+		"chn": "桥尾花园"
+	},
+	{
+		"id": 610011,
+		"eng": "Seaside Ruins",
+		"chn": "傍海古遗迹"
+	},
+	{
+		"id": 610012,
+		"eng": "Mistwood Outskirts",
+		"chn": "雾林边缘"
+	},
+	{
+		"id": 610013,
+		"eng": "Mistwood",
+		"chn": "雾林"
+	},
+	{
+		"id": 610014,
+		"eng": "Murkwater Coast",
+		"chn": "蒙流岸边"
+	},
+	{
+		"id": 610015,
+		"eng": "Saintsbridge",
+		"chn": "圣人桥"
+	},
+	{
+		"id": 610016,
+		"eng": "Summonwater Village Outskirts",
+		"chn": "水唤村外"
+	},
+	{
+		"id": 610017,
+		"eng": "Warmaster's Shack",
+		"chn": "习战者的破屋"
+	},
+	{
+		"id": 610018,
+		"eng": "Waypoint Ruins Cellar",
+		"chn": "驿站街遗迹的地下室"
+	},
+	{
+		"id": 610019,
+		"eng": "The First Step",
+		"chn": "引导之始"
+	},
+	{
+		"id": 611000,
+		"eng": "Fourth Church of Marika",
+		"chn": "玛莉卡第四教堂"
+	},
+	{
+		"id": 611001,
+		"eng": "Castle Morne Rampart",
+		"chn": "摩恩城（城墙前方）"
+	},
+	{
+		"id": 611002,
+		"eng": "Tombsward",
+		"chn": "灵庙原野"
+	},
+	{
+		"id": 611003,
+		"eng": "South of the Lookout Tower",
+		"chn": "监视塔的南方"
+	},
+	{
+		"id": 611004,
+		"eng": "Ailing Village Outskirts",
+		"chn": "病村外"
+	},
+	{
+		"id": 611005,
+		"eng": "Beside the Crater-Pocked Glade",
+		"chn": "地坑旁"
+	},
+	{
+		"id": 611006,
+		"eng": "Isolated Merchant's Shack",
+		"chn": "隐居商人的破屋"
+	},
+	{
+		"id": 611007,
+		"eng": "Bridge of Sacrifice",
+		"chn": "献祭大桥"
+	},
+	{
+		"id": 611008,
+		"eng": "Castle Morne Lift",
+		"chn": "摩恩城（升降机前方）"
+	},
+	{
+		"id": 611009,
+		"eng": "Behind the Castle",
+		"chn": "城堡后方"
+	},
+	{
+		"id": 611010,
+		"eng": "Beside the Rampart Gaol",
+		"chn": "城墙监牢旁"
+	},
+	{
+		"id": 611011,
+		"eng": "Morne Moangrave",
+		"chn": "摩恩悲叹墓"
+	},
+	{
+		"id": 611012,
+		"eng": "Church of Pilgrimage",
+		"chn": "巡礼教堂"
+	},
+	{
+		"id": 620000,
+		"eng": "Lake-Facing Cliffs",
+		"chn": "傍湖断崖"
+	},
+	{
+		"id": 620001,
+		"eng": "Liurnia Lake Shore",
+		"chn": "利耶尼亚湖（湖边）"
+	},
+	{
+		"id": 620002,
+		"eng": "Laskyar Ruins",
+		"chn": "拉斯卡废墟"
+	},
+	{
+		"id": 620003,
+		"eng": "Scenic Isle",
+		"chn": "远眺岛"
+	},
+	{
+		"id": 620004,
+		"eng": "Academy Gate Town",
+		"chn": "学院门前镇"
+	},
+	{
+		"id": 620005,
+		"eng": "Main Academy Gate",
+		"chn": "学院正门口"
+	},
+	{
+		"id": 620010,
+		"eng": "East Raya Lucaria Gate",
+		"chn": "雷亚卢卡利亚（东门）"
+	},
+	{
+		"id": 620011,
+		"eng": "Bellum Church",
+		"chn": "彼鲁姆教堂"
+	},
+	{
+		"id": 620012,
+		"eng": "Grand Lift of Dectus",
+		"chn": "迪可达斯大升降机"
+	},
+	{
+		"id": 620020,
+		"eng": "Foot of the Four Belfries",
+		"chn": "四钟楼山脚"
+	},
+	{
+		"id": 620021,
+		"eng": "Sorcerer's Isle",
+		"chn": "魔法师塔的小岛"
+	},
+	{
+		"id": 620022,
+		"eng": "Northern Liurnia Lake Shore",
+		"chn": "利耶尼亚湖（北岸）"
+	},
+	{
+		"id": 620023,
+		"eng": "Road to the Manor",
+		"chn": "通往城寨的道路"
+	},
+	{
+		"id": 620024,
+		"eng": "Main Caria Manor Gate",
+		"chn": "卡利亚城寨（正门）"
+	},
+	{
+		"id": 620030,
+		"eng": "Slumbering Wolf's Shack",
+		"chn": "眠狼的破屋"
+	},
+	{
+		"id": 620031,
+		"eng": "Boilprawn Shack",
+		"chn": "煮虾子的破屋"
+	},
+	{
+		"id": 620032,
+		"eng": "Artist's Shack",
+		"chn": "画家的破屋"
+	},
+	{
+		"id": 620033,
+		"eng": "Revenger's Shack",
+		"chn": "复仇者的破屋"
+	},
+	{
+		"id": 620034,
+		"eng": "Folly on the Lake",
+		"chn": "湖畔凉亭"
+	},
+	{
+		"id": 620035,
+		"eng": "Village of the Albinaurics",
+		"chn": "白金村"
+	},
+	{
+		"id": 620036,
+		"eng": "Liurnia Highway North",
+		"chn": "利耶尼亚大道（北方）"
+	},
+	{
+		"id": 620037,
+		"eng": "Gate Town Bridge",
+		"chn": "门前镇大桥"
+	},
+	{
+		"id": 620038,
+		"eng": "Eastern Liurnia Lake Shore",
+		"chn": "利耶尼亚湖（东岸）"
+	},
+	{
+		"id": 620039,
+		"eng": "Church of Vows",
+		"chn": "结缘教堂"
+	},
+	{
+		"id": 620040,
+		"eng": "Ruined Labyrinth",
+		"chn": "遗迹迷宫"
+	},
+	{
+		"id": 620041,
+		"eng": "Mausoleum Compound",
+		"chn": "群集灵庙"
+	},
+	{
+		"id": 620042,
+		"eng": "The Four Belfries",
+		"chn": "四钟楼"
+	},
+	{
+		"id": 620043,
+		"eng": "Ranni's Rise",
+		"chn": "菈妮魔法师塔"
+	},
+	{
+		"id": 620044,
+		"eng": "Ravine-Veiled Village",
+		"chn": "谷底秘村"
+	},
+	{
+		"id": 620045,
+		"eng": "Manor Upper Level",
+		"chn": "城寨上部"
+	},
+	{
+		"id": 620046,
+		"eng": "Manor Lower Level",
+		"chn": "城寨下部"
+	},
+	{
+		"id": 620047,
+		"eng": "Royal Moongazing Grounds",
+		"chn": "王室赏月地"
+	},
+	{
+		"id": 620048,
+		"eng": "Gate Town North",
+		"chn": "门前镇的北方"
+	},
+	{
+		"id": 620049,
+		"eng": "Eastern Tableland",
+		"chn": "东边台地"
+	},
+	{
+		"id": 620050,
+		"eng": "The Ravine",
+		"chn": "谷底"
+	},
+	{
+		"id": 620051,
+		"eng": "Fallen Ruins of the Lake",
+		"chn": "湖中坠落遗迹"
+	},
+	{
+		"id": 620052,
+		"eng": "Converted Tower",
+		"chn": "改宗塔"
+	},
+	{
+		"id": 620053,
+		"eng": "Behind Caria Manor",
+		"chn": "卡利亚城寨（后方）"
+	},
+	{
+		"id": 620054,
+		"eng": "Frenzied Flame Village Outskirts",
+		"chn": "癫火村外"
+	},
+	{
+		"id": 620055,
+		"eng": "Church of Inhibition",
+		"chn": "镇静教堂"
+	},
+	{
+		"id": 620056,
+		"eng": "Temple Quarter",
+		"chn": "教堂区"
+	},
+	{
+		"id": 620057,
+		"eng": "East Gate Bridge Trestle",
+		"chn": "东门桥的桥柱"
+	},
+	{
+		"id": 620058,
+		"eng": "Crystalline Woods",
+		"chn": "结晶森林"
+	},
+	{
+		"id": 620059,
+		"eng": "Liurnia Highway South",
+		"chn": "利耶尼亚大道（南方）"
+	},
+	{
+		"id": 620060,
+		"eng": "Jarburg",
+		"chn": "壶村"
+	},
+	{
+		"id": 620061,
+		"eng": "South Raya Lucaria Gate",
+		"chn": "雷亚卢卡利亚（南门）"
+	},
+	{
+		"id": 620062,
+		"eng": "Ranni's Chamber",
+		"chn": "菈妮的房间"
+	},
+	{
+		"id": 621000,
+		"eng": "Moonlight Altar",
+		"chn": "月光祭坛"
+	},
+	{
+		"id": 621001,
+		"eng": "Cathedral of Manus Celes",
+		"chn": "玛努斯·瑟利斯大教堂"
+	},
+	{
+		"id": 621002,
+		"eng": "Altar South",
+		"chn": "祭坛南方"
+	},
+	{
+		"id": 630000,
+		"eng": "Erdtree-Gazing Hill",
+		"chn": "近黄金树的山丘"
+	},
+	{
+		"id": 630001,
+		"eng": "Windmill Village",
+		"chn": "风车村"
+	},
+	{
+		"id": 630002,
+		"eng": "Minor Erdtree Church",
+		"chn": "小黄金树教堂"
+	},
+	{
+		"id": 630003,
+		"eng": "Altus Highway Junction",
+		"chn": "亚坛大道的三叉口"
+	},
+	{
+		"id": 630004,
+		"eng": "Rampartside Path",
+		"chn": "城墙旁小径"
+	},
+	{
+		"id": 630005,
+		"eng": "Hermit Merchant's Shack",
+		"chn": "遁世商人的破屋"
+	},
+	{
+		"id": 630006,
+		"eng": "Road of Iniquity Side Path",
+		"chn": "移送罪人之路（路旁）"
+	},
+	{
+		"id": 630007,
+		"eng": "Forest-Spanning Greatbridge",
+		"chn": "穿林大桥"
+	},
+	{
+		"id": 630008,
+		"eng": "Abandoned Coffin",
+		"chn": "弃置棺材"
+	},
+	{
+		"id": 630009,
+		"eng": "Altus Plateau",
+		"chn": "亚坛高原"
+	},
+	{
+		"id": 630010,
+		"eng": "Bower of Bounty",
+		"chn": "丰饶森林"
+	},
+	{
+		"id": 630011,
+		"eng": "Outer Wall Phantom Tree",
+		"chn": "城外幻影树"
+	},
+	{
+		"id": 630012,
+		"eng": "Outer Wall Battleground",
+		"chn": "城外战场遗迹"
+	},
+	{
+		"id": 630013,
+		"eng": "Windmill Heights",
+		"chn": "风车村高台"
+	},
+	{
+		"id": 630014,
+		"eng": "Capital Rampart",
+		"chn": "王城城墙前方"
+	},
+	{
+		"id": 630050,
+		"eng": "Castellan's Hall",
+		"chn": "城主大厅"
+	},
+	{
+		"id": 630051,
+		"eng": "Shaded Castle Ramparts",
+		"chn": "日荫城（城墙）"
+	},
+	{
+		"id": 630052,
+		"eng": "Shaded Castle Inner Gate",
+		"chn": "日荫城（内门）"
+	},
+	{
+		"id": 631000,
+		"eng": "Bridge of Iniquity",
+		"chn": "罪人桥"
+	},
+	{
+		"id": 631001,
+		"eng": "Ninth Mt. Gelmir Campsite",
+		"chn": "格密尔火山（第９休息站）"
+	},
+	{
+		"id": 631002,
+		"eng": "First Mt. Gelmir Campsite",
+		"chn": "格密尔火山（第１休息站）"
+	},
+	{
+		"id": 631003,
+		"eng": "Road of Iniquity",
+		"chn": "移送罪人之路"
+	},
+	{
+		"id": 631004,
+		"eng": "Seethewater River",
+		"chn": "沸滚河"
+	},
+	{
+		"id": 631005,
+		"eng": "Seethewater Terminus",
+		"chn": "沸滚河终点"
+	},
+	{
+		"id": 631006,
+		"eng": "Craftsman's Shack",
+		"chn": "匠人的破屋"
+	},
+	{
+		"id": 631007,
+		"eng": "Primeval Sorcerer Azur",
+		"chn": "“起源魔法师”亚兹勒"
+	},
+	{
+		"id": 640000,
+		"eng": "Smoldering Church",
+		"chn": "熏火教堂"
+	},
+	{
+		"id": 640001,
+		"eng": "Rotview Balcony",
+		"chn": "腐败旁露台"
+	},
+	{
+		"id": 640002,
+		"eng": "Cathedral of Dragon Communion",
+		"chn": "大龙飨教堂"
+	},
+	{
+		"id": 640003,
+		"eng": "Smoldering Wall",
+		"chn": "熏烧火墙"
+	},
+	{
+		"id": 640004,
+		"eng": "Deep Siofra Well",
+		"chn": "希芙拉河的出口井"
+	},
+	{
+		"id": 640005,
+		"eng": "Caelem Ruins",
+		"chn": "奇列姆废墟"
+	},
+	{
+		"id": 640006,
+		"eng": "Isolated Merchant's Shack",
+		"chn": "隐居商人的破屋"
+	},
+	{
+		"id": 640007,
+		"eng": "Heart of Aeonia",
+		"chn": "艾奥尼亚中心地"
+	},
+	{
+		"id": 640008,
+		"eng": "Chair-Crypt of Sellia",
+		"chn": "瑟利亚椅子庙"
+	},
+	{
+		"id": 640009,
+		"eng": "Impassable Greatbridge",
+		"chn": "不破大桥"
+	},
+	{
+		"id": 640010,
+		"eng": "Redmane Castle Plaza",
+		"chn": "红狮子城（广场）"
+	},
+	{
+		"id": 640011,
+		"eng": "Chamber Outside the Plaza",
+		"chn": "广场前房间"
+	},
+	{
+		"id": 640013,
+		"eng": "Fort Gael North",
+		"chn": "盖尔要塞北方"
+	},
+	{
+		"id": 640014,
+		"eng": "Starscourge Radahn",
+		"chn": "“碎星”拉塔恩"
+	},
+	{
+		"id": 640015,
+		"eng": "Aeonia Swamp Shore",
+		"chn": "艾奥尼亚沼泽（岸边）"
+	},
+	{
+		"id": 640016,
+		"eng": "Southern Aeonia Swamp Bank",
+		"chn": "艾奥尼亚沼泽（南岸）"
+	},
+	{
+		"id": 640017,
+		"eng": "Sellia Under-Stair",
+		"chn": "瑟利亚镇（楼梯下方）"
+	},
+	{
+		"id": 640018,
+		"eng": "Church of the Plague",
+		"chn": "腐败病教堂"
+	},
+	{
+		"id": 640019,
+		"eng": "Caelid Highway South",
+		"chn": "盖利德大道南方"
+	},
+	{
+		"id": 640020,
+		"eng": "Dragonbarrow West",
+		"chn": "龙墓西方"
+	},
+	{
+		"id": 640021,
+		"eng": "Fort Faroth",
+		"chn": "法洛斯要塞"
+	},
+	{
+		"id": 640022,
+		"eng": "Dragonbarrow Fork",
+		"chn": "龙墓的岔路"
+	},
+	{
+		"id": 640023,
+		"eng": "Lenne's Rise",
+		"chn": "雷恩魔法师塔"
+	},
+	{
+		"id": 640024,
+		"eng": "Farum Greatbridge",
+		"chn": "法姆大桥"
+	},
+	{
+		"id": 640025,
+		"eng": "Bestial Sanctum",
+		"chn": "野兽神殿"
+	},
+	{
+		"id": 640026,
+		"eng": "Astray from Caelid Highway North",
+		"chn": "盖利德大道北方（偏离大道后）"
+	},
+	{
+		"id": 640027,
+		"eng": "Swamp of Aeonia",
+		"chn": "艾奥尼亚沼泽"
+	},
+	{
+		"id": 640028,
+		"eng": "Inner Aeonia",
+		"chn": "艾奥尼亚沼泽（深处）"
+	},
+	{
+		"id": 640029,
+		"eng": "Sellia Backstreets",
+		"chn": "瑟利亚镇后侧"
+	},
+	{
+		"id": 650000,
+		"eng": "Forbidden Lands",
+		"chn": "禁域"
+	},
+	{
+		"id": 650001,
+		"eng": "Zamor Ruins",
+		"chn": "萨米尔废墟"
+	},
+	{
+		"id": 650002,
+		"eng": "Ancient Snow Valley Ruins",
+		"chn": "古遗迹降雪谷"
+	},
+	{
+		"id": 650003,
+		"eng": "Freezing Lake",
+		"chn": "结冰湖"
+	},
+	{
+		"id": 650004,
+		"eng": "First Church of Marika",
+		"chn": "玛莉卡第一教堂"
+	},
+	{
+		"id": 650005,
+		"eng": "Giants' Gravepost",
+		"chn": "巨人墓碑"
+	},
+	{
+		"id": 650006,
+		"eng": "Church of Repose",
+		"chn": "安歇教堂"
+	},
+	{
+		"id": 650007,
+		"eng": "Foot of the Forge",
+		"chn": "火焰大锅下方"
+	},
+	{
+		"id": 650008,
+		"eng": "Fire Giant",
+		"chn": "火焰巨人"
+	},
+	{
+		"id": 650009,
+		"eng": "Forge of the Giants",
+		"chn": "巨人火焰大锅"
+	},
+	{
+		"id": 650010,
+		"eng": "Grand Lift of Rold",
+		"chn": "洛德大升降机"
+	},
+	{
+		"id": 650050,
+		"eng": "Whiteridge Road",
+		"chn": "降雪棱线路"
+	},
+	{
+		"id": 650051,
+		"eng": "Snow Valley Ruins Overlook",
+		"chn": "古遗迹山谷的山崖上"
+	},
+	{
+		"id": 650052,
+		"eng": "Castle Sol Main Gate",
+		"chn": "索尔城（正门）"
+	},
+	{
+		"id": 650053,
+		"eng": "Church of the Eclipse",
+		"chn": "日蚀教堂"
+	},
+	{
+		"id": 650054,
+		"eng": "Castle Sol Rooftop",
+		"chn": "索尔城（屋顶）"
+	},
+	{
+		"id": 651000,
+		"eng": "Consecrated Snowfield",
+		"chn": "化圣雪原"
+	},
+	{
+		"id": 651001,
+		"eng": "Inner Consecrated Snowfield",
+		"chn": "化圣雪原（深处）"
+	},
+	{
+		"id": 651002,
+		"eng": "Ordina, Liturgical Town",
+		"chn": "“仪典镇”奥缇那"
+	},
+	{
+		"id": 651003,
+		"eng": "Apostate Derelict",
+		"chn": "离教废屋"
+	},
+	{
+		"id": 6100300,
+		"eng": "Church of Elleh",
+		"chn": "艾雷教堂"
+	},
+	{
+		"id": 6100301,
+		"eng": "Church of Dragon Communion",
+		"chn": "龙飨教堂"
+	},
+	{
+		"id": 6100302,
+		"eng": "Third Church of Marika",
+		"chn": "玛莉卡第三教堂"
+	},
+	{
+		"id": 6100500,
+		"eng": "Mistwood Ruins",
+		"chn": "雾林废墟"
+	},
+	{
+		"id": 6100501,
+		"eng": "Waypoint Ruins",
+		"chn": "驿站街遗迹"
+	},
+	{
+		"id": 6100502,
+		"eng": "Dragon-Burnt Ruins",
+		"chn": "龙息废墟"
+	},
+	{
+		"id": 6100503,
+		"eng": "Gatefront Ruins",
+		"chn": "关卡前废墟"
+	},
+	{
+		"id": 6100504,
+		"eng": "Summonwater Village",
+		"chn": "水唤村"
+	},
+	{
+		"id": 6100600,
+		"eng": "Artist's Shack",
+		"chn": "画家的破屋"
+	},
+	{
+		"id": 6100601,
+		"eng": "Warmaster's Shack",
+		"chn": "习战者的破屋"
+	},
+	{
+		"id": 6100602,
+		"eng": "Stormhill Shack",
+		"chn": "风暴山丘的破屋"
+	},
+	{
+		"id": 6100900,
+		"eng": "Forlorn Hound Evergaol",
+		"chn": "无主猎犬的封印监牢"
+	},
+	{
+		"id": 6100901,
+		"eng": "Stormhill Evergaol",
+		"chn": "风暴山丘的封印监牢"
+	},
+	{
+		"id": 6101000,
+		"eng": "Stormgate",
+		"chn": "风暴关卡"
+	},
+	{
+		"id": 6101100,
+		"eng": "Bridge of Sacrifice",
+		"chn": "献祭大桥"
+	},
+	{
+		"id": 6101500,
+		"eng": "Siofra River Well",
+		"chn": "希芙拉河的入口井"
+	},
+	{
+		"id": 6101800,
+		"eng": "Fort Haight",
+		"chn": "海德要塞"
+	},
+	{
+		"id": 6103000,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6108100,
+		"eng": "Agheel Lake",
+		"chn": "亚基尔湖"
+	},
+	{
+		"id": 6108700,
+		"eng": "Sending Gate",
+		"chn": "传送门"
+	},
+	{
+		"id": 6108701,
+		"eng": "Volcano Manor Request: Istvan",
+		"chn": "火山官邸的委托：伊修托邦"
+	},
+	{
+		"id": 6110300,
+		"eng": "Fourth Church of Marika",
+		"chn": "玛莉卡第四教堂"
+	},
+	{
+		"id": 6110301,
+		"eng": "Church of Pilgrimage",
+		"chn": "巡礼教堂"
+	},
+	{
+		"id": 6110302,
+		"eng": "Callu Baptismal Church",
+		"chn": "卡尔洗礼教堂"
+	},
+	{
+		"id": 6110500,
+		"eng": "Witchbane Ruins",
+		"chn": "封印魔女的废墟"
+	},
+	{
+		"id": 6110501,
+		"eng": "Tombsward Ruins",
+		"chn": "灵庙原野的废墟"
+	},
+	{
+		"id": 6110502,
+		"eng": "Demi-Human Forest Ruins",
+		"chn": "亚人森林的废墟"
+	},
+	{
+		"id": 6110600,
+		"eng": "Isolated Merchant's Shack",
+		"chn": "隐居商人的破屋"
+	},
+	{
+		"id": 6110700,
+		"eng": "Ailing Village",
+		"chn": "病村"
+	},
+	{
+		"id": 6110800,
+		"eng": "Forest Lookout Tower",
+		"chn": "森林监视塔"
+	},
+	{
+		"id": 6110801,
+		"eng": "Tower of Return",
+		"chn": "归还塔"
+	},
+	{
+		"id": 6110900,
+		"eng": "Weeping Evergaol",
+		"chn": "啜泣的封印监牢"
+	},
+	{
+		"id": 6111700,
+		"eng": "Oridys's Rise",
+		"chn": "奥利缇斯魔法师塔"
+	},
+	{
+		"id": 6112500,
+		"eng": "Castle Morne",
+		"chn": "摩恩城"
+	},
+	{
+		"id": 6113000,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6120000,
+		"eng": "Stormveil Castle",
+		"chn": "史东薇尔城"
+	},
+	{
+		"id": 6200000,
+		"eng": "Uld Palace Ruins",
+		"chn": "兀德王朝遗迹"
+	},
+	{
+		"id": 6200001,
+		"eng": "Three Sisters",
+		"chn": "三姊妹塔"
+	},
+	{
+		"id": 6200300,
+		"eng": "Church of Irith",
+		"chn": "伊利斯教堂"
+	},
+	{
+		"id": 6200301,
+		"eng": "Church of Vows",
+		"chn": "结缘教堂"
+	},
+	{
+		"id": 6200302,
+		"eng": "Rose Church",
+		"chn": "蔷薇教堂"
+	},
+	{
+		"id": 6200303,
+		"eng": "Bellum Church",
+		"chn": "彼鲁姆教堂"
+	},
+	{
+		"id": 6200304,
+		"eng": "Church of Inhibition",
+		"chn": "镇静教堂"
+	},
+	{
+		"id": 6200500,
+		"eng": "Purified Ruins",
+		"chn": "受净化的废墟"
+	},
+	{
+		"id": 6200501,
+		"eng": "Kingsrealm Ruins",
+		"chn": "王室领地废墟"
+	},
+	{
+		"id": 6200502,
+		"eng": "Laskyar Ruins",
+		"chn": "拉斯卡废墟"
+	},
+	{
+		"id": 6200600,
+		"eng": "Slumbering Wolf's Shack",
+		"chn": "眠狼的破屋"
+	},
+	{
+		"id": 6200601,
+		"eng": "Boilprawn Shack",
+		"chn": "煮虾子的破屋"
+	},
+	{
+		"id": 6200602,
+		"eng": "Artist's Shack",
+		"chn": "画家的破屋"
+	},
+	{
+		"id": 6200603,
+		"eng": "Revenger's Shack",
+		"chn": "复仇者的破屋"
+	},
+	{
+		"id": 6200700,
+		"eng": "Village of the Albinaurics",
+		"chn": "白金村"
+	},
+	{
+		"id": 6200701,
+		"eng": "Frenzied Flame Village",
+		"chn": "癫火村"
+	},
+	{
+		"id": 6200702,
+		"eng": "Jarburg",
+		"chn": "壶村"
+	},
+	{
+		"id": 6200800,
+		"eng": "Highway Lookout Tower",
+		"chn": "大道监视塔"
+	},
+	{
+		"id": 6200801,
+		"eng": "Frenzy-Flaming Tower",
+		"chn": "癫火灯塔"
+	},
+	{
+		"id": 6200900,
+		"eng": "Malefactor's Evergaol",
+		"chn": "小偷的封印监牢"
+	},
+	{
+		"id": 6200901,
+		"eng": "Cuckoo's Evergaol",
+		"chn": "杜鹃的封印监牢"
+	},
+	{
+		"id": 6200902,
+		"eng": "Royal Grave Evergaol",
+		"chn": "王室墓地的封印监牢"
+	},
+	{
+		"id": 6201500,
+		"eng": "Ainsel River Well",
+		"chn": "安瑟尔河的入口井"
+	},
+	{
+		"id": 6201700,
+		"eng": "Converted Tower",
+		"chn": "改宗塔"
+	},
+	{
+		"id": 6201701,
+		"eng": "Testu's Rise",
+		"chn": "提斯魔法师塔"
+	},
+	{
+		"id": 6201702,
+		"eng": "Seluvis's Rise",
+		"chn": "赛尔维斯魔法师塔"
+	},
+	{
+		"id": 6201703,
+		"eng": "Ranni's Rise",
+		"chn": "菈妮魔法师塔"
+	},
+	{
+		"id": 6201704,
+		"eng": "Renna's Rise",
+		"chn": "蕾娜魔法师塔"
+	},
+	{
+		"id": 6201705,
+		"eng": "Converted Fringe Tower",
+		"chn": "改宗边境塔"
+	},
+	{
+		"id": 6202600,
+		"eng": "Caria Manor",
+		"chn": "卡利亚城寨"
+	},
+	{
+		"id": 6203000,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6203001,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6203200,
+		"eng": "Academy Gate Town",
+		"chn": "学院门前镇"
+	},
+	{
+		"id": 6203201,
+		"eng": "Temple Quarter",
+		"chn": "教堂区"
+	},
+	{
+		"id": 6205200,
+		"eng": "The Four Belfries",
+		"chn": "四钟楼"
+	},
+	{
+		"id": 6210300,
+		"eng": "Cathedral of Manus Celes",
+		"chn": "玛努斯·瑟利斯大教堂"
+	},
+	{
+		"id": 6210500,
+		"eng": "Moonfolk Ruins",
+		"chn": "月之民废墟"
+	},
+	{
+		"id": 6210501,
+		"eng": "Lunar Estate Ruins",
+		"chn": "月之贵族废墟"
+	},
+	{
+		"id": 6210900,
+		"eng": "Ringleader's Evergaol",
+		"chn": "刀之首的封印监牢"
+	},
+	{
+		"id": 6211500,
+		"eng": "Deep Ainsel Well",
+		"chn": "安瑟尔河的出口井"
+	},
+	{
+		"id": 6211700,
+		"eng": "Chelona's Rise",
+		"chn": "希耶罗那魔法师塔"
+	},
+	{
+		"id": 6220000,
+		"eng": "Academy of Raya Lucaria",
+		"chn": "魔法学院雷亚卢卡利亚"
+	},
+	{
+		"id": 6300300,
+		"eng": "Stormcaller Church",
+		"chn": "唤雷教堂"
+	},
+	{
+		"id": 6300301,
+		"eng": "Second Church of Marika",
+		"chn": "玛莉卡第二教堂"
+	},
+	{
+		"id": 6300302,
+		"eng": "Minor Erdtree Church",
+		"chn": "小黄金树教堂"
+	},
+	{
+		"id": 6300500,
+		"eng": "Woodfolk Ruins",
+		"chn": "森林之民的废墟"
+	},
+	{
+		"id": 6300501,
+		"eng": "Lux Ruins",
+		"chn": "卢克斯废墟"
+	},
+	{
+		"id": 6300502,
+		"eng": "Perfumer's Ruins",
+		"chn": "调香师的废墟"
+	},
+	{
+		"id": 6300503,
+		"eng": "Writheblood Ruins",
+		"chn": "蠕血废墟"
+	},
+	{
+		"id": 6300600,
+		"eng": "St. Trina's Hideaway",
+		"chn": "托莉娜的藏身所"
+	},
+	{
+		"id": 6300601,
+		"eng": "Hermit Merchant's Shack",
+		"chn": "遁世商人的破屋"
+	},
+	{
+		"id": 6300700,
+		"eng": "Dominula, Windmill Village",
+		"chn": "风车村多明努拉"
+	},
+	{
+		"id": 6300800,
+		"eng": "Highway Lookout Tower",
+		"chn": "大道监视塔"
+	},
+	{
+		"id": 6300900,
+		"eng": "Golden Lineage Evergaol",
+		"chn": "黄金一族的封印监牢"
+	},
+	{
+		"id": 6301000,
+		"eng": "Capital Outskirts",
+		"chn": "王城城墙外"
+	},
+	{
+		"id": 6301300,
+		"eng": "Woodfolk Ruins",
+		"chn": "森林之民的废墟"
+	},
+	{
+		"id": 6301700,
+		"eng": "Mirage Rise",
+		"chn": "海市蜃楼魔法师塔"
+	},
+	{
+		"id": 6301900,
+		"eng": "West Windmill Pasture",
+		"chn": "西边风车牧场"
+	},
+	{
+		"id": 6301901,
+		"eng": "East Windmill Pasture",
+		"chn": "东边风车牧场"
+	},
+	{
+		"id": 6301902,
+		"eng": "Village Windmill Pasture",
+		"chn": "村内风车牧场"
+	},
+	{
+		"id": 6301903,
+		"eng": "Dominula Checkpoint",
+		"chn": "多明努拉关卡"
+	},
+	{
+		"id": 6302100,
+		"eng": "Grand Lift of Dectus",
+		"chn": "迪可达斯大升降机"
+	},
+	{
+		"id": 6302700,
+		"eng": "The Shaded Castle",
+		"chn": "日荫城"
+	},
+	{
+		"id": 6303000,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6303001,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6308700,
+		"eng": "Volcano Manor Request: Rileigh",
+		"chn": "火山官邸的委托：莱利"
+	},
+	{
+		"id": 6310501,
+		"eng": "Wyndham Ruins",
+		"chn": "威达姆废墟"
+	},
+	{
+		"id": 6310600,
+		"eng": "Corpse-Stench Shack",
+		"chn": "飘尸臭的破屋"
+	},
+	{
+		"id": 6310601,
+		"eng": "Hermit's Shack",
+		"chn": "遁世者的破屋"
+	},
+	{
+		"id": 6310604,
+		"eng": "Craftsman's Shack",
+		"chn": "匠人的破屋"
+	},
+	{
+		"id": 6310700,
+		"eng": "Hermit Village",
+		"chn": "遁世者村"
+	},
+	{
+		"id": 6311000,
+		"eng": "Leyndell, Royal Capital",
+		"chn": "王城罗德尔"
+	},
+	{
+		"id": 6311800,
+		"eng": "Fort Laiedd",
+		"chn": "莱多要塞"
+	},
+	{
+		"id": 6313000,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6316000,
+		"eng": "Volcano Manor",
+		"chn": "火山官邸"
+	},
+	{
+		"id": 6400000,
+		"eng": "Wailing Dunes",
+		"chn": "恸哭沙丘"
+	},
+	{
+		"id": 6400300,
+		"eng": "Smoldering Church",
+		"chn": "熏火教堂"
+	},
+	{
+		"id": 6400301,
+		"eng": "Cathedral of Dragon Communion",
+		"chn": "大龙飨教堂"
+	},
+	{
+		"id": 6400302,
+		"eng": "Church of the Plague",
+		"chn": "腐败病教堂"
+	},
+	{
+		"id": 6400500,
+		"eng": "Forsaken Ruins",
+		"chn": "荒废废墟"
+	},
+	{
+		"id": 6400501,
+		"eng": "Caelid Waypoint Ruins",
+		"chn": "盖利德的驿站街遗迹"
+	},
+	{
+		"id": 6400502,
+		"eng": "Street of Sages Ruins",
+		"chn": "贤者镇的废墟"
+	},
+	{
+		"id": 6400503,
+		"eng": "Caelem Ruins",
+		"chn": "奇列姆废墟"
+	},
+	{
+		"id": 6400600,
+		"eng": "Shack of the Rotting",
+		"chn": "步入腐败者的破屋"
+	},
+	{
+		"id": 6400601,
+		"eng": "Gowry's Shack",
+		"chn": "格威的破屋"
+	},
+	{
+		"id": 6400800,
+		"eng": "Swamp Lookout Tower",
+		"chn": "沼泽监视塔"
+	},
+	{
+		"id": 6401000,
+		"eng": "Sellia Gateway",
+		"chn": "瑟利亚关卡"
+	},
+	{
+		"id": 6401500,
+		"eng": "Deep Siofra Well",
+		"chn": "希芙拉河的出口井"
+	},
+	{
+		"id": 6401800,
+		"eng": "Fort Gael",
+		"chn": "盖尔要塞"
+	},
+	{
+		"id": 6402800,
+		"eng": "Redmane Castle",
+		"chn": "红狮子城"
+	},
+	{
+		"id": 6403000,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6403001,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6403300,
+		"eng": "Sellia, Town of Sorcery",
+		"chn": "魔法镇瑟利亚"
+	},
+	{
+		"id": 6410600,
+		"eng": "Isolated Merchant's Shack",
+		"chn": "隐居商人的破屋"
+	},
+	{
+		"id": 6410900,
+		"eng": "Sellia Evergaol",
+		"chn": "瑟利亚的封印监牢"
+	},
+	{
+		"id": 6411700,
+		"eng": "Lenne's Rise",
+		"chn": "雷恩魔法师塔"
+	},
+	{
+		"id": 6411800,
+		"eng": "Fort Faroth",
+		"chn": "法洛斯要塞"
+	},
+	{
+		"id": 6413000,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6415400,
+		"eng": "Bestial Sanctum",
+		"chn": "野兽神殿"
+	},
+	{
+		"id": 6500300,
+		"eng": "First Church of Marika",
+		"chn": "玛莉卡第一教堂"
+	},
+	{
+		"id": 6500301,
+		"eng": "Church of Repose",
+		"chn": "安歇教堂"
+	},
+	{
+		"id": 6500500,
+		"eng": "Zamor Ruins",
+		"chn": "萨米尔废墟"
+	},
+	{
+		"id": 6500501,
+		"eng": "Stargazers' Ruins",
+		"chn": "观星废墟"
+	},
+	{
+		"id": 6500600,
+		"eng": "Shack of the Lofty",
+		"chn": "离群独行者的破屋"
+	},
+	{
+		"id": 6500900,
+		"eng": "Lord Contender's Evergaol",
+		"chn": "准王者的封印监牢"
+	},
+	{
+		"id": 6501700,
+		"eng": "Heretical Rise",
+		"chn": "异端魔法师塔"
+	},
+	{
+		"id": 6501800,
+		"eng": "Guardians' Garrison",
+		"chn": "监视者要塞"
+	},
+	{
+		"id": 6502100,
+		"eng": "Grand Lift of Rold",
+		"chn": "洛德大升降机"
+	},
+	{
+		"id": 6502900,
+		"eng": "Castle Sol",
+		"chn": "索尔城"
+	},
+	{
+		"id": 6503000,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6505700,
+		"eng": "Forge of the Giants",
+		"chn": "巨人火焰大锅"
+	},
+	{
+		"id": 6508700,
+		"eng": "Grand Lift of Rold",
+		"chn": "洛德大升降机"
+	},
+	{
+		"id": 6508701,
+		"eng": "Volcano Manor Request: Juno Hoslow",
+		"chn": "火山官邸的委托：尤诺·霍斯劳"
+	},
+	{
+		"id": 6510300,
+		"eng": "Apostate Derelict",
+		"chn": "离教废屋"
+	},
+	{
+		"id": 6510500,
+		"eng": "Yelough Anix Ruins",
+		"chn": "耶罗·亚尼斯废墟"
+	},
+	{
+		"id": 6511700,
+		"eng": "Albinauric Rise",
+		"chn": "白金魔法师塔"
+	},
+	{
+		"id": 6513000,
+		"eng": "Minor Erdtree",
+		"chn": "小黄金树"
+	},
+	{
+		"id": 6513400,
+		"eng": "Ordina, Liturgical Town",
+		"chn": "“仪典镇”奥缇那"
+	},
+	{
+		"id": 6515000,
+		"eng": "Elphael, Brace of the Haligtree",
+		"chn": "“圣树分枝”艾布雷菲尔"
+	},
+	{
+		"id": 6515500,
+		"eng": "Miquella's Haligtree",
+		"chn": "米凯拉的圣树"
+	},
+	{
+		"id": 6515600,
+		"eng": "Elphael, Brace of the Haligtree",
+		"chn": "“圣树分枝”艾布雷菲尔"
+	},
+	{
+		"id": 6604700,
+		"eng": "Uhl Palace Ruins",
+		"chn": "乌鲁王朝遗迹"
+	},
+	{
+		"id": 6614600,
+		"eng": "Nokstella, Eternal City",
+		"chn": "“永恒之城”诺克史黛拉"
+	},
+	{
+		"id": 6614700,
+		"eng": "Grand Cloister",
+		"chn": "大回廊"
+	},
+	{
+		"id": 6614701,
+		"eng": "Uhl Palace Ruins",
+		"chn": "乌鲁王朝遗迹"
+	},
+	{
+		"id": 6654600,
+		"eng": "Nokron, Eternal City",
+		"chn": "“永恒之城”诺克隆恩"
+	},
+	{
+		"id": 6654601,
+		"eng": "Night's Sacred Ground",
+		"chn": "黑夜神域"
+	},
+	{
+		"id": 6654602,
+		"eng": "Siofra Aqueduct",
+		"chn": "希芙拉导水桥"
+	},
+	{
+		"id": 6654604,
+		"eng": "Hallowhorn Grounds",
+		"chn": "角骸灵地"
+	},
+	{
+		"id": 6664500,
+		"eng": "Mohgwyn Dynasty Mausoleum",
+		"chn": "蒙格温王朝庙"
+	},
+	{
+		"id": 8000000,
+		"eng": "Limgrave",
+		"chn": "宁姆格福"
+	},
+	{
+		"id": 8000400,
+		"eng": "Liurnia",
+		"chn": "利耶尼亚"
+	},
+	{
+		"id": 8000800,
+		"eng": "Altus Plateau",
+		"chn": "亚坛高原"
+	},
+	{
+		"id": 8000900,
+		"eng": "Caelid",
+		"chn": "盖利德"
+	},
+	{
+		"id": 8001200,
+		"eng": "Mountaintops of the Giants",
+		"chn": "巨人山顶"
+	},
+	{
+		"id": 8010000,
+		"eng": "Ainsel River",
+		"chn": "安瑟尔河"
+	},
+	{
+		"id": 8010200,
+		"eng": "Siofra River",
+		"chn": "希芙拉河"
+	},
+	{
+		"id": 8010400,
+		"eng": "Deeproot Depths",
+		"chn": "深根底层"
+	},
+	{
+		"id": 8100001,
+		"eng": "Tenebrae Demesne",
+		"chn": "迪涅布雷地区"
+	}
+]

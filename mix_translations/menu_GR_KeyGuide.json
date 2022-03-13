@@ -1,0 +1,477 @@
+[
+	{
+		"id": 100000,
+		"eng": "OK",
+		"chn": "确定"
+	},
+	{
+		"id": 100001,
+		"eng": "Confirm",
+		"chn": "执行"
+	},
+	{
+		"id": 100003,
+		"eng": "Edit",
+		"chn": "编辑"
+	},
+	{
+		"id": 100008,
+		"eng": "Equip/Remove",
+		"chn": "装备／卸下"
+	},
+	{
+		"id": 100020,
+		"eng": "Travel",
+		"chn": "传送"
+	},
+	{
+		"id": 100030,
+		"eng": "Next",
+		"chn": "翻页"
+	},
+	{
+		"id": 100050,
+		"eng": "Remove",
+		"chn": "移除"
+	},
+	{
+		"id": 110000,
+		"eng": "Back",
+		"chn": "返回"
+	},
+	{
+		"id": 110001,
+		"eng": "Close",
+		"chn": "关闭"
+	},
+	{
+		"id": 120000,
+		"eng": "Remove",
+		"chn": "卸下"
+	},
+	{
+		"id": 120001,
+		"eng": "Use",
+		"chn": "使用"
+	},
+	{
+		"id": 120002,
+		"eng": "Finish",
+		"chn": "完成编辑"
+	},
+	{
+		"id": 120003,
+		"eng": "Protect ON/OFF",
+		"chn": "切换保护状态"
+	},
+	{
+		"id": 120005,
+		"eng": "Switch view",
+		"chn": "切换显示（右）"
+	},
+	{
+		"id": 120008,
+		"eng": "Sample",
+		"chn": "播放试听"
+	},
+	{
+		"id": 120010,
+		"eng": "Switch display (mid)",
+		"chn": "切换显示（中）"
+	},
+	{
+		"id": 120011,
+		"eng": "Switch display (mid)",
+		"chn": "切换显示（中）"
+	},
+	{
+		"id": 120012,
+		"eng": "Materials needed",
+		"chn": "所需材料"
+	},
+	{
+		"id": 120020,
+		"eng": "Sort",
+		"chn": "排序"
+	},
+	{
+		"id": 120030,
+		"eng": "Test now",
+		"chn": "直接执行"
+	},
+	{
+		"id": 120040,
+		"eng": "Copy",
+		"chn": "复制"
+	},
+	{
+		"id": 120041,
+		"eng": "Compare",
+		"chn": "调整前后比较"
+	},
+	{
+		"id": 120045,
+		"eng": "Restore",
+		"chn": "恢复原状"
+	},
+	{
+		"id": 120050,
+		"eng": "Auto-refill ON",
+		"chn": "自动补充"
+	},
+	{
+		"id": 120051,
+		"eng": "Auto-refill OFF",
+		"chn": "不自动补充"
+	},
+	{
+		"id": 120060,
+		"eng": "Show history",
+		"chn": "显示记录"
+	},
+	{
+		"id": 120080,
+		"eng": "Show helm",
+		"chn": "显示头盔"
+	},
+	{
+		"id": 120081,
+		"eng": "Hide helm",
+		"chn": "不显示头盔"
+	},
+	{
+		"id": 120090,
+		"eng": "Delete",
+		"chn": "删除"
+	},
+	{
+		"id": 120100,
+		"eng": "Asc.",
+		"chn": "升序"
+	},
+	{
+		"id": 120101,
+		"eng": "Desc.",
+		"chn": "降序"
+	},
+	{
+		"id": 120110,
+		"eng": "Place beacon",
+		"chn": "放置光柱"
+	},
+	{
+		"id": 120111,
+		"eng": "Remove beacon",
+		"chn": "移除光柱"
+	},
+	{
+		"id": 120112,
+		"eng": "Go to Roundtable Hold",
+		"chn": "传送至圆桌厅堂"
+	},
+	{
+		"id": 130000,
+		"eng": "Switch view (right)",
+		"chn": "切换显示（右）"
+	},
+	{
+		"id": 130001,
+		"eng": "Swap screen",
+		"chn": "切换显示"
+	},
+	{
+		"id": 130005,
+		"eng": "Switch action",
+		"chn": "切换行动"
+	},
+	{
+		"id": 130010,
+		"eng": "Simple view",
+		"chn": "简易信息"
+	},
+	{
+		"id": 130011,
+		"eng": "Detailed view",
+		"chn": "详细信息"
+	},
+	{
+		"id": 130015,
+		"eng": "Show status",
+		"chn": "显示状态"
+	},
+	{
+		"id": 130016,
+		"eng": "Hide status",
+		"chn": "不显示状态"
+	},
+	{
+		"id": 130020,
+		"eng": "Adjust color",
+		"chn": "调整颜色"
+	},
+	{
+		"id": 130030,
+		"eng": "Switch",
+		"chn": "替换"
+	},
+	{
+		"id": 130040,
+		"eng": "Set password",
+		"chn": "暗号配置"
+	},
+	{
+		"id": 130045,
+		"eng": "Settings",
+		"chn": "配置"
+	},
+	{
+		"id": 130063,
+		"eng": "End",
+		"chn": "结束操作"
+	},
+	{
+		"id": 130070,
+		"eng": "Marker",
+		"chn": "标记"
+	},
+	{
+		"id": 130071,
+		"eng": "Sites of grace",
+		"chn": "赐福一览"
+	},
+	{
+		"id": 130072,
+		"eng": "Toggle list",
+		"chn": "切换显示的赐福"
+	},
+	{
+		"id": 130090,
+		"eng": "Defaults",
+		"chn": "恢复默认"
+	},
+	{
+		"id": 140000,
+		"eng": "Switch menu tab",
+		"chn": "切换选单标签"
+	},
+	{
+		"id": 140002,
+		"eng": "Toggle message format",
+		"chn": "切换讯息格式"
+	},
+	{
+		"id": 140004,
+		"eng": "Change equip slot",
+		"chn": "切换装备空格"
+	},
+	{
+		"id": 140039,
+		"eng": "Greatly change hue",
+		"chn": "大幅变动色相"
+	},
+	{
+		"id": 140040,
+		"eng": "Change by 10",
+		"chn": "以１０为单位增减"
+	},
+	{
+		"id": 140041,
+		"eng": "-10",
+		"chn": "-10"
+	},
+	{
+		"id": 140042,
+		"eng": "+10",
+		"chn": "+10"
+	},
+	{
+		"id": 140050,
+		"eng": "Show underground",
+		"chn": "显示地底地图"
+	},
+	{
+		"id": 140060,
+		"eng": "Show above ground",
+		"chn": "显示地表地图"
+	},
+	{
+		"id": 140070,
+		"eng": "Show multiplayer status",
+		"chn": "显示多人联机游玩状态"
+	},
+	{
+		"id": 140080,
+		"eng": "Hide multiplayer status",
+		"chn": "不显示多人联机游玩状态"
+	},
+	{
+		"id": 140090,
+		"eng": "Zoom out",
+		"chn": "缩小"
+	},
+	{
+		"id": 140091,
+		"eng": "Zoom in",
+		"chn": "放大"
+	},
+	{
+		"id": 140100,
+		"eng": "Switch tab",
+		"chn": "切换标签"
+	},
+	{
+		"id": 140110,
+		"eng": "Mark site of grace",
+		"chn": "标记赐福"
+	},
+	{
+		"id": 140111,
+		"eng": "Remove mark",
+		"chn": "移除赐福标记"
+	},
+	{
+		"id": 140120,
+		"eng": "Swap above and below",
+		"chn": "上下互换"
+	},
+	{
+		"id": 150000,
+		"eng": "Switch to chest",
+		"chn": "切换至木箱"
+	},
+	{
+		"id": 150001,
+		"eng": "Switch to inventory",
+		"chn": "切换至置物包"
+	},
+	{
+		"id": 150004,
+		"eng": "Scroll",
+		"chn": "翻页"
+	},
+	{
+		"id": 150005,
+		"eng": "Page up",
+		"chn": "上一页"
+	},
+	{
+		"id": 150006,
+		"eng": "Page down",
+		"chn": "下一页"
+	},
+	{
+		"id": 150040,
+		"eng": "Zoom",
+		"chn": "拉近、拉远"
+	},
+	{
+		"id": 160000,
+		"eng": "Help",
+		"chn": "说明"
+	},
+	{
+		"id": 160010,
+		"eng": "Back",
+		"chn": "返回"
+	},
+	{
+		"id": 160020,
+		"eng": "Skip",
+		"chn": "略过"
+	},
+	{
+		"id": 160030,
+		"eng": "Map",
+		"chn": "地图"
+	},
+	{
+		"id": 160040,
+		"eng": "Close map",
+		"chn": "关闭地图"
+	},
+	{
+		"id": 200000,
+		"eng": "Select",
+		"chn": "选择"
+	},
+	{
+		"id": 200001,
+		"eng": "Modify",
+		"chn": "更改配置数值"
+	},
+	{
+		"id": 200006,
+		"eng": "Scroll",
+		"chn": "翻页"
+	},
+	{
+		"id": 202910,
+		"eng": "Hue",
+		"chn": "色相"
+	},
+	{
+		"id": 203000,
+		"eng": "Select site of grace",
+		"chn": "选择赐福"
+	},
+	{
+		"id": 204000,
+		"eng": "Select marker",
+		"chn": "选择标记"
+	},
+	{
+		"id": 301000,
+		"eng": "Move cursor",
+		"chn": "移动游标"
+	},
+	{
+		"id": 302360,
+		"eng": "Zoom",
+		"chn": "拉近、拉远"
+	},
+	{
+		"id": 302910,
+		"eng": "Saturation/Shade",
+		"chn": "彩度／明度"
+	},
+	{
+		"id": 310040,
+		"eng": "Rotate",
+		"chn": "旋转"
+	},
+	{
+		"id": 320000,
+		"eng": "Compare details",
+		"chn": "显示具体差别"
+	},
+	{
+		"id": 320001,
+		"eng": "Reset camera",
+		"chn": "镜头重置"
+	},
+	{
+		"id": 320040,
+		"eng": "Switch view",
+		"chn": "切换显示"
+	},
+	{
+		"id": 320050,
+		"eng": "Center on current location",
+		"chn": "显示目前所在地"
+	},
+	{
+		"id": 400003,
+		"eng": "Delete",
+		"chn": "消除"
+	},
+	{
+		"id": 400004,
+		"eng": "Good",
+		"chn": "好评"
+	},
+	{
+		"id": 400005,
+		"eng": "Poor",
+		"chn": "恶评"
+	}
+]

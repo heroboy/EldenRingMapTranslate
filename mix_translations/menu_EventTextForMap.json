@@ -1,0 +1,672 @@
+[
+	{
+		"id": 2000,
+		"eng": "Cannot proceed until game is fully installed",
+		"chn": "游戏数据尚未安装完成，还不能前进。"
+	},
+	{
+		"id": 4000,
+		"eng": "Contraption does not move",
+		"chn": "机关不能动。"
+	},
+	{
+		"id": 4001,
+		"eng": "Locked by some contraption",
+		"chn": "被机关锁住了。"
+	},
+	{
+		"id": 4010,
+		"eng": "Cannot open from this side",
+		"chn": "不能从这一侧打开。"
+	},
+	{
+		"id": 4080,
+		"eng": "The door is shut tight",
+		"chn": "紧闭不开。"
+	},
+	{
+		"id": 4100,
+		"eng": "Return to entrance?",
+		"chn": "要返回入口吗？"
+	},
+	{
+		"id": 4200,
+		"eng": "Somewhere, a heavy door has opened",
+		"chn": "某处的沉重门扉已敞开。"
+	},
+	{
+		"id": 4210,
+		"eng": "Guide and gatekeeper for those returning to the roots",
+		"chn": "为那回归树的人们引导，亦或是目送。"
+	},
+	{
+		"id": 4300,
+		"eng": "Travel to another location?",
+		"chn": "要移动到其他地方吗？"
+	},
+	{
+		"id": 6000,
+		"eng": "Summon signs can now be sent to summoning pools",
+		"chn": "可以将记号送往记号聚集处了。"
+	},
+	{
+		"id": 20000,
+		"eng": "Impenetrable thorns refuse all.\nNone may enter the Erdtree.",
+		"chn": "拒绝的刺，拒绝着一切。\n任何人都不能进入黄金树。"
+	},
+	{
+		"id": 20003,
+		"eng": "You cannot proceed without more Great Runes",
+		"chn": "身上大卢恩不足的，不得前进。"
+	},
+	{
+		"id": 20004,
+		"eng": "You cannot use this without more Great Runes",
+		"chn": "身上大卢恩不足的，不得使用。"
+	},
+	{
+		"id": 20005,
+		"eng": "Sealed by Morgott the Grace-Given",
+		"chn": "受到“赐福”蒙葛特的封印。"
+	},
+	{
+		"id": 20006,
+		"eng": "You cannot proceed without a ring of oath",
+		"chn": "未持有契约戒指的，不得前进。"
+	},
+	{
+		"id": 20020,
+		"eng": "You do not have the required medallion",
+		"chn": "未持有能高举的符节。"
+	},
+	{
+		"id": 20021,
+		"eng": "You do not have the required medallion",
+		"chn": "未持有能高举的符节。"
+	},
+	{
+		"id": 20030,
+		"eng": "You cannot proceed without a glintstone key",
+		"chn": "未持有辉石钥匙的，不得前进。"
+	},
+	{
+		"id": 20031,
+		"eng": "You cannot proceed without a sealbreaker",
+		"chn": "未持有封印钥匙的，不得前进。"
+	},
+	{
+		"id": 20040,
+		"eng": "Something fits on this pedestal",
+		"chn": "这个基座好像可以放上物品。"
+	},
+	{
+		"id": 20050,
+		"eng": "Opens only to those carrying a finger",
+		"chn": "身上没有指头的，门不敞开。"
+	},
+	{
+		"id": 20100,
+		"eng": "Summon broken spirit?",
+		"chn": "要召唤战败灵体吗？"
+	},
+	{
+		"id": 20200,
+		"eng": "You must solve the puzzle to enter",
+		"chn": "无力解谜的，不得进入。"
+	},
+	{
+		"id": 20210,
+		"eng": "The seal on the rise opened",
+		"chn": "魔法师塔的封印解开了。"
+	},
+	{
+		"id": 20300,
+		"eng": "Enter evergaol?",
+		"chn": "要进入封印监牢吗？"
+	},
+	{
+		"id": 20500,
+		"eng": "Closed with an imp's seal",
+		"chn": "因为小恶魔的封印，紧闭不开。"
+	},
+	{
+		"id": 20510,
+		"eng": "The imp's seal is in effect",
+		"chn": "上头有着小恶魔的封印。"
+	},
+	{
+		"id": 20600,
+		"eng": "The Beast Eye quivers",
+		"chn": "野兽眼眸正在颤动。"
+	},
+	{
+		"id": 20700,
+		"eng": "Ensnared in a transporter trap!",
+		"chn": "触动了传送陷阱！"
+	},
+	{
+		"id": 30000,
+		"eng": "A seal was broken in town somewhere",
+		"chn": "某处城镇的封印解开了。"
+	},
+	{
+		"id": 30010,
+		"eng": "Power gathers somewhere in horned remains",
+		"chn": "某处的角骸蕴藏了力量。"
+	},
+	{
+		"id": 30020,
+		"eng": "A seal was broken in town",
+		"chn": "城镇的封印解开了。"
+	},
+	{
+		"id": 30021,
+		"eng": "Enter evergaol?",
+		"chn": "要进入封印监牢吗？"
+	},
+	{
+		"id": 30023,
+		"eng": "Held shut by a seal",
+		"chn": "因为封印，紧闭不开。"
+	},
+	{
+		"id": 30030,
+		"eng": "A seal was broken somewhere",
+		"chn": "某处的封印解开了。"
+	},
+	{
+		"id": 30031,
+		"eng": "Held shut by a seal",
+		"chn": "因为封印，紧闭不开。"
+	},
+	{
+		"id": 30040,
+		"eng": "Cannot be used now",
+		"chn": "现在不能使用。"
+	},
+	{
+		"id": 30050,
+		"eng": "Blocked shut for now",
+		"chn": "现在紧闭不开。"
+	},
+	{
+		"id": 30051,
+		"eng": "Blocked shut for now",
+		"chn": "现在紧闭不开。"
+	},
+	{
+		"id": 30060,
+		"eng": "A new draconic power is available at the Cathedral of Dragon Communion",
+		"chn": "大龙飨教堂新增了龙的力量。"
+	},
+	{
+		"id": 30061,
+		"eng": "A new draconic power is available at the Cathedral of Dragon Communion",
+		"chn": "大龙飨教堂新增了龙的力量。"
+	},
+	{
+		"id": 30062,
+		"eng": "A new draconic power is available at the Cathedral of Dragon Communion",
+		"chn": "大龙飨教堂新增了龙的力量。"
+	},
+	{
+		"id": 30063,
+		"eng": "A new draconic power is available at the Cathedral of Dragon Communion",
+		"chn": "大龙飨教堂新增了龙的力量。"
+	},
+	{
+		"id": 30064,
+		"eng": "A new draconic power is available at the Cathedral of Dragon Communion",
+		"chn": "大龙飨教堂新增了龙的力量。"
+	},
+	{
+		"id": 30065,
+		"eng": "A new draconic power is available at the Cathedral of Dragon Communion",
+		"chn": "大龙飨教堂新增了龙的力量。"
+	},
+	{
+		"id": 30066,
+		"eng": "A new draconic power is available at the Cathedral of Dragon Communion",
+		"chn": "大龙飨教堂新增了龙的力量。"
+	},
+	{
+		"id": 30080,
+		"eng": "Seal can only be broken by a sealbreaker",
+		"chn": "因为封印钥匙的效用，紧闭不开。"
+	},
+	{
+		"id": 30090,
+		"eng": "Here lie Aurelia and Aureliette,\nwho never saw the stars",
+		"chn": "无缘见到星星的姊妹──\n库菈菈与库菈利丝。"
+	},
+	{
+		"id": 30100,
+		"eng": "You found a simple map.\nCheck in inventory.",
+		"chn": "获得了简易地图。\n请从置物包确认。"
+	},
+	{
+		"id": 30101,
+		"eng": "You found a simple map.\nCheck in inventory.",
+		"chn": "获得了简易地图。\n请从置物包确认。"
+	},
+	{
+		"id": 30102,
+		"eng": "You found a simple map.\nCheck in inventory.",
+		"chn": "获得了简易地图。\n请从置物包确认。"
+	},
+	{
+		"id": 60011,
+		"eng": "Seek three wise beasts",
+		"chn": "找出三只睿智兽物。"
+	},
+	{
+		"id": 60021,
+		"eng": "Endow the eyes of the mask in light",
+		"chn": "赐予智慧吧！"
+	},
+	{
+		"id": 60022,
+		"eng": "Seek three wise beasts",
+		"chn": "找出三只睿智兽物。"
+	},
+	{
+		"id": 60026,
+		"eng": "Seek three great wise beasts",
+		"chn": "找出三只大型睿智兽物。"
+	},
+	{
+		"id": 60027,
+		"eng": "Access to those outside of the \nroyal family is strictly forbidden",
+		"chn": "赐予智慧之光吧！"
+	},
+	{
+		"id": 60031,
+		"eng": "Touch three phantom crests",
+		"chn": "触碰三枚幻影徽章吧。"
+	},
+	{
+		"id": 60051,
+		"eng": "Falling snow marks something unseen",
+		"chn": "天降白雪，无法目视者为之现形。"
+	},
+	{
+		"id": 60100,
+		"eng": "Light the four figures in the evergaol",
+		"chn": "替监牢的四座雕像点燃火焰。"
+	},
+	{
+		"id": 61010,
+		"eng": "Godrick the Golden, humiliated\nHaving tasted defeat by the Blade of Miquella\nNow on his knees, begging for mercy",
+		"chn": "“黄金”葛瑞克，耻辱之战。\n交战“米凯拉的锋刃”，兵败如山倒。\n跪伏于地，恳求饶命。"
+	},
+	{
+		"id": 61011,
+		"eng": "Lord Godfrey, at last at the end of his campaign\nHis golden armies unvanquished and unbowed\nYet finds grace lost, tattered and faded",
+		"chn": "葛孚雷王的征战，最后的地点。\n黄金军队势如破竹，百战百胜──\n然而失去赐福，色彩褪去。"
+	},
+	{
+		"id": 61012,
+		"eng": "The siege of Castle Morne\nA lone hero fights for his vengeance\nOnly to fall at the hand of Lord Godfrey",
+		"chn": "摩恩攻城战。\n只身一人的复仇英雄挺身而战，\n最终败给葛孚雷王。"
+	},
+	{
+		"id": 61020,
+		"eng": "This marks Malenia's southward march\nThe Blade of Miquella and her Cleanrot Knights\nGrant her wings never to be clipped",
+		"chn": "玛莲妮亚向南推进的纪念碑。\n“米凯拉的锋刃”以及尊腐骑士──\n那高展的飞翼，无人能敌。"
+	},
+	{
+		"id": 61021,
+		"eng": "The Second Liurnian War\nNo victory for the golden, nor for the moon\nNo prize but atonement; the birth of a vow",
+		"chn": "第二次利耶尼亚战争。\n黄金与月，无人胜出。\n取而代之诞生的，是赎罪与结缘。"
+	},
+	{
+		"id": 61022,
+		"eng": "The resting place of the contemptible Cuckoos\nLost in the siege of Caria Manor",
+		"chn": "卡利亚城寨保卫战。\n卑鄙杜鹃尸横遍野之处。"
+	},
+	{
+		"id": 61023,
+		"eng": "The First Liurnian War\nRadagon's glory burns red as his hair",
+		"chn": "第一次利耶尼亚战争。\n“红发”拉达冈成为英雄。"
+	},
+	{
+		"id": 61030,
+		"eng": "The Routing of the Ancient Dragons\nGodwyn the Golden fought to the last,\nEarning the friendship of dread Fortissax",
+		"chn": "古龙战争，最后的地点。\n“黄金”葛德文英勇作战，\n与古龙弗尔桑克斯化敌为友。"
+	},
+	{
+		"id": 61031,
+		"eng": "The First Defense of Leyndell\nA sovereign alliance rots from within\nTraces yet remain of bloody conspiracy",
+		"chn": "第一次罗德尔保卫战。\n君王联军内部分裂，因此败战。\n背后有鲜血阴谋的蛛丝马迹。"
+	},
+	{
+		"id": 61032,
+		"eng": "The Second Defense of Leyndell\nThe Fell Omen stacks high the corpses of heroes\nYet the Erdtree remains unshaken",
+		"chn": "第二次罗德尔保卫战。\n“恶兆妖鬼”让成群英雄血流成河。\n黄金树屹立不摇。"
+	},
+	{
+		"id": 61033,
+		"eng": "The Assault on Volcano Manor\nThe squalid, the sick, the blasphemous;\na wretched, unending war with no glory",
+		"chn": "火山官邸攻城战。\n成群的玷污者、疾病、亵渎──\n毫无名誉可言，无止尽的悲惨战争。"
+	},
+	{
+		"id": 61040,
+		"eng": "The Battle of Aeonia\nRadahn and Malenia locked in stalemate\nThen, the scarlet rot blooms",
+		"chn": "艾奥尼亚战争。\n拉塔恩、玛莲妮亚战成平手，\n猩红腐败之花怒放。"
+	},
+	{
+		"id": 61041,
+		"eng": "The Starscourge Conflict\nRadahn alone holds Sellia secure\nAnd stands tall, to shatter the stars",
+		"chn": "碎星战争。\n拉塔恩化为瑟利亚之盾，\n独自一人挺身面对、击碎星星。"
+	},
+	{
+		"id": 61050,
+		"eng": "The War against the Giants\nChampions battle, trolls betray\nFire vanquished, the era of the Erdtree begins",
+		"chn": "巨人战争。\n众英雄的奋战，山妖的叛离。\n火焰败退，黄金树时代之始。"
+	},
+	{
+		"id": 79000,
+		"eng": "Redeemer Guilbert has invaded!",
+		"chn": "被“代理人”吉尔伯特入侵了！"
+	},
+	{
+		"id": 79001,
+		"eng": "Redeemer Guilbert died",
+		"chn": "“代理人”吉尔伯特已死亡。"
+	},
+	{
+		"id": 79002,
+		"eng": "Redeemer Guilbert returned home",
+		"chn": "“代理人”吉尔伯特已离开。"
+	},
+	{
+		"id": 80000,
+		"eng": "Bloody Finger Hunter Yura was summoned",
+		"chn": "已召唤“血指猎人”尤拉。"
+	},
+	{
+		"id": 80001,
+		"eng": "With his objective accomplished, Bloody Finger Hunter Yura returned to his world",
+		"chn": "“血指猎人”尤拉 达成目标，\n已返回原本的世界。"
+	},
+	{
+		"id": 80002,
+		"eng": "Bloody Finger Hunter Yura has died",
+		"chn": "“血指猎人”尤拉 已死亡。"
+	},
+	{
+		"id": 80003,
+		"eng": "Bloody Finger Hunter Yura returned to his world",
+		"chn": "“血指猎人”尤拉 已返回原本的世界。"
+	},
+	{
+		"id": 80010,
+		"eng": "Bloody Finger Nerijus returned to his world",
+		"chn": "“血指”涅利乌斯 已返回原本的世界。"
+	},
+	{
+		"id": 80020,
+		"eng": "Invaded by Tanith's Knight!",
+		"chn": "被 塔妮丝的骑士 入侵了！"
+	},
+	{
+		"id": 80021,
+		"eng": "Tanith's Knight has died",
+		"chn": "塔妮丝的骑士 已死亡。"
+	},
+	{
+		"id": 80601,
+		"eng": "Invade White Mask Varré's world?",
+		"chn": "要入侵“白面具”梵雷的世界吗？"
+	},
+	{
+		"id": 80602,
+		"eng": "Invade Old Knight Istvan's world?",
+		"chn": "要入侵“古老骑士”伊修托邦的世界吗？"
+	},
+	{
+		"id": 80603,
+		"eng": "Invade Rileigh the Idle's world?",
+		"chn": "要入侵“黄昏将尽”莱利的世界吗？"
+	},
+	{
+		"id": 80604,
+		"eng": "Invade Juno Hoslow, Knight of Blood's world?",
+		"chn": "要入侵“血言骑士”尤诺·霍斯劳的世界吗？"
+	},
+	{
+		"id": 80605,
+		"eng": "Invade Vargram the Raging Wolf and Errant Sorcerer Wilhelm's world?",
+		"chn": "要入侵“白狼战鬼”巴格莱姆一行人的世界吗？"
+	},
+	{
+		"id": 80606,
+		"eng": "Invade Great Horned Tragoth's world?",
+		"chn": "要入侵“大角”忒拉格斯的世界吗？"
+	},
+	{
+		"id": 80607,
+		"eng": "Be summoned to assist Yura, Hunter of Bloody Fingers?",
+		"chn": "要作为“血指猎人”尤拉的协助者，\n接受召唤吗？"
+	},
+	{
+		"id": 80608,
+		"eng": "Be summoned to assist Sorceress Sellen?",
+		"chn": "要作为魔法师瑟濂的协助者，\n接受召唤吗？"
+	},
+	{
+		"id": 80609,
+		"eng": "Be summoned to challenge Sorceress Sellen?",
+		"chn": "要作为魔法师瑟濂的敌对者，\n接受召唤吗？"
+	},
+	{
+		"id": 80610,
+		"eng": "Be summoned to assist Millicent?",
+		"chn": "要作为米莉森的协助者，\n接受召唤吗？"
+	},
+	{
+		"id": 80611,
+		"eng": "Be summoned to challenge Millicent?",
+		"chn": "要作为米莉森的敌对者，\n接受召唤吗？"
+	},
+	{
+		"id": 80800,
+		"eng": "Summoned Castellan Jerren",
+		"chn": "已召唤 城主杰廉。"
+	},
+	{
+		"id": 80801,
+		"eng": "Castellan Jerren has died",
+		"chn": "城主杰廉 已死亡。"
+	},
+	{
+		"id": 80802,
+		"eng": "Castellan Jerren returned to his world",
+		"chn": "城主杰廉 已返回原本的世界。"
+	},
+	{
+		"id": 80810,
+		"eng": "Summoned Blaidd the Half-Wolf",
+		"chn": "已召唤“半狼”布莱泽。"
+	},
+	{
+		"id": 80811,
+		"eng": "Blaidd the Half-Wolf has died",
+		"chn": "“半狼”布莱泽 已死亡。"
+	},
+	{
+		"id": 80812,
+		"eng": "Blaidd the Half-Wolf returned to his world",
+		"chn": "“半狼”布莱泽 已返回原本的世界。"
+	},
+	{
+		"id": 80820,
+		"eng": "Summoned Alexander, Warrior Jar",
+		"chn": "已召唤“战士壶”亚历山大。"
+	},
+	{
+		"id": 80821,
+		"eng": "Alexander, Warrior Jar has died",
+		"chn": "“战士壶”亚历山大 已死亡。"
+	},
+	{
+		"id": 80822,
+		"eng": "Alexander, Warrior Jar returned to his world",
+		"chn": "“战士壶”亚历山大 已返回原本的世界。"
+	},
+	{
+		"id": 80830,
+		"eng": "Summoned Great Horned Tragoth",
+		"chn": "已召唤“大角”忒拉格斯。"
+	},
+	{
+		"id": 80831,
+		"eng": "Great Horned Tragoth has died",
+		"chn": "“大角”忒拉格斯 已死亡。"
+	},
+	{
+		"id": 80832,
+		"eng": "Great Horned Tragoth returned to his world",
+		"chn": "“大角”忒拉格斯 已返回原本的世界。"
+	},
+	{
+		"id": 80840,
+		"eng": "Summoned Okina",
+		"chn": "已召唤 老翁。"
+	},
+	{
+		"id": 80841,
+		"eng": "Okina has died",
+		"chn": "老翁 已死亡。"
+	},
+	{
+		"id": 80842,
+		"eng": "Okina returned to his world",
+		"chn": "老翁 已返回原本的世界。"
+	},
+	{
+		"id": 80850,
+		"eng": "Summoned Finger Maiden Therolina",
+		"chn": "已召唤 指头女巫瑟萝莉娜。"
+	},
+	{
+		"id": 80851,
+		"eng": "Finger Maiden Therolina has died",
+		"chn": "指头女巫瑟萝莉娜 已死亡。"
+	},
+	{
+		"id": 80852,
+		"eng": "Finger Maiden Therolina returned to her world",
+		"chn": "指头女巫瑟萝莉娜 已返回原本的世界。"
+	},
+	{
+		"id": 80860,
+		"eng": "Summoned Lionel the Lionhearted",
+		"chn": "已召唤“无畏”莱恩尼尔。"
+	},
+	{
+		"id": 80861,
+		"eng": "Lionel the Lionhearted has died",
+		"chn": "“无畏”莱恩尼尔 已死亡。"
+	},
+	{
+		"id": 80862,
+		"eng": "Lionel the Lionhearted returned to his world",
+		"chn": "“无畏”莱恩尼尔 已返回原本的世界。"
+	},
+	{
+		"id": 80870,
+		"eng": "Summoned Patches",
+		"chn": "已召唤 帕奇。"
+	},
+	{
+		"id": 80871,
+		"eng": "Patches has died",
+		"chn": "帕奇 已死亡。"
+	},
+	{
+		"id": 80872,
+		"eng": "Patches returned to his world",
+		"chn": "帕奇 已返回原本的世界。"
+	},
+	{
+		"id": 90000,
+		"eng": "More awaits you, in the official release",
+		"chn": "接下来的游戏内容，敬请期待商品版。"
+	},
+	{
+		"id": 90010,
+		"eng": "Cannot use this now",
+		"chn": "现在不能使用。"
+	},
+	{
+		"id": 108000,
+		"eng": "Use <?gdsparam@8000?>?",
+		"chn": "要使用<?gdsparam@8000?>吗？"
+	},
+	{
+		"id": 108010,
+		"eng": "Use <?gdsparam@8010?>?",
+		"chn": "要使用<?gdsparam@8010?>吗？"
+	},
+	{
+		"id": 108186,
+		"eng": "Use <?gdsparam@8186?>?",
+		"chn": "要使用<?gdsparam@8186?>吗？"
+	},
+	{
+		"id": 208000,
+		"eng": "<?gdsparam@8000?> was lost with use",
+		"chn": "已使用<?gdsparam@8000?>。\n道具使用后已消失。"
+	},
+	{
+		"id": 208010,
+		"eng": "Used <?gdsparam@8010?>",
+		"chn": "已使用<?gdsparam@8010?>。"
+	},
+	{
+		"id": 208134,
+		"eng": "Used <?gdsparam@8134?>",
+		"chn": "已使用<?gdsparam@8134?>。"
+	},
+	{
+		"id": 208169,
+		"eng": "Used <?gdsparam@8169?>",
+		"chn": "已使用<?gdsparam@8169?>。"
+	},
+	{
+		"id": 208178,
+		"eng": "Used <?gdsparam@8178?>",
+		"chn": "已使用<?gdsparam@8178?>。"
+	},
+	{
+		"id": 208186,
+		"eng": "<?gdsparam@8186?> was lost with use",
+		"chn": "已使用<?gdsparam@8186?>。\n道具使用后已消失。"
+	},
+	{
+		"id": 208197,
+		"eng": "Used <?gdsparam@8197?>",
+		"chn": "已使用<?gdsparam@8197?>。"
+	},
+	{
+		"id": 208199,
+		"eng": "Used <?gdsparam@8199?>",
+		"chn": "已使用<?gdsparam@8199?>。"
+	},
+	{
+		"id": 308000,
+		"eng": "No <?gdsparam@8000?> in inventory",
+		"chn": "您未持有<?gdsparam@8000?>。"
+	},
+	{
+		"id": 308186,
+		"eng": "No <?gdsparam@8186?> in inventory",
+		"chn": "您未持有<?gdsparam@8186?>。"
+	},
+	{
+		"id": 408000,
+		"eng": "Not enough <?gdsparam@8000?>",
+		"chn": "<?gdsparam@8000?>不足。"
+	}
+]

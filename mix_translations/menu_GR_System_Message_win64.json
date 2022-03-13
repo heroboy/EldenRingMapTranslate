@@ -1,0 +1,507 @@
+[
+	{
+		"id": 2100,
+		"eng": "Profile",
+		"chn": "个人资料"
+	},
+	{
+		"id": 2500,
+		"eng": "Reset assignments",
+		"chn": "移除自定义配置"
+	},
+	{
+		"id": 3000,
+		"eng": "Set controller vibration strength",
+		"chn": "配置控制器的振动强度"
+	},
+	{
+		"id": 3010,
+		"eng": "Assign controller buttons",
+		"chn": "自定义控制器的按钮对应的操作"
+	},
+	{
+		"id": 3020,
+		"eng": "Press a button to assign this action",
+		"chn": "请按下想配置成的按钮"
+	},
+	{
+		"id": 4101,
+		"eng": "Cannot connect to network.\nReturning to title menu.",
+		"chn": "您未连接至互联网，\n将返回标题画面。"
+	},
+	{
+		"id": 4102,
+		"eng": "The connection to the ELDEN RING game server was lost.\nReturning to title menu.",
+		"chn": "与《艾尔登法环》游戏服务器断开，\n将返回标题画面。"
+	},
+	{
+		"id": 4160,
+		"eng": "Connection to Steam interrupted.\nReturning to title menu.",
+		"chn": "与Steam联机中断，\n将返回标题画面。"
+	},
+	{
+		"id": 4161,
+		"eng": "Frame rate unsuitable for online play.\nReturning to title menu.",
+		"chn": "未达联机模式游玩所需的帧率，\n将返回标题画面。"
+	},
+	{
+		"id": 4190,
+		"eng": "A network error occurred.\nReturning to title menu.",
+		"chn": "发生互联网联机错误，\n将返回标题画面。"
+	},
+	{
+		"id": 4191,
+		"eng": "Failed to save game.\nSave data is corrupted.\n\nSelect \"Yes\" to try again.\n\nSelect \"No\" to return to\ntitle menu without saving.",
+		"chn": "保存数据损毁，\n游戏进度保存失败。\n\n如要重试，请按“是”。\n\n不保存游戏进度，直接返回标题画面，\n请按“否”。"
+	},
+	{
+		"id": 4192,
+		"eng": "Failed to save game.\nSave data is corrupted.\n\nReturning to title menu.",
+		"chn": "保存数据损毁，\n游戏进度保存失败。\n\n将返回标题画面。"
+	},
+	{
+		"id": 4193,
+		"eng": "Failed to save game.\nSave data is corrupted.",
+		"chn": "保存数据损毁，\n游戏进度保存失败。"
+	},
+	{
+		"id": 20023,
+		"eng": "Register gesture at top of main menu\nfor quick access",
+		"chn": "肢体动作可以登录在主选单顶端，\n直接选取执行。"
+	},
+	{
+		"id": 100000,
+		"eng": "RB",
+		"chn": "ＲＢ"
+	},
+	{
+		"id": 100001,
+		"eng": "LB",
+		"chn": "ＬＢ"
+	},
+	{
+		"id": 100002,
+		"eng": "RT",
+		"chn": "ＲＴ"
+	},
+	{
+		"id": 100003,
+		"eng": "LT",
+		"chn": "ＬＴ"
+	},
+	{
+		"id": 100010,
+		"eng": "Gamertag",
+		"chn": "玩家代号"
+	},
+	{
+		"id": 100011,
+		"eng": "Character name",
+		"chn": "角色名称"
+	},
+	{
+		"id": 101000,
+		"eng": "PRESS ANY BUTTON",
+		"chn": "请按任一按钮"
+	},
+	{
+		"id": 102000,
+		"eng": "DLC STORE",
+		"chn": "附加内容商店"
+	},
+	{
+		"id": 110000,
+		"eng": "Controller Settings",
+		"chn": "控制器配置"
+	},
+	{
+		"id": 110010,
+		"eng": "Controller Vibration",
+		"chn": "控制器振动"
+	},
+	{
+		"id": 111030,
+		"eng": "Button Settings",
+		"chn": "按钮配置"
+	},
+	{
+		"id": 111035,
+		"eng": "Button Settings",
+		"chn": "按钮配置"
+	},
+	{
+		"id": 200100,
+		"eng": "Text includes unsupported characters.\nUnsupported characters will be replaced with asterisks (*).",
+		"chn": "含有不可使用的文字。\n不可使用的文字将替换成“＊”。"
+	},
+	{
+		"id": 280000,
+		"eng": "This key binding cannot be removed",
+		"chn": "此配置无法更动。"
+	},
+	{
+		"id": 280002,
+		"eng": "Please check your settings. \nOne or more keys are bound to more than one function.",
+		"chn": "有部分配置重复，请再次确认。"
+	},
+	{
+		"id": 280003,
+		"eng": "One or more keys are bound to more than one function.\nLeave menu without saving settings?",
+		"chn": "有部分配置重复。\n是否不保存配置，直接关闭？"
+	},
+	{
+		"id": 400003,
+		"eng": "At the end of the previous session, Quit Game\nmight not have been selected from the system menu.\nPlease use Quit Game from the system menu\nwhen you wish to end your play session.\n\nFailure to end session with Quit Game may result\nin loss of progress.",
+		"chn": "前一次结束游戏时，\n您可能未从系统选单选择“结束游戏”。\n如果想结束游玩，\n请从系统选单选择“结束游戏”。\n\n如未选择“结束游戏”，\n有可能无法从结束游戏的进度继续游玩。"
+	},
+	{
+		"id": 401102,
+		"eng": "Failed to create save data.\nSelect \"OK\" to try again.",
+		"chn": "无法建立保存数据。\n如要重试，请按“确定”。"
+	},
+	{
+		"id": 401103,
+		"eng": "Failed to load save data.\nSelect \"OK\" to try again.",
+		"chn": "无法加载保存数据。\n如要重试，请按“确定”。"
+	},
+	{
+		"id": 401106,
+		"eng": "Failed to save game.\nSave data is corrupted.\n\nSelect \"OK\" to try again.",
+		"chn": "保存数据损毁，\n游戏进度保存失败。\n\n如要重试，请按“确定”。"
+	},
+	{
+		"id": 401107,
+		"eng": "The save data is corrupted.\nDelete corrupted data and create a new save?",
+		"chn": "保存数据损毁。\n要删除损毁的保存数据，建立新的保存数据吗？"
+	},
+	{
+		"id": 401110,
+		"eng": "Checking save data...",
+		"chn": "正在确认保存数据"
+	},
+	{
+		"id": 401111,
+		"eng": "Creating save data...",
+		"chn": "正在建立保存数据"
+	},
+	{
+		"id": 401112,
+		"eng": "Updating save data...",
+		"chn": "正在更新保存数据"
+	},
+	{
+		"id": 401113,
+		"eng": "The game version and save data version are different.\nQuit the game and use the Steam client to update\ngame data to the latest version before trying again.",
+		"chn": "游戏版本与保存数据版本不相符。\n\n请结束游戏，从Steam客户端更新版本后，\n重新启动游戏。"
+	},
+	{
+		"id": 401114,
+		"eng": "This profile is from a newer version of the game and\ncannot be loaded on the version that is currently running.\nQuit the game and sign in to Steam to update game data\nto the latest version.",
+		"chn": "游戏版本过旧，角色档案无法加载。\n\n请结束游戏，从Steam客户端更新版本后，\n重新启动游戏。"
+	},
+	{
+		"id": 401120,
+		"eng": "Checking network connection status...",
+		"chn": "正在确认互联网连接状态"
+	},
+	{
+		"id": 401150,
+		"eng": "Logging in to the ELDEN RING game server...",
+		"chn": "正在登录《艾尔登法环》游戏服务器"
+	},
+	{
+		"id": 401160,
+		"eng": "Retrieving data from the ELDEN RING game server...",
+		"chn": "正在从《艾尔登法环》游戏服务器获取数据"
+	},
+	{
+		"id": 401165,
+		"eng": "Saving data to the ELDEN RING game server...",
+		"chn": "正在《艾尔登法环》游戏服务器登录数据"
+	},
+	{
+		"id": 401170,
+		"eng": "Starting in offline mode.\n\nTo use network features, check to see \nif your connection is set up properly, \nand select \"LOG IN\" from title menu.",
+		"chn": "将以脱机模式开始游玩。\n\n如要使用互联网功能，\n请确定联机环境后，选择标题选单的“登录”。"
+	},
+	{
+		"id": 401171,
+		"eng": "Returning to title menu",
+		"chn": "将返回标题画面。"
+	},
+	{
+		"id": 401172,
+		"eng": "ELDEN RING Network Test Ver.\ncan only be played online.\nReturning to title menu.",
+		"chn": "《艾尔登法环》网络测试版仅能以联机进行游玩。\n\n将返回标题画面。"
+	},
+	{
+		"id": 401201,
+		"eng": "Unable to connect to the network.\nPlease check your network settings.",
+		"chn": "无法连接至互联网，\n请确认互联网配置。"
+	},
+	{
+		"id": 401202,
+		"eng": "Network status check failed",
+		"chn": "无法确认互联网连接状态。"
+	},
+	{
+		"id": 401310,
+		"eng": "New downloadable content has been installed.\nYou must return to the title menu to apply this content in-game.\nSelect \"OK\" to return to title menu.",
+		"chn": "已安装新的附加内容。\n必须返回标题画面才能完成套用。\n\n如要返回标题画面，请按“确定”。"
+	},
+	{
+		"id": 401400,
+		"eng": "Unable to start in online mode due to a detected frame rate issue.\n\nPlease restart the game after resolving the issue to play online.",
+		"chn": "已查出帧率问题，\n不能以联机模式开始游戏。\n\n如果要以联机模式开始游戏，\n请解决问题后，再次启动游戏。"
+	},
+	{
+		"id": 401401,
+		"eng": "Inappropriate activity detected.\nUnable to start in online mode.",
+		"chn": "检测到作弊行为，\n无法使用联机模式。"
+	},
+	{
+		"id": 401402,
+		"eng": "Inappropriate activity detected.\nReturning to title menu.",
+		"chn": "检测到作弊行为，\n将返回标题画面。"
+	},
+	{
+		"id": 401502,
+		"eng": "Your account is currently not permitted to access\nELDEN RING game server services",
+		"chn": "目前您的账户已被永久封号，\n无法使用《艾尔登法环》游戏服务器的服务。"
+	},
+	{
+		"id": 401503,
+		"eng": "Failed to log in to the ELDEN RING game server.\nSelect \"OK\" to attempt to log in again.",
+		"chn": "无法登录《艾尔登法环》游戏服务器。\n如要重试，请按“确定”。"
+	},
+	{
+		"id": 401504,
+		"eng": "An update to the game is available. To use network\nfeatures, please install the update and restart the game.",
+		"chn": "已有新版本的更新数据。\n\n如果要进行联机游玩，\n请安装更新后，重新启动游戏。"
+	},
+	{
+		"id": 401505,
+		"eng": "Cannot log in to the ELDEN RING game server\nbecause it has been temporarily disabled or\nis undergoing maintenance.",
+		"chn": "《艾尔登法环》游戏服务器正在维修或停止服务，\n无法登录游戏服务器。"
+	},
+	{
+		"id": 401507,
+		"eng": "Cheating detected on your account by Valve Anti-Cheat.\nYou may no longer utilize services provided by\nthe ELDEN RING game servers.",
+		"chn": "此账户由ＶＡＣ检测到作弊行为，\n故不能使用《艾尔登法环》游戏服务器的服务。"
+	},
+	{
+		"id": 401601,
+		"eng": "Failed to acquire information.\nSelect \"OK\" to try again.",
+		"chn": "无法取得信息。\n如要重试，请按“确定”。"
+	},
+	{
+		"id": 401701,
+		"eng": "Cannot create any more profiles.\nDelete an existing profile and create a new one?\n\nNote: You may create up to 10 profiles.",
+		"chn": "不能再建立新的角色档案。\n要删除旧有的角色档案，建立新的角色档案吗？\n\n※可以建立１０份角色档案。"
+	},
+	{
+		"id": 401721,
+		"eng": "Failed to load save data.\nSave data is corrupted.",
+		"chn": "保存数据损毁，\n无法加载保存数据。"
+	},
+	{
+		"id": 401731,
+		"eng": "Failed to initialize character info for online play.\nSelect \"OK\" to try again.",
+		"chn": "联机游玩的角色配置失败。\n如要重试，请按“确定”。"
+	},
+	{
+		"id": 401991,
+		"eng": "An error has occurred.\nReturning to title menu.",
+		"chn": "发生错误，\n将返回标题画面。"
+	},
+	{
+		"id": 600000,
+		"eng": "These Terms of Service (hereinafter referred to as the \"TOS\") shall apply to any matters between Players, as defined in the TOS, and FromSoftware, Inc. (hereinafter referred to as the \"Company\") of the use of online services (hereinafter referred to as the \"Services\") for the game software, \"ELDEN RING\" (hereinafter referred to as the \"Software\") developed by the Company. Players shall use the Services in accordance with the TOS. Should any Player fail to consent to the TOS, such Player may not use the Services. Players shall be deemed to have consented to the TOS when using the Services.\n\n",
+		"chn": "These Terms of Service (hereinafter referred to as the \"TOS\") shall apply to any matters between Players, as defined in the TOS, and FromSoftware, Inc. (hereinafter referred to as the \"Company\") of the use of online services (hereinafter referred to as the \"Services\") for the game software, \"ELDEN RING\" (hereinafter referred to as the \"Software\") developed by the Company. Players shall use the Services in accordance with the TOS. Should any Player fail to consent to the TOS, such Player may not use the Services. Players shall be deemed to have consented to the TOS when using the Services.\n\n"
+	},
+	{
+		"id": 600001,
+		"eng": "Article 1. Scope and Modification of TOS\n1.\tThe Company may, in addition to the TOS, separately notify Players of terms of use, precautions, guidelines and other terms and conditions (hereinafter referred to as \"Individual Terms\") where appropriate by posting Individual Terms on the official website operated by the Company (hereinafter referred to as the \"Website\") or through other means. Individual Terms shall constitute part of the TOS, and if any provision of Individual Terms conflicts with the TOS, the provision of Individual Terms shall apply and supersede the TOS.\n2.\tThe Company shall be entitled to modify or revise the TOS and Individual Terms where appropriate from time to time, and in this case, may notify Players of such modification or revision by posting the same on the Website or through other means the Company thinks it reasonable.\n3.\tIf any Player fails to consent to the modification or revision of the TOS and Individual Terms, the Company shall be entitled to have the Player cease or suspend his/her use of the Services.\n4.\tPlayers shall be deemed to have consented to the modified or revised the TOS through their continuous use of the Services after the Players have been notified of such modification or revision through any means set forth in Paragraph 1 of this Article.\n5.\tWhen Players use the Services, the necessary terms and conditions for the use of STEAM® shall apply.\n\n",
+		"chn": "Article 1. Scope and Modification of TOS\n1.\tThe Company may, in addition to the TOS, separately notify Players of terms of use, precautions, guidelines and other terms and conditions (hereinafter referred to as \"Individual Terms\") where appropriate by posting Individual Terms on the official website operated by the Company (hereinafter referred to as the \"Website\") or through other means. Individual Terms shall constitute part of the TOS, and if any provision of Individual Terms conflicts with the TOS, the provision of Individual Terms shall apply and supersede the TOS.\n2.\tThe Company shall be entitled to modify or revise the TOS and Individual Terms where appropriate from time to time, and in this case, may notify Players of such modification or revision by posting the same on the Website or through other means the Company thinks it reasonable.\n3.\tIf any Player fails to consent to the modification or revision of the TOS and Individual Terms, the Company shall be entitled to have the Player cease or suspend his/her use of the Services.\n4.\tPlayers shall be deemed to have consented to the modified or revised the TOS through their continuous use of the Services after the Players have been notified of such modification or revision through any means set forth in Paragraph 1 of this Article.\n5.\tWhen Players use the Services, the necessary terms and conditions for the use of STEAM® shall apply.\n\n"
+	},
+	{
+		"id": 600002,
+		"eng": "Article 2. Definition of Players\nThe term \"Player\" means a customer who consents to the TOS (in the plural, \"Players\"). Players less than twenty (20) years of age shall be deemed to have obtained the consent of their parents or other persons who have parental authority when consenting to the TOS.\n\n",
+		"chn": "Article 2. Definition of Players\nThe term \"Player\" means a customer who consents to the TOS (in the plural, \"Players\"). Players less than twenty (20) years of age shall be deemed to have obtained the consent of their parents or other persons who have parental authority when consenting to the TOS.\n\n"
+	},
+	{
+		"id": 600003,
+		"eng": "Article 3. Principle of Self-responsibility\n1.\tPlayers shall use the Services at their own responsibility, and if any Player causes any loss or damage to another or the Company when using the Services, the Player shall pay damages therefor at his/her own expense and responsibility.\n2.\tPlayers shall, when giving and receiving any information or service to and from any third party other than the Company through the Services, be fully liable for any acts and contents incidental thereto. If any Player causes any loss or damage to another or to the Company when giving and receiving any such information or service, the Player shall pay damages therefor at his/her own expense and responsibility.\n3.\tPlayers shall, if any problem arises through the Services with any third party other than the Company, deal with and resolve the problem at their own expense and responsibility. The Company shall not be obligated or liable in any way whatsoever for arbitration, dealing, compensation, damages or any other matters with respect to such problem.\n\n",
+		"chn": "Article 3. Principle of Self-responsibility\n1.\tPlayers shall use the Services at their own responsibility, and if any Player causes any loss or damage to another or the Company when using the Services, the Player shall pay damages therefor at his/her own expense and responsibility.\n2.\tPlayers shall, when giving and receiving any information or service to and from any third party other than the Company through the Services, be fully liable for any acts and contents incidental thereto. If any Player causes any loss or damage to another or to the Company when giving and receiving any such information or service, the Player shall pay damages therefor at his/her own expense and responsibility.\n3.\tPlayers shall, if any problem arises through the Services with any third party other than the Company, deal with and resolve the problem at their own expense and responsibility. The Company shall not be obligated or liable in any way whatsoever for arbitration, dealing, compensation, damages or any other matters with respect to such problem.\n\n"
+	},
+	{
+		"id": 600004,
+		"eng": "Article 4. Liability for Fees and Charges\n1.\tThe Services are free of charge; however, Players shall prepare the necessary hardware, lines and any other items for their use of the Services at their own expense and responsibility.\n2.\tFees for the Software and contents and services provided accompanying the Services will be determined by the Company at its discretion depending on the details and time of such provision.\n\n",
+		"chn": "Article 4. Liability for Fees and Charges\n1.\tThe Services are free of charge; however, Players shall prepare the necessary hardware, lines and any other items for their use of the Services at their own expense and responsibility.\n2.\tFees for the Software and contents and services provided accompanying the Services will be determined by the Company at its discretion depending on the details and time of such provision.\n\n"
+	},
+	{
+		"id": 600005,
+		"eng": "Article 5. Management of Personal Information\n1.\tFor the protection of personal information, Players shall not include information that leads to his/her identification in any information posted or disclosed by him/her through the Services when using the Services.\n2.\tThe Company shall not protect information posted on or disclosed in the Services.\n\n",
+		"chn": "Article 5. Management of Personal Information\n1.\tFor the protection of personal information, Players shall not include information that leads to his/her identification in any information posted or disclosed by him/her through the Services when using the Services.\n2.\tThe Company shall not protect information posted on or disclosed in the Services.\n\n"
+	},
+	{
+		"id": 600006,
+		"eng": "Article 6. Ownership of Rights\n1.\tAny rights in and to the Software and the Services, including intellectual property rights (any and all rights including, but not limited to patent rights, utility model rights, trademark rights, design rights, knowhow, trade secrets and copyrights) shall belong to the Company or the third parties in question.\n2.\tPlayers shall not be entitled to alter, adapt, copy, edit, reproduce, distribute, transmit or publish all pieces of information included in the Software and the Services (any and all kinds of information including, but not limited to images, pictures, characters, scenarios, plots, programs, software and ideas) without the prior approval of the Company.\n3.\tWhen using the Services, Players shall not have any intellectual property right or claim with respect to data stored on any storage device such as a server for the Services (hereinafter referred to as \"Recorded Data\"), and Players hereby grant the Company or the third party designated by the Company the right to copy, edit and distribute Recorded Data.\n\n",
+		"chn": "Article 6. Ownership of Rights\n1.\tAny rights in and to the Software and the Services, including intellectual property rights (any and all rights including, but not limited to patent rights, utility model rights, trademark rights, design rights, knowhow, trade secrets and copyrights) shall belong to the Company or the third parties in question.\n2.\tPlayers shall not be entitled to alter, adapt, copy, edit, reproduce, distribute, transmit or publish all pieces of information included in the Software and the Services (any and all kinds of information including, but not limited to images, pictures, characters, scenarios, plots, programs, software and ideas) without the prior approval of the Company.\n3.\tWhen using the Services, Players shall not have any intellectual property right or claim with respect to data stored on any storage device such as a server for the Services (hereinafter referred to as \"Recorded Data\"), and Players hereby grant the Company or the third party designated by the Company the right to copy, edit and distribute Recorded Data.\n\n"
+	},
+	{
+		"id": 600007,
+		"eng": "Article 7. Outsourcing of Operation of the Services\nThe Company shall be entitled to assign to another all or any part of its rights and obligations related to the operation of the Services or outsource to another the operation of all or any part of the Services.\n\n",
+		"chn": "Article 7. Outsourcing of Operation of the Services\nThe Company shall be entitled to assign to another all or any part of its rights and obligations related to the operation of the Services or outsource to another the operation of all or any part of the Services.\n\n"
+	},
+	{
+		"id": 600008,
+		"eng": "Article 8. Suspension of the Services\nThe Company shall, in cases falling under the following items, suspend any part or all of the Services without prior notice to Players:\n(1)\tWhere any failure or other defect occurs in any of the systems used for the Services (including, but not limited to communication lines, power sources, and any structures where the foregoing is accommodated);\n(2)\tWhere maintenance, inspection, repair or modification work is regularly or urgently carried out on any systems used for the Services;\n(3)\tWhere services for STEAM® cease or are suspended; or\n(4)\tOtherwise where the Company determines that it is necessary to suspend the Services for operational or technical reasons.\n\n",
+		"chn": "Article 8. Suspension of the Services\nThe Company shall, in cases falling under the following items, suspend any part or all of the Services without prior notice to Players:\n(1)\tWhere any failure or other defect occurs in any of the systems used for the Services (including, but not limited to communication lines, power sources, and any structures where the foregoing is accommodated);\n(2)\tWhere maintenance, inspection, repair or modification work is regularly or urgently carried out on any systems used for the Services;\n(3)\tWhere services for STEAM® cease or are suspended; or\n(4)\tOtherwise where the Company determines that it is necessary to suspend the Services for operational or technical reasons.\n\n"
+	},
+	{
+		"id": 600009,
+		"eng": "Article 9 Discontinuation of Provision of the Services\nThe Company shall, at any time upon giving prior notice of termination to Players, be entitled to discontinue the provision of all or any part of the Services. In this case, the Company shall notify Players of that fact by posting the same on the Website, by e-mail or through other means the Company thinks reasonable. The notice of termination shall be deemed to have reached all Players upon expiration of thirty (30) days after the Company has started posting such notice on the Website.\n\n",
+		"chn": "Article 9 Discontinuation of Provision of the Services\nThe Company shall, at any time upon giving prior notice of termination to Players, be entitled to discontinue the provision of all or any part of the Services. In this case, the Company shall notify Players of that fact by posting the same on the Website, by e-mail or through other means the Company thinks reasonable. The notice of termination shall be deemed to have reached all Players upon expiration of thirty (30) days after the Company has started posting such notice on the Website.\n\n"
+	},
+	{
+		"id": 600010,
+		"eng": "Article 10 Prohibited Matters\n1.\tNo Player shall be entitled to assign to, transfer to, sell to or buy from another, change the name to another's name of, or provide another as pledge or other security with, any of his/her rights held as a Player, and items, characters and saved data within the game related to the Software which are obtained in the Services (including so-called \"real money trading\").\n2.\tNo Player shall perform any of the following other acts on the Services:\n(1)\tPlaying a game in a manner offensive to other Players;\n(2)\tPlaying a game using falsified data regardless of the circumstances;\n(3)\tPlaying a game in a manner not intended by the Company using any function or failure of the Software or the Services; or\n(4)\tPerforming any other act determined to be inappropriate by the Company or a third party providing any of the systems used for the Services.\n3.\tWith respect to Players who have performed acts prohibited under this Article, the Company or the third party providing any of the systems used for the Services shall be entitled at its discretion to give such Players warnings, delete the Recorded Data of such Players, or have such Players suspend or cease their use of the Services.\n\n",
+		"chn": "Article 10 Prohibited Matters\n1.\tNo Player shall be entitled to assign to, transfer to, sell to or buy from another, change the name to another's name of, or provide another as pledge or other security with, any of his/her rights held as a Player, and items, characters and saved data within the game related to the Software which are obtained in the Services (including so-called \"real money trading\").\n2.\tNo Player shall perform any of the following other acts on the Services:\n(1)\tPlaying a game in a manner offensive to other Players;\n(2)\tPlaying a game using falsified data regardless of the circumstances;\n(3)\tPlaying a game in a manner not intended by the Company using any function or failure of the Software or the Services; or\n(4)\tPerforming any other act determined to be inappropriate by the Company or a third party providing any of the systems used for the Services.\n3.\tWith respect to Players who have performed acts prohibited under this Article, the Company or the third party providing any of the systems used for the Services shall be entitled at its discretion to give such Players warnings, delete the Recorded Data of such Players, or have such Players suspend or cease their use of the Services.\n\n"
+	},
+	{
+		"id": 600011,
+		"eng": "Article 11 Third-Party Software: Easy Anti-Cheat\nThe company shall employ the use of the “Easy Anti-Cheat” anti-cheat service (hereinafter referred to as \"EAC”) for the sake of preventing acts detailed to in Article 10, Section 2., Subsections (2), (3) and (4). EAC is operated by a third-party service provider. EAC has a client software that is integrated into the Software. When starting the Software, the EAC client software will automatically load and install its latest version to the Hardware. EAC will monitor the Hardware, analyze the Software binaries and scan Hardware memory for the purpose of detecting and preventing cheating in the Software (hereinafter referred to as the “Purpose”). For the Purpose, EAC stores information regarding cheating methods used in the Software (hereinafter referred to as “Cheat Data”). By agreeing to this Agreement, or otherwise using the Software or the Services, the Player gives their consent that EAC may gather, store, share, and publish Cheat Data for the Purpose. The Cheat Data will be used solely for the Purpose. This includes but is not limited to identifying and banning Players who are cheating in the Software or the Services, analyzing cheating behavior and cheating codes, as well as sharing data about cheats with affiliates of EAC.\nYou can find more information about the privacy practices of EAC by viewing the privacy statement of EAC service provider EPIC GAMES (https://www.epicgames.com/site/ja/privacypolicy). If the Player denies EAC the ability to process personal data in accordance with their privacy statement or requests EAC to remove or delete personal data, the Company has the right to block the Player’s access to the Software or the Services and prevent use of the Software or the Services.\n\n",
+		"chn": "Article 11 Third-Party Software: Easy Anti-Cheat\nThe company shall employ the use of the “Easy Anti-Cheat” anti-cheat service (hereinafter referred to as \"EAC”) for the sake of preventing acts detailed to in Article 10, Section 2., Subsections (2), (3) and (4). EAC is operated by a third-party service provider. EAC has a client software that is integrated into the Software. When starting the Software, the EAC client software will automatically load and install its latest version to the Hardware. EAC will monitor the Hardware, analyze the Software binaries and scan Hardware memory for the purpose of detecting and preventing cheating in the Software (hereinafter referred to as the “Purpose”). For the Purpose, EAC stores information regarding cheating methods used in the Software (hereinafter referred to as “Cheat Data”). By agreeing to this Agreement, or otherwise using the Software or the Services, the Player gives their consent that EAC may gather, store, share, and publish Cheat Data for the Purpose. The Cheat Data will be used solely for the Purpose. This includes but is not limited to identifying and banning Players who are cheating in the Software or the Services, analyzing cheating behavior and cheating codes, as well as sharing data about cheats with affiliates of EAC.\nYou can find more information about the privacy practices of EAC by viewing the privacy statement of EAC service provider EPIC GAMES (https://www.epicgames.com/site/ja/privacypolicy). If the Player denies EAC the ability to process personal data in accordance with their privacy statement or requests EAC to remove or delete personal data, the Company has the right to block the Player’s access to the Software or the Services and prevent use of the Software or the Services.\n\n"
+	},
+	{
+		"id": 600012,
+		"eng": "Article 12 Damages\n1.\tExcluding cases of bad faith or gross negligence, the Company shall not be liable in any way to Players for any loss or damage caused to Players and third parties due to the Players' use of the Services, nor shall the Company be obligated to pay damages therefor.\n2.\tWith respect to the deletion of the Recorded Data of Players, the cessation or cancellation of Players' registration, or the cessation, suspension or discontinuation of Players' use of the Services by the Company, the Company shall not be obligated to pay any damages, unless the Company acts in bad faith or gross negligence.\n3.\tEven if the Company is liable for damages for any reason, the Company shall not be liable to pay damages of an amount exceeding those for the loss or damage directly caused to Players, nor shall the Company be liable to pay damages for any incidental, indirect, special or future damage, or lost profits.\n4.\tIf any Player causes any loss or damage to other Players or third parties due to his/her use of the Services, the Player shall resolve such issue at his/her own expense and responsibility, and not cause any loss or damage to the Company.\n5.\tIf any Player causes any loss or damage to the Company due to his/her act in violation of the TOS or his/her improper or illegal actions, the Company shall be entitled to make a claim for damages against the Player.\n\n",
+		"chn": "Article 12 Damages\n1.\tExcluding cases of bad faith or gross negligence, the Company shall not be liable in any way to Players for any loss or damage caused to Players and third parties due to the Players' use of the Services, nor shall the Company be obligated to pay damages therefor.\n2.\tWith respect to the deletion of the Recorded Data of Players, the cessation or cancellation of Players' registration, or the cessation, suspension or discontinuation of Players' use of the Services by the Company, the Company shall not be obligated to pay any damages, unless the Company acts in bad faith or gross negligence.\n3.\tEven if the Company is liable for damages for any reason, the Company shall not be liable to pay damages of an amount exceeding those for the loss or damage directly caused to Players, nor shall the Company be liable to pay damages for any incidental, indirect, special or future damage, or lost profits.\n4.\tIf any Player causes any loss or damage to other Players or third parties due to his/her use of the Services, the Player shall resolve such issue at his/her own expense and responsibility, and not cause any loss or damage to the Company.\n5.\tIf any Player causes any loss or damage to the Company due to his/her act in violation of the TOS or his/her improper or illegal actions, the Company shall be entitled to make a claim for damages against the Player.\n\n"
+	},
+	{
+		"id": 600013,
+		"eng": "Article 13 Disclaimers\n1.\tEach Player shall, if another makes any inquiry or complaint to him/her in connection with his/her use of the Services, or he/she has any request, question or complaint about another's act, deal with and resolve such issue at his/her own expense and responsibility, and the Company shall not be liable or obligated in any way therefor.\n2.\tPlayers shall note that they will avoid using the Services at their discretion in an excessive manner that may disturb their sound lifestyle. The Company shall not be liable in any way for any social, mental or physical damage caused to any Player due to the Player's deviant behavior therefrom.\n3.\tFor conflicts of interests or problems between Players arising in connection with the Players' use of the Services, or for measures taken thereunder by the Company or third parties, the Company shall not be liable in any way whatsoever.\n4.\tSince there is a possibility for the Services to be unavailable depending on the individual environment of each Player due to the nature of the Services, the Company shall not warrant that the Services will be available in any environment.\n5.\tThe Company shall not warrant in any way that the Services are free of errors or viruses, or otherwise games will progress in a safe manner.\n\n",
+		"chn": "Article 13 Disclaimers\n1.\tEach Player shall, if another makes any inquiry or complaint to him/her in connection with his/her use of the Services, or he/she has any request, question or complaint about another's act, deal with and resolve such issue at his/her own expense and responsibility, and the Company shall not be liable or obligated in any way therefor.\n2.\tPlayers shall note that they will avoid using the Services at their discretion in an excessive manner that may disturb their sound lifestyle. The Company shall not be liable in any way for any social, mental or physical damage caused to any Player due to the Player's deviant behavior therefrom.\n3.\tFor conflicts of interests or problems between Players arising in connection with the Players' use of the Services, or for measures taken thereunder by the Company or third parties, the Company shall not be liable in any way whatsoever.\n4.\tSince there is a possibility for the Services to be unavailable depending on the individual environment of each Player due to the nature of the Services, the Company shall not warrant that the Services will be available in any environment.\n5.\tThe Company shall not warrant in any way that the Services are free of errors or viruses, or otherwise games will progress in a safe manner.\n\n"
+	},
+	{
+		"id": 600014,
+		"eng": "Article 14 Governing Law and Dispute Resolution\nThe TOS shall, including the execution, validity, interpretation and performance hereof, be governed by the laws and regulations of Japan by all means. If any problem, dispute, difficulty or other issue arises in connection with the Services between any Player and the Company, the Player and the Company shall resolve the issue through consultation in good faith, and in the event of a failure in resolving it through consultation, it shall be subject to the exclusive jurisdiction of the Tokyo District Court in the first instance as agreed upon between the parties.\n\n",
+		"chn": "Article 14 Governing Law and Dispute Resolution\nThe TOS shall, including the execution, validity, interpretation and performance hereof, be governed by the laws and regulations of Japan by all means. If any problem, dispute, difficulty or other issue arises in connection with the Services between any Player and the Company, the Player and the Company shall resolve the issue through consultation in good faith, and in the event of a failure in resolving it through consultation, it shall be subject to the exclusive jurisdiction of the Tokyo District Court in the first instance as agreed upon between the parties.\n\n"
+	},
+	{
+		"id": 600015,
+		"eng": "\n\n\nSupplementary Provisions\nThe TOS shall come into effect upon sale of the Software.\nThe TOS may be modified from time to time.\nThe latest information shall be posted on the Website and made referenceable by Players from time to time.",
+		"chn": "\n\n\nSupplementary Provisions\nThe TOS shall come into effect upon sale of the Software.\nThe TOS may be modified from time to time.\nThe latest information shall be posted on the Website and made referenceable by Players from time to time."
+	},
+	{
+		"id": 601000,
+		"eng": "Terms and Conditions",
+		"chn": "Terms and Conditions"
+	},
+	{
+		"id": 602000,
+		"eng": "Terms and Conditions",
+		"chn": "Terms and Conditions"
+	},
+	{
+		"id": 603000,
+		"eng": "Terms and Conditions",
+		"chn": "Terms and Conditions"
+	},
+	{
+		"id": 606000,
+		"eng": "<?kgUD?>: Scroll <?kgLR?>: Select <?kgOk?>: Confirm",
+		"chn": "<?kgUD?>：翻页　<?kgLR?>：选择　<?kgOk?>：执行"
+	},
+	{
+		"id": 606001,
+		"eng": "Accept",
+		"chn": "同意"
+	},
+	{
+		"id": 606002,
+		"eng": "Decline",
+		"chn": "不同意"
+	},
+	{
+		"id": 606003,
+		"eng": "<?kgUD?>: Select <?kgOk?>: Confirm <?kgCancel?>: Close",
+		"chn": "<?kgUD?>：选择　<?kgOk?>：执行　<?kgCancel?>：关闭"
+	},
+	{
+		"id": 606004,
+		"eng": "Switch Language",
+		"chn": "变更语言"
+	},
+	{
+		"id": 606005,
+		"eng": "日本語",
+		"chn": "日本語"
+	},
+	{
+		"id": 606006,
+		"eng": "English",
+		"chn": "English"
+	},
+	{
+		"id": 606007,
+		"eng": "Français",
+		"chn": "Français"
+	},
+	{
+		"id": 606008,
+		"eng": "Español",
+		"chn": "Español"
+	},
+	{
+		"id": 606009,
+		"eng": "Italiano",
+		"chn": "Italiano"
+	},
+	{
+		"id": 606010,
+		"eng": "Deutsch",
+		"chn": "Deutsch"
+	},
+	{
+		"id": 606011,
+		"eng": "한국어",
+		"chn": "한국어"
+	},
+	{
+		"id": 606012,
+		"eng": "繁體中文",
+		"chn": "繁體中文"
+	},
+	{
+		"id": 606013,
+		"eng": "简体中文",
+		"chn": "简体中文"
+	},
+	{
+		"id": 606014,
+		"eng": "Polski",
+		"chn": "Polski"
+	},
+	{
+		"id": 606015,
+		"eng": "Русский",
+		"chn": "Русский"
+	},
+	{
+		"id": 606016,
+		"eng": "Português (Brasil)",
+		"chn": "Português (Brasil)"
+	},
+	{
+		"id": 606017,
+		"eng": "Español (América Latina)",
+		"chn": "Español (América Latina)"
+	},
+	{
+		"id": 606018,
+		"eng": "ภาษา​ไทย",
+		"chn": "ภาษา​ไทย"
+	}
+]

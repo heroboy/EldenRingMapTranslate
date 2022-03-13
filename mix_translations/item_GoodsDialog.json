@@ -1,0 +1,187 @@
+[
+	{
+		"id": 10010670,
+		"eng": "Talisman effects have prevented your runes from being lost upon death, at the cost of your Sacrificial Twig",
+		"chn": "由于护符的效用，死亡后不会掉落持有卢恩。\n牺牲细枝已消失。"
+	},
+	{
+		"id": 10010680,
+		"eng": "Physick effects have prevented your runes from being lost upon death",
+		"chn": "由于灵药的效用，\n死亡后不会掉落持有卢恩。"
+	},
+	{
+		"id": 10010800,
+		"eng": "Use <?gdsparam@390?>?",
+		"chn": "要使用<?gdsparam@390?>吗？"
+	},
+	{
+		"id": 10010801,
+		"eng": "Use <?gdsparam@2950?>?",
+		"chn": "要使用<?gdsparam@2950?>吗？"
+	},
+	{
+		"id": 10010802,
+		"eng": "Use <?gdsparam@2951?>?",
+		"chn": "要使用<?gdsparam@2951?>吗？"
+	},
+	{
+		"id": 10010803,
+		"eng": "Use <?gdsparam@2952?>?",
+		"chn": "要使用<?gdsparam@2952?>吗？"
+	},
+	{
+		"id": 10010804,
+		"eng": "Use <?gdsparam@2953?>?",
+		"chn": "要使用<?gdsparam@2953?>吗？"
+	},
+	{
+		"id": 10010805,
+		"eng": "Use <?gdsparam@2954?>?",
+		"chn": "要使用<?gdsparam@2954?>吗？"
+	},
+	{
+		"id": 10010806,
+		"eng": "Use <?gdsparam@2955?>?",
+		"chn": "要使用<?gdsparam@2955?>吗？"
+	},
+	{
+		"id": 10010807,
+		"eng": "Use <?gdsparam@2956?>?",
+		"chn": "要使用<?gdsparam@2956?>吗？"
+	},
+	{
+		"id": 10010808,
+		"eng": "Use <?gdsparam@2957?>?",
+		"chn": "要使用<?gdsparam@2957?>吗？"
+	},
+	{
+		"id": 10010809,
+		"eng": "Use <?gdsparam@2958?>?",
+		"chn": "要使用<?gdsparam@2958?>吗？"
+	},
+	{
+		"id": 10010810,
+		"eng": "Use <?gdsparam@2959?>?",
+		"chn": "要使用<?gdsparam@2959?>吗？"
+	},
+	{
+		"id": 10010811,
+		"eng": "Use <?gdsparam@2960?>?",
+		"chn": "要使用<?gdsparam@2960?>吗？"
+	},
+	{
+		"id": 10010812,
+		"eng": "Use <?gdsparam@2961?>?",
+		"chn": "要使用<?gdsparam@2961?>吗？"
+	},
+	{
+		"id": 10010813,
+		"eng": "Use <?gdsparam@2962?>?",
+		"chn": "要使用<?gdsparam@2962?>吗？"
+	},
+	{
+		"id": 10010814,
+		"eng": "Use <?gdsparam@2963?>?",
+		"chn": "要使用<?gdsparam@2963?>吗？"
+	},
+	{
+		"id": 10010815,
+		"eng": "Use <?gdsparam@2964?>?",
+		"chn": "要使用<?gdsparam@2964?>吗？"
+	},
+	{
+		"id": 10010830,
+		"eng": "Use Miquella's Needle to tame the flame of frenzy?",
+		"chn": "要使用米凯拉的针，镇定癫火吗？"
+	},
+	{
+		"id": 10010840,
+		"eng": "Go to the audience grounds?",
+		"chn": "要移动到谒见之地吗？"
+	},
+	{
+		"id": 10011954,
+		"eng": "Lose all runes to return to the last site of grace visited?",
+		"chn": "将会失去所有卢恩，传送到最后停留的赐福。\n您确定吗？"
+	},
+	{
+		"id": 20000001,
+		"eng": "Finger Remedy effect will be nullified. OK?",
+		"chn": "将会中断指药的效用，您确定吗？"
+	},
+	{
+		"id": 20000010,
+		"eng": "Attempt to invade another world?",
+		"chn": "要入侵其他世界吗？"
+	},
+	{
+		"id": 20000011,
+		"eng": "Cancel invasion of other world?",
+		"chn": "要放弃入侵其他世界吗？"
+	},
+	{
+		"id": 20000021,
+		"eng": "Withdraw summon request?",
+		"chn": "要撤回召唤请求吗？"
+	},
+	{
+		"id": 20000031,
+		"eng": "Stop answering requests to be summoned as a rescuer?",
+		"chn": "正在接收召唤请求，要取消吗？"
+	},
+	{
+		"id": 20000040,
+		"eng": "Lure in invaders?",
+		"chn": "要吸引入侵者吗？"
+	},
+	{
+		"id": 20000041,
+		"eng": "Stop luring in invaders?",
+		"chn": "正在吸引入侵者，要取消吗？"
+	},
+	{
+		"id": 20000050,
+		"eng": "Send a co-op sign to summoning pools?",
+		"chn": "要将协力记号送往记号聚集处吗？"
+	},
+	{
+		"id": 20000051,
+		"eng": "Withdraw a co-op sign from summoning pools?",
+		"chn": "协力记号已送往记号聚集处，要抹除吗？"
+	},
+	{
+		"id": 20000060,
+		"eng": "Send a hostile sign to summoning pools?",
+		"chn": "要将敌对记号送往记号聚集处吗？"
+	},
+	{
+		"id": 20000061,
+		"eng": "Withdraw a hostile sign from summoning pools?",
+		"chn": "敌对记号已送往记号聚集处，要抹除吗？"
+	},
+	{
+		"id": 20000070,
+		"eng": "Return to your world?",
+		"chn": "要返回原本的世界吗？"
+	},
+	{
+		"id": 20000600,
+		"eng": "Send summoned spirit back to the beyond?",
+		"chn": "要遣返召唤中的灵魂吗？"
+	},
+	{
+		"id": 20000610,
+		"eng": "Summoning a new spirit will send any spirits present away. OK?",
+		"chn": "如果召唤新的灵魂，将会遣返其他召唤中的灵魂。\n您确定吗？"
+	},
+	{
+		"id": 20000700,
+		"eng": "This Dream Mist has been already acquired",
+		"chn": "获得该人物的“梦雾”。"
+	},
+	{
+		"id": 20000800,
+		"eng": "Resummon steed by consuming one charge of the Flask of Crimson Tears?",
+		"chn": "灵马已死亡，要再一次召唤吗？\n（需要消耗１瓶红露滴圣杯瓶。）"
+	}
+]

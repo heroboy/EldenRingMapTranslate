@@ -1,0 +1,337 @@
+[
+	{
+		"id": 1,
+		"eng": "Crouching",
+		"chn": "蹲下"
+	},
+	{
+		"id": 2,
+		"eng": "Guarding",
+		"chn": "防御"
+	},
+	{
+		"id": 3,
+		"eng": "Guard Counters",
+		"chn": "防御反击"
+	},
+	{
+		"id": 4,
+		"eng": "Two-Handing Armaments",
+		"chn": "双手共持"
+	},
+	{
+		"id": 5,
+		"eng": "Charge and Jump Attacks",
+		"chn": "蓄力攻击、跳跃攻击"
+	},
+	{
+		"id": 6,
+		"eng": "Skill",
+		"chn": "战技"
+	},
+	{
+		"id": 7,
+		"eng": "Parrying",
+		"chn": "格挡"
+	},
+	{
+		"id": 8,
+		"eng": "Setting a Target",
+		"chn": "锁定目标"
+	},
+	{
+		"id": 9,
+		"eng": "Precision Aiming",
+		"chn": "精密射击"
+	},
+	{
+		"id": 10,
+		"eng": "Equipping Armaments",
+		"chn": "装备武器"
+	},
+	{
+		"id": 11,
+		"eng": "Using Items",
+		"chn": "使用道具"
+	},
+	{
+		"id": 12,
+		"eng": "Using Torches",
+		"chn": "火把"
+	},
+	{
+		"id": 13,
+		"eng": "Critical Hits",
+		"chn": "致命一击"
+	},
+	{
+		"id": 14,
+		"eng": "Gestures",
+		"chn": "肢体动作"
+	},
+	{
+		"id": 15,
+		"eng": "The Map",
+		"chn": "地图"
+	},
+	{
+		"id": 16,
+		"eng": "Spiritspring Jumping",
+		"chn": "灵魂气流跳跃"
+	},
+	{
+		"id": 17,
+		"eng": "Item Shortcut",
+		"chn": "快选使用道具"
+	},
+	{
+		"id": 50,
+		"eng": "Dying and Dropping Runes",
+		"chn": "死亡与持有卢恩"
+	},
+	{
+		"id": 52,
+		"eng": "Summoning Spirits",
+		"chn": "召唤灵魂"
+	},
+	{
+		"id": 53,
+		"eng": "Resting at Sites of Grace",
+		"chn": "在赐福休息"
+	},
+	{
+		"id": 54,
+		"eng": "Finding Sites of Grace",
+		"chn": "发现赐福"
+	},
+	{
+		"id": 55,
+		"eng": "Guidance of Grace",
+		"chn": "赐福的指引"
+	},
+	{
+		"id": 56,
+		"eng": "Sacred Flasks",
+		"chn": "圣杯瓶"
+	},
+	{
+		"id": 57,
+		"eng": "Fast Travel to Sites of Grace",
+		"chn": "传送至赐福"
+	},
+	{
+		"id": 58,
+		"eng": "Mounted Attacks",
+		"chn": "骑马攻击"
+	},
+	{
+		"id": 59,
+		"eng": "No-Riding Areas",
+		"chn": "无法骑马的地方"
+	},
+	{
+		"id": 60,
+		"eng": "Item Crafting",
+		"chn": "制作道具"
+	},
+	{
+		"id": 61,
+		"eng": "Container Items",
+		"chn": "容器道具"
+	},
+	{
+		"id": 62,
+		"eng": "Armament Customization",
+		"chn": "自定义武器"
+	},
+	{
+		"id": 64,
+		"eng": "Reviving After Dying",
+		"chn": "死后复活时"
+	},
+	{
+		"id": 65,
+		"eng": "Equip Load",
+		"chn": "装备重量"
+	},
+	{
+		"id": 66,
+		"eng": "While in Combat",
+		"chn": "交战时"
+	},
+	{
+		"id": 67,
+		"eng": "Strengthening Spirits",
+		"chn": "强化灵魂"
+	},
+	{
+		"id": 68,
+		"eng": "Leveling Up",
+		"chn": "升级"
+	},
+	{
+		"id": 70,
+		"eng": "Status: Poison",
+		"chn": "异常状态：中毒"
+	},
+	{
+		"id": 71,
+		"eng": "Status: Scarlet Rot",
+		"chn": "异常状态：猩红腐败"
+	},
+	{
+		"id": 72,
+		"eng": "Status: Blood Loss",
+		"chn": "异常状态：出血"
+	},
+	{
+		"id": 73,
+		"eng": "Status: Frost/Frostbite",
+		"chn": "异常状态：冻伤"
+	},
+	{
+		"id": 74,
+		"eng": "Status: Sleep",
+		"chn": "异常状态：催眠"
+	},
+	{
+		"id": 75,
+		"eng": "Status: Madness",
+		"chn": "异常状态：发狂"
+	},
+	{
+		"id": 76,
+		"eng": "Status: Death",
+		"chn": "异常状态：死亡"
+	},
+	{
+		"id": 77,
+		"eng": "Poise",
+		"chn": "强韧度"
+	},
+	{
+		"id": 100,
+		"eng": "Cooperator's Objective (Furled Finger)",
+		"chn": "协助者（勾指）的目标"
+	},
+	{
+		"id": 101,
+		"eng": "Adversary's Objective (Duelist)",
+		"chn": "敌对者（斗士）的目标"
+	},
+	{
+		"id": 102,
+		"eng": "Multiplayer Maximums",
+		"chn": "多人联机游玩的人数上限"
+	},
+	{
+		"id": 103,
+		"eng": "Seeing Summon Signs",
+		"chn": "看见召唤记号"
+	},
+	{
+		"id": 104,
+		"eng": "Leaving Co-op Signs",
+		"chn": "写下协力记号"
+	},
+	{
+		"id": 105,
+		"eng": "Leaving Hostile Signs",
+		"chn": "写下敌对记号"
+	},
+	{
+		"id": 106,
+		"eng": "Invasion",
+		"chn": "入侵"
+	},
+	{
+		"id": 107,
+		"eng": "Requesting Support",
+		"chn": "请求支援"
+	},
+	{
+		"id": 108,
+		"eng": "Supporting",
+		"chn": "支援"
+	},
+	{
+		"id": 109,
+		"eng": "Summoning Pools",
+		"chn": "记号聚集处"
+	},
+	{
+		"id": 110,
+		"eng": "Group Passwords",
+		"chn": "群组暗号"
+	},
+	{
+		"id": 111,
+		"eng": "Multiplayer Passwords",
+		"chn": "多人联机游玩的暗号"
+	},
+	{
+		"id": 112,
+		"eng": "Messages",
+		"chn": "讯息"
+	},
+	{
+		"id": 113,
+		"eng": "Multiplayer Movement Limits",
+		"chn": "多人联机游玩的活动范围"
+	},
+	{
+		"id": 114,
+		"eng": "Phantoms",
+		"chn": "幻影"
+	},
+	{
+		"id": 115,
+		"eng": "Bloodstains",
+		"chn": "血迹"
+	},
+	{
+		"id": 116,
+		"eng": "Support Objective (Hunter)",
+		"chn": "支援者（猎人）的目标"
+	},
+	{
+		"id": 117,
+		"eng": "Summon Signs",
+		"chn": "召唤记号"
+	},
+	{
+		"id": 118,
+		"eng": "Advanced Messages",
+		"chn": "切换讯息的格式"
+	},
+	{
+		"id": 119,
+		"eng": "Invader Objective",
+		"chn": "入侵者的目标"
+	},
+	{
+		"id": 150,
+		"eng": "Limits of Guarding",
+		"chn": "防御的缺点"
+	},
+	{
+		"id": 151,
+		"eng": "Stance-Breaking",
+		"chn": "失去平衡"
+	},
+	{
+		"id": 152,
+		"eng": "Knocking Down Mounted Enemies",
+		"chn": "坠马"
+	},
+	{
+		"id": 153,
+		"eng": "Hardened Foes",
+		"chn": "坚硬的敌人"
+	},
+	{
+		"id": 200,
+		"eng": "Teardrop Scarabs",
+		"chn": "露滴粪金龟"
+	}
+]

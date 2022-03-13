@@ -1,0 +1,1372 @@
+[
+	{
+		"id": 2120000,
+		"eng": "Summon this cooperator?",
+		"chn": "要召唤这名协助者吗？"
+	},
+	{
+		"id": 2120100,
+		"eng": "Summon this adversary?",
+		"chn": "要召唤这名敌对者吗？"
+	},
+	{
+		"id": 2120200,
+		"eng": "Hunters from other worlds will be automatically summoned to rescue\nyou when your world is invaded",
+		"chn": "受到入侵时，将自动发出请求，\n召唤其他世界的猎人。"
+	},
+	{
+		"id": 2120201,
+		"eng": "Hunters will no longer be summoned automatically",
+		"chn": "已撤回召唤猎人的请求。"
+	},
+	{
+		"id": 2120210,
+		"eng": "You will now respond to calls for rescue from other worlds",
+		"chn": "当其他世界的人想召唤猎人时，\n能回应要求，接受召唤。"
+	},
+	{
+		"id": 2120211,
+		"eng": "You are no longer responding to calls for rescue from other worlds",
+		"chn": "已撤回接受召唤的承诺。"
+	},
+	{
+		"id": 2121000,
+		"eng": "Cancel summon sign?",
+		"chn": "要抹除这个召唤记号吗？"
+	},
+	{
+		"id": 2200000,
+		"eng": "Your summon sign disappeared",
+		"chn": "您写下的召唤记号已消失。"
+	},
+	{
+		"id": 2200200,
+		"eng": "Invasion canceled",
+		"chn": "已取消入侵其他世界。"
+	},
+	{
+		"id": 2200300,
+		"eng": "Finger Remedy effects wore off",
+		"chn": "指药的效用已消失。"
+	},
+	{
+		"id": 2210000,
+		"eng": "Failed to create summon sign",
+		"chn": "召唤记号建立失败。"
+	},
+	{
+		"id": 2300000,
+		"eng": "Summoning cooperator...",
+		"chn": "正在召唤协助者。"
+	},
+	{
+		"id": 2300010,
+		"eng": "Summoning cooperator...",
+		"chn": "正在召唤协助者。"
+	},
+	{
+		"id": 2300100,
+		"eng": "Summoning adversary...",
+		"chn": "正在召唤敌对者。"
+	},
+	{
+		"id": 2301000,
+		"eng": "You are being summoned to another world...",
+		"chn": "正在接受其他世界的召唤。"
+	},
+	{
+		"id": 2301100,
+		"eng": "You are being summoned to another world...",
+		"chn": "正在接受其他世界的召唤。"
+	},
+	{
+		"id": 2301200,
+		"eng": "Invading another world...",
+		"chn": "正在入侵其他世界。"
+	},
+	{
+		"id": 2301210,
+		"eng": "Invading another world...",
+		"chn": "正在入侵其他世界。"
+	},
+	{
+		"id": 2301304,
+		"eng": "You are being summoned to another world...",
+		"chn": "正在接受其他世界的召唤。"
+	},
+	{
+		"id": 2302000,
+		"eng": "Summoning another cooperator...",
+		"chn": "正在召唤其他协助者。"
+	},
+	{
+		"id": 2302010,
+		"eng": "Summoning another cooperator...",
+		"chn": "正在召唤其他协助者。"
+	},
+	{
+		"id": 2302100,
+		"eng": "Summoning another adversary...",
+		"chn": "正在召唤其他敌对者。"
+	},
+	{
+		"id": 2311000,
+		"eng": "Being summoned to another world as a cooperator...",
+		"chn": "作为协助者，接受其他世界的召唤。"
+	},
+	{
+		"id": 2311100,
+		"eng": "Being summoned to another world as an adversary...",
+		"chn": "作为敌对者，接受其他世界的召唤。"
+	},
+	{
+		"id": 2311200,
+		"eng": "Invading another world...",
+		"chn": "作为入侵者，入侵其他世界。"
+	},
+	{
+		"id": 2311210,
+		"eng": "Invading another world...",
+		"chn": "作为入侵者，入侵其他世界。"
+	},
+	{
+		"id": 2311304,
+		"eng": "Being summoned to another world as a hunter...",
+		"chn": "作为猎人，接受其他世界的召唤。"
+	},
+	{
+		"id": 2331200,
+		"eng": "Attempting to invade another world...",
+		"chn": "正在寻找可入侵的世界。"
+	},
+	{
+		"id": 2331201,
+		"eng": "Searching for world to be summoned to as an ally...",
+		"chn": "正在寻找募集协助者的世界。"
+	},
+	{
+		"id": 2331202,
+		"eng": "Requesting the summons of a Broken Finger Stalker",
+		"chn": "正在提出召唤崩指猎人的请求。"
+	},
+	{
+		"id": 2331210,
+		"eng": "Attempting to invade another world...",
+		"chn": "正在寻找可入侵的世界。"
+	},
+	{
+		"id": 2331300,
+		"eng": "Sending co-op sign to summoning pool",
+		"chn": "正在将协力记号送往记号聚集处。"
+	},
+	{
+		"id": 2331301,
+		"eng": "Sending hostile sign to summoning pool",
+		"chn": "正在将敌对记号送往记号聚集处。"
+	},
+	{
+		"id": 2410000,
+		"eng": "Could not summon cooperator.\nCooperator was unable to join session.",
+		"chn": "无法召唤协助者，\n因此不能进行联机。"
+	},
+	{
+		"id": 2410100,
+		"eng": "Could not summon adversary.\nAdversary was unable to join session.",
+		"chn": "无法召唤敌对者，\n因此不能进行联机。"
+	},
+	{
+		"id": 2411000,
+		"eng": "Summoning aborted.\nUnable to join session.",
+		"chn": "无法接受召唤，\n因此不能进行联机。"
+	},
+	{
+		"id": 2411100,
+		"eng": "Summoning aborted.\nUnable to join session.",
+		"chn": "无法接受召唤，\n因此不能进行联机。"
+	},
+	{
+		"id": 2411200,
+		"eng": "Could not invade.\nUnable to join session.",
+		"chn": "无法入侵，\n因此不能进行联机。"
+	},
+	{
+		"id": 2411210,
+		"eng": "Could not invade.\nUnable to join session.",
+		"chn": "无法入侵，\n因此不能进行联机。"
+	},
+	{
+		"id": 2411304,
+		"eng": "Summoning aborted.\nUnable to join session.",
+		"chn": "无法接受召唤，\n因此不能进行联机。"
+	},
+	{
+		"id": 2450000,
+		"eng": "Summoning of cooperator aborted.\nCooperator died in their world.",
+		"chn": "协助者在原本的世界死亡，\n因此无法进行召唤。"
+	},
+	{
+		"id": 2450100,
+		"eng": "Summoning of adversary aborted.\nAdversary died in their world.",
+		"chn": "敌对者在原本的世界死亡，\n因此无法进行召唤。"
+	},
+	{
+		"id": 2460000,
+		"eng": "Unable to summon cooperator due to\ntime out",
+		"chn": "一定时间内联机没有回应，\n因此无法召唤协助者。"
+	},
+	{
+		"id": 2460100,
+		"eng": "Unable to summon adversary due to\ntime out",
+		"chn": "一定时间内联机没有回应，\n因此无法召唤敌对者。"
+	},
+	{
+		"id": 2461000,
+		"eng": "Summoning aborted due to\ntime out",
+		"chn": "一定时间内联机没有回应，\n因此无法接受召唤。"
+	},
+	{
+		"id": 2461100,
+		"eng": "Summoning aborted due to\ntime out",
+		"chn": "一定时间内联机没有回应，\n因此无法接受召唤。"
+	},
+	{
+		"id": 2461200,
+		"eng": "Invasion aborted due to\ntime out",
+		"chn": "一定时间内联机没有回应，\n因此无法入侵。"
+	},
+	{
+		"id": 2461210,
+		"eng": "Invasion aborted due to\ntime out",
+		"chn": "一定时间内联机没有回应，\n因此无法入侵。"
+	},
+	{
+		"id": 2461304,
+		"eng": "Summoning aborted due to\ntime out",
+		"chn": "一定时间内联机没有回应，\n因此无法接受召唤。"
+	},
+	{
+		"id": 2490000,
+		"eng": "Unable to summon cooperator",
+		"chn": "无法召唤协助者。"
+	},
+	{
+		"id": 2490100,
+		"eng": "Unable to summon adversary",
+		"chn": "无法召唤敌对者。"
+	},
+	{
+		"id": 2491000,
+		"eng": "Unable to be summoned",
+		"chn": "无法接受召唤。"
+	},
+	{
+		"id": 2491100,
+		"eng": "Unable to be summoned",
+		"chn": "无法接受召唤。"
+	},
+	{
+		"id": 2491200,
+		"eng": "Unable to invade",
+		"chn": "无法入侵。"
+	},
+	{
+		"id": 2491210,
+		"eng": "Unable to invade",
+		"chn": "无法入侵。"
+	},
+	{
+		"id": 2491304,
+		"eng": "Unable to be summoned",
+		"chn": "无法接受召唤。"
+	},
+	{
+		"id": 2510000,
+		"eng": "Could not summon cooperator.\nFailed to create session.",
+		"chn": "联机失败，无法召唤协助者。"
+	},
+	{
+		"id": 2510100,
+		"eng": "Could not summon adversary.\nFailed to create session.",
+		"chn": "联机失败，无法召唤敌对者。"
+	},
+	{
+		"id": 2521000,
+		"eng": "Unable to be summoned.\nFailed to join session.",
+		"chn": "联机失败，无法接受召唤。"
+	},
+	{
+		"id": 2521100,
+		"eng": "Unable to be summoned.\nFailed to join session.",
+		"chn": "联机失败，无法接受召唤。"
+	},
+	{
+		"id": 2521200,
+		"eng": "Could not invade.\nFailed to join session.",
+		"chn": "联机失败，无法入侵。"
+	},
+	{
+		"id": 2521210,
+		"eng": "Could not invade.\nFailed to join session.",
+		"chn": "联机失败，无法入侵。"
+	},
+	{
+		"id": 2521304,
+		"eng": "Unable to be summoned.\nFailed to join session.",
+		"chn": "联机失败，无法接受召唤。"
+	},
+	{
+		"id": 2600000,
+		"eng": "Furled Finger <?joinName?> summoned as a cooperator",
+		"chn": "已召唤协助者，勾指<?joinName?>。"
+	},
+	{
+		"id": 2600010,
+		"eng": "<?joinName?> summoned as a cooperator",
+		"chn": "已召唤协助者<?joinName?>。"
+	},
+	{
+		"id": 2600100,
+		"eng": "Duelist <?joinName?> summoned as an adversary",
+		"chn": "已召唤敌对者，斗士<?joinName?>。"
+	},
+	{
+		"id": 2600200,
+		"eng": "Invaded by Bloody Finger <?joinName?>!",
+		"chn": "被血指<?joinName?>入侵了！"
+	},
+	{
+		"id": 2600210,
+		"eng": "Invaded by Recusant <?joinName?>!",
+		"chn": "被叛律者<?joinName?>入侵了！"
+	},
+	{
+		"id": 2600220,
+		"eng": "Invaded by <?joinName?>!",
+		"chn": "被<?joinName?>入侵了！"
+	},
+	{
+		"id": 2600230,
+		"eng": "Invaded by <?joinName?>!",
+		"chn": "被<?joinName?>入侵了！"
+	},
+	{
+		"id": 2600240,
+		"eng": "Invaded by <?joinName?>!",
+		"chn": "被<?joinName?>入侵了！"
+	},
+	{
+		"id": 2600304,
+		"eng": "Hunter <?joinName?> summoned",
+		"chn": "已召唤猎人<?joinName?>。"
+	},
+	{
+		"id": 2601000,
+		"eng": "Summoned as a Furled Finger cooperator.\nHelp <?hostName?>, Host of Fingers,\ndefeat the area boss!",
+		"chn": "作为协助者（勾指），\n受到勾指主人<?hostName?>的召唤。\n请协助打倒区域头目。"
+	},
+	{
+		"id": 2601100,
+		"eng": "Summoned as a duelist adversary.\nDefeat <?hostName?>, Host of Fingers!",
+		"chn": "作为敌对者（斗士）接受召唤。\n请打倒勾指主人<?hostName?>。"
+	},
+	{
+		"id": 2601200,
+		"eng": "Invading another world.\nDefeat <?hostName?>, Host of Fingers!",
+		"chn": "已入侵其他世界。\n请打倒勾指主人<?hostName?>。"
+	},
+	{
+		"id": 2601210,
+		"eng": "Invading another world.\nDefeat <?hostName?>, Host of Fingers!",
+		"chn": "已入侵其他世界。\n请打倒勾指主人<?hostName?>。"
+	},
+	{
+		"id": 2601304,
+		"eng": "Summoned to the world of <?hostName?>,\nHost of Fingers, as a hunter.\nHelp them defeat Bloody Finger <?joinName?>!",
+		"chn": "作为猎人，\n受召唤至勾指主人<?hostName?>的世界。\n请打倒血指<?joinName?>。"
+	},
+	{
+		"id": 2601409,
+		"eng": "Summoned to another world.",
+		"chn": "已接受其他世界的召唤。"
+	},
+	{
+		"id": 2601410,
+		"eng": "Invading another world.\nDefeat <?hostName?>!",
+		"chn": "已入侵其他世界。\n请打倒<?hostName?>。"
+	},
+	{
+		"id": 2601411,
+		"eng": "Invading another world.\nDefeat <?hostName?>!",
+		"chn": "已入侵其他世界。\n请打倒<?hostName?>。"
+	},
+	{
+		"id": 2601412,
+		"eng": "Invading another world.\nDefeat White Mask Varré!",
+		"chn": "已入侵其他世界。\n请打倒“白面具”梵雷。"
+	},
+	{
+		"id": 2601413,
+		"eng": "Invading another world.\nDefeat Old Knight Istvan!",
+		"chn": "已入侵其他世界。\n请打倒“古老骑士”伊修托邦。"
+	},
+	{
+		"id": 2601414,
+		"eng": "Invading another world.\nDefeat Rileigh the Idle!",
+		"chn": "已入侵其他世界。\n请打倒“黄昏将尽”莱利。"
+	},
+	{
+		"id": 2601415,
+		"eng": "Invading another world.\nDefeat Juno Hoslow, Knight of Blood!",
+		"chn": "已入侵其他世界。\n请打倒“血言骑士”尤诺·霍斯劳。"
+	},
+	{
+		"id": 2601416,
+		"eng": "Invading another world.\nDefeat Vargram the Raging Wolf and Errant Sorcerer Wilhelm!",
+		"chn": "已入侵其他世界。\n请打倒“白狼战鬼”巴格莱姆一行人。"
+	},
+	{
+		"id": 2601417,
+		"eng": "Invading another world.\nDefeat Great Horned Tragoth!",
+		"chn": "已入侵其他世界。\n请打倒“大角”忒拉格斯。"
+	},
+	{
+		"id": 2601418,
+		"eng": "Summoned to another world.\nDefeat Bloody Finger Ravenmount Assassin!",
+		"chn": "已接受其他世界的召唤。\n请打倒“血指”鸦山的杀手。"
+	},
+	{
+		"id": 2601419,
+		"eng": "Summoned to another world.\nDefeat Sorceress Sellen!",
+		"chn": "已接受其他世界的召唤。\n请打倒 魔法师瑟濂。"
+	},
+	{
+		"id": 2601420,
+		"eng": "Summoned to another world.\nDefeat Witch-Hunter Jerren!",
+		"chn": "已接受其他世界的召唤。\n请打倒“魔女猎人”杰廉。"
+	},
+	{
+		"id": 2601421,
+		"eng": "Summoned to another world.\nDefeat Millicent's sisters!",
+		"chn": "已接受其他世界的召唤。\n请打倒 米莉森的姊妹。"
+	},
+	{
+		"id": 2601422,
+		"eng": "Summoned to another world.\nDefeat Millicent!",
+		"chn": "已接受其他世界的召唤。\n请打倒 米莉森。"
+	},
+	{
+		"id": 2601423,
+		"eng": "You have been ambushed!\nDefeat Ensha of the Royal Remains!",
+		"chn": "受到袭击了！\n请打倒“王骸”恩夏。"
+	},
+	{
+		"id": 2602000,
+		"eng": "Furled Finger <?joinName?> summoned as a cooperator",
+		"chn": "已召唤协助者，勾指<?joinName?>。"
+	},
+	{
+		"id": 2602010,
+		"eng": "<?joinName?> summoned as a cooperator",
+		"chn": "已召唤协助者<?joinName?>。"
+	},
+	{
+		"id": 2602100,
+		"eng": "Duelist <?joinName?> summoned as an adversary",
+		"chn": "已召唤敌对者，斗士<?joinName?>。"
+	},
+	{
+		"id": 2602200,
+		"eng": "Invaded by Bloody Finger <?joinName?>!",
+		"chn": "被血指<?joinName?>入侵了！"
+	},
+	{
+		"id": 2602210,
+		"eng": "Invaded by Recusant <?joinName?>!",
+		"chn": "被叛律者<?joinName?>入侵了！"
+	},
+	{
+		"id": 2602220,
+		"eng": "Invaded by <?joinName?>!",
+		"chn": "被<?joinName?>入侵了！"
+	},
+	{
+		"id": 2602230,
+		"eng": "Invaded by <?joinName?>!",
+		"chn": "被<?joinName?>入侵了！"
+	},
+	{
+		"id": 2602240,
+		"eng": "Invaded by <?joinName?>!",
+		"chn": "被<?joinName?>入侵了！"
+	},
+	{
+		"id": 2602250,
+		"eng": "Bloody Finger <?joinName?> has invaded",
+		"chn": "血指<?joinName?>已入侵。"
+	},
+	{
+		"id": 2602260,
+		"eng": "Recusant <?joinName?> has invaded",
+		"chn": "叛律者<?joinName?>已入侵。"
+	},
+	{
+		"id": 2602270,
+		"eng": "<?joinName?> has invaded",
+		"chn": "<?joinName?>已入侵。"
+	},
+	{
+		"id": 2602280,
+		"eng": "<?joinName?> has invaded",
+		"chn": "<?joinName?>已入侵。"
+	},
+	{
+		"id": 2602290,
+		"eng": "<?joinName?> has invaded",
+		"chn": "<?joinName?>已入侵。"
+	},
+	{
+		"id": 2602304,
+		"eng": "Hunter <?joinName?> summoned",
+		"chn": "已召唤猎人<?joinName?>。"
+	},
+	{
+		"id": 2602354,
+		"eng": "Hunter <?joinName?> summoned",
+		"chn": "已召唤猎人<?joinName?>。"
+	},
+	{
+		"id": 2610304,
+		"eng": "With their objective accomplished,\nHunter <?leaveName?> returned to their world",
+		"chn": "猎人<?leaveName?>达成目标，\n已返回原本的世界。"
+	},
+	{
+		"id": 2611000,
+		"eng": "Objective accomplished.\nReturning to your world.",
+		"chn": "已达成目标，将返回原本的世界。"
+	},
+	{
+		"id": 2611010,
+		"eng": "The Host of Fingers accomplished their objective in a distant location.\nReturning to your world.",
+		"chn": "勾指主人已在远方达成目标。\n将返回原本的世界。"
+	},
+	{
+		"id": 2611100,
+		"eng": "Host of Fingers defeated.\nReturning to your world.",
+		"chn": "已打倒勾指主人，将返回原本的世界。"
+	},
+	{
+		"id": 2611200,
+		"eng": "Host of Fingers defeated.\nReturning to your world.",
+		"chn": "已打倒勾指主人，将返回原本的世界。"
+	},
+	{
+		"id": 2611210,
+		"eng": "Host of Fingers defeated.\nReturning to your world.",
+		"chn": "已打倒勾指主人，将返回原本的世界。"
+	},
+	{
+		"id": 2611304,
+		"eng": "Invader defeated.\nReturning to your world.",
+		"chn": "已打倒入侵者，将返回原本的世界。"
+	},
+	{
+		"id": 2611409,
+		"eng": "Objective accomplished.\nReturning to your world.",
+		"chn": "已达成目标，将返回原本的世界。"
+	},
+	{
+		"id": 2611410,
+		"eng": "Objective accomplished.\nReturning to your world.",
+		"chn": "已达成目标，将返回原本的世界。"
+	},
+	{
+		"id": 2611411,
+		"eng": "Objective accomplished.\nReturning to your world.",
+		"chn": "已达成目标，将返回原本的世界。"
+	},
+	{
+		"id": 2611412,
+		"eng": "White Mask Varré defeated.\nReturning to your world.",
+		"chn": "已打倒“白面具”梵雷，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611413,
+		"eng": "Old Knight Istvan defeated.\nReturning to your world.",
+		"chn": "已打倒“古老骑士”伊修托邦，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611414,
+		"eng": "Rileigh the Idle defeated.\nReturning to your world.",
+		"chn": "已打倒“黄昏将尽”莱利，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611415,
+		"eng": "Juno Hoslow, Knight of Blood defeated.\nReturning to your world.",
+		"chn": "已打倒“血言骑士”尤诺·霍斯劳，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611416,
+		"eng": "Vargram the Raging Wolf and Errant Sorcerer Wilhelm defeated.\nReturning to your world.",
+		"chn": "已打倒“白狼战鬼”巴格莱姆一行人，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611417,
+		"eng": "Great Horned Tragoth defeated.\nReturning to your world.",
+		"chn": "已打倒“大角”忒拉格斯，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611418,
+		"eng": "Bloody Finger Ravenmount Assassin defeated.\nReturning to your world.",
+		"chn": "已打倒“血指”鸦山的杀手，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611419,
+		"eng": "Sorceress Sellen defeated.\nReturning to your world.",
+		"chn": "已打倒 魔法师瑟濂，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611420,
+		"eng": "Witch-Hunter Jerren defeated.\nReturning to your world.",
+		"chn": "已打倒“魔女猎人”杰廉，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611421,
+		"eng": "Millicent's sisters defeated.\nReturning to your world.",
+		"chn": "已打倒 米莉森的姊妹，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611422,
+		"eng": "Millicent defeated.\nReturning to your world.",
+		"chn": "已打倒 米莉森，\n将返回原本的世界。"
+	},
+	{
+		"id": 2611423,
+		"eng": "Defeated Ensha of the Royal Remains.",
+		"chn": "已打倒“王骸”恩夏。"
+	},
+	{
+		"id": 2612304,
+		"eng": "With their objective accomplished,\nHunter <?leaveName?> returned to their world",
+		"chn": "猎人<?leaveName?>达成目标，\n已返回原本的世界。"
+	},
+	{
+		"id": 2620000,
+		"eng": "Furled Finger <?deadName?> has died",
+		"chn": "勾指<?deadName?>已死亡。"
+	},
+	{
+		"id": 2620010,
+		"eng": "<?deadName?> has died",
+		"chn": "<?deadName?>已死亡。"
+	},
+	{
+		"id": 2620100,
+		"eng": "Duelist <?deadName?> has died",
+		"chn": "斗士<?deadName?>已死亡。"
+	},
+	{
+		"id": 2620200,
+		"eng": "Bloody Finger <?deadName?> has died",
+		"chn": "血指<?deadName?>已死亡。"
+	},
+	{
+		"id": 2620210,
+		"eng": "Recusant <?deadName?> has died",
+		"chn": "叛律者<?deadName?>已死亡。"
+	},
+	{
+		"id": 2620220,
+		"eng": "<?deadName?> has died",
+		"chn": "<?deadName?>已死亡。"
+	},
+	{
+		"id": 2620230,
+		"eng": "<?deadName?> has died",
+		"chn": "<?deadName?>已死亡。"
+	},
+	{
+		"id": 2620240,
+		"eng": "<?deadName?> has died",
+		"chn": "<?deadName?>已死亡。"
+	},
+	{
+		"id": 2620304,
+		"eng": "Hunter <?deadName?> has died",
+		"chn": "猎人<?deadName?>已死亡。"
+	},
+	{
+		"id": 2621000,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621100,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621200,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621210,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621304,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621409,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621410,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621411,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621412,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621413,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621414,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621415,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621416,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621417,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621418,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621419,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621420,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621421,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621422,
+		"eng": "You died. Returning to your world.",
+		"chn": "您已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2621423,
+		"eng": "You died",
+		"chn": "您已死亡。"
+	},
+	{
+		"id": 2622000,
+		"eng": "Furled Finger <?deadName?> has died",
+		"chn": "勾指<?deadName?>已死亡。"
+	},
+	{
+		"id": 2622010,
+		"eng": "<?deadName?> has died",
+		"chn": "<?deadName?>已死亡。"
+	},
+	{
+		"id": 2622100,
+		"eng": "Duelist <?deadName?> has died",
+		"chn": "斗士<?deadName?>已死亡。"
+	},
+	{
+		"id": 2622200,
+		"eng": "Bloody Finger <?deadName?> has died",
+		"chn": "血指<?deadName?>已死亡。"
+	},
+	{
+		"id": 2622210,
+		"eng": "Recusant <?deadName?> has died",
+		"chn": "叛律者<?deadName?>已死亡。"
+	},
+	{
+		"id": 2622220,
+		"eng": "<?deadName?> has died",
+		"chn": "<?deadName?>已死亡。"
+	},
+	{
+		"id": 2622230,
+		"eng": "<?deadName?> has died",
+		"chn": "<?deadName?>已死亡。"
+	},
+	{
+		"id": 2622240,
+		"eng": "<?deadName?> has died",
+		"chn": "<?deadName?>已死亡。"
+	},
+	{
+		"id": 2622304,
+		"eng": "Hunter <?deadName?> has died",
+		"chn": "猎人<?deadName?>已死亡。"
+	},
+	{
+		"id": 2630000,
+		"eng": "Furled Finger <?leaveName?> has returned to their world",
+		"chn": "勾指<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2630010,
+		"eng": "<?leaveName?> has returned to their world",
+		"chn": "<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2630100,
+		"eng": "Duelist <?leaveName?> has returned to their world",
+		"chn": "斗士<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2630200,
+		"eng": "Bloody Finger <?leaveName?> has returned to their world",
+		"chn": "血指<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2630210,
+		"eng": "Recusant <?leaveName?> has returned to their world",
+		"chn": "叛律者<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2630220,
+		"eng": "<?leaveName?> has returned to their world",
+		"chn": "<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2630230,
+		"eng": "<?leaveName?> has returned to their world",
+		"chn": "<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2630240,
+		"eng": "<?leaveName?> has returned to their world",
+		"chn": "<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2630304,
+		"eng": "Hunter <?leaveName?> has returned to their world",
+		"chn": "猎人<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2631000,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631100,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631200,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631210,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631304,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631409,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631410,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631411,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631412,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631413,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631414,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631415,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631416,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631417,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631418,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631419,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631420,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631421,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2631422,
+		"eng": "Returning to your world",
+		"chn": "将返回原本的世界。"
+	},
+	{
+		"id": 2632000,
+		"eng": "Furled Finger <?leaveName?> has returned to their world",
+		"chn": "勾指<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2632010,
+		"eng": "<?leaveName?> has returned to their world",
+		"chn": "<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2632100,
+		"eng": "Duelist <?leaveName?> has returned to their world",
+		"chn": "斗士<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2632200,
+		"eng": "Bloody Finger <?leaveName?> has returned to their world",
+		"chn": "血指<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2632210,
+		"eng": "Recusant <?leaveName?> has returned to their world",
+		"chn": "叛律者<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2632220,
+		"eng": "<?leaveName?> has returned to their world",
+		"chn": "<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2632230,
+		"eng": "<?leaveName?> has returned to their world",
+		"chn": "<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2632240,
+		"eng": "<?leaveName?> has returned to their world",
+		"chn": "<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2632304,
+		"eng": "Hunter <?leaveName?> has returned to their world",
+		"chn": "猎人<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2640000,
+		"eng": "Furled Finger <?leaveName?> was sent back to their world",
+		"chn": "已将勾指<?leaveName?>遣返至原本的世界。"
+	},
+	{
+		"id": 2640010,
+		"eng": "<?leaveName?> was sent back to their world",
+		"chn": "已将<?leaveName?>遣返至原本的世界。"
+	},
+	{
+		"id": 2640304,
+		"eng": "Hunter <?leaveName?> was sent back to their world",
+		"chn": "已将猎人<?leaveName?>遣返至原本的世界。"
+	},
+	{
+		"id": 2640305,
+		"eng": "Duelist <?leaveName?> was sent back to their world",
+		"chn": "已将斗士<?leaveName?>遣返至原本的世界。"
+	},
+	{
+		"id": 2641000,
+		"eng": "Sent home by the Host of Fingers.\nReturning to your world.",
+		"chn": "受勾指主人遣返，将返回原本的世界。"
+	},
+	{
+		"id": 2641304,
+		"eng": "Sent home by the Host of Fingers.\nReturning to your world.",
+		"chn": "受勾指主人遣返，将返回原本的世界。"
+	},
+	{
+		"id": 2641305,
+		"eng": "Sent home by the Host of Fingers.\nReturning to your world.",
+		"chn": "受勾指主人遣返，将返回原本的世界。"
+	},
+	{
+		"id": 2642000,
+		"eng": "Furled Finger <?leaveName?> has been sent back to their world",
+		"chn": "勾指<?leaveName?>已被遣返至原本的世界。"
+	},
+	{
+		"id": 2642010,
+		"eng": "<?leaveName?> has been sent back to their world",
+		"chn": "<?leaveName?>已被遣返至原本的世界。"
+	},
+	{
+		"id": 2642304,
+		"eng": "Hunter <?leaveName?> has been sent back to their world",
+		"chn": "猎人<?leaveName?>已被遣返至原本的世界。"
+	},
+	{
+		"id": 2642305,
+		"eng": "Duelist <?leaveName?> has been sent back to their world",
+		"chn": "斗士<?leaveName?>已被遣返至原本的世界。"
+	},
+	{
+		"id": 2651000,
+		"eng": "The Host of Fingers has died.\nReturning to your world.",
+		"chn": "勾指主人已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2651304,
+		"eng": "The Host of Fingers has died.\nReturning to your world.",
+		"chn": "勾指主人已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2651420,
+		"eng": "Sorceress Sellen has died.\nReturning to your world.",
+		"chn": "魔法师瑟濂 已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2651421,
+		"eng": "Millicent has died.\nReturning to your world.",
+		"chn": "米莉森 已死亡，将返回原本的世界。"
+	},
+	{
+		"id": 2661000,
+		"eng": "You may now challenge the area boss",
+		"chn": "已能挑战区域头目。"
+	},
+	{
+		"id": 2661100,
+		"eng": "The Host of Fingers has begun fighting the area boss.\nReturning to your world.",
+		"chn": "勾指主人已和区域头目展开战斗，\n将返回原本的世界。"
+	},
+	{
+		"id": 2661200,
+		"eng": "The Host of Fingers has begun fighting the area boss.\nReturning to your world.",
+		"chn": "勾指主人已和区域头目展开战斗，\n将返回原本的世界。"
+	},
+	{
+		"id": 2661205,
+		"eng": "The Host of Fingers has begun fighting the area boss.\nReturning to your world.",
+		"chn": "勾指主人已和区域头目展开战斗，\n将返回原本的世界。"
+	},
+	{
+		"id": 2661210,
+		"eng": "The Host of Fingers has accomplished their objective.\nReturning to your world.",
+		"chn": "勾指主人已达成目标。\n将返回原本的世界。"
+	},
+	{
+		"id": 2661220,
+		"eng": "The Host of Fingers has accomplished their objective.\nReturning to your world.",
+		"chn": "勾指主人已达成目标。\n将返回原本的世界。"
+	},
+	{
+		"id": 2661225,
+		"eng": "The Host of Fingers has accomplished their objective.\nReturning to your world.",
+		"chn": "勾指主人已达成目标。\n将返回原本的世界。"
+	},
+	{
+		"id": 2661304,
+		"eng": "The Host of Fingers has begun fighting the area boss.\nReturning to your world.",
+		"chn": "勾指主人已和区域头目展开战斗，\n将返回原本的世界。"
+	},
+	{
+		"id": 2670304,
+		"eng": "Hunter <?leaveName?> has returned to their world",
+		"chn": "猎人<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2672304,
+		"eng": "Hunter <?leaveName?> has returned to their world",
+		"chn": "猎人<?leaveName?>已返回原本的世界。"
+	},
+	{
+		"id": 2681100,
+		"eng": "The Host of Fingers has left the area. Returning to your world.",
+		"chn": "勾指主人已经离开此区域，将返回原本的世界。"
+	},
+	{
+		"id": 2701000,
+		"eng": "A connection error occurred.\nReturning to your world.",
+		"chn": "发生联机问题，将返回原本的世界。"
+	},
+	{
+		"id": 2701100,
+		"eng": "A connection error occurred.\nReturning to your world.",
+		"chn": "发生联机问题，将返回原本的世界。"
+	},
+	{
+		"id": 2701200,
+		"eng": "A connection error occurred.\nReturning to your world.",
+		"chn": "发生联机问题，将返回原本的世界。"
+	},
+	{
+		"id": 2701210,
+		"eng": "A connection error occurred.\nReturning to your world.",
+		"chn": "发生联机问题，将返回原本的世界。"
+	},
+	{
+		"id": 2701304,
+		"eng": "A connection error occurred.\nReturning to your world.",
+		"chn": "发生联机问题，将返回原本的世界。"
+	},
+	{
+		"id": 2712200,
+		"eng": "Bloody Finger <?deadName?> defeated.\nObjective accomplished. Returning to your world.",
+		"chn": "已打倒血指<?deadName?>。\n目标达成，将返回原本的世界。"
+	},
+	{
+		"id": 2712210,
+		"eng": "Recusant <?deadName?> defeated.\nObjective accomplished. Returning to your world.",
+		"chn": "已打倒叛律者<?deadName?>。\n目标达成，将返回原本的世界。"
+	},
+	{
+		"id": 2712220,
+		"eng": "Defeated <?deadName?>.\nObjective accomplished. Returning to your world.",
+		"chn": "已打倒<?deadName?>。\n目标达成，将返回原本的世界。"
+	},
+	{
+		"id": 2712230,
+		"eng": "Defeated <?deadName?>.\nObjective accomplished. Returning to your world.",
+		"chn": "已打倒<?deadName?>。\n目标达成，将返回原本的世界。"
+	},
+	{
+		"id": 2712240,
+		"eng": "Defeated <?deadName?>.\nObjective accomplished. Returning to your world.",
+		"chn": "已打倒<?deadName?>。\n目标达成，将返回原本的世界。"
+	},
+	{
+		"id": 2722200,
+		"eng": "Bloody Finger <?leaveName?> has returned to their world.\nObjective accomplished. Returning to your world.",
+		"chn": "血指<?leaveName?>已返回原本的世界。\n将返回原本的世界。"
+	},
+	{
+		"id": 2722210,
+		"eng": "Recusant <?leaveName?> has returned to their world.\nObjective accomplished. Returning to your world.",
+		"chn": "叛律者<?leaveName?>已返回原本的世界。\n将返回原本的世界。"
+	},
+	{
+		"id": 2722220,
+		"eng": "<?leaveName?> has returned to their world.\nReturning to your world.",
+		"chn": "<?leaveName?>已返回原本的世界。\n将返回原本的世界。"
+	},
+	{
+		"id": 2722230,
+		"eng": "<?leaveName?> has returned to their world.\nReturning to your world.",
+		"chn": "<?leaveName?>已返回原本的世界。\n将返回原本的世界。"
+	},
+	{
+		"id": 2722240,
+		"eng": "<?leaveName?> has returned to their world.\nReturning to your world.",
+		"chn": "<?leaveName?>已返回原本的世界。\n将返回原本的世界。"
+	},
+	{
+		"id": 2741000,
+		"eng": "The Host of Fingers has left the area. Returning to your world.",
+		"chn": "勾指主人已经离开此区域，将返回原本的世界。"
+	},
+	{
+		"id": 2741100,
+		"eng": "The Host of Fingers has left the area. Returning to your world.",
+		"chn": "勾指主人已经离开此区域，将返回原本的世界。"
+	},
+	{
+		"id": 2741200,
+		"eng": "The Host of Fingers has left the area. Returning to your world.",
+		"chn": "勾指主人已经离开此区域，将返回原本的世界。"
+	},
+	{
+		"id": 2741210,
+		"eng": "The Host of Fingers has left the area. Returning to your world.",
+		"chn": "勾指主人已经离开此区域，将返回原本的世界。"
+	},
+	{
+		"id": 2741304,
+		"eng": "The Host of Fingers has left the area. Returning to your world.",
+		"chn": "勾指主人已经离开此区域，将返回原本的世界。"
+	},
+	{
+		"id": 2920000,
+		"eng": "You are beyond the boundaries of the\nmultiplayer area. Returning inside.",
+		"chn": "已离开多人联机游玩的活动范围，\n将自动移往范围之内。"
+	},
+	{
+		"id": 3000000,
+		"eng": "Message was appraised",
+		"chn": "您写下的讯息收到好评。"
+	},
+	{
+		"id": 3000001,
+		"eng": "Failed to create message due to network error",
+		"chn": "互联网联机错误，讯息建立失败。"
+	},
+	{
+		"id": 3000100,
+		"eng": "This summoning pool is now functional",
+		"chn": "已可使用此记号聚集处。"
+	},
+	{
+		"id": 3000200,
+		"eng": "<?codenameIcon?><?codenamePCName?> defeated the shardbearer!",
+		"chn": "<?codenameIcon?><?codenamePCName?>打倒碎片君王了！"
+	},
+	{
+		"id": 3000201,
+		"eng": "Someone in the <?codenameIcon?> group\ndefeated the shardbearer!",
+		"chn": "<?codenameIcon?>的群组中，有人打倒碎片君王了！"
+	},
+	{
+		"id": 3000202,
+		"eng": "Someone in your group has accomplished something remarkable!",
+		"chn": "群组之中，有人成就了丰功伟业。"
+	},
+	{
+		"id": 3000210,
+		"eng": "<?codenameIcon?><?codenamePCName?> has become the Elden Lord",
+		"chn": "<?codenameIcon?><?codenamePCName?>当上了艾尔登之王。"
+	},
+	{
+		"id": 3000211,
+		"eng": "Someone in the <?codenameIcon?> group has become the Elden Lord",
+		"chn": "<?codenameIcon?>的群组中，有人当上了艾尔登之王。"
+	},
+	{
+		"id": 3000220,
+		"eng": "<?codenameIcon?><?codenamePCName?> has become the Elden Lord",
+		"chn": "<?codenameIcon?><?codenamePCName?>当上了艾尔登之王。"
+	},
+	{
+		"id": 3000221,
+		"eng": "Someone in the <?codenameIcon?> group has become the Elden Lord",
+		"chn": "<?codenameIcon?>的群组中，有人当上了艾尔登之王。"
+	},
+	{
+		"id": 3000230,
+		"eng": "<?codenameIcon?><?codenamePCName?> has become the Elden Lord",
+		"chn": "<?codenameIcon?><?codenamePCName?>当上了艾尔登之王。"
+	},
+	{
+		"id": 3000231,
+		"eng": "Someone in the <?codenameIcon?> group has become the Elden Lord",
+		"chn": "<?codenameIcon?>的群组中，有人当上了艾尔登之王。"
+	},
+	{
+		"id": 3000240,
+		"eng": "<?codenameIcon?><?codenamePCName?> has become the Elden Lord",
+		"chn": "<?codenameIcon?><?codenamePCName?>当上了艾尔登之王。"
+	},
+	{
+		"id": 3000241,
+		"eng": "Someone in the <?codenameIcon?> group has become the Elden Lord",
+		"chn": "<?codenameIcon?>的群组中，有人当上了艾尔登之王。"
+	},
+	{
+		"id": 3000250,
+		"eng": "<?codenameIcon?><?codenamePCName?> has become a Lord",
+		"chn": "<?codenameIcon?><?codenamePCName?>当上了王。"
+	},
+	{
+		"id": 3000251,
+		"eng": "Someone in the <?codenameIcon?> group has become a Lord",
+		"chn": "<?codenameIcon?>的群组中，有人当上了王。"
+	},
+	{
+		"id": 3000260,
+		"eng": "<?codenameIcon?><?codenamePCName?> has become a Lord",
+		"chn": "<?codenameIcon?><?codenamePCName?>当上了王。"
+	},
+	{
+		"id": 3000261,
+		"eng": "Someone in the <?codenameIcon?> group has become a Lord",
+		"chn": "<?codenameIcon?>的群组中，有人当上了王。"
+	},
+	{
+		"id": 3000270,
+		"eng": "<?codenameIcon?><?codenamePCName?> has become a Lord",
+		"chn": "<?codenameIcon?><?codenamePCName?>当上了王。"
+	},
+	{
+		"id": 3000271,
+		"eng": "Someone in the <?codenameIcon?> group has become a Lord",
+		"chn": "<?codenameIcon?>的群组中，有人当上了王。"
+	},
+	{
+		"id": 3000280,
+		"eng": "<?codenameIcon?><?codenamePCName?> has become a Lord",
+		"chn": "<?codenameIcon?><?codenamePCName?>当上了王。"
+	},
+	{
+		"id": 3000281,
+		"eng": "Someone in the <?codenameIcon?> group has become a Lord",
+		"chn": "<?codenameIcon?>的群组中，有人当上了王。"
+	}
+]

@@ -1,0 +1,307 @@
+[
+	{
+		"id": 201010,
+		"eng": "Using Items",
+		"chn": "使用道具"
+	},
+	{
+		"id": 201100,
+		"eng": "Wielding Armaments",
+		"chn": "切换武器"
+	},
+	{
+		"id": 301020,
+		"eng": "Sites of Grace",
+		"chn": "赐福"
+	},
+	{
+		"id": 301060,
+		"eng": "Sorceries and Incantations",
+		"chn": "魔法与祷告"
+	},
+	{
+		"id": 301130,
+		"eng": "Bows",
+		"chn": "弓"
+	},
+	{
+		"id": 301140,
+		"eng": "Crouching",
+		"chn": "蹲下"
+	},
+	{
+		"id": 301160,
+		"eng": "Stance-Breaking",
+		"chn": "失去平衡"
+	},
+	{
+		"id": 301500,
+		"eng": "The Map",
+		"chn": "地图"
+	},
+	{
+		"id": 301510,
+		"eng": "Guidance of Grace",
+		"chn": "赐福的指引"
+	},
+	{
+		"id": 301520,
+		"eng": "Horseback Riding",
+		"chn": "骑马"
+	},
+	{
+		"id": 301530,
+		"eng": "Death",
+		"chn": "死亡"
+	},
+	{
+		"id": 301540,
+		"eng": "Stakes of Marika",
+		"chn": "玛莉卡楔石"
+	},
+	{
+		"id": 301550,
+		"eng": "Summoning Spirits",
+		"chn": "召唤灵魂"
+	},
+	{
+		"id": 301560,
+		"eng": "Materials",
+		"chn": "材料道具"
+	},
+	{
+		"id": 301570,
+		"eng": "Item Crafting",
+		"chn": "制作道具"
+	},
+	{
+		"id": 301580,
+		"eng": "Containers",
+		"chn": "容器道具"
+	},
+	{
+		"id": 301590,
+		"eng": "Flask of Wondrous Physick",
+		"chn": "灵药圣杯瓶"
+	},
+	{
+		"id": 301600,
+		"eng": "Adding Skills",
+		"chn": "赋予战技"
+	},
+	{
+		"id": 301610,
+		"eng": "Birdseye Telescopes",
+		"chn": "鸟瞰镜"
+	},
+	{
+		"id": 301620,
+		"eng": "Spiritspring Jumping",
+		"chn": "灵魂气流跳跃"
+	},
+	{
+		"id": 301630,
+		"eng": "Vanquishing Enemy Groups",
+		"chn": "打败敌对团体"
+	},
+	{
+		"id": 301640,
+		"eng": "Teardrop Scarabs",
+		"chn": "露滴粪金龟"
+	},
+	{
+		"id": 301650,
+		"eng": "Summoning Other Players",
+		"chn": "召唤其他玩家"
+	},
+	{
+		"id": 301660,
+		"eng": "Cooperative Multiplayer",
+		"chn": "协力多人联机游玩"
+	},
+	{
+		"id": 301670,
+		"eng": "Competitive Multiplayer",
+		"chn": "敌对多人联机游玩"
+	},
+	{
+		"id": 301680,
+		"eng": "Invasion Multiplayer",
+		"chn": "入侵多人联机游玩"
+	},
+	{
+		"id": 301690,
+		"eng": "Summoning Pools",
+		"chn": "记号聚集处"
+	},
+	{
+		"id": 302000,
+		"eng": "Adding Affinities",
+		"chn": "赋予属性"
+	},
+	{
+		"id": 302380,
+		"eng": "Hunter Multiplayer",
+		"chn": "猎人多人联机游玩"
+	},
+	{
+		"id": 302390,
+		"eng": "Monument Icon",
+		"chn": "碑文图案"
+	},
+	{
+		"id": 302400,
+		"eng": "Guard Counters",
+		"chn": "防御反击"
+	},
+	{
+		"id": 302410,
+		"eng": "Guarding",
+		"chn": "防御"
+	},
+	{
+		"id": 302420,
+		"eng": "Requesting Aid from a Hunter",
+		"chn": "召唤猎人"
+	},
+	{
+		"id": 302430,
+		"eng": "Skills",
+		"chn": "战技"
+	},
+	{
+		"id": 302440,
+		"eng": "Fast Travel to Sites of Grace",
+		"chn": "传送至赐福"
+	},
+	{
+		"id": 302450,
+		"eng": "Strengthening Armaments",
+		"chn": "强化武器"
+	},
+	{
+		"id": 302460,
+		"eng": "Roundtable Hold",
+		"chn": "圆桌厅堂"
+	},
+	{
+		"id": 302480,
+		"eng": "Pouches",
+		"chn": "随身包包"
+	},
+	{
+		"id": 302490,
+		"eng": "Dodging",
+		"chn": "闪避"
+	},
+	{
+		"id": 302500,
+		"eng": "Great Runes",
+		"chn": "大卢恩"
+	},
+	{
+		"id": 309000,
+		"eng": "Multiplayer",
+		"chn": "多人联机游玩"
+	},
+	{
+		"id": 402000,
+		"eng": "Equipment Menu",
+		"chn": "装备选单"
+	},
+	{
+		"id": 402010,
+		"eng": "Item Crafting Menu",
+		"chn": "制作道具选单"
+	},
+	{
+		"id": 402020,
+		"eng": "Inventory Menu",
+		"chn": "置物包选单"
+	},
+	{
+		"id": 402030,
+		"eng": "Status Menu",
+		"chn": "状态选单"
+	},
+	{
+		"id": 402040,
+		"eng": "Message Menu",
+		"chn": "讯息选单"
+	},
+	{
+		"id": 402050,
+		"eng": "Multiplayer Menu",
+		"chn": "多人联机游玩选单"
+	},
+	{
+		"id": 402100,
+		"eng": "Map Menu",
+		"chn": "地图选单"
+	},
+	{
+		"id": 402200,
+		"eng": "Level Up Menu",
+		"chn": "升级选单"
+	},
+	{
+		"id": 402230,
+		"eng": "Allocating Flask Uses",
+		"chn": "分配使用次数"
+	},
+	{
+		"id": 402240,
+		"eng": "Memorize Spells Menu",
+		"chn": "记忆选单"
+	},
+	{
+		"id": 402250,
+		"eng": "Sorting the Chest",
+		"chn": "整理木箱"
+	},
+	{
+		"id": 402300,
+		"eng": "Shop Menu",
+		"chn": "交易选单"
+	},
+	{
+		"id": 402320,
+		"eng": "Ashes of War Menu",
+		"chn": "战灰选单"
+	},
+	{
+		"id": 402330,
+		"eng": "Spirit Tuning Menu",
+		"chn": "调灵选单"
+	},
+	{
+		"id": 402350,
+		"eng": "Great Rune Menu",
+		"chn": "大卢恩选单"
+	},
+	{
+		"id": 402360,
+		"eng": "Mixing Physicks",
+		"chn": "调配灵药"
+	},
+	{
+		"id": 402370,
+		"eng": "Rebirth Menu",
+		"chn": "重新诞生选单"
+	},
+	{
+		"id": 402380,
+		"eng": "Power of Remembrance Menu",
+		"chn": "追忆力量选单"
+	},
+	{
+		"id": 402390,
+		"eng": "Smithing Menu",
+		"chn": "锻造台选单"
+	},
+	{
+		"id": 402400,
+		"eng": "Remembrance Duplication Menu",
+		"chn": "复制追忆选单"
+	}
+]

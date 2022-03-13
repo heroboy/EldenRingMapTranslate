@@ -1,0 +1,982 @@
+[
+	{
+		"id": 1,
+		"eng": "OK",
+		"chn": "确定"
+	},
+	{
+		"id": 2,
+		"eng": "CANCEL",
+		"chn": "取消"
+	},
+	{
+		"id": 3,
+		"eng": "YES",
+		"chn": "是"
+	},
+	{
+		"id": 4,
+		"eng": "NO",
+		"chn": "否"
+	},
+	{
+		"id": 15,
+		"eng": "RETRY",
+		"chn": "重试"
+	},
+	{
+		"id": 16,
+		"eng": "CONTINUE",
+		"chn": "继续"
+	},
+	{
+		"id": 17,
+		"eng": "RETURN TO TITLE",
+		"chn": "返回标题画面"
+	},
+	{
+		"id": 40200,
+		"eng": "Insufficient runes",
+		"chn": "所需卢恩不足。"
+	},
+	{
+		"id": 40201,
+		"eng": "Additional items required",
+		"chn": "所需道具不足。"
+	},
+	{
+		"id": 40202,
+		"eng": "Insufficient items/runes",
+		"chn": "所需卢恩、道具不足。"
+	},
+	{
+		"id": 40300,
+		"eng": "Returning to default settings.\nIs that okay?",
+		"chn": "配置将恢复为默认，\n您确定吗？"
+	},
+	{
+		"id": 40500,
+		"eng": "Restoring all default settings.\nIs that okay?",
+		"chn": "所有配置将恢复为默认，\n您确定吗？"
+	},
+	{
+		"id": 102000,
+		"eng": "Leaving <?itemName?>.\nIs that okay?",
+		"chn": "将放置<?itemName?>，\n您确定吗？"
+	},
+	{
+		"id": 102001,
+		"eng": "Discarding <?itemName?>.\nIs that okay?",
+		"chn": "将丢弃<?itemName?>，\n您确定吗？"
+	},
+	{
+		"id": 102002,
+		"eng": "Leaving all selected items.\nIs that okay?",
+		"chn": "将放置所有选择的道具，\n您确定吗？"
+	},
+	{
+		"id": 102003,
+		"eng": "Discarding all selected items.\nIs that okay?",
+		"chn": "将丢弃所有选择的道具，\n您确定吗？"
+	},
+	{
+		"id": 102004,
+		"eng": "Only eight items can be left at once. If you leave any more items, the items you left earlier will be lost, starting with the oldest.\nIs that okay?",
+		"chn": "放置的道具已超过８个。\n从最先放置的道具开始，道具将依序消失。\n\n您确定吗？"
+	},
+	{
+		"id": 102005,
+		"eng": "Ashes of War are applied to <?itemName?>.\nIf this item is lost, its Ashes of War will be lost as well.\nIs that okay?",
+		"chn": "<?itemName?>已使用战灰。\n放置此道具，在它消失后也会失去战灰。\n\n您确定吗？"
+	},
+	{
+		"id": 102006,
+		"eng": "Ashes of War are applied to <?itemName?>.\nIf you discard this item, its Ashes of War will be lost.\nIs that okay?",
+		"chn": "<?itemName?>已使用战灰。\n丢弃此道具也会失去战灰。\n\n您确定吗？"
+	},
+	{
+		"id": 102007,
+		"eng": "Ashes of War are applied to an item you've selected.\nIf that item is lost, its Ashes of War will be lost as well.\nIs that okay?",
+		"chn": "所选择的道具中包含已使用战灰的道具。\n放置道具，在它消失后也会失去战灰。\n\n您确定吗？"
+	},
+	{
+		"id": 102008,
+		"eng": "Ashes of War are applied to an item you've selected.\nIf you discard that item, its Ashes of War will be lost.\nIs that okay?",
+		"chn": "所选择的道具中包含已使用战灰的道具。\n丢弃道具也会失去战灰。\n\n您确定吗？"
+	},
+	{
+		"id": 102010,
+		"eng": "This action will exceed maximum runes.\nRunes exceeding maximum will be lost.\nUse regardless?",
+		"chn": "将超过可持有卢恩的上限，\n使用后超过上限的卢恩将会消失。\n\n确定要使用吗？"
+	},
+	{
+		"id": 103000,
+		"eng": "Unable to use this item effectively with present attributes",
+		"chn": "必需能力值不足，\n无法发挥原有性能。"
+	},
+	{
+		"id": 103001,
+		"eng": "Unable to use this item effectively with present attributes,\nunless wielded with both hands",
+		"chn": "必需能力值不足。\n以双手共持，才能发挥原有性能。"
+	},
+	{
+		"id": 103005,
+		"eng": "Cannot summon this spirit at present level",
+		"chn": "必需等级不足，无法召唤此灵魂。"
+	},
+	{
+		"id": 103110,
+		"eng": "Cannot equip talisman as an incompatible talisman is currently equipped",
+		"chn": "此护符与其他装备中的护符冲突，\n因此无法装备。"
+	},
+	{
+		"id": 103130,
+		"eng": "Cannot change equipment at this time",
+		"chn": "目前不能更换装备。"
+	},
+	{
+		"id": 103140,
+		"eng": "Loss of memory slots will result in removal of any excess sorceries or incantations.\nIs that okay?",
+		"chn": "因为记忆空格减少，\n超过可记忆上限的魔法、祷告将被移除。\n\n您确定吗？"
+	},
+	{
+		"id": 103141,
+		"eng": "Sorceries and incantations exceeding the number of memory slots have been removed",
+		"chn": "超过可记忆上限的魔法、祷告，已被移除。"
+	},
+	{
+		"id": 104000,
+		"eng": "Multiplayer password history",
+		"chn": "多人联机游玩的暗号记录"
+	},
+	{
+		"id": 104001,
+		"eng": "Select password",
+		"chn": "请选择想要使用的暗号。"
+	},
+	{
+		"id": 104002,
+		"eng": "Group password history",
+		"chn": "群组暗号记录"
+	},
+	{
+		"id": 104003,
+		"eng": "Select password",
+		"chn": "请选择想要使用的暗号。"
+	},
+	{
+		"id": 104004,
+		"eng": "No multiplayer password history",
+		"chn": "没有多人联机游玩的暗号记录。"
+	},
+	{
+		"id": 104005,
+		"eng": "No group password history",
+		"chn": "没有群组暗号的记录。"
+	},
+	{
+		"id": 104010,
+		"eng": "Using a Finger Remedy will send summoned spirits home.\nIs that okay?",
+		"chn": "使用指药之后，会遣返召唤中的灵魂。\n\n您确定吗？"
+	},
+	{
+		"id": 104020,
+		"eng": "Using a Finger Remedy will retract your summon sign.\nIs that okay?",
+		"chn": "使用指药之后，会抹除召唤记号。\n\n您确定吗？"
+	},
+	{
+		"id": 110000,
+		"eng": "Save the game and return to title menu?",
+		"chn": "将保存游戏进度，返回标题画面。\n\n您确定吗？"
+	},
+	{
+		"id": 110316,
+		"eng": "Return to the title menu to change language settings",
+		"chn": "如果想要改变显示语言，\n请返回标题画面进行配置。"
+	},
+	{
+		"id": 111100,
+		"eng": "Settings have been changed.\nThis will revert to the previous setting in <?remainingSec?> seconds.\nKeep current settings?",
+		"chn": "配置已变更，\n将在<?remainingSec?>秒后恢复原本的配置。\n\n要套用目前的配置吗？"
+	},
+	{
+		"id": 111101,
+		"eng": "Keep current settings?",
+		"chn": "要套用目前的配置吗？"
+	},
+	{
+		"id": 111102,
+		"eng": "Some settings will only be applied after returning to title menu",
+		"chn": "部分配置必须在返回标题画面后才会套用。"
+	},
+	{
+		"id": 111103,
+		"eng": "This setting will be applied after restarting the game",
+		"chn": "此项目将在重新启动游戏后套用。"
+	},
+	{
+		"id": 111104,
+		"eng": "Settings have been changed.\nThis will revert to the previous setting in <?remainingSec?> seconds.\nKeep current settings?",
+		"chn": "配置已变更，\n将在<?remainingSec?>秒后恢复原本的配置。\n\n要套用目前的配置吗？"
+	},
+	{
+		"id": 111105,
+		"eng": "Some settings will only be applied after returning to title menu",
+		"chn": "部分配置必须在返回标题画面后才会套用。"
+	},
+	{
+		"id": 111106,
+		"eng": "HDR turned off",
+		"chn": "高动态范围成像（ＨＤＲ）已变更为关闭。"
+	},
+	{
+		"id": 111107,
+		"eng": "HDR turned on",
+		"chn": "高动态范围成像（ＨＤＲ）已变更为开启。"
+	},
+	{
+		"id": 111110,
+		"eng": "Some setting changes have not been applied.\nTo apply these changes, return to the title menu.",
+		"chn": "有部分变更的配置尚未套用。\n请返回标题画面，以套用配置。"
+	},
+	{
+		"id": 211001,
+		"eng": "Traveling to <?placeName?>.\nIs that okay?",
+		"chn": "将传送至<?placeName?>。\n您确定吗？"
+	},
+	{
+		"id": 211002,
+		"eng": "Cannot travel to a site of grace from this location",
+		"chn": "无法传送至此区域的赐福。"
+	},
+	{
+		"id": 211003,
+		"eng": "Cannot travel to a site of grace during multiplayer",
+		"chn": "多人联机游玩时，无法使用赐福传送。"
+	},
+	{
+		"id": 211004,
+		"eng": "You cannot travel to a site of grace now",
+		"chn": "无法使用赐福传送。"
+	},
+	{
+		"id": 211005,
+		"eng": "You have been trapped.\nYou cannot travel to sites of grace until you rest at one.",
+		"chn": "中了设下的陷阱。\n在赐福休息过后，才能使用赐福传送。"
+	},
+	{
+		"id": 211006,
+		"eng": "Cannot travel to a site of grace right now",
+		"chn": "现在无法使用赐福传送。"
+	},
+	{
+		"id": 211010,
+		"eng": "Cannot travel to a site of grace right now",
+		"chn": "现在无法使用赐福传送。"
+	},
+	{
+		"id": 211100,
+		"eng": "Removing all markers placed.\nIs that okay?",
+		"chn": "将移除所有放置的标记。\n您确定吗？"
+	},
+	{
+		"id": 211101,
+		"eng": "You have placed the maximum number of markers and cannot place any more",
+		"chn": "已超过可放置的标记数上限，\n无法再放置标记。"
+	},
+	{
+		"id": 211200,
+		"eng": "Cannot focus on your current location",
+		"chn": "无法执行“显示目前所在地”。"
+	},
+	{
+		"id": 211300,
+		"eng": "You have marked the maximum number of\nsites of grace and cannot mark any more",
+		"chn": "已超过可标记的上限，无法再标记赐福。"
+	},
+	{
+		"id": 211400,
+		"eng": "Removing the marker from this site of grace.\nIs that okay?",
+		"chn": "将移除这个赐福的标记。\n您确定吗？"
+	},
+	{
+		"id": 212000,
+		"eng": "Spend <?demandSoul?> runes and level up?",
+		"chn": "要花费<?demandSoul?>卢恩升级吗？"
+	},
+	{
+		"id": 212001,
+		"eng": "Canceling level up.\nIs that okay?",
+		"chn": "将中止升级。\n您确定吗？"
+	},
+	{
+		"id": 212002,
+		"eng": "Select at least one attribute to level up",
+		"chn": "请选择１个以上要成长的能力值。"
+	},
+	{
+		"id": 212010,
+		"eng": "Level at maximum.\nCannot raise level any further.",
+		"chn": "已达等级上限，无法再升级。"
+	},
+	{
+		"id": 212750,
+		"eng": "Undergo rebirth?",
+		"chn": "要重新诞生吗？"
+	},
+	{
+		"id": 212751,
+		"eng": "Canceling rebirth",
+		"chn": "停止重新诞生。"
+	},
+	{
+		"id": 212752,
+		"eng": "Reallocate attributes until you reach your original level",
+		"chn": "请将能力值成长至原有等级。"
+	},
+	{
+		"id": 212760,
+		"eng": "This will reduce your memory slots.\nLoss of memory slots will result in removal\nof any excess sorceries or incantations.\nUndergo rebirth?",
+		"chn": "因为记忆空格减少，\n超过可记忆上限的魔法、祷告将被移除。\n\n确定要重新诞生吗？"
+	},
+	{
+		"id": 212761,
+		"eng": "Sorceries/incantations exceeding the number of memory slots\nhave been removed",
+		"chn": "超过可记忆上限的魔法、祷告，已被移除。"
+	},
+	{
+		"id": 214000,
+		"eng": "Remove these Ashes of War from <?itemNameBeforeForge?> and apply them to <?itemNameAfterForge?>?",
+		"chn": "要将使用中的战灰\n从<?itemNameBeforeForge?>上移除，\n改用在<?itemNameAfterForge?>上吗？"
+	},
+	{
+		"id": 215000,
+		"eng": "If you change the equipped Great Rune, the\ncurrent Great Rune's effects will be removed.\nIs that okay?",
+		"chn": "变更寄宿身上的大卢恩，\n会解除大卢恩目前产生的效用。\n\n您确定吗？"
+	},
+	{
+		"id": 216000,
+		"eng": "Strengthen <?itemNameBeforeForge?> into <?itemNameAfterForge?>?",
+		"chn": "要将<?itemNameBeforeForge?>\n强化成<?itemNameAfterForge?>吗？"
+	},
+	{
+		"id": 216010,
+		"eng": "This cannot be strengthened, as you already have <?itemNameAfterForge?>",
+		"chn": "已经持有强化后的物品：\n<?itemNameAfterForge?>\n\n无法进行强化。"
+	},
+	{
+		"id": 221000,
+		"eng": "Strengthen <?itemNameBeforeForge?>\nto make <?itemNameAfterForge?>?",
+		"chn": "要将<?itemNameBeforeForge?>\n强化成<?itemNameAfterForge?>吗？"
+	},
+	{
+		"id": 221011,
+		"eng": "Armament cannot be strengthened any further at the smithing table",
+		"chn": "在锻造台能执行的强化已达上限。\n这把武器无法再继续强化。"
+	},
+	{
+		"id": 225000,
+		"eng": "Offer <?demandSoul?> Dragon Hearts\nto make <?itemName?> thine own",
+		"chn": "把<?demandSoul?>颗龙心脏当作供品，\n将<?itemName?>化为己有。"
+	},
+	{
+		"id": 225100,
+		"eng": "This strength is already thine own",
+		"chn": "已经将此力量化为己有。"
+	},
+	{
+		"id": 226000,
+		"eng": "Give <?demandSoul?> starlight shards\nto receive <?itemName?>",
+		"chn": "交出<?demandSoul?>片星光碎片，\n取得<?itemName?>。"
+	},
+	{
+		"id": 226100,
+		"eng": "This puppet is already yours",
+		"chn": "已经拥有此傀儡。"
+	},
+	{
+		"id": 227000,
+		"eng": "Duplicate <?itemName?>",
+		"chn": "开始复制<?itemName?>。"
+	},
+	{
+		"id": 227100,
+		"eng": "Cannot further duplicate this Ash of War",
+		"chn": "无法再复制此战灰。"
+	},
+	{
+		"id": 230000,
+		"eng": "Receive <?itemName?>",
+		"chn": "取得<?itemName?>。"
+	},
+	{
+		"id": 230010,
+		"eng": "Items exceeding maximum have been placed in chest",
+		"chn": "超过持有上限的道具已被收纳至木箱。"
+	},
+	{
+		"id": 230020,
+		"eng": "Cannot receive.\nThe number you would receive would exceed the maximum\nable to be held in inventory and storage.",
+		"chn": "已超过持有与收纳上限，无法取得。"
+	},
+	{
+		"id": 230100,
+		"eng": "Duplicate <?itemName?>",
+		"chn": "开始复制<?itemName?>。"
+	},
+	{
+		"id": 230110,
+		"eng": "Items exceeding maximum have been placed in chest",
+		"chn": "超过持有上限的道具已被收纳至木箱。"
+	},
+	{
+		"id": 230120,
+		"eng": "Cannot duplicate.\nThe number you would receive would exceed the maximum\nable to be held in inventory and storage.",
+		"chn": "已超过持有与收纳上限，无法复制。"
+	},
+	{
+		"id": 230150,
+		"eng": "Cannot further duplicate this remembrance ",
+		"chn": "无法再复制此追忆。"
+	},
+	{
+		"id": 231000,
+		"eng": "Purchase <?itemName?>\nfor <?demandSoul?> runes",
+		"chn": "将以<?demandSoul?>卢恩\n购买<?itemName?>。"
+	},
+	{
+		"id": 231010,
+		"eng": "Items exceeding maximum have been placed in chest",
+		"chn": "超过持有上限的道具已被收纳至木箱。"
+	},
+	{
+		"id": 231020,
+		"eng": "Cannot purchase.\nThe number you wish to buy would exceed the maximum\nable to be held in inventory and storage.",
+		"chn": "已超过持有与收纳上限，无法购买。"
+	},
+	{
+		"id": 231100,
+		"eng": "Out of stock.\nCannot purchase anymore.",
+		"chn": "已超过限定数量上限，无法购买。"
+	},
+	{
+		"id": 232000,
+		"eng": "Sell <?itemName?>\nfor <?sellSouls?> runes",
+		"chn": "将以<?sellSouls?>卢恩\n卖出<?itemName?>。"
+	},
+	{
+		"id": 232002,
+		"eng": "Cannot sell currently equipped items",
+		"chn": "装备中的道具无法卖出。"
+	},
+	{
+		"id": 232003,
+		"eng": "Cannot sell this item",
+		"chn": "无法卖出此道具。"
+	},
+	{
+		"id": 232004,
+		"eng": "Ashes of War are applied to <?itemName?> .\nIf you sell this item, its Ashes of War will be lost.\nIs that okay?",
+		"chn": "<?itemName?> 已使用战灰。\n卖出后也会失去战灰。\n\n您确定吗？"
+	},
+	{
+		"id": 235000,
+		"eng": "Allocate?",
+		"chn": "要开始分配吗？"
+	},
+	{
+		"id": 235001,
+		"eng": "Canceling allocation.\nIs that okay?",
+		"chn": "将中止分配。\n您确定吗？"
+	},
+	{
+		"id": 236001,
+		"eng": "Craft <?itemName?>",
+		"chn": "开始制作<?itemName?>。"
+	},
+	{
+		"id": 236010,
+		"eng": "Crafted items exceeding maximum have been placed in chest",
+		"chn": "超过持有上限，\n制作的道具已收纳至木箱。"
+	},
+	{
+		"id": 236011,
+		"eng": "Cannot craft this item.\nThe number you wish to craft would exceed the maximum\nable to be held in inventory and storage.",
+		"chn": "超过持有与收纳上限，\n无法制作道具。"
+	},
+	{
+		"id": 236020,
+		"eng": "Cannot craft this item as you do not have enough cracked pots",
+		"chn": "制作的数量超过持有的龟裂壶数量，\n无法制作道具。"
+	},
+	{
+		"id": 236021,
+		"eng": "Cannot craft this item as you do not have enough perfume bottles",
+		"chn": "制作的数量超过持有的调香瓶数量，\n无法制作道具。"
+	},
+	{
+		"id": 236030,
+		"eng": "Cannot craft this item as you do not have enough ritual pots",
+		"chn": "制作的数量超过持有的仪式壶数量，\n无法制作道具。"
+	},
+	{
+		"id": 236050,
+		"eng": "Cannot craft this item as you do not have any cracked pots",
+		"chn": "您未持有龟裂壶，\n无法制作道具。"
+	},
+	{
+		"id": 236055,
+		"eng": "Cannot craft this item as you do not have any ritual pots",
+		"chn": "您未持有仪式壶，\n无法制作道具。"
+	},
+	{
+		"id": 236060,
+		"eng": "Cannot craft this item as you do not have any perfume bottles",
+		"chn": "您未持有调香瓶，\n无法制作道具。"
+	},
+	{
+		"id": 236201,
+		"eng": "Spend remembrance and <?demandSoul?> runes\nto receive <?itemName?>",
+		"chn": "将消耗<?demandSoul?>卢恩与追忆，\n获得<?itemName?>。"
+	},
+	{
+		"id": 236202,
+		"eng": "Acquire <?itemName?> in exchange for remembrance",
+		"chn": "将用追忆交换<?itemName?>。"
+	},
+	{
+		"id": 236210,
+		"eng": "Items exceeding maximum have been placed in chest",
+		"chn": "超过持有上限的道具已被收纳至木箱。"
+	},
+	{
+		"id": 236211,
+		"eng": "You cannot receive this power.\nThe number you would receive would exceed the maximum\nable to be held in inventory and storage.",
+		"chn": "超过持有与收纳上限，\n无法获得力量。"
+	},
+	{
+		"id": 236220,
+		"eng": "You cannot receive any more power from this remembrance,\nas you have reached its maximum",
+		"chn": "超过数量上限，无法再从追忆获得力量。"
+	},
+	{
+		"id": 236401,
+		"eng": "Alter to <?itemName?>",
+		"chn": "将修改成<?itemName?>。"
+	},
+	{
+		"id": 236402,
+		"eng": "Use <?demandSoul?> runes to alter to <?itemName?>",
+		"chn": "将花费<?demandSoul?>卢恩，\n修改成<?itemName?>。"
+	},
+	{
+		"id": 236410,
+		"eng": "Altered items exceeding maximum have been placed in chest",
+		"chn": "已超过持有上限，\n修改后的道具已被收纳至木箱。"
+	},
+	{
+		"id": 236411,
+		"eng": "You cannot alter these items.\nThe number you would receive would exceed the maximum\nable to be held in inventory and storage.",
+		"chn": "已超过持有与收纳上限，\n无法修改。"
+	},
+	{
+		"id": 236420,
+		"eng": "You cannot alter any more of these items,\nas you have reached the maximum",
+		"chn": "已超过上限，无法修改。"
+	},
+	{
+		"id": 237000,
+		"eng": "Flask of Crimson Tears",
+		"chn": "红露滴圣杯瓶"
+	},
+	{
+		"id": 237001,
+		"eng": "Flask of Cerulean Tears",
+		"chn": "蓝露滴圣杯瓶"
+	},
+	{
+		"id": 241000,
+		"eng": "A new map has been found.\n(Limgrave, West)",
+		"chn": "获得地图碎片：\n宁姆格福（西）"
+	},
+	{
+		"id": 241001,
+		"eng": "A new map has been found.\n(Weeping Peninsula)",
+		"chn": "获得地图碎片：\n啜泣半岛"
+	},
+	{
+		"id": 241002,
+		"eng": "A new map has been found.\n(Limgrave, East)",
+		"chn": "获得地图碎片：\n宁姆格福（东）"
+	},
+	{
+		"id": 241003,
+		"eng": "A new map has been found.\n(Liurnia, East)",
+		"chn": "获得地图碎片：\n利耶尼亚（东）"
+	},
+	{
+		"id": 241004,
+		"eng": "A new map has been found.\n(Liurnia, North)",
+		"chn": "获得地图碎片：\n利耶尼亚（北）"
+	},
+	{
+		"id": 241005,
+		"eng": "A new map has been found.\n(Liurnia, West)",
+		"chn": "获得地图碎片：\n利耶尼亚（西）"
+	},
+	{
+		"id": 241006,
+		"eng": "A new map has been found.\n(Altus Plateau)",
+		"chn": "获得地图碎片：\n亚坛高原"
+	},
+	{
+		"id": 241007,
+		"eng": "A new map has been found.\n(Leyndell, Royal Capital)",
+		"chn": "获得地图碎片：\n王城罗德尔"
+	},
+	{
+		"id": 241008,
+		"eng": "A new map has been found.\n(Mt. Gelmir)",
+		"chn": "获得地图碎片：\n格密尔火山"
+	},
+	{
+		"id": 241009,
+		"eng": "A new map has been found.\n(Caelid)",
+		"chn": "获得地图碎片：\n盖利德"
+	},
+	{
+		"id": 241010,
+		"eng": "A new map has been found.\n(Dragonbarrow)",
+		"chn": "获得地图碎片：\n龙墓"
+	},
+	{
+		"id": 241011,
+		"eng": "A new map has been found.\n(Mountaintops of the Giants, West)",
+		"chn": "获得地图碎片：\n巨人山顶（西）"
+	},
+	{
+		"id": 241012,
+		"eng": "A new map has been found.\n(Mountaintops of the Giants, East)",
+		"chn": "获得地图碎片：\n巨人山顶（东）"
+	},
+	{
+		"id": 241013,
+		"eng": "A new map has been found.\n(Consecrated Snowfield)",
+		"chn": "获得地图碎片：\n化圣雪原"
+	},
+	{
+		"id": 241100,
+		"eng": "A new map has been found.\n(Ainsel River)",
+		"chn": "获得地图碎片：\n安瑟尔河"
+	},
+	{
+		"id": 241101,
+		"eng": "A new map has been found.\n(Lake of Rot)",
+		"chn": "获得地图碎片：\n腐败湖"
+	},
+	{
+		"id": 241102,
+		"eng": "A new map has been found.\n(Mohgwyn Palace)",
+		"chn": "获得地图碎片：\n蒙格温王朝"
+	},
+	{
+		"id": 241103,
+		"eng": "A new map has been found.\n(Siofra River)",
+		"chn": "获得地图碎片：\n希芙拉河"
+	},
+	{
+		"id": 241104,
+		"eng": "A new map has been found.\n(Deeproot Depths)",
+		"chn": "获得地图碎片：\n深根底层"
+	},
+	{
+		"id": 251020,
+		"eng": "Cannot store currently equipped items",
+		"chn": "装备中的道具无法收纳。"
+	},
+	{
+		"id": 251021,
+		"eng": "Selected item cannot be placed in storage",
+		"chn": "无法收纳此道具。"
+	},
+	{
+		"id": 251030,
+		"eng": "Cannot store item.\nStorage is full.",
+		"chn": "已超过收纳上限，无法收纳。"
+	},
+	{
+		"id": 251031,
+		"eng": "Cannot retrieve item.\nInventory is full.",
+		"chn": "已超过持有上限，无法取出。"
+	},
+	{
+		"id": 261000,
+		"eng": "Insufficient memory slots",
+		"chn": "您没有记忆空格。"
+	},
+	{
+		"id": 261001,
+		"eng": "Insufficient free slots",
+		"chn": "可用空格不足。"
+	},
+	{
+		"id": 261002,
+		"eng": "No memory slots",
+		"chn": "您没有记忆空格。"
+	},
+	{
+		"id": 261003,
+		"eng": "Cannot memorize duplicate sorceries or incantations",
+		"chn": "无法重复记忆相同的魔法、祷告。"
+	},
+	{
+		"id": 261004,
+		"eng": "Cannot use this sorcery or incantation with present attributes",
+		"chn": "必需能力值不足，无法使用此魔法、祷告。"
+	},
+	{
+		"id": 280001,
+		"eng": "Restoring all default settings.\nIs that okay?",
+		"chn": "所有配置将恢复默认。\n您确定吗？"
+	},
+	{
+		"id": 281000,
+		"eng": "Cannot set duplicate items",
+		"chn": "无法选择相同材料。"
+	},
+	{
+		"id": 290001,
+		"eng": "Abandon this character and return to character base selection?",
+		"chn": "要放弃创建中的角色，\n返回选择角色雏形的画面吗？"
+	},
+	{
+		"id": 290002,
+		"eng": "Starting game with this character.\nIs that okay?",
+		"chn": "将以此角色开始游戏，\n您确定吗？"
+	},
+	{
+		"id": 290003,
+		"eng": "A name is required.\n\nEnter a name to finish creating this character.",
+		"chn": "您尚未输入名字，\n请输入名字以完成角色创建。"
+	},
+	{
+		"id": 290004,
+		"eng": "Failed to save character information",
+		"chn": "角色数据保存失败。"
+	},
+	{
+		"id": 290011,
+		"eng": "Changes will be discarded.\nIs that okay?",
+		"chn": "将放弃所编辑的内容，\n您确定吗？"
+	},
+	{
+		"id": 290020,
+		"eng": "Selected spelling contained inappropriate language\nand could not be used as a character name.\n\nEnter another name.",
+		"chn": "输入的名字包含不恰当的文字，\n无法作为角色名字使用。\n\n请输入其他名字。"
+	},
+	{
+		"id": 290030,
+		"eng": "Changing gender will reset certain changes.\n\nOkay?",
+		"chn": "变更性别后，\n会失去部分已编辑的内容。\n\n您确定吗？"
+	},
+	{
+		"id": 290040,
+		"eng": "Changing appearance will mean losing any unsaved changes.\n\nIs that okay?",
+		"chn": "改变外貌后，\n会失去没有保存到的外貌配置。\n\n您确定吗？"
+	},
+	{
+		"id": 290101,
+		"eng": "Discard changes and stop applying cosmetics?",
+		"chn": "要放弃所编辑的内容，结束化妆吗？"
+	},
+	{
+		"id": 290102,
+		"eng": "Finish applying cosmetics and proceed with this character?",
+		"chn": "化妆结束，将变成这个角色。\n\n您确定吗？"
+	},
+	{
+		"id": 290103,
+		"eng": "A name is required.\nEnter a name to finish applying cosmetics.",
+		"chn": "您尚未输入名字，\n请输入名字以结束化妆。"
+	},
+	{
+		"id": 290121,
+		"eng": "Discard changes and stop applying cosmetics?",
+		"chn": "要放弃所编辑的内容，结束化妆吗？"
+	},
+	{
+		"id": 290122,
+		"eng": "Finish applying cosmetics and proceed with this character?",
+		"chn": "化妆结束，将变成这个角色。\n\n您确定吗？"
+	},
+	{
+		"id": 290123,
+		"eng": "A name is required.\nEnter a name to finish applying cosmetics.",
+		"chn": "您尚未输入名字，\n请输入名字以结束化妆。"
+	},
+	{
+		"id": 290200,
+		"eng": "Save present appearance as a favorite?",
+		"chn": "要保存现在的外貌配置吗？"
+	},
+	{
+		"id": 290201,
+		"eng": "Overwrite favorite slot and save present appearance?",
+		"chn": "要覆盖原有的外貌配置吗？"
+	},
+	{
+		"id": 290202,
+		"eng": "Discard present changes and load favorite?",
+		"chn": "要放弃编辑中的内容，\n读取外貌配置吗？"
+	},
+	{
+		"id": 290203,
+		"eng": "Cannot load appearances corresponding to a different body type",
+		"chn": "不能读取不同体型的外貌。"
+	},
+	{
+		"id": 290204,
+		"eng": "Deleting selected favorite.\nIs that okay?",
+		"chn": "将删除选择的外貌，\n您确定吗？"
+	},
+	{
+		"id": 290210,
+		"eng": "No favorites saved",
+		"chn": "并无已保存的外貌配置。"
+	},
+	{
+		"id": 290300,
+		"eng": "Cannot be edited at this time.\nPlease set \"Eye Alteration\" to OFF to edit this.",
+		"chn": "目前无法编辑。\n\n如果想要编辑，请先在“眼睛变化配置”选择“不套用”。"
+	},
+	{
+		"id": 311000,
+		"eng": "Deleting this message.\nIs that okay?",
+		"chn": "将消除此讯息。\n您确定吗？"
+	},
+	{
+		"id": 311001,
+		"eng": "Applaud this message?",
+		"chn": "要给予这则讯息好评吗？"
+	},
+	{
+		"id": 311002,
+		"eng": "Disparage this message?",
+		"chn": "要给予这则讯息恶评吗？"
+	},
+	{
+		"id": 321000,
+		"eng": "Create this message",
+		"chn": "将以此内容写下讯息。"
+	},
+	{
+		"id": 321001,
+		"eng": "This will delete message in progress.\nIs that okay?",
+		"chn": "将舍弃编辑中的讯息。\n您确定吗？"
+	},
+	{
+		"id": 322000,
+		"eng": "Delete this message from list?",
+		"chn": "将从记录中删除此讯息。\n您确定吗？"
+	},
+	{
+		"id": 334510,
+		"eng": "Unable to acquire <?itemName?>.\nThis would exceed the maximum able to be held\nin inventory and storage.",
+		"chn": "已超过持有与收纳上限，\n无法取得<?itemName?>。"
+	},
+	{
+		"id": 334511,
+		"eng": "Unable to acquire every <?itemName?>.\nThis would exceed the maximum able to be held\nin inventory and storage.",
+		"chn": "已超过持有与收纳上限，\n无法全数取得<?itemName?>。"
+	},
+	{
+		"id": 334520,
+		"eng": "Some items could not be acquired as they would\nexceed the maximum able to be held in inventory\nand storage",
+		"chn": "已超过持有与收纳上限，\n无法取得部分道具。"
+	},
+	{
+		"id": 401172,
+		"eng": "Online connection is required to play\nELDEN RING Network Test Version.\nReturning to title menu.",
+		"chn": "《艾尔登法环》网络测试版仅能以联机进行游玩。\n\n将返回标题画面。"
+	},
+	{
+		"id": 401701,
+		"eng": "<?sysmsg@401701?>",
+		"chn": "<?sysmsg@401701?>"
+	},
+	{
+		"id": 404010,
+		"eng": "Discard present changes and return to previous page?",
+		"chn": "将放弃已配置的内容，回到前一个画面。\n\n您确定吗？"
+	},
+	{
+		"id": 404020,
+		"eng": "With HDR setting ON:\nPicture can be adjusted from the in-game system menu",
+		"chn": "高动态范围成像（ＨＤＲ）配置为开启时，\n只能从游戏内主选单的系统选单调整画质。"
+	},
+	{
+		"id": 406011,
+		"eng": "Starting with selected profile",
+		"chn": "将以选择的角色档案开始游戏。"
+	},
+	{
+		"id": 406012,
+		"eng": "Delete selected profile and begin a new game?",
+		"chn": "要删除选择的角色档案，\n开始新游戏吗？"
+	},
+	{
+		"id": 406013,
+		"eng": "Deleting selected profile.\nIs that okay?",
+		"chn": "将删除选择的角色档案。\n\n您确定吗？"
+	},
+	{
+		"id": 450000,
+		"eng": "Begin Journey <?nextLoopCount?>?\nIf you do not start over now, you can choose to begin\nJourney <?nextLoopCount?> later at the Table of Lost Grace\nin Roundtable Hold.",
+		"chn": "要直接开始第<?nextLoopCount?>次的世界吗？\n\n如果不打算马上进入下一次的世界，\n之后也能从圆桌厅堂的大赐福选择“开始第<?nextLoopCount?>次的世界”。"
+	},
+	{
+		"id": 450001,
+		"eng": "If you begin Journey <?nextLoopCount?>, you will not be able\nto return to the present world of Journey <?loopCount?>.\nBegin Journey <?nextLoopCount?>?",
+		"chn": "进入第<?nextLoopCount?>次的世界之后，\n就不能回到目前第<?loopCount?>次的世界。\n\n确定要开始第<?nextLoopCount?>次的世界吗？"
+	},
+	{
+		"id": 502000,
+		"eng": "Send chosen player back to their world?",
+		"chn": "要遣返所选的人物吗？"
+	},
+	{
+		"id": 502001,
+		"eng": "No player to send back",
+		"chn": "没有可以遣返的人物。"
+	},
+	{
+		"id": 550000,
+		"eng": "Multiplayer is temporarily disabled due to repeated irregular termination\nof multiplayer sessions",
+		"chn": "您在多人联机游玩时，多次以不当方式结束游戏，\n无法进行多人联机游玩。"
+	},
+	{
+		"id": 550100,
+		"eng": "You were returned to your world due to inactivity",
+		"chn": "在一定时间内没有进行任何操作，\n已返回原本的世界。"
+	},
+	{
+		"id": 620001,
+		"eng": "Return to title menu?",
+		"chn": "要返回标题画面吗？"
+	},
+	{
+		"id": 620010,
+		"eng": "Close control guide and begin game?",
+		"chn": "将结束操作说明，开始游戏。\n您确定吗？"
+	},
+	{
+		"id": 620100,
+		"eng": "As this product is still in development, some functionality\n(including features that use the Xbox network) may not\nbe working as intended, and may result in shutdown",
+		"chn": "本游戏尚在开发中，\n部分功能（包含使用Xbox 网络的网络功能）\n有可能无法正常运作，或出现强制结束游戏的情况。"
+	},
+	{
+		"id": 620110,
+		"eng": "Unlike the final release, this product cannot be played\nwithout a network connection",
+		"chn": "网络测试版的下列配置与商品版相异：\n·必须连接网络才能游玩。"
+	}
+]

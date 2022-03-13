@@ -1,0 +1,482 @@
+[
+	{
+		"id": 10000,
+		"eng": "Ash of War: Lion's Claw",
+		"chn": "战灰：狮子斩"
+	},
+	{
+		"id": 10100,
+		"eng": "Ash of War: Impaling Thrust",
+		"chn": "战灰：贯穿"
+	},
+	{
+		"id": 10200,
+		"eng": "Ash of War: Piercing Fang",
+		"chn": "战灰：突刺"
+	},
+	{
+		"id": 10300,
+		"eng": "Ash of War: Spinning Slash",
+		"chn": "战灰：回旋斩"
+	},
+	{
+		"id": 10500,
+		"eng": "Ash of War: Charge Forth",
+		"chn": "战灰：突击"
+	},
+	{
+		"id": 10600,
+		"eng": "Ash of War: Stamp (Upward Cut)",
+		"chn": "战灰：箭步（上砍）"
+	},
+	{
+		"id": 10700,
+		"eng": "Ash of War: Stamp (Sweep)",
+		"chn": "战灰：箭步（回旋斩）"
+	},
+	{
+		"id": 10800,
+		"eng": "Ash of War: Blood Tax",
+		"chn": "战灰：鲜血征收"
+	},
+	{
+		"id": 10900,
+		"eng": "Ash of War: Repeating Thrust",
+		"chn": "战灰：连击"
+	},
+	{
+		"id": 11000,
+		"eng": "Ash of War: Wild Strikes",
+		"chn": "战灰：盲击"
+	},
+	{
+		"id": 11100,
+		"eng": "Ash of War: Spinning Strikes",
+		"chn": "战灰：回旋击"
+	},
+	{
+		"id": 11200,
+		"eng": "Ash of War: Double Slash",
+		"chn": "战灰：二连斩"
+	},
+	{
+		"id": 11300,
+		"eng": "Ash of War: Prelate's Charge",
+		"chn": "战灰：主教冲锋"
+	},
+	{
+		"id": 11400,
+		"eng": "Ash of War: Unsheathe",
+		"chn": "战灰：居合"
+	},
+	{
+		"id": 11500,
+		"eng": "Ash of War: Square Off",
+		"chn": "战灰：准备架式"
+	},
+	{
+		"id": 11600,
+		"eng": "Ash of War: Giant Hunt",
+		"chn": "战灰：狩猎巨人"
+	},
+	{
+		"id": 11700,
+		"eng": "Ash of War: Torch Attack",
+		"chn": "战灰：火把攻击"
+	},
+	{
+		"id": 11800,
+		"eng": "Ash of War: Loretta's Slash",
+		"chn": "战灰：罗蕾塔的斩击"
+	},
+	{
+		"id": 11900,
+		"eng": "Ash of War: Poison Moth Flight",
+		"chn": "战灰：双吻毒蛾"
+	},
+	{
+		"id": 12000,
+		"eng": "Ash of War: Spinning Weapon",
+		"chn": "战灰：转啊转"
+	},
+	{
+		"id": 12200,
+		"eng": "Ash of War: Storm Assault",
+		"chn": "战灰：风暴袭击"
+	},
+	{
+		"id": 12300,
+		"eng": "Ash of War: Stormcaller",
+		"chn": "战灰：唤起风暴"
+	},
+	{
+		"id": 12400,
+		"eng": "Ash of War: Sword Dance",
+		"chn": "战灰：剑舞"
+	},
+	{
+		"id": 12500,
+		"eng": "Ash of War: Spinning Chain",
+		"chn": "战灰：回旋锁链"
+	},
+	{
+		"id": 20000,
+		"eng": "Ash of War: Glintblade Phalanx",
+		"chn": "战灰：辉剑圆阵"
+	},
+	{
+		"id": 20100,
+		"eng": "Ash of War: Sacred Blade",
+		"chn": "战灰：神圣刀刃"
+	},
+	{
+		"id": 20200,
+		"eng": "Ash of War: Ice Spear",
+		"chn": "战灰：冰枪"
+	},
+	{
+		"id": 20300,
+		"eng": "Ash of War: Glintstone Pebble",
+		"chn": "战灰：辉石魔砾"
+	},
+	{
+		"id": 20400,
+		"eng": "Ash of War: Bloody Slash",
+		"chn": "战灰：鲜血斩击"
+	},
+	{
+		"id": 20500,
+		"eng": "Ash of War: Lifesteal Fist",
+		"chn": "战灰：夺命拳"
+	},
+	{
+		"id": 20700,
+		"eng": "Ash of War: Eruption",
+		"chn": "战灰：熔岩火浆"
+	},
+	{
+		"id": 20800,
+		"eng": "Ash of War: Prayerful Strike",
+		"chn": "战灰：祈祷一击"
+	},
+	{
+		"id": 20900,
+		"eng": "Ash of War: Gravitas",
+		"chn": "战灰：重力"
+	},
+	{
+		"id": 21000,
+		"eng": "Ash of War: Storm Blade",
+		"chn": "战灰：风暴刃"
+	},
+	{
+		"id": 21200,
+		"eng": "Ash of War: Earthshaker",
+		"chn": "战灰：撼地"
+	},
+	{
+		"id": 21300,
+		"eng": "Ash of War: Golden Land",
+		"chn": "战灰：黄金大地"
+	},
+	{
+		"id": 21400,
+		"eng": "Ash of War: Flaming Strike",
+		"chn": "战灰：炎击"
+	},
+	{
+		"id": 21600,
+		"eng": "Ash of War: Thunderbolt",
+		"chn": "战灰：落雷"
+	},
+	{
+		"id": 21700,
+		"eng": "Ash of War: Lightning Slash",
+		"chn": "战灰：雷击斩"
+	},
+	{
+		"id": 21800,
+		"eng": "Ash of War: Carian Grandeur",
+		"chn": "战灰：伟哉卡利亚"
+	},
+	{
+		"id": 21900,
+		"eng": "Ash of War: Carian Greatsword",
+		"chn": "战灰：卡利亚大剑"
+	},
+	{
+		"id": 22000,
+		"eng": "Ash of War: Vacuum Slice",
+		"chn": "战灰：真空斩"
+	},
+	{
+		"id": 22100,
+		"eng": "Ash of War: Black Flame Tornado",
+		"chn": "战灰：黑焰漩涡"
+	},
+	{
+		"id": 22200,
+		"eng": "Ash of War: Sacred Ring of Light",
+		"chn": "战灰：神圣光环"
+	},
+	{
+		"id": 22300,
+		"eng": "Ash of War: Firebreather",
+		"chn": "战灰：喷火"
+	},
+	{
+		"id": 22400,
+		"eng": "Ash of War: Blood Blade",
+		"chn": "战灰：血刃"
+	},
+	{
+		"id": 22500,
+		"eng": "Ash of War: Phantom Slash",
+		"chn": "战灰：幻影共击"
+	},
+	{
+		"id": 22600,
+		"eng": "Ash of War: Spectral Lance",
+		"chn": "战灰：幻影枪"
+	},
+	{
+		"id": 22700,
+		"eng": "Ash of War: Chilling Mist",
+		"chn": "战灰：寒气冻雾"
+	},
+	{
+		"id": 22800,
+		"eng": "Ash of War: Poisonous Mist",
+		"chn": "战灰：毒雾"
+	},
+	{
+		"id": 30000,
+		"eng": "Ash of War: Shield Bash",
+		"chn": "战灰：盾牌冲击"
+	},
+	{
+		"id": 30100,
+		"eng": "Ash of War: Barricade Shield",
+		"chn": "战灰：铁壁盾防"
+	},
+	{
+		"id": 30200,
+		"eng": "Ash of War: Parry",
+		"chn": "战灰：格挡"
+	},
+	{
+		"id": 30300,
+		"eng": "Ash of War: Buckler Parry",
+		"chn": "战灰：小圆盾格挡"
+	},
+	{
+		"id": 30400,
+		"eng": "Ash of War: Parry",
+		"chn": "战灰：格挡"
+	},
+	{
+		"id": 30500,
+		"eng": "Ash of War: Carian Retaliation",
+		"chn": "战灰：卡利亚式奉还"
+	},
+	{
+		"id": 30600,
+		"eng": "Ash of War: Storm Wall",
+		"chn": "战灰：风暴障壁"
+	},
+	{
+		"id": 30700,
+		"eng": "Ash of War: Golden Parry",
+		"chn": "战灰：黄金格挡"
+	},
+	{
+		"id": 30800,
+		"eng": "Ash of War: Shield Crash",
+		"chn": "战灰：突进冲击"
+	},
+	{
+		"id": 30900,
+		"eng": "Ash of War: No Skill",
+		"chn": "战灰：无战技"
+	},
+	{
+		"id": 31000,
+		"eng": "Ash of War: Thops's Barrier",
+		"chn": "战灰：托普斯的力场"
+	},
+	{
+		"id": 40000,
+		"eng": "Ash of War: Through and Through",
+		"chn": "战灰：贯穿射击"
+	},
+	{
+		"id": 40100,
+		"eng": "Ash of War: Barrage",
+		"chn": "战灰：连续射击"
+	},
+	{
+		"id": 40200,
+		"eng": "Ash of War: Mighty Shot",
+		"chn": "战灰：拉满弓"
+	},
+	{
+		"id": 40400,
+		"eng": "Ash of War: Enchanted Shot",
+		"chn": "战灰：宿灵射击"
+	},
+	{
+		"id": 40500,
+		"eng": "Ash of War: Sky Shot",
+		"chn": "战灰：对空射击"
+	},
+	{
+		"id": 40600,
+		"eng": "Ash of War: Rain of Arrows",
+		"chn": "战灰：箭雨"
+	},
+	{
+		"id": 50100,
+		"eng": "Ash of War: Hoarfrost Stomp",
+		"chn": "战灰：冻霜踏地"
+	},
+	{
+		"id": 50200,
+		"eng": "Ash of War: Storm Stomp",
+		"chn": "战灰：风暴足"
+	},
+	{
+		"id": 50300,
+		"eng": "Ash of War: Kick",
+		"chn": "战灰：踢击"
+	},
+	{
+		"id": 50400,
+		"eng": "Ash of War: Lightning Ram",
+		"chn": "战灰：雷电羊球"
+	},
+	{
+		"id": 50500,
+		"eng": "Ash of War: Flame of the Redmanes",
+		"chn": "战灰：红狮子火焰"
+	},
+	{
+		"id": 50600,
+		"eng": "Ash of War: Ground Slam",
+		"chn": "战灰：坠落震击"
+	},
+	{
+		"id": 50700,
+		"eng": "Ash of War: Golden Slam",
+		"chn": "战灰：黄金坠落震击"
+	},
+	{
+		"id": 50800,
+		"eng": "Ash of War: Waves of Darkness",
+		"chn": "战灰：黑暗波动"
+	},
+	{
+		"id": 50900,
+		"eng": "Ash of War: Hoarah Loux's Earthshaker",
+		"chn": "战灰：荷莱·露的撼地"
+	},
+	{
+		"id": 60000,
+		"eng": "Ash of War: Determination",
+		"chn": "战灰：决心"
+	},
+	{
+		"id": 60100,
+		"eng": "Ash of War: Royal Knight's Resolve",
+		"chn": "战灰：侍王骑士的决心"
+	},
+	{
+		"id": 60200,
+		"eng": "Ash of War: Assassin's Gambit",
+		"chn": "战灰：暗杀办法"
+	},
+	{
+		"id": 60300,
+		"eng": "Ash of War: Golden Vow",
+		"chn": "战灰：黄金树立誓"
+	},
+	{
+		"id": 60400,
+		"eng": "Ash of War: Sacred Order",
+		"chn": "战灰：圣律"
+	},
+	{
+		"id": 60500,
+		"eng": "Ash of War: Shared Order",
+		"chn": "战灰：共享圣律"
+	},
+	{
+		"id": 60600,
+		"eng": "Ash of War: Seppuku",
+		"chn": "战灰：切腹"
+	},
+	{
+		"id": 60700,
+		"eng": "Ash of War: Cragblade",
+		"chn": "战灰：岩石剑"
+	},
+	{
+		"id": 65000,
+		"eng": "Ash of War: Barbaric Roar",
+		"chn": "战灰：野蛮咆哮"
+	},
+	{
+		"id": 65100,
+		"eng": "Ash of War: War Cry",
+		"chn": "战灰：战吼"
+	},
+	{
+		"id": 65200,
+		"eng": "Ash of War: Beast's Roar",
+		"chn": "战灰：野兽咆哮"
+	},
+	{
+		"id": 65300,
+		"eng": "Ash of War: Troll's Roar",
+		"chn": "战灰：山妖咆哮"
+	},
+	{
+		"id": 65400,
+		"eng": "Ash of War: Braggart's Roar",
+		"chn": "战灰：夸耀咆哮"
+	},
+	{
+		"id": 70000,
+		"eng": "Ash of War: Endure",
+		"chn": "战灰：忍耐"
+	},
+	{
+		"id": 70100,
+		"eng": "Ash of War: Vow of the Indomitable",
+		"chn": "战灰：无敌"
+	},
+	{
+		"id": 70200,
+		"eng": "Ash of War: Holy Ground",
+		"chn": "战灰：圣域"
+	},
+	{
+		"id": 80000,
+		"eng": "Ash of War: Quickstep",
+		"chn": "战灰：碎步"
+	},
+	{
+		"id": 80100,
+		"eng": "Ash of War: Bloodhound's Step",
+		"chn": "战灰：猎犬步法"
+	},
+	{
+		"id": 80200,
+		"eng": "Ash of War: Raptor of the Mists",
+		"chn": "战灰：潜雾猛禽"
+	},
+	{
+		"id": 85000,
+		"eng": "Ash of War: White Shadow's Lure",
+		"chn": "战灰：白影诱惑"
+	}
+]

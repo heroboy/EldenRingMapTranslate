@@ -1,0 +1,2887 @@
+[
+	{
+		"id": 10000,
+		"eng": "Head",
+		"chn": "头部"
+	},
+	{
+		"id": 10100,
+		"eng": "Body",
+		"chn": "身体"
+	},
+	{
+		"id": 10200,
+		"eng": "Arms",
+		"chn": "腕部"
+	},
+	{
+		"id": 10300,
+		"eng": "Legs",
+		"chn": "腿部"
+	},
+	{
+		"id": 40000,
+		"eng": "Iron Helmet",
+		"chn": "铁头盔"
+	},
+	{
+		"id": 40100,
+		"eng": "Scale Armor",
+		"chn": "鳞甲"
+	},
+	{
+		"id": 40200,
+		"eng": "Iron Gauntlets",
+		"chn": "铁臂甲"
+	},
+	{
+		"id": 40300,
+		"eng": "Leather Trousers",
+		"chn": "皮革长裤"
+	},
+	{
+		"id": 50000,
+		"eng": "Kaiden Helm",
+		"chn": "凯丹头盔"
+	},
+	{
+		"id": 50100,
+		"eng": "Kaiden Armor",
+		"chn": "凯丹铠甲"
+	},
+	{
+		"id": 50200,
+		"eng": "Kaiden Gauntlets",
+		"chn": "凯丹臂甲"
+	},
+	{
+		"id": 50300,
+		"eng": "Kaiden Trousers",
+		"chn": "凯丹长裤"
+	},
+	{
+		"id": 60000,
+		"eng": "Drake Knight Helm",
+		"chn": "龙骑士头盔"
+	},
+	{
+		"id": 60100,
+		"eng": "Drake Knight Armor",
+		"chn": "龙骑士铠甲"
+	},
+	{
+		"id": 60200,
+		"eng": "Drake Knight Gauntlets",
+		"chn": "龙骑士臂甲"
+	},
+	{
+		"id": 60300,
+		"eng": "Drake Knight Greaves",
+		"chn": "龙骑士腿甲"
+	},
+	{
+		"id": 61000,
+		"eng": "Drake Knight Helm (Altered)",
+		"chn": "龙骑士头盔（轻装）"
+	},
+	{
+		"id": 61100,
+		"eng": "Drake Knight Armor (Altered)",
+		"chn": "龙骑士铠甲（轻装）"
+	},
+	{
+		"id": 80000,
+		"eng": "Scaled Helm",
+		"chn": "鳞片头盔"
+	},
+	{
+		"id": 80100,
+		"eng": "Scaled Armor",
+		"chn": "鳞片铠甲"
+	},
+	{
+		"id": 80200,
+		"eng": "Scaled Gauntlets",
+		"chn": "鳞片臂甲"
+	},
+	{
+		"id": 80300,
+		"eng": "Scaled Greaves",
+		"chn": "鳞片腿甲"
+	},
+	{
+		"id": 81100,
+		"eng": "Scaled Armor (Altered)",
+		"chn": "鳞片铠甲（轻装）"
+	},
+	{
+		"id": 90000,
+		"eng": "Perfumer Hood",
+		"chn": "调香师风帽"
+	},
+	{
+		"id": 90100,
+		"eng": "Perfumer Robe",
+		"chn": "调香师长袍"
+	},
+	{
+		"id": 90200,
+		"eng": "Perfumer Gloves",
+		"chn": "调香师手套"
+	},
+	{
+		"id": 90300,
+		"eng": "Perfumer Sarong",
+		"chn": "调香师腰巾"
+	},
+	{
+		"id": 91100,
+		"eng": "Perfumer Robe (Altered)",
+		"chn": "调香师长袍（轻装）"
+	},
+	{
+		"id": 100000,
+		"eng": "Traveler's Hat",
+		"chn": "旅行帽子"
+	},
+	{
+		"id": 100100,
+		"eng": "Perfumer's Traveling Garb",
+		"chn": "调香师旅行装"
+	},
+	{
+		"id": 100200,
+		"eng": "Traveler's Gloves",
+		"chn": "旅行手套"
+	},
+	{
+		"id": 100300,
+		"eng": "Traveler's Slops",
+		"chn": "旅行长裤"
+	},
+	{
+		"id": 101100,
+		"eng": "Perfumer's Traveling Garb (Altered)",
+		"chn": "调香师旅行装（轻装）"
+	},
+	{
+		"id": 120000,
+		"eng": "Alberich's Pointed Hat",
+		"chn": "阿尔佩利希尖帽"
+	},
+	{
+		"id": 120100,
+		"eng": "Alberich's Robe",
+		"chn": "阿尔佩利希上衣"
+	},
+	{
+		"id": 120200,
+		"eng": "Alberich's Bracers",
+		"chn": "阿尔佩利希臂甲"
+	},
+	{
+		"id": 120300,
+		"eng": "Alberich's Trousers",
+		"chn": "阿尔佩利希长裤"
+	},
+	{
+		"id": 121000,
+		"eng": "Alberich's Pointed Hat (Altered)",
+		"chn": "阿尔佩利希尖帽（轻装）"
+	},
+	{
+		"id": 121100,
+		"eng": "Alberich's Robe (Altered)",
+		"chn": "阿尔佩利希上衣（轻装）"
+	},
+	{
+		"id": 130000,
+		"eng": "Spellblade's Pointed Hat",
+		"chn": "魔法剑士尖帽"
+	},
+	{
+		"id": 130100,
+		"eng": "Spellblade's Traveling Attire",
+		"chn": "魔法剑士旅行装"
+	},
+	{
+		"id": 130200,
+		"eng": "Spellblade's Gloves",
+		"chn": "魔法剑士手套"
+	},
+	{
+		"id": 130300,
+		"eng": "Spellblade's Trousers",
+		"chn": "魔法剑士长裤"
+	},
+	{
+		"id": 131100,
+		"eng": "Spellblade's Traveling Attire (Altered)",
+		"chn": "魔法剑士旅行装（轻装）"
+	},
+	{
+		"id": 140000,
+		"eng": "Bull-Goat Helm",
+		"chn": "大山羊头盔"
+	},
+	{
+		"id": 140100,
+		"eng": "Bull-Goat Armor",
+		"chn": "大山羊铠甲"
+	},
+	{
+		"id": 140200,
+		"eng": "Bull-Goat Gauntlets",
+		"chn": "大山羊臂甲"
+	},
+	{
+		"id": 140300,
+		"eng": "Bull-Goat Greaves",
+		"chn": "大山羊腿甲"
+	},
+	{
+		"id": 150000,
+		"eng": "Iron Kasa",
+		"chn": "铁笠帽"
+	},
+	{
+		"id": 150100,
+		"eng": "Ronin's Armor",
+		"chn": "浪人铠甲"
+	},
+	{
+		"id": 150200,
+		"eng": "Ronin's Gauntlets",
+		"chn": "浪人臂甲"
+	},
+	{
+		"id": 150300,
+		"eng": "Ronin's Greaves",
+		"chn": "浪人腿甲"
+	},
+	{
+		"id": 151100,
+		"eng": "Ronin's Armor (Altered)",
+		"chn": "浪人铠甲（轻装）"
+	},
+	{
+		"id": 160000,
+		"eng": "Guilty Hood",
+		"chn": "罪人风帽"
+	},
+	{
+		"id": 160100,
+		"eng": "Cloth Garb",
+		"chn": "布质上衣"
+	},
+	{
+		"id": 160300,
+		"eng": "Cloth Trousers",
+		"chn": "布质长裤"
+	},
+	{
+		"id": 170000,
+		"eng": "Black Wolf Mask",
+		"chn": "黑狼面具"
+	},
+	{
+		"id": 170100,
+		"eng": "Blaidd's Armor",
+		"chn": "布莱泽铠甲"
+	},
+	{
+		"id": 170200,
+		"eng": "Blaidd's Gauntlets",
+		"chn": "布莱泽臂甲"
+	},
+	{
+		"id": 170300,
+		"eng": "Blaidd's Greaves",
+		"chn": "布莱泽腿甲"
+	},
+	{
+		"id": 171100,
+		"eng": "Blaidd's Armor (Altered)",
+		"chn": "布莱泽铠甲（轻装）"
+	},
+	{
+		"id": 180000,
+		"eng": "Black Knife Hood",
+		"chn": "黑刀风帽"
+	},
+	{
+		"id": 180100,
+		"eng": "Black Knife Armor",
+		"chn": "黑刀铠甲"
+	},
+	{
+		"id": 180200,
+		"eng": "Black Knife Gauntlets",
+		"chn": "黑刀臂甲"
+	},
+	{
+		"id": 180300,
+		"eng": "Black Knife Greaves",
+		"chn": "黑刀腿甲"
+	},
+	{
+		"id": 181100,
+		"eng": "Black Knife Armor (Altered)",
+		"chn": "黑刀铠甲（轻装）"
+	},
+	{
+		"id": 190000,
+		"eng": "Exile Hood",
+		"chn": "流刑士兵风帽"
+	},
+	{
+		"id": 190100,
+		"eng": "Exile Armor",
+		"chn": "流刑士兵铠甲"
+	},
+	{
+		"id": 190200,
+		"eng": "Exile Gauntlets",
+		"chn": "流刑士兵臂甲"
+	},
+	{
+		"id": 190300,
+		"eng": "Exile Greaves",
+		"chn": "流刑士兵腿甲"
+	},
+	{
+		"id": 200000,
+		"eng": "Banished Knight Helm",
+		"chn": "失乡骑士头盔"
+	},
+	{
+		"id": 200100,
+		"eng": "Banished Knight Armor",
+		"chn": "失乡骑士铠甲"
+	},
+	{
+		"id": 200200,
+		"eng": "Banished Knight Gauntlets",
+		"chn": "失乡骑士臂甲"
+	},
+	{
+		"id": 200300,
+		"eng": "Banished Knight Greaves",
+		"chn": "失乡骑士腿甲"
+	},
+	{
+		"id": 201000,
+		"eng": "Banished Knight Helm (Altered)",
+		"chn": "失乡骑士头盔（轻装）"
+	},
+	{
+		"id": 201100,
+		"eng": "Banished Knight Armor (Altered)",
+		"chn": "失乡骑士铠甲（轻装）"
+	},
+	{
+		"id": 210000,
+		"eng": "Briar Helm",
+		"chn": "铁棘头盔"
+	},
+	{
+		"id": 210100,
+		"eng": "Briar Armor",
+		"chn": "铁棘铠甲"
+	},
+	{
+		"id": 210200,
+		"eng": "Briar Gauntlets",
+		"chn": "铁棘臂甲"
+	},
+	{
+		"id": 210300,
+		"eng": "Briar Greaves",
+		"chn": "铁棘腿甲"
+	},
+	{
+		"id": 211100,
+		"eng": "Briar Armor (Altered)",
+		"chn": "铁棘铠甲（轻装）"
+	},
+	{
+		"id": 220000,
+		"eng": "Page Hood",
+		"chn": "随从风帽"
+	},
+	{
+		"id": 220100,
+		"eng": "Page Garb",
+		"chn": "随从上衣"
+	},
+	{
+		"id": 220300,
+		"eng": "Page Trousers",
+		"chn": "随从长裤"
+	},
+	{
+		"id": 221100,
+		"eng": "Page Garb (Altered)",
+		"chn": "随从上衣（轻装）"
+	},
+	{
+		"id": 230000,
+		"eng": "Night's Cavalry Helm",
+		"chn": "黑夜骑兵头盔"
+	},
+	{
+		"id": 230100,
+		"eng": "Night's Cavalry Armor",
+		"chn": "黑夜骑兵铠甲"
+	},
+	{
+		"id": 230200,
+		"eng": "Night's Cavalry Gauntlets",
+		"chn": "黑夜骑兵臂甲"
+	},
+	{
+		"id": 230300,
+		"eng": "Night's Cavalry Greaves",
+		"chn": "黑夜骑兵腿甲"
+	},
+	{
+		"id": 231000,
+		"eng": "Night's Cavalry Helm (Altered)",
+		"chn": "黑夜骑兵头盔（轻装）"
+	},
+	{
+		"id": 231100,
+		"eng": "Night's Cavalry Armor (Altered)",
+		"chn": "黑夜骑兵铠甲（轻装）"
+	},
+	{
+		"id": 240000,
+		"eng": "Blue Silver Mail Hood",
+		"chn": "苍银风帽"
+	},
+	{
+		"id": 240100,
+		"eng": "Blue Silver Mail Armor",
+		"chn": "苍银铠甲"
+	},
+	{
+		"id": 240200,
+		"eng": "Blue Silver Bracelets",
+		"chn": "苍银手环"
+	},
+	{
+		"id": 240300,
+		"eng": "Blue Silver Mail Skirt",
+		"chn": "苍银长裙"
+	},
+	{
+		"id": 241100,
+		"eng": "Blue Silver Mail Armor (Altered)",
+		"chn": "苍银铠甲（轻装）"
+	},
+	{
+		"id": 250000,
+		"eng": "Nomadic Merchant's Chapeau",
+		"chn": "流浪商人帽子"
+	},
+	{
+		"id": 250100,
+		"eng": "Nomadic Merchant's Finery",
+		"chn": "流浪商人上衣"
+	},
+	{
+		"id": 250300,
+		"eng": "Nomadic Merchant's Trousers",
+		"chn": "流浪商人长裤"
+	},
+	{
+		"id": 251100,
+		"eng": "Nomadic Merchant's Finery (Altered)",
+		"chn": "流浪商人上衣（轻装）"
+	},
+	{
+		"id": 260000,
+		"eng": "Malformed Dragon Helm",
+		"chn": "异形龙盔"
+	},
+	{
+		"id": 260100,
+		"eng": "Malformed Dragon Armor",
+		"chn": "异形龙铠"
+	},
+	{
+		"id": 260200,
+		"eng": "Malformed Dragon Gauntlets",
+		"chn": "异形龙臂甲"
+	},
+	{
+		"id": 260300,
+		"eng": "Malformed Dragon Greaves",
+		"chn": "异形龙腿甲"
+	},
+	{
+		"id": 270000,
+		"eng": "Tree Sentinel Helm",
+		"chn": "大树守卫头盔"
+	},
+	{
+		"id": 270100,
+		"eng": "Tree Sentinel Armor",
+		"chn": "大树守卫铠甲"
+	},
+	{
+		"id": 270200,
+		"eng": "Tree Sentinel Gauntlets",
+		"chn": "大树守卫臂甲"
+	},
+	{
+		"id": 270300,
+		"eng": "Tree Sentinel Greaves",
+		"chn": "大树守卫腿甲"
+	},
+	{
+		"id": 271100,
+		"eng": "Tree Sentinel Armor (Altered)",
+		"chn": "大树守卫铠甲（轻装）"
+	},
+	{
+		"id": 280000,
+		"eng": "Royal Knight Helm",
+		"chn": "禁卫骑士头盔"
+	},
+	{
+		"id": 280100,
+		"eng": "Royal Knight Armor",
+		"chn": "禁卫骑士铠甲"
+	},
+	{
+		"id": 280200,
+		"eng": "Royal Knight Gauntlets",
+		"chn": "禁卫骑士臂甲"
+	},
+	{
+		"id": 280300,
+		"eng": "Royal Knight Greaves",
+		"chn": "禁卫骑士腿甲"
+	},
+	{
+		"id": 281100,
+		"eng": "Royal Knight Armor (Altered)",
+		"chn": "禁卫骑士铠甲（轻装）"
+	},
+	{
+		"id": 290000,
+		"eng": "Nox Monk Hood",
+		"chn": "诺克斯修士风帽"
+	},
+	{
+		"id": 290100,
+		"eng": "Nox Monk Armor",
+		"chn": "诺克斯修士铠甲"
+	},
+	{
+		"id": 290200,
+		"eng": "Nox Monk Bracelets",
+		"chn": "诺克斯修士手环"
+	},
+	{
+		"id": 290300,
+		"eng": "Nox Monk Greaves",
+		"chn": "诺克斯修士腿甲"
+	},
+	{
+		"id": 291000,
+		"eng": "Nox Monk Hood (Altered)",
+		"chn": "诺克斯修士风帽（轻装）"
+	},
+	{
+		"id": 291100,
+		"eng": "Nox Monk Armor (Altered)",
+		"chn": "诺克斯修士铠甲（轻装）"
+	},
+	{
+		"id": 292000,
+		"eng": "Nox Swordstress Crown",
+		"chn": "诺克斯剑士头冠"
+	},
+	{
+		"id": 292100,
+		"eng": "Nox Swordstress Armor",
+		"chn": "诺克斯剑士铠甲"
+	},
+	{
+		"id": 293000,
+		"eng": "Night Maiden Twin Crown",
+		"chn": "黑夜女巫双生冠"
+	},
+	{
+		"id": 293100,
+		"eng": "Night Maiden Armor",
+		"chn": "黑夜女巫铠甲"
+	},
+	{
+		"id": 294000,
+		"eng": "Nox Swordstress Crown (Altered)",
+		"chn": "诺克斯剑士头冠（轻装）"
+	},
+	{
+		"id": 294100,
+		"eng": "Nox Swordstress Armor (Altered)",
+		"chn": "诺克斯剑士铠甲（轻装）"
+	},
+	{
+		"id": 300000,
+		"eng": "Great Horned Headband",
+		"chn": "大角头带"
+	},
+	{
+		"id": 300100,
+		"eng": "Fur Raiment",
+		"chn": "毛皮上衣"
+	},
+	{
+		"id": 300300,
+		"eng": "Fur Leggings",
+		"chn": "毛皮绑腿"
+	},
+	{
+		"id": 301000,
+		"eng": "Shining Horned Headband",
+		"chn": "光角头带"
+	},
+	{
+		"id": 301100,
+		"eng": "Shaman Furs",
+		"chn": "祭司毛皮上衣"
+	},
+	{
+		"id": 301300,
+		"eng": "Shaman Leggings",
+		"chn": "祭司绑腿"
+	},
+	{
+		"id": 310000,
+		"eng": "Duelist Helm",
+		"chn": "斗士头盔"
+	},
+	{
+		"id": 310100,
+		"eng": "Gravekeeper Cloak",
+		"chn": "守墓斗篷"
+	},
+	{
+		"id": 310300,
+		"eng": "Duelist Greaves",
+		"chn": "斗士腿甲"
+	},
+	{
+		"id": 311100,
+		"eng": "Gravekeeper Cloak (Altered)",
+		"chn": "守墓斗篷（轻装）"
+	},
+	{
+		"id": 320000,
+		"eng": "Sanguine Noble Hood",
+		"chn": "鲜血贵族风帽"
+	},
+	{
+		"id": 320100,
+		"eng": "Sanguine Noble Robe",
+		"chn": "鲜血贵族长袍"
+	},
+	{
+		"id": 320300,
+		"eng": "Sanguine Noble Waistcloth",
+		"chn": "鲜血贵族腰巾"
+	},
+	{
+		"id": 330000,
+		"eng": "Guardian Mask",
+		"chn": "守卫面具"
+	},
+	{
+		"id": 330100,
+		"eng": "Guardian Garb (Full Bloom)",
+		"chn": "守卫上衣（开花）"
+	},
+	{
+		"id": 330200,
+		"eng": "Guardian Bracers",
+		"chn": "守卫臂甲"
+	},
+	{
+		"id": 330300,
+		"eng": "Guardian Greaves",
+		"chn": "守卫腿甲"
+	},
+	{
+		"id": 331100,
+		"eng": "Guardian Garb",
+		"chn": "守卫上衣"
+	},
+	{
+		"id": 340000,
+		"eng": "Cleanrot Helm",
+		"chn": "尊腐骑士头盔"
+	},
+	{
+		"id": 340100,
+		"eng": "Cleanrot Armor",
+		"chn": "尊腐骑士铠甲"
+	},
+	{
+		"id": 340200,
+		"eng": "Cleanrot Gauntlets",
+		"chn": "尊腐骑士臂甲"
+	},
+	{
+		"id": 340300,
+		"eng": "Cleanrot Greaves",
+		"chn": "尊腐骑士腿甲"
+	},
+	{
+		"id": 341000,
+		"eng": "Cleanrot Helm (Altered)",
+		"chn": "尊腐骑士头盔（轻装）"
+	},
+	{
+		"id": 341100,
+		"eng": "Cleanrot Armor (Altered)",
+		"chn": "尊腐骑士铠甲（轻装）"
+	},
+	{
+		"id": 350000,
+		"eng": "Fire Monk Hood",
+		"chn": "火焰习武修士头盔"
+	},
+	{
+		"id": 350100,
+		"eng": "Fire Monk Armor",
+		"chn": "火焰习武修士铠甲"
+	},
+	{
+		"id": 350200,
+		"eng": "Fire Monk Gauntlets",
+		"chn": "火焰习武修士臂甲"
+	},
+	{
+		"id": 350300,
+		"eng": "Fire Monk Greaves",
+		"chn": "火焰习武修士腿甲"
+	},
+	{
+		"id": 351000,
+		"eng": "Blackflame Monk Hood",
+		"chn": "黑焰习武修士头盔"
+	},
+	{
+		"id": 351100,
+		"eng": "Blackflame Monk Armor",
+		"chn": "黑焰习武修士铠甲"
+	},
+	{
+		"id": 351200,
+		"eng": "Blackflame Monk Gauntlets",
+		"chn": "黑焰习武修士臂甲"
+	},
+	{
+		"id": 351300,
+		"eng": "Blackflame Monk Greaves",
+		"chn": "黑焰习武修士腿甲"
+	},
+	{
+		"id": 360000,
+		"eng": "Fire Prelate Helm",
+		"chn": "火焰主教头盔"
+	},
+	{
+		"id": 360100,
+		"eng": "Fire Prelate Armor",
+		"chn": "火焰主教铠甲"
+	},
+	{
+		"id": 360200,
+		"eng": "Fire Prelate Gauntlets",
+		"chn": "火焰主教臂甲"
+	},
+	{
+		"id": 360300,
+		"eng": "Fire Prelate Greaves",
+		"chn": "火焰主教腿甲"
+	},
+	{
+		"id": 361100,
+		"eng": "Fire Prelate Armor (Altered)",
+		"chn": "火焰主教铠甲（轻装）"
+	},
+	{
+		"id": 370000,
+		"eng": "Aristocrat Headband",
+		"chn": "权贵头带"
+	},
+	{
+		"id": 370100,
+		"eng": "Aristocrat Garb",
+		"chn": "权贵上衣"
+	},
+	{
+		"id": 370300,
+		"eng": "Aristocrat Boots",
+		"chn": "权贵靴子"
+	},
+	{
+		"id": 371100,
+		"eng": "Aristocrat Garb (Altered)",
+		"chn": "权贵上衣（轻装）"
+	},
+	{
+		"id": 380000,
+		"eng": "Aristocrat Hat",
+		"chn": "权贵帽子"
+	},
+	{
+		"id": 380100,
+		"eng": "Aristocrat Coat",
+		"chn": "权贵大衣"
+	},
+	{
+		"id": 390000,
+		"eng": "Old Aristocrat Cowl",
+		"chn": "年迈权贵头巾"
+	},
+	{
+		"id": 390100,
+		"eng": "Old Aristocrat Gown",
+		"chn": "年迈权贵长袍"
+	},
+	{
+		"id": 390300,
+		"eng": "Old Aristocrat Shoes",
+		"chn": "年迈权贵短靴"
+	},
+	{
+		"id": 420000,
+		"eng": "Vulgar Militia Helm",
+		"chn": "恶兵头盔"
+	},
+	{
+		"id": 420100,
+		"eng": "Vulgar Militia Armor",
+		"chn": "恶兵铠甲"
+	},
+	{
+		"id": 420200,
+		"eng": "Vulgar Militia Gauntlets",
+		"chn": "恶兵臂甲"
+	},
+	{
+		"id": 420300,
+		"eng": "Vulgar Militia Greaves",
+		"chn": "恶兵腿甲"
+	},
+	{
+		"id": 430000,
+		"eng": "Sage Hood",
+		"chn": "贤者风帽"
+	},
+	{
+		"id": 430100,
+		"eng": "Sage Robe",
+		"chn": "贤者长袍"
+	},
+	{
+		"id": 430300,
+		"eng": "Sage Trousers",
+		"chn": "贤者长裤"
+	},
+	{
+		"id": 440000,
+		"eng": "Pumpkin Helm",
+		"chn": "南瓜头盔"
+	},
+	{
+		"id": 460000,
+		"eng": "Elden Lord Crown",
+		"chn": "艾尔登之王头冠"
+	},
+	{
+		"id": 460100,
+		"eng": "Elden Lord Armor",
+		"chn": "艾尔登之王铠甲"
+	},
+	{
+		"id": 460200,
+		"eng": "Elden Lord Bracers",
+		"chn": "艾尔登之王臂甲"
+	},
+	{
+		"id": 460300,
+		"eng": "Elden Lord Greaves",
+		"chn": "艾尔登之王腿甲"
+	},
+	{
+		"id": 461100,
+		"eng": "Elden Lord Armor (Altered)",
+		"chn": "艾尔登之王铠甲（轻装）"
+	},
+	{
+		"id": 470000,
+		"eng": "Radahn's Redmane Helm",
+		"chn": "拉塔恩红发头盔"
+	},
+	{
+		"id": 470100,
+		"eng": "Radahn's Lion Armor",
+		"chn": "拉塔恩狮子铠甲"
+	},
+	{
+		"id": 470200,
+		"eng": "Radahn's Gauntlets",
+		"chn": "拉塔恩臂甲"
+	},
+	{
+		"id": 470300,
+		"eng": "Radahn's Greaves",
+		"chn": "拉塔恩腿甲"
+	},
+	{
+		"id": 471100,
+		"eng": "Radahn's Lion Armor (Altered)",
+		"chn": "拉塔恩狮子铠甲（轻装）"
+	},
+	{
+		"id": 480100,
+		"eng": "Lord of Blood's Robe",
+		"chn": "鲜血君王上衣"
+	},
+	{
+		"id": 481100,
+		"eng": "Lord of Blood's Robe (Altered)",
+		"chn": "鲜血君王上衣（轻装）"
+	},
+	{
+		"id": 510000,
+		"eng": "Queen's Crescent Crown",
+		"chn": "女王弯月冠"
+	},
+	{
+		"id": 510100,
+		"eng": "Queen's Robe",
+		"chn": "女王长袍"
+	},
+	{
+		"id": 510200,
+		"eng": "Queen's Bracelets",
+		"chn": "女王手环"
+	},
+	{
+		"id": 510300,
+		"eng": "Queen's Leggings",
+		"chn": "女王长裤"
+	},
+	{
+		"id": 520000,
+		"eng": "Godskin Apostle Hood",
+		"chn": "神皮使徒风帽"
+	},
+	{
+		"id": 520100,
+		"eng": "Godskin Apostle Robe",
+		"chn": "神皮使徒长袍"
+	},
+	{
+		"id": 520200,
+		"eng": "Godskin Apostle Bracelets",
+		"chn": "使徒手环"
+	},
+	{
+		"id": 520300,
+		"eng": "Godskin Apostle Trousers",
+		"chn": "使徒长裤"
+	},
+	{
+		"id": 530000,
+		"eng": "Godskin Noble Hood",
+		"chn": "神皮贵族风帽"
+	},
+	{
+		"id": 530100,
+		"eng": "Godskin Noble Robe",
+		"chn": "神皮贵族长袍"
+	},
+	{
+		"id": 530200,
+		"eng": "Godskin Noble Bracelets",
+		"chn": "贵族手环"
+	},
+	{
+		"id": 530300,
+		"eng": "Godskin Noble Trousers",
+		"chn": "贵族长裤"
+	},
+	{
+		"id": 540000,
+		"eng": "Depraved Perfumer Headscarf",
+		"chn": "堕落调香师帽子"
+	},
+	{
+		"id": 540100,
+		"eng": "Depraved Perfumer Robe",
+		"chn": "堕落调香师长袍"
+	},
+	{
+		"id": 540200,
+		"eng": "Depraved Perfumer Gloves",
+		"chn": "堕落调香师手套"
+	},
+	{
+		"id": 540300,
+		"eng": "Depraved Perfumer Trousers",
+		"chn": "堕落调香师长裤"
+	},
+	{
+		"id": 541100,
+		"eng": "Depraved Perfumer Robe (Altered)",
+		"chn": "堕落调香师长袍（轻装）"
+	},
+	{
+		"id": 570000,
+		"eng": "Crucible Axe Helm",
+		"chn": "熔炉斧形盔"
+	},
+	{
+		"id": 570100,
+		"eng": "Crucible Axe Armor",
+		"chn": "熔炉斧形铠"
+	},
+	{
+		"id": 570200,
+		"eng": "Crucible Gauntlets",
+		"chn": "熔炉臂甲"
+	},
+	{
+		"id": 570300,
+		"eng": "Crucible Greaves",
+		"chn": "熔炉腿甲"
+	},
+	{
+		"id": 571000,
+		"eng": "Crucible Tree Helm",
+		"chn": "熔炉树形盔"
+	},
+	{
+		"id": 571100,
+		"eng": "Crucible Tree Armor",
+		"chn": "熔炉树形铠"
+	},
+	{
+		"id": 572100,
+		"eng": "Crucible Axe Armor (Altered)",
+		"chn": "熔炉斧形铠（轻装）"
+	},
+	{
+		"id": 573100,
+		"eng": "Crucible Tree Armor (Altered)",
+		"chn": "熔炉树形铠（轻装）"
+	},
+	{
+		"id": 580000,
+		"eng": "Lusat's Glintstone Crown",
+		"chn": "卢瑟特辉石头冠"
+	},
+	{
+		"id": 580100,
+		"eng": "Lusat's Robe",
+		"chn": "卢瑟特长袍"
+	},
+	{
+		"id": 580200,
+		"eng": "Lusat's Manchettes",
+		"chn": "卢瑟特腕套"
+	},
+	{
+		"id": 580300,
+		"eng": "Old Sorcerer's Legwraps",
+		"chn": "古老魔法师绑腿"
+	},
+	{
+		"id": 581000,
+		"eng": "Azur's Glintstone Crown",
+		"chn": "亚兹勒辉石头冠"
+	},
+	{
+		"id": 581100,
+		"eng": "Azur's Glintstone Robe",
+		"chn": "亚兹勒长袍"
+	},
+	{
+		"id": 581200,
+		"eng": "Azur's Manchettes",
+		"chn": "亚兹勒腕套"
+	},
+	{
+		"id": 590000,
+		"eng": "All-Knowing Helm",
+		"chn": "百智头盔"
+	},
+	{
+		"id": 590100,
+		"eng": "All-Knowing Armor",
+		"chn": "百智铠甲"
+	},
+	{
+		"id": 590200,
+		"eng": "All-Knowing Gauntlets",
+		"chn": "百智臂甲"
+	},
+	{
+		"id": 590300,
+		"eng": "All-Knowing Greaves",
+		"chn": "百智腿甲"
+	},
+	{
+		"id": 591100,
+		"eng": "All-Knowing Armor (Altered)",
+		"chn": "百智铠甲（轻装）"
+	},
+	{
+		"id": 600000,
+		"eng": "Twinned Helm",
+		"chn": "孪生头盔"
+	},
+	{
+		"id": 600100,
+		"eng": "Twinned Armor",
+		"chn": "孪生铠甲"
+	},
+	{
+		"id": 600200,
+		"eng": "Twinned Gauntlets",
+		"chn": "孪生臂甲"
+	},
+	{
+		"id": 600300,
+		"eng": "Twinned Greaves",
+		"chn": "孪生腿甲"
+	},
+	{
+		"id": 601100,
+		"eng": "Twinned Armor (Altered)",
+		"chn": "孪生铠甲（轻装）"
+	},
+	{
+		"id": 601300,
+		"eng": "Twinned Greaves (Altered)",
+		"chn": "孪生腿甲（轻装）"
+	},
+	{
+		"id": 610000,
+		"eng": "Ragged Hat",
+		"chn": "拼接帽子"
+	},
+	{
+		"id": 610100,
+		"eng": "Ragged Armor",
+		"chn": "拼接铠甲"
+	},
+	{
+		"id": 610200,
+		"eng": "Ragged Gloves",
+		"chn": "拼接手套"
+	},
+	{
+		"id": 610300,
+		"eng": "Ragged Loincloth",
+		"chn": "拼接腰巾"
+	},
+	{
+		"id": 611000,
+		"eng": "Ragged Hat (Altered)",
+		"chn": "拼接帽子（轻装）"
+	},
+	{
+		"id": 611100,
+		"eng": "Ragged Armor (Altered)",
+		"chn": "拼接铠甲（轻装）"
+	},
+	{
+		"id": 620000,
+		"eng": "Prophet Blindfold",
+		"chn": "预言家眼罩"
+	},
+	{
+		"id": 620100,
+		"eng": "Corhyn's Robe",
+		"chn": "柯林长袍"
+	},
+	{
+		"id": 620300,
+		"eng": "Prophet Trousers",
+		"chn": "预言家长裤"
+	},
+	{
+		"id": 621100,
+		"eng": "Prophet Robe (Altered)",
+		"chn": "预言家长袍（轻装）"
+	},
+	{
+		"id": 622100,
+		"eng": "Prophet Robe",
+		"chn": "预言家长袍"
+	},
+	{
+		"id": 630000,
+		"eng": "Astrologer Hood",
+		"chn": "观星者风帽"
+	},
+	{
+		"id": 630100,
+		"eng": "Astrologer Robe",
+		"chn": "观星者长袍"
+	},
+	{
+		"id": 630200,
+		"eng": "Astrologer Gloves",
+		"chn": "观星者手套"
+	},
+	{
+		"id": 630300,
+		"eng": "Astrologer Trousers",
+		"chn": "观星者长裤"
+	},
+	{
+		"id": 631100,
+		"eng": "Astrologer Robe (Altered)",
+		"chn": "观星者长袍（轻装）"
+	},
+	{
+		"id": 640000,
+		"eng": "Lionel's Helm",
+		"chn": "莱恩尼尔头盔"
+	},
+	{
+		"id": 640100,
+		"eng": "Lionel's Armor",
+		"chn": "莱恩尼尔铠甲"
+	},
+	{
+		"id": 640200,
+		"eng": "Lionel's Gauntlets",
+		"chn": "莱恩尼尔臂甲"
+	},
+	{
+		"id": 640300,
+		"eng": "Lionel's Greaves",
+		"chn": "莱恩尼尔腿甲"
+	},
+	{
+		"id": 641100,
+		"eng": "Lionel's Armor (Altered)",
+		"chn": "莱恩尼尔铠甲（轻装）"
+	},
+	{
+		"id": 650000,
+		"eng": "Hoslow's Helm",
+		"chn": "霍斯劳头盔"
+	},
+	{
+		"id": 650100,
+		"eng": "Hoslow's Armor",
+		"chn": "霍斯劳铠甲"
+	},
+	{
+		"id": 650200,
+		"eng": "Hoslow's Gauntlets",
+		"chn": "霍斯劳臂甲"
+	},
+	{
+		"id": 650300,
+		"eng": "Hoslow's Greaves",
+		"chn": "霍斯劳腿甲"
+	},
+	{
+		"id": 651000,
+		"eng": "Diallos's Mask",
+		"chn": "狄亚罗斯头盔"
+	},
+	{
+		"id": 652100,
+		"eng": "Hoslow's Armor (Altered)",
+		"chn": "霍斯劳铠甲（轻装）"
+	},
+	{
+		"id": 660000,
+		"eng": "Vagabond Knight Helm",
+		"chn": "流浪骑士头盔"
+	},
+	{
+		"id": 660100,
+		"eng": "Vagabond Knight Armor",
+		"chn": "流浪骑士铠甲"
+	},
+	{
+		"id": 660200,
+		"eng": "Vagabond Knight Gauntlets",
+		"chn": "流浪骑士臂甲"
+	},
+	{
+		"id": 660300,
+		"eng": "Vagabond Knight Greaves",
+		"chn": "流浪骑士腿甲"
+	},
+	{
+		"id": 661100,
+		"eng": "Vagabond Knight Armor (Altered)",
+		"chn": "流浪骑士铠甲（轻装）"
+	},
+	{
+		"id": 670000,
+		"eng": "Blue Cloth Cowl",
+		"chn": "蓝布头巾"
+	},
+	{
+		"id": 670100,
+		"eng": "Blue Cloth Vest",
+		"chn": "蓝布上衣"
+	},
+	{
+		"id": 670200,
+		"eng": "Warrior Gauntlets",
+		"chn": "剑士臂甲"
+	},
+	{
+		"id": 670300,
+		"eng": "Warrior Greaves",
+		"chn": "剑士腿甲"
+	},
+	{
+		"id": 680000,
+		"eng": "White Mask",
+		"chn": "白面具"
+	},
+	{
+		"id": 680100,
+		"eng": "War Surgeon Gown",
+		"chn": "战场医师白上衣"
+	},
+	{
+		"id": 680200,
+		"eng": "War Surgeon Gloves",
+		"chn": "战场医师手套"
+	},
+	{
+		"id": 680300,
+		"eng": "War Surgeon Trousers",
+		"chn": "战场医师长裤"
+	},
+	{
+		"id": 681100,
+		"eng": "War Surgeon Gown (Altered)",
+		"chn": "战场医师白上衣（轻装）"
+	},
+	{
+		"id": 690000,
+		"eng": "Royal Remains Helm",
+		"chn": "王骸头盔"
+	},
+	{
+		"id": 690100,
+		"eng": "Royal Remains Armor",
+		"chn": "王骸铠甲"
+	},
+	{
+		"id": 690200,
+		"eng": "Royal Remains Gauntlets",
+		"chn": "王骸臂甲"
+	},
+	{
+		"id": 690300,
+		"eng": "Royal Remains Greaves",
+		"chn": "王骸腿甲"
+	},
+	{
+		"id": 700000,
+		"eng": "Brave's Cord Circlet",
+		"chn": "勇士额带"
+	},
+	{
+		"id": 700100,
+		"eng": "Brave's Battlewear",
+		"chn": "勇士战袍"
+	},
+	{
+		"id": 700200,
+		"eng": "Brave's Bracer",
+		"chn": "勇士腕套"
+	},
+	{
+		"id": 700300,
+		"eng": "Brave's Legwraps",
+		"chn": "勇士绑腿"
+	},
+	{
+		"id": 701000,
+		"eng": "Brave's Leather Helm",
+		"chn": "勇士皮盔"
+	},
+	{
+		"id": 702000,
+		"eng": "Brave's Battlewear (Altered)",
+		"chn": "勇士战袍（轻装）"
+	},
+	{
+		"id": 720000,
+		"eng": "Beast Champion Helm",
+		"chn": "聚兽头盔"
+	},
+	{
+		"id": 720100,
+		"eng": "Beast Champion Armor",
+		"chn": "聚兽铠甲"
+	},
+	{
+		"id": 720200,
+		"eng": "Beast Champion Gauntlets",
+		"chn": "聚兽臂甲"
+	},
+	{
+		"id": 720300,
+		"eng": "Beast Champion Greaves",
+		"chn": "聚兽腿甲"
+	},
+	{
+		"id": 721100,
+		"eng": "Beast Champion Armor (Altered)",
+		"chn": "聚兽铠甲（轻装）"
+	},
+	{
+		"id": 730000,
+		"eng": "Champion Headband",
+		"chn": "勇者头带"
+	},
+	{
+		"id": 730100,
+		"eng": "Champion Pauldron",
+		"chn": "勇者肩甲"
+	},
+	{
+		"id": 730200,
+		"eng": "Champion Bracers",
+		"chn": "勇者臂甲"
+	},
+	{
+		"id": 730300,
+		"eng": "Champion Gaiters",
+		"chn": "勇者绑腿"
+	},
+	{
+		"id": 740000,
+		"eng": "Crimson Hood",
+		"chn": "暗红风帽"
+	},
+	{
+		"id": 740100,
+		"eng": "Noble's Traveling Garb",
+		"chn": "贵族旅行装"
+	},
+	{
+		"id": 740200,
+		"eng": "Noble's Gloves",
+		"chn": "贵族手套"
+	},
+	{
+		"id": 740300,
+		"eng": "Noble's Trousers",
+		"chn": "贵族长裤"
+	},
+	{
+		"id": 741000,
+		"eng": "Navy Hood",
+		"chn": "深蓝风帽"
+	},
+	{
+		"id": 760000,
+		"eng": "Maliketh's Helm",
+		"chn": "玛利喀斯头盔"
+	},
+	{
+		"id": 760100,
+		"eng": "Maliketh's Armor",
+		"chn": "玛利喀斯铠甲"
+	},
+	{
+		"id": 760200,
+		"eng": "Maliketh's Gauntlets",
+		"chn": "玛利喀斯臂甲"
+	},
+	{
+		"id": 760300,
+		"eng": "Maliketh's Greaves",
+		"chn": "玛利喀斯腿甲"
+	},
+	{
+		"id": 761100,
+		"eng": "Maliketh's Armor (Altered)",
+		"chn": "玛利喀斯铠甲（轻装）"
+	},
+	{
+		"id": 770000,
+		"eng": "Malenia's Winged Helm",
+		"chn": "玛莲妮亚飞翼头盔"
+	},
+	{
+		"id": 770100,
+		"eng": "Malenia's Armor",
+		"chn": "玛莲妮亚铠甲"
+	},
+	{
+		"id": 770200,
+		"eng": "Malenia's Gauntlet",
+		"chn": "玛莲妮亚臂甲"
+	},
+	{
+		"id": 770300,
+		"eng": "Malenia's Greaves",
+		"chn": "玛莲妮亚腿甲"
+	},
+	{
+		"id": 771100,
+		"eng": "Malenia's Armor (Altered)",
+		"chn": "玛莲妮亚铠甲（轻装）"
+	},
+	{
+		"id": 780000,
+		"eng": "Veteran's Helm",
+		"chn": "老将头盔"
+	},
+	{
+		"id": 780100,
+		"eng": "Veteran's Armor",
+		"chn": "老将铠甲"
+	},
+	{
+		"id": 780200,
+		"eng": "Veteran's Gauntlets",
+		"chn": "老将臂甲"
+	},
+	{
+		"id": 780300,
+		"eng": "Veteran's Greaves",
+		"chn": "老将腿甲"
+	},
+	{
+		"id": 781100,
+		"eng": "Veteran's Armor (Altered)",
+		"chn": "老将铠甲（轻装）"
+	},
+	{
+		"id": 790000,
+		"eng": "Bloodhound Knight Helm",
+		"chn": "猎犬骑士头盔"
+	},
+	{
+		"id": 790100,
+		"eng": "Bloodhound Knight Armor",
+		"chn": "猎犬骑士铠甲"
+	},
+	{
+		"id": 790200,
+		"eng": "Bloodhound Knight Gauntlets",
+		"chn": "猎犬骑士臂甲"
+	},
+	{
+		"id": 790300,
+		"eng": "Bloodhound Knight Greaves",
+		"chn": "猎犬骑士腿甲"
+	},
+	{
+		"id": 791100,
+		"eng": "Bloodhound Knight Armor (Altered)",
+		"chn": "猎犬骑士铠甲（轻装）"
+	},
+	{
+		"id": 800000,
+		"eng": "Festive Hood",
+		"chn": "庆典风帽"
+	},
+	{
+		"id": 800100,
+		"eng": "Festive Garb",
+		"chn": "庆典礼服"
+	},
+	{
+		"id": 801000,
+		"eng": "Festive Hood (Altered)",
+		"chn": "庆典风帽（简化）"
+	},
+	{
+		"id": 801100,
+		"eng": "Festive Garb (Altered)",
+		"chn": "庆典礼服（简化）"
+	},
+	{
+		"id": 802000,
+		"eng": "Blue Festive Hood",
+		"chn": "庆典蓝风帽"
+	},
+	{
+		"id": 802100,
+		"eng": "Blue Festive Garb",
+		"chn": "庆典蓝礼服"
+	},
+	{
+		"id": 810000,
+		"eng": "Commoner's Headband",
+		"chn": "居民头巾"
+	},
+	{
+		"id": 810100,
+		"eng": "Commoner's Garb",
+		"chn": "居民上衣"
+	},
+	{
+		"id": 810300,
+		"eng": "Commoner's Shoes",
+		"chn": "居民鞋子"
+	},
+	{
+		"id": 811000,
+		"eng": "Commoner's Headband (Altered)",
+		"chn": "居民头巾（轻装）"
+	},
+	{
+		"id": 811100,
+		"eng": "Commoner's Garb (Altered)",
+		"chn": "居民上衣（轻装）"
+	},
+	{
+		"id": 812000,
+		"eng": "Commoner's Simple Garb",
+		"chn": "居民便衣"
+	},
+	{
+		"id": 812100,
+		"eng": "Commoner's Simple Garb (Altered)",
+		"chn": "居民便衣（轻装）"
+	},
+	{
+		"id": 820000,
+		"eng": "Envoy Crown",
+		"chn": "众使者大头冠"
+	},
+	{
+		"id": 830000,
+		"eng": "Twinsage Glintstone Crown",
+		"chn": "双贤辉石头罩"
+	},
+	{
+		"id": 830100,
+		"eng": "Raya Lucarian Robe",
+		"chn": "雷亚卢卡利亚长袍"
+	},
+	{
+		"id": 830200,
+		"eng": "Sorcerer Manchettes",
+		"chn": "魔法师腕套"
+	},
+	{
+		"id": 830300,
+		"eng": "Sorcerer Leggings",
+		"chn": "魔法师绑腿"
+	},
+	{
+		"id": 831000,
+		"eng": "Olivinus Glintstone Crown",
+		"chn": "奥利维尼斯辉石头罩"
+	},
+	{
+		"id": 832000,
+		"eng": "Lazuli Glintstone Crown",
+		"chn": "拉兹利辉石头罩"
+	},
+	{
+		"id": 833000,
+		"eng": "Karolos Glintstone Crown",
+		"chn": "卡勒罗斯辉石头罩"
+	},
+	{
+		"id": 834000,
+		"eng": "Witch's Glintstone Crown",
+		"chn": "魔女辉石头罩"
+	},
+	{
+		"id": 840000,
+		"eng": "Marionette Soldier Helm",
+		"chn": "人偶兵头盔"
+	},
+	{
+		"id": 840100,
+		"eng": "Marionette Soldier Armor",
+		"chn": "人偶兵铠甲"
+	},
+	{
+		"id": 850000,
+		"eng": "Marionette Soldier Birdhelm",
+		"chn": "人偶兵鸟笼盔"
+	},
+	{
+		"id": 860000,
+		"eng": "Raging Wolf Helm",
+		"chn": "战鬼头盔"
+	},
+	{
+		"id": 860100,
+		"eng": "Raging Wolf Armor",
+		"chn": "战鬼铠甲"
+	},
+	{
+		"id": 860200,
+		"eng": "Raging Wolf Gauntlets",
+		"chn": "战鬼臂甲"
+	},
+	{
+		"id": 860300,
+		"eng": "Raging Wolf Greaves",
+		"chn": "战鬼腿甲"
+	},
+	{
+		"id": 861100,
+		"eng": "Raging Wolf Armor (Altered)",
+		"chn": "战鬼铠甲（轻装）"
+	},
+	{
+		"id": 870000,
+		"eng": "Land of Reeds Helm",
+		"chn": "芦苇之地头盔"
+	},
+	{
+		"id": 870100,
+		"eng": "Land of Reeds Armor",
+		"chn": "芦苇之地铠甲"
+	},
+	{
+		"id": 870200,
+		"eng": "Land of Reeds Gauntlets",
+		"chn": "芦苇之地臂甲"
+	},
+	{
+		"id": 870300,
+		"eng": "Land of Reeds Greaves",
+		"chn": "芦苇之地腿甲"
+	},
+	{
+		"id": 871100,
+		"eng": "Land of Reeds Armor (Altered)",
+		"chn": "芦苇之地铠甲（轻装）"
+	},
+	{
+		"id": 872000,
+		"eng": "Okina Mask",
+		"chn": "老翁面具"
+	},
+	{
+		"id": 872100,
+		"eng": "White Reed Armor",
+		"chn": "待殓铠甲"
+	},
+	{
+		"id": 872200,
+		"eng": "White Reed Gauntlets",
+		"chn": "待殓臂甲"
+	},
+	{
+		"id": 872300,
+		"eng": "White Reed Greaves",
+		"chn": "待殓腿甲"
+	},
+	{
+		"id": 880000,
+		"eng": "Confessor Hood",
+		"chn": "密使风帽"
+	},
+	{
+		"id": 880100,
+		"eng": "Confessor Armor",
+		"chn": "密使铠甲"
+	},
+	{
+		"id": 880200,
+		"eng": "Confessor Gloves",
+		"chn": "密使手套"
+	},
+	{
+		"id": 880300,
+		"eng": "Confessor Boots",
+		"chn": "密使靴子"
+	},
+	{
+		"id": 881000,
+		"eng": "Confessor Hood (Altered)",
+		"chn": "密使风帽（轻装）"
+	},
+	{
+		"id": 881100,
+		"eng": "Confessor Armor (Altered)",
+		"chn": "密使铠甲（轻装）"
+	},
+	{
+		"id": 890000,
+		"eng": "Prisoner Iron Mask",
+		"chn": "囚犯铁面具"
+	},
+	{
+		"id": 890100,
+		"eng": "Prisoner Clothing",
+		"chn": "囚犯布衣"
+	},
+	{
+		"id": 890300,
+		"eng": "Prisoner Trousers",
+		"chn": "囚犯长裤"
+	},
+	{
+		"id": 891000,
+		"eng": "Blackguard's Iron Mask",
+		"chn": "流氓铁面具"
+	},
+	{
+		"id": 900000,
+		"eng": "Traveling Maiden Hood",
+		"chn": "旅行女巫风帽"
+	},
+	{
+		"id": 900100,
+		"eng": "Traveling Maiden Robe",
+		"chn": "旅行女巫长袍"
+	},
+	{
+		"id": 900200,
+		"eng": "Traveling Maiden Gloves",
+		"chn": "旅行女巫手套"
+	},
+	{
+		"id": 900300,
+		"eng": "Traveling Maiden Boots",
+		"chn": "旅行女巫靴子"
+	},
+	{
+		"id": 901100,
+		"eng": "Traveling Maiden Robe (Altered)",
+		"chn": "旅行女巫长袍（轻装）"
+	},
+	{
+		"id": 902000,
+		"eng": "Finger Maiden Fillet",
+		"chn": "指头女巫帽子"
+	},
+	{
+		"id": 902100,
+		"eng": "Finger Maiden Robe",
+		"chn": "指头女巫长袍"
+	},
+	{
+		"id": 902300,
+		"eng": "Finger Maiden Shoes",
+		"chn": "指头女巫鞋子"
+	},
+	{
+		"id": 903100,
+		"eng": "Finger Maiden Robe (Altered)",
+		"chn": "指头女巫长袍（轻装）"
+	},
+	{
+		"id": 910000,
+		"eng": "Preceptor's Big Hat",
+		"chn": "魔法教授大帽子"
+	},
+	{
+		"id": 910100,
+		"eng": "Preceptor's Long Gown",
+		"chn": "魔法教授长袍"
+	},
+	{
+		"id": 910200,
+		"eng": "Preceptor's Gloves",
+		"chn": "魔法教授手套"
+	},
+	{
+		"id": 910300,
+		"eng": "Preceptor's Trousers",
+		"chn": "魔法教授长裤"
+	},
+	{
+		"id": 911000,
+		"eng": "Mask of Confidence",
+		"chn": "藏身面具"
+	},
+	{
+		"id": 911100,
+		"eng": "Preceptor's Long Gown (Altered)",
+		"chn": "魔法教授长袍（轻装）"
+	},
+	{
+		"id": 930000,
+		"eng": "Skeletal Mask",
+		"chn": "亡骨面具"
+	},
+	{
+		"id": 930100,
+		"eng": "Raptor's Black Feathers",
+		"chn": "猛禽黑羽"
+	},
+	{
+		"id": 930200,
+		"eng": "Bandit Manchettes",
+		"chn": "盗贼腕套"
+	},
+	{
+		"id": 930300,
+		"eng": "Bandit Boots",
+		"chn": "盗贼靴子"
+	},
+	{
+		"id": 931100,
+		"eng": "Bandit Garb",
+		"chn": "盗贼束腰衣"
+	},
+	{
+		"id": 940000,
+		"eng": "Eccentric's Hood",
+		"chn": "奇异骑士风帽"
+	},
+	{
+		"id": 940100,
+		"eng": "Eccentric's Armor",
+		"chn": "奇异骑士铠甲"
+	},
+	{
+		"id": 940200,
+		"eng": "Eccentric's Manchettes",
+		"chn": "奇异骑士腕套"
+	},
+	{
+		"id": 940300,
+		"eng": "Eccentric's Breeches",
+		"chn": "奇异骑士长裤"
+	},
+	{
+		"id": 941000,
+		"eng": "Eccentric's Hood (Altered)",
+		"chn": "奇异骑士风帽（轻装）"
+	},
+	{
+		"id": 950000,
+		"eng": "Fingerprint Helm",
+		"chn": "指痕头盔"
+	},
+	{
+		"id": 950100,
+		"eng": "Fingerprint Armor",
+		"chn": "指痕铠甲"
+	},
+	{
+		"id": 950200,
+		"eng": "Fingerprint Gauntlets",
+		"chn": "指痕臂甲"
+	},
+	{
+		"id": 950300,
+		"eng": "Fingerprint Greaves",
+		"chn": "指痕腿甲"
+	},
+	{
+		"id": 951100,
+		"eng": "Fingerprint Armor (Altered)",
+		"chn": "指痕铠甲（轻装）"
+	},
+	{
+		"id": 960000,
+		"eng": "Consort's Mask",
+		"chn": "侧室面具"
+	},
+	{
+		"id": 960100,
+		"eng": "Consort's Robe",
+		"chn": "侧室长袍"
+	},
+	{
+		"id": 960300,
+		"eng": "Consort's Trousers",
+		"chn": "侧室长裤"
+	},
+	{
+		"id": 961000,
+		"eng": "Ruler's Mask",
+		"chn": "领主面具"
+	},
+	{
+		"id": 961100,
+		"eng": "Ruler's Robe",
+		"chn": "领主长袍"
+	},
+	{
+		"id": 962100,
+		"eng": "Upper-Class Robe",
+		"chn": "上流阶级长袍"
+	},
+	{
+		"id": 963000,
+		"eng": "Marais Mask",
+		"chn": "玛雷家面具"
+	},
+	{
+		"id": 963100,
+		"eng": "Marais Robe",
+		"chn": "玛雷家长袍"
+	},
+	{
+		"id": 963200,
+		"eng": "Bloodsoaked Manchettes",
+		"chn": "渗血腕套"
+	},
+	{
+		"id": 964000,
+		"eng": "Bloodsoaked Mask",
+		"chn": "渗血面具"
+	},
+	{
+		"id": 964100,
+		"eng": "Official's Attire",
+		"chn": "官吏上衣"
+	},
+	{
+		"id": 970000,
+		"eng": "Omen Helm",
+		"chn": "忌讳头盔"
+	},
+	{
+		"id": 970100,
+		"eng": "Omen Armor",
+		"chn": "忌讳铠甲"
+	},
+	{
+		"id": 970200,
+		"eng": "Omen Gauntlets",
+		"chn": "忌讳臂甲"
+	},
+	{
+		"id": 970300,
+		"eng": "Omen Greaves",
+		"chn": "忌讳腿甲"
+	},
+	{
+		"id": 980000,
+		"eng": "Carian Knight Helm",
+		"chn": "卡利亚骑士头盔"
+	},
+	{
+		"id": 980100,
+		"eng": "Carian Knight Armor",
+		"chn": "卡利亚骑士铠甲"
+	},
+	{
+		"id": 980200,
+		"eng": "Carian Knight Gauntlets",
+		"chn": "卡利亚骑士臂甲"
+	},
+	{
+		"id": 980300,
+		"eng": "Carian Knight Greaves",
+		"chn": "卡利亚骑士腿甲"
+	},
+	{
+		"id": 981100,
+		"eng": "Carian Knight Armor (Altered)",
+		"chn": "卡利亚骑士铠甲（轻装）"
+	},
+	{
+		"id": 990000,
+		"eng": "Hierodas Glintstone Crown",
+		"chn": "亚罗塔斯辉石头罩"
+	},
+	{
+		"id": 990100,
+		"eng": "Errant Sorcerer Robe",
+		"chn": "离群魔法师长袍"
+	},
+	{
+		"id": 990200,
+		"eng": "Errant Sorcerer Manchettes",
+		"chn": "离群魔法师腕套"
+	},
+	{
+		"id": 990300,
+		"eng": "Errant Sorcerer Boots",
+		"chn": "离群魔法师靴子"
+	},
+	{
+		"id": 991100,
+		"eng": "Errant Sorcerer Robe (Altered)",
+		"chn": "离群魔法师长袍（轻装）"
+	},
+	{
+		"id": 1000000,
+		"eng": "Haima Glintstone Crown",
+		"chn": "海摩辉石头罩"
+	},
+	{
+		"id": 1000100,
+		"eng": "Battlemage Robe",
+		"chn": "战场魔法师长袍"
+	},
+	{
+		"id": 1000200,
+		"eng": "Battlemage Manchettes",
+		"chn": "战场魔法师腕套"
+	},
+	{
+		"id": 1000300,
+		"eng": "Battlemage Legwraps",
+		"chn": "战场魔法师绑腿"
+	},
+	{
+		"id": 1010000,
+		"eng": "Snow Witch Hat",
+		"chn": "雪魔女尖帽"
+	},
+	{
+		"id": 1010100,
+		"eng": "Snow Witch Robe",
+		"chn": "雪魔女长袍"
+	},
+	{
+		"id": 1010300,
+		"eng": "Snow Witch Skirt",
+		"chn": "雪魔女长裙"
+	},
+	{
+		"id": 1011100,
+		"eng": "Snow Witch Robe (Altered)",
+		"chn": "雪魔女长袍（轻装）"
+	},
+	{
+		"id": 1020100,
+		"eng": "Traveler's Clothes",
+		"chn": "旅行上衣"
+	},
+	{
+		"id": 1020200,
+		"eng": "Traveler's Manchettes",
+		"chn": "旅行腕套"
+	},
+	{
+		"id": 1020300,
+		"eng": "Traveler's Boots",
+		"chn": "旅行靴子"
+	},
+	{
+		"id": 1030000,
+		"eng": "Juvenile Scholar Cap",
+		"chn": "年幼学徒帽子"
+	},
+	{
+		"id": 1030100,
+		"eng": "Juvenile Scholar Robe",
+		"chn": "年幼学徒长袍"
+	},
+	{
+		"id": 1040000,
+		"eng": "Radiant Gold Mask",
+		"chn": "光耀金面具"
+	},
+	{
+		"id": 1040100,
+		"eng": "Goldmask's Rags",
+		"chn": "金面具的破布"
+	},
+	{
+		"id": 1040200,
+		"eng": "Gold Bracelets",
+		"chn": "金色腕套"
+	},
+	{
+		"id": 1040300,
+		"eng": "Gold Waistwrap",
+		"chn": "金色腰巾"
+	},
+	{
+		"id": 1050100,
+		"eng": "Fell Omen Cloak",
+		"chn": "恶兆妖鬼斗篷"
+	},
+	{
+		"id": 1060000,
+		"eng": "Albinauric Mask",
+		"chn": "白金之子头罩"
+	},
+	{
+		"id": 1060100,
+		"eng": "Dirty Chainmail",
+		"chn": "骯脏锁子铠甲"
+	},
+	{
+		"id": 1070000,
+		"eng": "Zamor Mask",
+		"chn": "萨米尔面具"
+	},
+	{
+		"id": 1070100,
+		"eng": "Zamor Armor",
+		"chn": "萨米尔铠甲"
+	},
+	{
+		"id": 1070200,
+		"eng": "Zamor Bracelets",
+		"chn": "萨米尔腕套"
+	},
+	{
+		"id": 1070300,
+		"eng": "Zamor Legwraps",
+		"chn": "萨米尔绑腿"
+	},
+	{
+		"id": 1080000,
+		"eng": "Imp Head (Cat)",
+		"chn": "小恶魔头罩（猫）"
+	},
+	{
+		"id": 1081000,
+		"eng": "Imp Head (Fanged)",
+		"chn": "小恶魔头罩（尖牙）"
+	},
+	{
+		"id": 1082000,
+		"eng": "Imp Head (Long-Tongued)",
+		"chn": "小恶魔头罩（耸舌）"
+	},
+	{
+		"id": 1083000,
+		"eng": "Imp Head (Corpse)",
+		"chn": "小恶魔头罩（长生者）"
+	},
+	{
+		"id": 1084000,
+		"eng": "Imp Head (Wolf)",
+		"chn": "小恶魔头罩（狼）"
+	},
+	{
+		"id": 1085000,
+		"eng": "Imp Head (Elder)",
+		"chn": "小恶魔头罩（长老）"
+	},
+	{
+		"id": 1090000,
+		"eng": "Silver Tear Mask",
+		"chn": "银色泪滴面具"
+	},
+	{
+		"id": 1100000,
+		"eng": "Chain Coif",
+		"chn": "锁子头盔"
+	},
+	{
+		"id": 1100100,
+		"eng": "Chain Armor",
+		"chn": "锁子铠甲"
+	},
+	{
+		"id": 1100200,
+		"eng": "Chain Gauntlets",
+		"chn": "锁子护臂"
+	},
+	{
+		"id": 1100300,
+		"eng": "Chain Leggings",
+		"chn": "锁子腿甲"
+	},
+	{
+		"id": 1101000,
+		"eng": "Greathelm",
+		"chn": "巨盔"
+	},
+	{
+		"id": 1101100,
+		"eng": "Eye Surcoat",
+		"chn": "眼眸筒形外衣"
+	},
+	{
+		"id": 1102100,
+		"eng": "Tree Surcoat",
+		"chn": "大树筒形外衣"
+	},
+	{
+		"id": 1110000,
+		"eng": "Octopus Head",
+		"chn": "章鱼头罩"
+	},
+	{
+		"id": 1120000,
+		"eng": "Jar",
+		"chn": "壶头罩"
+	},
+	{
+		"id": 1130000,
+		"eng": "Mushroom Head",
+		"chn": "蘑菇头部"
+	},
+	{
+		"id": 1130100,
+		"eng": "Mushroom Body",
+		"chn": "蘑菇身体"
+	},
+	{
+		"id": 1130200,
+		"eng": "Mushroom Arms",
+		"chn": "蘑菇腕部"
+	},
+	{
+		"id": 1130300,
+		"eng": "Mushroom Legs",
+		"chn": "蘑菇腿部"
+	},
+	{
+		"id": 1300000,
+		"eng": "Nox Mirrorhelm",
+		"chn": "诺克斯镜面盔"
+	},
+	{
+		"id": 1301000,
+		"eng": "Iji's Mirrorhelm",
+		"chn": "伊吉镜面盔"
+	},
+	{
+		"id": 1400000,
+		"eng": "Black Hood",
+		"chn": "黑布风帽"
+	},
+	{
+		"id": 1400100,
+		"eng": "Leather Armor",
+		"chn": "皮革铠甲"
+	},
+	{
+		"id": 1400200,
+		"eng": "Leather Gloves",
+		"chn": "皮革手套"
+	},
+	{
+		"id": 1400300,
+		"eng": "Leather Boots",
+		"chn": "皮革靴子"
+	},
+	{
+		"id": 1401000,
+		"eng": "Bandit Mask",
+		"chn": "盗贼面具"
+	},
+	{
+		"id": 1500000,
+		"eng": "Knight Helm",
+		"chn": "骑士头盔"
+	},
+	{
+		"id": 1500100,
+		"eng": "Knight Armor",
+		"chn": "骑士铠甲"
+	},
+	{
+		"id": 1500200,
+		"eng": "Knight Gauntlets",
+		"chn": "骑士臂甲"
+	},
+	{
+		"id": 1500300,
+		"eng": "Knight Greaves",
+		"chn": "骑士腿甲"
+	},
+	{
+		"id": 1600000,
+		"eng": "Greathood",
+		"chn": "大风帽"
+	},
+	{
+		"id": 1700000,
+		"eng": "Godrick Soldier Helm",
+		"chn": "葛瑞克士兵头盔"
+	},
+	{
+		"id": 1700100,
+		"eng": "Tree-and-Beast Surcoat",
+		"chn": "大树与野兽筒形外衣"
+	},
+	{
+		"id": 1700200,
+		"eng": "Godrick Soldier Gauntlets",
+		"chn": "葛瑞克士兵臂甲"
+	},
+	{
+		"id": 1700300,
+		"eng": "Godrick Soldier Greaves",
+		"chn": "葛瑞克士兵腿甲"
+	},
+	{
+		"id": 1710000,
+		"eng": "Raya Lucarian Helm",
+		"chn": "雷亚卢卡利亚士兵头盔"
+	},
+	{
+		"id": 1710100,
+		"eng": "Cuckoo Surcoat",
+		"chn": "杜鹃筒形外衣"
+	},
+	{
+		"id": 1710200,
+		"eng": "Raya Lucarian Gauntlets",
+		"chn": "雷亚卢卡利亚士兵臂甲"
+	},
+	{
+		"id": 1710300,
+		"eng": "Raya Lucarian Greaves",
+		"chn": "雷亚卢卡利亚士兵腿甲"
+	},
+	{
+		"id": 1720000,
+		"eng": "Leyndell Soldier Helm",
+		"chn": "罗德尔士兵头盔"
+	},
+	{
+		"id": 1720100,
+		"eng": "Erdtree Surcoat",
+		"chn": "黄金树筒形外衣"
+	},
+	{
+		"id": 1720200,
+		"eng": "Leyndell Soldier Gauntlets",
+		"chn": "罗德尔士兵臂甲"
+	},
+	{
+		"id": 1720300,
+		"eng": "Leyndell Soldier Greaves",
+		"chn": "罗德尔士兵腿甲"
+	},
+	{
+		"id": 1730000,
+		"eng": "Radahn Soldier Helm",
+		"chn": "拉塔恩士兵头盔"
+	},
+	{
+		"id": 1730100,
+		"eng": "Redmane Surcoat",
+		"chn": "红狮子筒形外衣"
+	},
+	{
+		"id": 1730200,
+		"eng": "Radahn Soldier Gauntlets",
+		"chn": "拉塔恩士兵臂甲"
+	},
+	{
+		"id": 1730300,
+		"eng": "Radahn Soldier Greaves",
+		"chn": "拉塔恩士兵腿甲"
+	},
+	{
+		"id": 1740100,
+		"eng": "Mausoleum Surcoat",
+		"chn": "灵庙筒形外衣"
+	},
+	{
+		"id": 1740200,
+		"eng": "Mausoleum Gauntlets",
+		"chn": "灵庙士兵臂甲"
+	},
+	{
+		"id": 1740300,
+		"eng": "Mausoleum Greaves",
+		"chn": "灵庙士兵腿甲"
+	},
+	{
+		"id": 1750000,
+		"eng": "Haligtree Helm",
+		"chn": "圣树士兵头盔"
+	},
+	{
+		"id": 1750100,
+		"eng": "Haligtree Crest Surcoat",
+		"chn": "圣树图腾筒形外衣"
+	},
+	{
+		"id": 1750200,
+		"eng": "Haligtree Gauntlets",
+		"chn": "圣树士兵臂甲"
+	},
+	{
+		"id": 1750300,
+		"eng": "Haligtree Greaves",
+		"chn": "圣树士兵腿甲"
+	},
+	{
+		"id": 1760000,
+		"eng": "Gelmir Knight Helm",
+		"chn": "格密尔骑士头盔"
+	},
+	{
+		"id": 1760100,
+		"eng": "Gelmir Knight Armor",
+		"chn": "格密尔骑士铠甲"
+	},
+	{
+		"id": 1760200,
+		"eng": "Gelmir Knight Gauntlets",
+		"chn": "格密尔骑士臂甲"
+	},
+	{
+		"id": 1760300,
+		"eng": "Gelmir Knight Greaves",
+		"chn": "格密尔骑士腿甲"
+	},
+	{
+		"id": 1761100,
+		"eng": "Gelmir Knight Armor (Altered)",
+		"chn": "格密尔骑士铠甲（轻装）"
+	},
+	{
+		"id": 1770000,
+		"eng": "Godrick Knight Helm",
+		"chn": "葛瑞克骑士头盔"
+	},
+	{
+		"id": 1770100,
+		"eng": "Godrick Knight Armor",
+		"chn": "葛瑞克骑士铠甲"
+	},
+	{
+		"id": 1770200,
+		"eng": "Godrick Knight Gauntlets",
+		"chn": "葛瑞克骑士臂甲"
+	},
+	{
+		"id": 1770300,
+		"eng": "Godrick Knight Greaves",
+		"chn": "葛瑞克骑士腿甲"
+	},
+	{
+		"id": 1771100,
+		"eng": "Godrick Knight Armor (Altered)",
+		"chn": "葛瑞克骑士铠甲（轻装）"
+	},
+	{
+		"id": 1780000,
+		"eng": "Cuckoo Knight Helm",
+		"chn": "杜鹃骑士头盔"
+	},
+	{
+		"id": 1780100,
+		"eng": "Cuckoo Knight Armor",
+		"chn": "杜鹃骑士铠甲"
+	},
+	{
+		"id": 1780200,
+		"eng": "Cuckoo Knight Gauntlets",
+		"chn": "杜鹃骑士臂甲"
+	},
+	{
+		"id": 1780300,
+		"eng": "Cuckoo Knight Greaves",
+		"chn": "杜鹃骑士腿甲"
+	},
+	{
+		"id": 1781100,
+		"eng": "Cuckoo Knight Armor (Altered)",
+		"chn": "杜鹃骑士铠甲（轻装）"
+	},
+	{
+		"id": 1790000,
+		"eng": "Leyndell Knight Helm",
+		"chn": "罗德尔骑士头盔"
+	},
+	{
+		"id": 1790100,
+		"eng": "Leyndell Knight Armor",
+		"chn": "罗德尔骑士铠甲"
+	},
+	{
+		"id": 1790200,
+		"eng": "Leyndell Knight Gauntlets",
+		"chn": "罗德尔骑士臂甲"
+	},
+	{
+		"id": 1790300,
+		"eng": "Leyndell Knight Greaves",
+		"chn": "罗德尔骑士腿甲"
+	},
+	{
+		"id": 1791100,
+		"eng": "Leyndell Knight Armor (Altered)",
+		"chn": "罗德尔骑士铠甲（轻装）"
+	},
+	{
+		"id": 1800000,
+		"eng": "Redmane Knight Helm",
+		"chn": "红狮子骑士头盔"
+	},
+	{
+		"id": 1800100,
+		"eng": "Redmane Knight Armor",
+		"chn": "红狮子骑士铠甲"
+	},
+	{
+		"id": 1800200,
+		"eng": "Redmane Knight Gauntlets",
+		"chn": "红狮子骑士臂甲"
+	},
+	{
+		"id": 1800300,
+		"eng": "Redmane Knight Greaves",
+		"chn": "红狮子骑士腿甲"
+	},
+	{
+		"id": 1801100,
+		"eng": "Redmane Knight Armor (Altered)",
+		"chn": "红狮子骑士铠甲（轻装）"
+	},
+	{
+		"id": 1810100,
+		"eng": "Mausoleum Knight Armor",
+		"chn": "灵庙骑士铠甲"
+	},
+	{
+		"id": 1810200,
+		"eng": "Mausoleum Knight Gauntlets",
+		"chn": "灵庙骑士臂甲"
+	},
+	{
+		"id": 1810300,
+		"eng": "Mausoleum Knight Greaves",
+		"chn": "灵庙骑士腿甲"
+	},
+	{
+		"id": 1811100,
+		"eng": "Mausoleum Knight Armor (Altered)",
+		"chn": "灵庙骑士铠甲（轻装）"
+	},
+	{
+		"id": 1820000,
+		"eng": "Haligtree Knight Helm",
+		"chn": "圣树骑士头盔"
+	},
+	{
+		"id": 1820100,
+		"eng": "Haligtree Knight Armor",
+		"chn": "圣树骑士铠甲"
+	},
+	{
+		"id": 1820200,
+		"eng": "Haligtree Knight Gauntlets",
+		"chn": "圣树骑士臂甲"
+	},
+	{
+		"id": 1820300,
+		"eng": "Haligtree Knight Greaves",
+		"chn": "圣树骑士腿甲"
+	},
+	{
+		"id": 1821100,
+		"eng": "Haligtree Knight Armor (Altered)",
+		"chn": "圣树骑士铠甲（轻装）"
+	},
+	{
+		"id": 1830000,
+		"eng": "Foot Soldier Cap",
+		"chn": "小兵铁帽"
+	},
+	{
+		"id": 1830100,
+		"eng": "Chain-Draped Tabard",
+		"chn": "锁子披肩软铠甲"
+	},
+	{
+		"id": 1830200,
+		"eng": "Foot Soldier Gauntlets",
+		"chn": "小兵臂甲"
+	},
+	{
+		"id": 1830300,
+		"eng": "Foot Soldier Greaves",
+		"chn": "小兵腿甲"
+	},
+	{
+		"id": 1840000,
+		"eng": "Foot Soldier Helmet",
+		"chn": "小兵铁头盔"
+	},
+	{
+		"id": 1840100,
+		"eng": "Foot Soldier Tabard",
+		"chn": "小兵软铠甲"
+	},
+	{
+		"id": 1850000,
+		"eng": "Gilded Foot Soldier Cap",
+		"chn": "小兵金帽"
+	},
+	{
+		"id": 1850100,
+		"eng": "Leather-Draped Tabard",
+		"chn": "皮革披肩软铠甲"
+	},
+	{
+		"id": 1860000,
+		"eng": "Foot Soldier Helm",
+		"chn": "小兵头盔"
+	},
+	{
+		"id": 1860100,
+		"eng": "Scarlet Tabard",
+		"chn": "猩红软铠甲"
+	},
+	{
+		"id": 1870100,
+		"eng": "Bloodsoaked Tabard",
+		"chn": "淌血软铠甲"
+	},
+	{
+		"id": 1880000,
+		"eng": "Sacred Crown Helm",
+		"chn": "圣冠铁头盔"
+	},
+	{
+		"id": 1880100,
+		"eng": "Ivory-Draped Tabard",
+		"chn": "象牙披肩软铠甲"
+	},
+	{
+		"id": 1890000,
+		"eng": "Omensmirk Mask",
+		"chn": "恶兆笑脸面具"
+	},
+	{
+		"id": 1890100,
+		"eng": "Omenkiller Robe",
+		"chn": "恶兆猎人长袍"
+	},
+	{
+		"id": 1890200,
+		"eng": "Omenkiller Long Gloves",
+		"chn": "恶兆猎人长手套"
+	},
+	{
+		"id": 1890300,
+		"eng": "Omenkiller Boots",
+		"chn": "恶兆猎人靴子"
+	},
+	{
+		"id": 1900000,
+		"eng": "Ash-of-War Scarab",
+		"chn": "战灰粪金龟"
+	},
+	{
+		"id": 1901000,
+		"eng": "Incantation Scarab",
+		"chn": "祷告粪金龟"
+	},
+	{
+		"id": 1902000,
+		"eng": "Glintstone Scarab",
+		"chn": "辉石粪金龟"
+	},
+	{
+		"id": 1910000,
+		"eng": "Crimson Tear Scarab",
+		"chn": "红露滴粪金龟"
+	},
+	{
+		"id": 1920000,
+		"eng": "Cerulean Tear Scarab",
+		"chn": "蓝露滴粪金龟"
+	},
+	{
+		"id": 1930100,
+		"eng": "Deathbed Dress",
+		"chn": "死眠连身裙"
+	},
+	{
+		"id": 1930300,
+		"eng": "Deathbed Smalls",
+		"chn": "死眠长裤"
+	},
+	{
+		"id": 1940000,
+		"eng": "Fia's Hood",
+		"chn": "菲雅风帽"
+	},
+	{
+		"id": 1940100,
+		"eng": "Fia's Robe",
+		"chn": "菲雅长袍"
+	},
+	{
+		"id": 1941100,
+		"eng": "Fia's Robe (Altered)",
+		"chn": "菲雅长袍（轻装）"
+	},
+	{
+		"id": 1980000,
+		"eng": "Highwayman Hood",
+		"chn": "强盗风帽"
+	},
+	{
+		"id": 1980100,
+		"eng": "Highwayman Cloth Armor",
+		"chn": "强盗软铠甲"
+	},
+	{
+		"id": 1980200,
+		"eng": "Highwayman Gauntlets",
+		"chn": "强盗臂甲"
+	},
+	{
+		"id": 1990000,
+		"eng": "High Page Hood",
+		"chn": "上流随从风帽"
+	},
+	{
+		"id": 1990100,
+		"eng": "High Page Clothes",
+		"chn": "上流随从上衣"
+	},
+	{
+		"id": 1991100,
+		"eng": "High Page Clothes (Altered)",
+		"chn": "上流随从上衣（轻装）"
+	},
+	{
+		"id": 2000000,
+		"eng": "Rotten Duelist Helm",
+		"chn": "腐败斗士头盔"
+	},
+	{
+		"id": 2000100,
+		"eng": "Rotten Gravekeeper Cloak",
+		"chn": "腐败守墓斗篷"
+	},
+	{
+		"id": 2000300,
+		"eng": "Rotten Duelist Greaves",
+		"chn": "腐败斗士腿甲"
+	},
+	{
+		"id": 2001100,
+		"eng": "Rotten Gravekeeper Cloak (Altered)",
+		"chn": "腐败守墓斗篷（轻装）"
+	},
+	{
+		"id": 2010000,
+		"eng": "Mushroom Crown",
+		"chn": "蘑菇王冠"
+	},
+	{
+		"id": 2020000,
+		"eng": "Black Dumpling",
+		"chn": "黑头罩"
+	},
+	{
+		"id": 2030000,
+		"eng": "Lazuli Robe",
+		"chn": "拉兹利长袍"
+	}
+]

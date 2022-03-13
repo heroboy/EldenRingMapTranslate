@@ -1,0 +1,592 @@
+[
+	{
+		"id": 100,
+		"eng": "Online multiplayer item. Receipt of a plea for\nhelp to the maidens of the Finger Reader.\n\nSummons a Broken Finger Stalker from another\nworld to face an invading Broken Finger.\n\nMaidens of the Finger Reader speak in hushed\ntones about the loathsome, traitorous Broken\nFingers and the dangers of their base invasions.",
+		"chn": "联机游玩专用道具。\n向解指女巫们请求，获得的证明。\n\n受崩指入侵时，\n能从其他世界召唤崩指猎人。\n\n解指女巫轻喃，诉说崩指令人不齿的背叛，\n以及不入流的入侵行为带来的危险性。"
+	},
+	{
+		"id": 101,
+		"eng": "Online multiplayer item. Record of contract with\nthe maidens of the Finger Reader.\n\nBe summoned to the world of a player who\nhas been invaded by a Broken Finger.\n\nThe Broken Fingers have betrayed the Finger\nReader. They are a cancer that afflicts the\nties that bind the Tarnished to one another.\nThey must be excised, and eradicated.",
+		"chn": "联机游玩专用道具。\n与解指女巫们订下契约的证明。\n\n当其他玩家受崩指入侵时，\n能够接受召唤，前往该名玩家的世界。\n\n崩指是解指中的叛徒，\n也是侵害褪色者连结彼此的恶瘤──\n因此必须切除，以及根绝。"
+	},
+	{
+		"id": 1000,
+		"eng": "A medallion with crimson amber inlaid.\nBoosts maximum HP.\n\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\n\nA primordial life energy resides inside.",
+		"chn": "镶有红色琥珀的链坠。\n能提升血量的上限。\n\n琥珀为黄金树的古老露滴，\n在“初始艾尔登之王”葛孚雷的时代\n被视为特殊的宝石。\n\n生命的原始力量蕴藏其中。"
+	},
+	{
+		"id": 1001,
+		"eng": "A medallion with crimson amber inlaid.\nGreatly boosts maximum HP.\n\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\n\nA primordial life energy resides inside.",
+		"chn": "镶有红色琥珀的链坠。\n能大幅提升血量的上限。\n\n琥珀为黄金树的古老露滴，\n在“初始艾尔登之王”葛孚雷的时代\n被视为特殊的宝石。\n\n生命的原始力量蕴藏其中。"
+	},
+	{
+		"id": 1002,
+		"eng": "A medallion with crimson amber inlaid.\nVastly boosts maximum HP.\n\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\n\nA primordial life energy resides inside.",
+		"chn": "镶有红色琥珀的链坠。\n能更大幅提升血量的上限。\n\n琥珀为黄金树的古老露滴，\n在“初始艾尔登之王”葛孚雷的时代\n被视为特殊的宝石。\n\n生命的原始力量蕴藏其中。"
+	},
+	{
+		"id": 1010,
+		"eng": "A medallion with cerulean amber inlaid.\nBoosts maximum FP.\n\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\n\nA primordial life energy resides inside.",
+		"chn": "镶有蓝色琥珀的链坠。\n能提升专注值的上限。\n\n琥珀为黄金树的古老露滴，\n在“初始艾尔登之王”葛孚雷的时代\n被视为特殊的宝石。\n\n生命的原始力量蕴藏其中。"
+	},
+	{
+		"id": 1011,
+		"eng": "A medallion with cerulean amber inlaid.\nGreatly boosts maximum FP.\n\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\n\nA primordial life energy resides inside.",
+		"chn": "镶有蓝色琥珀的链坠。\n能大幅提升专注值的上限。\n\n琥珀为黄金树的古老露滴，\n在“初始艾尔登之王”葛孚雷的时代\n被视为特殊的宝石。\n\n生命的原始力量蕴藏其中。"
+	},
+	{
+		"id": 1012,
+		"eng": "A medallion with cerulean amber inlaid.\nVastly boosts maximum FP.\n\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\n\nA primordial life energy resides inside.",
+		"chn": "镶有蓝色琥珀的链坠。\n能更大幅提升专注值的上限。\n\n琥珀为黄金树的古老露滴，\n在“初始艾尔登之王”葛孚雷的时代\n被视为特殊的宝石。\n\n生命的原始力量蕴藏其中。"
+	},
+	{
+		"id": 1020,
+		"eng": "A medallion with viridian amber inlaid.\nBoosts maximum stamina.\n\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\n\nA primordial life energy resides inside.",
+		"chn": "镶有绿色琥珀的链坠。\n能提升精力的上限。\n\n琥珀为黄金树的古老露滴，\n在“初始艾尔登之王”葛孚雷的时代\n被视为特殊的宝石。\n\n生命的原始力量蕴藏其中。"
+	},
+	{
+		"id": 1021,
+		"eng": "A medallion with viridian amber inlaid.\nGreatly boosts maximum stamina.\n\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\n\nA primordial life energy resides inside.",
+		"chn": "镶有绿色琥珀的链坠。\n能大幅提升精力的上限。\n\n琥珀为黄金树的古老露滴，\n在“初始艾尔登之王”葛孚雷的时代\n被视为特殊的宝石。\n\n生命的原始力量蕴藏其中。"
+	},
+	{
+		"id": 1022,
+		"eng": "A medallion with viridian amber inlaid.\nVastly boosts maximum stamina.\n\nThe Erdtree's old sap becomes amber, treasured as the most precious of jewels in the age of Godfrey, the first Elden Lord.\n\nA primordial life energy resides inside.",
+		"chn": "镶有绿色琥珀的链坠。\n能更大幅提升精力的上限。\n\n琥珀为黄金树的古老露滴，\n在“初始艾尔登之王”葛孚雷的时代\n被视为特殊的宝石。\n\n生命的原始力量蕴藏其中。"
+	},
+	{
+		"id": 1030,
+		"eng": "An iron charm that resembles a mass of weaponry.\nBoosts maximum equipment load.\n\nThis talisman was derived from an unusual greatsword once wielded by a hero hungry for vengeance.",
+		"chn": "众多武器聚集成块的铁制护符。\n能提升装备重量的上限。\n\n从复仇英雄的知名武器──\n异形大剑发想、制成的护符。"
+	},
+	{
+		"id": 1031,
+		"eng": "An iron charm that resembles a mass of weaponry.\nGreatly boosts maximum equipment load.\n\nThis talisman was derived from an unusual greatsword once wielded by a hero hungry for vengeance.",
+		"chn": "众多武器聚集成块的铁制护符。\n能大幅提升装备重量的上限。\n\n从复仇英雄的知名武器──\n异形大剑发想、制成的护符。"
+	},
+	{
+		"id": 1032,
+		"eng": "A charm that resembles a great jar overflowing with weaponry.\nVastly boosts maximum equipment load.\n\nThe great jar grants this talisman to their warriors.\nCarry as much as you can—grow big and strong.",
+		"chn": "众多武器涌出大壶的护符。\n能更大幅提升装备重量的上限。\n\n大壶将此护符赠予自己的战士们。\n\n　拿多一些，好好长大喔。"
+	},
+	{
+		"id": 1040,
+		"eng": "A talisman depicting a special blessing of the Erdtree.\nSlightly raises maximum HP, stamina, and equip load.\n\nIt is said that when the Age of the Erdtree began, such blessings were personally bestowed upon their recipients by Queen Marika herself.",
+		"chn": "黄金树特殊恩惠的象征。\n能些微提升血量、精力，以及装备重量的上限。\n\n据说在黄金树时代之始，\n玛莉卡女王亲自赐予此护符。"
+	},
+	{
+		"id": 1041,
+		"eng": "A talisman depicting a special blessing of the Erdtree.\nRaises maximum HP, stamina, and equip load.\n\nIt is said that when the Age of the Erdtree began, such blessings were personally bestowed upon their recipients by Queen Marika herself.",
+		"chn": "黄金树特殊恩惠的象征。\n能提升血量、精力，以及装备重量的上限。\n\n据说在黄金树时代之始，\n玛莉卡女王亲自赐予此护符。"
+	},
+	{
+		"id": 1042,
+		"eng": "A legendary talisman depicting a special blessing of the Erdtree.\n\nGreatly raises maximum HP, stamina, and equip load.\n\nIt is said that when the Age of the Erdtree began, such blessings were personally bestowed upon their recipients by Queen Marika herself.",
+		"chn": "黄金树特殊恩惠的象征。\n“传说中的护符”之一。\n\n能大幅提升血量、精力，以及装备重量的上限。\n\n据说在黄金树时代之始，\n玛莉卡女王亲自赐予此护符。"
+	},
+	{
+		"id": 1050,
+		"eng": "An eye engraved with an Elden Rune.\nSaid to be the seal of King Consort Radagon.\n\nRaises vigor, endurance, strength, and dexterity, but also increases damage taken.\n\nThese seals represent the lifelong duty of those chosen by the gods.",
+		"chn": "受艾尔登卢恩雕琢的眼珠。\n据说是王夫拉达冈的烙印。\n\n能提升生命力、耐力、力气、灵巧，\n但增加受到的损伤。\n\n烙印是被神祇找上的人物\n受赐生涯使命的证明。"
+	},
+	{
+		"id": 1051,
+		"eng": "This legendary talisman is an eye engraved with an Elden Rune, said to be the seal of King Consort Radagon.\n\nGreatly raises vigor, endurance, strength, and dexterity, but also increases damage taken by a similar measure.\n\nSolemn duty weighs upon the one beholden; not unlike a gnawing curse from which there is no deliverance.",
+		"chn": "受艾尔登卢恩雕琢的眼珠。\n“传说中的护符”之一。\n据说是王夫拉达冈的烙印。\n\n能大幅提升生命力、耐力、力气、灵巧，\n但大幅增加受到的损伤。\n\n沉重的使命会侵蚀肩负者，\n犹如无法逃离的诅咒。"
+	},
+	{
+		"id": 1060,
+		"eng": "A talisman engraved with a scene from a heroic tale.\nRaises strength.\n\nThe mightiest hero of the demigods confronted the falling stars alone—and thus did he crush them, his conquest sealing the very fate of the stars.",
+		"chn": "雕制关于英雄传说的护符。\n能提升力气。\n\n被誉为最强半神的英雄，\n独自挑战、粉碎坠落的星星。\n据说从那之后，星星的命运就受到封印。"
+	},
+	{
+		"id": 1070,
+		"eng": "A talisman engraved with a scene from a heroic tale.\nRaises dexterity.\n\nThough born into the accursed rot, when the young girl encountered her mentor and his flowing blade, she gained wings of unparalleled strength.",
+		"chn": "雕制关于英雄传说的护符。\n能提升灵巧。\n\n生来就受到宿疾侵蚀的少女，\n邂逅了老师，以及他的流水剑。\n据说她因此获得了无敌的飞翼。"
+	},
+	{
+		"id": 1080,
+		"eng": "A talisman engraved with the legend of a queen.\nRaises intelligence.\n\nThe young astrologer gazed at the night sky as she walked. She had always chased the stars every step of her journey. Then she met the full moon—and, in time, the astrologer became a queen.",
+		"chn": "雕制关于女王传说的护符。\n能提升智力。\n\n观星少女仰望夜空步行，\n度过一段不停追赶星星的旅行。\n随后她遇见了满月，成为女王。"
+	},
+	{
+		"id": 1090,
+		"eng": "A talisman engraved with the legend of the Two Fingers.\nRaises faith.\n\nFingers cannot speak, yet these were eloquent.\nPersistently did they wriggle, spelling out mysteries in the air.\nThus did we gain the words. The words of our faith.",
+		"chn": "雕制关于双指传说的护符。\n能提升信仰。\n\n指头无法发声，却能言善道；\n指头固执蠕动，空中布满奥秘──\n随后我们得到了话语，那信仰的话语。"
+	},
+	{
+		"id": 1100,
+		"eng": "A talisman facsimile of a scarab, the carrier of treasures and precious things.\n\nThis silver scarab enhances item discovery.",
+		"chn": "各种宝藏、贵重物品的搬运工──\n以粪金龟的形象制成的护符。\n\n银色的护符能提升观察力。"
+	},
+	{
+		"id": 1110,
+		"eng": "A talisman facsimile of a scarab, the carrier of treasures and precious things.\n\nThis golden scarab increases the amount of runes obtained from defeating enemies.",
+		"chn": "各种宝藏、贵重物品的搬运工──\n以粪金龟的形象制成的护符。\n\n金色的护符在打倒敌人时，\n能增加获得的卢恩。"
+	},
+	{
+		"id": 1140,
+		"eng": "This legendary talisman is a treasure of Nokstella, the Eternal City.\n\nIncreases memory slots.\n\nThis talisman represents the lost black moon.\nThe moon of Nokstella was the guide of countless stars.",
+		"chn": "“永恒之城”诺克史黛拉的秘密宝藏。\n“传说中的护符”之一。\n\n能增加记忆空格。\n\n此为参考他们失去的黑色月亮制成。\n无数的星星跟随着诺克史黛拉的月亮。"
+	},
+	{
+		"id": 1150,
+		"eng": "A talisman in the shape of a green turtle.\nRaises stamina recovery speed.\n\nTurtles are known as a nutritious ingredient, symbolic of inexhaustible power.\n\nHowever, those who hold turtles to be wise creatures consider the practice of eating their meat to be barbarous.",
+		"chn": "参考绿乌龟的模样制成的护符。\n能提升精力的恢复速度。\n\n乌龟是著名的营养食材，为精力无穷的象征。\n\n据说称呼乌龟为睿智兽物的人们，\n认为那是野蛮的习俗。"
+	},
+	{
+		"id": 1160,
+		"eng": "An accoutrement worn by the ancestral followers.\nRaises robustness.\n(Robustness governs resistance to blood loss and frost.)\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
+		"chn": "祖灵之民的装饰品。\n能提升健壮度。\n（健壮度是对出血、冻伤的抵抗力。）\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
+	},
+	{
+		"id": 1161,
+		"eng": "An accoutrement worn by the ancestral followers.\nGreatly raises robustness.\n(Robustness governs resistance to blood loss and frost.)\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
+		"chn": "祖灵之民的装饰品。\n能大幅提升健壮度。\n（健壮度是对出血、冻伤的抵抗力。）\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
+	},
+	{
+		"id": 1170,
+		"eng": "An accoutrement worn by the ancestral followers.\nRaises immunity.\n(Immunity governs resistance to poison and rot.)\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
+		"chn": "祖灵之民的装饰品。\n能提升免疫力。\n（免疫力是对中毒、腐败的抵抗力。）\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
+	},
+	{
+		"id": 1171,
+		"eng": "An accoutrement worn by the ancestral followers.\nGreatly raises immunity.\n(Immunity governs resistance to poison and rot.)\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
+		"chn": "祖灵之民的装饰品。\n能大幅提升免疫力。\n（免疫力是对中毒、腐败的抵抗力。）\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
+	},
+	{
+		"id": 1180,
+		"eng": "An accoutrement worn by the ancestral followers.\nRaises focus.\n(Focus governs resistance to sleep and madness.)\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
+		"chn": "祖灵之民的装饰品。\n能提升理智度。\n（理智度是对催眠、发狂的抵抗力。）\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
+	},
+	{
+		"id": 1181,
+		"eng": "An accoutrement worn by the ancestral followers.\nGreatly raises focus.\n(Focus governs resistance to sleep and madness.)\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
+		"chn": "祖灵之民的装饰品。\n能大幅提升理智度。\n（理智度是对催眠、发狂的抵抗力。）\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
+	},
+	{
+		"id": 1190,
+		"eng": "A fetid pustule taken from facial flesh.\nRaises vitality.\n(Vitality governs resistance to the effects of Death.)\n\nIt is said that this pustule came from the visage of the Prince of Death, he who used to be called Godwyn. As First Dead of the demigods, it's said he's buried deep under the capital, at the Erdtree's roots.",
+		"chn": "腥臭化脓的人面脓疮。\n能提升抗死度。\n\n据说那是死王子的脸──\n过去他被称作葛德文，是半神之中的初始死者，\n后来被埋葬在王城地底深处，那黄金树的根部。"
+	},
+	{
+		"id": 1191,
+		"eng": "A fetid, overgrown cyst taken from facial flesh.\nGreatly raises vitality.\n(Vitality governs resistance to the effects of Death.)\n\nIt is said that this cyst came from the corrupted visage of one unable to die a true Death. Indeed, it comes from the Prince of Death, scion of the golden bough and First of the Dead among the demigods.",
+		"chn": "腥臭化脓的恶性人面脓疮。\n能大幅提升抗死度。\n\n据说那是死王子的脸──\n半神之中的初始死者、黄金之子，\n那心有罣碍，受尽玷污的遗容。"
+	},
+	{
+		"id": 1200,
+		"eng": "A vividly-colored accoutrement precious to the ancestral followers.\n\nRaises immunity, robustness, and focus.\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
+		"chn": "祖灵之民的装饰品。\n其中以多种色彩点缀的贵重物品。\n\n能提升免疫力、健壮度、理智度。\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
+	},
+	{
+		"id": 1201,
+		"eng": "A vividly-colored accoutrement precious to the ancestral followers.\n\nGreatly raises immunity, robustness, and focus.\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit.",
+		"chn": "祖灵之民的装饰品。\n其中以多种色彩点缀的贵重物品。\n\n能大幅提升免疫力、健壮度、理智度。\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
+	},
+	{
+		"id": 1210,
+		"eng": "A talisman depicting the horns of a bull-goat.\nRaises poise.\n\nBull-goats are associated with the stout and mighty Tragoth, said to be unflinching in combat—now a silent comrade to those who fight.",
+		"chn": "参考大山羊的角制成的护符。\n能提升强韧度。\n\n大山羊因为某位骑士而闻名──\n粗壮、强大、绝不畏缩的忒拉格斯。\n据说他是战斗者的沉默战友。"
+	},
+	{
+		"id": 1220,
+		"eng": "An eye engraved with an Elden Rune.\nSaid to be the seal of Queen Marika.\n\nRaises mind, intelligence, faith, and arcane, but also increases damage taken.\n\nThese seals represent the lifelong duty of those chosen by the gods.",
+		"chn": "受艾尔登卢恩雕琢的眼珠。\n据说是玛莉卡女王的烙印。\n\n能提升集中力、智力、信仰、感应，\n但增加受到的损伤。\n\n烙印是被神祇找上的人物\n受赐生涯使命的证明。"
+	},
+	{
+		"id": 1221,
+		"eng": "This legendary talisman is an eye engraved with an Elden Rune, said to be the seal of Queen Marika.\n\nGreatly raises mind, intelligence, faith, and arcane, but also increases damage taken by a similar measure.\n\nSolemn duty weighs upon the one beholden; not unlike a gnawing curse from which there is no deliverance.",
+		"chn": "受艾尔登卢恩雕琢的眼珠。\n“传说中的护符”之一。\n据说是玛莉卡女王的烙印。\n\n能大幅提升集中力、智力、信仰、感应，\n但大幅增加受到的损伤。\n\n沉重的使命会侵蚀肩负者，\n犹如无法逃离的诅咒。"
+	},
+	{
+		"id": 1230,
+		"eng": "Shard of a shattered warrior jar.\n\nBoosts the attack power of skills.\n\nScraps of stewed flesh cling to the shard, and tatters of ornaments can be seen mingled within the slime. Relics of ancient royal warriors, perhaps.",
+		"chn": "破裂死亡的战士壶碎片。\n\n能提升战技的攻击力。\n\n碎片上紧粘着软化的尸块，\n其中还能看到饰品的残骸。\n有可能是从前王室战士的遗物。"
+	},
+	{
+		"id": 1231,
+		"eng": "Shard of the late Alexander, a shattered warrior jar.\n\nGreatly boosts the attack power of skills.\n\nScraps of stewed flesh cling to the shard, and tatters of ornaments can be seen mingled within the slime. Relics of a red-haired champion, it would seem.",
+		"chn": "破裂死亡的“战士壶”亚历山大的碎片。\n\n能大幅提升战技的攻击力。\n\n碎片上紧粘着软化的尸块，\n其中还能看到饰品的残骸。\n好像是红发英雄的遗物。"
+	},
+	{
+		"id": 1250,
+		"eng": "Part of the golden prosthesis used by Millicent.\nThe hand is locked into a fist that once raised a sword aloft.\n\nBoosts dexterity and raises attack power with successive attacks.\n\nThe despair of sweet betrayal transformed Millicent from a mere bud into a magnificent flower. And one day, she will be reborn—as a beautiful scarlet valkyrie.",
+		"chn": "米莉森使用的黄金义手的一部分。\n手掌动作固定在高举剑的姿势。\n\n能提升灵巧、\n攻击越是连续，越能提升攻击力。\n\n透过美妙背叛所产生的绝望，\n身为花蕾的她绽放成娇艳的花朵。\n总有一天，她将会重生──\n化为猩红女武神。"
+	},
+	{
+		"id": 2000,
+		"eng": "A talisman carried by assassins who strike unseen.\nPatterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that shimmers with magic.\n\nRaises magic attack power, but lowers damage negation.",
+		"chn": "采取奇特手段偷袭的刺客们拥有的护符。\n参考刚蜕皮的蝎子制成，\n蝎螯夹着魔力色的心脏。\n\n能提升魔力属性攻击力，但降低减伤率。"
+	},
+	{
+		"id": 2010,
+		"eng": "A talisman carried by assassins who strike unseen.\nPatterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that sparks with lightning.\n\nRaises lightning attack power, but lowers damage negation.",
+		"chn": "采取奇特手段偷袭的刺客们拥有的护符。\n参考刚蜕皮的蝎子制成，\n蝎螯夹着雷色的心脏。\n\n能提升雷属性攻击力，但降低减伤率。"
+	},
+	{
+		"id": 2020,
+		"eng": "A talisman carried by assassins who strike unseen.\nPatterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that burns with fire.\n\nRaises fire attack power, but lowers damage negation.",
+		"chn": "采取奇特手段偷袭的刺客们拥有的护符。\n参考刚蜕皮的蝎子制成，\n蝎螯夹着火色的心脏。\n\n能提升火属性攻击力，但降低减伤率。"
+	},
+	{
+		"id": 2030,
+		"eng": "A talisman carried by assassins who strike unseen.\nPatterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart with a blessed glow.\n\nRaises holy attack power, but lowers damage negation.",
+		"chn": "采取奇特手段偷袭的刺客们拥有的护符。\n参考刚蜕皮的蝎子制成，\n蝎螯夹着圣色的心脏。\n\n能提升圣属性攻击力，但降低减伤率。"
+	},
+	{
+		"id": 2040,
+		"eng": "A talisman adorned with red feathers, once used in ancient death rituals.\nRaises attack power when HP is low.\n\nThe heart sings when one draws close to death, and a glorious end awaits those who cling so tenaciously to life.",
+		"chn": "源自古代死亡仪式的护符。\n红色羽毛的护符，在血量减少时，\n能提升攻击力。\n\n与死亡比邻时，情绪会为之高昂──\n那拚命求生的模样，\n会让随后到来的死亡更加耀眼。"
+	},
+	{
+		"id": 2050,
+		"eng": "A talisman patterned after swords used in ritual combat held to honor the Erdtree.\n\nRaises attack power when HP is at maximum.\n\nThe practice had died out by the age of King Consort Radagon, but remains of the arenas where ritual combat took place can still be found in every land.",
+		"chn": "过去献给黄金树的战斗仪式──\n参考用于仪式中的剑制成的护符。\n\n血量全满时，能提升攻击力。\n\n战斗仪式在王夫拉达冈的时代受到废除，\n散布各处的竞技场是遗留下来的产物。"
+	},
+	{
+		"id": 2060,
+		"eng": "A talisman depicting a spear and a soldier.\nEnhances the counterattacks that are unique to thrusting weapons.\n\nSpears are standard weapons for soldiers in the Lands Between. They made it possible to respond to a ferocious foe with an equally ferocious counterattack.",
+		"chn": "以矛与士兵的形象制成的护符。\n能强化突刺攻击特有的反击攻击。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
+	},
+	{
+		"id": 2070,
+		"eng": "A talisman depicting a hammer and a knight.\nEnhances stamina-reducing attacks against a blocking opponent.\n\nHammers are highly effective against shield-bearing foes, so much so that they are known as \"knight-killers.\"",
+		"chn": "以大槌与骑士的形象制成的护符。\n当敌人防御，攻击时能增加对方消耗的精力。\n\n槌在对上持盾敌人时相当有效，\n为狩猎骑士时的知名武器。"
+	},
+	{
+		"id": 2080,
+		"eng": "A talisman depicting a raised prosthetic blade.\nAn honor bestowed upon the knights who fought alongside Malenia the Severed.\n\nRaises attack power with successive attacks.\n\nThe wings symbolize Malenia and her undefeated prowess. Though she never knew relief from the accursed rot she was born into, her blade was forever beautiful—and relentless.",
+		"chn": "参考高举的义手刀制成的护符。\n与残身玛莲妮亚并肩作战的\n骑士们拥有的徽章。\n\n攻击越是连续，越能提升攻击力。\n\n飞翼象征着玛莲妮亚，以及战无不胜。\n生来的宿疾让她不知何谓安祥，\n因此她的剑维持美丽，也带有壮烈的特质。"
+	},
+	{
+		"id": 2081,
+		"eng": "A talisman depicting a raised prosthetic blade.\nAn honor bestowed upon the valkyries who serve the Goddess of Rot.\n\nGreatly raises attack power with successive attacks.\n\nThe four sisters were born in the Swamp of Aeonia, and came to the Haligtree under the aegis of Gowry. And yet, those buds were doomed to never blossom.",
+		"chn": "参考高举的义手刀制成的护符。\n侍奉腐败女神的女武神们拥有的徽章。\n\n攻击越是连续，越能大幅提升攻击力。\n\n四位姊妹诞生自艾奥尼亚沼泽，\n透过格威的帮助，到达了圣树──\n然而她们是不完全的花蕾。"
+	},
+	{
+		"id": 2090,
+		"eng": "A talisman depicting a dagger and a surgeon.\nEnhances critical hits.\n\nThe white-garbed field surgeons come to the aid of friend and foe alike by dealing a final deadly thrust to spare them from the prolonged agony of a mortal wound. A sense of mercy is a catalyst for bloodlust.",
+		"chn": "以短剑与医师的形象制成的护符。\n能强化致命一击。\n\n白衣的战场医师看见一息尚存的人，\n不论敌我，皆会给予最后一击──\n正因为慈悲为怀，才会痛下杀手。"
+	},
+	{
+		"id": 2100,
+		"eng": "A talisman depicting three arrows.\nCarried by hunters of beasts.\n\nIncreases the effective range of bows.",
+		"chn": "以三支羽毛箭的形象制成的护符。\n狩猎野兽的猎人们拥有的物品。\n\n能提升弓的射程距离。"
+	},
+	{
+		"id": 2110,
+		"eng": "A cloth doll depicting a dancer garbed in blue.\nAn ancient heirloom of some sort.\n\nRaises attack power with lower equipment load.\n\nThe dancer in blue represents a fairy, who in legend bestowed a flowing sword upon a blind swordsman. Blade in hand, the swordsman sealed away an ancient god—a god that was Rot itself.",
+		"chn": "以蓝衣舞娘的形象制成的布质人偶。\n非常古老，传承而来的物品。\n\n装备重量越轻，攻击力会越高。\n\n据说蓝衣舞娘是妖精。\n妖精将流水剑赐予盲眼剑士，\n剑士因此得以封印古老神祇──封印腐败。"
+	},
+	{
+		"id": 2120,
+		"eng": "A talisman depicting a twinblade and a confessor.\nEnhances the final hit ending a chain of attacks.\n\nThe twinblade technique is a tradition of the confessors, who closely guard the secret of how they preserve the momentum of their attacks. Thus is the final strike of their onslaught all the more deadly.",
+		"chn": "以双头剑与密使的形象制成的护符。\n能强化连续攻击的最后一记攻击。\n\n密使们继承而来的双头剑剑术\n贯彻攻击招招不致命，\n但最后一记攻击最为强力的作法。"
+	},
+	{
+		"id": 2130,
+		"eng": "A talisman depicting an axe and a warrior.\nEnhances charge attacks.\n\nThe Lord who led the Long March bore an axe, and his loyal warriors honored him by wielding axes of their own, making them very effective at dealing decisive blows.",
+		"chn": "以斧与战士的形象制成的护符。\n能强化蓄力攻击。\n\n斧是长征战王的武器，\n众战士推崇王之余，也使用相同武器。\n他们擅长使出蓄满力量的攻击。"
+	},
+	{
+		"id": 2140,
+		"eng": "A talisman depicting a lance and a knight.\nEnhances attacks while on horseback.\n\nKnights on horseback are deadly foes. They see all below from their lofty position, meeting little meaningful resistance as they charge ahead.",
+		"chn": "以骑枪与骑士的形象制成的护符。\n能提升骑马时的攻击力。\n\n骑在马上的骑士十分可畏──\n身在高处，视野更加全面，\n可说是如虎添翼。"
+	},
+	{
+		"id": 2150,
+		"eng": "A talisman depicting three iron arrows.\nCarried by soldiers long ago.\n\nRaises attack power of arrows and bolts.",
+		"chn": "以三支铁箭的形象制成的护符。\n古老士兵们的物品。\n\n能提升射出箭、弩箭时的攻击力。"
+	},
+	{
+		"id": 2160,
+		"eng": "A talisman depicting the exultation of the Lord of Blood.\n\nRaises attack power when blood loss occurs in the vicinity.\n\n\"Render up your offerings of blood to your Lord. Drench my consort's chamber. Slake his cocoon's thirst. His awakening shall herald the dawn of our dynasty.\"",
+		"chn": "以鲜血君王的欢欣模样制成的护符。\n\n当周围人物陷入异常状态出血时，\n能提升攻击力\n\n　向鲜血君王献上鲜血吧──\n　让大人伴侣的房内，让茧内填满鲜血。\n　年幼的伴侣觉醒之时，我们的王朝随之开创。"
+	},
+	{
+		"id": 2170,
+		"eng": "A talisman depicting the exultation of pests.\n\nRaises attack power when poisoning or rot occurs in the vicinity.\n\n\"Rot for the scarlet goddess. O scarlet blossoms, flourish in distant lands, and return to us, the unwanted children.\"",
+		"chn": "以虫群的欢欣模样制成的护符。\n\n当周围人物陷入异常状态中毒、腐败时，\n能提升攻击力。\n\n　向猩红女神献上腐败吧──\n　在遥远他方怒放猩红花朵，\n　回到我们这群弃子的身旁吧。"
+	},
+	{
+		"id": 2180,
+		"eng": "A talisman depicting a claw and an assassin.\nEnhances jump attacks.\n\nThe assassins of Ravenmount are killers by trade. They assail their victims while dressed as birds of prey.",
+		"chn": "以钩爪与杀手的形象制成的护符。\n能强化跳跃攻击。\n\n鸦山的杀手以暗杀为业，\n他们会模仿死之猛禽，攻击盯上的猎物。"
+	},
+	{
+		"id": 2190,
+		"eng": "A bronze medallion depicting a roaring giant.\nEnhances roars and breath attacks.\n\nIn ancient times, the giants were mortal enemies of the Erdtree. Their bellowing roars desolated nature, triggered avalanches, and whipped up storms of flame.",
+		"chn": "以嘶吼巨人的形象制成的青铜链坠。\n能强化咆哮与吐息。\n\n在远古时代，巨人是黄金树的宿敌。\n据说巨人轰然的咆哮能破坏自然──\n譬如引发雪崩，或召来火焰暴风雨。"
+	},
+	{
+		"id": 2200,
+		"eng": "A talisman depicting a curved sword and a swordsman.\nEnhances guard counters.\n\nIt is said that a blind swordsman was the originator of this technique—the art of allowing one's opponent to strike so as to leave them vulnerable to a well-timed reply.",
+		"chn": "以曲剑与剑士的形象制成的护符。\n能强化防御反击。\n\n那体现险中求胜的杰出剑术，\n据说是在过去，盲眼剑士领悟的技术。"
+	},
+	{
+		"id": 2210,
+		"eng": "A talisman given by the jars to their friends.\nRaises potency of thrown jars.\n\nThough the jars are brought to life by human flesh and blood, they are all rather kindly folk. Perhaps they were made to be better than their innards.",
+		"chn": "壶群送给朋友的护符。\n能提升投掷壶类道具的威力。\n\n壶群以人类血肉作为生命泉源，\n但本性却十分地善良。\n也可能那份善良，就是他们诞生的理由。"
+	},
+	{
+		"id": 2220,
+		"eng": "A talisman depicting a set of perfume bottles.\nRaises potency of perfume items.\n\nThere are gardens known only to the perfumers. Whether hidden on the fringes of the highlands, or obscured by shadows inside caves, the flowers blossom in secret, waiting to impart their scent.",
+		"chn": "参考调香瓶的模样制成的护符。\n能提升调香类道具的威力。\n\n调香师有着只有他们才知道的花园。\n可能位在高原的边缘，或是隐藏的洞窟内，\n那里百花齐放，只为芬芳。"
+	},
+	{
+		"id": 3000,
+		"eng": "A talisman depicting a school of graven mages, the nightmare of the academy.\n\nRaises potency of sorceries.\n\nThe primeval current is a forbidden tradition of glintstone sorcery. To those who cleave to its teachings, the act of collecting sorcerers to fashion them into the seeds of stars is but another path of scientific inquiry.",
+		"chn": "学院的恶梦──人称魔法师球，\n以其形象制成的护符。\n\n能提升魔法的威力。\n\n在辉石魔法之中，有个名为“起源”的禁忌。\n将魔法师聚集成球，化成星星种子──\n对起源派的人而言，这是一种探索的手段。"
+	},
+	{
+		"id": 3001,
+		"eng": "A talisman depicting the first school of graven mages—a nightmare that would continue to haunt the academy.\n\nGreatly raises potency of sorceries.\n\nThe primeval current is a forbidden tradition of glintstone sorcery. To those who cleave to its teachings, the act of collecting sorcerers to fashion them into the seeds of stars is but another path of scientific inquiry.",
+		"chn": "学院的恶梦──人称魔法师球，\n以其中最先出现的魔法师球形象制成的护符。\n\n能大幅提升魔法的威力。\n\n在辉石魔法之中，有个名为“起源”的禁忌。\n将魔法师聚集成球，化成星星种子──\n对起源派的人而言，这是一种探索的手段。"
+	},
+	{
+		"id": 3040,
+		"eng": "A talisman bearing an icon that depicts a group of masked figures.\nRaises potency of incantations.\n\nThe figures represent the flock at prayer, their firm belief in the intangible inspiring even the solitary founder of their religion.\n\nWhat is faith if not an affirmation?",
+		"chn": "描绘面具人像的布条。\n能提升祷告的威力。\n\n人像是参考信徒绘制而成，\n坚信无形的事物，并献上祈祷──\n那副模样，连孤独的创教者也能受到鼓舞。\n\n所谓的信仰，可能就等于肯定。"
+	},
+	{
+		"id": 3050,
+		"eng": "A talisman bearing an icon that depicts a mass of masked figures.\nGreatly raises potency of incantations.\n\nThe figures represent the flock at prayer, their firm belief in the intangible inspiring even the solitary founder of their religion.\n\nWhat is faith if not an affirmation?",
+		"chn": "描绘大量面具人像的布条。\n能大幅提升祷告的威力。\n\n人像是参考信徒绘制而成，\n坚信无形的事物，并献上祈祷──\n那副模样，连孤独的创教者也能受到鼓舞。\n\n所谓的信仰，可能就等于肯定。"
+	},
+	{
+		"id": 3060,
+		"eng": "A legendary talisman depicting the ancient king whose seat lies at the heart of the storm beyond time.\n\nExtends the duration of sorceries and incantations.\n\nIt is said that the ancient royal city of Farum Azula has been slowly crumbling since time immemorial.",
+		"chn": "参考古王的形象制成的护符。\n据说古王坐镇时空夹缝、风暴中心。\n“传说中的护符”之一。\n\n能延长魔法、祷告的有效时间。\n\n据说古王的城──法姆·亚兹拉，\n在许久以前就逐渐步入崩毁。"
+	},
+	{
+		"id": 3070,
+		"eng": "A legendary talisman depicting the Elden Lord Radagon.\nShortens the casting time of sorceries and incantations.\n\nAs the husband of Rennala of Caria, the red-haired Radagon studied sorcery, and as the husband of Queen Marika, he studied incantations. Thus did the hero aspire to be complete.",
+		"chn": "以“艾尔登之王”拉达冈的形象制成的护符。\n“传说中的护符”之一。\n\n能缩短魔法、祷告的咏唱时间。\n\n据说“红发”拉达冈\n身为卡利亚的蕾娜菈的丈夫时，学习魔法；\n身为玛莉卡女王的丈夫时，学习祷告──\n英雄的目标，是成为完美存在。"
+	},
+	{
+		"id": 3080,
+		"eng": "An old glintstone blade that has been stained with blood.\n\nReduces FP consumption of sorceries and incantations at the cost of maximum HP.\n\nThe old sorcerers would slice open their hearts with these blades to imbue a primal glintstone with their soul, and thus did they die.",
+		"chn": "染血的古老辉石刀。\n\n能减少使用魔法、祷告消耗的专注值，\n但减少血量上限。\n\n古老的魔法师为了将源辉石化成自己的灵魂，\n会用这把刀划开心脏，接着步入死亡。"
+	},
+	{
+		"id": 3090,
+		"eng": "A legendary talisman depicting the Elden Lord Godfrey.\nRaises charge attack power of sorceries, incantations, and skills.\n\nGodfrey was a ferocious warrior. When he vowed to become a lord, he took the Beast Regent Serosh upon on his back to suppress the ceaseless lust for battle that raged within.",
+		"chn": "以“艾尔登之王”葛孚雷的形象制成的护符。\n“传说中的护符”之一。\n\n能强化魔法、祷告、战技的蓄力使用。\n\n葛孚雷是勇猛的战士──\n然而在他立誓为王的那一刻起，\n为了抑制心中沸腾不止的战意，\n他背起了“宰相野兽”瑟洛修。"
+	},
+	{
+		"id": 4000,
+		"eng": "Wrought iron talisman depicting an ancient dragon.\nBoosts physical damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "有着古龙浮雕的熟铁制护符。\n能提升物理减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4001,
+		"eng": "Wrought iron talisman depicting a duo of ancient dragons.\nGreatly boosts physical damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "有着两只古龙浮雕的熟铁制护符。\n能大幅提升物理减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4002,
+		"eng": "Wrought iron talisman depicting a trio of ancient dragons.\nVastly boosts physical damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "有着三只古龙浮雕的熟铁制护符。\n能更大幅提升物理减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4003,
+		"eng": "Legendary talisman of wrought iron depicting a massive ancient dragon.\nEnormously boosts physical damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "有着巨大古龙浮雕的熟铁制护符。\n“传说中的护符”之一。\n\n能极大幅提升物理减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4010,
+		"eng": "Talisman depicting a blue ancient dragon.\nBoosts magic damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有蓝色古龙图案的护符。\n能提升魔力属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4011,
+		"eng": "Talisman depicting a duo of blue ancient dragons.\nGreatly boosts magic damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有两只蓝色古龙图案的护符。\n能大幅提升魔力属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4012,
+		"eng": "Talisman depicting a trio of blue ancient dragons.\nVastly boosts magic damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有三只蓝色古龙图案的护符。\n能更大幅提升魔力属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4020,
+		"eng": "Talisman depicting a red ancient dragon.\nBoosts fire damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有红色古龙图案的护符。\n能提升火属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4021,
+		"eng": "Talisman depicting a duo of red ancient dragons.\nGreatly boosts fire damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有两只红色古龙图案的护符。\n能大幅提升火属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4022,
+		"eng": "Talisman depicting a trio of red ancient dragons.\nVastly boosts fire damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有三只红色古龙图案的护符。\n能更大幅提升火属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4030,
+		"eng": "Talisman depicting a yellow ancient dragon.\nBoosts lightning damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有黄色古龙图案的护符。\n能提升雷属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4031,
+		"eng": "Talisman depicting a duo of yellow ancient dragons.\nGreatly boosts lightning damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有两只黄色古龙图案的护符。\n能大幅提升雷属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4032,
+		"eng": "Talisman depicting a trio of yellow ancient dragons.\nVastly boosts lightning damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有三只黄色古龙图案的护符。\n能更大幅提升雷属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4040,
+		"eng": "Talisman depicting a golden ancient dragon.\nBoosts holy damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有黄金古龙图案的护符。\n能提升圣属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4041,
+		"eng": "Talisman depicting a duo of golden ancient dragons.\nGreatly boosts holy damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有两只黄金古龙图案的护符。\n能大幅提升圣属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4042,
+		"eng": "Talisman depicting a trio of golden ancient dragons.\nVastly boosts holy damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有三只黄金古龙图案的护符。\n能更大幅提升圣属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4050,
+		"eng": "Talisman depicting a pearlescent ancient dragon.\nBoosts non-physical damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有珍珠色古龙图案的护符。\n能提升物理以外的减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4051,
+		"eng": "Talisman depicting a duo of pearlescent ancient dragons.\nGreatly boosts non-physical damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有两只珍珠色古龙图案的护符。\n能大幅提升物理以外的减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4052,
+		"eng": "Talisman depicting a trio of pearlescent ancient dragons.\nVastly boosts non-physical damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections.",
+		"chn": "绘有三只珍珠色古龙图案的护符。\n能更大幅提升物理以外的减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
+	},
+	{
+		"id": 4060,
+		"eng": "A talisman fashioned from a scale that embodies the aspects of various creatures.\nSaid to have grown on the human body long ago.\n\nReduces damage taken from critical hits.\n\nA vestige of the crucible of primordial life. Born partially of devolution, it was considered a signifier of the divine in ancient times, but is now increasingly disdained as an impurity as civilization has advanced.",
+		"chn": "在远古时代，据说会长在人体上，\n揉合生物百相的鳞片所制成的护符。\n\n能减少致命一击造成的损伤。\n\n此为生命之始的熔炉残存的痕迹，\n也是局部性的隔代遗传，在古代具有神圣意义。\n然而在文明发展后，被视为玷污的象征。"
+	},
+	{
+		"id": 4070,
+		"eng": "A talisman fashioned from feathers that embody the aspects of various creatures.\nSaid to have grown on the human body long ago.\n\nImproves the effectiveness of dodge rolls, but increases damage taken at all times.\n\nA vestige of the crucible of primordial life. Born partially of devolution, it was considered a signifier of the divine in ancient times, but is now increasingly disdained as an impurity as civilization has advanced.",
+		"chn": "在远古时代，据说会长在人体上，\n揉合生物百相的羽毛所制成的护符。\n\n能强化翻滚的闪避能力，\n但会增加受到的损伤。\n\n此为生命之始的熔炉残存的痕迹，\n也是局部性的隔代遗传，在古代具有神圣意义。\n然而在文明发展后，被视为玷污的象征。"
+	},
+	{
+		"id": 4080,
+		"eng": "A talisman adorned with blue feathers, once used in ancient death rituals.\nRaises defense when HP is low.\n\nThe heart sings when one draws close to death, and thus does one cling so tenaciously to life—to render up a death worth offering.",
+		"chn": "源自古代死亡仪式的护符。\n蓝色羽毛的护符，在血量减少时，\n能提升防御力。\n\n与死亡比邻时，情绪会为之高昂──\n那拚命求生的模样，\n会加深死亡的奉献价值。"
+	},
+	{
+		"id": 4090,
+		"eng": "A talisman patterned after shields used in ritual combat held to honor the Erdtree.\n\nRaises defense when HP is at maximum.\n\nThe practice had died out by the age of King Consort Radagon, but remains of the arenas where ritual combat took place can still be found in every land.",
+		"chn": "过去献给黄金树的战斗仪式──\n参考用于仪式中的盾制成的护符。\n\n血量全满时，能提升防御力。\n\n战斗仪式在王夫拉达冈的时代受到废除，\n散布各处的竞技场是遗留下来的产物。"
+	},
+	{
+		"id": 4100,
+		"eng": "Talisman depicting a knight holding a greatshield.\nBoosts guarding ability.\n\nThe knights of Leyndell once modelled themselves after the Tree Sentinels. Their purpose is to protect that which deserves protection, and thus the shield always comes before the sword.",
+		"chn": "以大盾与骑士的形象制成的护符。\n能提升防御强度。\n\n在过去，王城罗德尔的骑士们\n将大树守卫的准则奉为圭臬：\n要善尽守护职责，\n该先举起的不是剑，是盾。"
+	},
+	{
+		"id": 4110,
+		"eng": "A talisman fashioned from a bony knot that embodies the aspects of various creatures.\nSaid to have grown on the human body long ago.\n\nReduces damage and impact of headshots taken.\n\nA vestige of the crucible of primordial life. Born partially of devolution, it was considered a signifier of the divine in ancient times, but is now increasingly disdained as an impurity as civilization has advanced.",
+		"chn": "在远古时代，据说会长在人体上，\n揉合生物百相的瘤所制成的护符。\n\n能减少头部射击造成的损伤与冲击。\n\n此为生命之始的熔炉残存的痕迹，\n也是局部性的隔代遗传，在古代具有神圣意义。\n然而在文明发展后，被视为玷污的象征。"
+	},
+	{
+		"id": 5000,
+		"eng": "A crimson-colored talisman patterned after an Erdtree seed.\nBoosts HP restoration from the Flask of Crimson Tears.\n\nThe Erdtree was once perfect and eternal, and thus was it believed that Erdtree seeds could not exist.",
+		"chn": "参考黄金树种子的模样制成的红色护符。\n能提升红露滴圣杯瓶的恢复量。\n\n过去的黄金树曾是永恒与完美，\n也因此，种子不曾出现。"
+	},
+	{
+		"id": 5010,
+		"eng": "A cerulean-colored talisman patterned after an Erdtree seed.\nBoosts FP restoration from the Flask of Cerulean Tears.\n\nThe Erdtree was once perfect and eternal, and thus was it believed that Erdtree seeds could not exist.",
+		"chn": "参考黄金树种子的模样制成的蓝色护符。\n能提升蓝露滴圣杯瓶的恢复量。\n\n过去的黄金树曾是永恒与完美，\n也因此，种子不曾出现。"
+	},
+	{
+		"id": 5020,
+		"eng": "Talisman depicting a drop of the Erdtree's sap, a blessed boon.\n\nGradually restores HP.\n\nIt was once thought that the blessed sap of the Erdtree would drip from its boughs forever—but that age of plenty swiftly came to a close, and with time, the Erdtree became more an object of faith.",
+		"chn": "承接黄金树的恩惠──\n参考承接露滴的模样制成的护符。\n\n能缓慢恢复血量。\n\n据说在过去，恩惠露滴源源不绝──\n那是转眼即逝的丰饶时代，\n黄金树因此成为了信仰。"
+	},
+	{
+		"id": 5030,
+		"eng": "A talisman engraved with a stern likeness of Praetor Rykard, master of Volcano Manor.\n\nRestores HP upon defeating enemies.\n\nWhen Rykard turned to heresy, taking by force became the rule. The gods themselves were no different, after all.",
+		"chn": "火山官邸之主，拉卡德司法官──\n雕着他面容严肃的肖像护符。\n\n打倒敌人时，能恢复血量。\n\n当拉卡德发誓犯下叛律的亵渎之举，\n所有的掠夺行为都受到肯定──\n与神祇的作法如出一辙。"
+	},
+	{
+		"id": 5040,
+		"eng": "Sacred cloth of the Godskin Apostles, made from supple skin sewn together.\n\nSuccessive attacks restore HP.\n\nThe Gloam-Eyed Queen cradles newborn apostles swaddled in this cloth. Soon they will grow to become the death of the gods.",
+		"chn": "以平滑的皮肤拼制缝成的\n神皮使徒们的圣布。\n\n连续攻击时，能恢复血量。\n\n刚诞生的使徒会用此物包裹，\n再交给有着宵色眼眸的女王拥抱──\n让使徒们长成神祇的死亡。"
+	},
+	{
+		"id": 5050,
+		"eng": "An assassin's dagger, misshapen and stained in crimson.\nCritical hits restore HP.\n\nThis charm is modelled after the darkly gleaming blades used in the Night of Black Knives. Those which gave the demigods their first taste of Death.",
+		"chn": "形状蜿蜒，染上红色的凶刀。\n使出致命一击能恢复血量。\n\n带来半神初始死亡的黑刀，\n在阴谋之夜舞动，反射阵阵光芒──\n据说此为参考黑刀的形象制成。"
+	},
+	{
+		"id": 5060,
+		"eng": "An assassin's dagger, misshapen and stained in cerulean.\nCritical hits restore FP.\n\nThis charm is modelled after the darkly gleaming blades used in the Night of Black Knives. Those which gave the demigods their first taste of Death.",
+		"chn": "形状蜿蜒，染上蓝色的凶刀。\n使出致命一击能恢复专注值。\n\n带来半神初始死亡的黑刀，\n在阴谋之夜舞动，反射阵阵光芒──\n据说此为参考黑刀的形象制成。"
+	},
+	{
+		"id": 6000,
+		"eng": "Small mysterious bottle with a dark mist sealed within.\n\nEliminates all sound made by the wearer during movement.\n\nA ritual implement used by Roundtable Hold assassins. There was a time when Tarnished who had strayed from guidance feared nothing more than utter silence.",
+		"chn": "封着暗雾的神秘小瓶子。\n\n能完全去除自己发出的声响。\n\n据说是圆桌厅堂的刺客使用的诅咒器具。\n在过去，背离引导的褪色者，\n在一片寂静的时刻最为心慌。"
+	},
+	{
+		"id": 6010,
+		"eng": "Talisman put together from dark cloth with a lustrous sheen.\n\nCompletely conceals the wearer's presence while crouching at a distance from foes.\n\nPart of one of the concealing veils used by the assassins on the Night of Black Knives.",
+		"chn": "表面具有光泽的暗色布卷成的护符。\n\n远离敌人后，蹲下能完全隐藏自己的身影。\n\n此为过去的黑刀刺客们，\n在阴谋之夜时用于隐藏身影的部分面纱。"
+	},
+	{
+		"id": 6020,
+		"eng": "A talisman adorned with the royal crest.\n\nLowers FP consumed by skills.\n\nAn honor said to have once been awarded to Carian knights who served as direct retainers to the kingdom's princesses. Now there is only one princess: Ranni, daughter of Rennala.",
+		"chn": "在盾面有着王室徽章的护符。\n\n能减少使用战技消耗的专注值。\n\n据说在过去的卡利亚骑士之中，\n只有直接侍奉公主的人会受赐此徽章。\n目前的公主只有一位──\n蕾娜菈的女儿，菈妮。"
+	},
+	{
+		"id": 6040,
+		"eng": "A brooch depicting Lacrima, the long-tailed cat.\n\nRenders the wearer immune to fall damage.\nHowever, it cannot prevent falling to one's death.\n\nLacrima features in the fables of Raya Lucaria, in which she is described as a faerie cat who was fond of playing in the great bell tower.",
+		"chn": "以长尾猫拉桂玛的形象制成的别针。\n\n从高处落下时，能完全不受到损伤。\n但是无法避免过高落下时，造成的死亡。\n\n据说那是雷亚卢卡利亚的童话故事中\n出现的妖精猫，会在大钟楼上玩耍。"
+	},
+	{
+		"id": 6050,
+		"eng": "Disturbing likeness of a man whose eyes have been gouged out.\nThe corners of his mouth are upturned in an almost flirtatious manner.\n\nConstantly attracts enemies' aggression.\n\nIt is said that the man, named Shabriri, had his eyes gouged out as punishment for the crime of slander, and, with time, the blight of the flame of frenzy came to dwell in the empty sockets.",
+		"chn": "双眼被压碎的疯狂肖像。\n肖像若有似无的微笑带有一丝谄媚。\n\n将变得容易受敌人攻击。\n\n名为夏玻利利的男人，因为进谗言，\n蒙受被众人压碎双眼的惩罚。\n据说后来，他的眼窝寄宿了癫火病。"
+	},
+	{
+		"id": 6060,
+		"eng": "Disturbing likeness of a woman whose skin was flayed.\nShe smiles with a serene tenderness.\n\nIncreases damage taken.\n\nIt is said that this woman, named Daedica, indulged in every form of adultery and wicked pleasure imaginable, giving birth to a myriad of grotesque children.",
+		"chn": "皮肤剥落的疯狂肖像。\n肖像若有似无的微笑带有一丝慈爱。\n\n将增加受到的损伤。\n\n名为狄蒂卡的女人，\n做出诸多道德瑕疵之举。\n据说因此产下了无数异形之子。"
+	},
+	{
+		"id": 6070,
+		"eng": "A talisman fashioned from a dried twig, so slender that it might snap at the slightest touch.\n\nPrevents rune loss upon death, but will be lost itself in exchange.\n\nBelieved to be a twig pruned from the Erdtree long, long ago.",
+		"chn": "细到仿佛一折即断的枯枝护符。\n\n死亡时不会掉落卢恩，\n但作为代价，此护符会消失。\n\n据说是黄金树的一部份，\n在远古时代修剪时留下的树枝。"
+	},
+	{
+		"id": 6080,
+		"eng": "A small, clouded mirror that reflects an image of a golden figure.\n\nMakes the bearer take on the appearance of a Host of Fingers.\n\nOne of the ritual implements created by the Tarnished to deceive invaders.",
+		"chn": "映照出金色模糊人影的小镜子。\n\n能变得像是勾指主人。\n\n为了欺骗入侵者所制作的\n其中一种褪色者的诅咒器具。"
+	},
+	{
+		"id": 6090,
+		"eng": "A small, clouded mirror that reflects a flesh-and-blood figure.\n\nMakes the bearer take on the appearance of a summoned cooperator.\n\nOne of the ritual implements created by the Tarnished to deceive invaders.",
+		"chn": "映照出肉身模糊人影的小镜子。\n\n能变得像是受召唤而来的协助者。\n\n为了欺骗入侵者所制作的\n其中一种褪色者的诅咒器具。"
+	},
+	{
+		"id": 6100,
+		"eng": "Mysterious circular object that's oddly warped.\nChanges the demeanour of the wearer's actions.",
+		"chn": "歪扭成奇怪模样的神秘圆环。\n自己的举止会产生变化。"
+	},
+	{
+		"id": 6110,
+		"eng": "Item cut from the horns of the Regal Ancestor Spirit.\n\nRestore FP upon defeating enemies.\n\nA number of new growths bud from the antler-like horns of the fallen king, each glowing with light. Thus does new life grow from death, and from death, one obtains power.",
+		"chn": "切下祖灵之王的角而成的物品。\n\n打倒敌人时，能恢复专注值。\n\n祖灵之王倒下，几株嫩芽\n以它的角为温床，盛开发光──\n此为从死亡萌发生命，\n也是从死亡获得力量。"
+	}
+]

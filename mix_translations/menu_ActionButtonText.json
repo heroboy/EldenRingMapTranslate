@@ -1,0 +1,797 @@
+[
+	{
+		"id": 1000,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 1800,
+		"eng": "Touch grace",
+		"chn": "触碰赐福"
+	},
+	{
+		"id": 1810,
+		"eng": "Rest at site of grace",
+		"chn": "在赐福休息"
+	},
+	{
+		"id": 1830,
+		"eng": "Rest at table of lost grace",
+		"chn": "在大赐福休息"
+	},
+	{
+		"id": 2000,
+		"eng": "Pick up item",
+		"chn": "捡拾道具"
+	},
+	{
+		"id": 2010,
+		"eng": "Pillage corpse",
+		"chn": "搜刮尸体"
+	},
+	{
+		"id": 2020,
+		"eng": "Pillage remains",
+		"chn": "搜刮尸体"
+	},
+	{
+		"id": 2030,
+		"eng": "Search treasure chest",
+		"chn": "搜刮宝箱"
+	},
+	{
+		"id": 2100,
+		"eng": "OK",
+		"chn": "关闭"
+	},
+	{
+		"id": 2800,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2810,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2811,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2812,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2813,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2814,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2815,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2816,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2817,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2818,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2819,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2820,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2821,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2822,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2823,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2824,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2825,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2826,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2827,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 2828,
+		"eng": "Acquire materials",
+		"chn": "采集材料"
+	},
+	{
+		"id": 3000,
+		"eng": "Pull lever",
+		"chn": "拉起拉杆"
+	},
+	{
+		"id": 3010,
+		"eng": "Push lever",
+		"chn": "推动拉杆"
+	},
+	{
+		"id": 3100,
+		"eng": "Open",
+		"chn": "打开"
+	},
+	{
+		"id": 3101,
+		"eng": "Close",
+		"chn": "关上"
+	},
+	{
+		"id": 3200,
+		"eng": "Traverse the mist",
+		"chn": "进入雾中"
+	},
+	{
+		"id": 3300,
+		"eng": "Climb",
+		"chn": "爬上"
+	},
+	{
+		"id": 3301,
+		"eng": "Descend",
+		"chn": "爬下"
+	},
+	{
+		"id": 3310,
+		"eng": "Kick ladder",
+		"chn": "踢落梯子"
+	},
+	{
+		"id": 4000,
+		"eng": "Contraption does not move",
+		"chn": "机关不能动。"
+	},
+	{
+		"id": 4010,
+		"eng": "Does not open from this side",
+		"chn": "不能从这一侧打开。"
+	},
+	{
+		"id": 4020,
+		"eng": "It's locked",
+		"chn": "锁上了。"
+	},
+	{
+		"id": 4070,
+		"eng": "You are not destined to open this",
+		"chn": "没有打开此物的命运。"
+	},
+	{
+		"id": 4072,
+		"eng": "Opens only to those carrying a finger",
+		"chn": "身上没有指头的，门不敞开。"
+	},
+	{
+		"id": 4073,
+		"eng": "The door is blocked shut",
+		"chn": "门扉紧闭。"
+	},
+	{
+		"id": 4080,
+		"eng": "The door is blocked shut",
+		"chn": "门扉紧闭。"
+	},
+	{
+		"id": 4081,
+		"eng": "It's tightly blocked shut",
+		"chn": "紧闭不开。"
+	},
+	{
+		"id": 4082,
+		"eng": "It's tightly blocked shut",
+		"chn": "紧闭不开。"
+	},
+	{
+		"id": 4083,
+		"eng": "It's tightly blocked shut",
+		"chn": "紧闭不开。"
+	},
+	{
+		"id": 4084,
+		"eng": "It's tightly blocked shut",
+		"chn": "紧闭不开。"
+	},
+	{
+		"id": 4085,
+		"eng": "It's tightly blocked shut",
+		"chn": "紧闭不开。"
+	},
+	{
+		"id": 4086,
+		"eng": "It's tightly blocked shut",
+		"chn": "紧闭不开。"
+	},
+	{
+		"id": 7000,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 7010,
+		"eng": "Kneel",
+		"chn": "跪下"
+	},
+	{
+		"id": 7020,
+		"eng": "Steal",
+		"chn": "偷窃"
+	},
+	{
+		"id": 7030,
+		"eng": "Use smithing table",
+		"chn": "使用锻造台"
+	},
+	{
+		"id": 7040,
+		"eng": "Examine altar",
+		"chn": "调查祭坛"
+	},
+	{
+		"id": 7050,
+		"eng": "Touch Fractured Marika",
+		"chn": "触碰濒毁玛莉卡"
+	},
+	{
+		"id": 7060,
+		"eng": "Hand over Deathroot",
+		"chn": "交出死根"
+	},
+	{
+		"id": 7080,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 7090,
+		"eng": "Accept primal glintstone",
+		"chn": "收下源辉石"
+	},
+	{
+		"id": 7100,
+		"eng": "Transplant primal glintstone",
+		"chn": "移植源辉石"
+	},
+	{
+		"id": 7110,
+		"eng": "Be held",
+		"chn": "接受拥抱"
+	},
+	{
+		"id": 7111,
+		"eng": "Touch Fia",
+		"chn": "触碰菲雅"
+	},
+	{
+		"id": 7120,
+		"eng": "Touch the Two Fingers",
+		"chn": "触碰双指"
+	},
+	{
+		"id": 7130,
+		"eng": "Summon Latenna",
+		"chn": "召唤勒缇娜"
+	},
+	{
+		"id": 7140,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 7150,
+		"eng": "Touch Hyetta",
+		"chn": "触碰海妲"
+	},
+	{
+		"id": 7160,
+		"eng": "Offer finger",
+		"chn": "伸出指头"
+	},
+	{
+		"id": 7161,
+		"eng": "Dye cloth with maiden's blood",
+		"chn": "用立誓布沾上女巫的血"
+	},
+	{
+		"id": 7162,
+		"eng": "Dye cloth with maiden's blood",
+		"chn": "用立誓布沾上女巫的血"
+	},
+	{
+		"id": 7170,
+		"eng": "Atone",
+		"chn": "赎罪"
+	},
+	{
+		"id": 7180,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 7190,
+		"eng": "Use dressing table",
+		"chn": "使用化妆台"
+	},
+	{
+		"id": 7200,
+		"eng": "Speak the truth about Radagon",
+		"chn": "告知关于拉达冈的真相"
+	},
+	{
+		"id": 7210,
+		"eng": "Where did the body go?",
+		"chn": "那副身体在哪里？"
+	},
+	{
+		"id": 7211,
+		"eng": "Administer draught",
+		"chn": "让人喝下药水"
+	},
+	{
+		"id": 7220,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 7230,
+		"eng": "Examine remains",
+		"chn": "调查尸体"
+	},
+	{
+		"id": 7240,
+		"eng": "Receive mending rune",
+		"chn": "获得修复卢恩"
+	},
+	{
+		"id": 7241,
+		"eng": "Receive mending rune",
+		"chn": "获得修复卢恩"
+	},
+	{
+		"id": 7242,
+		"eng": "Receive mending rune",
+		"chn": "获得修复卢恩"
+	},
+	{
+		"id": 7250,
+		"eng": "Return Unalloyed Gold Needle",
+		"chn": "归还纯净金针"
+	},
+	{
+		"id": 7270,
+		"eng": "Examine altar",
+		"chn": "调查祭坛"
+	},
+	{
+		"id": 7280,
+		"eng": "Examine grave",
+		"chn": "调查坟墓"
+	},
+	{
+		"id": 8100,
+		"eng": "Ride",
+		"chn": "骑上"
+	},
+	{
+		"id": 9051,
+		"eng": "Invade White Mask Varré's world",
+		"chn": "入侵“白面具”梵雷的世界"
+	},
+	{
+		"id": 9052,
+		"eng": "Invade Old Knight Istvan's world",
+		"chn": "入侵“古老骑士”伊修托邦的世界"
+	},
+	{
+		"id": 9053,
+		"eng": "Invade Rileigh the Idle's world",
+		"chn": "入侵“黄昏将尽”莱利的世界"
+	},
+	{
+		"id": 9054,
+		"eng": "Invade Juno Hoslow, Knight of Blood's world",
+		"chn": "入侵“血言骑士”尤诺·霍斯劳的世界"
+	},
+	{
+		"id": 9055,
+		"eng": "Invade Vargram the Raging Wolf's world",
+		"chn": "入侵“白狼战鬼”巴格莱姆的世界"
+	},
+	{
+		"id": 9056,
+		"eng": "Invade Great Horned Tragoth's world",
+		"chn": "入侵“大角”忒拉格斯的世界"
+	},
+	{
+		"id": 9057,
+		"eng": "Be summoned to assist Yura, Hunter of Bloody Fingers",
+		"chn": "作为“血指猎人”尤拉的协助者，接受召唤"
+	},
+	{
+		"id": 9058,
+		"eng": "Be summoned to assist Sorceress Sellen",
+		"chn": "作为魔法师瑟濂的协助者，接受召唤"
+	},
+	{
+		"id": 9059,
+		"eng": "Be summoned to challenge Sorceress Sellen",
+		"chn": "作为魔法师瑟濂的敌对者，接受召唤"
+	},
+	{
+		"id": 9060,
+		"eng": "Be summoned to assist Millicent",
+		"chn": "作为米莉森的协助者，接受召唤"
+	},
+	{
+		"id": 9061,
+		"eng": "Be summoned to challenge Millicent",
+		"chn": "作为米莉森的敌对者，接受召唤"
+	},
+	{
+		"id": 9070,
+		"eng": "Touch cooperative sign",
+		"chn": "触碰要求协助的记号"
+	},
+	{
+		"id": 9071,
+		"eng": "Touch invasion sign",
+		"chn": "触碰敌对入侵的记号"
+	},
+	{
+		"id": 9080,
+		"eng": "Restore the power of the Great Rune",
+		"chn": "获得大卢恩的力量"
+	},
+	{
+		"id": 9081,
+		"eng": "Restore the power of the Great Rune",
+		"chn": "获得大卢恩的力量"
+	},
+	{
+		"id": 9082,
+		"eng": "Restore the power of the Great Rune",
+		"chn": "获得大卢恩的力量"
+	},
+	{
+		"id": 9083,
+		"eng": "Restore the power of the Great Rune",
+		"chn": "获得大卢恩的力量"
+	},
+	{
+		"id": 9084,
+		"eng": "Restore the power of the Great Rune",
+		"chn": "获得大卢恩的力量"
+	},
+	{
+		"id": 9085,
+		"eng": "Restore the power of the Great Rune",
+		"chn": "获得大卢恩的力量"
+	},
+	{
+		"id": 9100,
+		"eng": "Touch",
+		"chn": "触碰"
+	},
+	{
+		"id": 9210,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 9240,
+		"eng": "Stargaze",
+		"chn": "开始观星"
+	},
+	{
+		"id": 9260,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 9270,
+		"eng": "Use Birdseye Telescope",
+		"chn": "使用鸟瞰镜"
+	},
+	{
+		"id": 9290,
+		"eng": "Return to entrance",
+		"chn": "返回入口"
+	},
+	{
+		"id": 9300,
+		"eng": "Touch",
+		"chn": "触碰"
+	},
+	{
+		"id": 9310,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 9320,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 9330,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 9500,
+		"eng": "Touch wall of thorns",
+		"chn": "触碰荆棘墙"
+	},
+	{
+		"id": 9501,
+		"eng": "Touch golden light",
+		"chn": "触碰黄金光芒"
+	},
+	{
+		"id": 9503,
+		"eng": "Examine seal",
+		"chn": "调查封印"
+	},
+	{
+		"id": 9505,
+		"eng": "Examine seal",
+		"chn": "调查封印"
+	},
+	{
+		"id": 9506,
+		"eng": "Examine seal",
+		"chn": "调查封印"
+	},
+	{
+		"id": 9520,
+		"eng": "Light flame",
+		"chn": "点燃火焰"
+	},
+	{
+		"id": 9521,
+		"eng": "Touch phantom",
+		"chn": "触碰幻影"
+	},
+	{
+		"id": 9522,
+		"eng": "Examine seal",
+		"chn": "调查封印"
+	},
+	{
+		"id": 9524,
+		"eng": "Light flame",
+		"chn": "点燃火焰"
+	},
+	{
+		"id": 9525,
+		"eng": "Touch horned remains",
+		"chn": "触碰角骸"
+	},
+	{
+		"id": 9526,
+		"eng": "Go back",
+		"chn": "回到原本的地方"
+	},
+	{
+		"id": 9527,
+		"eng": "Examine",
+		"chn": "调查"
+	},
+	{
+		"id": 9528,
+		"eng": "Light flame",
+		"chn": "点燃火焰"
+	},
+	{
+		"id": 9529,
+		"eng": "Examine seal",
+		"chn": "调查封印"
+	},
+	{
+		"id": 9530,
+		"eng": "Examine seal",
+		"chn": "调查封印"
+	},
+	{
+		"id": 9540,
+		"eng": "Summon Castellan Jerren",
+		"chn": "召唤城主杰廉"
+	},
+	{
+		"id": 9541,
+		"eng": "Summon Blaidd the Half-Wolf",
+		"chn": "召唤“半狼”布莱泽"
+	},
+	{
+		"id": 9542,
+		"eng": "Summon Alexander, Warrior Jar",
+		"chn": "召唤“战士壶”亚历山大"
+	},
+	{
+		"id": 9543,
+		"eng": "Summon Great Horned Tragoth",
+		"chn": "召唤“大角”忒拉格斯"
+	},
+	{
+		"id": 9544,
+		"eng": "Summon Okina",
+		"chn": "召唤老翁"
+	},
+	{
+		"id": 9545,
+		"eng": "Summon Finger Maiden Therolina",
+		"chn": "召唤指头女巫瑟萝莉娜"
+	},
+	{
+		"id": 9546,
+		"eng": "Summon Lionel the Lionhearted",
+		"chn": "召唤“无畏”莱恩尼尔"
+	},
+	{
+		"id": 9547,
+		"eng": "Summon Patches",
+		"chn": "召唤帕奇"
+	},
+	{
+		"id": 9600,
+		"eng": "Become the Elden Lord",
+		"chn": "成为艾尔登之王"
+	},
+	{
+		"id": 9610,
+		"eng": "Summon Ranni",
+		"chn": "召唤菈妮"
+	},
+	{
+		"id": 9620,
+		"eng": "Become the Lord of Frenzied Flame",
+		"chn": "成为癫火之王"
+	},
+	{
+		"id": 9630,
+		"eng": "Wear ring",
+		"chn": "戴上戒指"
+	},
+	{
+		"id": 9640,
+		"eng": "Open door",
+		"chn": "开门"
+	},
+	{
+		"id": 9700,
+		"eng": "Hoist medallion",
+		"chn": "高举符节"
+	},
+	{
+		"id": 9701,
+		"eng": "Hoist secret medallion",
+		"chn": "高举秘密符节"
+	},
+	{
+		"id": 9710,
+		"eng": "Rest in coffin",
+		"chn": "进入石棺"
+	},
+	{
+		"id": 9720,
+		"eng": "Examine pedestal",
+		"chn": "调查基座"
+	},
+	{
+		"id": 9721,
+		"eng": "Remove inverted statue",
+		"chn": "卸下颠倒像"
+	},
+	{
+		"id": 9730,
+		"eng": "Open door",
+		"chn": "开门"
+	},
+	{
+		"id": 9740,
+		"eng": "Lie down",
+		"chn": "躺下"
+	},
+	{
+		"id": 50000000,
+		"eng": "Touch gold summon sign",
+		"chn": "触碰金色召唤记号"
+	},
+	{
+		"id": 50000001,
+		"eng": "Touch red summon sign",
+		"chn": "触碰红色召唤记号"
+	},
+	{
+		"id": 50000100,
+		"eng": "Touch bloodstain",
+		"chn": "触碰血迹"
+	},
+	{
+		"id": 50000101,
+		"eng": "Touch <?codenameIcon?><?codenamePCName?>'s bloodstain",
+		"chn": "触碰<?codenameIcon?><?codenamePCName?>的血迹"
+	},
+	{
+		"id": 50000102,
+		"eng": "Touch <?codenameIcon?>'s bloodstain",
+		"chn": "触碰<?codenameIcon?>的血迹"
+	},
+	{
+		"id": 50000200,
+		"eng": "Retrieve lost runes",
+		"chn": "取回卢恩"
+	},
+	{
+		"id": 50000210,
+		"eng": "Read message",
+		"chn": "阅读讯息"
+	},
+	{
+		"id": 50000211,
+		"eng": "Read <?codenameIcon?><?codenamePCName?>'s message",
+		"chn": "阅读<?codenameIcon?><?codenamePCName?>的讯息"
+	},
+	{
+		"id": 50000212,
+		"eng": "Read <?codenameIcon?>'s message",
+		"chn": "阅读<?codenameIcon?>的讯息"
+	},
+	{
+		"id": 50000400,
+		"eng": "Check your summon sign",
+		"chn": "确认自己的召唤记号"
+	},
+	{
+		"id": 50000500,
+		"eng": "Check your message",
+		"chn": "确认自己的讯息"
+	}
+]

@@ -1,0 +1,3442 @@
+[
+	{
+		"id": 10011952,
+		"eng": "Last site of grace visited",
+		"chn": "最后停留的赐福"
+	},
+	{
+		"id": 13040000,
+		"eng": "The amount of HP/FP your flasks replenish cannot be increased any further",
+		"chn": "圣杯瓶的恢复量已提升到上限。"
+	},
+	{
+		"id": 13040020,
+		"eng": "Increased the amount of HP/FP replenished by your flasks",
+		"chn": "已提升圣杯瓶的恢复量。"
+	},
+	{
+		"id": 13040100,
+		"eng": "No Flask of Crimson Tears in inventory",
+		"chn": "您未持有红露滴圣杯瓶。"
+	},
+	{
+		"id": 13040110,
+		"eng": "No Flask of Cerulean Tears in inventory",
+		"chn": "您未持有蓝露滴圣杯瓶。"
+	},
+	{
+		"id": 13040120,
+		"eng": "Flask charges already at maximum",
+		"chn": "圣杯瓶的使用次数已增加到上限。"
+	},
+	{
+		"id": 13040130,
+		"eng": "No Golden Seed in inventory",
+		"chn": "您未持有黄金种子。"
+	},
+	{
+		"id": 13040140,
+		"eng": "Added a charge to Flask of Crimson Tears",
+		"chn": "已增加红露滴圣杯瓶的使用次数。"
+	},
+	{
+		"id": 13040150,
+		"eng": "No Flask of Crimson Tears in inventory",
+		"chn": "您未持有红露滴圣杯瓶。"
+	},
+	{
+		"id": 13040160,
+		"eng": "No Flask of Cerulean Tears in inventory",
+		"chn": "您未持有蓝露滴圣杯瓶。"
+	},
+	{
+		"id": 15000370,
+		"eng": "Add charge to flask",
+		"chn": "增加使用次数"
+	},
+	{
+		"id": 15000371,
+		"eng": "Flasks",
+		"chn": "圣杯瓶"
+	},
+	{
+		"id": 15000372,
+		"eng": "Cancel",
+		"chn": "离开"
+	},
+	{
+		"id": 15000380,
+		"eng": "Increase amount replenished by flasks",
+		"chn": "提升恢复量"
+	},
+	{
+		"id": 15000385,
+		"eng": "Allocate flask charges",
+		"chn": "分配使用次数"
+	},
+	{
+		"id": 15000390,
+		"eng": "Memorize spell",
+		"chn": "记忆"
+	},
+	{
+		"id": 15000395,
+		"eng": "Sort chest",
+		"chn": "整理木箱"
+	},
+	{
+		"id": 15000420,
+		"eng": "Pass time",
+		"chn": "消磨时间"
+	},
+	{
+		"id": 15000430,
+		"eng": "Until morning",
+		"chn": "到早上"
+	},
+	{
+		"id": 15000440,
+		"eng": "Until noon",
+		"chn": "到中午"
+	},
+	{
+		"id": 15000450,
+		"eng": "Until nightfall",
+		"chn": "到晚上"
+	},
+	{
+		"id": 15000460,
+		"eng": "Cancel",
+		"chn": "离开"
+	},
+	{
+		"id": 15000510,
+		"eng": "Mix Wondrous Physick",
+		"chn": "调配灵药"
+	},
+	{
+		"id": 15000520,
+		"eng": "Great Runes",
+		"chn": "大卢恩"
+	},
+	{
+		"id": 15000530,
+		"eng": "Ashes of War",
+		"chn": "战灰"
+	},
+	{
+		"id": 15000540,
+		"eng": "Level Up",
+		"chn": "升级"
+	},
+	{
+		"id": 15000700,
+		"eng": "Purchase",
+		"chn": "购买"
+	},
+	{
+		"id": 15000710,
+		"eng": "Sell",
+		"chn": "卖出"
+	},
+	{
+		"id": 15000720,
+		"eng": "Leave",
+		"chn": "离去"
+	},
+	{
+		"id": 20000000,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 20000009,
+		"eng": "Leave",
+		"chn": "离去"
+	},
+	{
+		"id": 20000010,
+		"eng": "Purchase",
+		"chn": "购买"
+	},
+	{
+		"id": 20000011,
+		"eng": "Sell",
+		"chn": "卖出"
+	},
+	{
+		"id": 20010080,
+		"eng": "Begin Journey <?nextLoopCount?>",
+		"chn": "开始第<?nextLoopCount?>次的世界"
+	},
+	{
+		"id": 20010101,
+		"eng": "Listen to the sounds of flame",
+		"chn": "倾听火焰熏烧的声音"
+	},
+	{
+		"id": 20011000,
+		"eng": "No Sacred Tear in inventory",
+		"chn": "您未持有圣杯露滴。"
+	},
+	{
+		"id": 20011001,
+		"eng": "Use a Sacred Tear to increase the amount of HP/FP replenished by your flasks?",
+		"chn": "要使用圣杯露滴，提升圣杯瓶的恢复量吗？"
+	},
+	{
+		"id": 20011010,
+		"eng": "Not enough Golden Seeds",
+		"chn": "黄金种子的数量不足。"
+	},
+	{
+		"id": 20011011,
+		"eng": "Use one Golden Seed to increase your number of flask uses?",
+		"chn": "要使用１个黄金种子，增加圣杯瓶的使用次数吗？"
+	},
+	{
+		"id": 20011012,
+		"eng": "Use two Golden Seeds to increase your number of flask uses?",
+		"chn": "要使用２个黄金种子，增加圣杯瓶的使用次数吗？"
+	},
+	{
+		"id": 20011013,
+		"eng": "Use three Golden Seeds to increase your number of flask uses?",
+		"chn": "要使用３个黄金种子，增加圣杯瓶的使用次数吗？"
+	},
+	{
+		"id": 20011014,
+		"eng": "Use four Golden Seeds to increase your number of flask uses?",
+		"chn": "要使用４个黄金种子，增加圣杯瓶的使用次数吗？"
+	},
+	{
+		"id": 20011015,
+		"eng": "Use five Golden Seeds to increase your number of flask uses?",
+		"chn": "要使用５个黄金种子，增加圣杯瓶的使用次数吗？"
+	},
+	{
+		"id": 20011020,
+		"eng": "Cannot rest at sites of grace right now",
+		"chn": "现在不能在赐福休息。"
+	},
+	{
+		"id": 20011080,
+		"eng": "Begin Journey <?nextLoopCount?>?",
+		"chn": "要进入第<?nextLoopCount?>次的世界吗？"
+	},
+	{
+		"id": 20011081,
+		"eng": "If you begin Journey <?nextLoopCount?>, you will not be able\nto return to the present world of Journey <?loopCount?>.\nBegin Journey <?nextLoopCount?>?",
+		"chn": "进入第<?nextLoopCount?>次的世界之后，\n就不能回到目前第<?loopCount?>次的世界。\n\n确定要开始第<?nextLoopCount?>次的世界吗？"
+	},
+	{
+		"id": 21000001,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000002,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000003,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000004,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000005,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000006,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000007,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000008,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000009,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000010,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000011,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000012,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000013,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000014,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000015,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000016,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000017,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000018,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000020,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000021,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000022,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000023,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000024,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000025,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000026,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000027,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000028,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000029,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000030,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000031,
+		"eng": "Talk to Melina",
+		"chn": "和梅琳娜交谈"
+	},
+	{
+		"id": 21000050,
+		"eng": "Tell her you're off to Roundtable Hold",
+		"chn": "告诉梅琳娜想去圆桌厅堂"
+	},
+	{
+		"id": 21001000,
+		"eng": "Accept",
+		"chn": "接受条件"
+	},
+	{
+		"id": 21001001,
+		"eng": "Refuse",
+		"chn": "拒绝"
+	},
+	{
+		"id": 21001002,
+		"eng": "I'm interested",
+		"chn": "我想听"
+	},
+	{
+		"id": 21001003,
+		"eng": "I'm not interested",
+		"chn": "我不想听"
+	},
+	{
+		"id": 21001004,
+		"eng": "I'll go, too",
+		"chn": "我要去圆桌厅堂"
+	},
+	{
+		"id": 21001005,
+		"eng": "I'm ready",
+		"chn": "我准备好了"
+	},
+	{
+		"id": 21001006,
+		"eng": "I'd like you to wait",
+		"chn": "等我一下"
+	},
+	{
+		"id": 21011002,
+		"eng": "Show hands",
+		"chn": "让她看自己的手"
+	},
+	{
+		"id": 21011003,
+		"eng": "Show hands",
+		"chn": "让她看自己的手"
+	},
+	{
+		"id": 21020000,
+		"eng": "Receive power from remembrance",
+		"chn": "从追忆获得力量"
+	},
+	{
+		"id": 21020001,
+		"eng": "About Great Runes",
+		"chn": "关于大卢恩"
+	},
+	{
+		"id": 21020002,
+		"eng": "About Queen Marika",
+		"chn": "关于玛莉卡女王"
+	},
+	{
+		"id": 21020003,
+		"eng": "How to burn thorns",
+		"chn": "燃烧刺的方法"
+	},
+	{
+		"id": 21020004,
+		"eng": "I want to burn the impenetrable thorns",
+		"chn": "我想烧掉拒绝的刺"
+	},
+	{
+		"id": 21060900,
+		"eng": "Talk to miniature Ranni",
+		"chn": "对娇小菈妮说话"
+	},
+	{
+		"id": 21060901,
+		"eng": "Talk to miniature Ranni",
+		"chn": "对娇小菈妮说话"
+	},
+	{
+		"id": 21060902,
+		"eng": "Talk to miniature Ranni",
+		"chn": "对娇小菈妮说话"
+	},
+	{
+		"id": 21060903,
+		"eng": "Talk to Ranni",
+		"chn": "和菈妮交谈"
+	},
+	{
+		"id": 21060910,
+		"eng": "Talk to Ranni",
+		"chn": "和菈妮交谈"
+	},
+	{
+		"id": 21060911,
+		"eng": "Talk to Ranni",
+		"chn": "和菈妮交谈"
+	},
+	{
+		"id": 21060912,
+		"eng": "Talk to Ranni",
+		"chn": "和菈妮交谈"
+	},
+	{
+		"id": 21060920,
+		"eng": "Talk to Ranni",
+		"chn": "和菈妮交谈"
+	},
+	{
+		"id": 21060921,
+		"eng": "Talk to Ranni",
+		"chn": "和菈妮交谈"
+	},
+	{
+		"id": 21060930,
+		"eng": "Talk to miniature Ranni",
+		"chn": "对娇小菈妮说话"
+	},
+	{
+		"id": 21060931,
+		"eng": "Talk to Ranni",
+		"chn": "和菈妮交谈"
+	},
+	{
+		"id": 21061000,
+		"eng": "I can call the spectral steed",
+		"chn": "我能召唤灵马"
+	},
+	{
+		"id": 21061001,
+		"eng": "I cannot call the spectral steed",
+		"chn": "我不能"
+	},
+	{
+		"id": 21061002,
+		"eng": "I can call the spectral steed",
+		"chn": "我能召唤灵马"
+	},
+	{
+		"id": 21061003,
+		"eng": "I cannot call the spectral steed",
+		"chn": "我不能"
+	},
+	{
+		"id": 21061004,
+		"eng": "You must be Ranni the Witch, behind the Night of the Black Knives",
+		"chn": "魔女菈妮是阴谋之夜的主谋吧？"
+	},
+	{
+		"id": 21061005,
+		"eng": "I wish to serve you",
+		"chn": "我不要"
+	},
+	{
+		"id": 21061006,
+		"eng": "No particular reason",
+		"chn": "没事"
+	},
+	{
+		"id": 21061007,
+		"eng": "Serve Ranni the Witch",
+		"chn": "愿意替魔女菈妮做事"
+	},
+	{
+		"id": 21061008,
+		"eng": "Do not serve",
+		"chn": "不愿意"
+	},
+	{
+		"id": 21061009,
+		"eng": "Administer Amber Draught?",
+		"chn": "要让她喝“琥珀色药水”吗？"
+	},
+	{
+		"id": 21121000,
+		"eng": "Tell him that Radagon is Marika",
+		"chn": "告诉他“拉达冈就是玛莉卡”"
+	},
+	{
+		"id": 22000000,
+		"eng": "Rebirth",
+		"chn": "重新诞生"
+	},
+	{
+		"id": 22000001,
+		"eng": "Cosmetics",
+		"chn": "化妆"
+	},
+	{
+		"id": 22000002,
+		"eng": "Leave",
+		"chn": "离开"
+	},
+	{
+		"id": 22001000,
+		"eng": "Use a Larval Tear to accept rebirth?",
+		"chn": "要使用“泪滴幼体”，重新诞生吗？"
+	},
+	{
+		"id": 22001001,
+		"eng": "Since you weren't reborn with new attributes,\nthe Larval Tear was not spent",
+		"chn": "取消重新诞生，没有消耗“泪滴幼体”。"
+	},
+	{
+		"id": 22001002,
+		"eng": "A Larval Tear is required for rebirth",
+		"chn": "重新诞生必须要有“泪滴幼体”。"
+	},
+	{
+		"id": 22021003,
+		"eng": "Choose how many to hand over",
+		"chn": "请选择交出的数量"
+	},
+	{
+		"id": 22130001,
+		"eng": "Strengthen armament",
+		"chn": "强化武器"
+	},
+	{
+		"id": 22130003,
+		"eng": "Ashes of War",
+		"chn": "战灰"
+	},
+	{
+		"id": 22130004,
+		"eng": "About prayer",
+		"chn": "关于祈祷"
+	},
+	{
+		"id": 22130005,
+		"eng": "About Roderika",
+		"chn": "关于罗德莉卡"
+	},
+	{
+		"id": 22130006,
+		"eng": "About Roderika",
+		"chn": "关于罗德莉卡"
+	},
+	{
+		"id": 22130007,
+		"eng": "About Roderika",
+		"chn": "关于罗德莉卡"
+	},
+	{
+		"id": 22130008,
+		"eng": "About Roderika",
+		"chn": "关于罗德莉卡"
+	},
+	{
+		"id": 22130009,
+		"eng": "Let's talk a while",
+		"chn": "“听我说个几句吧”"
+	},
+	{
+		"id": 22130010,
+		"eng": "About the chains on your legs",
+		"chn": "关于脚边的锁链"
+	},
+	{
+		"id": 22130011,
+		"eng": "You're a prisoner?",
+		"chn": "什么俘虏？"
+	},
+	{
+		"id": 22130012,
+		"eng": "About the god-slaying weapon",
+		"chn": "关于弒神武器"
+	},
+	{
+		"id": 22130013,
+		"eng": "About the god-slaying weapon",
+		"chn": "关于弒神武器"
+	},
+	{
+		"id": 22130014,
+		"eng": "Why are you still making weapons?",
+		"chn": "你为什么还在锻造武器？"
+	},
+	{
+		"id": 22130015,
+		"eng": "What happened to her?",
+		"chn": "她怎么了？"
+	},
+	{
+		"id": 22130016,
+		"eng": "About yourself",
+		"chn": "“你……”"
+	},
+	{
+		"id": 22130017,
+		"eng": "What's that little knife for?",
+		"chn": "那边的小刀是什么？"
+	},
+	{
+		"id": 22130018,
+		"eng": "Ash of War duplication",
+		"chn": "复制战灰"
+	},
+	{
+		"id": 22131000,
+		"eng": "Would you watch over Roderika?",
+		"chn": "你能照顾罗德莉卡吗？"
+	},
+	{
+		"id": 22131001,
+		"eng": "Nothing",
+		"chn": "没事"
+	},
+	{
+		"id": 22131002,
+		"eng": "It's what she wants",
+		"chn": "这也是出自她的意愿"
+	},
+	{
+		"id": 22131003,
+		"eng": "Understood",
+		"chn": "好吧"
+	},
+	{
+		"id": 22161000,
+		"eng": "I still don't understand",
+		"chn": "还没有情报"
+	},
+	{
+		"id": 22161001,
+		"eng": "Tell Sellen's story",
+		"chn": "告诉他瑟濂说出的情报"
+	},
+	{
+		"id": 22161002,
+		"eng": "Don't say anything",
+		"chn": "不告诉他"
+	},
+	{
+		"id": 22161003,
+		"eng": "Tell Iji's story",
+		"chn": "告诉他伊吉说出的情报"
+	},
+	{
+		"id": 22161004,
+		"eng": "Open the evergaol",
+		"chn": "打开封印监牢"
+	},
+	{
+		"id": 22161005,
+		"eng": "Don't open it",
+		"chn": "不打开"
+	},
+	{
+		"id": 22201000,
+		"eng": "Help him out",
+		"chn": "帮忙他脱困"
+	},
+	{
+		"id": 22201001,
+		"eng": "Don't help",
+		"chn": "不帮忙"
+	},
+	{
+		"id": 22230000,
+		"eng": "Alter garments",
+		"chn": "修改服装"
+	},
+	{
+		"id": 22230001,
+		"eng": "Don't tell me...",
+		"chn": "“我其实在想……”"
+	},
+	{
+		"id": 22230002,
+		"eng": "I'm sorry...",
+		"chn": "“很抱歉……”"
+	},
+	{
+		"id": 22230003,
+		"eng": "Give the Gold Sewing Needle",
+		"chn": "交出“黄金缝衣针”"
+	},
+	{
+		"id": 22230004,
+		"eng": "Surely she'd be happy for you?",
+		"chn": "“会不会替我高兴呢？”"
+	},
+	{
+		"id": 22230005,
+		"eng": "Have you ever thought so?",
+		"chn": "“您有想过吗？”"
+	},
+	{
+		"id": 22230006,
+		"eng": "Give a Larval Tear",
+		"chn": "交出“泪滴幼体”"
+	},
+	{
+		"id": 22230007,
+		"eng": "Please wait",
+		"chn": "“请您稍待”"
+	},
+	{
+		"id": 22230008,
+		"eng": "What do you really think?",
+		"chn": "“您是怎么想的呢？”"
+	},
+	{
+		"id": 22230009,
+		"eng": "I heard a voice",
+		"chn": "“我听到了声音”"
+	},
+	{
+		"id": 22230010,
+		"eng": "The voice was mine",
+		"chn": "我的想法就是那样"
+	},
+	{
+		"id": 22230011,
+		"eng": "I have a favor to ask",
+		"chn": "“我有一个请求”"
+	},
+	{
+		"id": 22230012,
+		"eng": "You may call me lord",
+		"chn": "愿意让他称自己为“吾王”"
+	},
+	{
+		"id": 22230013,
+		"eng": "Did you see it?",
+		"chn": "“您有看见吗？”"
+	},
+	{
+		"id": 22231000,
+		"eng": "Give the Sewing Needle",
+		"chn": "交出“缝衣针”"
+	},
+	{
+		"id": 22231001,
+		"eng": "Don't give it",
+		"chn": "不交出"
+	},
+	{
+		"id": 22231002,
+		"eng": "You may call me lord",
+		"chn": "愿意让他称自己为“吾王”"
+	},
+	{
+		"id": 22231003,
+		"eng": "Don't call me that",
+		"chn": "不愿意"
+	},
+	{
+		"id": 22231004,
+		"eng": "That's right",
+		"chn": "是"
+	},
+	{
+		"id": 22231005,
+		"eng": "Not at all",
+		"chn": "不是"
+	},
+	{
+		"id": 22240000,
+		"eng": "Strengthen armaments",
+		"chn": "强化武器"
+	},
+	{
+		"id": 22240001,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 22240002,
+		"eng": "Please take care",
+		"chn": "“请你当心”"
+	},
+	{
+		"id": 22240003,
+		"eng": "About Nokron",
+		"chn": "关于诺克隆恩"
+	},
+	{
+		"id": 22240005,
+		"eng": "About Blaidd",
+		"chn": "关于布莱泽"
+	},
+	{
+		"id": 22240006,
+		"eng": "About Jerren",
+		"chn": "关于杰廉"
+	},
+	{
+		"id": 22240007,
+		"eng": "Please go to the festival grounds",
+		"chn": "“请前往祭典的举办地”"
+	},
+	{
+		"id": 22240008,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 22240009,
+		"eng": "About Blaidd",
+		"chn": "关于布莱泽"
+	},
+	{
+		"id": 22240010,
+		"eng": "About Jerren",
+		"chn": "关于杰廉"
+	},
+	{
+		"id": 22240011,
+		"eng": "Why is Blaidd in the Evergaol?",
+		"chn": "为什么把布莱泽关进封印监牢？"
+	},
+	{
+		"id": 22240012,
+		"eng": "Blaidd's death",
+		"chn": "布莱泽临终之际"
+	},
+	{
+		"id": 22240013,
+		"eng": "About advice",
+		"chn": "关于忠告"
+	},
+	{
+		"id": 22240014,
+		"eng": "Blaidd sent me",
+		"chn": "布莱泽介绍我来的"
+	},
+	{
+		"id": 22240015,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 22240016,
+		"eng": "About Jerren",
+		"chn": "关于杰廉"
+	},
+	{
+		"id": 22240017,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 22240018,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 22240020,
+		"eng": "Purchase",
+		"chn": "购买"
+	},
+	{
+		"id": 22241010,
+		"eng": "Cannot do this during multiplayer",
+		"chn": "多人联机游玩时，无法选取。"
+	},
+	{
+		"id": 22261000,
+		"eng": "I'll be your Potentate",
+		"chn": "想当维壶师"
+	},
+	{
+		"id": 22261001,
+		"eng": "I'm no Potentate",
+		"chn": "不是"
+	},
+	{
+		"id": 22261002,
+		"eng": "Give Alexander's Insides",
+		"chn": "交出“亚历山大的内容物”"
+	},
+	{
+		"id": 22261003,
+		"eng": "Don't give it",
+		"chn": "不交出"
+	},
+	{
+		"id": 22281000,
+		"eng": "Show the secret medallion",
+		"chn": "让她看秘密符节"
+	},
+	{
+		"id": 22281001,
+		"eng": "Don't show it",
+		"chn": "不给她看"
+	},
+	{
+		"id": 22281002,
+		"eng": "Hear her request",
+		"chn": "答应她的请求"
+	},
+	{
+		"id": 22281003,
+		"eng": "Refuse",
+		"chn": "拒绝"
+	},
+	{
+		"id": 22281004,
+		"eng": "Hear her request after all",
+		"chn": "还是答应她的请求"
+	},
+	{
+		"id": 22281005,
+		"eng": "Leave",
+		"chn": "离开"
+	},
+	{
+		"id": 23001000,
+		"eng": "Join Volcano Manor",
+		"chn": "加入成为火山官邸的一员"
+	},
+	{
+		"id": 23001001,
+		"eng": "Don't join",
+		"chn": "不加入"
+	},
+	{
+		"id": 23001004,
+		"eng": "See the Lord",
+		"chn": "愿意觐见王"
+	},
+	{
+		"id": 23001005,
+		"eng": "Don't see the Lord",
+		"chn": "不愿意"
+	},
+	{
+		"id": 23001006,
+		"eng": "Leave",
+		"chn": "离开"
+	},
+	{
+		"id": 23001007,
+		"eng": "Zorayas's form",
+		"chn": "关于泽菈雅丝的外表"
+	},
+	{
+		"id": 23001008,
+		"eng": "Zorayas's troubles",
+		"chn": "提及泽菈雅丝的烦恼"
+	},
+	{
+		"id": 23001009,
+		"eng": "Zorayas's absence",
+		"chn": "泽菈雅丝不见身影"
+	},
+	{
+		"id": 23001010,
+		"eng": "I gave her the potion",
+		"chn": "我让她喝下药了"
+	},
+	{
+		"id": 23001011,
+		"eng": "Zorayas is dead",
+		"chn": "泽菈雅丝死了"
+	},
+	{
+		"id": 23001012,
+		"eng": "Give the Dancer's Castanets",
+		"chn": "交出“舞娘的打击乐器”"
+	},
+	{
+		"id": 23001013,
+		"eng": "Don't give them",
+		"chn": "不交出"
+	},
+	{
+		"id": 23011000,
+		"eng": "I'll fly straight and true!",
+		"chn": "想成为真正的一员"
+	},
+	{
+		"id": 23011001,
+		"eng": "I don't need a seat",
+		"chn": "不要"
+	},
+	{
+		"id": 23011002,
+		"eng": "They didn't seem right",
+		"chn": "我觉得不对劲"
+	},
+	{
+		"id": 23011003,
+		"eng": "They were magnificent",
+		"chn": "我觉得很感动"
+	},
+	{
+		"id": 23011004,
+		"eng": "Anoint me",
+		"chn": "愿意成为骑士"
+	},
+	{
+		"id": 23011005,
+		"eng": "I refuse",
+		"chn": "不愿意"
+	},
+	{
+		"id": 23011006,
+		"eng": "Two Fingers seemed off",
+		"chn": "我觉得双指不对劲"
+	},
+	{
+		"id": 23011007,
+		"eng": "They were magnificent",
+		"chn": "我觉得很感动"
+	},
+	{
+		"id": 23021000,
+		"eng": "No, I'll use the main gate",
+		"chn": "不要，我要从正门进去"
+	},
+	{
+		"id": 23021001,
+		"eng": "Very well",
+		"chn": "我知道了"
+	},
+	{
+		"id": 23021002,
+		"eng": "I want to use the main gate",
+		"chn": "我想从正门进去"
+	},
+	{
+		"id": 23021003,
+		"eng": "Leave",
+		"chn": "离开"
+	},
+	{
+		"id": 23021010,
+		"eng": "Locked by some contraption",
+		"chn": "被机关锁住，无法开启。"
+	},
+	{
+		"id": 23070006,
+		"eng": "Study sorcery",
+		"chn": "学习魔法"
+	},
+	{
+		"id": 23070007,
+		"eng": "Obtain a puppet",
+		"chn": "取得傀儡"
+	},
+	{
+		"id": 23070008,
+		"eng": "About your chambers",
+		"chn": "询问关于地下室"
+	},
+	{
+		"id": 23070009,
+		"eng": "About Nokron",
+		"chn": "询问关于诺克隆恩"
+	},
+	{
+		"id": 23070010,
+		"eng": "I want a new puppet",
+		"chn": "我想要新的傀儡"
+	},
+	{
+		"id": 23070011,
+		"eng": "About the scheme",
+		"chn": "关于秘密"
+	},
+	{
+		"id": 23070012,
+		"eng": "Give Amber Starlight",
+		"chn": "交出“琥珀星光”"
+	},
+	{
+		"id": 23070013,
+		"eng": "About the draught",
+		"chn": "关于药水"
+	},
+	{
+		"id": 23070014,
+		"eng": "About the draught",
+		"chn": "关于药水"
+	},
+	{
+		"id": 23070015,
+		"eng": "About your scheme",
+		"chn": "询问关于秘密"
+	},
+	{
+		"id": 23070016,
+		"eng": "About Nepheli",
+		"chn": "关于涅斐丽"
+	},
+	{
+		"id": 23070017,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23070018,
+		"eng": "About Amber Starlight",
+		"chn": "关于琥珀星光"
+	},
+	{
+		"id": 23070019,
+		"eng": "Hand over the scroll",
+		"chn": "交出卷轴"
+	},
+	{
+		"id": 23070020,
+		"eng": "Purchase",
+		"chn": "购买"
+	},
+	{
+		"id": 23071001,
+		"eng": "Accept the task",
+		"chn": "愿意帮忙办事"
+	},
+	{
+		"id": 23071002,
+		"eng": "Don't accept",
+		"chn": "不愿意"
+	},
+	{
+		"id": 23071009,
+		"eng": "I'm interested",
+		"chn": "有兴趣听"
+	},
+	{
+		"id": 23071010,
+		"eng": "I'm not interested",
+		"chn": "没有"
+	},
+	{
+		"id": 23071014,
+		"eng": "Ask about Nokron",
+		"chn": "询问关于诺克隆恩"
+	},
+	{
+		"id": 23071015,
+		"eng": "Leave",
+		"chn": "离开"
+	},
+	{
+		"id": 23090000,
+		"eng": "About the bandits",
+		"chn": "询问关于强盗团"
+	},
+	{
+		"id": 23090001,
+		"eng": "That chest...",
+		"chn": "那边那个宝箱……"
+	},
+	{
+		"id": 23090002,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23090003,
+		"eng": "What you spoke of before",
+		"chn": "关于刚才的话题"
+	},
+	{
+		"id": 23090004,
+		"eng": "Speaking of...",
+		"chn": "“话说回来……”"
+	},
+	{
+		"id": 23090006,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23090007,
+		"eng": "What you spoke of before",
+		"chn": "关于刚才的话题"
+	},
+	{
+		"id": 23090008,
+		"eng": "About the previous request",
+		"chn": "刚才那笔委托"
+	},
+	{
+		"id": 23090009,
+		"eng": "About the previous request",
+		"chn": "刚才那笔委托"
+	},
+	{
+		"id": 23090010,
+		"eng": "The request is done",
+		"chn": "委托完成了"
+	},
+	{
+		"id": 23090011,
+		"eng": "About Patches",
+		"chn": "询问关于帕奇"
+	},
+	{
+		"id": 23090012,
+		"eng": "What is the reward?",
+		"chn": "委托的报酬呢？"
+	},
+	{
+		"id": 23091000,
+		"eng": "Forgive and forget",
+		"chn": "当作没发生"
+	},
+	{
+		"id": 23091001,
+		"eng": "Some things can't be forgiven",
+		"chn": "不原谅你"
+	},
+	{
+		"id": 23101000,
+		"eng": "Deliver the letter",
+		"chn": "帮忙转交信"
+	},
+	{
+		"id": 23101001,
+		"eng": "Refuse",
+		"chn": "拒绝"
+	},
+	{
+		"id": 23101002,
+		"eng": "They're human eyes",
+		"chn": "那是人的眼球"
+	},
+	{
+		"id": 23101003,
+		"eng": "Don't say anything",
+		"chn": "保持沉默"
+	},
+	{
+		"id": 23101004,
+		"eng": "Give a Shabriri Grape",
+		"chn": "交出“夏玻利利葡萄”"
+	},
+	{
+		"id": 23101005,
+		"eng": "Don't give a grape",
+		"chn": "不交出"
+	},
+	{
+		"id": 23101006,
+		"eng": "Give a Fingerprint Grape",
+		"chn": "交出“指痕葡萄”"
+	},
+	{
+		"id": 23101009,
+		"eng": "She's dead",
+		"chn": "已经回天乏术。"
+	},
+	{
+		"id": 23111000,
+		"eng": "Deliver Irina's Letter",
+		"chn": "交出“伊蕾娜的信”"
+	},
+	{
+		"id": 23111001,
+		"eng": "Don't give the letter",
+		"chn": "不交出"
+	},
+	{
+		"id": 23121000,
+		"eng": "I love a good festival",
+		"chn": "我喜欢祭典"
+	},
+	{
+		"id": 23121001,
+		"eng": "I'm not the festive type",
+		"chn": "我不喜欢"
+	},
+	{
+		"id": 23121003,
+		"eng": "About Iji",
+		"chn": "询问关于伊吉"
+	},
+	{
+		"id": 23121004,
+		"eng": "Ready as I'll ever be",
+		"chn": "准备好了"
+	},
+	{
+		"id": 23121005,
+		"eng": "Not yet",
+		"chn": "还没"
+	},
+	{
+		"id": 23131000,
+		"eng": "Hear the request",
+		"chn": "答应帮忙"
+	},
+	{
+		"id": 23131001,
+		"eng": "Refuse",
+		"chn": "拒绝"
+	},
+	{
+		"id": 23131002,
+		"eng": "Take Rya's hand",
+		"chn": "牵住菈雅的手"
+	},
+	{
+		"id": 23131003,
+		"eng": "Refuse Rya's hand",
+		"chn": "不牵手"
+	},
+	{
+		"id": 23131004,
+		"eng": "Tell her of the dark side of Volcano Manor",
+		"chn": "告诉她火山官邸的内幕"
+	},
+	{
+		"id": 23131005,
+		"eng": "Don't tell her",
+		"chn": "不告诉她"
+	},
+	{
+		"id": 23131006,
+		"eng": "Give Serpent's Amnion",
+		"chn": "交出“蛇的羊膜”"
+	},
+	{
+		"id": 23131007,
+		"eng": "Don't give it",
+		"chn": "不交出"
+	},
+	{
+		"id": 23131009,
+		"eng": "Give Tonic of Forgetfulness",
+		"chn": "交出“遗忘秘药”"
+	},
+	{
+		"id": 23131010,
+		"eng": "Give Rya's Necklace",
+		"chn": "交出“菈雅的项链”"
+	},
+	{
+		"id": 23131011,
+		"eng": "Don't give it",
+		"chn": "不交出"
+	},
+	{
+		"id": 23131012,
+		"eng": "Don't give it",
+		"chn": "不交出"
+	},
+	{
+		"id": 23141000,
+		"eng": "You defended them",
+		"chn": "有保护到他们"
+	},
+	{
+		"id": 23141001,
+		"eng": "I'm afraid not",
+		"chn": "没有保护到"
+	},
+	{
+		"id": 23160003,
+		"eng": "Study sorcery",
+		"chn": "学习魔法"
+	},
+	{
+		"id": 23160006,
+		"eng": "I need to speak with you later",
+		"chn": "“好好聊一聊吧”"
+	},
+	{
+		"id": 23160007,
+		"eng": "About the request",
+		"chn": "关于需要帮忙的内容"
+	},
+	{
+		"id": 23160008,
+		"eng": "About the request",
+		"chn": "需要帮忙的内容"
+	},
+	{
+		"id": 23160009,
+		"eng": "Show letter of introduction",
+		"chn": "拿出介绍信给她看"
+	},
+	{
+		"id": 23160010,
+		"eng": "Show Azur's sorcery",
+		"chn": "施展亚兹勒的魔法"
+	},
+	{
+		"id": 23160011,
+		"eng": "Tell me your story",
+		"chn": "有什么事？"
+	},
+	{
+		"id": 23160012,
+		"eng": "I'll help restore the primeval current",
+		"chn": "还是想帮忙复兴起源"
+	},
+	{
+		"id": 23160013,
+		"eng": "I have a favor to ask",
+		"chn": "“有事需要你的帮助”"
+	},
+	{
+		"id": 23160014,
+		"eng": "Lusat's location",
+		"chn": "告诉她卢瑟特的所在地"
+	},
+	{
+		"id": 23160015,
+		"eng": "About glintstone sorcery",
+		"chn": "关于辉石魔法"
+	},
+	{
+		"id": 23160016,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23160017,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23160018,
+		"eng": "About Lusat",
+		"chn": "关于卢瑟特"
+	},
+	{
+		"id": 23160019,
+		"eng": "Lusat's location",
+		"chn": "告诉她卢瑟特的所在地"
+	},
+	{
+		"id": 23160020,
+		"eng": "Give a scroll",
+		"chn": "交出卷轴"
+	},
+	{
+		"id": 23160021,
+		"eng": "Give the Conspectus Scroll",
+		"chn": "交出“教室卷轴”"
+	},
+	{
+		"id": 23160022,
+		"eng": "Give the Royal House Scroll",
+		"chn": "交出“王室卷轴”"
+	},
+	{
+		"id": 23160023,
+		"eng": "Give Ranni's Scroll",
+		"chn": "交出菈妮卷轴"
+	},
+	{
+		"id": 23160024,
+		"eng": "Give Sellian Scroll",
+		"chn": "交出瑟利亚卷轴"
+	},
+	{
+		"id": 23160025,
+		"eng": "Give Gelmirian Scroll",
+		"chn": "交出格密尔卷轴"
+	},
+	{
+		"id": 23160026,
+		"eng": "Don't give a scroll",
+		"chn": "不交出"
+	},
+	{
+		"id": 23160027,
+		"eng": "Lead on Lusat",
+		"chn": "关于卢瑟特的线索"
+	},
+	{
+		"id": 23160028,
+		"eng": "Give the Academy Scroll",
+		"chn": "交出“学院卷轴”"
+	},
+	{
+		"id": 23161000,
+		"eng": "I want to learn sorcery",
+		"chn": "我想学习魔法"
+	},
+	{
+		"id": 23161001,
+		"eng": "Never mind",
+		"chn": "没事"
+	},
+	{
+		"id": 23161002,
+		"eng": "I still want to learn",
+		"chn": "我还是想拜师"
+	},
+	{
+		"id": 23161003,
+		"eng": "Let me reconsider",
+		"chn": "让我考虑一下"
+	},
+	{
+		"id": 23161006,
+		"eng": "Let us journey together",
+		"chn": "愿意共同努力"
+	},
+	{
+		"id": 23161007,
+		"eng": "Let me think about it",
+		"chn": "让我考虑一下"
+	},
+	{
+		"id": 23161008,
+		"eng": "Show letter of introduction",
+		"chn": "拿出介绍信给她看"
+	},
+	{
+		"id": 23161009,
+		"eng": "Don't show it",
+		"chn": "不给她看"
+	},
+	{
+		"id": 23161010,
+		"eng": "I still want to learn sorcery",
+		"chn": "我还是想拜师学习"
+	},
+	{
+		"id": 23161011,
+		"eng": "I need a bit more time to think",
+		"chn": "再让我考虑一下"
+	},
+	{
+		"id": 23161012,
+		"eng": "You can now learn new sorcery",
+		"chn": "已能学习新的魔法。"
+	},
+	{
+		"id": 23190000,
+		"eng": "Study incantations",
+		"chn": "学习祷告"
+	},
+	{
+		"id": 23190001,
+		"eng": "About D",
+		"chn": "关于Ｄ"
+	},
+	{
+		"id": 23190002,
+		"eng": "About Rogier",
+		"chn": "关于罗杰尔"
+	},
+	{
+		"id": 23190003,
+		"eng": "Give the Weathered Dagger",
+		"chn": "交出“侵蚀短剑”"
+	},
+	{
+		"id": 23191002,
+		"eng": "Accept introduction",
+		"chn": "愿意被推荐"
+	},
+	{
+		"id": 23191003,
+		"eng": "Refuse",
+		"chn": "拒绝"
+	},
+	{
+		"id": 23191004,
+		"eng": "Show Deathroot",
+		"chn": "让他看“死根”"
+	},
+	{
+		"id": 23191005,
+		"eng": "Don't show it",
+		"chn": "不给他看"
+	},
+	{
+		"id": 23191006,
+		"eng": "Give the Weathered Dagger",
+		"chn": "交出“侵蚀短剑”"
+	},
+	{
+		"id": 23191007,
+		"eng": "Don't give it",
+		"chn": "不交出"
+	},
+	{
+		"id": 23191008,
+		"eng": "Give the Twinned Armor set",
+		"chn": "交出整套“孪生”系列盔甲"
+	},
+	{
+		"id": 23191009,
+		"eng": "Don't give it",
+		"chn": "不交出"
+	},
+	{
+		"id": 23191010,
+		"eng": "Hand over the Twinned Armor set?",
+		"chn": "要交出整套“孪生”系列盔甲吗？"
+	},
+	{
+		"id": 23191011,
+		"eng": "A red mark was made on the map",
+		"chn": "地图已被画上红色标记。"
+	},
+	{
+		"id": 23200000,
+		"eng": "Spirit Tuning",
+		"chn": "调灵"
+	},
+	{
+		"id": 23200001,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23200002,
+		"eng": "About Hewg",
+		"chn": "关于修古"
+	},
+	{
+		"id": 23200003,
+		"eng": "What's happened to Hewg",
+		"chn": "询问修古的异状"
+	},
+	{
+		"id": 23200004,
+		"eng": "There's something you should know",
+		"chn": "“有件事情，我想和你说一声”"
+	},
+	{
+		"id": 23200005,
+		"eng": "There's something you should know",
+		"chn": "“有件事情，我想和你说一声”"
+	},
+	{
+		"id": 23200006,
+		"eng": "About the spirits' voices",
+		"chn": "关于灵魂发出的声音"
+	},
+	{
+		"id": 23200007,
+		"eng": "Please take care",
+		"chn": "“请多加小心”"
+	},
+	{
+		"id": 23200008,
+		"eng": "About the spirits' voices",
+		"chn": "关于灵魂发出的声音"
+	},
+	{
+		"id": 23200009,
+		"eng": "Please",
+		"chn": "请求"
+	},
+	{
+		"id": 23200010,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23200011,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23201002,
+		"eng": "Give Chrysalids' Memento",
+		"chn": "交出“蛹群的遗物”"
+	},
+	{
+		"id": 23201003,
+		"eng": "Tell her what the blacksmith said",
+		"chn": "转达铁匠的话"
+	},
+	{
+		"id": 23201004,
+		"eng": "Don't tell her",
+		"chn": "不转达"
+	},
+	{
+		"id": 23211000,
+		"eng": "Pledge service",
+		"chn": "愿意为肯尼斯·海德工作"
+	},
+	{
+		"id": 23211001,
+		"eng": "Do not pledge service",
+		"chn": "不愿意"
+	},
+	{
+		"id": 23220000,
+		"eng": "Talk in secret",
+		"chn": "说悄悄话"
+	},
+	{
+		"id": 23220001,
+		"eng": "May I ask a favor?",
+		"chn": "“你愿意听听我的请求吗？”"
+	},
+	{
+		"id": 23220002,
+		"eng": "About the dagger",
+		"chn": "询问关于收下的短剑"
+	},
+	{
+		"id": 23220003,
+		"eng": "Do you know...?",
+		"chn": "你知道吗？"
+	},
+	{
+		"id": 23220004,
+		"eng": "About the Black Knifeprint",
+		"chn": "关于黑刀烙印"
+	},
+	{
+		"id": 23220005,
+		"eng": "About the Black Knifeprint",
+		"chn": "关于黑刀烙印"
+	},
+	{
+		"id": 23220006,
+		"eng": "About Rogier",
+		"chn": "关于罗杰尔"
+	},
+	{
+		"id": 23220007,
+		"eng": "Talk in secret",
+		"chn": "说悄悄话"
+	},
+	{
+		"id": 23220008,
+		"eng": "Talk in secret",
+		"chn": "说悄悄话"
+	},
+	{
+		"id": 23220009,
+		"eng": "Talk in secret",
+		"chn": "说悄悄话"
+	},
+	{
+		"id": 23220010,
+		"eng": "Talk in secret",
+		"chn": "说悄悄话"
+	},
+	{
+		"id": 23220011,
+		"eng": "Talk in secret",
+		"chn": "说悄悄话"
+	},
+	{
+		"id": 23220012,
+		"eng": "Give Cursemark of Death",
+		"chn": "交出“死亡的咒痕”"
+	},
+	{
+		"id": 23220014,
+		"eng": "Talk in secret",
+		"chn": "说悄悄话"
+	},
+	{
+		"id": 23221000,
+		"eng": "Let her hold you",
+		"chn": "接受拥抱"
+	},
+	{
+		"id": 23221001,
+		"eng": "Refuse",
+		"chn": "拒绝"
+	},
+	{
+		"id": 23221002,
+		"eng": "That's right",
+		"chn": "没错"
+	},
+	{
+		"id": 23221003,
+		"eng": "No, I want to be held",
+		"chn": "没有，我想接受你的拥抱"
+	},
+	{
+		"id": 23221004,
+		"eng": "Enter the Deathbed Dream",
+		"chn": "进入死眠梦境"
+	},
+	{
+		"id": 23221005,
+		"eng": "Don't enter",
+		"chn": "放弃"
+	},
+	{
+		"id": 23221006,
+		"eng": "Enter the Deathbed Dream?",
+		"chn": "要进入死眠梦境吗？"
+	},
+	{
+		"id": 23231000,
+		"eng": "Leave your gaol!",
+		"chn": "出来吧"
+	},
+	{
+		"id": 23231001,
+		"eng": "Say nothing",
+		"chn": "保持沉默"
+	},
+	{
+		"id": 23231002,
+		"eng": "Administer Seluvis's Potion",
+		"chn": "灌下“赛尔维斯的药水”"
+	},
+	{
+		"id": 23231003,
+		"eng": "Use the Seedbed Curse",
+		"chn": "使用“温床的诅咒”"
+	},
+	{
+		"id": 23231004,
+		"eng": "Leave",
+		"chn": "离开"
+	},
+	{
+		"id": 23240007,
+		"eng": "About Nepheli",
+		"chn": "关于涅斐丽"
+	},
+	{
+		"id": 23240008,
+		"eng": "Nepheli's despair",
+		"chn": "询问涅斐丽沮丧的原因"
+	},
+	{
+		"id": 23240009,
+		"eng": "About Ensha",
+		"chn": "关于恩夏"
+	},
+	{
+		"id": 23240010,
+		"eng": "About Ensha",
+		"chn": "关于恩夏"
+	},
+	{
+		"id": 23240012,
+		"eng": "About Godrick",
+		"chn": "关于葛瑞克"
+	},
+	{
+		"id": 23240013,
+		"eng": "About Radahn",
+		"chn": "关于拉塔恩"
+	},
+	{
+		"id": 23240014,
+		"eng": "About Rykard",
+		"chn": "关于拉卡德"
+	},
+	{
+		"id": 23240015,
+		"eng": "About Morgott",
+		"chn": "关于蒙葛特"
+	},
+	{
+		"id": 23240016,
+		"eng": "About Rennala",
+		"chn": "关于蕾娜菈"
+	},
+	{
+		"id": 23240017,
+		"eng": "Unlocated demigods",
+		"chn": "所在地毫无线索的半神"
+	},
+	{
+		"id": 23240018,
+		"eng": "About Radahn",
+		"chn": "关于拉塔恩"
+	},
+	{
+		"id": 23240019,
+		"eng": "About Rykard",
+		"chn": "关于拉卡德"
+	},
+	{
+		"id": 23240020,
+		"eng": "About Rennala",
+		"chn": "关于蕾娜菈"
+	},
+	{
+		"id": 23240021,
+		"eng": "About the secret medallions",
+		"chn": "秘密符节的情报"
+	},
+	{
+		"id": 23240022,
+		"eng": "The secret medallions are reunited",
+		"chn": "凑齐了秘密符节"
+	},
+	{
+		"id": 23240023,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23240024,
+		"eng": "Where should I go?",
+		"chn": "该前往的地方"
+	},
+	{
+		"id": 23240025,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23240026,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23240027,
+		"eng": "Using the secret medallions",
+		"chn": "使用秘密符节后抵达的地方"
+	},
+	{
+		"id": 23240028,
+		"eng": "About the Haligtree roots",
+		"chn": "关于圣树的根"
+	},
+	{
+		"id": 23240029,
+		"eng": "Mohgwyn Palace",
+		"chn": "蒙格温王朝"
+	},
+	{
+		"id": 23240030,
+		"eng": "About the Lord of Blood's cocoon",
+		"chn": "关于鲜血君王的茧"
+	},
+	{
+		"id": 23240031,
+		"eng": "Show him Seluvis's Potion",
+		"chn": "让他看“赛尔维斯的药水”"
+	},
+	{
+		"id": 23240032,
+		"eng": "Give Gideon Seluvis's Potion",
+		"chn": "把“赛尔维斯的药水”交给基甸"
+	},
+	{
+		"id": 23240033,
+		"eng": "About Ensha",
+		"chn": "关于恩夏"
+	},
+	{
+		"id": 23240034,
+		"eng": "About the secret medallions",
+		"chn": "秘密符节的情报"
+	},
+	{
+		"id": 23240035,
+		"eng": "About the Lord of Blood's cocoon",
+		"chn": "关于鲜血君王的茧"
+	},
+	{
+		"id": 23241000,
+		"eng": "What do you mean, a house guest?",
+		"chn": "过客是什么意思？"
+	},
+	{
+		"id": 23241001,
+		"eng": "Say nothing",
+		"chn": "保持沉默"
+	},
+	{
+		"id": 23241002,
+		"eng": "Hand over Seluvis's Potion",
+		"chn": "交出“赛尔维斯的药水”"
+	},
+	{
+		"id": 23241003,
+		"eng": "Don't hand it over",
+		"chn": "不交出"
+	},
+	{
+		"id": 23241004,
+		"eng": "A red mark was made on the map",
+		"chn": "地图已被画上红色标记。"
+	},
+	{
+		"id": 23250000,
+		"eng": "Learn skills",
+		"chn": "学习战技"
+	},
+	{
+		"id": 23250001,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23250002,
+		"eng": "I've defeated Godrick",
+		"chn": "我打倒葛瑞克了"
+	},
+	{
+		"id": 23250003,
+		"eng": "About the corpse under Stormveil",
+		"chn": "关于史东薇尔地底的尸体"
+	},
+	{
+		"id": 23250004,
+		"eng": "Give the Black Knifeprint",
+		"chn": "交出“黑刀烙印”"
+	},
+	{
+		"id": 23250005,
+		"eng": "Ranni cast off her cursemark",
+		"chn": "菈妮抛弃了咒痕"
+	},
+	{
+		"id": 23250007,
+		"eng": "About D",
+		"chn": "关于Ｄ"
+	},
+	{
+		"id": 23250008,
+		"eng": "Why do you want a cursemark?",
+		"chn": "你为什么要找咒痕？"
+	},
+	{
+		"id": 23250009,
+		"eng": "About D",
+		"chn": "关于Ｄ"
+	},
+	{
+		"id": 23250010,
+		"eng": "Rogier's proposition",
+		"chn": "罗杰尔的提议"
+	},
+	{
+		"id": 23250011,
+		"eng": "About D",
+		"chn": "关于Ｄ"
+	},
+	{
+		"id": 23250012,
+		"eng": "About the corpse under Stormveil",
+		"chn": "关于史东薇尔地底的尸体"
+	},
+	{
+		"id": 23250013,
+		"eng": "Ranni's whereabouts",
+		"chn": "菈妮的所在地"
+	},
+	{
+		"id": 23250014,
+		"eng": "Ranni's whereabouts",
+		"chn": "菈妮的所在地"
+	},
+	{
+		"id": 23250015,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23251000,
+		"eng": "I'm here to defeat Godrick",
+		"chn": "为了挑战城主"
+	},
+	{
+		"id": 23251001,
+		"eng": "I can't tell you",
+		"chn": "不回答"
+	},
+	{
+		"id": 23251004,
+		"eng": "Handed over the Black Knifeprint",
+		"chn": "已交出“黑刀烙印”。"
+	},
+	{
+		"id": 23260000,
+		"eng": "Learn skills",
+		"chn": "学习战技"
+	},
+	{
+		"id": 23260001,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23260002,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23261000,
+		"eng": "My faith holds firm",
+		"chn": "还是会相信"
+	},
+	{
+		"id": 23261001,
+		"eng": "I'm not sure",
+		"chn": "我不知道"
+	},
+	{
+		"id": 23261002,
+		"eng": "I understand",
+		"chn": "我懂"
+	},
+	{
+		"id": 23261003,
+		"eng": "I don't understand",
+		"chn": "我不懂"
+	},
+	{
+		"id": 23300000,
+		"eng": "Study sorcery",
+		"chn": "学习魔法"
+	},
+	{
+		"id": 23300001,
+		"eng": "Atone",
+		"chn": "赎罪"
+	},
+	{
+		"id": 23300002,
+		"eng": "Show Celestial Dew",
+		"chn": "让他看“星星泪滴”"
+	},
+	{
+		"id": 23300003,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23300005,
+		"eng": "About the miracle",
+		"chn": "关于奇迹"
+	},
+	{
+		"id": 23300006,
+		"eng": "About absolution",
+		"chn": "关于赎罪"
+	},
+	{
+		"id": 23300007,
+		"eng": "About Radagon",
+		"chn": "关于拉达冈"
+	},
+	{
+		"id": 23300008,
+		"eng": "About Radagon",
+		"chn": "关于拉达冈"
+	},
+	{
+		"id": 23300009,
+		"eng": "About Rennala",
+		"chn": "关于蕾娜菈"
+	},
+	{
+		"id": 23300010,
+		"eng": "About Rennala",
+		"chn": "关于蕾娜菈"
+	},
+	{
+		"id": 23300011,
+		"eng": "Give a scroll",
+		"chn": "交出卷轴"
+	},
+	{
+		"id": 23300012,
+		"eng": "Give a prayerbook",
+		"chn": "交出祷告书"
+	},
+	{
+		"id": 23300013,
+		"eng": "Study incantations",
+		"chn": "学习祷告"
+	},
+	{
+		"id": 23301000,
+		"eng": "I don't know",
+		"chn": "没有听过"
+	},
+	{
+		"id": 23301001,
+		"eng": "You don't need absolution",
+		"chn": "您没有赎罪的必要。"
+	},
+	{
+		"id": 23301002,
+		"eng": "No Celestial Dew in inventory",
+		"chn": "您未持有“星星泪滴”。"
+	},
+	{
+		"id": 23301003,
+		"eng": "Use Celestial Dew to receive absolution?",
+		"chn": "要使用“星星泪滴”，进行赎罪吗？"
+	},
+	{
+		"id": 23301004,
+		"eng": "Your sins are absolved",
+		"chn": "您的罪已受到饶恕。"
+	},
+	{
+		"id": 23310000,
+		"eng": "About Rya",
+		"chn": "关于菈雅"
+	},
+	{
+		"id": 23310001,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23310002,
+		"eng": "You should probably know... ",
+		"chn": "“……还是说一下好了”"
+	},
+	{
+		"id": 23310003,
+		"eng": "About the Dung Eater",
+		"chn": "关于食粪者"
+	},
+	{
+		"id": 23310004,
+		"eng": "About the Dung Eater",
+		"chn": "关于食粪者"
+	},
+	{
+		"id": 23311000,
+		"eng": "Give me the necklace",
+		"chn": "给我项链吧"
+	},
+	{
+		"id": 23311001,
+		"eng": "Leave",
+		"chn": "离开"
+	},
+	{
+		"id": 23311002,
+		"eng": "Deal",
+		"chn": "好吧"
+	},
+	{
+		"id": 23311003,
+		"eng": "Refuse",
+		"chn": "我不要"
+	},
+	{
+		"id": 23330000,
+		"eng": "Study sorcery",
+		"chn": "学习魔法"
+	},
+	{
+		"id": 23330001,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23330002,
+		"eng": "About the glintstone key",
+		"chn": "关于辉石钥匙"
+	},
+	{
+		"id": 23330004,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23330005,
+		"eng": "Give the Academy Glintstone Key",
+		"chn": "交出“学院辉石钥匙”"
+	},
+	{
+		"id": 23330006,
+		"eng": "About Sellen",
+		"chn": "关于瑟濂"
+	},
+	{
+		"id": 23330008,
+		"eng": "About the glintstone key",
+		"chn": "关于辉石钥匙"
+	},
+	{
+		"id": 23330009,
+		"eng": "Give a scroll",
+		"chn": "交出卷轴"
+	},
+	{
+		"id": 23330010,
+		"eng": "Don't give the scroll",
+		"chn": "不交出"
+	},
+	{
+		"id": 23331000,
+		"eng": "Donate <?evntAcquittalPrice?> runes",
+		"chn": "分给他<?evntAcquittalPrice?>卢恩"
+	},
+	{
+		"id": 23331001,
+		"eng": "Don't donate runes",
+		"chn": "不分给他"
+	},
+	{
+		"id": 23331003,
+		"eng": "Not enough runes to donate",
+		"chn": "卢恩不足，无法分给他。"
+	},
+	{
+		"id": 23341000,
+		"eng": "Give Seluvis's Potion",
+		"chn": "交出“赛尔维斯的药水”"
+	},
+	{
+		"id": 23341001,
+		"eng": "Give the Stormhawk King",
+		"chn": "交出“风暴鹰古王”"
+	},
+	{
+		"id": 23341002,
+		"eng": "I heard from Gideon",
+		"chn": "前因后果我听基甸说了"
+	},
+	{
+		"id": 23341003,
+		"eng": "Leave",
+		"chn": "离开"
+	},
+	{
+		"id": 23481000,
+		"eng": "Give an Unalloyed Gold Needle",
+		"chn": "交出“纯净金针”"
+	},
+	{
+		"id": 23481001,
+		"eng": "Don't give it",
+		"chn": "不交出"
+	},
+	{
+		"id": 23481002,
+		"eng": "Give the Valkyrie's Prosthesis",
+		"chn": "交出“女武神的义手”"
+	},
+	{
+		"id": 23490000,
+		"eng": "Study sorcery",
+		"chn": "学习魔法"
+	},
+	{
+		"id": 23490001,
+		"eng": "Millicent paid a visit",
+		"chn": "米莉森来过了"
+	},
+	{
+		"id": 23490002,
+		"eng": "I gave Millicent the prosthesis",
+		"chn": "我把义手交给米莉森了"
+	},
+	{
+		"id": 23490003,
+		"eng": "About Millicent",
+		"chn": "关于米莉森"
+	},
+	{
+		"id": 23490004,
+		"eng": "About Malenia",
+		"chn": "关于玛莲妮亚"
+	},
+	{
+		"id": 23490005,
+		"eng": "What Millicent said",
+		"chn": "转述米莉森的话"
+	},
+	{
+		"id": 23490006,
+		"eng": "Why are you crying?",
+		"chn": "哭泣的原因"
+	},
+	{
+		"id": 23490009,
+		"eng": "Become a flower?",
+		"chn": "幻化成花？"
+	},
+	{
+		"id": 23490010,
+		"eng": "Become a flower?",
+		"chn": "幻化成花？"
+	},
+	{
+		"id": 23490011,
+		"eng": "Study incantations",
+		"chn": "学习祷告"
+	},
+	{
+		"id": 23491000,
+		"eng": "Hear the request",
+		"chn": "答应请求"
+	},
+	{
+		"id": 23491001,
+		"eng": "Refuse",
+		"chn": "拒绝"
+	},
+	{
+		"id": 23510000,
+		"eng": "Study incantations",
+		"chn": "学习祷告"
+	},
+	{
+		"id": 23510001,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 23510002,
+		"eng": "About the noble Goldmask",
+		"chn": "关于金面具先生"
+	},
+	{
+		"id": 23510003,
+		"eng": "Tell the noble Goldmask's whereabouts",
+		"chn": "告诉他金面具的所在地"
+	},
+	{
+		"id": 23510004,
+		"eng": "About the noble Goldmask",
+		"chn": "关于金面具先生"
+	},
+	{
+		"id": 23510005,
+		"eng": "About the noble Goldmask",
+		"chn": "关于金面具先生"
+	},
+	{
+		"id": 23510006,
+		"eng": "About the noble Goldmask",
+		"chn": "关于金面具先生"
+	},
+	{
+		"id": 23510007,
+		"eng": "About the noble Goldmask",
+		"chn": "关于金面具先生"
+	},
+	{
+		"id": 23510008,
+		"eng": "About the noble Goldmask",
+		"chn": "关于金面具先生"
+	},
+	{
+		"id": 23510009,
+		"eng": "Give Tonic of Forgetfulness",
+		"chn": "交出“遗忘秘药”"
+	},
+	{
+		"id": 23510010,
+		"eng": "Give a prayerbook",
+		"chn": "交出祷告书"
+	},
+	{
+		"id": 23510011,
+		"eng": "Give the Fire Monks' Prayerbook",
+		"chn": "交出“火焰习武修士祷告书”"
+	},
+	{
+		"id": 23510012,
+		"eng": "Give the Giant's Prayerbook",
+		"chn": "交出“巨人祷告书”"
+	},
+	{
+		"id": 23510013,
+		"eng": "Give the Godskin Prayerbook",
+		"chn": "交出“神皮祷告书”"
+	},
+	{
+		"id": 23510014,
+		"eng": "Give the Two Fingers' Prayerbook",
+		"chn": "交出“双指祷告书”"
+	},
+	{
+		"id": 23510015,
+		"eng": "Give the Assassin's Prayerbook",
+		"chn": "交出“刺客祷告书”"
+	},
+	{
+		"id": 23510016,
+		"eng": "Give the Erdtree Prayerbook",
+		"chn": "交出黄金树祷告书"
+	},
+	{
+		"id": 23510017,
+		"eng": "Give the Erdtree Codex",
+		"chn": "交出黄金树古文书"
+	},
+	{
+		"id": 23510018,
+		"eng": "Give the Golden Order Principia",
+		"chn": "交出“黄金律法原本”"
+	},
+	{
+		"id": 23510019,
+		"eng": "Give the Golden Order Canon",
+		"chn": "交出黄金律法原本"
+	},
+	{
+		"id": 23510020,
+		"eng": "Give the Dragon Cult Prayerbook",
+		"chn": "交出“龙信仰祷告书”"
+	},
+	{
+		"id": 23510021,
+		"eng": "Give the Ancient Dragon Prayerbook",
+		"chn": "交出“古龙祷告书”"
+	},
+	{
+		"id": 23510022,
+		"eng": "Don't give a prayerbook",
+		"chn": "不交出"
+	},
+	{
+		"id": 23511000,
+		"eng": "I see it",
+		"chn": "我看得见"
+	},
+	{
+		"id": 23511001,
+		"eng": "I don't see it",
+		"chn": "看不见"
+	},
+	{
+		"id": 26000000,
+		"eng": "Offer a bell bearing",
+		"chn": "献上铃珠"
+	},
+	{
+		"id": 26000001,
+		"eng": "Cancel",
+		"chn": "放弃"
+	},
+	{
+		"id": 26000004,
+		"eng": "Go back",
+		"chn": "返回"
+	},
+	{
+		"id": 26000010,
+		"eng": "Purchase",
+		"chn": "购买"
+	},
+	{
+		"id": 26000011,
+		"eng": "Bell Bearing Shop 1",
+		"chn": "铃珠交易１"
+	},
+	{
+		"id": 26000012,
+		"eng": "Bell Bearing Shop 2",
+		"chn": "铃珠交易２"
+	},
+	{
+		"id": 26000013,
+		"eng": "Bell Bearing Shop 3",
+		"chn": "铃珠交易３"
+	},
+	{
+		"id": 26000014,
+		"eng": "Bell Bearing Shop 4",
+		"chn": "铃珠交易４"
+	},
+	{
+		"id": 26000020,
+		"eng": "Sellen's Bell Bearing",
+		"chn": "瑟濂的铃珠"
+	},
+	{
+		"id": 26000021,
+		"eng": "Seluvis's Bell Bearing",
+		"chn": "赛尔维斯的铃珠"
+	},
+	{
+		"id": 26000022,
+		"eng": "Seluvis's Bell Bearing",
+		"chn": "赛尔维斯的铃珠"
+	},
+	{
+		"id": 26000023,
+		"eng": "Thops's Bell Bearing",
+		"chn": "托普斯的铃珠"
+	},
+	{
+		"id": 26000024,
+		"eng": "Corhyn's Bell Bearing",
+		"chn": "柯林的铃珠"
+	},
+	{
+		"id": 26000025,
+		"eng": "Miriel's Bell Bearing (Sorcery)",
+		"chn": "米利耶的铃珠（魔法）"
+	},
+	{
+		"id": 26000026,
+		"eng": "D's Bell Bearing",
+		"chn": "Ｄ的铃珠"
+	},
+	{
+		"id": 26000027,
+		"eng": "Gowry's Bell Bearing",
+		"chn": "格威的铃珠"
+	},
+	{
+		"id": 26000028,
+		"eng": "Rogier's Bell Bearing",
+		"chn": "罗杰尔的铃珠"
+	},
+	{
+		"id": 26000029,
+		"eng": "Bernahl's Bell Bearing",
+		"chn": "贝纳尔的铃珠"
+	},
+	{
+		"id": 26000030,
+		"eng": "Iji's Bell Bearing",
+		"chn": "伊吉的铃珠"
+	},
+	{
+		"id": 26000031,
+		"eng": "Miriel's Bell Bearing (Incantations)",
+		"chn": "米利耶的铃珠（祷告）"
+	},
+	{
+		"id": 26000040,
+		"eng": "Gostoc's Bell Bearing",
+		"chn": "葛托克的铃珠"
+	},
+	{
+		"id": 26000041,
+		"eng": "Pidia's Bell Bearing",
+		"chn": "毕迪的铃珠"
+	},
+	{
+		"id": 26000042,
+		"eng": "Patches' Bell Bearing",
+		"chn": "帕奇的铃珠"
+	},
+	{
+		"id": 26000043,
+		"eng": "Blackguard's Bell Bearing",
+		"chn": "流氓的铃珠"
+	},
+	{
+		"id": 26000050,
+		"eng": "Nomadic Merchant's Bell Bearing [1]",
+		"chn": "流浪商人的铃珠【１】"
+	},
+	{
+		"id": 26000051,
+		"eng": "Nomadic Merchant's Bell Bearing [2]",
+		"chn": "流浪商人的铃珠【２】"
+	},
+	{
+		"id": 26000052,
+		"eng": "Nomadic Merchant's Bell Bearing [3]",
+		"chn": "流浪商人的铃珠【３】"
+	},
+	{
+		"id": 26000053,
+		"eng": "Nomadic Merchant's Bell Bearing [4]",
+		"chn": "流浪商人的铃珠【４】"
+	},
+	{
+		"id": 26000054,
+		"eng": "Nomadic Merchant's Bell Bearing [5]",
+		"chn": "流浪商人的铃珠【５】"
+	},
+	{
+		"id": 26000055,
+		"eng": "Nomadic Merchant's Bell Bearing [6]",
+		"chn": "流浪商人的铃珠【６】"
+	},
+	{
+		"id": 26000056,
+		"eng": "Nomadic Merchant's Bell Bearing [7]",
+		"chn": "流浪商人的铃珠【７】"
+	},
+	{
+		"id": 26000057,
+		"eng": "Nomadic Merchant's Bell Bearing [8]",
+		"chn": "流浪商人的铃珠【８】"
+	},
+	{
+		"id": 26000058,
+		"eng": "Nomadic Merchant's Bell Bearing [9]",
+		"chn": "流浪商人的铃珠【９】"
+	},
+	{
+		"id": 26000059,
+		"eng": "Nomadic Merchant's Bell Bearing [10]",
+		"chn": "流浪商人的铃珠【１０】"
+	},
+	{
+		"id": 26000060,
+		"eng": "Nomadic Merchant's Bell Bearing [11]",
+		"chn": "流浪商人的铃珠【１１】"
+	},
+	{
+		"id": 26000070,
+		"eng": "Kalé's Bell Bearing",
+		"chn": "咖列的铃珠"
+	},
+	{
+		"id": 26000071,
+		"eng": "Isolated Merchant's Bell Bearing [1]",
+		"chn": "隐居商人的铃珠【１】"
+	},
+	{
+		"id": 26000072,
+		"eng": "Isolated Merchant's Bell Bearing [2]",
+		"chn": "隐居商人的铃珠【２】"
+	},
+	{
+		"id": 26000073,
+		"eng": "Hermit Merchant's Bell Bearing [1]",
+		"chn": "遁世商人的铃珠【１】"
+	},
+	{
+		"id": 26000074,
+		"eng": "Isolated Merchant's Bell Bearing [3]",
+		"chn": "隐居商人的铃珠【３】"
+	},
+	{
+		"id": 26000075,
+		"eng": "Hermit Merchant's Bell Bearing [2]",
+		"chn": "遁世商人的铃珠【２】"
+	},
+	{
+		"id": 26000076,
+		"eng": "Abandoned Merchant's Bell Bearing",
+		"chn": "见弃商人的铃珠"
+	},
+	{
+		"id": 26000077,
+		"eng": "Hermit Merchant's Bell Bearing [3]",
+		"chn": "遁世商人的铃珠【３】"
+	},
+	{
+		"id": 26000078,
+		"eng": "Imprisoned Merchant's Bell Bearing",
+		"chn": "受囚商人的铃珠"
+	},
+	{
+		"id": 26000110,
+		"eng": "Offer Pidia's Bell Bearing",
+		"chn": "献上毕迪的铃珠"
+	},
+	{
+		"id": 26000111,
+		"eng": "Offer Seluvis's Bell Bearing",
+		"chn": "献上赛尔维斯的铃珠"
+	},
+	{
+		"id": 26000112,
+		"eng": "Offer Patches' Bell Bearing",
+		"chn": "献上帕奇的铃珠"
+	},
+	{
+		"id": 26000113,
+		"eng": "Offer Sellen's Bell Bearing",
+		"chn": "献上瑟濂的铃珠"
+	},
+	{
+		"id": 26000115,
+		"eng": "Offer D's Bell Bearing",
+		"chn": "献上Ｄ的铃珠"
+	},
+	{
+		"id": 26000116,
+		"eng": "Offer Bernahl's Bell Bearing",
+		"chn": "献上贝纳尔的铃珠"
+	},
+	{
+		"id": 26000117,
+		"eng": "Offer Miriel's Bell Bearing",
+		"chn": "献上米利耶的铃珠"
+	},
+	{
+		"id": 26000118,
+		"eng": "Offer Gostoc's Bell Bearing",
+		"chn": "献上葛托克的铃珠"
+	},
+	{
+		"id": 26000119,
+		"eng": "Offer Thops's Bell Bearing",
+		"chn": "献上托普斯的铃珠"
+	},
+	{
+		"id": 26000120,
+		"eng": "Offer Kalé's Bell Bearing",
+		"chn": "献上咖列的铃珠"
+	},
+	{
+		"id": 26000121,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [1]",
+		"chn": "献上流浪商人的铃珠【１】"
+	},
+	{
+		"id": 26000122,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [2]",
+		"chn": "献上流浪商人的铃珠【２】"
+	},
+	{
+		"id": 26000123,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [3]",
+		"chn": "献上流浪商人的铃珠【３】"
+	},
+	{
+		"id": 26000124,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [4]",
+		"chn": "献上流浪商人的铃珠【４】"
+	},
+	{
+		"id": 26000125,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [5]",
+		"chn": "献上流浪商人的铃珠【５】"
+	},
+	{
+		"id": 26000126,
+		"eng": "Offer Isolated Merchant's Bell Bearing [1]",
+		"chn": "献上隐居商人的铃珠【１】"
+	},
+	{
+		"id": 26000127,
+		"eng": "Offer Isolated Merchant's Bell Bearing [2]",
+		"chn": "献上隐居商人的铃珠【２】"
+	},
+	{
+		"id": 26000128,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [6]",
+		"chn": "献上流浪商人的铃珠【６】"
+	},
+	{
+		"id": 26000129,
+		"eng": "Offer Hermit Merchant's Bell Bearing [1]",
+		"chn": "献上遁世商人的铃珠【１】"
+	},
+	{
+		"id": 26000130,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [7]",
+		"chn": "献上流浪商人的铃珠【７】"
+	},
+	{
+		"id": 26000131,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [8]",
+		"chn": "献上流浪商人的铃珠【８】"
+	},
+	{
+		"id": 26000132,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [9]",
+		"chn": "献上流浪商人的铃珠【９】"
+	},
+	{
+		"id": 26000133,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [10]",
+		"chn": "献上流浪商人的铃珠【１０】"
+	},
+	{
+		"id": 26000134,
+		"eng": "Offer Nomadic Merchant's Bell Bearing [11]",
+		"chn": "献上流浪商人的铃珠【１１】"
+	},
+	{
+		"id": 26000135,
+		"eng": "Offer Isolated Merchant's Bell Bearing [3]",
+		"chn": "献上隐居商人的铃珠【３】"
+	},
+	{
+		"id": 26000136,
+		"eng": "Offer Hermit Merchant's Bell Bearing [2]",
+		"chn": "献上遁世商人的铃珠【２】"
+	},
+	{
+		"id": 26000137,
+		"eng": "Offer Abandoned Merchant's Bell Bearing",
+		"chn": "献上见弃商人的铃珠"
+	},
+	{
+		"id": 26000138,
+		"eng": "Offer Hermit Merchant's Bell Bearing [3]",
+		"chn": "献上遁世商人的铃珠【３】"
+	},
+	{
+		"id": 26000139,
+		"eng": "Offer Imprisoned Merchant's Bell Bearing",
+		"chn": "献上受囚商人的铃珠"
+	},
+	{
+		"id": 26000140,
+		"eng": "Offer Iji's Bell Bearing",
+		"chn": "献上伊吉的铃珠"
+	},
+	{
+		"id": 26000141,
+		"eng": "Offer Rogier's Bell Bearing",
+		"chn": "献上罗杰尔的铃珠"
+	},
+	{
+		"id": 26000142,
+		"eng": "Offer Blackguard's Bell Bearing",
+		"chn": "献上流氓的铃珠"
+	},
+	{
+		"id": 26000143,
+		"eng": "Offer Corhyn's Bell Bearing",
+		"chn": "献上柯林的铃珠"
+	},
+	{
+		"id": 26000144,
+		"eng": "Offer Gowry's Bell Bearing",
+		"chn": "献上格威的铃珠"
+	},
+	{
+		"id": 26000145,
+		"eng": "Offer Bone Peddler's Bell Bearing",
+		"chn": "献上兽骨贩子的铃珠"
+	},
+	{
+		"id": 26000146,
+		"eng": "Offer Meat Peddler's Bell Bearing",
+		"chn": "献上兽肉贩子的铃珠"
+	},
+	{
+		"id": 26000147,
+		"eng": "Offer Medicine Peddler's Bell Bearing",
+		"chn": "献上苔药贩子的铃珠"
+	},
+	{
+		"id": 26000148,
+		"eng": "Offer Gravity Stone Peddler's Bell Bearing",
+		"chn": "献上重力贩子的铃珠"
+	},
+	{
+		"id": 26000151,
+		"eng": "Offer Smithing Miner's Bell Bearing [1]",
+		"chn": "献上锻造石矿工的铃珠【１】"
+	},
+	{
+		"id": 26000152,
+		"eng": "Offer Smithing Miner's Bell Bearing [2]",
+		"chn": "献上锻造石矿工的铃珠【２】"
+	},
+	{
+		"id": 26000153,
+		"eng": "Offer Smithing Miner's Bell Bearing [3]",
+		"chn": "献上锻造石矿工的铃珠【３】"
+	},
+	{
+		"id": 26000154,
+		"eng": "Offer Smithing Miner's Bell Bearing [4]",
+		"chn": "献上锻造石矿工的铃珠【４】"
+	},
+	{
+		"id": 26000155,
+		"eng": "Offer Somber Miner's Bell Bearing [1]",
+		"chn": "献上失色石矿工的铃珠【１】"
+	},
+	{
+		"id": 26000156,
+		"eng": "Offer Somber Miner's Bell Bearing [2]",
+		"chn": "献上失色石矿工的铃珠【２】"
+	},
+	{
+		"id": 26000157,
+		"eng": "Offer Somber Miner's Bell Bearing [3]",
+		"chn": "献上失色石矿工的铃珠【３】"
+	},
+	{
+		"id": 26000158,
+		"eng": "Offer Somber Miner's Bell Bearing [4]",
+		"chn": "献上失色石矿工的铃珠【４】"
+	},
+	{
+		"id": 26000159,
+		"eng": "Offer Somber Miner's Bell Bearing [5]",
+		"chn": "献上失色石矿工的铃珠【５】"
+	},
+	{
+		"id": 26000160,
+		"eng": "Offer Glovewort Picker's Bell Bearing [1]",
+		"chn": "献上铃兰摘采工的铃珠【１】"
+	},
+	{
+		"id": 26000161,
+		"eng": "Offer Glovewort Picker's Bell Bearing [2]",
+		"chn": "献上铃兰摘采工的铃珠【２】"
+	},
+	{
+		"id": 26000162,
+		"eng": "Offer Glovewort Picker's Bell Bearing [3]",
+		"chn": "献上铃兰摘采工的铃珠【３】"
+	},
+	{
+		"id": 26000163,
+		"eng": "Offer Ghostform Picker's Bell Bearing [1]",
+		"chn": "献上灵依摘采工的铃珠【１】"
+	},
+	{
+		"id": 26000164,
+		"eng": "Offer Ghostform Picker's Bell Bearing [2]",
+		"chn": "献上灵依摘采工的铃珠【２】"
+	},
+	{
+		"id": 26000165,
+		"eng": "Offer Ghostform Picker's Bell Bearing [3]",
+		"chn": "献上灵依摘采工的铃珠【３】"
+	},
+	{
+		"id": 26001000,
+		"eng": "No bell bearings offered",
+		"chn": "尚未献上铃珠。"
+	},
+	{
+		"id": 26001001,
+		"eng": "No bell bearing to offer",
+		"chn": "没有可献上的铃珠。"
+	},
+	{
+		"id": 26001110,
+		"eng": "Offered Pidia's Bell Bearing",
+		"chn": "已献上毕迪的铃珠。"
+	},
+	{
+		"id": 26001111,
+		"eng": "Offered Seluvis's Bell Bearing",
+		"chn": "已献上赛尔维斯的铃珠。"
+	},
+	{
+		"id": 26001112,
+		"eng": "Offered Patches' Bell Bearing",
+		"chn": "已献上帕奇的铃珠。"
+	},
+	{
+		"id": 26001113,
+		"eng": "Offered Sellen's Bell Bearing",
+		"chn": "已献上瑟濂的铃珠。"
+	},
+	{
+		"id": 26001114,
+		"eng": "Offered Monk Jiko's Ashes",
+		"chn": "已献上里可的铃珠。"
+	},
+	{
+		"id": 26001115,
+		"eng": "Offered D's Bell Bearing",
+		"chn": "已献上Ｄ的铃珠。"
+	},
+	{
+		"id": 26001116,
+		"eng": "Offered Bernahl's Bell Bearing",
+		"chn": "已献上贝纳尔的铃珠。"
+	},
+	{
+		"id": 26001117,
+		"eng": "Offered Miriel's Bell Bearing",
+		"chn": "已献上米利耶的铃珠。"
+	},
+	{
+		"id": 26001118,
+		"eng": "Offered Gostoc's Bell Bearing",
+		"chn": "已献上葛托克的铃珠。"
+	},
+	{
+		"id": 26001119,
+		"eng": "Offered Thops's Bell Bearing",
+		"chn": "已献上托普斯的铃珠。"
+	},
+	{
+		"id": 26001120,
+		"eng": "Offered Kalé's Bell Bearing",
+		"chn": "已献上咖列的铃珠。"
+	},
+	{
+		"id": 26001121,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [1]",
+		"chn": "已献上流浪商人的铃珠【１】。"
+	},
+	{
+		"id": 26001122,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [2]",
+		"chn": "已献上流浪商人的铃珠【２】。"
+	},
+	{
+		"id": 26001123,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [3]",
+		"chn": "已献上流浪商人的铃珠【３】。"
+	},
+	{
+		"id": 26001124,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [4]",
+		"chn": "已献上流浪商人的铃珠【４】。"
+	},
+	{
+		"id": 26001125,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [5]",
+		"chn": "已献上流浪商人的铃珠【５】。"
+	},
+	{
+		"id": 26001126,
+		"eng": "Offered Isolated Merchant's Bell Bearing [1]",
+		"chn": "已献上隐居商人的铃珠【１】。"
+	},
+	{
+		"id": 26001127,
+		"eng": "Offered Isolated Merchant's Bell Bearing [2]",
+		"chn": "已献上隐居商人的铃珠【２】。"
+	},
+	{
+		"id": 26001128,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [6]",
+		"chn": "已献上流浪商人的铃珠【６】。"
+	},
+	{
+		"id": 26001129,
+		"eng": "Offered Hermit Merchant's Bell Bearing [1]",
+		"chn": "已献上遁世商人的铃珠【１】。"
+	},
+	{
+		"id": 26001130,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [7]",
+		"chn": "已献上流浪商人的铃珠【７】。"
+	},
+	{
+		"id": 26001131,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [8]",
+		"chn": "已献上流浪商人的铃珠【８】。"
+	},
+	{
+		"id": 26001132,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [9]",
+		"chn": "已献上流浪商人的铃珠【９】。"
+	},
+	{
+		"id": 26001133,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [10]",
+		"chn": "已献上流浪商人的铃珠【１０】。"
+	},
+	{
+		"id": 26001134,
+		"eng": "Offered Nomadic Merchant's Bell Bearing [11]",
+		"chn": "已献上流浪商人的铃珠【１１】。"
+	},
+	{
+		"id": 26001135,
+		"eng": "Offered Isolated Merchant's Bell Bearing [3]",
+		"chn": "已献上隐居商人的铃珠【３】。"
+	},
+	{
+		"id": 26001136,
+		"eng": "Offered Hermit Merchant's Bell Bearing [2]",
+		"chn": "已献上遁世商人的铃珠【２】。"
+	},
+	{
+		"id": 26001137,
+		"eng": "Offered Abandoned Merchant's Bell Bearing",
+		"chn": "已献上见弃商人的铃珠。"
+	},
+	{
+		"id": 26001138,
+		"eng": "Offered Hermit Merchant's Bell Bearing [3]",
+		"chn": "已献上遁世商人的铃珠【３】。"
+	},
+	{
+		"id": 26001139,
+		"eng": "Offered Imprisoned Merchant's Bell Bearing",
+		"chn": "已献上受囚商人的铃珠。"
+	},
+	{
+		"id": 26001140,
+		"eng": "Offered Iji's Bell Bearing",
+		"chn": "已献上伊吉的铃珠。"
+	},
+	{
+		"id": 26001141,
+		"eng": "Offered Rogier's Bell Bearing",
+		"chn": "已献上罗杰尔的铃珠。"
+	},
+	{
+		"id": 26001142,
+		"eng": "Offered Blackguard's Bell Bearing",
+		"chn": "已献上流氓的铃珠。"
+	},
+	{
+		"id": 26001143,
+		"eng": "Offered Corhyn's Bell Bearing",
+		"chn": "已献上柯林的铃珠。"
+	},
+	{
+		"id": 26001144,
+		"eng": "Offered Gowry's Bell Bearing",
+		"chn": "已献上格威的铃珠。"
+	},
+	{
+		"id": 26001145,
+		"eng": "Offered Bone Peddler's Bell Bearing",
+		"chn": "已献上兽骨贩子的铃珠。"
+	},
+	{
+		"id": 26001146,
+		"eng": "Offered Meat Peddler's Bell Bearing",
+		"chn": "已献上兽肉贩子的铃珠。"
+	},
+	{
+		"id": 26001147,
+		"eng": "Offered Medicine Peddler's Bell Bearing",
+		"chn": "已献上苔药贩子的铃珠。"
+	},
+	{
+		"id": 26001148,
+		"eng": "Offered Gravity Stone Peddler's Bell Bearing",
+		"chn": "已献上重力贩子的铃珠。"
+	},
+	{
+		"id": 26001151,
+		"eng": "Offered Smithing Miner's Bell Bearing [1]",
+		"chn": "已献上锻造石矿工的铃珠【１】。"
+	},
+	{
+		"id": 26001152,
+		"eng": "Offered Smithing Miner's Bell Bearing [2]",
+		"chn": "已献上锻造石矿工的铃珠【２】。"
+	},
+	{
+		"id": 26001153,
+		"eng": "Offered Smithing Miner's Bell Bearing [3]",
+		"chn": "已献上锻造石矿工的铃珠【３】。"
+	},
+	{
+		"id": 26001154,
+		"eng": "Offered Smithing Miner's Bell Bearing [4]",
+		"chn": "已献上锻造石矿工的铃珠【４】。"
+	},
+	{
+		"id": 26001155,
+		"eng": "Offered Somber Miner's Bell Bearing [1]",
+		"chn": "已献上失色石矿工的铃珠【１】。"
+	},
+	{
+		"id": 26001156,
+		"eng": "Offered Somber Miner's Bell Bearing [2]",
+		"chn": "已献上失色石矿工的铃珠【２】。"
+	},
+	{
+		"id": 26001157,
+		"eng": "Offered Somber Miner's Bell Bearing [3]",
+		"chn": "已献上失色石矿工的铃珠【３】。"
+	},
+	{
+		"id": 26001158,
+		"eng": "Offered Somber Miner's Bell Bearing [4]",
+		"chn": "已献上失色石矿工的铃珠【４】。"
+	},
+	{
+		"id": 26001159,
+		"eng": "Offered Somber Miner's Bell Bearing [5]",
+		"chn": "已献上失色石矿工的铃珠【５】。"
+	},
+	{
+		"id": 26001160,
+		"eng": "Offered Glovewort Picker's Bell Bearing [1]",
+		"chn": "已献上铃兰摘采工的铃珠【１】。"
+	},
+	{
+		"id": 26001161,
+		"eng": "Offered Glovewort Picker's Bell Bearing [2]",
+		"chn": "已献上铃兰摘采工的铃珠【２】。"
+	},
+	{
+		"id": 26001162,
+		"eng": "Offered Glovewort Picker's Bell Bearing [3]",
+		"chn": "已献上铃兰摘采工的铃珠【３】。"
+	},
+	{
+		"id": 26001163,
+		"eng": "Offered Ghostform Picker's Bell Bearing [1]",
+		"chn": "已献上灵依摘采工的铃珠【１】。"
+	},
+	{
+		"id": 26001164,
+		"eng": "Offered Ghostform Picker's Bell Bearing [2]",
+		"chn": "已献上灵依摘采工的铃珠【２】。"
+	},
+	{
+		"id": 26001165,
+		"eng": "Offered Ghostform Picker's Bell Bearing [3]",
+		"chn": "已献上灵依摘采工的铃珠【３】。"
+	},
+	{
+		"id": 26010000,
+		"eng": "Ritual of Dragon Communion",
+		"chn": "龙飨仪式"
+	},
+	{
+		"id": 26020000,
+		"eng": "Strengthen armament",
+		"chn": "强化武器"
+	},
+	{
+		"id": 26071000,
+		"eng": "Mend the Elden Ring",
+		"chn": "修复艾尔登法环"
+	},
+	{
+		"id": 26071001,
+		"eng": "Use Mending Rune of Perfect Order",
+		"chn": "用完美律法的卢恩修复艾尔登法环"
+	},
+	{
+		"id": 26071002,
+		"eng": "Use Mending Rune of the Death-Prince",
+		"chn": "用死王子的卢恩修复艾尔登法环"
+	},
+	{
+		"id": 26071003,
+		"eng": "Use Mending Rune of the Fell Curse",
+		"chn": "用忌讳诅咒的卢恩修复艾尔登法环"
+	},
+	{
+		"id": 26080000,
+		"eng": "Apply cosmetics",
+		"chn": "化妆"
+	},
+	{
+		"id": 26080001,
+		"eng": "Leave",
+		"chn": "离开"
+	},
+	{
+		"id": 28000002,
+		"eng": "About Kalé",
+		"chn": "关于咖列"
+	},
+	{
+		"id": 28000003,
+		"eng": "Recommendation",
+		"chn": "推荐商品"
+	},
+	{
+		"id": 28000004,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 28000005,
+		"eng": "Talk",
+		"chn": "交谈"
+	},
+	{
+		"id": 28000014,
+		"eng": "About the howling in Mistwood",
+		"chn": "询问关于雾林里的狼嚎声"
+	},
+	{
+		"id": 28000015,
+		"eng": "About Blaidd",
+		"chn": "关于布莱泽"
+	}
+]

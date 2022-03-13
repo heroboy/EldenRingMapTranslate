@@ -1,0 +1,2902 @@
+[
+	{
+		"id": 10000,
+		"eng": "Bare head with no armor equipped.",
+		"chn": "没有装备任何防具，赤裸的头部。"
+	},
+	{
+		"id": 10100,
+		"eng": "Bare torso with no armor equipped.",
+		"chn": "没有装备任何防具，赤裸的身体。"
+	},
+	{
+		"id": 10200,
+		"eng": "Bare arms with no armor equipped.",
+		"chn": "没有装备任何防具，赤裸的腕部。"
+	},
+	{
+		"id": 10300,
+		"eng": "Bare legs with no armor equipped.",
+		"chn": "没有装备任何防具，赤裸的腿部。"
+	},
+	{
+		"id": 40000,
+		"eng": "An iron helmet showing rust on its edges.\n\nCloth covering the mouth and neck provides some resistance to poison and other irritants.",
+		"chn": "遍布锈痕的铁制头盔。\n\n嘴部覆盖着布，能用在应付毒物等等。"
+	},
+	{
+		"id": 40100,
+		"eng": "Armor reinforced with small metal scales.\n\nThe cape covering the shoulders is made with treated rock lizard skin, and provides ample protection against fire.",
+		"chn": "串连小型金属片以防御攻击的铠甲。\n\n肩上的斗篷是鞣制岩石蜥蜴的皮而成，\n具备不错的火属性防御效果。"
+	},
+	{
+		"id": 40200,
+		"eng": "Ordinary iron gauntlets.",
+		"chn": "造型简朴的铁制臂甲。"
+	},
+	{
+		"id": 40300,
+		"eng": "Well-made leather trousers.\n\nThe lower legs are each bound in cord for ease of movement.",
+		"chn": "材质坚固的皮革长裤。\n\n长裤表面用绳子缠绕固定，\n以免妨碍行动。"
+	},
+	{
+		"id": 50000,
+		"eng": "Helm worn by Kaiden sellswords.\n\nThese hulking, fearless mercenaries, said to hail from the mountaintops of the wintry north, are adept at fighting on horseback.\nKaiden is the name of their home settlement.",
+		"chn": "凯丹佣兵们穿戴的头盔。\n\n据说凯丹佣兵来自落雪霭霭的北方山顶，\n各个身形高壮，擅长骑马作战。\n凯丹为佣兵的故乡之名。"
+	},
+	{
+		"id": 50100,
+		"eng": "Armor worn by Kaiden sellswords.\nMade with the pelt of a snow-wolf, which protects against the cold.\n\nThese hulking, fearless mercenaries, said to hail from the mountaintops of the wintry north, are adept at fighting on horseback.\nKaiden is the name of their home settlement.",
+		"chn": "凯丹佣兵穿戴的铠甲。\n披着能抵御冻伤的雪狼毛皮。\n\n据说凯丹佣兵来自落雪霭霭的北方山顶，\n各个身形高壮，擅长骑马作战。\n凯丹为佣兵的故乡之名。"
+	},
+	{
+		"id": 50200,
+		"eng": "Gauntlets worn by Kaiden sellswords.\n\nThese hulking, fearless mercenaries, said to hail from the mountaintops of the wintry north, are adept at fighting on horseback.\nKaiden is the name of their home settlement.",
+		"chn": "凯丹佣兵们穿戴的臂甲。\n\n据说凯丹佣兵来自落雪霭霭的北方山顶，\n各个身形高壮，擅长骑马作战。\n凯丹为佣兵的故乡之名。"
+	},
+	{
+		"id": 50300,
+		"eng": "Trousers worn by Kaiden sellswords.\n\nThese hulking, fearless mercenaries, said to hail from the mountaintops of the wintry north, are adept at fighting on horseback.\nKaiden is the name of their home settlement.",
+		"chn": "凯丹佣兵们穿戴的长裤。\n\n据说凯丹佣兵来自落雪霭霭的北方山顶，\n各个身形高壮，擅长骑马作战。\n凯丹为佣兵的故乡之名。"
+	},
+	{
+		"id": 60000,
+		"eng": "Black iron helm worn by drake knights.\nFeatures the spoils of a dragon catch as an emblem of pride as both dragon hunter and partaker of communion.\n\nFrom birth, drake knights speak not a word. They spend their lives pursuing the strength of dragons, for its sublime beauty and inspiration of awe.",
+		"chn": "龙骑士们穿戴的黑铁制头盔。\n使用龙的部分身体制成，\n作为对狩猎龙、龙飨引以为傲的象征。\n\n他们生来就不曾说过只字片语，\n默默地追求强大又美丽，\n却也十分可怕的龙的力量。"
+	},
+	{
+		"id": 60100,
+		"eng": "Black iron armor worn by drake knights.\nFeatures the spoils of a dragon catch as an emblem of pride as both dragon hunter and partaker of communion.\n\nThe cape is crafted with dragon wing membrane.",
+		"chn": "龙骑士们穿戴的黑铁制铠甲。\n使用龙的部分身体制成，\n作为对狩猎龙、龙飨引以为傲的象征。\n\n斗篷是由龙翅上的皮膜制成。"
+	},
+	{
+		"id": 60200,
+		"eng": "Black iron gauntlets worn by drake knights.\nFeatures the spoils of a dragon catch as an emblem of pride as both dragon hunter and partaker of communion.\n\nFrom birth, drake knights speak not a word. They spend their lives pursuing the strength of dragons, for its sublime beauty and inspiration of awe.",
+		"chn": "龙骑士们穿戴的黑铁制臂甲。\n使用龙的部分身体制成，\n作为对狩猎龙、龙飨引以为傲的象征。\n\n他们生来就不曾说过只字片语，\n默默地追求强大又美丽，\n却也十分可怕的龙的力量。"
+	},
+	{
+		"id": 60300,
+		"eng": "Black iron greaves by drake knights.\nFeatures the spoils of a dragon catch as an emblem of pride as both dragon hunter and partaker of communion.\n\nFrom birth, drake knights speak not a word. They spend their lives pursuing the strength of dragons, for its sublime beauty and inspiration of awe.",
+		"chn": "龙骑士们穿戴的黑铁制腿甲。\n使用龙的部分身体制成，\n作为对狩猎龙、龙飨引以为傲的象征。\n\n他们生来就不曾说过只字片语，\n默默地追求强大又美丽，\n却也十分可怕的龙的力量。"
+	},
+	{
+		"id": 61000,
+		"eng": "Black iron helm worn by drake knights.\nFeatures the spoils of a dragon catch as an emblem of pride as both dragon hunter and partaker of communion.\n\nFrom birth, drake knights speak not a word. They spend their lives pursuing the strength of dragons, for its sublime beauty and inspiration of awe.",
+		"chn": "龙骑士们穿戴的黑铁制头盔。\n使用龙的部分身体制成，\n作为对狩猎龙、龙飨引以为傲的象征。\n\n他们生来就不曾说过只字片语，\n默默地追求强大又美丽，\n却也十分可怕的龙的力量。"
+	},
+	{
+		"id": 61100,
+		"eng": "Black iron armor worn by drake knights.\nFeatures the spoils of a dragon catch as an emblem of pride as both dragon hunter and partaker of communion.\n\nFrom birth, drake knights speak not a word. They spend their lives pursuing the strength of dragons, for its sublime beauty and inspiration of awe.",
+		"chn": "龙骑士们穿戴的黑铁制铠甲。\n使用龙的部分身体制成，\n作为对狩猎龙、龙飨引以为傲的象征。\n\n他们生来就不曾说过只字片语，\n默默地追求强大又美丽，\n却也十分可怕的龙的力量。"
+	},
+	{
+		"id": 80000,
+		"eng": "Helm worn by Old Knight Istvan.\nThe corroded metal is reinforced with rock-hard scales, making it highly effective against non-physical attacks.\n\nIstvan is one of a few wizened Tarnished who survive to this day.",
+		"chn": "“古老骑士”伊修托邦的头盔。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。"
+	},
+	{
+		"id": 80100,
+		"eng": "Armor worn by Old Knight Istvan.\nThe corroded metal is reinforced with rock-hard scales, making it highly effective against non-physical attacks.\n\nIstvan is one of a few wizened Tarnished who survive to this day.",
+		"chn": "“古老骑士”伊修托邦的铠甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。"
+	},
+	{
+		"id": 80200,
+		"eng": "Gauntlets worn by Old Knight Istvan.\nThe corroded metal is reinforced with rock-hard scales, making it highly effective against non-physical attacks.\n\nIstvan is one of a few wizened Tarnished who survive to this day.",
+		"chn": "“古老骑士”伊修托邦的臂甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。"
+	},
+	{
+		"id": 80300,
+		"eng": "Greaves worn by Old Knight Istvan.\nThe corroded metal is reinforced with rock-hard scales, making it highly effective against non-physical attacks.\n\nIstvan is one of a few wizened Tarnished who survive to this day.",
+		"chn": "“古老骑士”伊修托邦的腿甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。"
+	},
+	{
+		"id": 81100,
+		"eng": "Armor worn by Old Knight Istvan.\nThe corroded metal is reinforced with rock-hard scales, making it highly effective against non-physical attacks.\n\nIstvan is one of a few wizened Tarnished who survive to this day.",
+		"chn": "“古老骑士”伊修托邦的铠甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。"
+	},
+	{
+		"id": 90000,
+		"eng": "Hood of an Erdtree Capital perfumer.\n\nIn times past, the role of perfumer was much respected; a blessed apothecary in the eyes of the many. But after entering the battlefields of the Shattering they performed no such role, trading their aromatics for poisons and explosives.",
+		"chn": "黄金树王城的调香师们穿戴的风帽。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。"
+	},
+	{
+		"id": 90100,
+		"eng": "Robe of an Erdtree Capital perfumer.\n\nThe thick front apron embroidered with a depiction of the Erdtree is proof of mastery of the apothecarial arts, and its weight symbolizes the onus of both pride and responsibility.",
+		"chn": "黄金树王城的调香师们穿戴的长袍。\n\n厚重的围裙上装饰着黄金树的刺绣，\n代表修毕药草学家密技的证明。\n围裙的沉重象征着荣誉与责任。"
+	},
+	{
+		"id": 90200,
+		"eng": "Gloves of an Erdtree Capital perfumer.\n\nIn times past, the role of perfumer was much respected; a blessed apothecary in the eyes of the many. But after entering the battlefields of the Shattering they performed no such role, trading their aromatics for poisons and explosives.",
+		"chn": "黄金树王城的调香师们穿戴的手套。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。"
+	},
+	{
+		"id": 90300,
+		"eng": "Sarong of an Erdtree Capital perfumer.\n\nIn times past, the role of perfumer was much respected; a blessed apothecary in the eyes of the many. But after entering the battlefields of the Shattering they performed no such role, trading their aromatics for poisons and explosives.",
+		"chn": "黄金树王城的调香师们穿戴的腰巾。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。"
+	},
+	{
+		"id": 91100,
+		"eng": "Robe of an Erdtree Capital perfumer.\n\nThe thick front apron embroidered with a depiction of the Erdtree is proof of mastery of the apothecarial arts, and its weight symbolizes the onus of both pride and responsibility.",
+		"chn": "黄金树王城的调香师们穿戴的长袍。\n\n厚重的围裙上装饰着黄金树的刺绣，\n代表修毕药草学家密技的证明。\n围裙的沉重象征着荣誉与责任。"
+	},
+	{
+		"id": 100000,
+		"eng": "Hat of a traveling perfumer of no renown.\n\nAn associate of a healer, he is said to be in search of new aromatics and flower gardens, in hopes of treating Misbegotten, Omen, and all those seen as impure.",
+		"chn": "无名的旅行调香师穿戴的帽子。\n\n据说那名男性是治愈者的同伴，\n为了寻找新的香药与花园而踏上旅程。\n他们试图治疗混种、恶兆之子等等\n各种的玷污现象。"
+	},
+	{
+		"id": 100100,
+		"eng": "Garb of a traveling perfumer of no renown.\n\nThe thick front apron, the badge of a perfumer, has been replaced with a more simple one made from soft leather.",
+		"chn": "无名的旅行调香师穿戴的上衣。\n\n代表调香师身分的厚重围裙，\n以柔软的皮革重新制作，造型较为简朴。"
+	},
+	{
+		"id": 100200,
+		"eng": "Gloves of a traveling perfumer of no renown.\n\nAn associate of a healer, he is said to be in search of new aromatics and flower gardens, in hopes of treating Misbegotten, Omen, and all those seen as impure.",
+		"chn": "无名的旅行调香师穿戴的手套。\n\n据说那名男性是治愈者的同伴，\n为了寻找新的香药与花园而踏上旅程。\n他们试图治疗混种、恶兆之子等等\n各种的玷污现象。"
+	},
+	{
+		"id": 100300,
+		"eng": "Slops of a traveling perfumer of no renown.\n\nAn associate of a healer, he is said to be in search of new aromatics and flower gardens, in hopes of treating Misbegotten, Omen, and all those seen as impure.",
+		"chn": "无名的旅行调香师穿戴的长裤。\n\n据说那名男性是治愈者的同伴，\n为了寻找新的香药与花园而踏上旅程。\n他们试图治疗混种、恶兆之子等等\n各种的玷污现象。"
+	},
+	{
+		"id": 101100,
+		"eng": "Garb of a traveling perfumer of no renown.\n\nThe thick front apron, the badge of a perfumer, has been replaced with a more simple one made from soft leather.",
+		"chn": "无名的旅行调香师穿戴的上衣。\n\n代表调香师身分的厚重围裙，\n以柔软的皮革重新制作，造型较为简朴。"
+	},
+	{
+		"id": 120000,
+		"eng": "Mad Tongue Alberich's pointed hat, a sign of a heretical practitioner.\n\nSet with red glintstones, said to be formed by the blood of sacrifices. Strengthens thorn sorcery.\n\nAlberich was an aloof yet disturbed heretical sorcerer said to have been driven mad by jeering tongues during his service to the Roundtable Hold long ago.",
+		"chn": "“发狂之舌”阿尔佩利希的帽子。\n代表异端魔法师身分的尖顶帽。\n\n表面嵌入的红色辉石，\n据说是用活祭品的血液制成。\n能强化荆棘的魔法。\n\n离群、异端又病态的魔法师，\n据说过去不停以嘲弄舌头，保护圆桌厅堂。"
+	},
+	{
+		"id": 120100,
+		"eng": "Mad Tongue Alberich's robe.\n\nSet with red glintstones, said to be formed by the blood of sacrifices. Strengthens thorn sorcery.\n\nAlberich was an aloof yet disturbed heretical sorcerer said to have been driven mad by jeering tongues during his service to the Roundtable Hold long ago.",
+		"chn": "“发狂之舌”阿尔佩利希的上衣。\n\n表面嵌入的红色辉石，\n据说是用活祭品的血液制成。\n能强化荆棘的魔法。\n\n离群、异端又病态的魔法师，\n据说过去不停以嘲弄舌头，保护圆桌厅堂。"
+	},
+	{
+		"id": 120200,
+		"eng": "Mad Tongue Alberich's bracers.\n\nSet with red glintstones, said to be formed by the blood of sacrifices. Strengthen thorn sorcery.\n\nAlberich was an aloof yet disturbed heretical sorcerer said to have been driven mad by jeering tongues during his service to the Roundtable Hold long ago.",
+		"chn": "“发狂之舌”阿尔佩利希的臂甲。\n\n表面嵌入的红色辉石，\n据说是用活祭品的血液制成。\n能强化荆棘的魔法。\n\n离群、异端又病态的魔法师，\n据说过去不停以嘲弄舌头，保护圆桌厅堂。"
+	},
+	{
+		"id": 120300,
+		"eng": "Mad Tongue Alberich's trousers.\n\nAlberich was an aloof yet disturbed heretical sorcerer said to have been driven mad by jeering tongues during his service to the Roundtable Hold long ago.",
+		"chn": "“发狂之舌”阿尔佩利希的长裤。\n\n离群、异端又病态的魔法师，\n据说过去不停以嘲弄舌头，保护圆桌厅堂。"
+	},
+	{
+		"id": 121000,
+		"eng": "Mad Tongue Alberich's pointed hat, a sign of a heretical practitioner.\n\nSet with red glintstones, said to be formed by the blood of sacrifices. Strengthens thorn sorcery.\n\nAlberich was an aloof yet disturbed heretical sorcerer said to have been driven mad by jeering tongues during his service to the Roundtable Hold long ago.",
+		"chn": "“发狂之舌”阿尔佩利希的帽子。\n代表异端魔法师身分的尖顶帽。\n\n表面嵌入的红色辉石，\n据说是用活祭品的血液制成。\n能强化荆棘的魔法。\n\n离群、异端又病态的魔法师，\n据说过去不停以嘲弄舌头，保护圆桌厅堂。"
+	},
+	{
+		"id": 121100,
+		"eng": "Mad Tongue Alberich's robe.\n\nAlberich was an aloof yet disturbed heretical sorcerer said to have been driven mad by jeering tongues during his service to the Roundtable Hold long ago.",
+		"chn": "“发狂之舌”阿尔佩利希的上衣。\n\n离群、异端又病态的魔法师，\n据说过去不停以嘲弄舌头，保护圆桌厅堂。"
+	},
+	{
+		"id": 130000,
+		"eng": "Glintstone sorcerer Rogier's pointed hat, a sign of a heretical practitioner. Strengthens glintstone sorcery skills.\n\nRogier spent his entire life behaving with utter detachment. No one noticed the anger, grief, regret, or fear that existed along with it.",
+		"chn": "魔法师罗杰尔的帽子。\n代表异端魔法师身分的尖顶帽。\n能强化辉石魔法的战技。\n\n罗杰尔看似一派从容、不受影响，\n但在那态度底下，愤怒、悲伤、后悔、恐惧──\n其实一直都存在。"
+	},
+	{
+		"id": 130100,
+		"eng": "Glintstone sorcerer Rogier's traveling attire, graced with an intricate, aristocratic decoration. Strengthens glintstone sorcery skills.\n\nRogier spent his entire life behaving with utter detachment. No one noticed the anger, grief, regret, or fear that existed along with it.",
+		"chn": "魔法师罗杰尔的旅行装。\n设计有如贵族风格，缀满细腻的装饰。\n能强化辉石魔法的战技。\n\n罗杰尔看似一派从容、不受影响，\n但在那态度底下，愤怒、悲伤、后悔、恐惧──\n其实一直都存在。"
+	},
+	{
+		"id": 130200,
+		"eng": "Glintstone sorcerer Rogier's gloves, graced with an intricate, aristocratic decoration. Strengthen glintstone sorcery skills.\n\nRogier spent his entire life behaving with utter detachment. No one noticed the anger, grief, regret, or fear that existed along with it.",
+		"chn": "魔法师罗杰尔的手套。\n设计有如贵族风格，缀满细腻的装饰。\n能强化辉石魔法的战技。\n\n罗杰尔看似一派从容、不受影响，\n但在那态度底下，愤怒、悲伤、后悔、恐惧──\n其实一直都存在。"
+	},
+	{
+		"id": 130300,
+		"eng": "Glintstone sorcerer Rogier's trousers, graced with an intricate, aristocratic decoration. Strengthen glintstone sorcery skills.\n\nRogier spent his entire life behaving with utter detachment. No one noticed the anger, grief, regret, or fear that existed along with it.",
+		"chn": "魔法师罗杰尔的长裤。\n设计有如贵族风格，缀满细腻的装饰。\n能强化辉石魔法的战技。\n\n罗杰尔看似一派从容、不受影响，\n但在那态度底下，愤怒、悲伤、后悔、恐惧──\n其实一直都存在。"
+	},
+	{
+		"id": 131100,
+		"eng": "Glintstone sorcerer Rogier's traveling attire, graced with an intricate, aristocratic decoration. Strengthens glintstone sorcery skills.\n\nRogier spent his entire life behaving with utter detachment. No one noticed the anger, grief, regret, or fear that existed along with it.",
+		"chn": "魔法师罗杰尔的旅行装。\n设计有如贵族风格，缀满细腻的装饰。\n能强化辉石魔法的战技。\n\n罗杰尔看似一派从容、不受影响，\n但在那态度底下，愤怒、悲伤、后悔、恐惧──\n其实一直都存在。"
+	},
+	{
+		"id": 140000,
+		"eng": "Great Horned Tragoth's helm, adorned with a gold bull-goat motif. Provides high poise.\n\nTragoth is a famed knight of assistance. Countless Tarnished, facing adversity in the Lands Between, have survived thanks only to the Great Horned One's aid.",
+		"chn": "“大角”忒拉格斯的头盔。\n参考金色大山羊的形象制成。\n能提升强韧度。\n\n忒拉格斯是以热心助人闻名的骑士。\n数不尽的褪色者受到大角的帮助，\n成功对抗交界地之中的威胁。"
+	},
+	{
+		"id": 140100,
+		"eng": "Great Horned Tragoth's armor. Covers its wearer with a pair of giant horns, providing staunch poise.\n\nTragoth is a famed knight of assistance. Countless Tarnished, facing adversity in the Lands Between, have survived thanks only to the Great Horned One's aid.",
+		"chn": "“大角”忒拉格斯的铠甲。\n铠甲上有一对巨大的角盖住身体，\n给予坚不可摧的强韧力量。\n\n忒拉格斯是以热心助人闻名的骑士。\n数不尽的褪色者受到大角的帮助，\n成功对抗交界地之中的威胁。"
+	},
+	{
+		"id": 140200,
+		"eng": "Great Horned Tragoth's gauntlets, adorned with a gold bull-goat motif. Provide high poise.\n\nTragoth is a famed knight of assistance. Countless Tarnished, facing adversity in the Lands Between, have survived thanks only to the Great Horned One's aid.",
+		"chn": "“大角”忒拉格斯的臂甲。\n参考金色大山羊的形象制成。\n能提升强韧度。\n\n忒拉格斯是以热心助人闻名的骑士。\n数不尽的褪色者受到大角的帮助，\n成功对抗交界地之中的威胁。"
+	},
+	{
+		"id": 140300,
+		"eng": "Great Horned Tragoth's greaves, adorned with a gold bull-goat motif. Provide high poise.\n\nTragoth is a famed knight of assistance. Countless Tarnished, facing adversity in the Lands Between, have survived thanks only to the Great Horned One's aid.",
+		"chn": "“大角”忒拉格斯的腿甲。\n参考金色大山羊的形象制成。\n能提升强韧度。\n\n忒拉格斯是以热心助人闻名的骑士。\n数不尽的褪色者受到大角的帮助，\n成功对抗交界地之中的威胁。"
+	},
+	{
+		"id": 150000,
+		"eng": "Iron kasa of the man who calls himself Shabriri.\nCrafted to imitate the woven straw hats worn in the Land of Reeds.\n\nThe man, once known as Yura, kept a woman in the deepest reaches of his heart.",
+		"chn": "自称夏玻利利的男人穿戴的铁笠帽。\n模仿芦苇之地的笠帽制成的防具。\n\n那男人在过去被称为尤拉，\n他的心底深处有一名女性的身影。"
+	},
+	{
+		"id": 150100,
+		"eng": "Armor of the man who calls himself Shabriri.\nHighly functional and heavily worn.\n\nThe man, once known as Yura, kept a woman in the deepest reaches of his heart.",
+		"chn": "自称夏玻利利的男人穿戴的铠甲。\n经过长久使用，适用于战斗的防具。\n\n那男人在过去被称为尤拉，\n他的心底深处有一名女性的身影。"
+	},
+	{
+		"id": 150200,
+		"eng": "Gauntlets of the man who calls himself Shabriri.\nHighly functional and heavily worn.\n\nThe man, once known as Yura, kept a woman in the deepest reaches of his heart.",
+		"chn": "自称夏玻利利的男人穿戴的臂甲。\n经过长久使用，适用于战斗的防具。\n\n那男人在过去被称为尤拉，\n他的心底深处有一名女性的身影。"
+	},
+	{
+		"id": 150300,
+		"eng": "Greaves of the man who calls himself Shabriri.\nHighly functional and heavily worn.\n\nThe man, once known as Yura, kept a woman in the deepest reaches of his heart.",
+		"chn": "自称夏玻利利的男人穿戴的腿甲。\n经过长久使用，适用于战斗的防具。\n\n那男人在过去被称为尤拉，\n他的心底深处有一名女性的身影。"
+	},
+	{
+		"id": 151100,
+		"eng": "Armor of the man who calls himself Shabriri.\nHighly functional and heavily worn.\n\nThe man, once known as Yura, kept a woman in the deepest reaches of his heart.",
+		"chn": "自称夏玻利利的男人穿戴的铠甲。\n经过长久使用，适用于战斗的防具。\n\n那男人在过去被称为尤拉，\n他的心底深处有一名女性的身影。"
+	},
+	{
+		"id": 160000,
+		"eng": "Coarse hooded cloak of olive brown.\n\nThe garb of those accused of lesser crimes, indicated by the collar of sharpened branches.",
+		"chn": "粗糙的黄褐色附帽斗篷。\n\n犯下轻罪的人穿戴的防具。\n脖子上的尖刺树枝项圈，\n就是犯下轻罪的证明。"
+	},
+	{
+		"id": 160100,
+		"eng": "Clothing made of coarse material, commonly worn in the Lands Between.",
+		"chn": "粗糙的布质上衣。\n在交界地极为常见的防具。"
+	},
+	{
+		"id": 160200,
+		"eng": "Arm wraps made of coarse material.\nGarb of spurned Tarnished who were\nforced into slavery in the Lands Between.",
+		"chn": "粗糙的布质腕带。\n不受赐福的褪色者\n在交界地为奴时的装扮。"
+	},
+	{
+		"id": 160300,
+		"eng": "Trousers made of coarse material, commonly worn in the Lands Between.",
+		"chn": "粗糙的布质长裤。\n在交界地极为常见的防具。"
+	},
+	{
+		"id": 170000,
+		"eng": "A mask fashioned after the head of a black wolf.\n\nRelic of an assassin who assumed the guise of Ranni the Witch's loyal shadow. The likeness is striking.",
+		"chn": "参考黑狼头部制成的面具。\n\n在过去，影子一改样貌，\n变成会伤害魔女菈妮的存在后，所留下的遗物。\n看起来栩栩如生。"
+	},
+	{
+		"id": 170100,
+		"eng": "Well-worn black armor of the man-wolf Blaidd.\n\nThe pelt serves as a cape, protecting from cold.\nBlaidd was the blade of Ranni, but the cold bothered him anyway.",
+		"chn": "“半狼”布莱泽的铠甲。\n经过长久使用的黑色骑士盔甲。\n\n铠甲上有毛皮斗篷，能抵御冻伤。\n即使作为菈妮的剑，布莱泽还是怕冷……"
+	},
+	{
+		"id": 170200,
+		"eng": "Well-worn black gauntlets of the man-wolf Blaidd.\n\nBlaidd, who served as Ranni's shadow, was a loyal ally who would defy destiny itself if it would have him turn upon his Lady.",
+		"chn": "“半狼”布莱泽的臂甲。\n经过长久使用的黑色骑士盔甲。\n\n布莱泽是菈妮的影子──\n即使背叛命运，也绝不会背叛她。"
+	},
+	{
+		"id": 170300,
+		"eng": "Well-worn black greaves of the man-wolf Blaidd.\n\nBlaidd, who served as Ranni's shadow, was a loyal ally who would defy destiny itself if it would have him turn upon his Lady.",
+		"chn": "“半狼”布莱泽的腿甲。\n经过长久使用的黑色骑士盔甲。\n\n布莱泽是菈妮的影子──\n即使背叛命运，也绝不会背叛她。"
+	},
+	{
+		"id": 171100,
+		"eng": "Well-worn black armor of the man-wolf Blaidd.\n\nBlaidd, who served as Ranni's shadow, was a loyal ally who would defy destiny itself if it would have him turn upon his Lady.",
+		"chn": "“半狼”布莱泽的铠甲。\n经过长久使用的黑色骑士盔甲。\n\n布莱泽是菈妮的影子──\n即使背叛命运，也绝不会背叛她。"
+	},
+	{
+		"id": 180000,
+		"eng": "Hood used by the Black Knife Assassins.\n\nThe assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself.",
+		"chn": "黑刀刺客们穿戴的风帽。\n\n在阴谋之夜动手暗杀的刺客们皆是女性。\n也有一种说法，据说那些女性\n和玛莉卡是类似存在──都是稀人。"
+	},
+	{
+		"id": 180100,
+		"eng": "Scale armor used by the Black Knife Assassins, forged to make no sound.\n\nTraces of power yet remain in its concealing veil, which muffles the sound of footsteps.\n\nThe assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself.",
+		"chn": "黑刀刺客们穿戴的铠甲。\n不会发出声音的鳞甲。\n\n隐身面纱还留有些许力量，\n能降低脚步声的声响。\n\n在阴谋之夜动手暗杀的刺客们皆是女性。\n也有一种说法，据说那些女性\n和玛莉卡是类似存在──都是稀人。"
+	},
+	{
+		"id": 180200,
+		"eng": "Gauntlets used by the Black Knife Assassins.\nCrafted with scale armor that makes no sound.\n\nThe assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself.",
+		"chn": "黑刀刺客们穿戴的臂甲。\n不会发出声音的鳞甲。\n\n在阴谋之夜动手暗杀的刺客们皆是女性。\n也有一种说法，据说那些女性\n和玛莉卡是类似存在──都是稀人。"
+	},
+	{
+		"id": 180300,
+		"eng": "Greaves used by the Black Knife Assassins.\nCrafted with scale armor that makes no sound.\n\nThe assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself.",
+		"chn": "黑刀刺客们穿戴的腿甲。\n不会发出声音的鳞甲。\n\n在阴谋之夜动手暗杀的刺客们皆是女性。\n也有一种说法，据说那些女性\n和玛莉卡是类似存在──都是稀人。"
+	},
+	{
+		"id": 181100,
+		"eng": "Armor used by the Black Knife Assassins.\nCrafted with scale armor that makes no sound.\n\nThe assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself.",
+		"chn": "黑刀刺客们穿戴的铠甲。\n不会发出声音的鳞甲。\n\n在阴谋之夜动手暗杀的刺客们皆是女性。\n也有一种说法，据说那些女性\n和玛莉卡是类似存在──都是稀人。"
+	},
+	{
+		"id": 190000,
+		"eng": "Deep red hood that covers the whole head.\n\nWorn by soldiers sent to the penal colonies, who were required to keep their faces hidden.",
+		"chn": "用来盖住头部的深红色风帽。\n送往流刑地的士兵们穿戴的防具。\n\n他们不被允许露出颜面。"
+	},
+	{
+		"id": 190100,
+		"eng": "Damaged armor draped with a large deep-red cloth.\nWorn by soldiers sent to the penal colonies.",
+		"chn": "布满伤痕的铠甲，表面盖着大片深红色布料。\n送往流刑地的士兵们穿戴的防具。"
+	},
+	{
+		"id": 190200,
+		"eng": "Damaged iron gauntlets.\nWorn by soldiers sent to the penal colonies.",
+		"chn": "布满伤痕的铁制臂甲。\n送往流刑地的士兵们穿戴的防具。"
+	},
+	{
+		"id": 190300,
+		"eng": "Damaged iron greaves.\nWorn by soldiers sent to the penal colonies.",
+		"chn": "布满伤痕的铁制腿甲。\n送往流刑地的士兵们穿戴的防具。"
+	},
+	{
+		"id": 200000,
+		"eng": "Thick, full set of armor covering the entire body.\nThis helm was worn by knights who, whether by misfortune or misdeed, were forced to abandon their homes.\n\nPerhaps the deep-red scarf was used to block the winds, for on the outskirts, the winds bite with a stinging fierceness.",
+		"chn": "基于某种理由或罪刑，\n因此失去故乡的失乡骑士们穿戴的头盔。\n为保护全身的厚重盔甲。\n\n深红色的披肩带可能是用于挡风，\n毕竟边境的风寒冷刺骨。"
+	},
+	{
+		"id": 200100,
+		"eng": "Thick, full set of armor covering the entire body.\nThis armor was worn by knights who, whether by misfortune or misdeed, were forced to abandon their homes.\n\nThese fierce warriors were each and all accomplished. Perhaps that is why, despite their territorial losses, they were still named knights.",
+		"chn": "基于某种理由或罪刑，\n因此失去故乡的失乡骑士们穿戴的铠甲。\n为保护全身的厚重盔甲。\n\n过去的他们各个都是万夫莫敌的猛将，\n也因此即使失去故乡，也能受封骑士。"
+	},
+	{
+		"id": 200200,
+		"eng": "Thick, full set of armor covering the entire body.\nThese gauntlets were worn by knights who, whether by misfortune or misdeed, were forced to abandon their homes.\n\nThese fierce warriors were each and all accomplished. Perhaps that is why, despite their territorial losses, they were still named knights.",
+		"chn": "基于某种理由或罪刑，\n因此失去故乡的失乡骑士们穿戴的臂甲。\n为保护全身的厚重盔甲。\n\n过去的他们各个都是万夫莫敌的猛将，\n也因此即使失去故乡，也能受封骑士。"
+	},
+	{
+		"id": 200300,
+		"eng": "Thick, full set of armor covering the entire body.\nThese greaves were worn by knights who, whether by misfortune or misdeed, were forced to abandon their homes.\n\nThese fierce warriors were each and all accomplished. Perhaps that is why, despite their territorial losses, they were still named knights.",
+		"chn": "基于某种理由或罪刑，\n因此失去故乡的失乡骑士们穿戴的腿甲。\n为保护全身的厚重盔甲。\n\n过去的他们各个都是万夫莫敌的猛将，\n也因此即使失去故乡，也能受封骑士。"
+	},
+	{
+		"id": 201000,
+		"eng": "Thick, full set of armor covering the entire body.\nThis helm was worn by knights who, whether by misfortune or misdeed, were forced to abandon their homes.\n\nThese fierce warriors were each and all accomplished. Perhaps that is why, despite their territorial losses, they were still named knights.",
+		"chn": "基于某种理由或罪刑，\n因此失去故乡的失乡骑士们穿戴的头盔。\n为保护全身的厚重盔甲。\n\n过去的他们各个都是万夫莫敌的猛将，\n也因此即使失去故乡，也能受封骑士。"
+	},
+	{
+		"id": 201100,
+		"eng": "Thick, full set of armor covering the entire body.\nThis armor was worn by knights who, whether by misfortune or misdeed, were forced to abandon their homes.\n\nThese fierce warriors were each and all accomplished. Perhaps that is why, despite their territorial losses, they were still named knights.",
+		"chn": "基于某种理由或罪刑，\n因此失去故乡的失乡骑士们穿戴的铠甲。\n为保护全身的厚重盔甲。\n\n过去的他们各个都是万夫莫敌的猛将，\n也因此即使失去故乡，也能受封骑士。"
+	},
+	{
+		"id": 210000,
+		"eng": "Battered iron helm from a foreign land.\nWorn by Elemer of the Briar.\n\nThe winding, rusted iron briars are a mark of the guilty, and typically indicate a sentence of death.\nElemer murdered numerous instructors and merchants, and was known as the Bell Bearing Hunter.",
+		"chn": "快要毁坏的异国铁制头盔。\n“铁棘”艾隆梅尔的防具。\n\n头盔上缠绕的生锈铁棘\n是罪人之中，代表死囚的象征。\n艾隆梅尔杀害了无数老师、商人，\n以铃珠猎人身分受人畏惧。"
+	},
+	{
+		"id": 210100,
+		"eng": "Battered iron armor from a foreign land.\nWorn by Elemer of the Briar.\n\nThe winding, rusted iron briars are a mark of the guilty, and typically indicate a sentence of death.\nElemer murdered numerous instructors and merchants, and was known as the Bell Bearing Hunter.",
+		"chn": "快要毁坏的异国铁制铠甲。\n“铁棘”艾隆梅尔的防具。\n\n铠甲上缠绕的生锈铁棘\n是罪人之中，代表死囚的象征。\n艾隆梅尔杀害了无数老师、商人，\n以铃珠猎人身分受人畏惧。"
+	},
+	{
+		"id": 210200,
+		"eng": "Battered gauntlets from a foreign land.\nWorn by Elemer of the Briar.\n\nThe winding, rusted iron briars are a mark of the guilty, and typically indicate a sentence of death.\nElemer murdered numerous instructors and merchants, and was known as the Bell Bearing Hunter.",
+		"chn": "快要毁坏的异国铁制臂甲。\n“铁棘”艾隆梅尔的防具。\n\n臂甲上缠绕的生锈铁棘\n是罪人之中，代表死囚的象征。\n艾隆梅尔杀害了无数老师、商人，\n以铃珠猎人身分受人畏惧。"
+	},
+	{
+		"id": 210300,
+		"eng": "Battered greaves from a foreign land.\nWorn by Elemer of the Briar.\n\nThe winding, rusted iron briars are a mark of the guilty, and typically indicate a sentence of death.\nElemer murdered numerous instructors and merchants, and was known as the Bell Bearing Hunter.",
+		"chn": "快要毁坏的异国铁制腿甲。\n“铁棘”艾隆梅尔的防具。\n\n腿甲上缠绕的生锈铁棘\n是罪人之中，代表死囚的象征。\n艾隆梅尔杀害了无数老师、商人，\n以铃珠猎人身分受人畏惧。"
+	},
+	{
+		"id": 211100,
+		"eng": "Battered iron armor from a foreign land.\nWorn by Elemer of the Briar.\n\nThe winding, rusted iron briars are a mark of the guilty, and typically indicate a sentence of death.\nElemer murdered numerous instructors and merchants, and was known as the Bell Bearing Hunter.",
+		"chn": "快要毁坏的异国铁制铠甲。\n“铁棘”艾隆梅尔的防具。\n\n铠甲上缠绕的生锈铁棘\n是罪人之中，代表死囚的象征。\n艾隆梅尔杀害了无数老师、商人，\n以铃珠猎人身分受人畏惧。"
+	},
+	{
+		"id": 220000,
+		"eng": "Hood worn by pages who serve the nobility and are mindful to keep them out of harm's way.\n\nThe unassuming sack-like appearance befits their unseen and unknown stature.",
+		"chn": "侍奉权贵、保护主人的随从们穿戴的风帽。\n\n形似麻布袋的风帽，是无名者的象征。"
+	},
+	{
+		"id": 220100,
+		"eng": "Garb worn by pages who serve the nobility and are mindful to keep them out of harm's way.\n\nTraveling wear tailored with exquisite precision, to avoid any undue shame for the page's master.",
+		"chn": "侍奉权贵、保护主人的随从们穿戴的上衣。\n\n制作得颇为优质的旅行服装，\n为的是不失体面。"
+	},
+	{
+		"id": 220300,
+		"eng": "Trousers worn by pages who serve the nobility and are mindful to keep them out of harm's way.\n\nTraveling wear tailored with exquisite precision, to avoid any undue shame for the page's master.",
+		"chn": "侍奉权贵、保护主人的随从们穿戴的长裤。\n\n制作得颇为优质的旅行服装，\n为的是不失体面。"
+	},
+	{
+		"id": 221100,
+		"eng": "Garb worn by pages who serve the nobility and are mindful to keep them out of harm's way.\n\nTraveling wear tailored with exquisite precision, to avoid any undue shame for the page's master.",
+		"chn": "侍奉权贵、保护主人的随从们穿戴的上衣。\n\n制作得颇为优质的旅行服装，\n为的是不失体面。"
+	},
+	{
+		"id": 230000,
+		"eng": "Pitch-black helm with flowing black hair.\nWorn by the Night's Cavalry who ride funeral steeds.\n\nThe Night's Cavalry, who now wander the dim roads of night, were once led by the Fell Omen and were deliverers of death for great warriors, knights, and champions.",
+		"chn": "黑发飘扬的漆黑头盔。\n骑着送葬马的黑夜骑兵们穿戴的防具。\n\n夜幕低垂，于大道徘徊的骑兵们，\n在过去由“恶兆妖鬼”率领作战，\n是所有战士、骑士，以及英雄的死神。"
+	},
+	{
+		"id": 230100,
+		"eng": "Pitch-black armor thinly painted with dried blood.\nWorn by the Night's Cavalry who ride funeral steeds.\n\nThe Night's Cavalry, who now wander the dim roads of night, were once led by the Fell Omen and were deliverers of death for great warriors, knights, and champions.",
+		"chn": "表面有着淡淡血迹的漆黑铠甲。\n骑着送葬马的黑夜骑兵们穿戴的防具。\n\n夜幕低垂，于大道徘徊的骑兵们，\n在过去由“恶兆妖鬼”率领作战，\n是所有战士、骑士，以及英雄的死神。"
+	},
+	{
+		"id": 230200,
+		"eng": "Pitch-black gauntlets thinly painted with dried blood.\nWorn by the Night's Cavalry who ride funeral steeds.\n\nThe Night's Cavalry, who now wander the dim roads of night, were once led by the Fell Omen and were deliverers of death for great warriors, knights, and champions.",
+		"chn": "表面有着淡淡血迹的漆黑臂甲。\n骑着送葬马的黑夜骑兵们穿戴的防具。\n\n夜幕低垂，于大道徘徊的骑兵们，\n在过去由“恶兆妖鬼”率领作战，\n是所有战士、骑士，以及英雄的死神。"
+	},
+	{
+		"id": 230300,
+		"eng": "Pitch-black greaves thinly painted with dried blood.\nWorn by the Night's Cavalry who ride funeral steeds.\n\nThe Night's Cavalry, who now wander the dim roads of night, were once led by the Fell Omen and were deliverers of death for great warriors, knights, and champions.",
+		"chn": "表面有着淡淡血迹的漆黑腿甲。\n骑着送葬马的黑夜骑兵们穿戴的防具。\n\n夜幕低垂，于大道徘徊的骑兵们，\n在过去由“恶兆妖鬼”率领作战，\n是所有战士、骑士，以及英雄的死神。"
+	},
+	{
+		"id": 231000,
+		"eng": "Pitch-black helm thinly painted with dried blood.\nWorn by the Night's Cavalry who ride funeral steeds.\n\nThe Night's Cavalry, who now wander the dim roads of night, were once led by the Fell Omen and were deliverers of death for great warriors, knights, and champions.",
+		"chn": "表面有着淡淡血迹的漆黑头盔。\n骑着送葬马的黑夜骑兵们穿戴的防具。\n\n夜幕低垂，于大道徘徊的骑兵们。\n在过去由“恶兆妖鬼”率领作战，\n是所有战士、骑士，以及英雄的死神。"
+	},
+	{
+		"id": 231100,
+		"eng": "Pitch-black armor thinly painted with dried blood.\nWorn by the Night's Cavalry who ride funeral steeds.\n\nThe Night's Cavalry, who now wander the dim roads of night, were once led by the Fell Omen and were deliverers of death for great warriors, knights, and champions.",
+		"chn": "表面有着淡淡血迹的漆黑铠甲。\n骑着送葬马的黑夜骑兵们穿戴的防具。\n\n夜幕低垂，于大道徘徊的骑兵们，\n在过去由“恶兆妖鬼”率领作战，\n是所有战士、骑士，以及英雄的死神。"
+	},
+	{
+		"id": 240000,
+		"eng": "Chainmail hood crafted with blue silver.\nWorn by the wolf-riding Albinauric archers.\n\nBlue silver is a metal born from the same mother as the archers themselves, and provides protection from magic and frost.",
+		"chn": "以苍银编成的锁子风帽。\n骑在狼的背上的白金之子射手们的防具。\n\n苍银是与她们系出同源的金属，\n具有抵御魔力属性以及冻伤的效果。"
+	},
+	{
+		"id": 240100,
+		"eng": "Chainmail armor crafted with blue silver.\nWorn by the wolf-riding Albinauric archers.\n\nBlue silver is a metal born from the same mother as the archers themselves, and provides protection from magic and frost.",
+		"chn": "以苍银编成的锁子铠甲。\n骑在狼的背上的白金之子射手们的防具。\n\n苍银是与她们系出同源的金属，\n具有抵御魔力属性以及冻伤的效果。"
+	},
+	{
+		"id": 240200,
+		"eng": "Bracelets crafted with blue silver.\nWorn by the wolf-riding Albinauric archers.\n\nBlue silver is a metal born from the same mother as the archers themselves, and provides protection from magic and frost.",
+		"chn": "以苍银制成的手环。\n骑在狼的背上的白金之子射手们的防具。\n\n苍银是与她们系出同源的金属，\n具有抵御魔力属性以及冻伤的效果。"
+	},
+	{
+		"id": 240300,
+		"eng": "Chainmail skirt crafted with blue silver.\nWorn by the wolf-riding Albinauric archers.\n\nBlue silver is a metal born from the same mother as the archers themselves, and provides protection from magic and frost.",
+		"chn": "以苍银编成的锁子长裙。\n骑在狼的背上的白金之子射手们的防具。\n\n苍银是与她们系出同源的金属，\n具有抵御魔力属性以及冻伤的效果。"
+	},
+	{
+		"id": 241100,
+		"eng": "Chainmail armor crafted with blue silver.\nWorn by the wolf-riding Albinauric archers.\n\nBlue silver is a metal born from the same mother as the archers themselves, and provides protection from magic and frost.",
+		"chn": "以苍银编成的锁子铠甲。\n骑在狼的背上的白金之子射手们的防具。\n\n苍银是与她们系出同源的金属，\n具有抵御魔力属性以及冻伤的效果。"
+	},
+	{
+		"id": 250000,
+		"eng": "Chapeau of the nomadic merchants.\nDecorated with tiny gems in a wide spectrum of colors.\n\nThese merchants once thrived as the Great Caravan, but after being accused of heretical beliefs, their entire clan was rounded up and buried alive far underground.\n\nThen, they chanted a curse of despair, and summoned the flame of frenzy.",
+		"chn": "流放民族的商人穿戴的帽子。\n色彩缤纷，表面缀以小颗宝石。\n\n在过去，以大商队活跃一时的商人们，\n被怀疑与异教相关，整个民族受到逮捕，\n活埋地底深处。\n\n因此他们发出绝望的诅咒，召唤了癫火。"
+	},
+	{
+		"id": 250100,
+		"eng": "Finery of the nomadic merchants.\nDecorated with tiny gems in a wide spectrum of colors.\n\nThese merchants once thrived as the Great Caravan, but after being accused of heretical beliefs, their entire clan was rounded up and buried alive far underground.\n\nThen, they chanted a curse of despair, and summoned the flame of frenzy.",
+		"chn": "流放民族的商人穿戴的上衣。\n色彩缤纷，表面缀以小颗宝石。\n\n在过去，以大商队活跃一时的商人们，\n被怀疑与异教相关，整个民族受到逮捕，\n活埋地底深处。\n\n因此他们发出绝望的诅咒，召唤了癫火。"
+	},
+	{
+		"id": 250300,
+		"eng": "Trousers of the nomadic merchants.\n\nThese merchants once thrived as the Great Caravan, but after being accused of heretical beliefs, their entire clan was rounded up and buried alive far underground.\n\nThen, they chanted a curse of despair, and summoned the flame of frenzy.",
+		"chn": "流放民族的商人穿戴的长裤。\n\n在过去，以大商队活跃一时的商人们，\n被怀疑与异教相关，整个民族受到逮捕，\n活埋地底深处。\n\n因此他们发出绝望的诅咒，召唤了癫火。"
+	},
+	{
+		"id": 251100,
+		"eng": "Finery of the nomadic merchants.\nDecorated with tiny gems in a wide spectrum of colors.\n\nThese merchants once thrived as the Great Caravan, but after being accused of heretical beliefs, their entire clan was rounded up and buried alive far underground.\n\nThen, they chanted a curse of despair, and summoned the flame of frenzy.",
+		"chn": "流放民族的商人穿戴的上衣。\n色彩缤纷，表面缀以小颗宝石。\n\n在过去，以大商队活跃一时的商人们，\n被怀疑与异教相关，整个民族受到逮捕，\n活埋地底深处。\n\n因此他们发出绝望的诅咒，召唤了癫火。"
+	},
+	{
+		"id": 260000,
+		"eng": "A malformed golden helm.\nAdorned with various dragon imagery and worn by the misshapen Tree Sentinels.\n\nAfter the great ancient dragon Gransax attacked, the sentinels had an epiphany. The only way to truly protect the Erdtree was to become dragons themselves.",
+		"chn": "以黄金制成的歪扭头盔。\n表面布满龙之百相，\n异形大树守卫穿戴的防具。\n\n在大古龙来袭之后，他们彻底明白──\n想要继续保护黄金树，\n唯一的方法就是自己化为龙。"
+	},
+	{
+		"id": 260100,
+		"eng": "Malformed golden armor.\nAdorned with various dragon imagery and worn by the misshapen Tree Sentinels.\n\nAfter the great ancient dragon Gransax attacked, the sentinels had an epiphany. The only way to truly protect the Erdtree was to become dragons themselves.",
+		"chn": "以黄金制成的歪扭铠甲。\n表面布满龙之百相，\n异形大树守卫穿戴的防具。\n\n在大古龙来袭之后，他们彻底明白──\n想要继续保护黄金树，\n唯一的方法就是自己化为龙。"
+	},
+	{
+		"id": 260200,
+		"eng": "Malformed golden gauntlets.\nAdorned with various dragon imagery and worn by the misshapen Tree Sentinels.\n\nAfter the great ancient dragon Gransax attacked, the sentinels had an epiphany. The only way to truly protect the Erdtree was to become dragons themselves.",
+		"chn": "以黄金制成的歪扭臂甲。\n表面布满龙之百相，\n异形大树守卫穿戴的防具。\n\n在大古龙来袭之后，他们彻底明白──\n想要继续保护黄金树，\n唯一的方法就是自己化为龙。"
+	},
+	{
+		"id": 260300,
+		"eng": "Malformed golden greaves.\nAdorned with various dragon imagery and worn by the misshapen Tree Sentinels.\n\nAfter the great ancient dragon Gransax attacked, the sentinels had an epiphany. The only way to truly protect the Erdtree was to become dragons themselves.",
+		"chn": "以黄金制成的歪扭腿甲。\n表面布满龙之百相，\n异形大树守卫穿戴的防具。\n\n在大古龙来袭之后，他们彻底明白──\n想要继续保护黄金树，\n唯一的方法就是自己化为龙。"
+	},
+	{
+		"id": 270000,
+		"eng": "Golden helm of the heavy cavalry Tree Sentinels who serve the Erdtree.\n\nVery few are permitted to wear a golden wood crest of such size as seen on this helm.",
+		"chn": "侍奉黄金树的重装骑士──\n大树守卫的黄金制头盔。\n\n头盔上大上一圈的黄金树冠顶饰，\n只有少部分的人能够配戴。"
+	},
+	{
+		"id": 270100,
+		"eng": "Golden armor of the heavy cavalry Tree Sentinels who serve the Erdtree.\n\nAdorned with a cape featuring the mark of the sacred tree.\n\nImposingly sturdy and nigh unbreakable, the grace of old yet lingers.",
+		"chn": "侍奉黄金树的重装骑士──\n大树守卫的黄金制铠甲。\n披着大树图案的斗篷。\n\n厚重得令人吃惊，连带着也相当坚固。\n还残留着过去获得的赐福。"
+	},
+	{
+		"id": 270200,
+		"eng": "Golden gauntlets of the heavy cavalry Tree Sentinels who serve the Erdtree.\n\nImposingly sturdy and nigh unbreakable, the grace of old yet lingers.",
+		"chn": "侍奉黄金树的重装骑士──\n大树守卫的黄金制臂甲。\n\n厚重得令人吃惊，连带着也相当坚固。\n还残留着过去获得的赐福。"
+	},
+	{
+		"id": 270300,
+		"eng": "Golden greaves of the heavy cavalry Tree Sentinels who serve the Erdtree.\n\nImposingly sturdy and nigh unbreakable, the grace of old yet lingers.",
+		"chn": "侍奉黄金树的重装骑士──\n大树守卫的黄金制腿甲。\n\n厚重得令人吃惊，连带着也相当坚固。\n还残留着过去获得的赐福。"
+	},
+	{
+		"id": 271100,
+		"eng": "Golden armor of the heavy cavalry Tree Sentinels who serve the Erdtree.\n\nImposingly sturdy and nigh unbreakable, the grace of old yet lingers.",
+		"chn": "侍奉黄金树的重装骑士──\n大树守卫的黄金制铠甲。\n\n厚重得令人吃惊，连带着也相当坚固。\n还残留着过去获得的赐福。"
+	},
+	{
+		"id": 280000,
+		"eng": "Silver helm of Loretta, a knight who served Miquella's Haligtree.\n\nLoretta, once a royal Carian knight, went on a journey in search of a haven for Albinaurics, and determined that the Haligtree was their best chance for eventual salvation.",
+		"chn": "侍奉米凯拉的圣树的骑士──\n罗蕾塔的银铁制头盔。\n\n她在过去曾是卡利亚禁卫骑士，\n为了寻找白金之子的安身之地踏上旅程。\n最后她将希望寄托在圣树的未来。"
+	},
+	{
+		"id": 280100,
+		"eng": "Silver armor of Loretta, a knight who served Miquella's Haligtree.\n\nLoretta was once a royal Carian knight, and her lapis-lazuli blue cape is the emblem of the knightly pride that continues to guide her.",
+		"chn": "侍奉米凯拉的圣树的骑士──\n罗蕾塔的银铁制铠甲。\n\n她在过去曾是卡利亚禁卫骑士，\n直到今日也为此感到骄傲──\n蓝如青金石的斗篷就是证明。"
+	},
+	{
+		"id": 280200,
+		"eng": "Silver gauntlets of Loretta, a knight who served Miquella's Haligtree.\n\nLoretta, once a royal Carian knight, went on a journey in search of a haven for Albinaurics, and determined that the Haligtree was their best chance for eventual salvation.",
+		"chn": "侍奉米凯拉的圣树的骑士──\n罗蕾塔的银铁制臂甲。\n\n她在过去曾是卡利亚禁卫骑士，\n为了寻找白金之子的安身之地踏上旅程。\n最后她将希望寄托在圣树的未来。"
+	},
+	{
+		"id": 280300,
+		"eng": "Silver greaves of Loretta, a knight who served Miquella's Haligtree.\n\nLoretta, once a royal Carian knight, went on a journey in search of a haven for Albinaurics, and determined that the Haligtree was their best chance for eventual salvation.",
+		"chn": "侍奉米凯拉的圣树的骑士──\n罗蕾塔的银铁制腿甲。\n\n她在过去曾是卡利亚禁卫骑士，\n为了寻找白金之子的安身之地踏上旅程。\n最后她将希望寄托在圣树的未来。"
+	},
+	{
+		"id": 281100,
+		"eng": "Silver armor of Loretta, a knight who served Miquella's Haligtree.\n\nLoretta, once a royal Carian knight, went on a journey in search of a haven for Albinaurics, and determined that the Haligtree was their best chance for eventual salvation.",
+		"chn": "侍奉米凯拉的圣树的骑士──\n罗蕾塔的银铁制铠甲。\n\n她在过去曾是卡利亚禁卫骑士，\n为了寻找白金之子的安身之地踏上旅程。\n最后她将希望寄托在圣树的未来。"
+	},
+	{
+		"id": 290000,
+		"eng": "Silk hood worn by the monks of the Eternal City.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的修士们穿戴的丝质风帽。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 290100,
+		"eng": "Armor worn by the monks of the Eternal City, with a silk cape attached.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的修士们穿戴的铠甲。\n披着丝质的斗篷。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 290200,
+		"eng": "Bracelets worn by the monks of the Eternal City.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的修士们穿戴的手环。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 290300,
+		"eng": "Greaves worn by the monks of the Eternal City.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的修士们穿戴的腿甲。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 291000,
+		"eng": "Hood worn by the monks of the Eternal City.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的修士们穿戴的风帽。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 291100,
+		"eng": "Armor worn by the monks of the Eternal City.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的修士们穿戴的铠甲。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 292000,
+		"eng": "Crown worn by swordstresses of the Eternal City.\nThese women are the personal guards of the nightmaidens, and the silk hides their eyes.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的剑士们穿戴的头冠。\n她们是黑夜女巫的卫兵，以丝布遮住了双眼。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 292100,
+		"eng": "Armor worn by swordstresses of the Eternal City.\nThese women are the personal guards of the nightmaidens, and wear silk capes.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的剑士们穿戴的铠甲。\n她们是黑夜女巫的卫兵，披着丝质斗篷。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 293000,
+		"eng": "Twin crowns worn by the nightmaidens of the Eternal City.\nIndicates the highest clerical rank, and hides the eyes with silk.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的黑夜女巫们穿戴的双生冠。\n此为最高阶圣职人员的证明，\n以丝布遮住了双眼。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 293100,
+		"eng": "Armor worn by the nightmaidens of the Eternal City.\nIndicates the highest clerical rank, and includes a silk cape.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的黑夜女巫们穿戴的铠甲。\n此为最高阶圣职人员的证明，披着丝质斗篷。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 294000,
+		"eng": "Crown worn by swordstresses of the Eternal City.\nThe silk eye covering is removed, flaunting convention.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的剑士们穿戴的头冠。\n移除遮眼丝布原本是不被允许的行为。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 294100,
+		"eng": "Armor worn by swordstresses of the Eternal City.\nThese women are the personal guards of the nightmaidens.\n\nLong ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+		"chn": "永恒之城的剑士们穿戴的铠甲。\n她们是黑夜女巫的卫兵。\n\n在遥远过去，诺克斯之民\n触怒无上意志，因此毁灭地底深处。\n他们头顶虚假的夜空，不停等待──\n星星时代、黑夜之王的来临。"
+	},
+	{
+		"id": 300000,
+		"eng": "Headband decorated by a pair of great horns.\nWorn by ancestral follower warriors.\n\nThe ancestral followers keep their distance from the Erdtree, awaiting new buds. They are certain to sprout from their very flesh, and indeed, their souls.",
+		"chn": "附有一对大角的头带。\n祖灵之民的战士穿戴的防具。\n\n远离黄金树的祖灵之民，\n持续等待萌发新芽的时刻──\n从自己的身体，以及灵魂。"
+	},
+	{
+		"id": 300100,
+		"eng": "Raiment fashioned from a bristly pelt.\nWorn by ancestral follower warriors.\n\nThe ancestral followers keep their distance from the Erdtree, awaiting new buds. They are certain to sprout from their very flesh, and indeed, their souls.",
+		"chn": "用硬质毛皮加工制成的上衣。\n祖灵之民的战士穿戴的防具。\n\n远离黄金树的祖灵之民，\n持续等待萌发新芽的时刻──\n从自己的身体，以及灵魂。"
+	},
+	{
+		"id": 300300,
+		"eng": "Leggings fashioned from bristly pelts.\nWorn by ancestral follower warriors.\n\nThe ancestral followers keep their distance from the Erdtree, awaiting new buds. They are certain to sprout from their very flesh, and indeed, their souls.",
+		"chn": "用硬质毛皮缠绕的绑腿。\n祖灵之民的战士穿戴的防具。\n\n远离黄金树的祖灵之民，\n持续等待萌发新芽的时刻──\n从自己的身体，以及灵魂。"
+	},
+	{
+		"id": 301000,
+		"eng": "Headband decorated by a pair of shining horns.\nWorn by ancestral follower shamans.\n\nHorns with buds that also shine are ideal ceremonial items for ancestral worship. Strengthens Ancestral Infant's Head.",
+		"chn": "附有一对发光角的头带。\n祖灵之民的祭司穿戴的防具。\n\n萌发新芽并散发光芒的角，\n是最为接近祖灵的特殊祭祀用具。\n能强化“稚幼祖灵头部”。"
+	},
+	{
+		"id": 301100,
+		"eng": "Raiment fashioned from a bristly pelt.\nWorn by ancestral follower shamans.\n\nThe ancestral followers live a distance from the Erdtree, awaiting new buds. They are certain to sprout from their very flesh, and indeed, their souls.",
+		"chn": "用硬质毛皮加工制成的上衣。\n祖灵之民的祭司穿戴的防具。\n\n远离黄金树的祖灵之民，\n持续等待萌发新芽的时刻──\n从自己的身体，以及灵魂。"
+	},
+	{
+		"id": 301300,
+		"eng": "Leggings fashioned from bristly pelts.\nWorn by ancestral follower shamans.\n\nThe ancestral followers live a distance from the Erdtree, awaiting new buds. They are certain to sprout from their very flesh, and indeed, their souls.",
+		"chn": "用硬质毛皮缠绕的绑腿。\n祖灵之民的祭司穿戴的防具。\n\n远离黄金树的祖灵之民，\n持续等待萌发新芽的时刻──\n从自己的身体，以及灵魂。"
+	},
+	{
+		"id": 310000,
+		"eng": "Bronze helm decorated with innumerable snakes.\nWorn by gladiators who were driven from the colosseum. The wearer becomes a slightly easier target for foes.\n\nThe snake is viewed as a traitor to the Erdtree, and the audience delighted in seeing these bronze effigies beaten and battered.",
+		"chn": "以大量的蛇装饰的青铜制头盔。\n被赶出竞技场的斗士们穿戴的防具。\n会稍微变得容易受敌人攻击。\n\n蛇被视为背叛黄金树的存在，\n因此人们见到它受伤，都会喜上眉梢。"
+	},
+	{
+		"id": 310100,
+		"eng": "Thick, bristly cloak that is the symbol of an underground gravekeeper.\n\nThose who once fought for a living were driven from the colosseum, and becoming guardians of Erdtree Burial.",
+		"chn": "硬质的厚实斗篷。\n身为地下墓地守墓者的证明。\n\n过去以战斗为业的人们，\n被赶出竞技场之后，成为了归树守卫。"
+	},
+	{
+		"id": 310300,
+		"eng": "Greaves encircled by bronze snakes.\nWorn by gladiators who were driven from the colosseum. The wearer becomes a slightly easier target for foes.\n\nThe snake is viewed as a traitor to the Erdtree, and the audience delighted in seeing these bronze effigies beaten and battered.",
+		"chn": "缠上青铜制蛇的腿甲。\n被赶出竞技场的斗士们穿戴的防具。\n会稍微变得容易受敌人攻击。\n\n蛇被视为背叛黄金树的存在，\n因此人们见到它受伤，都会喜上眉梢。"
+	},
+	{
+		"id": 311100,
+		"eng": "Defensive wear encircled by bronze snakes.\nWorn by gladiators who were driven from the colosseum. The wearer becomes a slightly easier target for foes.\n\nThe snake is viewed as a traitor to the Erdtree, and the audience delighted in seeing these bronze effigies beaten and battered.",
+		"chn": "缠上青铜制蛇的防具。\n被赶出竞技场的斗士们穿戴的防具。\n会稍微变得容易受敌人攻击。\n\n蛇被视为背叛黄金树的存在，\n因此人们见到它受伤，都会喜上眉梢。"
+	},
+	{
+		"id": 320000,
+		"eng": "Hood of dyed black cloth featuring gold embroidery.\nWorn by the nobles who serve the Lord of Blood.\n\nKnown to strike from pools of blood, these assassins are missionaries come to share the gospel of accursed blood.",
+		"chn": "黑布上缀以金色刺绣的风帽。\n侍奉鲜血君王的贵族们穿戴的防具。\n\n据说他们会藏身血水滩里偷袭，\n是广传诅咒之血的传教士。"
+	},
+	{
+		"id": 320100,
+		"eng": "Robe of dyed black cloth featuring gold embroidery.\nWorn by the nobles who serve the Lord of Blood.\n\nThe grand metallic pattern on the shoulder is a signifier of the noble rank they intend to claim upon the advent of the new dynasty they are working to install.",
+		"chn": "黑布上缀以金色刺绣的长袍。\n侍奉鲜血君王的贵族们穿戴的防具。\n\n具有奢华金色花纹的披肩，\n据说是即将到来的王朝中，身为贵族的象征。"
+	},
+	{
+		"id": 320300,
+		"eng": "Waistcloth sewn from black cloth.\nWorn by the nobles who serve the Lord of Blood.\n\nKnown to strike from pools of blood, these assassins are missionaries come to share the gospel of accursed blood.",
+		"chn": "以黑布制成的腰巾。\n侍奉鲜血君王的贵族们穿戴的防具。\n\n据说他们会藏身血水滩里偷袭，\n是广传诅咒之血的传教士。"
+	},
+	{
+		"id": 330000,
+		"eng": "Engraved golden mask.\nWorn by the guardians of the Minor Erdtrees.\n\nIn accordance with an ancient pact with the Erdtree, it is said that their deaths led not to destruction, but instead to renewed, eternal life as guardians.",
+		"chn": "表面雕满花纹的黄金面具。\n小黄金树的守卫们穿戴的防具。\n\n受到与黄金树缔结的古老契约影响，\n据说他们死后依旧不灭，是永恒的守卫。"
+	},
+	{
+		"id": 330100,
+		"eng": "Engraved golden garb.\nWorn by the guardians of the Minor Erdtrees.\n\nRaises the HP recovery effects of the Flask of Crimson Tears, but greatly lowers fire damage negation.\n\nIt is said that the blood-red flowers blooming on their backs mark the senescence of their ancient pact. Perhaps the guardians are part tree already.",
+		"chn": "表面雕满花纹的黄金上衣。\n小黄金树的守卫们穿戴的防具。\n\n能提升红露滴圣杯瓶的恢复量，\n但会大幅降低火属性减伤率。\n\n据说在背后绽放的血红花朵，\n是古老契约带来的影响。\n他们有可能已经半化为树。"
+	},
+	{
+		"id": 330200,
+		"eng": "Engraved golden bracers.\nWorn by the guardians of the Minor Erdtrees.\n\nIn accordance with an ancient pact with the Erdtree, it is said that their deaths led not to destruction, but instead to renewed, eternal life as guardians.",
+		"chn": "表面雕满花纹的黄金臂甲。\n小黄金树的守卫们穿戴的防具。\n\n受到与黄金树缔结的古老契约影响，\n据说他们死后依旧不灭，是永恒的守卫。"
+	},
+	{
+		"id": 330300,
+		"eng": "Engraved golden greaves.\nWorn by the guardians of the Minor Erdtrees.\n\nIn accordance with an ancient pact with the Erdtree, it is said that their deaths led not to destruction, but instead to renewed, eternal life as guardians.",
+		"chn": "表面雕满花纹的黄金腿甲。\n小黄金树的守卫们穿戴的防具。\n\n受到与黄金树缔结的古老契约影响，\n据说他们死后依旧不灭，是永恒的守卫。"
+	},
+	{
+		"id": 331100,
+		"eng": "Engraved golden garb.\nWorn by the guardians of the Minor Erdtrees.\n\nIn accordance with an ancient pact with the Erdtree, it is said that their deaths led not to destruction, but instead to renewed, eternal life as guardians.",
+		"chn": "表面雕满花纹的黄金上衣。\n小黄金树的守卫们穿戴的防具。\n\n受到与黄金树缔结的古老契约影响，\n据说他们死后依旧不灭，是永恒的守卫。"
+	},
+	{
+		"id": 340000,
+		"eng": "Winged helm of the Cleanrot Knights, celebrated for their undefeated campaign in the Shattering.\n\nThe Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles the fiercest of all.",
+		"chn": "在破碎战争被誉为战无不败的\n尊腐骑士们穿戴的飞翼头盔。\n\n他们自愿与玛莲妮亚并肩作战，\n接受逐渐步入腐败的后果──\n因此他们的战斗十分壮烈。"
+	},
+	{
+		"id": 340100,
+		"eng": "Armor of the Cleanrot Knights, celebrated for their undefeated campaign in the Shattering.\n\nThe Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles the fiercest of all.",
+		"chn": "在破碎战争被誉为战无不败的\n尊腐骑士们穿戴的铠甲。\n\n他们自愿与玛莲妮亚并肩作战，\n接受逐渐步入腐败的后果──\n因此他们的战斗十分壮烈。"
+	},
+	{
+		"id": 340200,
+		"eng": "Gauntlets of the Cleanrot Knights, celebrated for their undefeated campaign in the Shattering.\n\nThe Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles the fiercest of all.",
+		"chn": "在破碎战争被誉为战无不败的\n尊腐骑士们穿戴的臂甲。\n\n他们自愿与玛莲妮亚并肩作战，\n接受逐渐步入腐败的后果──\n因此他们的战斗十分壮烈。"
+	},
+	{
+		"id": 340300,
+		"eng": "Greaves of the Cleanrot Knights, celebrated for their undefeated campaign in the Shattering.\n\nThe Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles the fiercest of all.",
+		"chn": "在破碎战争被誉为战无不败的\n尊腐骑士们穿戴的腿甲。\n\n他们自愿与玛莲妮亚并肩作战，\n接受逐渐步入腐败的后果──\n因此他们的战斗十分壮烈。"
+	},
+	{
+		"id": 341000,
+		"eng": "Winged helm of the Cleanrot Knights, celebrated for their undefeated campaign in the Shattering.\n\nThe Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles the fiercest of all.",
+		"chn": "在破碎战争被誉为战无不败的\n尊腐骑士们穿戴的飞翼头盔。\n\n他们自愿与玛莲妮亚并肩作战，\n接受逐渐步入腐败的后果──\n因此他们的战斗十分壮烈。"
+	},
+	{
+		"id": 341100,
+		"eng": "Armor of the Cleanrot Knights, celebrated for their undefeated campaign in the Shattering.\n\nThe Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles the fiercest of all.",
+		"chn": "在破碎战争被誉为战无不败的\n尊腐骑士们穿戴的铠甲。\n\n他们自愿与玛莲妮亚并肩作战，\n接受逐渐步入腐败的后果──\n因此他们的战斗十分壮烈。"
+	},
+	{
+		"id": 350000,
+		"eng": "Mail hood of iron links covering a headband\nengraved with flames. Attire of the Fire Monks.\n\nThe Fire Monks are guardians of the flame of ruin, forbidden by the Erdtree and said to be kept high in the Mountaintops of the Giants.",
+		"chn": "在火纹头带上披着锁子头盔，\n火焰习武修士们穿戴的防具。\n\n据说在巨人山顶\n存在着黄金树的禁忌──灰灭火焰。\n而他们是那灰灭火焰的监视者。"
+	},
+	{
+		"id": 350100,
+		"eng": "Black iron armor adorned with a red cloth.\nAttire of the Fire Monks.\n\nThe grotesque face sculpted on the chest is said to depict the corrupt ancient god of the flame.\nTaboos transform into lasting obsessions by virtue of the fear that they inspire.",
+		"chn": "搭配鲜红上衣的黑铁制铠甲。\n火焰习武修士们的防具。\n\n胸铠上的异形脸孔图案，\n据说是源自古老火焰的恶神。\n因为恐惧，禁忌留下更深刻的印象。"
+	},
+	{
+		"id": 350200,
+		"eng": "Black iron gauntlets featuring a flame motif.\nAttire of the Fire Monks.\n\nThe Fire Monks are guardians of the flame of ruin, forbidden by the Erdtree and said to be kept high in the Mountaintops of the Giants.",
+		"chn": "以火纹形象制成的黑铁制臂甲。\n火焰习武修士们穿戴的防具。\n\n据说在巨人山顶\n存在着黄金树的禁忌──灰灭火焰。\n而他们是那灰灭火焰的监视者。"
+	},
+	{
+		"id": 350300,
+		"eng": "Black iron greaves featuring a flame motif.\nAttire of the Fire Monks.\n\nThe Fire Monks are guardians of the flame of ruin, forbidden by the Erdtree and said to be kept high in the Mountaintops of the Giants.",
+		"chn": "以火纹形象制成的黑铁制腿甲。\n火焰习武修士们穿戴的防具。\n\n据说在巨人山顶\n存在着黄金树的禁忌──灰灭火焰。\n而他们是那灰灭火焰的监视者。"
+	},
+	{
+		"id": 351000,
+		"eng": "Mail hood of iron links covering a headband\nengraved with flames. Attire of the Blackflame Monks.\n\nThe Blackflame Monks, enthralled by the god-slaying black flame, became traitors, abandoning their posts as guardians. The seduction of a taboo is never easily spurned.",
+		"chn": "在火纹头带上披着锁子头盔，\n黑焰习武修士们穿戴的防具。\n\n他们对狩猎神祇的黑焰为之倾倒，\n因此舍弃监视者身分，转为叛徒。\n所谓的禁忌，是难以抗拒的诱惑。"
+	},
+	{
+		"id": 351100,
+		"eng": "Black iron armor adorned with ashen cloth.\nAttire of the Blackflame Monks.\n\nThe Blackflame Monks, enthralled by the god-slaying black flame, became traitors, abandoning their posts as guardians. The seduction of a taboo is never easily spurned.",
+		"chn": "搭配灰色上衣的黑铁制铠甲。\n黑焰习武修士们的防具。\n\n他们对狩猎神祇的黑焰为之倾倒，\n因此舍弃监视者身分，转为叛徒。\n所谓的禁忌，是难以抗拒的诱惑。"
+	},
+	{
+		"id": 351200,
+		"eng": "Black iron gauntlets featuring a flame motif.\nAttire of the Blackflame Monks.\n\nThe Blackflame Monks, enthralled by the god-slaying black flame, became traitors, abandoning their posts as guardians. The seduction of a taboo is never easily spurned.",
+		"chn": "以火纹形象制成的黑铁制臂甲。\n黑焰习武修士们穿戴的防具。\n\n他们对狩猎神祇的黑焰为之倾倒，\n因此舍弃监视者身分，转为叛徒。\n所谓的禁忌，是难以抗拒的诱惑。"
+	},
+	{
+		"id": 351300,
+		"eng": "Black iron greaves featuring a flame motif.\nAttire of the Blackflame Monks.\n\nThe Blackflame Monks, enthralled by the god-slaying black flame, became traitors, abandoning their posts as guardians. The seduction of a taboo is never easily spurned.",
+		"chn": "以火纹形象制成的黑铁制腿甲。\n黑焰习武修士们穿戴的防具。\n\n他们对狩猎神祇的黑焰为之倾倒，\n因此舍弃监视者身分，转为叛徒。\n所谓的禁忌，是难以抗拒的诱惑。"
+	},
+	{
+		"id": 360000,
+		"eng": "Helm engraved with a sacred countenance and housing a cauldron.\nAttire of the Fire Prelates, commanders of the Fire Monks.\n\nIt is said the cauldron perched atop the head was originally furnished with embers, and would surge into flames when the wearer's faith reached its zenith. The fire of this cauldron has since died out, however.",
+		"chn": "有着头顶火杯的尊容头盔。\n火焰习武修士们的领导者，\n主教穿戴的防具。\n\n据说头顶的火杯原本有放置火种，\n当虔诚的心到达颠峰时，会冒出滚烫火焰。\n只是那景象已经难以重现。"
+	},
+	{
+		"id": 360100,
+		"eng": "Black iron armor adorned with a red cloth.\nAttire of the Fire Prelates, commanders of the Fire Monks.\n\nThe weighty frames of the Prelates symbolized the onus of their grave vows as guardians of the flame. \"Etch this sight upon thine breast. Of my thunderous gravity.\"",
+		"chn": "搭配鲜红上衣的黑铁制铠甲。\n火焰习武修士们的领导者，\n主教穿戴的防具。\n\n身躯庞大的模样是担下火焰监视者，\n此一重责大任的象征。\n\n　将我等形如盘石的模样，牢记心底了。"
+	},
+	{
+		"id": 360200,
+		"eng": "Black iron gauntlets with the appearance of flames.\nAttire of the Fire Prelates, commanders of the Fire Monks.\n\nThe weighty frames of the Prelates symbolized the onus of their grave vows as guardians of the flame. \"Etch this sight upon thine breast. Of my thunderous gravity.\"",
+		"chn": "以火纹形象制成的黑铁制臂甲。\n火焰习武修士们的领导者，\n主教穿戴的防具。\n\n身躯庞大的模样是担下火焰监视者，\n此一重责大任的象征。\n\n　将我等形如盘石的模样，牢记心底了。"
+	},
+	{
+		"id": 360300,
+		"eng": "Black iron greaves with the appearance of flames.\nAttire of the Fire Prelates, commanders of the Fire Monks.\n\nThe weighty frames of the Prelates symbolized the onus of their grave vows as guardians of the flame. \"Etch this sight upon thine breast. Of my thunderous gravity.\"",
+		"chn": "以火纹形象制成的黑铁制腿甲。\n火焰习武修士们的领导者，\n主教穿戴的防具。\n\n身躯庞大的模样是担下火焰监视者，\n此一重责大任的象征。\n\n　将我等形如盘石的模样，牢记心底了。"
+	},
+	{
+		"id": 361100,
+		"eng": "Black iron armor.\nAttire of the Fire Prelates, commanders of the Fire Monks.\n\nThe weighty frames of the Prelates symbolized the onus of their grave vows as guardians of the flame. \"Etch this sight upon thine breast. Of my thunderous gravity.\"",
+		"chn": "黑铁制的铠甲。\n火焰习武修士们的领导者，\n主教穿戴的防具。\n\n身躯庞大的模样是担下火焰监视者，\n此一重责大任的象征。\n\n　将我等形如盘石的模样，牢记心底了。"
+	},
+	{
+		"id": 370000,
+		"eng": "Valuable headband featuring fine goldwork.\nTravel attire worn by nobles in the capital.\n\nAbandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+		"chn": "缀以黄金雕饰的昂贵头带。\n王城的权贵们的旅行服装。\n\n他们在破碎战争后舍弃了故乡，\n最后变成四处徘徊的长生者，\n活在只剩下不死的长生不老之中。"
+	},
+	{
+		"id": 370100,
+		"eng": "High quality garb adorned with fine golden embroidery.\nTravel attire worn by nobles in the capital. Terribly faded and tattered.\n\nAbandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+		"chn": "缀以细致金色刺绣的优质上衣。\n王城的权贵们的旅行服装。\n受损、褪色得非常严重。\n\n他们在破碎战争后舍弃了故乡，\n最后变成四处徘徊的长生者，\n活在只剩下不死的长生不老之中。"
+	},
+	{
+		"id": 370300,
+		"eng": "Boots made from tanned leather.\nTravel attire worn by nobles in the capital.\n\nAbandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+		"chn": "用皮革鞣制而成的靴子。\n王城的权贵们的旅行服装。\n\n他们在破碎战争后舍弃了故乡，\n最后变成四处徘徊的长生者，\n活在只剩下不死的长生不老之中。"
+	},
+	{
+		"id": 371100,
+		"eng": "High quality garb adorned with fine golden embroidery.\nTravel attire worn by nobles in the capital. Terribly faded and tattered.\n\nAbandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+		"chn": "缀以细致金色刺绣的优质上衣。\n王城的权贵们的旅行服装。\n受损、褪色得非常严重。\n\n他们在破碎战争后舍弃了故乡，\n最后变成四处徘徊的长生者，\n活在只剩下不死的长生不老之中。"
+	},
+	{
+		"id": 380000,
+		"eng": "Leather hat decorated with a withered feather.\nTravel attire worn by nobles in the capital, and the belonging of a family which claims a knight as an ancestor.\n\nAbandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+		"chn": "用稀疏羽毛装饰的皮革帽子。\n王城的权贵们的旅行服装。\n先人挤身骑士之列的家族持有的物品。\n\n他们在破碎战争后舍弃了故乡，\n最后变成四处徘徊的长生者，\n活在只剩下不死的长生不老之中。"
+	},
+	{
+		"id": 380100,
+		"eng": "Tanned leather coat adorned with fine gold embroidery.\nTravel attire worn by nobles in the capital, and the belonging of a family which claims a knight as an ancestor.\n\nAbandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+		"chn": "缀以细致金色刺绣的皮革大衣。\n王城的权贵们的旅行服装。\n先人挤身骑士之列的家族持有的物品。\n\n他们在破碎战争后舍弃了故乡，\n最后变成四处徘徊的长生者，\n活在只剩下不死的长生不老之中。"
+	},
+	{
+		"id": 390000,
+		"eng": "Cowl made of soft cloth.\nTravel attire worn by nobles in the capital. Garb favored by the aged.\n\nAbandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+		"chn": "用柔软布料制作的头巾。\n王城的权贵们的旅行服装。\n常见于年长者穿戴。\n\n他们在破碎战争后舍弃了故乡，\n最后变成四处徘徊的长生者，\n活在只剩下不死的长生不老之中。"
+	},
+	{
+		"id": 390100,
+		"eng": "Gown of soft cloth adorned with fine gold embroidery.\nTravel attire worn by nobles in the capital. Garb favored by the aged.\n\nAbandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+		"chn": "缀以细致金色刺绣的柔软长袍。\n王城的权贵们的旅行服装。\n常见于年长者穿戴。\n\n他们在破碎战争后舍弃了故乡，\n最后变成四处徘徊的长生者，\n活在只剩下不死的长生不老之中。"
+	},
+	{
+		"id": 390300,
+		"eng": "Hard-wearing shoes made of leather.\nTravel attire worn by nobles in the capital. Garb favored by the aged.\n\nAbandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+		"chn": "作工坚固，皮革制的短靴。\n王城的权贵们的旅行服装。\n常见于年长者穿戴。\n\n他们在破碎战争后舍弃了故乡，\n最后变成四处徘徊的长生者，\n活在只剩下不死的长生不老之中。"
+	},
+	{
+		"id": 420000,
+		"eng": "Helm worn by lean, mean, and filthy militiamen.\n\nThe upward extension serves to create an appearance of larger size, however slightly.",
+		"chn": "体型娇小的恶兵们穿戴的骯脏头盔。\n\n为了让自己的身形看起来更大，\n头顶被改造得更为细长。"
+	},
+	{
+		"id": 420100,
+		"eng": "Armor worn by lean, mean, and filthy militiamen.\n\nFreshly-singed battlegrounds effusing with the stench of the dead. Forbidden lands that will be excised from the memory of history. This is where the vulgar militia serve, as untiring, unsung watchkeepers.",
+		"chn": "体型娇小的恶兵们穿戴的骯脏铠甲。\n\n没有人会主动靠近、散发恶臭的战场遗迹，\n或是该被遗忘的禁域──\n恶兵是保护这类地方，无从得到名誉的守卫。"
+	},
+	{
+		"id": 420200,
+		"eng": "Gauntlets worn by lean, mean, and filthy militiamen.\n\nFreshly-singed battlegrounds effusing with the stench of the dead. Forbidden lands that will be excised from the memory of history. This is where the vulgar militia serve, as untiring, unsung watchkeepers.",
+		"chn": "体型娇小的恶兵们穿戴的骯脏臂甲。\n\n没有人会主动靠近、散发恶臭的战场遗迹，\n或是该被遗忘的禁域──\n恶兵是保护这类地方，无从得到名誉的守卫。"
+	},
+	{
+		"id": 420300,
+		"eng": "Greaves worn by lean, mean, and filthy militiamen.\n\nFreshly-singed battlegrounds effusing with the stench of the dead. Forbidden lands that will be excised from the memory of history. This is where the vulgar militia serve, as untiring, unsung watchkeepers.",
+		"chn": "体型娇小的恶兵们穿戴的骯脏腿甲。\n\n没有人会主动靠近、散发恶臭的战场遗迹，\n或是该被遗忘的禁域──\n恶兵是保护这类地方，无从得到名誉的守卫。"
+	},
+	{
+		"id": 430000,
+		"eng": "A burgundy pointed hood.\nAttire of the wise sages who were deemed heretical.\n\nEvidence that the wearer was driven from town.",
+		"chn": "深红色的尖顶风帽。\n为异端智者──贤者们的防具。\n\n也是被赶出城镇的证明。"
+	},
+	{
+		"id": 430100,
+		"eng": "Thick burgundy robe.\nAttire of the wise sages who were deemed heretical.\n\nEvidence that the wearer was driven from town.",
+		"chn": "深红色的厚实长袍。\n为异端智者──贤者们的防具。\n\n也是被赶出城镇的证明。"
+	},
+	{
+		"id": 430300,
+		"eng": "Thick burgundy trousers.\nAttire of the wise sages who were deemed heretical.\n\nEvidence that the wearer was driven from town.",
+		"chn": "深红色的厚实长裤。\n为异端智者──贤者们的防具。\n\n也是被赶出城镇的证明。"
+	},
+	{
+		"id": 440000,
+		"eng": "An oval helm large enough to cover any head.\nVery heavy and very hard.\n\nReduces damage from headshots and impacts.\n\nThe inside of the helm is pitch black, keeping the crazed warrior within from panicking.\nPerhaps its rather roomy interior also helps alleviate feelings of pressure and claustrophobia.",
+		"chn": "完全覆盖头部的椭圆形头盔。\n非常地重，也非常地坚硬。\n\n能减少头部射击造成的损伤与冲击。\n\n戴上头盔后一片漆黑，\n能抑制发狂士兵的恐慌情绪。\n头的侧边预留一些空间，\n为的是消除穿戴时的压迫感。"
+	},
+	{
+		"id": 460000,
+		"eng": "Crown of Godfrey, the first Elden Lord.\n\nThe age of the Erdtree began amongst conflict, when Godfrey was lord of the battlefield.\n\nHe led the War against the Giants. Faced the Storm Lord, alone. And then, there came a moment. When his last worthy enemy fell. And it was then, as the story is told, that the hue of Lord Godfrey's eyes faded.",
+		"chn": "“初始艾尔登之王”葛孚雷的王冠。\n\n在黄金树之始，战争不断，\n因此葛孚雷也是战场之王。\n\n巨人战争时，葛孚雷与风暴王一对一交手……\n当劲敌消失之际，据说王的眼睛也随之褪色。"
+	},
+	{
+		"id": 460100,
+		"eng": "Armor of Godfrey, the first Elden Lord.\n\nThe age of the Erdtree began amongst conflict, when Godfrey was lord of the battlefield.\n\nHe led the War against the Giants. Faced the Storm Lord, alone. And then, there came a moment. When his last worthy enemy fell. And it was then, as the story is told, that the hue of Lord Godfrey's eyes faded.",
+		"chn": "“初始艾尔登之王”葛孚雷的铠甲。\n\n在黄金树之始，战争不断，\n因此葛孚雷也是战场之王。\n\n巨人战争时，葛孚雷与风暴王一对一交手……\n当劲敌消失之际，据说王的眼睛也随之褪色。"
+	},
+	{
+		"id": 460200,
+		"eng": "Bracers of Godfrey, the first Elden Lord.\n\nThe age of the Erdtree began amongst conflict, when Godfrey was lord of the battlefield.\n\nHe led the War against the Giants. Faced the Storm Lord, alone. And then, there came a moment. When his last worthy enemy fell. And it was then, as the story is told, that the hue of Lord Godfrey's eyes faded.",
+		"chn": "“初始艾尔登之王”葛孚雷的臂甲。\n\n在黄金树之始，战争不断，\n因此葛孚雷也是战场之王。\n\n巨人战争时，葛孚雷与风暴王一对一交手……\n当劲敌消失之际，据说王的眼睛也随之褪色。"
+	},
+	{
+		"id": 460300,
+		"eng": "Greaves of Godfrey, the first Elden Lord.\n\nThe age of the Erdtree began amongst conflict, when Godfrey was lord of the battlefield.\n\nHe led the War against the Giants. Faced the Storm Lord, alone. And then, there came a moment. When his last worthy enemy fell. And it was then, as the story is told, that the hue of Lord Godfrey's eyes faded.",
+		"chn": "“初始艾尔登之王”葛孚雷的腿甲。\n\n在黄金树之始，战争不断，\n因此葛孚雷也是战场之王。\n\n巨人战争时，葛孚雷与风暴王一对一交手……\n当劲敌消失之际，据说王的眼睛也随之褪色。"
+	},
+	{
+		"id": 461100,
+		"eng": "Armor of Godfrey, the first Elden Lord.\n\nThe age of the Erdtree began amongst conflict, when Godfrey was lord of the battlefield.\n\nHe led the War against the Giants. Faced the Storm Lord, alone. And then, there came a moment. When his last worthy enemy fell. And it was then, as the story is told, that the hue of Lord Godfrey's eyes faded.",
+		"chn": "“初始艾尔登之王”葛孚雷的铠甲。\n\n在黄金树之始，战争不断，\n因此葛孚雷也是战场之王。\n\n巨人战争时，葛孚雷与风暴王一对一交手……\n当劲敌消失之际，据说王的眼睛也随之褪色。"
+	},
+	{
+		"id": 470000,
+		"eng": "Helm of the golden lion, with flowing red hair.\nWorn by General Radahn.\n\nRadahn inherited the furious, flaming red hair of his father Radagon, and is fond of its heroic implications.\n\n\"I was born a champion's cub. Now I am the Lord of the Battlefield's lion.\"",
+		"chn": "红发飘扬的黄金狮子头盔。\n拉塔恩将军的防具。\n\n拉塔恩的火红头发继承自父亲拉达冈，\n他认为是英雄的象征，感到自豪。\n\n　我正是英雄之子，也是战王的狮子。"
+	},
+	{
+		"id": 470100,
+		"eng": "Armor depicting the golden lion.\nWorn by General Radahn.\n\nThe golden lion is said to symbolize Godfrey, the first Elden Lord, and his beast regent, Serosh. From his youngest years, Radahn was naturally captivated by the Lord of the Battlefield.",
+		"chn": "参考黄金狮子的形象制成的铠甲。\n拉塔恩将军的防具。\n\n据说黄金狮子的由来，是来自“初始之王”葛孚雷\n以及他的“宰相野兽”瑟洛修。\n拉塔恩在年幼时期，就十分崇拜战王。"
+	},
+	{
+		"id": 470200,
+		"eng": "Gauntlets depicting the golden lion.\nWorn by General Radahn.\n\nThe golden lion is said to symbolize Godfrey, the first Elden Lord, and his beast regent, Serosh. From his youngest years, Radahn was naturally captivated by the Lord of the Battlefield.",
+		"chn": "参考黄金狮子的形象制成的臂甲。\n拉塔恩将军的防具。\n\n据说黄金狮子的由来，是来自“初始之王”葛孚雷\n以及他的“宰相野兽”瑟洛修。\n拉塔恩在年幼时期，就十分崇拜战王。"
+	},
+	{
+		"id": 470300,
+		"eng": "Greaves depicting the golden lion.\nWorn by General Radahn.\n\nThe golden lion is said to symbolize Godfrey, the first Elden Lord, and his beast regent, Serosh. From his youngest years, Radahn was naturally captivated by the Lord of the Battlefield.",
+		"chn": "参考黄金狮子的形象制成的腿甲。\n拉塔恩将军的防具。\n\n据说黄金狮子的由来，是来自“初始之王”葛孚雷\n以及他的“宰相野兽”瑟洛修。\n拉塔恩在年幼时期，就十分崇拜战王。"
+	},
+	{
+		"id": 471100,
+		"eng": "Armor depicting the golden lion.\nWorn by General Radahn.\n\nThe golden lion is said to symbolize Godfrey, the first Elden Lord, and his beast regent, Serosh. From his youngest years, Radahn was naturally captivated by the Lord of the Battlefield.",
+		"chn": "参考黄金狮子的形象制成的铠甲。\n拉塔恩将军的防具。\n\n据说黄金狮子的由来，是来自“初始之王”葛孚雷\n以及他的“宰相野兽”瑟洛修。\n拉塔恩在年幼时期，就十分崇拜战王。"
+	},
+	{
+		"id": 480100,
+		"eng": "Attire of Mohg, Lord of Blood, embroidered with an extravagant gold emblem on black cloth.\n\nThe dress of a Luminary, the reigning lord and hierarch of the coming dynasty of Mohgwyn. Or perhaps, of a raving lunatic.",
+		"chn": "黑布上缀以金色奢华设计的上衣。\n“鲜血君王”蒙格的防具。\n\n即将到来的新王朝“蒙格温”之中，\n身为王以及大祭司的证明。\n或者说，这是那漫无止境的妄想证明。"
+	},
+	{
+		"id": 481100,
+		"eng": "Attire of Mohg, Lord of Blood, embroidered with an extravagant gold emblem on black cloth.\n\nThe dress of a Luminary, the reigning lord and hierarch of the coming dynasty of Mohgwyn. Or perhaps, of a raving lunatic.",
+		"chn": "黑布上缀以金色奢华设计的上衣。\n“鲜血君王”蒙格的防具。\n\n即将到来的新王朝“蒙格温”之中，\n身为王以及大祭司的证明。\n或者说，这是那漫无止境的妄想证明。"
+	},
+	{
+		"id": 510000,
+		"eng": "A tall crown depicting the moon.\nWorn by Rennala, Queen of the Full Moon. Increases intelligence.\n\nWhen Rennala, head of both the Academy of Raya Lucaria and the Carian royal family, lost her husband Radagon, her heart went along with him.\n\nAnd then, those at the academy realized. That Rennala was no champion, after all.",
+		"chn": "参考月亮的模样制成的长型头冠。\n“满月女王”蕾娜菈的防具。\n能提升智力。\n\n蕾娜菈身兼魔法学院雷亚卢卡利亚，\n以及卡利亚王室领导者──\n从失去伴侣拉达冈的那一刻起，也失去了心。\n\n随后学院立刻就察觉到，\n蕾娜菈已经不是英雄。"
+	},
+	{
+		"id": 510100,
+		"eng": "Robe indicating the highest order of sorcerer.\nWorn by Rennala, Queen of the Full Moon.\n\nWhen Rennala, head of both the Academy of Raya Lucaria and the Carian royal family, lost her husband Radagon, her heart went along with him.\n\nAnd then, those at the academy realized. That Rennala was no champion, after all.",
+		"chn": "象征最高阶魔法师身分的长袍。\n“满月女王”蕾娜菈的防具。\n\n蕾娜菈身兼魔法学院雷亚卢卡利亚，\n以及卡利亚王室领导者──\n从失去伴侣拉达冈的那一刻起，也失去了心。\n\n随后学院立刻就察觉到，\n蕾娜菈已经不是英雄。"
+	},
+	{
+		"id": 510200,
+		"eng": "Bracelets indicating the highest order of sorcerer.\nWorn by Rennala, Queen of the Full Moon.\n\nWhen Rennala, head of both the Academy of Raya Lucaria and the Carian royal family, lost her husband Radagon, her heart went along with him.\n\nAnd then, those at the academy realized. That Rennala was no champion, after all.",
+		"chn": "象征最高阶魔法师身分的手环。\n“满月女王”蕾娜菈的防具。\n\n蕾娜菈身兼魔法学院雷亚卢卡利亚，\n以及卡利亚王室领导者──\n从失去伴侣拉达冈的那一刻起，也失去了心。\n\n随后学院立刻就察觉到，\n蕾娜菈已经不是英雄。"
+	},
+	{
+		"id": 510300,
+		"eng": "Leggings indicating the highest order of sorcerer.\nWorn by Rennala, Queen of the Full Moon.\n\nWhen Rennala, head of both the Academy of Raya Lucaria and the Carian royal family, lost her husband Radagon, her heart went along with him.\n\nAnd then, those at the academy realized. That Rennala was no champion, after all.",
+		"chn": "象征最高阶魔法师身分的长裤。\n“满月女王”蕾娜菈的防具。\n\n蕾娜菈身兼魔法学院雷亚卢卡利亚，\n以及卡利亚王室领导者──\n从失去伴侣拉达冈的那一刻起，也失去了心。\n\n随后学院立刻就察觉到，\n蕾娜菈已经不是英雄。"
+	},
+	{
+		"id": 520000,
+		"eng": "Hood made by sewing together patches of smooth skin.\nWorn by the Godskin Apostles.\n\nThe apostles, once said to serve Destined Death, are wielders of the god-slaying black flame. But after their defeat by Maliketh, the Black Blade, the source of their power was sealed away.",
+		"chn": "以平滑的皮肤拼制缝成的风帽。\n神皮使徒们穿戴的防具。\n\n使徒们操控着狩猎神祇的黑焰，\n据说在过去，他们侍奉命定之死。\n然而当他们败给了“黑剑”玛利喀斯，\n命定之死也受到了封印。"
+	},
+	{
+		"id": 520100,
+		"eng": "Robe made by sewing together patches of smooth skin.\nWorn by the Godskin Apostles.\n\nThe apostles, once said to serve Destined Death, are wielders of the god-slaying black flame. But after their defeat by Maliketh, the Black Blade, the source of their power was sealed away.",
+		"chn": "以平滑的皮肤拼制缝成的长袍。\n神皮使徒们穿戴的防具。\n\n使徒们操控着狩猎神祇的黑焰，\n据说在过去，他们侍奉命定之死。\n然而当他们败给了“黑剑”玛利喀斯，\n命定之死也受到了封印。"
+	},
+	{
+		"id": 520200,
+		"eng": "Black bracelets of the Godskin Apostles.\n\nThe apostles, once said to serve Destined Death, are wielders of the god-slaying black flame. But after their defeat by Maliketh, the Black Blade, the source of their power was sealed away.",
+		"chn": "神皮使徒们穿戴的黑色手环。\n\n使徒们操控着狩猎神祇的黑焰，\n据说在过去，他们侍奉命定之死。\n然而当他们败给了“黑剑”玛利喀斯，\n命定之死也受到了封印。"
+	},
+	{
+		"id": 520300,
+		"eng": "Trousers made by sewing together patches of smooth skin.\nWorn by the Godskin Apostles.\n\nThe apostles, once said to serve Destined Death, are wielders of the god-slaying black flame. But after their defeat by Maliketh, the Black Blade, the source of their power was sealed away.",
+		"chn": "以平滑的皮肤拼制缝成的长裤。\n神皮使徒们穿戴的防具。\n\n使徒们操控着狩猎神祇的黑焰，\n据说在过去，他们侍奉命定之死。\n然而当他们败给了“黑剑”玛利喀斯，\n命定之死也受到了封印。"
+	},
+	{
+		"id": 530000,
+		"eng": "Hood made by sewing together patches of smooth skin.\nSubcutaneous fat makes it plump and soft.\nWorn by Godskin Nobles.\n\nNobles are the most ancient apostles who are said to have assimilated inhuman physiology. Not unlike the crucible, the Erdtree in its primordial form.",
+		"chn": "以平滑的皮肤拼制缝成的风帽。\n剥下的皮还残存油脂，因此柔软富弹性。\n神皮贵族们穿戴的防具。\n\n贵族是最古老的一群使徒，\n据说身上寄宿着人身不可能有的百相，\n那副模样与初始黄金树的“熔炉”十分相似。"
+	},
+	{
+		"id": 530100,
+		"eng": "Robe made by sewing together patches of smooth skin.\nSubcutaneous fat makes it plump and soft. Worn by Godskin Nobles, known for their seven-face aprons.\n\nStrengthens the Noble Presence incantation.\n\nNobles are the most ancient apostles who are said to have assimilated inhuman physiology. Not unlike the crucible, the Erdtree in its primordial form.",
+		"chn": "以平滑的皮肤拼制缝成的长袍。\n剥下的皮还残存油脂，因此柔软富弹性。\n神皮贵族们穿戴的防具，围裙上有七张面孔。\n\n能强化气场的祷告。\n\n贵族是最古老的一群使徒，\n据说身上寄宿着人身不可能有的百相，\n那副模样与初始黄金树的“熔炉”十分相似。"
+	},
+	{
+		"id": 530200,
+		"eng": "Black bracelets of the Godskin Nobles.\n\nNobles are the most ancient apostles who are said to have assimilated inhuman physiology. Not unlike the crucible, the Erdtree in its primordial form.",
+		"chn": "神皮贵族们穿戴的黑色手环。\n\n贵族是最古老的一群使徒，\n据说身上寄宿着人身不可能有的百相，\n那副模样与初始黄金树的“熔炉”十分相似。"
+	},
+	{
+		"id": 530300,
+		"eng": "Trousers made by sewing together patches of smooth skin.\nSubcutaneous fat makes them plump and soft.\nWorn by Godskin Nobles.\n\nNobles are the most ancient apostles who are said to have assimilated inhuman physiology. Not unlike the crucible, the Erdtree in its primordial form.",
+		"chn": "以平滑的皮肤拼制缝成的长裤。\n剥下的皮还残存油脂，因此柔软富弹性。\n神皮贵族们穿戴的防具。\n\n贵族是最古老的一群使徒，\n据说身上寄宿着人身不可能有的百相，\n那副模样与初始黄金树的“熔炉”十分相似。"
+	},
+	{
+		"id": 540000,
+		"eng": "Headscarf worn by depraved perfumers.\n\nThese heresy-inclined perfumers imbibe their own spices to alter body and mind. Their slow descent into self-destruction is what earned them their name.",
+		"chn": "堕落调香师们穿戴的帽子。\n\n自行喝下香粉，影响身体与神经──\n调香师的堕落，是指执行这种异端派别的作法。\n这类慢性自毁的调香师，因此得名“堕落”。"
+	},
+	{
+		"id": 540100,
+		"eng": "Robe worn by depraved perfumers.\nThe embroidery on the apron is itself a curse upon the Erdtree.\n\nThese heresy-inclined perfumers imbibe their own spices to alter body and mind. Their slow descent into self-destruction is what earned them their name.",
+		"chn": "堕落调香师们穿戴的长袍。\n围裙上的刺绣，描述着对黄金树的诅咒。\n\n自行喝下香粉，影响身体与神经──\n调香师的堕落，是指执行这种异端派别的作法。\n这类慢性自毁的调香师，因此得名“堕落”。"
+	},
+	{
+		"id": 540200,
+		"eng": "Gloves worn by depraved perfumers.\n\nThese heresy-inclined perfumers imbibe their own spices to alter body and mind. Their slow descent into self-destruction is what earned them their name.",
+		"chn": "堕落调香师们穿戴的手套。\n\n自行喝下香粉，影响身体与神经──\n调香师的堕落，是指执行这种异端派别的作法。\n这类慢性自毁的调香师，因此得名“堕落”。"
+	},
+	{
+		"id": 540300,
+		"eng": "Trousers worn by depraved perfumers.\n\nThese heresy-inclined perfumers imbibe their own spices to alter body and mind. Their slow descent into self-destruction is what earned them their name.",
+		"chn": "堕落调香师们穿戴的长裤。\n\n自行喝下香粉，影响身体与神经──\n调香师的堕落，是指执行这种异端派别的作法。\n这类慢性自毁的调香师，因此得名“堕落”。"
+	},
+	{
+		"id": 541100,
+		"eng": "Robe worn by depraved perfumers.\nThe embroidery on the apron is itself a curse upon the Erdtree.\n\nThese heresy-inclined perfumers imbibe their own spices to alter body and mind. Their slow descent into self-destruction is what earned them their name.",
+		"chn": "堕落调香师们穿戴的长袍。\n围裙上的刺绣，描述着对黄金树的诅咒。\n\n自行喝下香粉，影响身体与神经──\n调香师的堕落，是指执行这种异端派别的作法。\n这类慢性自毁的调香师，因此得名“堕落”。"
+	},
+	{
+		"id": 570000,
+		"eng": "Helm of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nThe axe ornamentation is the knight Ordovis's mark, displayed also by his men.\n\nHolds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations.",
+		"chn": "侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的头盔。\n\n头盔上的斧头顶饰，\n为骑士奥陶琵斯与其部下的象征。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。"
+	},
+	{
+		"id": 570100,
+		"eng": "Armor of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nWorn by the knight Ordovis and his men.\n\nHolds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations.",
+		"chn": "侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的铠甲。\n\n属于骑士奥陶琵斯与其部下的防具。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。"
+	},
+	{
+		"id": 570200,
+		"eng": "Gauntlets of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nHold the power of the crucible of life, the primordial form of the Erdtree. Strengthen Aspects of the Crucible incantations.\n\nIn time, the strength shown by these knights, and even their appearance, was seen as chaotic and deserving of scorn.",
+		"chn": "侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的臂甲。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。\n\n然而这副模样、这股力量\n被认为脱离秩序，因此受到轻视。"
+	},
+	{
+		"id": 570300,
+		"eng": "Greaves of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nHold the power of the crucible of life, the primordial form of the Erdtree. Strengthen Aspects of the Crucible incantations.\n\nIn time, the strength shown by these knights, and even their appearance, was seen as chaotic and deserving of scorn.",
+		"chn": "侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的腿甲。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。\n\n然而这副模样、这股力量\n被认为脱离秩序，因此受到轻视。"
+	},
+	{
+		"id": 571000,
+		"eng": "Helm of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nThe great tree ornamentation is the knight Siluria's mark, displayed also by her men.\n\nHolds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations.",
+		"chn": "侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的头盔。\n\n头盔上的大树顶饰，\n为骑士志留亚与其部下的象征。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。"
+	},
+	{
+		"id": 571100,
+		"eng": "Armor of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nWorn by the knight Siluria and her men.\n\nHolds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations.",
+		"chn": "侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的铠甲。\n\n属于骑士志留亚与其部下的防具。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。"
+	},
+	{
+		"id": 572100,
+		"eng": "Armor of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nWorn by the knight Ordovis and his men.\n\nHolds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations.",
+		"chn": "侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的铠甲。\n\n属于骑士奥陶琵斯与其部下的防具。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。"
+	},
+	{
+		"id": 573100,
+		"eng": "Armor of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nWorn by the knight Siluria and her men.\n\nHolds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations.",
+		"chn": "侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的铠甲。\n\n属于骑士志留亚与其部下的防具。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。"
+	},
+	{
+		"id": 580000,
+		"eng": "The giant blue glintstone crown worn by Lusat, primeval current sorcerer.\n\nThis crown replaced Lusat's brain and skull altogether, and now, removed from his body, it is all but dead. What power remains within raises the potency of Lusat's primeval current sorceries at the cost of additional FP consumption.",
+		"chn": "“起源魔法师”卢瑟特的\n巨大蓝色辉石头冠。\n\n替换、取代大脑与头盖骨的头冠，\n在离开原主人之后，几乎陷入死亡状态。\n能提升卢瑟特的起源魔法威力，\n但是会增加消耗的专注值。"
+	},
+	{
+		"id": 580100,
+		"eng": "A robe reserved for grand masters at the Academy of Raya Lucaria.\nCorroded by blue glintstones.\n\nSince the grand masters Azur and Lusat were driven from the academy, no one has achieved their formerly-held rank.",
+		"chn": "魔法学院雷亚卢卡利亚，\n其中最高阶的老师才能穿着的长袍。\n受到蓝色辉石侵蚀。\n\n亚兹勒与卢瑟特──\n在两位最高阶老师被逐出学院后，\n没有魔法师能达到相同地位。"
+	},
+	{
+		"id": 580200,
+		"eng": "Manchettes corroded by blue glintstones.\nWorn by Lusat, primeval current sorcerer.\n\nLusat had reached a near-inorganic state.",
+		"chn": "受到蓝色辉石侵蚀的腕套。\n“起源魔法师”卢瑟特的防具。\n\n卢瑟特已经是半无机物的存在。"
+	},
+	{
+		"id": 580300,
+		"eng": "Ragged waistcloth that extends to the thighs.\nCommon amongst old-fashioned sorcerers.",
+		"chn": "用破布随意缠绕到大腿的绑腿。\n此为古老魔法师们的缠绕法。"
+	},
+	{
+		"id": 581000,
+		"eng": "Crown of Azur, primeval current sorcerer, set with a prominent blue-green glintstone.\n\nThis crown replaced Azur's brain and skull altogether, and now, removed from his body, it is all but dead. What power remains within raises the potency of Azur's primeval current sorceries at the cost of additional FP consumption.",
+		"chn": "“起源魔法师”亚兹勒的\n耸立蓝绿色辉石头冠。\n\n替换、取代大脑与头盖骨的头冠，\n在离开原主人之后，几乎陷入死亡状态。\n能提升亚兹勒的起源魔法威力，\n但是会增加消耗的专注值。"
+	},
+	{
+		"id": 581100,
+		"eng": "A robe reserved for grand masters at the Academy of Raya Lucaria.\nCorroded by blue-green glintstones.\n\nSince the grand masters Azur and Lusat were driven from the academy, no one has achieved their formerly-held rank.",
+		"chn": "魔法学院雷亚卢卡利亚，\n其中最高阶的老师才能穿着的长袍。\n受到蓝绿色辉石侵蚀。\n\n亚兹勒与卢瑟特──\n在两位最高阶老师被逐出学院后，\n没有魔法师能达到相同地位。"
+	},
+	{
+		"id": 581200,
+		"eng": "Manchettes corroded by blue-green glintstones.\nWorn by Azur, primeval current sorcerer.\n\nAzur had reached a near-inorganic state.",
+		"chn": "受到蓝绿色辉石侵蚀的腕套。\n“起源魔法师”亚兹勒的防具。\n\n亚兹勒已经是半无机物的存在。"
+	},
+	{
+		"id": 590000,
+		"eng": "Helm set with countless eyes and ears.\nWorn by Gideon Ofnir, the All-Knowing.\n\nKnowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear.\n\nAt the end that should not be.",
+		"chn": "表面布满无数眼睛与耳朵的头盔。\n“百智爵士”基甸·奥夫尼尔的防具。\n\n所谓的知，指的是认清自身的无知，\n以及认清知识无穷。\n然而当基甸接触到玛莉卡女王的遗愿后，\n不禁感到恐惧──\n\n他看到了那不可能存在的终点。"
+	},
+	{
+		"id": 590100,
+		"eng": "Armor set with countless eyes and ears.\nWorn by Gideon Ofnir, the All-Knowing.\n\nKnowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear.\n\nAt the end that should not be.",
+		"chn": "表面布满无数眼睛与耳朵的铠甲。\n“百智爵士”基甸·奥夫尼尔的防具。\n\n所谓的知，指的是认清自身的无知，\n以及认清知识无穷。\n然而当基甸接触到玛莉卡女王的遗愿后，\n不禁感到恐惧──\n\n他看到了那不可能存在的终点。"
+	},
+	{
+		"id": 590200,
+		"eng": "Gauntlets set with countless eyes and ears.\nWorn by Gideon Ofnir, the All-Knowing.\n\nKnowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear.\n\nAt the end that should not be.",
+		"chn": "表面布满无数眼睛与耳朵的臂甲。\n“百智爵士”基甸·奥夫尼尔的防具。\n\n所谓的知，指的是认清自身的无知，\n以及认清知识无穷。\n然而当基甸接触到玛莉卡女王的遗愿后，\n不禁感到恐惧──\n\n他看到了那不可能存在的终点。"
+	},
+	{
+		"id": 590300,
+		"eng": "Greaves set with countless eyes and ears.\nWorn by Gideon Ofnir, the All-Knowing.\n\nKnowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear.\n\nAt the end that should not be.",
+		"chn": "表面布满无数眼睛与耳朵的腿甲。\n“百智爵士”基甸·奥夫尼尔的防具。\n\n所谓的知，指的是认清自身的无知，\n以及认清知识无穷。\n然而当基甸接触到玛莉卡女王的遗愿后，\n不禁感到恐惧──\n\n他看到了那不可能存在的终点。"
+	},
+	{
+		"id": 591100,
+		"eng": "Armor set with countless eyes and ears.\nWorn by Gideon Ofnir, the All-Knowing.\n\nKnowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear.\n\nAt the end that should not be.",
+		"chn": "表面布满无数眼睛与耳朵的铠甲。\n“百智爵士”基甸·奥夫尼尔的防具。\n\n所谓的知，指的是认清自身的无知，\n以及认清知识无穷。\n然而当基甸接触到玛莉卡女王的遗愿后，\n不禁感到恐惧──\n\n他看到了那不可能存在的终点。"
+	},
+	{
+		"id": 600000,
+		"eng": "Helm depicting entwined twins of gold and silver.\n\nThe two known as D are inseparable twins.\nThey are of two bodies and two minds, but one single soul. Not once do they stand together; not one word do they speak to one another.\n\nPerhaps this armor longs to find its way to the other D.",
+		"chn": "黄金与白银交叉结合──\n以孪生子形象制成的头盔。\n\n密不可分的孪生子Ｄ，共有两位──\n两个身体、两个意识，却只有一个灵魂。\n他们不会同时醒着、不曾彼此交谈。\n\n……也许这副头盔会想到另外一位Ｄ的身边。"
+	},
+	{
+		"id": 600100,
+		"eng": "Armor depicting entwined twins of gold and silver.\n\nThe two known as D are inseparable twins.\nThey are of two bodies and two minds, but one single soul. Not once do they stand together; not one word do they speak to one another.\n\nPerhaps this armor longs to find its way to the other D.",
+		"chn": "黄金与白银交叉结合──\n以孪生子形象制成的铠甲。\n\n密不可分的孪生子Ｄ，共有两位──\n两个身体、两个意识，却只有一个灵魂。\n他们不会同时醒着、不曾彼此交谈。\n\n……也许这副铠甲会想到另外一位Ｄ的身边。"
+	},
+	{
+		"id": 600200,
+		"eng": "Gauntlets depicting entwined twins of gold and silver.\n\nThe two known as D are inseparable twins.\nThey are of two bodies and two minds, but one single soul. Not once do they stand together; not one word do they speak to one another.\n\nPerhaps this armor longs to find its way to the other D.",
+		"chn": "黄金与白银交叉结合──\n以孪生子形象制成的臂甲。\n\n密不可分的孪生子Ｄ，共有两位──\n两个身体、两个意识，却只有一个灵魂。\n他们不会同时醒着、不曾彼此交谈。\n\n……也许这副臂甲会想到另外一位Ｄ的身边。"
+	},
+	{
+		"id": 600300,
+		"eng": "Greaves depicting entwined twins of gold and silver.\n\nThe two known as D are inseparable twins.\nThey are of two bodies and two minds, but one single soul. Not once do they stand together; not one word do they speak to one another.\n\nPerhaps this armor longs to find its way to the other D.",
+		"chn": "黄金与白银交叉结合──\n以孪生子形象制成的腿甲。\n\n密不可分的孪生子Ｄ，共有两位──\n两个身体、两个意识，却只有一个灵魂。\n他们不会同时醒着、不曾彼此交谈。\n\n……也许这副腿甲会想到另外一位Ｄ的身边。"
+	},
+	{
+		"id": 601100,
+		"eng": "Armor depicting entwined twins of gold and silver.\n\nThe two known as D are inseparable twins.\nThey are of two bodies and two minds, but one single soul. Not once do they stand together; not one word do they speak to one another.\n\nPerhaps this armor longs to find its way to the other D.",
+		"chn": "黄金与白银交叉结合──\n以孪生子形象制成的铠甲。\n\n密不可分的孪生子Ｄ，共有两位──\n两个身体、两个意识，却只有一个灵魂。\n他们不会同时醒着、不曾彼此交谈。\n\n……也许这副铠甲会想到另外一位Ｄ的身边。"
+	},
+	{
+		"id": 601300,
+		"eng": "Greaves depicting entwined twins of gold and silver.\n\nThe two known as D are inseparable twins.\nThey are of two bodies and two minds, but one single soul. Not once do they stand together; not one word do they speak to one another.\n\nPerhaps this armor longs to find its way to the other D.",
+		"chn": "黄金与白银交叉结合──\n以孪生子形象制成的腿甲。\n\n密不可分的孪生子Ｄ，共有两位──\n两个身体、两个意识，却只有一个灵魂。\n他们不会同时醒着、不曾彼此交谈。\n\n……也许这副腿甲会想到另外一位Ｄ的身边。"
+	},
+	{
+		"id": 610000,
+		"eng": "Helm pieced together from scavenged metal.",
+		"chn": "捡拾战场上的金属拼凑制成的头盔"
+	},
+	{
+		"id": 610100,
+		"eng": "Armor pieced together from scavenged metal.",
+		"chn": "捡拾战场上的金属拼凑制成的铠甲"
+	},
+	{
+		"id": 610200,
+		"eng": "Gauntlets pieced together from scavenged metal.",
+		"chn": "捡拾战场上的金属拼凑制成的臂甲"
+	},
+	{
+		"id": 610300,
+		"eng": "Greaves pieced together from scavenged metal.",
+		"chn": "捡拾战场上的布拼凑制成的袜子"
+	},
+	{
+		"id": 611000,
+		"eng": "Helm pieced together from scavenged metal.",
+		"chn": "捡拾战场上的金属拼凑制成的头盔"
+	},
+	{
+		"id": 611100,
+		"eng": "Armor pieced together from scavenged metal.",
+		"chn": "捡拾战场上的金属拼凑制成的铠甲"
+	},
+	{
+		"id": 620000,
+		"eng": "Blindfold of exiled prophets who foretold misfortune—and were persecuted and driven from their homes as a result.\n\nWhy hesitate, if the path leading to the future is clear? Just close your eyes, and walk.",
+		"chn": "因为做出不祥预言，受到迫害，\n最后被赶出故乡的人物穿戴的眼罩。\n\n既然已经预见未来了，就不会迷失路途。\n那么，遮住眼睛前进也无妨。"
+	},
+	{
+		"id": 620100,
+		"eng": "Robe of Corhyn the cleric.\n\nEven after exile, Corhyn refused to recant his prophecies. And for this, he was blessed with the guidance of grace. \n\nSince then, the cart wheel draped on his neck has served as a reminder. That true guidance awaits those with iron wills. Those with unwavering faith.",
+		"chn": "圣职人员柯林的长袍。\n\n受到迫害，他依然拒绝推翻预言，\n最后等到赐福的指引降临。\n\n从那之后，柯林每次看到车轮枷锁都会想起：\n深信不疑、坚定不屈地向前走，指引就在那里。"
+	},
+	{
+		"id": 620300,
+		"eng": "Trousers of exiled prophets who foretold misfortune—and were persecuted and driven from their homes as a result.\n\nMade from rough fabric that scrapes against the skin like a sharpening file.",
+		"chn": "因为做出不祥预言，受到迫害，\n最后被赶出故乡的人物穿戴的长裤。\n\n长裤质料硬如锉刀，会摩擦皮肤。"
+	},
+	{
+		"id": 621100,
+		"eng": "Robe of exiled prophets who foretold misfortune—and were persecuted and driven from their homes as a result.\n\nMade from rough fabric that scrapes against the skin like a sharpening file.",
+		"chn": "因为做出不祥预言，受到迫害，\n最后被赶出故乡的人物穿戴的长袍。\n\n长袍质料硬如锉刀，会摩擦皮肤。"
+	},
+	{
+		"id": 622100,
+		"eng": "Robe of exiled prophets who foretold misfortune—and were persecuted and driven from their homes as a result.\n\nThe shackles around the neck warn passersby not to lend an ear to their sermons.",
+		"chn": "因为做出不祥预言，受到迫害，\n最后被赶出故乡的人物穿戴的长袍。\n\n沉重的金属枷锁是种标记，\n让人判断不须听信此人的言语。"
+	},
+	{
+		"id": 630000,
+		"eng": "Hood fashioned from supple cloth.\nWorn by those who look to the cosmos above.\n\nThey read fate in the stars, and are said to be heirs of the glintstone sorcerers.\n\nBut alas, the night sky no longer cradles fate.",
+		"chn": "以柔软的布制成的风帽。\n仰望星星的人们穿戴的防具。\n\n据说他们是辉石魔法师的后裔，\n试图从星星找出命运。\n但如今，夜空里头已经没有命运。"
+	},
+	{
+		"id": 630100,
+		"eng": "Robe fashioned from supple cloth.\nWorn by those who look to the cosmos above.\n\nThey read fate in the stars, and are said to be heirs of the glintstone sorcerers.\n\nBut alas, the night sky no longer cradles fate.",
+		"chn": "以柔软的布制成的长袍。\n仰望星星的人们穿戴的防具。\n\n据说他们是辉石魔法师的后裔，\n试图从星星找出命运。\n但如今，夜空里头已经没有命运。"
+	},
+	{
+		"id": 630200,
+		"eng": "Gloves fashioned from fine, supple cloth.\nWorn by those who look to the cosmos above.\n\nThey read fate in the stars, and are said to be heirs of the glintstone sorcerers.\n\nBut alas, the night sky no longer cradles fate.",
+		"chn": "质地轻薄，表面滑顺的布手套。\n仰望星星的人们穿戴的防具。\n\n据说他们是辉石魔法师的后裔，\n试图从星星找出命运。\n但如今，夜空里头已经没有命运。"
+	},
+	{
+		"id": 630300,
+		"eng": "Trousers worn inside a robe.\nWorn by those who look to the cosmos above.\n\nThey read fate in the stars, and are said to be heirs of the glintstone sorcerers.\n\nBut alas, the night sky no longer cradles fate.",
+		"chn": "长袍底下的长裤。\n仰望星星的人们穿戴的防具。\n\n据说他们是辉石魔法师的后裔，\n试图从星星找出命运。\n但如今，夜空里头已经没有命运。"
+	},
+	{
+		"id": 631100,
+		"eng": "Robe fashioned from supple cloth.\nWorn by those who look to the cosmos above.\n\nThey read fate in the stars, and are said to be heirs of the glintstone sorcerers.\n\nBut alas, the night sky no longer cradles fate.",
+		"chn": "以柔软的布制成的长袍。\n仰望星星的人们穿戴的防具。\n\n据说他们是辉石魔法师的后裔，\n试图从星星找出命运。\n但如今，夜空里头已经没有命运。"
+	},
+	{
+		"id": 640000,
+		"eng": "Round iron helm with a distinctive large brim.\nWorn by Lionel the Lionhearted.\n\nWhen this chivalrous, dauntless knight met Fia, who had been driven from her home, he declared himself to be her father.",
+		"chn": "具有大帽檐的浑圆铁制头盔。\n“无畏”莱恩尼尔的防具。\n\n表现得无所畏惧的骑士，\n遇见了被赶出故乡的菲雅。\n据说他自愿成为她如父般的存在。"
+	},
+	{
+		"id": 640100,
+		"eng": "Round iron armor with a banner extending from its back.\nWorn by Lionel the Lionhearted.\n\nWhen this chivalrous, dauntless knight met Fia, who had been driven from her home, he declared himself to be her father.",
+		"chn": "背着军旗的浑圆铁制铠甲。\n“无畏”莱恩尼尔的防具。\n\n表现得无所畏惧的骑士，\n遇见了被赶出故乡的菲雅。\n据说他自愿成为她如父般的存在。"
+	},
+	{
+		"id": 640200,
+		"eng": "Rounded iron gauntlets.\nWorn by Lionel the Lionhearted.\n\nWhen this chivalrous, dauntless knight met Fia, who had been driven from her home, he declared himself to be her father.",
+		"chn": "浑圆的铁制臂甲。\n“无畏”莱恩尼尔的防具。\n\n表现得无所畏惧的骑士，\n遇见了被赶出故乡的菲雅。\n据说他自愿成为她如父般的存在。"
+	},
+	{
+		"id": 640300,
+		"eng": "Rounded iron greaves.\nWorn by Lionel the Lionhearted.\n\nWhen this chivalrous, dauntless knight met Fia, who had been driven from her home, he declared himself her father.",
+		"chn": "浑圆的铁制腿甲。\n“无畏”莱恩尼尔的防具。\n\n表现得无所畏惧的骑士，\n遇见了被赶出故乡的菲雅。\n据说他自愿成为她如父般的存在。"
+	},
+	{
+		"id": 641100,
+		"eng": "Round iron armor.\nWorn by Lionel the Lionhearted.\n\nWhen this chivalrous, dauntless knight met Fia, who had been driven from her home, he declared himself to be her father.",
+		"chn": "浑圆的铁制铠甲。\n“无畏”莱恩尼尔的防具。\n\n表现得无所畏惧的骑士，\n遇见了被赶出故乡的菲雅。\n据说他自愿成为她如父般的存在。"
+	},
+	{
+		"id": 650000,
+		"eng": "A twin-tailed silver helm decorated with flowery adornments. Symbol of the head of the revered House of Hoslow.\n\nJuno Hoslow had a younger brother who was all talk and no trousers.\n\nHis inability to commit to action was such that Juno inherited the Hoslow legacy without resistance, granting him the freedom to shower his little brother with adoration. ",
+		"chn": "在两条长尾顶饰末端，\n以花装饰的银铁制头盔。\n名门霍斯劳当家的身分证明。\n\n尤诺·霍斯劳有一位弟弟──\n做不到言出必行，没有骨气的弟弟。\n\n因为弟弟的无能，\n兄弟俩没有发生当家主位之争。\n哥哥也能安然地疼爱弟弟。"
+	},
+	{
+		"id": 650100,
+		"eng": "Garish silver armor decorated with red embellishments.\nPassed down through the Hoslow family.\n\nWhen Juno Hoslow received an invitation to the Volcano Manor, he discreetly refused.\n\n\"I have already walked many a road drenched in blood, yet never would I consider myself a champion.\"",
+		"chn": "以红色点缀的银铁制奢华铠甲。\n名门霍斯劳代代相传的防具。\n\n收到火山官邸的邀请时，\n尤诺·霍斯劳冷淡回绝。\n\n　我早就走在染血的路上，\n　但不同的是，我绝不会自称为英雄。"
+	},
+	{
+		"id": 650200,
+		"eng": "Garish silver gauntlets decorated with red embellishments.\nPassed down through the Hoslow family.\n\nWhen Juno Hoslow received an invitation to the Volcano Manor, he discreetly refused.\n\n\"I have already walked many a road drenched in blood, yet never would I consider myself a champion.\"",
+		"chn": "以红色点缀的银铁制奢华臂甲。\n名门霍斯劳代代相传的防具。\n\n收到火山官邸的邀请时，\n尤诺·霍斯劳冷淡回绝。\n\n　我早就走在染血的路上，\n　但不同的是，我绝不会自称为英雄。"
+	},
+	{
+		"id": 650300,
+		"eng": "Garish silver greaves decorated with red embellishments.\nPassed down through the Hoslow family.\n\nWhen Juno Hoslow received an invitation to the Volcano Manor, he discreetly refused.\n\n\"I have already walked many a road drenched in blood, yet never would I consider myself a champion.\"",
+		"chn": "以红色点缀的银铁制奢华腿甲。\n名门霍斯劳代代相传的防具。\n\n收到火山官邸的邀请时，\n尤诺·霍斯劳冷淡回绝。\n\n　我早就走在染血的路上，\n　但不同的是，我绝不会自称为英雄。"
+	},
+	{
+		"id": 651000,
+		"eng": "Replica of a twin-tailed silver helm with flowery adornments. Only, without the twin tails.\n\nDiallos Hoslow had an older brother who was a stern, self-possessed man of few words. His achievements made him seem out of reach.\n\nAnd so the younger aspired to be like the older. Yearning for the day that he would tell the tale of House Hoslow, in blood. Knowing full well that it would break his brother's heart.",
+		"chn": "在两条长尾顶饰末端，\n以花装饰的银铁制头盔，\n此为没有长尾顶饰的复制品。\n\n狄亚罗斯·霍斯劳有一位哥哥──\n个性寡言又冷酷，自己望尘莫及的哥哥。\n\n弟弟想变得和哥哥一样，\n变成以血代言的霍斯劳。\n即使心里明白，哥哥不希望自己这么做。"
+	},
+	{
+		"id": 652100,
+		"eng": "Garish silver armor decorated with red embellishments.\nPassed down through the Hoslow family.\n\nWhen Juno Hoslow received an invitation to the Volcano Manor, he discreetly refused.\n\n\"I have already walked many a road drenched in blood, yet never would I consider myself a champion.\"",
+		"chn": "以红色点缀的银铁制奢华铠甲。\n名门霍斯劳代代相传的防具。\n\n收到火山官邸的邀请时，\n尤诺·霍斯劳冷淡回绝。\n\n　我早就走在染血的路上，\n　但不同的是，我绝不会自称为英雄。"
+	},
+	{
+		"id": 660000,
+		"eng": "Helm of a knight banished from their motherland.\nDirty and battered after enduring a lengthy vagabond journey.\n\nThe visor is broken and can no longer be lowered.\n\nMetal armor is heavy, but also sturdy, offering significant damage negation.",
+		"chn": "经历流浪之旅因此老旧的铁制头盔。\n受祖国放逐的骑士穿戴的防具。\n\n面甲快要损坏，已经无法放下。\n\n金属制的盔甲有相当分量，\n因此减伤率偏高，是坚固的防具。"
+	},
+	{
+		"id": 660100,
+		"eng": "Chest piece of a knight banished from their motherland.\nDirty and battered after enduring a lengthy vagabond journey.\n\nThe crest emblazoned on the front is worn and dingy, no longer able to evoke sentiment.\n\nMetal armor is heavy, but also sturdy, offering significant damage negation.",
+		"chn": "经历流浪之旅因此老旧的铁制铠甲。\n受祖国放逐的骑士穿戴的防具。\n\n胸甲上的徽章受磨损、布满脏污，\n甚至无法使人触景伤情。\n\n金属制的盔甲有相当分量，\n因此减伤率偏高，是坚固的防具。"
+	},
+	{
+		"id": 660200,
+		"eng": "Gauntlets of a knight banished from their motherland.\nDirty and battered after enduring a lengthy vagabond journey.\n\nMetal armor is heavy, but also sturdy, offering significant damage negation.",
+		"chn": "经历流浪之旅因此老旧的铁制臂甲。\n受祖国放逐的骑士穿戴的防具。\n\n金属制的盔甲有相当分量，\n因此减伤率偏高，是坚固的防具。"
+	},
+	{
+		"id": 660300,
+		"eng": "Greaves of a knight banished from their motherland.\nDirty and battered after enduring a lengthy vagabond journey.\n\nMetal armor is heavy, but also sturdy, offering significant damage negation.",
+		"chn": "经历流浪之旅因此老旧的铁制腿甲。\n受祖国放逐的骑士穿戴的防具。\n\n金属制的盔甲有相当分量，\n因此减伤率偏高，是坚固的防具。"
+	},
+	{
+		"id": 661100,
+		"eng": "Chest piece of a knight banished from their motherland.\nDirty and battered after enduring a lengthy vagabond journey.\n\nThe crest emblazoned on the front is worn and dingy, no longer able to evoke sentiment.\n\nMetal armor is heavy, but also sturdy, offering significant damage negation.",
+		"chn": "经历流浪之旅因此老旧的铁制铠甲。\n受祖国放逐的骑士穿戴的防具。\n\n胸甲上的徽章受磨损、布满脏污，\n甚至无法使人触景伤情。\n\n金属制的盔甲有相当分量，\n因此减伤率偏高，是坚固的防具。"
+	},
+	{
+		"id": 670000,
+		"eng": "Cowl of a nomadic warrior.\nThe blue color of its fabric symbolizes brisk waters, as fluid and flowing as the sword in the hand of its wearer.\n\nJust as still waters turn foul, stagnation leads to decay.\nWarriors must remain ever drifting.",
+		"chn": "游牧民族剑士的头巾。\n布料的蓝色代表清凉水流，\n而剑士所用的剑术也行如流水。\n\n停驻会带来沉淀，沉淀会招致腐化──\n谨记行事奔流不息，切忌流连。"
+	},
+	{
+		"id": 670100,
+		"eng": "Vest of a nomadic warrior.\nThe blue color of its fabric symbolizes brisk waters, as fluid and flowing as the sword in the hand of its wearer.\n\nJust as still waters turn foul, stagnation leads to decay.\nWarriors must remain ever drifting.",
+		"chn": "游牧民族剑士的上衣。\n布料的蓝色代表清凉水流，\n而剑士所用的剑术也行如流水。\n\n停驻会带来沉淀，沉淀会招致腐化──\n谨记行事奔流不息，切忌流连。"
+	},
+	{
+		"id": 670200,
+		"eng": "Gauntlets of a nomadic warrior.\nCrafted from sturdy leather.",
+		"chn": "游牧民族剑士的臂甲。\n以强韧的皮革加工制成。"
+	},
+	{
+		"id": 670300,
+		"eng": "Greaves of a nomadic warrior.\nCrafted from sturdy leather.",
+		"chn": "游牧民族剑士的腿甲。\n以强韧的皮革加工制成。"
+	},
+	{
+		"id": 680000,
+		"eng": "Bloodstained, faintly grinning white mask.\nWorn by war surgeons who were effectively mercy killers.\n\nThe Lord of Blood's curse enlivens the wearer when bloodletting occurs. Slightly raises attack power when there is blood loss nearby.",
+		"chn": "因为血迹显得骯脏，带着微笑的白面具。\n战场上替人解脱的战场医师们穿戴的防具。\n\n受到鲜血君王的诅咒之血影响，\n当周围人物陷入异常状态出血时，\n能些微提升攻击力。"
+	},
+	{
+		"id": 680100,
+		"eng": "Bloodstained white gown of the war surgeons who were effectively mercy killers.\n\nOf the surgeons that were abducted by the Lord of Blood, none were able to tame the accursed blood.\nNone but Varré, that is; though he was an exception.",
+		"chn": "因为血迹显得骯脏的白上衣。\n战场上替人解脱的战场医师们穿戴的防具。\n\n他们被鲜血君王掳走，\n但没有人能承受诅咒之血。\n唯一的例外，就是梵雷。"
+	},
+	{
+		"id": 680200,
+		"eng": "Bloodstained white gloves of the war surgeons who were effectively mercy killers.\n\nOf the surgeons that were abducted by the Lord of Blood, none were able to tame the accursed blood.\nNone but Varré, that is; though he was an exception.",
+		"chn": "因为血迹显得骯脏的白手套。\n战场上替人解脱的战场医师们穿戴的防具。\n\n他们被鲜血君王掳走，\n但没有人能承受诅咒之血。\n唯一的例外，就是梵雷。"
+	},
+	{
+		"id": 680300,
+		"eng": "Bloodstained trousers of the war surgeons who were effectively mercy killers.\n\nOf the surgeons that were abducted by the Lord of Blood, none were able to tame the accursed blood.\nNone but Varré, that is; though he was an exception.",
+		"chn": "因为血迹显得骯脏的长裤。\n战场上替人解脱的战场医师们穿戴的防具。\n\n他们被鲜血君王掳走，\n但没有人能承受诅咒之血。\n唯一的例外，就是梵雷。"
+	},
+	{
+		"id": 681100,
+		"eng": "Bloodstained white gown of the war surgeons who were effectively mercy killers.\n\nOf the surgeons that were abducted by the Lord of Blood, none were able to tame the accursed blood.\nNone but Varré, that is; though he was an exception.",
+		"chn": "因为血迹显得骯脏的白上衣。\n战场上替人解脱的战场医师们穿戴的防具。\n\n他们被鲜血君王掳走，\n但没有人能承受诅咒之血。\n唯一的例外，就是梵雷。"
+	},
+	{
+		"id": 690000,
+		"eng": "Helm graced with gold human bones.\nWorn by the unspeaking adherent of Sir Gideon the All-Knowing.\n\nSlowly replenishes HP when HP is reduced.\n\nIt is said that the bones belong to an ancient lord―the soulless king. The lord of the lost and desperate, who was known as Ensha.",
+		"chn": "缀以黄金人骨的头盔。\n“百智爵士”基甸的沉默随从的防具。\n\n仅限血量减少时，能缓慢恢复血量。\n\n人骨的来历是古代王的遗骸。\n那是无魂王者、众多攀附者的王──\n据说他的名字叫作恩夏。"
+	},
+	{
+		"id": 690100,
+		"eng": "Armor graced with gold human bones.\nWorn by the unspeaking adherent of Sir Gideon the All-Knowing.\n\nSlowly replenishes HP when HP is reduced.\n\nIt is said that the bones belong to an ancient lord―the soulless king. The lord of the lost and desperate, who was known as Ensha.",
+		"chn": "缀以黄金人骨的铠甲。\n“百智爵士”基甸的沉默随从的防具。\n\n仅限血量减少时，能缓慢恢复血量。\n\n人骨的来历是古代王的遗骸。\n那是无魂王者、众多攀附者的王──\n据说他的名字叫作恩夏。"
+	},
+	{
+		"id": 690200,
+		"eng": "Gauntlets graced with gold human bones.\nWorn by the unspeaking adherent of Sir Gideon the All-Knowing.\n\nSlowly replenishes HP when HP is reduced.\n\nIt is said that the bones belong to an ancient lord―the soulless king. The lord of the lost and desperate, who was known as Ensha.",
+		"chn": "缀以黄金人骨的臂甲。\n“百智爵士”基甸的沉默随从的防具。\n\n仅限血量减少时，能缓慢恢复血量。\n\n人骨的来历是古代王的遗骸。\n那是无魂王者、众多攀附者的王──\n据说他的名字叫作恩夏。"
+	},
+	{
+		"id": 690300,
+		"eng": "Greaves graced with gold human bones.\nWorn by the unspeaking adherent of Sir Gideon the All-Knowing.\n\nSlowly replenishes HP when HP is reduced.\n\nIt is said that the bones belong to an ancient lord―the soulless king. The lord of the lost and desperate, who was known as Ensha.",
+		"chn": "缀以黄金人骨的腿甲。\n“百智爵士”基甸的沉默随从的防具。\n\n仅限血量减少时，能缓慢恢复血量。\n\n人骨的来历是古代王的遗骸。\n那是无魂王者、众多攀附者的王──\n据说他的名字叫作恩夏。"
+	},
+	{
+		"id": 700000,
+		"eng": "Warrior's headband of woven leather.\nGarb worn by warriors of the frigid uplands.\n\nThe small flags, white cloths and sheaves of wheat\noften found hung from these headbands are\nprayers of farewell from the people of their home.\nIn bidding farewell to warriors departing on\na journey from which they aren't like to return,\nthis small act offers only meager relief.",
+		"chn": "用皮绳编成的战用额带。\n寒冷高地的战士服装。\n\n垂放自额带的白布、稻穗，枯叶等等，\n是家乡的人们送上的饯别礼──\n希望战士在不归的旅途中，\n能够保持警戒，不至松懈。"
+	},
+	{
+		"id": 700100,
+		"eng": "Battlewear fashioned from leather armor\nadorned with a large sheet of cloth.\nGarb worn by warriors of the frigid uplands.\n\nThe red cloth signifies participation in the\nLong March long, long ago and this ceremonial\ngarb beseeches the favor of the Warrior King\nwho led them.",
+		"chn": "皮甲上披着大片布料的战袍。\n寒冷高地的战士服装。\n\n据说很久以前，\n红色大片布料是参与长征的象征。\n此为能受到战王庇佑的礼服。"
+	},
+	{
+		"id": 700200,
+		"eng": "Gauntlets wrapped in thick leather.\nGarb worn by warriors of the frigid uplands.\n\nHas a fur lining which excels at keeping\nthe cold at bay.",
+		"chn": "将厚皮革缠绕手臂的臂甲。\n寒冷高地的战士服装。\n\n臂甲内附有毛皮，防寒性佳。"
+	},
+	{
+		"id": 700300,
+		"eng": "Greaves wrapped in thick leather.\nGarb worn by warriors of the frigid uplands.\n\nHas a fur lining which excels at keeping\nthe cold at bay.",
+		"chn": "将厚皮革缠绕腿部的腿甲。\n寒冷高地的战士服装。\n\n腿甲内附有毛皮，防寒性佳。"
+	},
+	{
+		"id": 701000,
+		"eng": "Battlewear wrapped in thick leather.\nGarb worn by warriors of the frigid uplands.",
+		"chn": "用皮绳编成的战用战袍。\n寒冷高地的战士服装。"
+	},
+	{
+		"id": 702000,
+		"eng": "Helm wrapped in thick leather.\nGarb worn by warriors of the frigid uplands.",
+		"chn": "用皮绳编成的战用头盔。\n寒冷高地的战士服装。"
+	},
+	{
+		"id": 720000,
+		"eng": "Silver helm engraved with tiny beasts.\nWorn by Bernahl the Recusant.\n\nThe beasts, their eyes and ears covered, represent an oath: \"See nothing, hear nothing, doubt nothing, and carry on, along the path set in stone.\"",
+		"chn": "表面刻有小型野兽群的银制头盔。\n“叛律者”贝纳尔的防具。\n\n掩耳遮目的野兽们代表誓言──\n我听不见、看不见，也不会感到迷惘，\n只会朝下定决心走的路前进。"
+	},
+	{
+		"id": 720100,
+		"eng": "Silver armor engraved with tiny beasts.\nWorn by Bernahl the Recusant.\n\nBeasts are drawn to champions, and to lords. And this armor befits a champion worthy of becoming a lord. And that is what Bernahl was.\n\nUntil his maiden threw herself into the fire.",
+		"chn": "表面刻有小型野兽群的银制铠甲。\n“叛律者”贝纳尔的防具。\n\n野兽会受到英雄、受到王吸引，\n此为具有王格的英雄穿戴的盔甲，\n由贝纳尔穿戴，也名符其实──\n\n直到他的女巫跃入火中。"
+	},
+	{
+		"id": 720200,
+		"eng": "Silver gauntlets engraved with tiny beasts.\nWorn by Bernahl the Recusant.\n\nBeasts are drawn to champions, and to lords. And this armor befits a champion worthy of becoming a lord. And that is what Bernahl was.\n\nUntil his maiden threw herself into the fire.",
+		"chn": "表面刻有小型野兽群的银制臂甲。\n“叛律者”贝纳尔的防具。\n\n野兽会受到英雄、受到王吸引，\n此为具有王格的英雄穿戴的盔甲，\n由贝纳尔穿戴，也名符其实──\n\n直到他的女巫跃入火中。"
+	},
+	{
+		"id": 720300,
+		"eng": "Silver greaves engraved with tiny beasts.\nWorn by Bernahl the Recusant.\n\nBeasts are drawn to champions, and to lords. And this armor befits a champion worthy of becoming a lord. And that is what Bernahl was.\n\nUntil his maiden threw herself into the fire.",
+		"chn": "表面刻有小型野兽群的银制腿甲。\n“叛律者”贝纳尔的防具。\n\n野兽会受到英雄、受到王吸引，\n此为具有王格的英雄穿戴的盔甲，\n由贝纳尔穿戴，也名符其实──\n\n直到他的女巫跃入火中。"
+	},
+	{
+		"id": 721100,
+		"eng": "Silver armor engraved with tiny beasts.\nWorn by Bernahl the Recusant.\n\nBeasts are drawn to champions, and to lords. And this armor befits a champion worthy of becoming a lord. And that is what Bernahl was.\n\nUntil his maiden threw herself into the fire.",
+		"chn": "表面刻有小型野兽群的银制铠甲。\n“叛律者”贝纳尔的防具。\n\n野兽会受到英雄、受到王吸引，\n此为具有王格的英雄穿戴的盔甲，\n由贝纳尔穿戴，也名符其实──\n\n直到他的女巫跃入火中。"
+	},
+	{
+		"id": 730000,
+		"eng": "Headband reserved for the badlands' bravest.\nProof that the wearer has slaughtered countless foes.\n\nFollowing the example of their chieftain Hoarah Loux, the brave warriors of the badlands shun excess adornment.",
+		"chn": "在蛮荒地，仅限勇者配戴的头带。\n杀敌无数的证明。\n\n勇者的服装没有多余的装饰，\n如同他们的王，荷莱·露的风格。"
+	},
+	{
+		"id": 730100,
+		"eng": "Pauldron reserved for the badlands' bravest.\nProof that the wearer has slaughtered countless foes.\n\nFollowing the example of their chieftain Hoarah Loux, the brave warriors of the badlands shun excess adornment.",
+		"chn": "在蛮荒地，仅限勇者配戴的肩甲。\n杀敌无数的证明。\n\n勇者的服装没有多余的装饰，\n如同他们的王，荷莱·露的风格。"
+	},
+	{
+		"id": 730200,
+		"eng": "Bracers reserved for the badlands' bravest.\nProof that the wearer has slaughtered countless foes.\n\nFollowing the example of their chieftain Hoarah Loux, the brave warriors of the badlands shun excess adornment.",
+		"chn": "在蛮荒地，仅限勇者配戴的臂甲。\n杀敌无数的证明。\n\n勇者的服装没有多余的装饰，\n如同他们的王，荷莱·露的风格。"
+	},
+	{
+		"id": 730300,
+		"eng": "Gaiters formed only with leather straps.\nCommon wear in the badlands.",
+		"chn": "缠绕皮带的绑腿。\n在蛮荒地随处可见的装备。"
+	},
+	{
+		"id": 740000,
+		"eng": "A hooded cloak of vivid crimson.\nWorn by expatriated royalty.\nIncreases vigor.\n\nSuch cloaks were gifted to those who departed on journeys without specific orders, to faraway lands from which they would never return. In other words, the gift of a cloak made it easier for undesirables to be on their way. \n\nRoderika never once saw the guidance of grace.",
+		"chn": "附风帽的鲜艳暗红色斗篷。\n流浪在外的王室成员穿戴的防具。\n能提升生命力。\n\n此为踏上无从肩负使命之旅的赠礼──\n前往远方，一旦启程就不会返家。\n通常有被王室切割的含义。\n\n罗德莉卡看不见赐福的指引。"
+	},
+	{
+		"id": 740100,
+		"eng": "Traveling attire fashioned from metallic white silk thread. Worn by expatriated royalty.\n\nA gift of such rare beauty, a royal wouldn't disgrace their illustrious heritage even if found dead, in a ditch, in the middle of nowhere, while wearing such splendid raiment.",
+		"chn": "以白丝混金属线编织成的旅行装。\n流浪在外的王室成员穿戴的防具。\n\n是一份华美的赠礼，\n为的是即使受赠者横死街头，\n也能让王室顾及颜面。"
+	},
+	{
+		"id": 740200,
+		"eng": "Gloves of plush leather.\nWorn by expatriated royalty.\n\nA gift of such rare beauty, a royal wouldn't disgrace their illustrious heritage even if found dead, in a ditch, in the middle of nowhere, while wearing such splendid raiment.",
+		"chn": "柔软的皮革手套。\n流浪在外的王室成员穿戴的防具。\n\n是一份华美的赠礼，\n为的是即使受赠者横死街头，\n也能让王室顾及颜面。"
+	},
+	{
+		"id": 740300,
+		"eng": "White trousers of superior craftsmanship.\nWorn by expatriated royalty.\n\nA gift of such rare beauty, a royal wouldn't disgrace their illustrious heritage even if found dead, in a ditch, in the middle of nowhere, while wearing such splendid raiment.",
+		"chn": "品质优良的白色长裤。\n流浪在外的王室成员穿戴的防具。\n\n是一份华美的赠礼，\n为的是即使受赠者横死街头，\n也能让王室顾及颜面。"
+	},
+	{
+		"id": 741000,
+		"eng": "A hooded cloak of deep navy.\nWorn by expatriated royalty.\nIncreases mind.\n\nSuch cloaks were gifted to those who departed on missions to faraway lands, from which they would never return. But what choice did they have, having seen the guidance of grace?",
+		"chn": "附风帽的鲜艳深蓝色斗篷。\n流浪在外的王室成员穿戴的防具。\n能提升集中力。\n\n此为踏上使命之旅的赠礼──\n前往远方，一旦启程就不会返家。\n这也莫可奈何，因为看见赐福的指引了。"
+	},
+	{
+		"id": 760000,
+		"eng": "Beast's helm made of black iron and decorated with gold.\nWorn by Maliketh the Black Blade.\n\nMaliketh, Queen Marika's loyal half-brother, bore a blade imbued with Destined Death, and there was not one demigod who did not fear him.\n\nChampions knew what was at stake.\nIndeed, that is what made them champions.",
+		"chn": "在黑铁上缀以黄金的野兽头盔。\n“黑剑”玛利喀斯的防具。\n\n玛利喀斯是玛莉卡女王忠诚的结拜弟弟，\n将命定之死寄宿在自身的剑里，\n令所有的半神感到畏惧。\n\n而就是因为他们明白何谓恐惧，才会是英雄。"
+	},
+	{
+		"id": 760100,
+		"eng": "Beast's armor made of black iron and decorated with gold.\nWorn by Maliketh the Black Blade.\n\nMaliketh, Queen Marika's loyal half-brother, bore a blade imbued with Destined Death, and there was not one demigod who did not fear him.\n\nChampions knew what was at stake.\nIndeed, that is what made them champions.",
+		"chn": "在黑铁上缀以黄金的野兽铠甲。\n“黑剑”玛利喀斯的防具。\n\n玛利喀斯是玛莉卡女王忠诚的结拜弟弟，\n将命定之死寄宿在自身的剑里，\n令所有的半神感到畏惧。\n\n而就是因为他们明白何谓恐惧，才会是英雄。"
+	},
+	{
+		"id": 760200,
+		"eng": "Beast's gauntlets made of black iron and decorated with gold.\nWorn by Maliketh the Black Blade.\n\nMaliketh, Queen Marika's loyal half-brother, bore a blade imbued with Destined Death, and there was not one demigod who did not fear him.\n\nChampions knew what was at stake.\nIndeed, that is what made them champions.",
+		"chn": "在黑铁上缀以黄金的野兽臂甲。\n“黑剑”玛利喀斯的防具。\n\n玛利喀斯是玛莉卡女王忠诚的结拜弟弟，\n将命定之死寄宿在自身的剑里，\n令所有的半神感到畏惧。\n\n而就是因为他们明白何谓恐惧，才会是英雄。"
+	},
+	{
+		"id": 760300,
+		"eng": "Beast's greaves made of black iron and decorated with gold.\nWorn by Maliketh the Black Blade.\n\nMaliketh, Queen Marika's loyal half-brother, bore a blade imbued with Destined Death, and there was not one demigod who did not fear him.\n\nChampions knew what was at stake.\nIndeed, that is what made them champions.",
+		"chn": "在黑铁上缀以黄金的野兽腿甲。\n“黑剑”玛利喀斯的防具。\n\n玛利喀斯是玛莉卡女王忠诚的结拜弟弟，\n将命定之死寄宿在自身的剑里，\n令所有的半神感到畏惧。\n\n而就是因为他们明白何谓恐惧，才会是英雄。"
+	},
+	{
+		"id": 761100,
+		"eng": "Beast's armor made of black iron and decorated with gold.\nWorn by Maliketh the Black Blade.\n\nMaliketh, Queen Marika's loyal half-brother, bore a blade imbued with Destined Death, and there was not one demigod who did not fear him.\n\nChampions knew what was at stake.\nIndeed, that is what made them champions.",
+		"chn": "在黑铁上缀以黄金的野兽铠甲。\n“黑剑”玛利喀斯的防具。\n\n玛利喀斯是玛莉卡女王忠诚的结拜弟弟，\n将命定之死寄宿在自身的剑里，\n令所有的半神感到畏惧。\n\n而就是因为他们明白何谓恐惧，才会是英雄。"
+	},
+	{
+		"id": 770000,
+		"eng": "Winged helm made of unalloyed gold.\nWorn by Malenia, Blade of Miquella.\n\nMalenia awaited Miquella at the foot of the husk.\n\n\"My brother will keep his promise. He possesses the wisdom, the allure, of a god—he is the most fearsome Empyrean of all.\"",
+		"chn": "以纯净黄金制成的飞翼头盔。\n“米凯拉的锋刃”玛莲妮亚的防具。\n\n她留在空壳的脚边，一直等待着米凯拉。\n\n　哥哥不可能毁约。\n　拥有神祇的智慧、神祇的魅惑力量──\n　米凯拉才是最为可怕的神人。"
+	},
+	{
+		"id": 770100,
+		"eng": "Armor made of unalloyed gold.\nWorn by Malenia, Blade of Miquella.\n\nMalenia awaited Miquella at the foot of the husk.\n\n\"My brother will keep his promise. He possesses the wisdom, the allure, of a god—he is the most fearsome Empyrean of all.\"",
+		"chn": "以纯净黄金制成的铠甲。\n“米凯拉的锋刃”玛莲妮亚的防具。\n\n她留在空壳的脚边，一直等待着米凯拉。\n\n　哥哥不可能毁约。\n　拥有神祇的智慧、神祇的魅惑力量──\n　米凯拉才是最为可怕的神人。"
+	},
+	{
+		"id": 770200,
+		"eng": "Gauntlet made of unalloyed gold.\nWorn by Malenia, Blade of Miquella.\n\nMalenia awaited Miquella at the foot of the husk.\n\n\"My brother will keep his promise. He possesses the wisdom, the allure, of a god—he is the most fearsome Empyrean of all.\"",
+		"chn": "以纯净黄金制成的臂甲。\n“米凯拉的锋刃”玛莲妮亚的防具。\n\n她留在空壳的脚边，一直等待着米凯拉。\n\n　哥哥不可能毁约。\n　拥有神祇的智慧、神祇的魅惑力量──\n　米凯拉才是最为可怕的神人。"
+	},
+	{
+		"id": 770300,
+		"eng": "Greaves made of unalloyed gold.\nWorn by Malenia, Blade of Miquella.\n\nMalenia awaited Miquella at the foot of the husk.\n\n\"My brother will keep his promise. He possesses the wisdom, the allure, of a god—he is the most fearsome Empyrean of all.\"",
+		"chn": "以纯净黄金制成的腿甲。\n“米凯拉的锋刃”玛莲妮亚的防具。\n\n她留在空壳的脚边，一直等待着米凯拉。\n\n　哥哥不可能毁约。\n　拥有神祇的智慧、神祇的魅惑力量──\n　米凯拉才是最为可怕的神人。"
+	},
+	{
+		"id": 771100,
+		"eng": "Armor made of unalloyed gold.\nWorn by Malenia, Blade of Miquella.\n\nMalenia awaited Miquella at the foot of the husk.\n\n\"My brother will keep his promise. He possesses the wisdom, the allure, of a god—he is the most fearsome Empyrean of all.\"",
+		"chn": "以纯净黄金制成的铠甲。\n“米凯拉的锋刃”玛莲妮亚的防具。\n\n她留在空壳的脚边，一直等待着米凯拉。\n\n　哥哥不可能毁约。\n　拥有神祇的智慧、神祇的魅惑力量──\n　米凯拉才是最为可怕的神人。"
+	},
+	{
+		"id": 780000,
+		"eng": "An old helm that has seen many battles.\nWorn by Niall, the veteran general of Sol.\n\nNiall was a lone survivor who commanded spirits to defend his long-passed master.\n\nThis aging general could not die, nor did he have anywhere to fade away.",
+		"chn": "经过长久使用、历经百战的头盔。\n索尔的老将，尼奥的防具。\n\n仅剩一人独活，率领众多灵魂，\n保护着早已死去多年的主人──\n这就是尼奥。\n\n老将不会雕零，也无处可去。"
+	},
+	{
+		"id": 780100,
+		"eng": "Old armor that has seen many battles.\nWorn by Niall, the veteran general of Sol.\n\nNiall was a lone survivor who commanded spirits to defend his long-passed master.\n\nThis aging general could not die, nor did he have anywhere to fade away.",
+		"chn": "经过长久使用、历经百战的铠甲。\n索尔的老将，尼奥的防具。\n\n仅剩一人独活，率领众多灵魂，\n保护着早已死去多年的主人──\n这就是尼奥。\n\n老将不会雕零，也无处可去。"
+	},
+	{
+		"id": 780200,
+		"eng": "Old gauntlets that have seen many battles.\nWorn by Niall, the veteran general of Sol.\n\nNiall was a lone survivor who commanded spirits to defend his long-passed master.\n\nThis aging general could not die, nor did he have anywhere to fade away.",
+		"chn": "经过长久使用、历经百战的臂甲。\n索尔的老将，尼奥的防具。\n\n仅剩一人独活，率领众多灵魂，\n保护着早已死去多年的主人──\n这就是尼奥。\n\n老将不会雕零，也无处可去。"
+	},
+	{
+		"id": 780300,
+		"eng": "Old greaves that have seen many battles.\nWorn by Niall, the veteran general of Sol.\n\nNiall was a lone survivor who commanded spirits to defend his long-passed master.\n\nThis aging general could not die, nor did he have anywhere to fade away.",
+		"chn": "经过长久使用、历经百战的腿甲。\n索尔的老将，尼奥的防具。\n\n仅剩一人独活，率领众多灵魂，\n保护着早已死去多年的主人──\n这就是尼奥。\n\n老将不会雕零，也无处可去。"
+	},
+	{
+		"id": 781100,
+		"eng": "Old armor that has seen many battles.\nWorn by Niall, the veteran general of Sol.\n\nNiall was a lone survivor who commanded spirits to defend his long-passed master.\n\nThis aging general could not die, nor did he have anywhere to fade away.",
+		"chn": "经过长久使用、历经百战的铠甲。\n索尔的老将，尼奥的防具。\n\n仅剩一人独活，率领众多灵魂，\n保护着早已死去多年的主人──\n这就是尼奥。\n\n老将不会雕零，也无处可去。"
+	},
+	{
+		"id": 790000,
+		"eng": "Metal helm with a pointed beak.\nWorn by the Bloodhound Knights.\n\nThe Bloodhound Knights are trained as hunters and known to be unshakable trackers.\n\nWithout the use of language, each knight chooses his own master.\nOnce the decision has been made, the knight stays loyal for life.",
+		"chn": "嘴部尖突的金属制头盔。\n猎犬骑士们穿戴的防具。\n\n他们接受猎犬的训练法，\n以“穷追不舍的追踪者”闻名。\n\n据说他们不凭借言语对谈，各自选出主人。\n认主之后，绝对不会背叛。"
+	},
+	{
+		"id": 790100,
+		"eng": "Metal armor with a jutting breastplate.\nWorn by the Bloodhound Knights.\n\nThe Bloodhound Knights are trained as hunters and known to be unshakable trackers.\n\nWithout the use of language, each knight chooses his own master.\nOnce the decision has been made, the knight stays loyal for life.",
+		"chn": "胸口尖突的金属制铠甲。\n猎犬骑士们穿戴的防具。\n\n他们接受猎犬的训练法，\n以“穷追不舍的追踪者”闻名。\n\n据说他们不凭借言语对谈，各自选出主人。\n认主之后，绝对不会背叛。"
+	},
+	{
+		"id": 790200,
+		"eng": "Metal gauntlets of the Bloodhound Knights.\n\nThe Bloodhound Knights are trained as hunters and known to be unshakable trackers.\n\nWithout the use of language, each knight chooses his own master.\nOnce the decision has been made, the knight stays loyal for life.",
+		"chn": "猎犬骑士们穿戴的金属制臂甲。\n\n他们接受猎犬的训练法，\n以“穷追不舍的追踪者”闻名。\n\n据说他们不凭借言语对谈，各自选出主人。\n认主之后，绝对不会背叛。"
+	},
+	{
+		"id": 790300,
+		"eng": "Metal greaves of the Bloodhound Knights.\n\nThe Bloodhound Knights are trained as hunters and known to be unshakable trackers.\n\nWithout the use of language, each knight chooses his own master.\nOnce the decision has been made, the knight stays loyal for life.",
+		"chn": "猎犬骑士们穿戴的金属制腿甲。\n\n他们接受猎犬的训练法，\n以“穷追不舍的追踪者”闻名。\n\n据说他们不凭借言语对谈，各自选出主人。\n认主之后，绝对不会背叛。"
+	},
+	{
+		"id": 791100,
+		"eng": "Metal armor with a jutting breastplate.\nWorn by the Bloodhound Knights.\n\nThe Bloodhound Knights are trained as hunters and known to be unshakable trackers.\n\nWithout the use of language, each knight chooses his own master.\nOnce the decision has been made, the knight stays loyal for life.",
+		"chn": "胸口尖突的金属制铠甲。\n猎犬骑士们穿戴的防具。\n\n他们接受猎犬的训练法，\n以“穷追不舍的追踪者”闻名。\n\n据说他们不凭借言语对谈，各自选出主人。\n认主之后，绝对不会背叛。"
+	},
+	{
+		"id": 800000,
+		"eng": "Hood worn by dancers at the festivities in Dominula, the village of windmills.\n\nDecorated with many-colored flowers.",
+		"chn": "风车村多明努拉的庆典使用的物品。\n舞娘们穿戴的风帽。\n\n装饰着缤纷可爱的花朵。"
+	},
+	{
+		"id": 800100,
+		"eng": "Ceremonial garb worn by dancers at the festivities in Dominula, the village of windmills.\n\nFaintly bloodstained.",
+		"chn": "风车村多明努拉的庆典使用的物品。\n舞娘们穿戴的礼服。\n\n表面有着淡淡的血迹。"
+	},
+	{
+		"id": 801000,
+		"eng": "Hood worn by dancers at the festivities in Dominula, the village of windmills.\n\nDecorated with a stunning array of flowers.",
+		"chn": "风车村多明努拉的庆典使用的物品。\n舞娘们穿戴的风帽。\n\n装饰着缤纷可爱的花朵。"
+	},
+	{
+		"id": 801100,
+		"eng": "Ceremonial garb worn by dancers at the festivities in Dominula, the village of windmills.\n\nFaintly bloodstained.",
+		"chn": "风车村多明努拉的庆典使用的物品。\n舞娘们穿戴的礼服。\n\n表面有着淡淡的血迹。"
+	},
+	{
+		"id": 802000,
+		"eng": "Hood worn by dancers at the festivities in Dominula, the village of windmills.\n\nUse of this hood, dyed in a stunning blue, is only permitted for the young maids who play the central role in the festival.",
+		"chn": "风车村多明努拉的庆典使用的物品。\n舞娘们穿戴的风帽。\n\n染成蓝色的美丽风帽，\n只有庆典的主角──少女们能穿戴。"
+	},
+	{
+		"id": 802100,
+		"eng": "Ceremonial garb worn by dancers at the festivities in Dominula, the village of windmills.\n\nUse of this garb, dyed in a stunning blue, is only permitted for the young maids who play the central role in the festival.",
+		"chn": "风车村多明努拉的庆典使用的物品。\n舞娘们穿戴的礼服。\n\n染成蓝色的美丽斗篷，\n只有庆典的主角──少女们能穿戴。"
+	},
+	{
+		"id": 810000,
+		"eng": "A headband that holds cloth in place.\nStandard wear for commoners of the Lands Between.\n\nOnly, there are no commoners remaining with their wits about them.",
+		"chn": "用头带固定布料的物品。\n交界地常见的居民装扮。\n\n然而已经找不到神智正常的居民了。"
+	},
+	{
+		"id": 810100,
+		"eng": "Garb with a thick embroidered cape attached.\nStandard wear for commoners of the Lands Between.\n\nThe board hung from the neck depicts a sprawling tree, its roots and branches forming two holes. This is a self-imposed shackle, a voluntary display of allegiance to the Erdtree that increases faith.",
+		"chn": "披着厚实刺绣斗篷的上衣。\n交界地常见的居民装扮。\n\n脖子上挂的开洞树纹木板，\n据说展现自己身为黄金树之民的象征，\n以及束缚自我的枷锁，能借此提升信仰。"
+	},
+	{
+		"id": 810300,
+		"eng": "Modest shoes made of cloth.\nStandard wear for commoners of the Lands Between.\n\nOnly, there are no commoners remaining with their wits about them.",
+		"chn": "设计简朴的布质靴子。\n交界地常见的居民装扮。\n\n然而已经找不到神智正常的居民了。"
+	},
+	{
+		"id": 811000,
+		"eng": "A headband with the cloth removed.\nStandard wear for commoners of the Lands Between.\n\nOnly, there are no commoners remaining with their wits about them.",
+		"chn": "移除布料，只剩头带的物品。\n交界地常见的居民装扮。\n\n然而已经找不到神智正常的居民了。"
+	},
+	{
+		"id": 811100,
+		"eng": "Garb decorated with intricate embroidery.\nStandard wear for commoners of the Lands Between.\n\nThe board hung from the neck depicts a sprawling tree, its roots and branches forming two holes. This is a self-imposed shackle, a voluntary display of allegiance to the Erdtree that increases faith.",
+		"chn": "刺上细腻刺绣的上衣。\n交界地常见的居民装扮。\n\n脖子上挂的开洞树纹木板，\n据说展现自己身为黄金树之民的象征，\n以及束缚自我的枷锁，能借此提升信仰。"
+	},
+	{
+		"id": 812000,
+		"eng": "Garb with a modest cloth cape attached.\nStandard wear for commoners of the Lands Between.\n\nThe board hung from the neck depicts a sprawling tree, its roots and branches forming two holes. This is a self-imposed shackle, a voluntary display of allegiance to the Erdtree that increases faith.",
+		"chn": "披着简朴布质斗篷的上衣。\n交界地常见的居民装扮。\n\n脖子上挂的开洞树纹木板，\n据说展现自己身为黄金树之民的象征，\n以及束缚自我的枷锁，能借此提升信仰。"
+	},
+	{
+		"id": 812100,
+		"eng": "Modest garb made of cloth.\nStandard wear for commoners of the Lands Between.\n\nThe board hung from the neck depicts a sprawling tree, its roots and branches forming two holes. This is a self-imposed shackle, a voluntary display of allegiance to the Erdtree that increases faith.",
+		"chn": "简朴的布质上衣。\n交界地常见的居民装扮。\n\n脖子上挂的开洞树纹木板，\n据说展现自己身为黄金树之民的象征，\n以及束缚自我的枷锁，能借此提升信仰。"
+	},
+	{
+		"id": 820000,
+		"eng": "The soft bundle worn on the head by Oracle Envoys.\nDensely wrapped in several layers of cloth.\n\nRaises the potency of bubble-based skills.\n\nNo one knows what the cloth hides, but some claim to have heard a faint whimpering from inside. It must have been their imagination.",
+		"chn": "神谕众使者戴在头上的柔软块状物。\n以多层布包裹，固定得扎实。\n\n能强化泡泡的战技。\n\n不清楚内部藏着什么，\n但据说会听到细微哭声传出来。\n一定是听错了。"
+	},
+	{
+		"id": 830000,
+		"eng": "One of the glintstone crowns bestowed upon Raya Lucaria scholars whose pursuits were deemed worthy.\n\nGreatly increases intelligence to the detriment of HP and stamina.\n\nScholars of the Twinsage Conspectus were the elites of the academy, permitted to study and excel in sorceries of all kinds.",
+		"chn": "魔法学院雷亚卢卡利亚之中，\n在探索之路受到肯定的学徒\n穿戴的其中一种辉石头罩。\n\n能大幅提升智力，但会降低血量、精力。\n\n在双贤教室求学的，代表相当资优。\n因此他们得到允许，\n能广泛学习各种类型的魔法。"
+	},
+	{
+		"id": 830100,
+		"eng": "Robe worn by Raya Lucaria's scholars of sorcery.\n\nThose who dedicate themselves to the study of glintstones formed from starry amber receive this modest yet elegant deep navy garb after making their vows of virtue and austerity.\n\nBut with extended life, one is apt to forget old vows.",
+		"chn": "雷亚卢卡利亚的魔法学徒穿戴的长袍。\n\n款式朴素但质料优良的深蓝色长袍，\n是宣誓奉献一生于探索辉石，那星星的琥珀──\n立下“贤贫宣言”时受赠的服装。\n\n然而生命过于漫长，宣言早已埋没记忆之中。"
+	},
+	{
+		"id": 830200,
+		"eng": "Manchettes worn by Raya Lucaria's scholars of sorcery.\nMade by wrapping a simple cloth around the forearms.",
+		"chn": "雷亚卢卡利亚的魔法学徒穿戴的腕套。\n以常见的布缠绕手腕的防具。"
+	},
+	{
+		"id": 830300,
+		"eng": "Leggings worn by Raya Lucaria's scholars of sorcery.\nMade by wrapping a simple cloth around the legs.",
+		"chn": "雷亚卢卡利亚的魔法学徒穿戴的绑腿。\n以常见的布缠绕腿部的防具。"
+	},
+	{
+		"id": 831000,
+		"eng": "One of the glintstone crowns bestowed upon Raya Lucaria scholars whose pursuits were deemed worthy.\n\nIncreases intelligence to the detriment of HP.\n\nThe lineage of the Olivinus Conspectus began with the sorcerer Lusat, and its adherents continue his study of meteors.",
+		"chn": "魔法学院雷亚卢卡利亚之中，\n在探索之路受到肯定的学徒\n穿戴的其中一种辉石头罩。\n\n能提升智力，但会降低血量。\n\n奥利维尼斯教室\n视魔法师卢瑟特为他们的根本，\n探索着流星类的魔法。"
+	},
+	{
+		"id": 832000,
+		"eng": "One of the glintstone crowns bestowed upon Raya Lucaria scholars whose pursuits were deemed worthy.\n\nIncreases intelligence and dexterity to the detriment of HP.\n\nScholars of the Lazuli Conspectus study Carian sorceries—a heterodox pursuit that views the moon as equal to the stars.",
+		"chn": "魔法学院雷亚卢卡利亚之中，\n在探索之路受到肯定的学徒\n穿戴的其中一种辉石头罩。\n\n能提升智力、灵巧，但会降低血量。\n\n在拉兹利教室求学的人们，\n他们学习卡利亚魔法，\n并对月亮与星星平等视之，堪称异端。"
+	},
+	{
+		"id": 833000,
+		"eng": "One of the glintstone crowns bestowed upon Raya Lucaria scholars whose pursuits were deemed worthy.\n\nIncreases intelligence to the detriment of stamina.\n\nThe Karolos Conspectus is the oldest of the academy's lineages of study, begat by the sorcerer Azur. Scholars who follow in his footsteps pursue the mysteries of comets.",
+		"chn": "魔法学院雷亚卢卡利亚之中，\n在探索之路受到肯定的学徒\n穿戴的其中一种辉石头罩。\n\n能提升智力，但会降低精力。\n\n历史最悠久的卡勒罗斯教室，\n视魔法师亚兹勒为他们的根本，\n探索着彗星类的魔法。"
+	},
+	{
+		"id": 834000,
+		"eng": "One of the glintstone crowns bestowed upon Raya Lucaria scholars whose pursuits were deemed worthy.\n\nIncreases intelligence and arcane to the detriment of stamina.\n\nThis gentle-looking crown was granted to a scholar who excelled in her studies, which also merited the title of \"witch.\"",
+		"chn": "魔法学院雷亚卢卡利亚之中，\n在探索之路受到肯定的学徒\n穿戴的其中一种辉石头罩。\n\n能提升智力与感应，但会降低精力。\n\n此氛围柔和的辉石头罩\n会连同别称“魔女”，\n一同赠予表现出众的女性魔法学徒。"
+	},
+	{
+		"id": 834100,
+		"eng": "Stone mask of a Green Glintstone Sage.\nThis mask is broken, its glintstone fractured.",
+		"chn": "参考绿辉石贤者的形象设计的石头面具\n辉石碎裂，已受损"
+	},
+	{
+		"id": 840000,
+		"eng": "Cylindrical helm of plate metal reinforced with a lattice.\nWorn by marionette soldiers, crafted to serve the sorcerers.\n\nThe construction of this helm is remarkably crude.\n\nFor a doll, the only thing that matters is that it does not break.",
+		"chn": "利用格状金属板补强的桶盔。\n用来作为魔法师随从而制造的，\n人偶士兵的防具。\n\n作工非常地粗糙。\n\n只要能避免人偶损坏，就堪用了。"
+	},
+	{
+		"id": 840100,
+		"eng": "Armor of metal bands arranged in a lattice.\nWorn by marionette soldiers, crafted to serve the sorcerers.\n\nThe construction of this armor is remarkably crude, now rusted over and severely dented.\n\nFor a doll, the only thing that matters is that it does not break.",
+		"chn": "利用格状金属板补强的铠甲。\n用来作为魔法师随从而制造的，\n人偶士兵的防具。\n\n作工非常地粗糙，\n造型歪扭，生锈得非常严重。\n\n只要能避免人偶损坏，就堪用了。"
+	},
+	{
+		"id": 850000,
+		"eng": "Metal helm formed in the likeness of the face of a bird.\nWorn by avionette soldiers, crafted to serve the sorcerers.\n\nThe construction of this helm is remarkably crude.\n\nFor a doll, the only thing that matters is that it does not break.",
+		"chn": "参考鸟类的脸制成的金属制头盔。\n用来作为魔法师随从而制造的，\n鸟身人偶士兵的防具。\n\n作工非常地粗糙。\n\n只要能避免人偶损坏，就堪用了。"
+	},
+	{
+		"id": 860000,
+		"eng": "Helm worn by Vargram the Raging Wolf, one of the first Tarnished to visit the Roundtable Hold.\n\nVargram's nickname comes from the white wolf's mane that decorates this helm.",
+		"chn": "最先进入圆桌厅堂的创始褪色者其中一人，\n“白狼战鬼”巴格莱姆的头盔。\n\n头盔上装饰的白狼后颈毛，\n正是别称的由来。"
+	},
+	{
+		"id": 860100,
+		"eng": "Armor worn by Vargram the Raging Wolf, one of the first Tarnished to visit the Roundtable Hold.\n\nAccording to the old legends, wolves are the shadows of the Empyrean, and this is what Vargram aspired to be.",
+		"chn": "最先进入圆桌厅堂的创始褪色者其中一人，\n“白狼战鬼”巴格莱姆的铠甲。\n\n在古老的传说中，狼是神人的影子──\n而巴格莱姆心中也是如此盼望。"
+	},
+	{
+		"id": 860200,
+		"eng": "Gauntlets worn by Vargram the Raging Wolf, one of the first Tarnished to visit the Roundtable Hold.\n\nAccording to the old legends, wolves are the shadows of the Empyrean, and this is what Vargram aspired to be.",
+		"chn": "最先进入圆桌厅堂的创始褪色者其中一人，\n“白狼战鬼”巴格莱姆的臂甲。\n\n在古老的传说中，狼是神人的影子──\n而巴格莱姆心中也是如此盼望。"
+	},
+	{
+		"id": 860300,
+		"eng": "Greaves worn by Vargram the Raging Wolf, one of the first Tarnished to visit the Roundtable Hold.\n\nAccording to the old legends, wolves are the shadows of the Empyrean, and this is what Vargram aspired to be.",
+		"chn": "最先进入圆桌厅堂的创始褪色者其中一人，\n“白狼战鬼”巴格莱姆的腿甲。\n\n在古老的传说中，狼是神人的影子──\n而巴格莱姆心中也是如此盼望。"
+	},
+	{
+		"id": 861100,
+		"eng": "Armor worn by Vargram the Raging Wolf, one of the first Tarnished to visit the Roundtable Hold.\n\nAccording to the old legends, wolves are the shadows of the Empyrean, and this is what Vargram aspired to be.",
+		"chn": "最先进入圆桌厅堂的创始褪色者其中一人，\n“白狼战鬼”巴格莱姆的铠甲。\n\n在古老的传说中，狼是神人的影子──\n而巴格莱姆心中也是如此盼望。"
+	},
+	{
+		"id": 870000,
+		"eng": "Helm made from strips of iron fastened together.\nWorn by warriors of the Land of Reeds.\n\nThe Land of Reeds has long been locked in a miserable civil war, during which time it has remained alienated from the cultures of its neighbors. Little wonder that the entire nation has succumbed to blood-soaked madness, or so it is said.",
+		"chn": "串连铁片，绑紧制成的头盔。\n芦苇之地的战士穿戴的防具。\n\n据说该地内乱不断，文化交流中断已久。\n也因此，该地人民的内心\n都充满着染血的疯狂。"
+	},
+	{
+		"id": 870100,
+		"eng": "Armor made from strips of iron fastened together.\nWorn by warriors of the Land of Reeds.\n\nThe grimy outer mantle is made from withered reeds from the warrior's birthplace.\nPerhaps its comforts extend to nostalgic thoughts of home.",
+		"chn": "串连铁片，绑紧制成的铠甲。\n芦苇之地的战士穿戴的防具。\n\n颜色枯黄，模样老旧的植物外衣，\n是以家乡的芦苇编成，\n可能思乡的心意也留存其中。"
+	},
+	{
+		"id": 870200,
+		"eng": "Gauntlets wrapped in tough leather.\nWorn by warriors of the Land of Reeds.",
+		"chn": "缠绕硬质皮革的臂甲。\n芦苇之地的战士穿戴的防具。"
+	},
+	{
+		"id": 870300,
+		"eng": "Greaves wrapped in tough leather.\nWorn by warriors of the Land of Reeds.",
+		"chn": "缠绕硬质皮革的腿甲。\n芦苇之地的战士穿戴的防具。"
+	},
+	{
+		"id": 871100,
+		"eng": "Armor made from strips of iron fastened together.\nWorn by warriors of the Land of Reeds.\n\nThe Land of Reeds has long been locked in a miserable civil war, during which time it has remained alienated from the cultures of its neighbors. Little wonder that the entire nation has succumbed to blood-soaked madness, or so it is said.",
+		"chn": "串连铁片，绑紧制成的铠甲。\n芦苇之地的战士穿戴的防具。\n\n据说该地内乱不断，文化交流中断已久。\n也因此，该地人民的内心\n都充满着染血的疯狂。"
+	},
+	{
+		"id": 872000,
+		"eng": "A wooden mask that depicts an old man bearing his teeth. The source of the sobriquet of the great swordsman of the Land of Reeds.\nRaises dexterity as it lowers focus.\n\nThe more he sharpened his mind, the more the absurdities of the world came into stark relief. And so Okina renounced it all, and rose to a higher plane. There was only himself. His katana. And its mastery.\n\nBefore long, Okina became a demon of a swordsman.",
+		"chn": "以龇牙咧嘴的老人形象制成的木制面具。\n芦苇之地大剑客的别称由来。\n能提升灵巧，但会降低理智度。\n\n将心性磨练至极限的境地，会看见无趣的事物。\n舍弃那些事物之后，“老翁”随之诞生──\n刀与本身，这两者登峰造极就好。\n\n在那之后，“老翁”化成了修罗。"
+	},
+	{
+		"id": 872100,
+		"eng": "Armor of the White Reeds, fashioned from banded iron plates.\nWorn by the Inaba, head disciples of the great swordsman Okina.\n\nThe Inaba traveled in pursuit of not only the master who abandoned them, but also proper deaths, won honorably through hard-fought combat.\nTo be a White Reed is to seek death; fitting for the Inaba, who desired nothing more than to die by the sword.",
+		"chn": "串连铁片，绑紧制成的铠甲。\n大剑客“老翁”的高徒，稻叶众穿戴的防具。\n\n稻叶众追在抛弃他们的师父身后，\n就为了正大光明交战，死在尸山血海之下。\n\n作为殓衣用途的防具。\n剑客不畏死亡，视死如归。"
+	},
+	{
+		"id": 872200,
+		"eng": "Gauntlets of the White Reeds, fashioned from banded iron plates.\nWorn by the Inaba, head disciples of the great swordsman Okina.\n\nThe Inaba traveled in pursuit of not only the master who abandoned them, but also proper deaths, won honorably through hard-fought combat.\nTo be a White Reed is to seek death; fitting for the Inaba, who desired nothing more than to die by the sword.",
+		"chn": "串连铁片，绑紧制成的臂甲。\n大剑客“老翁”的高徒，稻叶众穿戴的防具。\n\n稻叶众追在抛弃他们的师父身后，\n就为了正大光明交战，死在尸山血海之下。\n\n作为殓衣用途的防具。\n剑客不畏死亡，视死如归。"
+	},
+	{
+		"id": 872300,
+		"eng": "Greaves of the White Reeds, fashioned from banded iron plates.\nWorn by the Inaba, head disciples of the great swordsman Okina.\n\nThe Inaba traveled in pursuit of not only the master who abandoned them, but also proper deaths, won honorably through hard-fought combat.\nTo be a White Reed is to seek death; fitting for the Inaba, who desired nothing more than to die by the sword.",
+		"chn": "串连铁片，绑紧制成的腿甲。\n大剑客“老翁”的高徒，稻叶众穿戴的防具。\n\n稻叶众追在抛弃他们的师父身后，\n就为了正大光明交战，死在尸山血海之下。\n\n作为殓衣用途的防具。\n剑客不畏死亡，视死如归。"
+	},
+	{
+		"id": 880000,
+		"eng": "Black hood for blending in with the darkness.\nWorn by church confessors.\n\nThe churches outside the Lands Between, dedicated to the teachings of the Two Fingers, send confessors out to follow the guidance of grace.\n\nThe confessors are loyal servants to the Two Fingers, ready to hunt down and quietly dispose of their enemies.",
+		"chn": "融入黑暗的黑色风帽。\n教会密使的防具。\n\n在交界地之外，传播双指教诲的教会，\n根据赐福的指引派出诸位密使。\n\n他们是对双指忠心耿耿的奴仆，\n也是暗地解决双指敌人的猎刀。"
+	},
+	{
+		"id": 880100,
+		"eng": "Black leather armor for blending in with the darkness.\nWorn by church confessors.\n\nThe churches outside the Lands Between, dedicated to the teachings of the Two Fingers, send confessors out to follow the guidance of grace.\n\nThe confessors are loyal servants to the Two Fingers, ready to hunt down and quietly dispose of their enemies.",
+		"chn": "融入黑暗的黑色皮制铠甲。\n教会密使的防具。\n\n在交界地之外，传播双指教诲的教会，\n根据赐福的指引派出诸位密使。\n\n他们是对双指忠心耿耿的奴仆，\n也是暗地解决双指敌人的猎刀。"
+	},
+	{
+		"id": 880200,
+		"eng": "Black leather gloves of the church confessors.\n\nThe churches outside the Lands Between, dedicated to the teachings of the Two Fingers, send confessors out to follow the guidance of grace.\n\nThe confessors are loyal servants to the Two Fingers, ready to hunt down and quietly dispose of their enemies.",
+		"chn": "教会密使穿戴的皮制手套。\n\n在交界地之外，传播双指教诲的教会，\n根据赐福的指引派出诸位密使。\n\n他们是对双指忠心耿耿的奴仆，\n也是暗地解决双指敌人的猎刀。"
+	},
+	{
+		"id": 880300,
+		"eng": "Leather boots of the church confessors.\n\nThe churches outside the Lands Between, dedicated to the teachings of the Two Fingers, send confessors out to follow the guidance of grace.\n\nThe confessors are loyal servants to the Two Fingers, ready to hunt down and quietly dispose of their enemies.",
+		"chn": "教会密使穿戴的皮制靴子。\n\n在交界地之外，传播双指教诲的教会，\n根据赐福的指引派出诸位密使。\n\n他们是对双指忠心耿耿的奴仆，\n也是暗地解决双指敌人的猎刀。"
+	},
+	{
+		"id": 881000,
+		"eng": "Cloth headwrap worn under a church confessor's black hood.\nSuch hoods are made for blending in with the darkness.",
+		"chn": "融入黑暗的黑色风帽，\n底下穿戴的头巾。"
+	},
+	{
+		"id": 881100,
+		"eng": "Black leather armor for blending in with the darkness.\nWorn by church confessors.\n\nThe churches outside the Lands Between, dedicated to the teachings of the Two Fingers, send confessors out to follow the guidance of grace.\n\nThe confessors are loyal servants to the Two Fingers, ready to hunt down and quietly dispose of their enemies.",
+		"chn": "融入黑暗的黑色皮制铠甲。\n教会密使的防具。\n\n在交界地之外，传播双指教诲的教会，\n根据赐福的指引派出诸位密使。\n\n他们是对双指忠心耿耿的奴仆，\n也是暗地解决双指敌人的猎刀。"
+	},
+	{
+		"id": 890000,
+		"eng": "Iron mask forced on a prisoner convicted of an appalling crime.\nThick, heavy, and utterly stifling.\n\nA foul creation designed to torment the wearer, either slowly fermenting hatred within their heart, or a spiritual fervor that is near indistinguishable from it.",
+		"chn": "犯下重罪的囚犯被戴上的铁制面具。\n面具厚又重，戴上后感到十分压迫。\n\n面具可说是恶意化成的实体，\n会让配戴者的心中慢慢酝酿出某物──\n一说是憎恨，也可能是近似憎恨的坚强意念。"
+	},
+	{
+		"id": 890100,
+		"eng": "Tattered clothing.\nWorn by a prisoner convicted of an appalling crime.\n\nNever once washed, every fiber is filthy.",
+		"chn": "破烂不堪的布制衣服。\n犯下重罪的囚犯穿戴的防具。\n\n不曾洗过，非常脏。"
+	},
+	{
+		"id": 890300,
+		"eng": "Tattered trousers.\nWorn by a prisoner convicted of an appalling crime.\n\nNever once washed, every fiber is filthy.\nThe smell is beyond belief.",
+		"chn": "破烂不堪的长裤。\n犯下重罪的囚犯穿戴的防具。\n\n不曾洗过，非常脏，味道很重。"
+	},
+	{
+		"id": 891000,
+		"eng": "Iron mask forced on convicted prisoners.\nWorn by the blackguard Big Boggart.\n\nTo Boggart, the mask made him all the more threatening, and helped him get what he wanted. But it was also a mirror of his emptiness.",
+		"chn": "犯罪的囚犯被戴上的铁制面具。\n别称“愚弄巨妖”的流氓的防具。\n\n此面具对他而言，\n是一个能壮大自己、威胁他人的道具，\n也是一种虚张声势的手段。"
+	},
+	{
+		"id": 900000,
+		"eng": "Hood worn by traveling maidens.\n\nMaidens traversed the Lands Between for different reasons. Some to seek audience with the Fingers. Others, to find the Tarnished who they were destined to guide.",
+		"chn": "旅行的女巫们穿戴的风帽。\n\n有人是为了觐见指头、\n有人是为了遇见必须引导的褪色者──\n女巫们因此在交界地旅行。"
+	},
+	{
+		"id": 900100,
+		"eng": "Robe worn by traveling maidens.\n\nMaidens traversed the Lands Between for different reasons. Some to seek audience with the Fingers. Others, to find the Tarnished who they were destined to guide.",
+		"chn": "旅行的女巫们穿戴的长袍。\n\n有人是为了觐见指头、\n有人是为了遇见必须引导的褪色者──\n女巫们因此在交界地旅行。"
+	},
+	{
+		"id": 900200,
+		"eng": "Gloves worn by traveling maidens.\n\nMaidens traversed the Lands Between for different reasons. Some to seek audience with the Fingers. Others, to find the Tarnished who they were destined to guide.",
+		"chn": "旅行的女巫们穿戴的手套。\n\n有人是为了觐见指头、\n有人是为了遇见必须引导的褪色者──\n女巫们因此在交界地旅行。"
+	},
+	{
+		"id": 900300,
+		"eng": "Boots worn by traveling maidens.\n\nMaidens traversed the Lands Between for different reasons. Some to seek audience with the Fingers. Others, to find the Tarnished who they were destined to guide.",
+		"chn": "旅行的女巫们穿戴的靴子。\n\n有人是为了觐见指头、\n有人是为了遇见必须引导的褪色者──\n女巫们因此在交界地旅行。"
+	},
+	{
+		"id": 901100,
+		"eng": "Modest garb of traveling maidens, typically worn under their robes.",
+		"chn": "旅行的女巫们穿戴的长袍，\n底下穿着的简朴衣物。"
+	},
+	{
+		"id": 902000,
+		"eng": "Fillet worn by maidens who serve the Two Fingers.\n\nThe maidens live to serve a chosen Tarnished, sharing their guidance and the wisdom of the Two Fingers.\n\nThe guidance of grace would ensure that the pair be brought together. Or at least, such was the promise long ago.",
+		"chn": "侍奉双指的女巫们穿戴的帽子。\n\n她们各自会侍奉一位褪色者，\n引导褪色者，以及传达双指的话语。\n\n据说赐福的指引会让两者相会──\n放眼过去，皆是如此。"
+	},
+	{
+		"id": 902100,
+		"eng": "Robe worn by maidens who serve the Two Fingers.\n\nThe maidens live to serve a chosen Tarnished, sharing their guidance and the wisdom of the Two Fingers.\n\nThe guidance of grace would ensure that the pair be brought together. Or at least, such was the promise long ago.",
+		"chn": "侍奉双指的女巫们穿戴的长袍。\n\n她们各自会侍奉一位褪色者，\n引导褪色者，以及传达双指的话语。\n\n据说赐福的指引会让两者相会──\n放眼过去，皆是如此。"
+	},
+	{
+		"id": 902300,
+		"eng": "Shoes worn by maidens who serve the Two Fingers.\n\nThe maidens live to serve a chosen Tarnished, sharing their guidance and the wisdom of the Two Fingers.\n\nThe guidance of grace would ensure that the pair be brought together. Or at least, such was the promise long ago.",
+		"chn": "侍奉双指的女巫们穿戴的鞋子。\n\n她们各自会侍奉一位褪色者，\n引导褪色者，以及传达双指的话语。\n\n据说赐福的指引会让两者相会──\n放眼过去，皆是如此。"
+	},
+	{
+		"id": 903100,
+		"eng": "Robe worn by maidens who serve the Two Fingers.\n\nThe maidens live to serve a chosen Tarnished, sharing their guidance and the wisdom of the Two Fingers.\n\nThe guidance of grace would ensure that the pair be brought together. Or at least, such was the promise long ago.",
+		"chn": "侍奉双指的女巫们穿戴的长袍。\n\n她们各自会侍奉一位褪色者，\n引导褪色者，以及传达双指的话语。\n\n据说赐福的指引会让两者相会──\n放眼过去，皆是如此。"
+	},
+	{
+		"id": 910000,
+		"eng": "Large hat with the movements of the stars drawn on the inside of the brim.\nWorn by the magic preceptors who served the Carian royals.\n\nIncreases mind to the detriment of stamina.\n\nGlintstone sorcerers are the descendants of astrologers, a fact that the Carians remain aware of. Even if their fate has been long severed from the stars.",
+		"chn": "帽檐底下绘有星星运行轨迹的大帽子。\n侍奉卡利亚王室的魔法教授穿戴的防具。\n\n能提升集中力，但会降低精力。\n\n辉石魔法师是观星者之末，\n卡利亚对此难以忘怀──\n即使事到如今，命运已经不与星星同在。"
+	},
+	{
+		"id": 910100,
+		"eng": "A long, bright blue gown with the movements of the stars drawn upon it.\nWorn by the magic preceptors who served the Carian royals.\n\nGlintstone sorcerers are the descendants of astrologers, a fact that the Carians remain aware of. Even if their fate has been long severed from the stars.",
+		"chn": "绘有星星运行轨迹的鲜艳蓝色长袍。\n侍奉卡利亚王室的魔法教授穿戴的防具。\n\n辉石魔法师是观星者之末，\n卡利亚对此难以忘怀──\n即使事到如今，命运已经不与星星同在。"
+	},
+	{
+		"id": 910200,
+		"eng": "Gloves of the magic preceptors who serve the Carian royals.\nBlack and perfectly discreet.",
+		"chn": "侍奉卡利亚王室的魔法教授穿戴的手套。\n漆黑又非常不起眼的防具。"
+	},
+	{
+		"id": 910300,
+		"eng": "Trousers of the magic preceptors who serve the Carian royals.\nBlack and perfectly discreet.",
+		"chn": "侍奉卡利亚王室的魔法教授穿戴的长裤。\n漆黑又非常不起眼的防具。"
+	},
+	{
+		"id": 911000,
+		"eng": "Mask with the mouth sewn shut with gold thread.\nIncreases arcane.\n\nWhen Radagon married Rennala, he ordered the Carian magic preceptors to don these masks. To make it clear that all of their matters were to be kept strictly private.",
+		"chn": "以黄金线缝死嘴部开口的面具。\n能提升感應。\n\n拉达冈成为蕾娜菈丈夫之后，\n要求卡利亚的魔法教授们戴上的物品。\n\n　记住了，与我相关的，\n　一律不得张扬。"
+	},
+	{
+		"id": 911100,
+		"eng": "Modest garb, previously worn under a long, bright blue gown with the movements of the stars drawn upon it.",
+		"chn": "绘有星星运行轨迹的鲜艳蓝色长袍，\n底下穿着的，非常不起眼的衣物。"
+	},
+	{
+		"id": 920000,
+		"eng": "A headdress made from wildflowers.\nWearing this might make you less easy to spot.",
+		"chn": "用野草制成的披盖物。\n穿戴身上可能会不容易被敌人发现。"
+	},
+	{
+		"id": 930000,
+		"eng": "Skeletal mask that tightly grips the face.\nWorn by the assassins of Ravenmount.\n\nThis ritual implement relentlessly digs into the wearer's face, preserving one's human instincts while dressed in imitation of the Deathbirds.",
+		"chn": "有如受骨头吞噬，覆盖全脸的亡骨面具。\n鸦山的杀手们穿戴的防具。\n\n此为他们模仿死之猛禽时，\n用来维持人类意识的诅咒器具，\n能持续、紧紧地抓住配戴者。"
+	},
+	{
+		"id": 930100,
+		"eng": "Robe crafted with the black feathers of a bird of prey.\nWorn by the assassins of Ravenmount.\n\nA ritual implement for transforming into a Deathbird, if only by imitation.\nStrengthens jump attacks.\n\n\"We are birds of prey, bringers of death.\"",
+		"chn": "以猛禽的黑羽毛制成的长袍。\n鸦山的杀手们穿戴的防具。\n\n模仿死之猛禽用的诅咒器具。\n能强化跳跃攻击。\n\n　我等就是死之鸟。"
+	},
+	{
+		"id": 930200,
+		"eng": "Manchettes made by simply wrapping dirty cloth around the arms.\nWorn by bandits.",
+		"chn": "用骯脏的布缠绕手腕的防具，\n盗贼们穿戴的腕套。"
+	},
+	{
+		"id": 930300,
+		"eng": "Leather boots worn by bandits.\n\nLight for ease of movement, and supple for masking sound. In trade, they offer little damage negation.",
+		"chn": "盗贼们的皮制靴子。\n\n轻盈得不会妨碍行动，平滑得不会发出声响──\n因为着重这些特性的关系，减伤率偏低。"
+	},
+	{
+		"id": 931100,
+		"eng": "Leather garb worn by bandits.\n\nLight for ease of movement, and supple for masking sound. In trade, they offer little damage negation.",
+		"chn": "盗贼们的皮制束腰衣。\n\n轻盈得不会妨碍行动，平滑得不会发出声响──\n因为着重这些特性的关系，减伤率偏低。"
+	},
+	{
+		"id": 940000,
+		"eng": "A pointy, ragged hood.\nWorn by the knight Jerren.\n\nThe hood hides an aged, bearded mask.\n\nJerren served General Radahn as a guest commander, and they are said to have sworn an oath of honorable death to one another. ",
+		"chn": "破旧布块拼合而成的尖顶风帽。\n骑士杰廉的防具。\n\n风帽底下藏着一张蓄胡老人的面具。\n\n杰廉是拉塔恩将军的客将。\n据说他们立下约定，要让彼此“死得名誉”。"
+	},
+	{
+		"id": 940100,
+		"eng": "Unusually colorful armor.\nWorn by the knight Jerren.\n\nJerren preferred a nomadic existence, but after spending time as a guest of the Carian royals, he became a guest commander for General Radahn.\n\nAnd for the first time, the restless tumbleweed would be bound by honorable oath.",
+		"chn": "鲜艳又奇特的铠甲。\n骑士杰廉的防具。\n\n杰廉爱好流浪，\n在卡利亚王室作客一段时间后，\n成为拉塔恩将军的客将。\n\n那自由自在的浮萍，\n最后受到情义以及约定的束缚。"
+	},
+	{
+		"id": 940200,
+		"eng": "The knight Jerren's manchettes.\n\nJerren preferred a nomadic existence, but after spending time as a guest of the Carian royals, he became the guest commander for General Radahn.\n\nAnd for the first time, the restless tumbleweed would be bound by honorable oath.",
+		"chn": "骑士杰廉的腕套。\n\n杰廉爱好流浪，\n在卡利亚王室作客一段时间后，\n成为拉塔恩将军的客将。\n\n那自由自在的浮萍，\n最后受到情义以及约定的束缚。"
+	},
+	{
+		"id": 940300,
+		"eng": "The knight Jerren's breeches.\n\nJerren preferred a nomadic existence, but after spending time as a guest of the Carian royals, he became the guest commander for General Radahn.\n\nAnd for the first time, the restless tumbleweed would be bound by honorable oath.",
+		"chn": "鲜艳又奇特的长裤。\n骑士杰廉的防具。\n\n杰廉爱好流浪，\n在卡利亚王室作客一段时间后，\n成为拉塔恩将军的客将。\n\n那自由自在的浮萍，\n最后受到情义以及约定的束缚。"
+	},
+	{
+		"id": 941000,
+		"eng": "A pointy, ragged hood.\nWorn by the knight Jerren.\n\nThe hood hides an aged, bearded mask.\n\nJerren served General Radahn as a guest commander, and they are said to have sworn an oath of honorable death to one another. ",
+		"chn": "破旧布块拼合而成的尖顶风帽。\n骑士杰廉的防具。\n\n风帽底下藏着一张蓄胡老人的面具。\n\n杰廉是拉塔恩将军的客将。\n据说他们立下约定，要让彼此“死得名誉”。"
+	},
+	{
+		"id": 950000,
+		"eng": "Iron helm singed and blistered by fingers.\nWorn by Vyke, knight of the Roundtable Hold.\n\nNo other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy.\n\nDid he make his choice for his maiden, or did some other force lure him with suggestion?",
+		"chn": "带有烧熔指痕的铁制头盔。\n“圆桌骑士”维克的防具。\n\n据说在过去，维克曾是最接近\n艾尔登之王存在的其中一位褪色者，\n然而有一天，他潜入王城深处，\n最后被癫火烧得皮开肉绽。\n\n那行为背后的动机是为了自己的女巫？\n还是受到什么人物的煽动？"
+	},
+	{
+		"id": 950100,
+		"eng": "Iron armor singed and blistered by fingers.\nWorn by Vyke, knight of the Roundtable Hold.\n\nNo other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy.\n\nDid he make his choice for his maiden, or did some other force lure him with suggestion?",
+		"chn": "带有烧熔指痕的铁制铠甲。\n“圆桌骑士”维克的防具。\n\n据说在过去，维克曾是最接近\n艾尔登之王存在的其中一位褪色者，\n然而有一天，他潜入王城深处，\n最后被癫火烧得皮开肉绽。\n\n那行为背后的动机是为了自己的女巫？\n还是受到什么人物的煽动？"
+	},
+	{
+		"id": 950200,
+		"eng": "Iron gauntlets singed and blistered by fingers.\nWorn by Vyke, knight of the Roundtable Hold.\n\nNo other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy.\n\nDid he make his choice for his maiden, or did some other force lure him with suggestion?",
+		"chn": "带有烧熔指痕的铁制臂甲。\n“圆桌骑士”维克的防具。\n\n据说在过去，维克曾是最接近\n艾尔登之王存在的其中一位褪色者，\n然而有一天，他潜入王城深处，\n最后被癫火烧得皮开肉绽。\n\n那行为背后的动机是为了自己的女巫？\n还是受到什么人物的煽动？"
+	},
+	{
+		"id": 950300,
+		"eng": "Iron greaves singed and blistered by fingers.\nWorn by Vyke, knight of the Roundtable Hold.\n\nNo other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy.\n\nDid he make his choice for his maiden, or did some other force lure him with suggestion?",
+		"chn": "带有烧熔指痕的铁制腿甲。\n“圆桌骑士”维克的防具。\n\n据说在过去，维克曾是最接近\n艾尔登之王存在的其中一位褪色者，\n然而有一天，他潜入王城深处，\n最后被癫火烧得皮开肉绽。\n\n那行为背后的动机是为了自己的女巫？\n还是受到什么人物的煽动？"
+	},
+	{
+		"id": 951100,
+		"eng": "Iron armor singed and blistered by fingers.\nWorn by Vyke, knight of the Roundtable Hold.\n\nNo other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy.\n\nDid he make his choice for his maiden, or did some other force lure him with suggestion?",
+		"chn": "带有烧熔指痕的铁制铠甲。\n“圆桌骑士”维克的防具。\n\n据说在过去，维克曾是最接近\n艾尔登之王存在的其中一位褪色者，\n然而有一天，他潜入王城深处，\n最后被癫火烧得皮开肉绽。\n\n那行为背后的动机是为了自己的女巫？\n还是受到什么人物的煽动？"
+	},
+	{
+		"id": 960000,
+		"eng": "Mask worn by Tanith, Lady of the Volcano Manor, in the image of a foreign queen.\nIncreases dexterity.\n\nLong ago, when Rykard first set eyes on Tanith, she was working as a dancer in a foreign land. Soon, he made her his consort.\nShe was the only human to remain by his side when he became the serpent of blasphemy.\n\nIn that moment, Tanith was truly charmed by him.",
+		"chn": "参考异国女王形象制成的面具。\n火山官邸之主，塔妮丝的防具。\n能提升灵巧。\n\n在过去，塔妮丝是异国的舞娘，\n拉卡德遇见她之后一见钟情，纳为侧室。\n后来在拉卡德化成亵渎大蛇之后，\n她是唯一维持人类身分，留在他身边的人。\n\n在那一刻，塔妮丝才第一次受拉卡德吸引。"
+	},
+	{
+		"id": 960100,
+		"eng": "Fine robe of white silk worn by Tanith, Lady of the Volcano Manor.\n\nLong ago, when Rykard first set eyes on Tanith, she was working as a dancer in a foreign land. Soon, he made her his consort.\nShe was the only human to remain by his side when he became the serpent of blasphemy.\n\nIn that moment, Tanith was truly charmed by him.",
+		"chn": "以白丝制成的优质长袍。\n火山官邸之主，塔妮丝的防具。\n\n在过去，塔妮丝是异国的舞娘，\n拉卡德遇见她之后一见钟情，纳为侧室。\n后来在拉卡德化成亵渎大蛇之后，\n她是唯一维持人类身分，留在他身边的人。\n\n在那一刻，塔妮丝才第一次受拉卡德吸引。"
+	},
+	{
+		"id": 960300,
+		"eng": "Fine white trousers, perfectly suited for wearing beneath a silk robe.",
+		"chn": "优质的白色布质长裤，\n白丝长袍底下穿着的衣物。"
+	},
+	{
+		"id": 961000,
+		"eng": "Mask in the image of a wizened sage.\nCustomary dress among lords in a smaller nation.\nIncreases faith.\n\nSuch a mask illustrates the qualities of an ideal lord: chiefly, wise and possessing a certain defanged geniality.\nOne at the center of society often finds these qualities most expedient.",
+		"chn": "以老贤者形象制成的面具。\n小国领主们穿戴的防具。\n能提升信仰。\n\n据说那是理想领主的象征──\n富有智慧，温和又不具攻击性。\n对权力中心而言，也是最方便行事的特质。"
+	},
+	{
+		"id": 961100,
+		"eng": "Luxurious robe worn by lords in a smaller nation.\nIts fine blue mantle serves to prove its wearer's status.",
+		"chn": "小国领主们穿戴的长袍。\n蓝色罩袍是代表领主地位的证明。"
+	},
+	{
+		"id": 962100,
+		"eng": "Embroidered, bright green robe worn by noble children.\nDonning such a robe is traditionally the child's first show of burgeoning independence.",
+		"chn": "缀满刺绣的嫩绿色长袍。\n贵族子弟穿戴的衣物。\n\n据说是开始离开父母庇护的象征。"
+	},
+	{
+		"id": 963000,
+		"eng": "Mask in the image of a white-haired young noble.\nCustomarily worn by the head of House Marais.\nIncreases arcane.\n\nThe Marais family has a dual history spanning generations, serving as both executioners and castellans of the Shaded Castle. This mask bears the likeness of the first of their line.",
+		"chn": "以白发贵族子弟形象制成的面具。\n玛雷家当家的防具。\n能提升感应。\n\n日荫城的城主玛雷家，代代皆是行刑者。\n据说面具是参考第一代当家的模样而制。"
+	},
+	{
+		"id": 963100,
+		"eng": "Robe with a black mantle across the shoulders.\nCustomarily worn by the head of House Marais.\n\nThe sons of House Marais are all sickly born.\nLittle wonder that Maleigh Marais would be so beguiled by the beautiful and fierce goddess who was born into rot.",
+		"chn": "肩上披着黑色罩袍的长袍。\n玛雷家当家的防具。\n\n玛雷家的男性生来就与疾病共存。\n也可能因此，玛雷玛雷才会受玛莲妮亚吸引──\n那诞生世上就受腐败宿疾侵蚀，\n活得美丽又壮烈的女神。"
+	},
+	{
+		"id": 963200,
+		"eng": "Manchettes formed from tightly-wound bandages soaked through with blood.\n\nAny protection is welcome for the festering arms beneath.",
+		"chn": "用渗血的绷带紧紧缠绕的腕套。\n为了保护溃烂手指而用的物品。"
+	},
+	{
+		"id": 964000,
+		"eng": "Mask formed from tightly-wound bandages soaked through with blood.\n\nEven the most ghastly cover is more inviting than the festering face beneath.",
+		"chn": "用渗血的绷带紧紧包覆整颗头的面具。\n为了保护溃烂脸部而用的物品。"
+	},
+	{
+		"id": 964100,
+		"eng": "Grubby blue robe worn by magisterial officials to carry out their grim tasks.\n\nSurveillance, executions, gruesome rituals… The darkest duties drive the wheels of mankind.",
+		"chn": "略显骯脏的蓝色长袍。\n肩负严酷职责的官吏们穿戴的上衣。\n\n监视、行刑、残酷的仪式──\n然而有这些见不得光的职责，人们才得以生存。"
+	},
+	{
+		"id": 970000,
+		"eng": "Malformed helm resembling an Omen with its horns cut off.\n\nWorn by the Dung Eater, its form is a vision of the landscape of his mind, and of his appearance as he wished to see it.\n\nThe heart of an Omen without the body to match; could there be any crueler existence?\nWhat does it matter, then, if the curse claims it all?",
+		"chn": "参考角被切除的恶兆之子\n制成的异形头盔。食粪者的防具。\n\n据说是食粪者心中浮现的幻象，\n从镜中反映出的，自己的真实模样。\n\n拥有恶兆之子的心，却没有相符的身体──\n世上竟然存在这种痛苦。\n让所有的一切受诅咒吧。"
+	},
+	{
+		"id": 970100,
+		"eng": "Malformed armor resembling an Omen with its horns cut off.\n\nWorn by the Dung Eater.\nThe heavy, sun-shaped medallion represents both the guidance he once saw, and the ring to which it will one day lead.",
+		"chn": "参考角被切除的恶兆之子\n制成的异形铠甲。食粪者的防具。\n\n铠甲上的太阳徽章是他曾见到的引导，\n也是总有一天会在引导尽头看见的，\n那神似法环的存在。"
+	},
+	{
+		"id": 970200,
+		"eng": "Malformed gauntlets resembling an Omen with its horns cut off.\n\nWorn by the Dung Eater, their form is a vision of the landscape of his mind, and of his appearance as he wished to see it.\n\nThe heart of an Omen without the body to match; could there be any crueler existence?\nWhat does it matter, then, if the curse claims it all?",
+		"chn": "参考角被切除的恶兆之子\n制成的异形臂甲。食粪者的防具。\n\n据说是食粪者心中浮现的幻象，\n从镜中反映出的，自己的真实模样。\n\n拥有恶兆之子的心，却没有相符的身体──\n世上竟然存在这种痛苦。\n让所有的一切受诅咒吧。"
+	},
+	{
+		"id": 970300,
+		"eng": "Malformed greaves resembling an Omen with its horns cut off.\n\nWorn by the Dung Eater, their form is a vision of the landscape of his mind, and of his appearance as he wished to see it.\n\nThe heart of an Omen without the body to match; could there be any crueler existence?\nWhat does it matter, then, if the curse claims it all?",
+		"chn": "参考角被切除的恶兆之子\n制成的异形腿甲。食粪者的防具。\n\n据说是食粪者心中浮现的幻象，\n从镜中反映出的，自己的真实模样。\n\n拥有恶兆之子的心，却没有相符的身体──\n世上竟然存在这种痛苦。\n让所有的一切受诅咒吧。"
+	},
+	{
+		"id": 980000,
+		"eng": "Helm of the enchanted knights that once served the Carian royal family.\n\nThe enchanted knights, anointed by the Lunar Queen, were all heroes of the highest honors, but fell into disarray with the decline of the royal family.",
+		"chn": "过去侍奉卡利亚王室的\n魔法骑士们穿戴的头盔。\n\n月之女王授予勋章的骑士\n皆是万夫莫敌的英雄，无一例外──\n然而王室衰微，英雄也随之消逝。"
+	},
+	{
+		"id": 980100,
+		"eng": "Armor of the enchanted knights that once served the Carian royal family.\n\nThe enchanted knights, anointed by the Lunar Queen, were all heroes of the highest honors, but fell into disarray with the decline of the royal family.",
+		"chn": "过去侍奉卡利亚王室的\n魔法骑士们穿戴的铠甲。\n\n月之女王授予勋章的骑士\n皆是万夫莫敌的英雄，无一例外──\n然而王室衰微，英雄也随之消逝。"
+	},
+	{
+		"id": 980200,
+		"eng": "Gauntlets of the enchanted knights that once served the Carian royal family.\n\nThe enchanted knights, anointed by the Lunar Queen, were all heroes of the highest honors, but fell into disarray with the decline of the royal family.",
+		"chn": "过去侍奉卡利亚王室的\n魔法骑士们穿戴的臂甲。\n\n月之女王授予勋章的骑士\n皆是万夫莫敌的英雄，无一例外──\n然而王室衰微，英雄也随之消逝。"
+	},
+	{
+		"id": 980300,
+		"eng": "Greaves of the enchanted knights that once served the Carian royal family.\n\nThe enchanted knights, anointed by the Lunar Queen, were all heroes of the highest honors, but fell into disarray with the decline of the royal family.",
+		"chn": "过去侍奉卡利亚王室的\n魔法骑士们穿戴的腿甲。\n\n月之女王授予勋章的骑士\n皆是万夫莫敌的英雄，无一例外──\n然而王室衰微，英雄也随之消逝。"
+	},
+	{
+		"id": 981100,
+		"eng": "Armor of the enchanted knights that once served the Carian royal family.\n\nThe enchanted knights, anointed by the Lunar Queen, were all heroes of the highest honors, but fell into disarray with the decline of the royal family.",
+		"chn": "过去侍奉卡利亚王室的\n魔法骑士们穿戴的铠甲。\n\n月之女王授予勋章的骑士\n皆是万夫莫敌的英雄，无一例外──\n然而王室衰微，英雄也随之消逝。"
+	},
+	{
+		"id": 990000,
+		"eng": "One of the glintstone crowns bestowed upon Raya Lucaria scholars whose pursuits were deemed worthy.\n\nIncreases intelligence and endurance to the detriment of FP.\n\nThe crown of Hierodas was granted to scholars who engaged in nomadic study away from the academy.",
+		"chn": "魔法学院雷亚卢卡利亚之中，\n在探索之路受到肯定的学徒\n穿戴的其中一种辉石头罩。\n\n能提升智力与耐力，但会降低专注值。\n\n那些离开学院，想借由流浪四方学习的人，\n会受赠亚罗塔斯辉石头罩。"
+	},
+	{
+		"id": 990100,
+		"eng": "Commonplace robe made of thick cloth.\nWorn by the Errant Sorcerer Wilhelm, one of the first Tarnished to visit Roundtable Hold.\n\nA silent seeker of sorcery, who had gone so far as to make contact with the primeval current, Wilhelm was led by guidance into confrontation with his friend Vargram, and it is said that he was then taken prisoner in Roundtable Hold.",
+		"chn": "常见的厚实布质长袍。\n最先进入圆桌厅堂的创始褪色者其中一人，\n“离群魔法师”维赫勒的防具。\n\n据说那接触到魔法起源的沉静求道者，\n在引导之末与朋友巴格莱姆两败俱伤，\n就此囚禁在圆桌厅堂。"
+	},
+	{
+		"id": 990200,
+		"eng": "Commonplace leather manchettes.\nTheir hands are inlaid with dulled glintstone.",
+		"chn": "常见的皮制腕套。\n手上四处嵌入了发出钝光的辉石。"
+	},
+	{
+		"id": 990300,
+		"eng": "Commonplace leather boots, sturdy enough to withstand a long journey.",
+		"chn": "常见的皮制靴子。\n能熬过漫长旅行的坚固防具。"
+	},
+	{
+		"id": 991100,
+		"eng": "Commonplace robe made of thick cloth.\nWorn by the Errant Sorcerer Wilhelm, one of the first Tarnished to visit Roundtable Hold.\n\nA silent seeker of sorcery, who had gone so far as to make contact with the primeval current, Wilhelm was led by guidance into confrontation with his friend Vargram, and it is said that he was then taken prisoner in Roundtable Hold.",
+		"chn": "常见的厚实布质长袍。\n最先进入圆桌厅堂的创始褪色者其中一人，\n“离群魔法师”维赫勒的防具。\n\n据说那接触到魔法起源的沉静求道者，\n在引导之末与朋友巴格莱姆两败俱伤，\n就此囚禁在圆桌厅堂。"
+	},
+	{
+		"id": 1000000,
+		"eng": "One of the glintstone crowns bestowed upon Raya Lucaria scholars whose pursuits were deemed worthy.\n\nIncreases intelligence and strength to the detriment of FP.\n\nScholars of the Haima Conspectus sought the power to quell conflict, and to this end studied the sorceries of cannon fire and the gavel.",
+		"chn": "魔法学院雷亚卢卡利亚之中，\n在探索之路受到肯定的学徒\n穿戴的其中一种辉石头罩。\n\n能提升智力与力气，但会降低专注值。\n\n在海摩教室求学的人们，\n他们为了得到平定纷争的力量，\n学习炮与制裁类的魔法。"
+	},
+	{
+		"id": 1000100,
+		"eng": "Robe worn by scholars of the Raya Lucaria Academy scholar, tattered from being worn on the battlefield.\n\nWhenever war broke out and the academy sealed its gates, only Haima's scholars dared venture outside.\nSeclusion is no way to foster discovery; it is only a convenient form of escape.",
+		"chn": "雷亚卢卡利亚的魔法学徒穿戴的长袍。\n受战事洗礼，变得老旧的防具。\n\n每次发生战争，学院会关起大门不干涉──\n然而只有海摩的学徒有不同想法。\n他们认为探索不能躲在门后，\n也认为那不过是为了保身而逃避。"
+	},
+	{
+		"id": 1000200,
+		"eng": "Manchettes worn by scholars of the Raya Lucaria Academy, tattered from being worn on the battlefield.",
+		"chn": "雷亚卢卡利亚的魔法学徒使用的腕套。\n受战事洗礼，变得老旧的防具。"
+	},
+	{
+		"id": 1000300,
+		"eng": "Legwraps worn by scholars of the Raya Lucaria Academy, tattered from being worn on the battlefield.",
+		"chn": "雷亚卢卡利亚的魔法学徒使用的绑腿。\n受战事洗礼，变得老旧的防具。"
+	},
+	{
+		"id": 1010000,
+		"eng": "Witch's pointed hat, frigid and frozen through.\nOf a style associated with practitioners of heretical sorcery.\nStrengthens cold sorcery.\n\nOnce worn by the snowy crone who the young Ranni encountered deep in the woods. She was a witch, and well versed in cold sorceries.\nIt is said that the doll that houses Ranni's soul was modeled after her.\n\nThat old witch was Ranni's secret mentor.",
+		"chn": "冰冷冻结的魔女帽子。\n代表异端魔法师身分的尖顶帽。\n能强化冰冷的魔法。\n\n年幼的菈妮在森林深处遇见年迈雪魔女，\n向她学习冰冷魔法──此为那位魔女的防具。\n据说菈妮寄宿灵魂的人偶，雪魔女为参考原型。\n\n年迈的魔女是菈妮的秘密老师。"
+	},
+	{
+		"id": 1010100,
+		"eng": "Witch's robe in the color of snow.\n\nOnce worn by the snowy crone who the young Ranni encountered deep in the woods. She was a witch, and well versed in cold sorceries.\nIt is said that the doll that houses Ranni's soul was modeled after her.\n\nThat old witch was Ranni's secret mentor.",
+		"chn": "冰雪颜色的魔女长袍。\n\n年幼的菈妮在森林深处遇见年迈雪魔女，\n向她学习冰冷魔法──此为那位魔女的防具。\n据说菈妮寄宿灵魂的人偶，雪魔女为参考原型。\n\n年迈的魔女是菈妮的秘密老师。"
+	},
+	{
+		"id": 1010300,
+		"eng": "Witch's skirt in the color of snow.\n\nOnce worn by the snowy crone who the young Ranni encountered deep in the woods. She was a witch, and well versed in cold sorceries.\nIt is said that the doll that houses Ranni's soul was modeled after her.\n\nThat old witch was Ranni's secret mentor.",
+		"chn": "冰雪颜色的魔女长裙。\n\n年幼的菈妮在森林深处遇见年迈雪魔女，\n向她学习冰冷魔法──此为那位魔女的防具。\n据说菈妮寄宿灵魂的人偶，雪魔女为参考原型。\n\n年迈的魔女是菈妮的秘密老师。"
+	},
+	{
+		"id": 1011100,
+		"eng": "Witch's robe in the color of snow.\n\nOnce worn by the snowy crone who the young Ranni encountered deep in the woods. She was a witch, and well versed in cold sorceries.\nIt is said that the doll that houses Ranni's soul was modeled after her.\n\nThat old witch was Ranni's secret mentor.",
+		"chn": "冰雪颜色的魔女长袍。\n\n年幼的菈妮在森林深处遇见年迈雪魔女，\n向她学习冰冷魔法──此为那位魔女的防具。\n据说菈妮寄宿灵魂的人偶，雪魔女为参考原型。\n\n年迈的魔女是菈妮的秘密老师。"
+	},
+	{
+		"id": 1020100,
+		"eng": "Light yet sturdy clothes.\n\nWorn by young women who set off into the world to confront their fate.",
+		"chn": "轻便耐用的布质上衣。\n\n为了面对自身命运\n踏上旅程的少女们穿戴的防具。"
+	},
+	{
+		"id": 1020200,
+		"eng": "Light yet sturdy leather manchettes.\n\nWorn by young women who set off into the world to confront their fate.",
+		"chn": "轻便耐用的皮制腕套。\n\n为了面对自身命运\n踏上旅程的少女们穿戴的防具。"
+	},
+	{
+		"id": 1020300,
+		"eng": "Light yet sturdy leather boots.\n\nWorn by young women who set off into the world to confront their fate.",
+		"chn": "轻便耐用的皮制靴子。\n\n为了面对自身命运\n踏上旅程的少女们穿戴的防具。"
+	},
+	{
+		"id": 1030000,
+		"eng": "Cap worn by young academy scholars, the juveniles birthed anew by the amber egg of Queen Rennala, the head of Raya Lucaria Academy.\n\nYet their rebirth is not without imperfections, and thus do they repeat the process, eventually becoming utterly dependent upon it.\n\nRebirth is as sleep to them, and with each awakening, memory fades into oblivion.",
+		"chn": "透过雷亚卢卡利亚的领导者──\n蕾娜菈女王的琥珀卵重新诞生的\n年幼魔法学徒们穿戴的帽子。\n\n然而“重新诞生”并不完整，\n他们周而复始地经历着这循环，\n最后开始对此产生成瘾性。\n\n如入夜沉睡，昼出转醒般自然──\n他们重新诞生，逐渐淡忘一切。"
+	},
+	{
+		"id": 1030100,
+		"eng": "Robe worn by young academy scholars, the juveniles birthed anew by the amber egg of Queen Rennala, the head of Raya Lucaria Academy.\n\nYet their rebirth is not without imperfections, and thus do they repeat the process, eventually becoming utterly dependent upon it.\n\nRebirth is as sleep to them, and with each awakening, memory fades into oblivion.",
+		"chn": "透过雷亚卢卡利亚的领导者──\n蕾娜菈女王的琥珀卵重新诞生的\n年幼魔法学徒们穿戴的长袍。\n\n然而“重新诞生”并不完整，\n他们周而复始地经历着这循环，\n最后开始对此产生成瘾性。\n\n如入夜沉睡，昼出转醒般自然──\n他们重新诞生，逐渐淡忘一切。"
+	},
+	{
+		"id": 1040000,
+		"eng": "A mask designed to resemble a blazing golden halo.\nCreated and left behind by Lord Goldmask, a staunch pursuer of Golden Order fundamentalism.\n\nStrengthens Golden Order incantations.\n\nIts striking design represents both the brilliant inspiration that once shone upon him, and the vision of a ring that he will surely find at the end of his pursuit.\n\n\"To you who seek to shine as I do, wear it well!\"",
+		"chn": "参考光耀黄金法环的模样制成的面具。\n黄金律法基本主义的严谨探索者──\n金面具制作、留下来的防具。\n\n能强化黄金律法的祷告。\n\n此为过去降临于他的，压倒性庞大的灵感，\n也是位在探索尽头，那神似法环的存在。\n\n　如果你想和我有相同的灵感，\n　就戴上这副面具吧。"
+	},
+	{
+		"id": 1040100,
+		"eng": "Worn rags that just barely cover the body.\n\nLord Goldmask felt no draw to the vain excesses of clothing; what use is finery to one who seeks greater brilliance?",
+		"chn": "勉强遮住身体的破布。\n金面具认为没有穿衣服的必要。\n\n　穿衣服对探索有何帮助？"
+	},
+	{
+		"id": 1040200,
+		"eng": "Bracelets made in the image of Erdtree branches.\nMinimal adornments made by Lord Goldmask's disciples.\n\nThose disciples have long since left him.",
+		"chn": "参考黄金树枝条制成的腕套。\n过去由徒弟们赠予，最低限度的装饰品。\n\n在很久以前，他们就消失了踪影。"
+	},
+	{
+		"id": 1040300,
+		"eng": "Waistwrap made in the image of Erdtree branches.\nA minimal adornment made by Lord Goldmask's disciples.\n\nThose disciples have long since left him.",
+		"chn": "参考黄金树枝条制成的腰巾。\n过去由徒弟们赠予，最低限度的装饰品。\n\n在很久以前，他们就消失了踪影。"
+	},
+	{
+		"id": 1050100,
+		"eng": "A cloak of ragged fur worn about the exposed body of Margit, the Fell Omen.\n\nHaving slaughtered countless champions during the Shattering, the Fell Omen has become a horror to those who harbor ambitions for the Erdtree, or for Lordship.",
+		"chn": "将残破毛皮披在裸身上的物品。\n“恶兆妖鬼”玛尔基特的防具。\n\n恶兆妖鬼在破碎战争中狩猎英雄无数。\n对于那些意图挑战黄金树、\n心怀称王野心的人而言，恶兆妖鬼是他们的恶梦。"
+	},
+	{
+		"id": 1060000,
+		"eng": "Mask made from the largely unaltered hide of a young Albinauric.\n\nRaises arcane, but reduces the HP recovery effects of the Flask of Crimson Tears.\n\nA far cry from godskin, this Albinauric hide mask is the product of malicious mockery.",
+		"chn": "将年轻白金之子的表皮，\n直接套在头上使用的头罩。\n\n能提升感应，\n但会减少红露滴圣杯瓶的恢复量。\n\n并非神皮的白金之子表皮头罩，\n是带有恶意嘲笑性质的产物。"
+	},
+	{
+		"id": 1060100,
+		"eng": "Chainmail worn by young Albinaurics.\nThe appearance of a protruding belly provides no benefits worthy of note.",
+		"chn": "年轻的白金之子穿戴的锁子铠甲。\n铠甲腹部突了出来，但没有特殊效果。"
+	},
+	{
+		"id": 1070000,
+		"eng": "Mask worn by knights of Zamor, hailed as heroes in the War against the Giants.\n\nThese long-lived warriors, clad in biting, freezing winds, are said to have been the mortal enemies of the Fire Giants since time immemorial.",
+		"chn": "巨人战争中的知名英雄──\n萨米尔的骑士们穿戴的面具。\n\n他们身上带着冻结冰风，寿命相当长。\n据说从远古时代开始，就是火焰巨人们的宿敌。"
+	},
+	{
+		"id": 1070100,
+		"eng": "Armor worn by knights of Zamor, hailed as heroes in the War against the Giants.\n\nThese long-lived warriors, clad in biting, freezing winds, are said to have been the mortal enemies of the Fire Giants since time immemorial.",
+		"chn": "巨人战争中的知名英雄──\n萨米尔的骑士们穿戴的铠甲。\n\n他们身上带着冻结冰风，寿命相当长。\n据说从远古时代开始，就是火焰巨人们的宿敌。"
+	},
+	{
+		"id": 1070200,
+		"eng": "Bracelets worn by knights of Zamor, hailed as heroes in the War against the Giants.\n\nThese long-lived warriors, clad in biting, freezing winds, are said to have been the mortal enemies of the Fire Giants since time immemorial.",
+		"chn": "巨人战争中的知名英雄──\n萨米尔的骑士们穿戴的腕套。\n\n他们身上带着冻结冰风，寿命相当长。\n据说从远古时代开始，就是火焰巨人们的宿敌。"
+	},
+	{
+		"id": 1070300,
+		"eng": "Legwraps worn by knights of Zamor, hailed as heroes in the War against the Giants.\n\nThese long-lived warriors, clad in biting, freezing winds, are said to have been the mortal enemies of the Fire Giants since time immemorial.",
+		"chn": "巨人战争中的知名英雄──\n萨米尔的骑士们穿戴的绑腿。\n\n他们身上带着冻结冰风，寿命相当长。\n据说从远古时代开始，就是火焰巨人们的宿敌。"
+	},
+	{
+		"id": 1080000,
+		"eng": "Head covering made from the largely unaltered head of an impish golem.\n\nResembling a cat, it holds trace amounts of feline intelligence.",
+		"chn": "将小恶魔魔像的头部，\n直接套在头上使用的头罩。\n\n外形神似猫的头罩，蕴藏着些微的智力。"
+	},
+	{
+		"id": 1081000,
+		"eng": "Head covering made from the largely unaltered head of an impish golem.\n\nResembling a fanged demon, it holds trace amounts of bestial strength.",
+		"chn": "将小恶魔魔像的头部，\n直接套在头上使用的头罩。\n\n尖牙造型的头罩，蕴藏着些微的力气。"
+	},
+	{
+		"id": 1082000,
+		"eng": "Head covering made from the largely unaltered head of an impish golem.\n\nResembling a long-tongued demon, it holds trace amounts of vexatious dexterity.",
+		"chn": "将小恶魔魔像的头部，\n直接套在头上使用的头罩。\n\n耸舌造型的头罩，蕴藏着些微的灵巧。"
+	},
+	{
+		"id": 1083000,
+		"eng": "Head covering made from the largely unaltered head of an impish golem.\n\nResembling the visage of a corpse, it holds trace amounts of lingering faith.",
+		"chn": "将小恶魔魔像的头部，\n直接套在头上使用的头罩。\n\n长生者造型的头罩，蕴藏着些微的信仰。"
+	},
+	{
+		"id": 1084000,
+		"eng": "Head covering made from the largely unaltered head of an impish golem.\n\nResembling a wolf, it holds trace amounts of lupine endurance.",
+		"chn": "将小恶魔魔像的头部，\n直接套在头上使用的头罩。\n\n外形神似狼的头罩，蕴藏着些微的耐力。"
+	},
+	{
+		"id": 1085000,
+		"eng": "Head covering made from the largely unaltered head of an impish golem.\n\nResembling an elder, it holds trace amounts of arcane knowledge.",
+		"chn": "将小恶魔魔像的头部，\n直接套在头上使用的头罩。\n\n长老造型的头罩，蕴藏着些微的感应。"
+	},
+	{
+		"id": 1090000,
+		"eng": "Mask fashioned from the corpse of a formless Silver Tear, supported by its hardened, shed husk.\n\nGreatly increases arcane to the detriment of physical attack power.\n\nTo imitate the imitator is a cunning play indeed.",
+		"chn": "将称作银色泪滴的变形生物尸体，\n连同那硬化后的壳，戴在脸上的面具。\n\n能大幅提升感应，但会降低物理攻击力。\n\n反过来去模仿那模仿他人的事物──\n算是颠覆性的创意。"
+	},
+	{
+		"id": 1100000,
+		"eng": "Coif made of woven chain.\nStandard issue for ordinary soldiers.\n\nThough plain in appearance, it offers dependable protection.",
+		"chn": "用细钢丝编成的头盔，\n从军的士兵穿戴的防具。\n\n没有装饰点缀，做工坚固的防具。"
+	},
+	{
+		"id": 1100100,
+		"eng": "Armor made of woven chain.\nStandard issue for ordinary soldiers.\n\nThough plain in appearance, it offers dependable protection.",
+		"chn": "用细钢丝编成的铠甲，\n从军的士兵穿戴的防具。\n\n没有装饰点缀，做工坚固的防具。"
+	},
+	{
+		"id": 1100200,
+		"eng": "Gauntlets made of woven chain.\nStandard issue for ordinary soldiers.\n\nThough plain in appearance, they offer dependable protection.",
+		"chn": "用细钢丝编成的臂甲，\n从军的士兵穿戴的防具。\n\n没有装饰点缀，做工坚固的防具。"
+	},
+	{
+		"id": 1100300,
+		"eng": "Leggings made of woven chain.\nStandard issue for ordinary soldiers.\n\nThough plain in appearance, they offer dependable protection.",
+		"chn": "用细钢丝编成的腿甲，\n从军的士兵穿戴的防具。\n\n没有装饰点缀，做工坚固的防具。"
+	},
+	{
+		"id": 1101000,
+		"eng": "Sturdy greathelm made from iron.\n\nThough it is uncomfortably heavy and obstructs the vision of the wearer, it provides considerable damage negation.",
+		"chn": "盖住头部的铁制大桶盔。\n\n戴起来很沉重，视野狭窄，\n但是减伤率很高。"
+	},
+	{
+		"id": 1101100,
+		"eng": "Brown surcoat draped over chainmail.\n\nThe insignia emblazoned on the front marks out the wearer as the eyes and ears of Sir Gideon the All-Knowing.",
+		"chn": "在锁子甲上搭配咖啡色筒形外衣的组合。\n\n眼眸徽章代表侍奉“百智爵士”基甸，\n是作为他的耳目的标记。"
+	},
+	{
+		"id": 1102100,
+		"eng": "Blue surcoat draped over chainmail.\n\nThe tree insignia emblazoned on the front depicts the Erdtree, and is a design beloved throughout the Lands Between.",
+		"chn": "在锁子甲上搭配蓝色筒形外衣的组合。\n\n大树徽章描绘的主题是黄金树，\n为交界地之中广受欢迎的设计。"
+	},
+	{
+		"id": 1110000,
+		"eng": "A land octopus whelp worn directly on the head.\nHas a lingering warmth reminiscent of human skin.\n\nThose who can withstand the smell will find its organic elasticity excellent for negating strikes.",
+		"chn": "将陆生章鱼的幼体直接套在头上的头罩。\n还残留着人类皮肤般的余温。\n\n味道非常腥，柔软富弹性，\n特别能抵御打击属性的攻击。"
+	},
+	{
+		"id": 1120000,
+		"eng": "Jar that fits cleanly over the head when upturned.\nMade with pride by Iron Fist Alexander.\n\nIn a uniquely jarlike gesture of friendship, it boosts the power of throwing pot items.",
+		"chn": "将壶倒盖、完整覆盖头部的壶头罩。\n“铁拳”亚历山大的手工制品。\n\n壶为了证明彼此的友谊而有的产物。\n能提升投掷壶类道具的威力。"
+	},
+	{
+		"id": 1130000,
+		"eng": "Mushrooms found growing all over the body.\nThese overgrown mushrooms have colonized the head.\n\nTo those enraptured by the scarlet rot, they are holy vestments that root one to the earth.",
+		"chn": "全身长出密密麻麻的蘑菇──\n其中头部的蘑菇。\n\n对猩红腐败为之倾倒的人们，\n意图在该地落地生根的神圣装扮。"
+	},
+	{
+		"id": 1130100,
+		"eng": "Mushrooms found growing all over the body.\nThese overgrown mushrooms have colonized the torso.\n\nTo those enraptured by the scarlet rot, they are holy vestments that root one to the earth.",
+		"chn": "全身长出密密麻麻的蘑菇──\n其中身体部分的蘑菇。\n\n对猩红腐败为之倾倒的人们，\n意图在该地落地生根的神圣装扮。"
+	},
+	{
+		"id": 1130200,
+		"eng": "Mushrooms found growing all over the body.\nThese overgrown mushrooms have colonized the arms.\n\nTo those enraptured by the scarlet rot, they are holy vestments that root one to the earth.",
+		"chn": "全身长出密密麻麻的蘑菇──\n其中手腕部分的蘑菇。\n\n对猩红腐败为之倾倒的人们，\n意图在该地落地生根的神圣装扮。"
+	},
+	{
+		"id": 1130300,
+		"eng": "Mushrooms found growing all over the body.\nThese overgrown mushrooms have colonized the legs.\n\nTo those enraptured by the scarlet rot, they are holy vestments that root one to the earth.",
+		"chn": "全身长出密密麻麻的蘑菇──\n其中腿部的蘑菇。\n\n对猩红腐败为之倾倒的人们，\n意图在该地落地生根的神圣装扮。"
+	},
+	{
+		"id": 1300000,
+		"eng": "Helm fashioned from a crystal looking-glass.\nOne among the Eternal City's ritual implements.\nEasily broken and weak against striking attacks.\n\nWorn by those committed to high treason, it wards off the intervention of the Greater Will and its vassal Fingers.",
+		"chn": "用结晶镜制成的头盔。\n永恒之城的其中一种诅咒器具。\n容易破碎，不耐打击。\n\n此为犯下大逆不道之举的人穿戴的防具。\n据说能弹开所有的干涉──\n包含无上意志，以及其使者指头。"
+	},
+	{
+		"id": 1301000,
+		"eng": "Helm fashioned from a crystal looking-glass, said to have never left War Counselor Iji's head.\nEasily broken and weak against striking attacks.\n\nWorn by those committed to high treason, it wards off the intervention of the Greater Will and its vassal Fingers.\n\nIji was afraid. Terrified of his own treachery.",
+		"chn": "用结晶镜制成的头盔。\n军师伊吉绝不离身的防具。\n容易破碎，不耐打击。\n\n此为犯下大逆不道之举的人穿戴的防具。\n据说能弹开所有的干涉──\n包含无上意志，以及其使者指头。\n\n伊吉深怕自己会做出背叛。"
+	},
+	{
+		"id": 1400000,
+		"eng": "Hood of lusterless black fabric that conceals its wearer's identity.\n\nIn this world, there is very little that must necessarily be known.",
+		"chn": "没有光泽的黑色布质风帽。\n想隐藏长相以及真面目的人们穿戴的防具。\n\n在这世上，该公诸于世的事情几乎不存在。"
+	},
+	{
+		"id": 1400100,
+		"eng": "Lightweight and battle-proven leather armor worn by a savvy soldier.\n\nMany admire the wearer of this armor for his chivalrous and forthright spirit.",
+		"chn": "适用于战斗的轻型皮制铠甲。\n脑袋精明的战士穿戴的装备。\n\n带有行侠仗义、品格正直的象征，\n因此穿戴者会受到他人的崇敬。"
+	},
+	{
+		"id": 1400200,
+		"eng": "Lightweight and battle-proven leather gloves worn by a savvy soldier.\n\nMany admire the wearer of this armor for his chivalrous and forthright spirit.",
+		"chn": "适用于战斗的轻型皮制手套。\n脑袋精明的战士穿戴的装备。\n\n带有行侠仗义、品格正直的象征，\n因此穿戴者会受到他人的崇敬。"
+	},
+	{
+		"id": 1400300,
+		"eng": "Lightweight and battle-proven leather boots worn by a savvy soldier.\n\nMany admire the wearer of this armor for his chivalrous and forthright spirit.",
+		"chn": "适用于战斗的轻型皮制靴子。\n脑袋精明的战士穿戴的装备。\n\n带有行侠仗义、品格正直的象征，\n因此穿戴者会受到他人的崇敬。"
+	},
+	{
+		"id": 1401000,
+		"eng": "Mask of black cloth that covers the mouth.\n\nFavored by bandits for hiding their faces, it also provides some protection against poison.",
+		"chn": "用黑布覆盖嘴部的面具。\n\n盗贼们会用来遮住长相，\n以及用来应付毒物等等。"
+	},
+	{
+		"id": 1500000,
+		"eng": "Iron helm of an unknown knight.\nIt is made of thin iron plate.\n\nSuch metal armor is heavy, but provides considerable damage negation.",
+		"chn": "无名骑士穿戴的头盔。\n用铁薄片加工制成的防具。\n\n金属制的盔甲有相当分量，\n因此减伤率偏高，是坚固的防具。"
+	},
+	{
+		"id": 1500100,
+		"eng": "Iron armor of an unknown knight.\nIt is made of thin iron plate.\n\nSuch metal armor is heavy, but provides considerable damage negation.",
+		"chn": "无名骑士穿戴的铠甲。\n用铁薄片加工制成的防具。\n\n金属制的盔甲有相当分量，\n因此减伤率偏高，是坚固的防具。"
+	},
+	{
+		"id": 1500200,
+		"eng": "Iron gauntlets of an unknown knight.\nIt is made of thin iron plate.\n\nSuch metal armor is heavy, but provides considerable damage negation.",
+		"chn": "无名骑士穿戴的臂甲。\n用铁薄片加工制成的防具。\n\n金属制的盔甲有相当分量，\n因此减伤率偏高，是坚固的防具。"
+	},
+	{
+		"id": 1500300,
+		"eng": "Iron greaves of an unknown knight.\nIt is made of thin iron plate.\n\nSuch metal armor is heavy, but provides considerable damage negation.",
+		"chn": "无名骑士穿戴的腿甲。\n用铁薄片加工制成的防具。\n\n金属制的盔甲有相当分量，\n因此减伤率偏高，是坚固的防具。"
+	},
+	{
+		"id": 1600000,
+		"eng": "Hood far larger than the head it is meant to cover.\nA burial shroud of sorts for those who discover, at long last, the truth they sought.\n\nIncreases intelligence and faith to the detriment of HP.\n\n\"Yes, surely this is the moon that young Rennala gazed upon.\"",
+		"chn": "比头部还要大上许多的大风帽。\n在得知追求许久的真相后，\n能用来穿戴、等待死亡的防具。\n\n能提升智力与信仰，但会降低血量。\n\n　啊，年幼的蕾娜菈，\n　她真的仰望过这轮月亮。"
+	},
+	{
+		"id": 1700000,
+		"eng": "Helm worn by soldiers loyal to Godrick the Grafted.\nMade from durable iron, layered with a chainmail coif beneath.",
+		"chn": "侍奉“接肢”葛瑞克的士兵们穿戴的头盔。\n由铁制头盔与锁子甲组成的防具。"
+	},
+	{
+		"id": 1700100,
+		"eng": "Armor worn by soldiers loyal to Godrick the Grafted.\n\nThe surcoat depicts the distant Erdtree and the beast regent, an emblem of the golden lineage.\nBoth are symbols of glory now past.",
+		"chn": "侍奉“接肢”葛瑞克的士兵们穿戴的铠甲。\n\n筒形外衣上绘有遥远过去的黄金树，\n以及黄金一族的象征“宰相野兽”──\n这些都是过往的荣耀。"
+	},
+	{
+		"id": 1700200,
+		"eng": "Gauntlets worn by soldiers loyal to Godrick the Grafted.\nRust-worn and stained through unending conflict.",
+		"chn": "侍奉“接肢”葛瑞克的士兵们穿戴的臂甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1700300,
+		"eng": "Greaves worn by soldiers loyal to Godrick the Grafted.\nRust-worn and stained through unending conflict.",
+		"chn": "侍奉“接肢”葛瑞克的士兵们穿戴的腿甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1710000,
+		"eng": "Helm worn by Raya Lucaria Academy soldiers.\nIts brow is adorned with a single cuckoo's feather.",
+		"chn": "侍奉魔法学院的士兵们穿戴的头盔。\n额头上装饰着一根杜鹃羽毛。"
+	},
+	{
+		"id": 1710100,
+		"eng": "Armor worn by Raya Lucaria Academy soldiers.\n\nThe surcoat depicts twinned cuckoos peering into a flourishing mass of glintstone.\nTo a glintstone sorcerer, the body is a transient thing. The Cuckoo alone knows its insignificance, yet watches over it all the same.",
+		"chn": "侍奉魔法学院的士兵们穿戴的铠甲。\n\n筒形外衣上绘有辉石的兴盛，\n以及从旁窥视的杜鹃们。\n对辉石魔法师而言，肉体不过是短暂的停留点──\n只有杜鹃对此心知肚明，在旁张望。"
+	},
+	{
+		"id": 1710200,
+		"eng": "Gauntlets worn by Raya Lucaria Academy soldiers.\nRust-worn and stained through unending conflict.",
+		"chn": "侍奉魔法学院的士兵们穿戴的臂甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1710300,
+		"eng": "Greaves worn by Raya Lucaria Academy soldiers.\nRust-worn and stained through unending conflict.",
+		"chn": "侍奉魔法学院的士兵们穿戴的腿甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1720000,
+		"eng": "Helm worn by soldiers sworn to defend the royal capital of Leyndell.\nMade from durable iron, layered with a chainmail coif beneath.",
+		"chn": "守护王城罗德尔的士兵们穿戴的头盔。\n由铁制头盔与锁子甲组成的防具。"
+	},
+	{
+		"id": 1720100,
+		"eng": "Armor worn by soldiers sworn to defend the royal capital of Leyndell.\n\nThe surcoat bears a majestic likeness of the Erdtree. Its golden backing is an honor bestowed on no other soldiers.",
+		"chn": "守护王城罗德尔的士兵们穿戴的铠甲。\n\n筒形外衣上绘有充满气势的黄金树。\n外衣使用的黄金色，其他军队不得使用。"
+	},
+	{
+		"id": 1720200,
+		"eng": "Gauntlets worn by soldiers sworn to defend the royal capital of Leyndell.\nRust-worn and stained through unending conflict.",
+		"chn": "守护王城罗德尔的士兵们穿戴的臂甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1720300,
+		"eng": "Greaves worn by soldiers sworn to defend the royal capital of Leyndell.\nRust-worn and stained through unending conflict.",
+		"chn": "守护王城罗德尔的士兵们穿戴的腿甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1730000,
+		"eng": "Helm worn by soldiers who fought by General Radahn's side.\nIts visor is fashioned after a lion's fangs.",
+		"chn": "与拉塔恩将军并肩作战的士兵们穿戴的头盔。\n护颊是以狮牙的形象设计。"
+	},
+	{
+		"id": 1730100,
+		"eng": "Armor worn by soldiers who fought by General Radahn's side.\n\nThe surcoat depicts a red-maned lion raising a sword in the image of Radahn. Thus, they were Redmanes, and all proved they were worthy of the name.",
+		"chn": "与拉塔恩将军并肩作战的士兵们穿戴的铠甲。\n\n筒形外衣上绘有拉塔恩的形象──\n高举剑的红毛狮子。\n他们因此名为红狮子军团，各个都是精兵。"
+	},
+	{
+		"id": 1730200,
+		"eng": "Gauntlets worn by soldiers who fought by General Radahn's side.\nRust-worn and stained through unending conflict.",
+		"chn": "与拉塔恩将军并肩作战的士兵们穿戴的臂甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1730300,
+		"eng": "Greaves worn by soldiers who fought by General Radahn's side.\nRust-worn and stained through unending conflict.",
+		"chn": "与拉塔恩将军并肩作战的士兵们穿戴的腿甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1740100,
+		"eng": "Armor worn by headless soldiers who endlessly guard the Wandering Mausoleum.\n\nThe surcoat depicts the mausoleum bell, which rings in constant mourning for the soulless demigods.",
+		"chn": "持续守护漫步灵庙的无头士兵们穿戴的铠甲。\n\n筒形外衣上绘有灵庙的钟──\n仿佛是为了追悼无魂半神，\n灵庙的钟声响彻不歇。"
+	},
+	{
+		"id": 1740200,
+		"eng": "Gauntlets worn by headless soldiers who endlessly guard the Wandering Mausoleum.\nRust-worn and stained through unending conflict.",
+		"chn": "持续守护漫步灵庙的无头士兵们穿戴的臂甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1740300,
+		"eng": "Greaves worn by headless soldiers who endlessly guard the Wandering Mausoleum.\nRust-worn and stained through unending conflict.",
+		"chn": "持续守护漫步灵庙的无头士兵们穿戴的腿甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1750000,
+		"eng": "Helm worn by soldiers sworn to the Haligtree.\nAn iron helm graced by a crown of unalloyed gold.\n\nIncreases faith.",
+		"chn": "侍奉圣树的士兵们穿戴的头盔。\n铁制头盔上装饰着纯净金头带。\n\n能提升信仰。"
+	},
+	{
+		"id": 1750100,
+		"eng": "Armor worn by soldiers sworn to the Haligtree.\n\nThe surcoat bears the crest of the Haligtree.\nThough watered with Miquella's own blood since it was a sapling, the Haligtree ultimately failed to grow into an Erdtree.",
+		"chn": "侍奉圣树的士兵们穿戴的铠甲。\n\n筒形外衣上绘有圣树的徽章。\n接受米凯拉的鲜血灌注，小树萌发神圣嫩芽──\n然而那棵树却无法成为黄金树。"
+	},
+	{
+		"id": 1750200,
+		"eng": "Gauntlets worn by soldiers sworn to the Haligtree.\nRust-worn and stained through unending conflict.",
+		"chn": "侍奉圣树的士兵们穿戴的臂甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1750300,
+		"eng": "Greaves worn by soldiers sworn to the Haligtree.\nRust-worn and stained through unending conflict.",
+		"chn": "侍奉圣树的士兵们穿戴的腿甲。\n投身没有尽头的战争之中，因此锈蚀骯脏。"
+	},
+	{
+		"id": 1760000,
+		"eng": "Helm worn by knights once loyal to Praetor Rykard.\nIts crest of red feathers symbolizes Rykard's pedigree as Lord Radagon's son.",
+		"chn": "过去侍奉拉卡德司法官的骑士们穿戴的头盔。\n红色羽毛顶饰是身为拉达冈王之子的象征。"
+	},
+	{
+		"id": 1760100,
+		"eng": "Armor worn by knights once loyal to Praetor Rykard.\n\nIt bears an emblem that none wear any longer, standing as it does for a lord that fell from lofty ambition into gluttonous depravity.\nAs the lord lost his dignity, so too did these knights lose their master.",
+		"chn": "过去侍奉拉卡德司法官的骑士们穿戴的铠甲。\n\n铠甲上的徽章，如今已经没有人使用。\n当霸王的雄心壮志沦落成卑贱的贪欲，\n他们也失去了该侍奉的主人。"
+	},
+	{
+		"id": 1760200,
+		"eng": "Gauntlets worn by knights once loyal to Praetor Rykard.\nTime has yet to dull their luster.",
+		"chn": "过去侍奉拉卡德司法官的骑士们穿戴的臂甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1760300,
+		"eng": "Greaves worn by knights once loyal to Praetor Rykard.\nTime has yet to dull their luster.",
+		"chn": "过去侍奉拉卡德司法官的骑士们穿戴的腿甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1761100,
+		"eng": "Armor worn by knights once loyal to Praetor Rykard.\n\nIt bears an emblem that none wear any longer, standing as it does for a lord that fell from lofty ambition into gluttonous depravity.\nAs the lord lost his dignity, so too did these knights lose their master.",
+		"chn": "过去侍奉拉卡德司法官的骑士们穿戴的铠甲。\n\n铠甲上的徽章，如今已经没有人使用。\n当霸王的雄心壮志沦落成卑贱的贪欲，\n他们也失去了该侍奉的主人。"
+	},
+	{
+		"id": 1770000,
+		"eng": "Helm worn by knights loyal to Godrick the Grafted.\nAdorned with a plume of withered, ashen hair.",
+		"chn": "侍奉“接肢”葛瑞克的骑士们穿戴的头盔。\n头盔上的顶饰是枯槁的灰发。"
+	},
+	{
+		"id": 1770100,
+		"eng": "Armor worn by knights loyal to Godrick the Grafted.\n\nIts left breast is emblazoned with a two-headed war axe, an emblem of the golden lineage.\nThe knights surely boasted of their strength in days long gone.",
+		"chn": "侍奉“接肢”葛瑞克的骑士们穿戴的铠甲。\n\n左胸上有黄金一族的象征──\n绘有双头战斧的徽章。\n在过去，他们对力量引以为傲。"
+	},
+	{
+		"id": 1770200,
+		"eng": "Gauntlets worn by knights loyal to Godrick the Grafted.\nTime has yet to dull their luster.",
+		"chn": "侍奉“接肢”葛瑞克的骑士们穿戴的臂甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1770300,
+		"eng": "Greaves worn by knights loyal to Godrick the Grafted.\nTime has yet to dull their luster.",
+		"chn": "侍奉“接肢”葛瑞克的骑士们穿戴的腿甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1771100,
+		"eng": "Armor worn by knights loyal to Godrick the Grafted.\n\nIts left breast is emblazoned with a two-headed war axe, an emblem of the golden lineage.\nThe knights surely boasted of their strength in days long gone.",
+		"chn": "侍奉“接肢”葛瑞克的骑士们穿戴的铠甲。\n\n左胸上有黄金一族的象征──\n绘有双头战斧的徽章。\n在过去，他们对力量引以为傲。"
+	},
+	{
+		"id": 1780000,
+		"eng": "Helm worn by Raya Lucaria Academy knights.\nIts brow is adorned with a single cuckoo's feather.",
+		"chn": "侍奉魔法学院的骑士们穿戴的头盔。\n额头上装饰着一根杜鹃羽毛。"
+	},
+	{
+		"id": 1780100,
+		"eng": "Armor worn by Raya Lucaria Academy knights.\n\nIts left breast is emblazoned with a peering cuckoo, whence came their name.\nPerhaps the bird's shrewd gaze is an expression of their refusal to be mere servants of the academy.",
+		"chn": "侍奉魔法学院的骑士们穿戴的铠甲。\n\n左胸上有他们的别称由来──\n绘有从旁窥视的杜鹃。\n可能是想传达出这种讯息：\n　我们绝不会完全效忠学院。"
+	},
+	{
+		"id": 1780200,
+		"eng": "Gauntlets worn by Raya Lucaria Academy knights.\nTime has yet to dull their luster.",
+		"chn": "侍奉魔法学院的骑士们穿戴的臂甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1780300,
+		"eng": "Greaves worn by Raya Lucaria Academy knights.\nTime has yet to dull their luster.",
+		"chn": "侍奉魔法学院的骑士们穿戴的腿甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1781100,
+		"eng": "Armor worn by Raya Lucaria Academy knights.\n\nIts left breast is emblazoned with a peering cuckoo, whence came their name.\nPerhaps the bird's shrewd gaze is an expression of their refusal to be mere servants of the academy.",
+		"chn": "侍奉魔法学院的骑士们穿戴的铠甲。\n\n左胸上有他们的别称由来──\n绘有从旁窥视的杜鹃。\n可能是想传达出这种讯息：\n　我们绝不会完全效忠学院。"
+	},
+	{
+		"id": 1790000,
+		"eng": "Helm worn by knights sworn to defend the royal capital of Leyndell.\n\nThe golden canopy represents the honor of standing among the tree's defenders.",
+		"chn": "守护王城罗德尔的骑士们穿戴的头盔。\n黄金树冠顶饰代表身为大树守护者的荣誉。"
+	},
+	{
+		"id": 1790100,
+		"eng": "Armor worn by knights sworn to defend the royal capital of Leyndell.\n\nIts left breast is emblazoned with a symbol of Erdtree Worship, said to have once been imbued with an incantation of protection.",
+		"chn": "守护王城罗德尔的骑士们穿戴的铠甲。\n\n左胸上绘有黄金树信仰的徽章，\n据说那在过去，执行过庇佑的祷告。"
+	},
+	{
+		"id": 1790200,
+		"eng": "Gauntlets worn by knights sworn to defend the royal capital of Leyndell.\nTime has yet to dull their luster.",
+		"chn": "守护王城罗德尔的骑士们穿戴的臂甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1790300,
+		"eng": "Greaves worn by knights sworn to defend the royal capital of Leyndell.\nTime has yet to dull their luster.",
+		"chn": "守护王城罗德尔的骑士们穿戴的腿甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1791100,
+		"eng": "Armor worn by knights sworn to defend the royal capital of Leyndell.\n\nIts left breast is emblazoned with a symbol of Erdtree Worship, said to have once been imbued with an incantation of protection.",
+		"chn": "守护王城罗德尔的骑士们穿戴的铠甲。\n\n左胸上绘有黄金树信仰的徽章，\n据说那在过去，执行过庇佑的祷告。"
+	},
+	{
+		"id": 1800000,
+		"eng": "Helm worn by knights who fought by General Radahn's side.\n\nThe red plume is a symbol of Radahn's pedigree as Lord Radagon's son—the mane of the proud Red Lion.",
+		"chn": "与拉塔恩将军并肩作战的骑士们穿戴的头盔。\n\n头盔上的红发顶饰\n是身为拉达冈王之子的象征，\n也是自诩为红狮子时，代表的鬃毛。"
+	},
+	{
+		"id": 1800100,
+		"eng": "Armor worn by knights who fought by General Radahn's side.\n\nWhen they were driven to defeat by Malenia's scarlet rot, the Redmane Knights burned the crest on the left breast of their armor to indicate their resolve.\n\n\"Alas, dear home, I shan't see you again! For our duty is to remain here, a bulwark against the blight.\"",
+		"chn": "与拉塔恩将军并肩作战的骑士们穿戴的铠甲。\n\n败给玛莲妮亚的猩红腐败，沦为败战军之际，\n骑士们抱着决心，烧毁左胸上的徽章。\n\n　遥远的故乡啊，永别了。\n　我们会留在此地，抑制腐败。"
+	},
+	{
+		"id": 1800200,
+		"eng": "Black iron gauntlets worn by knights who fought by General Radahn's side. Time has yet to dull their luster.",
+		"chn": "与拉塔恩将军并肩作战的骑士们穿戴的臂甲。\n虽然老旧，黑铁制的防具依然堪用。"
+	},
+	{
+		"id": 1800300,
+		"eng": "Black iron greaves worn by knights who fought by General Radahn's side. Time has yet to dull their luster.",
+		"chn": "与拉塔恩将军并肩作战的骑士们穿戴的腿甲。\n虽然老旧，黑铁制的防具依然堪用。"
+	},
+	{
+		"id": 1801100,
+		"eng": "Armor worn by knights who fought by General Radahn's side.\n\nWhen they were driven to defeat by Malenia's scarlet rot, the Redmane Knights burned the crest on the left breast of their armor to indicate their resolve.\n\n\"Alas, dear home, I shan't see you again! For our duty is to remain here, a bulwark against the blight.\"",
+		"chn": "与拉塔恩将军并肩作战的骑士们穿戴的铠甲。\n\n败给玛莲妮亚的猩红腐败，沦为败战军之际，\n骑士们抱着决心，烧毁左胸上的徽章。\n\n　遥远的故乡啊，永别了。\n　我们会留在此地，抑制腐败。"
+	},
+	{
+		"id": 1810100,
+		"eng": "Armor worn by headless knights who endlessly guard the Wandering Mausoleum.\n\nThe wing-shaped ornaments on its back evoke the Deathbird. A self-inflicted curse that ties the spirits of these loyal knights to the land, having willingly beheaded themselves so that they may serve their masters in death.",
+		"chn": "持续守护漫步灵庙的无头骑士们穿戴的铠甲。\n\n背上的羽毛装饰源自死之鸟──\n那是亲自斩断头颅，追随主君赴死后，\n为了以灵魂模样留在此地而有的诅咒。"
+	},
+	{
+		"id": 1810200,
+		"eng": "Gauntlets worn by headless knights who endlessly guard the Wandering Mausoleum.\nTime has yet to dull their luster.",
+		"chn": "持续守护漫步灵庙的无头骑士们穿戴的臂甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1810300,
+		"eng": "Greaves worn by headless knights who endlessly guard the Wandering Mausoleum.\nTime has yet to dull their luster.",
+		"chn": "持续守护漫步灵庙的无头骑士们穿戴的腿甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1811100,
+		"eng": "Armor worn by headless knights who endlessly guard the Wandering Mausoleum.\n\nThe wing-shaped ornaments on its back evoke the Deathbird. A self-inflicted curse that ties the spirits of these loyal knights to the land, having willingly beheaded themselves so that they may serve their masters in death.",
+		"chn": "持续守护漫步灵庙的无头骑士们穿戴的铠甲。\n\n背上的羽毛装饰源自死之鸟──\n那是亲自斩断头颅，追随主君赴死后，\n为了以灵魂模样留在此地而有的诅咒。"
+	},
+	{
+		"id": 1820000,
+		"eng": "Helm worn by knights sworn to the Haligtree.\nGraced by a crown of unalloyed gold.\n\nIncreases faith.",
+		"chn": "侍奉圣树的骑士们穿戴的头盔。\n头盔上装饰着纯净金头带。\n\n能提升信仰。"
+	},
+	{
+		"id": 1820100,
+		"eng": "Armor worn by knights sworn to the Haligtree.\n\nIts left breast is emblazoned with the crest of the Haligtree.\nThough watered with Miquella's own blood since it was a sapling, the Haligtree ultimately failed to grow into an Erdtree.",
+		"chn": "侍奉圣树的骑士们穿戴的铠甲。\n\n左胸上绘有圣树的徽章，\n接受米凯拉的鲜血灌注，小树萌发神圣嫩芽──\n然而那棵树却无法成为黄金树。"
+	},
+	{
+		"id": 1820200,
+		"eng": "Gauntlets worn by knights sworn to the Haligtree.\nTime has yet to dull their luster.",
+		"chn": "侍奉圣树的骑士们穿戴的臂甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1820300,
+		"eng": "Greaves worn by knights sworn to the Haligtree.\nTime has yet to dull their luster.",
+		"chn": "侍奉圣树的骑士们穿戴的腿甲。\n虽然老旧，却不减光辉。"
+	},
+	{
+		"id": 1821100,
+		"eng": "Armor worn by knights sworn to the Haligtree.\n\nIts left breast is emblazoned with the crest of the Haligtree.\nThough watered with Miquella's own blood since it was a sapling, the Haligtree ultimately failed to grow into an Erdtree.",
+		"chn": "侍奉圣树的骑士们穿戴的铠甲。\n\n左胸上绘有圣树的徽章，\n接受米凯拉的鲜血灌注，小树萌发神圣嫩芽──\n然而那棵树却无法成为黄金树。"
+	},
+	{
+		"id": 1830000,
+		"eng": "Flanged iron cap widely issued to foot soldiers in a lord's army.",
+		"chn": "具有帽檐的铁制帽子。\n君王军的小兵常用的防具。"
+	},
+	{
+		"id": 1830100,
+		"eng": "Padded cloth armor with a chainmail shawl draped over the shoulders.\n\nWidely issued to foot soldiers in a lord's army.",
+		"chn": "在铺棉的布质铠甲上，\n披着锁子披肩的防具。\n\n君王军的小兵常用的防具。"
+	},
+	{
+		"id": 1830200,
+		"eng": "Metal gauntlets covered in nicks and dents.\nWidely issued to foot soldiers in a lord's army.",
+		"chn": "表面有无数刮痕的金属制臂甲。\n君王军的小兵常用的防具。"
+	},
+	{
+		"id": 1830300,
+		"eng": "Metal greaves that have already been mended countless times.\nWidely issued to foot soldiers in a lord's army.",
+		"chn": "表面有无数修补痕迹的金属制腿甲。\n君王军的小兵常用的防具。"
+	},
+	{
+		"id": 1840000,
+		"eng": "Helmet with a protective metal plate.\nWidely issued to foot soldiers in a lord's army.",
+		"chn": "钵形头盔附上布料，围住头后方的防具。\n君王军的小兵常用的防具。"
+	},
+	{
+		"id": 1840100,
+		"eng": "Padded cloth armor with more than a few stains.\nWidely issued to foot soldiers in a lord's army.",
+		"chn": "铺棉的骯脏布质铠甲。\n君王军的小兵常用的防具。"
+	},
+	{
+		"id": 1850000,
+		"eng": "Flanged cap made from gilded iron.\nIssued to foot soldiers protecting the royal capital of Leyndell.",
+		"chn": "具有帽檐的金色帽子。\n守护王城罗德尔的小兵们穿戴的防具。"
+	},
+	{
+		"id": 1850100,
+		"eng": "Padded cloth armor with a leather shawl draped over the shoulders.\n\nWidely issued to foot soldiers in a lord's army.",
+		"chn": "在铺棉的布质铠甲上，\n披着皮革披肩的防具。\n\n君王军的小兵常用的防具。"
+	},
+	{
+		"id": 1860000,
+		"eng": "Wholly unembellished iron helm.\nWidely issued to foot soldiers in a lord's army.",
+		"chn": "没有特别装饰的铁制头盔。\n君王军的小兵常用的防具。"
+	},
+	{
+		"id": 1860100,
+		"eng": "Padded cloth armor with the telltale stains of the scarlet rot.\n\nWorn by foot soldiers in General Radahn's army.",
+		"chn": "沾满猩红腐败的铺棉布质铠甲。\n\n与拉塔恩将军并肩作战的小兵们穿戴的防具。"
+	},
+	{
+		"id": 1870100,
+		"eng": "Padded cloth armor with indelible bloodstains around the neck.\n\nWorn by headless foot soldiers who endlessly guard the Wandering Mausoleum.",
+		"chn": "脖子附近布满血迹的铺棉布质铠甲。\n\n持续守护漫步灵庙的无头小兵们穿戴的防具。"
+	},
+	{
+		"id": 1880000,
+		"eng": "Flanged iron cap adorned with a crown of unalloyed gold.\nIncreases faith.\n\nWorn by foot soldiers sworn to the Haligtree.\n\nWho is it that Miquella shall bless, if not the low and the meek?",
+		"chn": "具有帽檐的铁制帽子上，\n装饰着纯净金头带的防具。\n能提升信仰。\n\n侍奉圣树的小兵们穿戴的防具。\n\n默默无名的、力量弱小的，\n米凯拉会给予赐福。"
+	},
+	{
+		"id": 1880100,
+		"eng": "Padded cloth armor with a shawl in the color of ivory draped over the shoulders.\n\nWorn by foot soldiers sworn to the Haligtree.",
+		"chn": "在铺棉的布质铠甲上，\n披着象牙色披肩的防具。\n\n侍奉圣树的小兵们穿戴的防具。"
+	},
+	{
+		"id": 1890000,
+		"eng": "Mask with long, hideously twisted horns worn by the Omenkillers.\nIncreases strength.\n\nBears the smirking face of an elder, twisted in wicked delight.\n\nThis visage is carved in the image of the evil spirits that haunt the Omen in their nightmares.",
+		"chn": "具有丑陋弯曲长角的面具。\n恶兆猎人们穿戴的防具。\n能提升力气。\n\n一脸开心的老人，笑容带有一丝猥琐。\n\n据说是参考出现在恶兆之子们的恶梦中，\n那邪恶灵魂的模样制成的物品。"
+	},
+	{
+		"id": 1890100,
+		"eng": "Robe worn by the Omenkillers, butchers of twisted conscience.\n\nIts thick apron is worn in remembrance of Rollo, the progenitor of the Omenkillers and a perfumer of antiquity.",
+		"chn": "心灵毁坏的虐杀者──\n恶兆猎人们穿戴的长袍。\n\n猎人们的鼻祖罗洛，是古老的调香师。\n厚重围裙是由此而来。"
+	},
+	{
+		"id": 1890200,
+		"eng": "Long, stiff leather gloves worn by the Omenkillers.",
+		"chn": "硬质的皮制长手套。\n恶兆猎人们穿戴的防具。"
+	},
+	{
+		"id": 1890300,
+		"eng": "Stiff leather boots worn by the Omenkillers.",
+		"chn": "硬质的皮制靴子。\n恶兆猎人们穿戴的防具。"
+	},
+	{
+		"id": 1900000,
+		"eng": "Gray scarab worn directly on the head.\nThese scarabs roll clumps of Ashes of War during their labors.\n\nSlightly reduces the FP cost of skills, but increases damage taken.",
+		"chn": "将滚动战灰的深灰色粪金龟\n直接套在头上使用的防具。\n\n发动战技时，能些微减少消耗的专注值，\n但会增加受到的损伤。"
+	},
+	{
+		"id": 1901000,
+		"eng": "Golden scarab worn directly on the head.\nThese scarabs roll clumps of incantations during their labors.\n\nSlightly reduces the FP costs of incantations, but increases damage taken.\n\nAs a scarab approaches death, it abandons its rolled treasure and stretches its wings wide for the long journey to its home nest.",
+		"chn": "将滚动祷告的金色粪金龟\n直接套在头上使用的防具。\n\n执行祷告时，能些微减少消耗的专注值，\n但会增加受到的损伤。\n\n据说当粪金龟察觉到死期将近，\n会抛下滚动的球，将翅膀展开到极限，\n朝它的故乡──巢穴飞去。"
+	},
+	{
+		"id": 1902000,
+		"eng": "Blue-green scarab worn directly on the head.\nThese scarabs roll clumps of sorcery during their labors.\n\nSlightly reduces the FP costs of sorceries, but increases damage taken.",
+		"chn": "将滚动魔法的蓝绿色粪金龟\n直接套在头上使用的防具。\n\n施展魔法时，能些微减少消耗的专注值，\n但会增加受到的损伤。"
+	},
+	{
+		"id": 1910000,
+		"eng": "Red scarab worn directly on the head.\nThe red scarabs roll clumps of crimson tears during their labors.\n\nSlightly increases the recovery effects of the Flask of Crimson Tears, but increases damage taken.",
+		"chn": "将滚动红露滴的红色粪金龟\n直接套在头上使用的防具。\n\n能些微提升红露滴圣杯瓶的恢复量，\n但会增加受到的损伤。"
+	},
+	{
+		"id": 1920000,
+		"eng": "Blue scarab worn directly on the head.\nThese scarabs roll clumps of cerulean tears during their labors.\n\nSlightly increases the recovery effects of the Flask of Cerulean Tears, but increases damage taken.",
+		"chn": "将滚动蓝露滴的蓝色粪金龟\n直接套在头上使用的防具。\n\n能些微提升蓝露滴圣杯瓶的恢复量，\n但会增加受到的损伤。"
+	},
+	{
+		"id": 1930100,
+		"eng": "Extremely thin and sheer white dress worn by the Deathbed Companion as she embraces the dead.\n\nSlowly replenishes the HP of nearby allies, but not that of the wearer.\n\nThe touch of the fabric is exceedingly soft, so as not to harm even the most withered corpse, while still sharing her warmth.",
+		"chn": "非常轻薄、平滑的白丝连身裙。\n死眠少女依偎尸体时穿着的衣物。\n\n不包含自身，缓慢恢复周围我方人物的血量。\n\n据说此衣物不会碰伤枯槁的尸体。\n会带给尸体的，只有温暖。"
+	},
+	{
+		"id": 1930300,
+		"eng": "Skirt worn by Phia, the Deathbed Companion.",
+		"chn": "死眠少女菲雅的裙子"
+	},
+	{
+		"id": 1940000,
+		"eng": "Hood of black cloth that covers the whole head.\nWorn by Fia, the Deathbed Companion, on her journey after being exiled from her home.\n\nThe fabric itself is soft as silk.",
+		"chn": "覆盖头部的黑色布质风帽。\n被赶出故乡的死眠少女──\n菲雅的旅行服装。\n\n质地有如薄丝一般柔软。"
+	},
+	{
+		"id": 1940100,
+		"eng": "Robe of black cloth that covers the entire body.\nWorn by Fia, the Deathbed Companion, on her journey after being exiled from her home.\n\nThe fabric itself is soft as silk and thin enough that those embraced can feel every pulse; every bit of her warmth.",
+		"chn": "覆盖全身的黑色布质长袍。\n被赶出故乡的死眠少女──\n菲雅的旅行服装。\n\n质地有如薄丝一般柔软，\n能透过衣服感受到温暖与心跳。"
+	},
+	{
+		"id": 1941100,
+		"eng": "Robe of black cloth that covers the entire body.\nWorn by Fia, the Deathbed Companion, on her journey after being exiled from her home.\n\nThe fabric itself is soft as silk and thin enough that those embraced can feel every pulse; every bit of her warmth.",
+		"chn": "覆盖全身的黑色布质长袍。\n被赶出故乡的死眠少女──\n菲雅的旅行服装。\n\n质地有如薄丝一般柔软，\n能透过衣服感受到温暖与心跳。"
+	},
+	{
+		"id": 1980000,
+		"eng": "Hideously stained and ragged hood.\nWorn by former foot soldiers who have turned to banditry.",
+		"chn": "非常骯脏的破布风帽。\n落魄士兵组成的强盗团成员穿戴的防具。"
+	},
+	{
+		"id": 1980100,
+		"eng": "Hideously stained and ragged cloth armor.\nWorn by former foot soldiers who have turned to banditry.",
+		"chn": "非常骯脏的铺棉软铠甲。\n落魄士兵组成的强盗团成员穿戴的防具。"
+	},
+	{
+		"id": 1980200,
+		"eng": "Hideously stained and dented gauntlets.\nWorn by former foot soldiers who have turned to banditry.",
+		"chn": "非常骯脏、缺少金属部分的臂甲。\n落魄士兵组成的强盗团成员穿戴的防具。"
+	},
+	{
+		"id": 1990000,
+		"eng": "Hood of a page selected for special privileges by the noble they serve.\n\nThe unassuming sack-like appearance befits their unseen and unknown stature.",
+		"chn": "受到特别挑选，\n侍奉位高权重者的随从们穿戴的风帽。\n\n形似麻布袋的风帽，是无名者的象征。"
+	},
+	{
+		"id": 1990100,
+		"eng": "Clothes of a page selected for special privileges by the noble they serve.\n\nTraveling wear tailored with exquisite precision, to avoid any undue shame for the page's master.",
+		"chn": "受到特别挑选，\n侍奉位高权重者的随从们穿戴的上衣。\n\n制作得颇为优质的旅行服装，\n为的是不失体面。"
+	},
+	{
+		"id": 1991100,
+		"eng": "Clothes of a page selected for special privileges by the noble they serve.\n\nTraveling wear tailored with exquisite precision, to avoid any undue shame for the page's master.",
+		"chn": "受到特别挑选，\n侍奉位高权重者的随从们穿戴的上衣。\n\n制作得颇为优质的旅行服装，\n为的是不失体面。"
+	},
+	{
+		"id": 2000000,
+		"eng": "Bronze helm decorated with innumerable snakes, eaten through by scarlet rot.\n\nWorn by gladiators who were driven from the colosseum.\nThe wearer becomes a slightly easier target for foes.",
+		"chn": "以大量的蛇装饰的青铜制头盔。\n被猩红腐败侵蚀的防具。\n\n被赶出竞技场的斗士们穿戴的防具。\n会稍微变得容易受敌人攻击。"
+	},
+	{
+		"id": 2000100,
+		"eng": "Thick, bristly cloak eaten through by scarlet rot.\n\nThe symbol of an underground gravekeeper's station.",
+		"chn": "硬质的厚实斗篷。\n被猩红腐败侵蚀的防具。\n\n身为地下墓地守墓者的证明。"
+	},
+	{
+		"id": 2000300,
+		"eng": "Greaves wrapped with bronze snakes, eaten through by scarlet rot.\n\nWorn by gladiators who were driven from the colosseum.\nThe wearer becomes a slightly easier target for foes.",
+		"chn": "缠上青铜制蛇的腿甲。\n被猩红腐败侵蚀的防具。\n\n被赶出竞技场的斗士们穿戴的防具。\n会稍微变得容易受敌人攻击。"
+	},
+	{
+		"id": 2001100,
+		"eng": "Cloak wrapped with bronze snakes, eaten through by scarlet rot.\n\nWorn by gladiators who were driven from the colosseum.\nThe wearer becomes a slightly easier target for foes.",
+		"chn": "缠上青铜制蛇的防具。\n被猩红腐败侵蚀的防具。\n\n被赶出竞技场的斗士们穿戴的防具。\n会稍微变得容易受敌人攻击。"
+	},
+	{
+		"id": 2010000,
+		"eng": "Mushrooms found growing all over the body.\nThese overgrown mushrooms form a towering headpiece.\n\nRaises attack power when something nearby suffers from poison or rot.\n\nLong ago, great lords served the scarlet rot. Perhaps such fungal bodies served as their crowns.",
+		"chn": "全身长出密密麻麻的蘑菇──\n其中头部的耸立蘑菇。\n\n当周围人物陷入异常状态\n中毒、猩红腐败时，能提升攻击力。\n\n在过去，伟大诸王侍奉猩红腐败，\n此为他们的王冠。"
+	},
+	{
+		"id": 2020000,
+		"eng": "Mask forced on a victim's head to lend torture an extra degree of cruelty.\nIt magnifies one's fears and makes them acutely aware of all forms of pain.\n\nRaises attack power when the wearer suffers from madness.\n\nWhen the Black Dumpling goes on, the torturer no longer seeks answers; only to inflict suffering without hope of relief.",
+		"chn": "承受严刑拷打时被套上的头罩。\n能加深恐惧，让痛觉更加敏锐。\n\n当自己陷入异常状态发狂时，\n能提升攻击力。\n\n那拷问不是为了问出答案，\n因此结束的时刻永不到来。"
+	},
+	{
+		"id": 2030000,
+		"eng": "Robe worn by scholars of the Lazuli Conspectus, singular among the greater Raya Lucaria Academy.\n\nThese scholars, who sought to master Carian sorcery, instead learned to see the moon as equal to the stars.\nThis robe, in the hue of the full moon, signifies their heresy.",
+		"chn": "雷亚卢卡利亚的魔法学徒中，\n在拉兹利教室求学的人们穿戴的长袍。\n\n他们穿着满月色的长袍，学习卡利亚魔法，\n并对月亮与星星平等视之，堪称异端。"
+	}
+]

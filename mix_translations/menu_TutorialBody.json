@@ -1,0 +1,367 @@
+[
+	{
+		"id": 101000,
+		"eng": "<?keyControlCamera?>: <?keyActFullName@10?>",
+		"chn": "<?keyControlCamera?>：<?keyActFullName@10?>"
+	},
+	{
+		"id": 101030,
+		"eng": "<?keyicon@15?>: <?keyActName@15?>",
+		"chn": "<?keyicon@15?>：<?keyActName@15?>"
+	},
+	{
+		"id": 101040,
+		"eng": "<?keyicon@22?>: <?keyActName@22?>",
+		"chn": "<?keyicon@22?>：<?keyActName@22?>"
+	},
+	{
+		"id": 101050,
+		"eng": "<?keyicon@23?>: <?keyActName@23?>",
+		"chn": "<?keyicon@23?>：<?keyActName@23?>"
+	},
+	{
+		"id": 101080,
+		"eng": "<?keyicon@8?>: <?keyActName@8?>",
+		"chn": "<?keyicon@8?>：<?keyActName@8?>"
+	},
+	{
+		"id": 101090,
+		"eng": "Hold <?keyMove?>+<?keyicon@7?>: Dash",
+		"chn": "<?keyMove?>＋按住<?keyicon@7?>：冲刺"
+	},
+	{
+		"id": 101110,
+		"eng": "<?keyControlCamera?> while locked-on to a target: Change target",
+		"chn": "锁定目标时<?keyControlCamera?>：切换目标"
+	},
+	{
+		"id": 101120,
+		"eng": "<?keyicon@24?>: Guard",
+		"chn": "按下<?keyicon@24?>：防御"
+	},
+	{
+		"id": 101130,
+		"eng": "Materials can be used to craft items.",
+		"chn": "材料道具会在制作道具时使用"
+	},
+	{
+		"id": 101150,
+		"eng": "<?keyicon@22?> near a backturned enemy: Critical hit",
+		"chn": "靠近敌人背后，按下<?keyicon@22?>：致命一击"
+	},
+	{
+		"id": 101170,
+		"eng": "<?keyicon@27?>: HUD display",
+		"chn": "按下<?keyicon@27?>：显示各类量表"
+	},
+	{
+		"id": 101180,
+		"eng": "<?keyicon@8?> during mounted jump: Double jump",
+		"chn": "骑马跳跃时再按下<?keyicon@8?>：二段跳跃"
+	},
+	{
+		"id": 201010,
+		"eng": "<?keyicon@26?>: <?keyActName@26?>\n<?keyicon@18?>: <?keyActName@18?>",
+		"chn": "<?keyicon@26?>：<?keyActName@26?>\n<?keyicon@18?>：<?keyActName@18?>"
+	},
+	{
+		"id": 201100,
+		"eng": "Each hand can be equipped with up to three armaments, allowing you to toggle between them.\n\nArmaments can also be two-handed, making attacks more difficult to repel with shields and boosting effective strength by 50%.\n\n<?keyicon@19?>: <?keyActName@19?>\n<?keyicon@20?>: <?keyActName@20?>\n<?keyicon@27?>+<?keyicon@24?>/<?keyicon@22?>: Wield with two hands",
+		"chn": "左手与右手各能装备３把武器，\n自由切换使用。\n\n此外，也能以双手共持武器。\n双手共持武器时，攻击比较不会被盾牌弹开，\n力气会以１.５倍计算。\n\n<?keyicon@19?>：<?keyActName@19?>\n<?keyicon@20?>：<?keyActName@20?>\n<?keyicon@27?>＋<?keyicon@24?>／<?keyicon@22?>：双手共持武器"
+	},
+	{
+		"id": 301020,
+		"eng": "Resting at a site of grace will restore your HP, FP, and cleanse any status ailments.\nIt will also refill your sacred flasks.\nHowever, most of the enemies you've defeated will be revived.\n\nYou can find sites of grace by going where light converges.\n\n*These explanations are acquired in the form of info items and can be accessed from the inventory at any time.",
+		"chn": "在赐福休息能完全恢复血量、专注值，\n治愈异常状态等等，也能补充圣杯瓶。\n\n但是大部分的敌人也会随之复活。\n\n能够在光芒聚集的地方发现赐福。\n\n※此类说明会变成情报道具\n　留在置物包，方便随时重温。"
+	},
+	{
+		"id": 301060,
+		"eng": "You can memorize sorceries and incantations at sites of grace.\n\nYou must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.\nCasting sorceries and incantations consumes FP.\n\n<?keyicon@0017?>: <?keyActName@17?>",
+		"chn": "能在赐福记忆魔法、祷告。\n\n在装备手杖、圣印记之后，\n能够消耗专注值使用先行记忆的魔法、祷告。\n\n<?keyicon@0017?>：<?keyActName@17?>"
+	},
+	{
+		"id": 301130,
+		"eng": "Equip a bow to fire arrows.\nYou can equip up to two types of arrows to choose from at once.\n\nWhen wielding a bow with two hands, hold <?keyicon@24?> for precision aiming.\nUse <?keyControlCamera?> to adjust your aim.\n\n<?keyicon@22?>: Fire arrow type 1\n<?keyicon@23?>: Fire arrow type 2\n<?keyicon@24?>: Precision aiming",
+		"chn": "能够装备弓，射出箭矢攻击。\n总共能装备２种箭，可以依照情况切换使用。\n\n双手共持弓，按住<?keyicon@24?>能精密射击。\n用<?keyControlCamera?>能移动准心。\n\n按下<?keyicon@22?>：射出“箭１”的箭\n按下<?keyicon@23?>：射出“箭２”的箭\n按住<?keyicon@24?>：精密射击"
+	},
+	{
+		"id": 301140,
+		"eng": "Crouch to make it harder for enemies to discover you.\nEspecially effective in tall grass.\n\nAttacking an enemy that hasn't noticed you will cause more damage than usual.\n\n<?keyicon@9?>: <?keyActName@9?>",
+		"chn": "蹲下后较不容易被敌人发现。\n在草丛蹲下，藏身效果更佳。\n\n在没有被敌人发现的情况下攻击，\n能够比一般攻击给予更多的伤害。\n\n<?keyicon@9?>：<?keyActName@9?>"
+	},
+	{
+		"id": 301160,
+		"eng": "Some attacks may break an enemy's stance, giving you a chance to perform a critical hit.\n\nCharge attacks and jump attacks make it particularly easy to break an enemy's stance.\n\nHold <?keyicon@23?>: Charge attack\n<?keyicon@23?> while jumping: Jump attack",
+		"chn": "敌人会因为我方的攻击而失去平衡，\n此时就有机会使出致命一击。\n\n蓄力攻击、跳跃攻击\n特别容易让敌人失去平衡。\n\n按住<?keyicon@23?>：蓄力攻击\n跳跃时按下<?keyicon@23?>：跳跃攻击"
+	},
+	{
+		"id": 301500,
+		"eng": "Use your map to check your current position, as well as the terrain and surrounding structures.\n\nYou can update your map with new information by finding map fragments at steles along the road.\n\nYou can also use the map to freely place beacons of light to serve as landmarks as you explore.\n\n<?keyicon@29?>: <?keyActName@29?>",
+		"chn": "透过地图能确认自己的所在位置、\n地形以及建筑物等等资讯。\n\n座落路边的石碑放有“地图碎片”，\n取得后能更新地图。\n\n另外，也能在地图上放置光柱，\n作为探索时的标记。\n\n<?keyicon@29?>：<?keyActName@29?>"
+	},
+	{
+		"id": 301510,
+		"eng": "Grace exists to guide the Tarnished and lead them along the proper path.\n\nEven now, some sites of grace retain that power. Their golden rays will guide you along your way.",
+		"chn": "赐福原本是引导褪色者前进，\n替褪色者指路的存在。\n\n如今仍有部分赐福留有指引的力量，\n会以金黄色的光芒轨迹，\n指出褪色者该前进的方向。"
+	},
+	{
+		"id": 301520,
+		"eng": "Use the Spectral Steed Whistle to summon and ride your spectral steed.\n\nIf your spectral steed dies, you can summon it again, but it will cost one Flask of Crimson Tears to do so.\n\nYou can dismount by using the whistle again or by pressing <?keyicon@0009?>.",
+		"chn": "使用“灵马哨笛”能召唤出灵马，\n骑马行动。\n\n灵马死亡后能再一次召唤，\n但必须消耗１瓶“红露滴圣杯瓶”。\n\n骑马时再次使用灵马哨笛，\n或是按下<?keyicon@0009?>能够下马。"
+	},
+	{
+		"id": 301530,
+		"eng": "Upon dying, you will be revived at the last site of grace that you visited.\n\nYou will drop any runes in your possession at the site of your death.\nIf you die again before reclaiming those runes, they will be lost forever.\n\nThe compass at the top of the screen indicates the direction of the lost runes.",
+		"chn": "死亡之后，会在最后停留的赐福复活。\n\n持有卢恩会留在死亡地点。\n在拿回卢恩之前再次死亡，卢恩将会消失。\n\n留在死亡地点的卢恩，\n所在方向会显示在画面上方的方位条。"
+	},
+	{
+		"id": 301540,
+		"eng": "Upon dying, you will be revived at the last site of grace that you visited.\n\nHowever, if there is a Stake of Marika near where you died, you can choose to be revived there instead.",
+		"chn": "死亡之后，会在最后停留的赐福复活。\n\n如果死亡地点附近有“玛莉卡楔石”，\n也能选择在那里复活。"
+	},
+	{
+		"id": 301550,
+		"eng": "With a Spirit Calling Bell, you can use ashes to summon various spirits.\nSummoning typically consumes FP.\n\nYou can only summon one type of spirit at a time.\nYou cannot summon spirits during multiplayer.",
+		"chn": "拥有“召魂铃”之后，\n能透过骨灰道具召唤各种灵魂。\n召唤时基本上需要消耗专注值。\n\n在同一时间内，只能召唤１种灵魂。\n多人联机游玩时无法召唤灵魂。"
+	},
+	{
+		"id": 301560,
+		"eng": "In every corner of the Lands Between, you will find fruits and flowers, mushrooms and butterflies, and various other useful materials.\n\nThese materials can be used for item crafting.",
+		"chn": "交界地各处生长的果实、花朵、菇类，\n或是蝴蝶等等生物，皆能作为材料道具。\n\n材料道具会在制作道具时使用。"
+	},
+	{
+		"id": 301570,
+		"eng": "If you have a Crafting Kit, you can make various items from materials that you find.\n\nSelect \"Item Crafting\" from the main menu to make items.\n\nYou can learn to craft more items by finding cookbooks.\n\n<?keyicon@28?>: <?keyActName@28?>",
+		"chn": "拥有“工具皮袋”之后，\n能用材料道具制作各种道具。\n\n从主选单的“制作道具”选单能制作道具。\n\n取得“制作笔记”之后，\n能制作的道具种类也会随之增加。\n\n<?keyicon@28?>：<?keyActName@28?>"
+	},
+	{
+		"id": 301580,
+		"eng": "You will need cracked pots or other containers to craft certain items.\nYou will not be able to make more of those items than you have containers.\n\nContainer items will run out with use, but the containers themselves will remain.",
+		"chn": "在能够制作的道具之中，\n部分道具需要有特定的容器\n（例如龟裂壶等等）才能制作。\n\n制作的数量无法超过容器道具的数量。\n\n制作道具会消耗容器道具，\n但容器本身不会不见。"
+	},
+	{
+		"id": 301590,
+		"eng": "You can find crystal tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between.\n\nAt sites of grace, you can mix two crystal tears in the Flask of Wondrous Physick.\nThis will allow you to create elixirs with various custom effects.",
+		"chn": "在交界地各处，\n例如小黄金树的树脚等等地方，\n会找到名为结晶露滴的道具。\n\n将２块结晶露滴加入“灵药圣杯瓶”调配，\n灵药会产生各式各样的效用。\n\n能在赐福进行调配。"
+	},
+	{
+		"id": 301600,
+		"eng": "With a Whetstone Knife, you can use ashes of war to grant your armaments new skills at sites of grace.\n\nAn armament can only have one skill.\nAny skill it previously had will be removed.\n\nAn armament's type determines what skills it can have. Some special armaments have unique skills and cannot be granted new ones.",
+		"chn": "拥有“砥石小刀”之后，\n能在赐福使用“战灰”，赋予武器战技。\n\n每一把武器只能有一个战技，\n赋予战技之后，会移除旧有的战技。\n\n能赋予的战技会依照武器类别有所限制。\n部分特殊武器（例如具备固有战技的武器），\n无法赋予战技。"
+	},
+	{
+		"id": 301610,
+		"eng": "You can use the Birdseye Telescopes found in various areas to get a bird's-eye view of the terrain in the direction that the telescope is facing.\n\n<?keyicon@17?>: Zoom in\n<?keyicon@18?>: Zoom out",
+		"chn": "使用散置各地的“鸟瞰镜”，\n能以鸟类的视野观察前方道路。\n\n<?keyicon@17?>：放大影像\n<?keyicon@18?>：缩小影像"
+	},
+	{
+		"id": 301620,
+		"eng": "Jump while on horseback near a spiritspring to ride its current high into the air.\n\nYou won't take damage from jumping into a spiritspring while on horseback, even from a great height.\n\n<?keyicon@8?> at a spiritspring while on horseback: Spiritspring jump",
+		"chn": "骑马时靠近有“灵魂气流”的地方跳跃，\n能够顺着气流往上大幅跳跃。\n\n骑马状态下顺着“灵魂气流”落地时，\n即使是从高处坠落，也不会受到损伤。\n\n骑马时靠近灵魂气流，\n按下<?keyicon@8?>：灵魂气流跳跃"
+	},
+	{
+		"id": 301630,
+		"eng": "Vanquishing an enemy group will replenish your flasks.\n\nThe number and type of flasks to be replenished varies, depending on the enemy group.\n\nYou cannot replenish more flasks than your maximum amount allows.",
+		"chn": "打败敌对团体之后，\n能恢复圣杯瓶的使用次数。\n\n恢复的圣杯瓶种类、次数，\n会依照敌对团体而不同。\n\n如果恢复前使用次数已达上限，\n则不能累加。"
+	},
+	{
+		"id": 301640,
+		"eng": "There are both Crimson and Cerulean Teardrop Scarabs.\nDefeat them to replenish the flasks that match their type.\n\nHowever, you cannot replenish more flasks than your maximum amount allows.",
+		"chn": "露滴粪金龟有红色、蓝色之分，\n打败它之后能恢复与颜色对应的圣杯瓶。\n\n如果恢复前使用次数已达上限，则不能累加。"
+	},
+	{
+		"id": 301650,
+		"eng": "Use Furlcalling Finger Remedy to reveal summon signs of players from other worlds.\n\nGold signs indicate an ally.\nRed signs indicate an adversary.\nThe multiplayer session will begin once either type has been summoned.\n(You will take the role of the Host of Fingers.)",
+		"chn": "使用“唤勾指药”\n能看见其他世界玩家的召唤记号。\n\n召唤记号有下列种类：\n金色记号能召唤协助者；\n红色记号能召唤敌对者。\n\n召唤后，会开始多人联机游玩。\n多人联机游玩时，您将成为“勾指主人”。"
+	},
+	{
+		"id": 301660,
+		"eng": "Use Tarnished's Furled Finger to write a gold summon sign.\n\nCooperative multiplayer will begin once you have been summoned by a player from another world.\n\nYou will take the role of an ally (Furled Finger) and your objective is to defeat the area boss.\n\nThe compass at the top of the screen indicates the direction of the summoner (Host of Fingers).",
+		"chn": "使用“褪色者勾指”\n能写下金色召唤记号。\n\n当其他世界的玩家透过记号召唤您，\n会开始协力多人联机游玩。\n\n您将成为协助者（勾指），\n目标是打败区域头目。\n\n召唤主方（勾指主人）的所在方向\n会显示在画面上方的方位条。"
+	},
+	{
+		"id": 301670,
+		"eng": "Use Duelist's Furled Finger to write a red summon sign.\n\nCompetitive multiplayer will begin once you have been summoned by a player from another world.\n\nYou will take the role of an adversary (Duelist) and your objective is to defeat the Host of Fingers who summoned you.",
+		"chn": "使用“斗士勾指”\n能写下红色召唤记号。\n\n当其他世界的玩家透过记号召唤您，\n会开始敌对多人联机游玩。\n\n您将成为敌对者（斗士），\n目标是打败召唤您的“勾指主人”。"
+	},
+	{
+		"id": 301680,
+		"eng": "Use Festering Bloody Finger to attempt to invade the world of another player.\n\nThe multiplayer session will begin once the invasion succeeds.\n\nYou will take the role of an invader (Bloody Finger) and your objective is to defeat the Host of Fingers of that world.\n\nIf you stray far from the Host of Fingers, the compass at the top of the screen points to their location.",
+		"chn": "使用“溃烂血指”等等道具，\n能入侵其他玩家的世界。\n\n入侵成功后，会开始入侵多人联机游玩。\n\n您将成为入侵者（血指），\n目标是打败入侵世界的主人“勾指主人”。\n\n当勾指主人位在远方，\n所在方向会显示在画面上方的方位条。"
+	},
+	{
+		"id": 301690,
+		"eng": "In each area, you may find effigies of martyrs.\nThese effigies are summoning pools.\n\nYou'll find it easy to summon other players at these locations, as co-op and hostile summoning signs created with small effigies gather at summoning pools.",
+		"chn": "散布各地的殉教者雕像，\n是记号的聚集处。\n\n使用小雕像写下的协力记号、\n敌对记号会汇集在记号聚集处，\n方便召唤其他玩家。"
+	},
+	{
+		"id": 302000,
+		"eng": "With a Whetstone Knife, you can use ashes of war to grant affinities to your armaments at sites of grace.\n\nThis way, you can alter an armament's attack affinity, boost attribute scaling, and more.\n\nAn armament's type determines what affinities it can have. Some special armaments, like those with unique skills, cannot be granted new affinities.",
+		"chn": "拥有“砥石小刀”之后，\n能在赐福使用“战灰”，赋予武器属性。\n\n根据赋予的属性，\n武器的攻击属性、能力加成\n会随之产生变化。\n\n能赋予的属性会依照武器类别有所限制。\n部分特殊武器（例如具备固有战技的武器），\n无法赋予属性。"
+	},
+	{
+		"id": 302380,
+		"eng": "If you use a Blue Cipher Ring, you will make yourself open to summons for rescue from other worlds.\n\nThe multiplayer session will begin once you have been summoned as a hunter, and your objective is to defeat the invader of that world.\n\nThe compass at the top of the screen indicates the direction of the summoner (Host of Fingers).",
+		"chn": "使用“蓝秘文戒指”，\n在收到其他世界召唤猎人的请求时，\n能回应要求，接受召唤。\n\n作为猎人受召唤之后，\n将开始猎人多人联机游玩。\n目标是打败入侵者。\n\n召唤主方（勾指主人）的所在方向\n会显示在画面上方的方位条。"
+	},
+	{
+		"id": 302390,
+		"eng": "You must be near a rebirth monument to summon spirits from ashes.\n\nWhen you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.",
+		"chn": "透过骨灰道具进行的灵魂召唤，\n只能在还魂碑附近进行。\n\n当身在还魂碑附近，\n或是在能召唤灵魂的地方时，\n画面左侧会出现碑文图案。"
+	},
+	{
+		"id": 302400,
+		"eng": "You can perform a counterattack immediately after blocking an enemy attack.\n\nGuard counters make it easy to break an enemy's stance.\n\n<?keyicon@23?> immediately after blocking an attack: Guard Counter",
+		"chn": "防住敌人攻击的当下，能立刻使出防御反击。\n防御反击容易让敌人失去平衡。\n\n防住敌人攻击后\n立刻按下<?keyicon@23?>：防御反击"
+	},
+	{
+		"id": 302410,
+		"eng": "Use an armament in your left hand or both hands to guard against incoming attacks.\nGuarding is especially effective when done with a shield.\n\nGuarding consumes stamina.\nIf your stamina runs out, your stance will be broken.\n\n<?keyicon@24?>: Guard",
+		"chn": "能用左手武器，\n或是以双手共持的武器防御敌人攻击。\n\n用盾牌防御的效果尤佳。\n\n防御攻击时会消耗精力，\n精力耗尽后会失去平衡。\n\n按下<?keyicon@24?>：防御"
+	},
+	{
+		"id": 302420,
+		"eng": "If you use a White Cipher Ring, you will automatically request for a hunter from another world to come to your rescue when your world is invaded.\n(Can also be used after you are invaded.)\n\nThe hunter will be summoned once the request succeeds, and their objective is to defeat the invader of your world.",
+		"chn": "使用“白秘文戒指”，\n在被入侵者入侵时，能自动发出请求，\n召唤其他世界的猎人。\n（也能在被入侵后再使用。）\n\n成功后能召唤猎人，\n猎人的目标是打败入侵者。"
+	},
+	{
+		"id": 302430,
+		"eng": "Armaments have special abilities called skills.\n\nSkills are highly varied, and range from powerful attacks to temporary effects.\nUsing skills consumes FP.\n\n<?keyicon@25?>: <?keyActName@25?>",
+		"chn": "战技是武器具备的特殊招式。\n\n战技的种类繁多，从使出强大攻击，\n到产生短暂特殊效果皆有。\n使用时会消耗专注值。\n\n<?keyicon@25?>：<?keyActName@25?>"
+	},
+	{
+		"id": 302440,
+		"eng": "Through your map, you can instantly travel to any sites of grace that you've discovered.\n\nHowever, there are some dungeons and other areas where this cannot be done.",
+		"chn": "能够从地图点选已知的赐福，瞬间移动过去。\n\n但是部分区域（例如地下迷宫等等），\n无法进行瞬间移动。"
+	},
+	{
+		"id": 302450,
+		"eng": "At a smithing table, you can spend runes and smithing stones to strengthen your armaments.\n\nSomewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.",
+		"chn": "在锻造台消耗“锻造石”与花费卢恩，\n能够强化武器。\n\n如果在交界地之中找到铁匠，\n武器就能得到更进一步的强化。"
+	},
+	{
+		"id": 302460,
+		"eng": "The Roundtable Hold is a place where Tarnished gather, guided by grace. Combat is prohibited on the premises due to a pact of non-aggression. (This rule is in effect when the Roundtable icon is displayed.)\nThe Roundtable Hold is located outside of this world. It can only be reached through sites of grace. (Can also be accessed by using the map to travel.)\n\n<?keyicon@29?>: <?keyActName@29?>",
+		"chn": "圆桌厅堂是受赐福引导的褪色者聚集的地方。\n基于非战的约定，不得于此械斗。\n（圆桌厅堂的图案代表着非战的约定。）\n\n圆桌厅堂不存在于现世，\n只能透过赐福往来，但也能透过地图传送。\n\n<?keyicon@29?>：<?keyActName@29?>"
+	},
+	{
+		"id": 302480,
+		"eng": "From \"Pouch\" in the main menu, you can equip six items to your pouches.\n\nFour of those items can be used without opening the main menu.\n\n<?keyicon@27?>+<?keyicon@17?>: Use item in Pouch 1\n<?keyicon@27?>+<?keyicon@19?>: Use item in Pouch 2\n<?keyicon@27?>+<?keyicon@20?>: Use item in Pouch 3\n<?keyicon@27?>+<?keyicon@18?>: Use item in Pouch 4",
+		"chn": "在主选单的“随身包包”能配置６项道具，\n直接从主选单使用。\n\n此外，随身包包中配置于前４项的道具，\n能不打开主选单直接使用。\n\n<?keyicon@27?>＋<?keyicon@17?>：使用“随身包包１”的道具\n<?keyicon@27?>＋<?keyicon@19?>：使用“随身包包２”的道具\n<?keyicon@27?>＋<?keyicon@20?>：使用“随身包包３”的道具\n<?keyicon@27?>＋<?keyicon@18?>：使用“随身包包４”的道具"
+	},
+	{
+		"id": 302490,
+		"eng": "You can avoid enemy attacks with a dodge roll or backstep.\nBoth of these actions consume stamina.\n\n<?keyicon@3?>+<?keyicon@7?>: Dodge roll\n<?keyicon@7?>: Backstep",
+		"chn": "利用翻滚或是后跃，能闪避敌人的攻击。\n只是做出这两种行动都需要消耗精力。\n\n<?keyicon@3?>＋<?keyicon@7?>：翻滚\n<?keyicon@7?>：后跃"
+	},
+	{
+		"id": 302500,
+		"eng": "The Great Runes you receive by defeating shardbearers have lost their beneficial power.\nHowever, their power can be restored at Divine Towers throughout the Lands Between.\n\nSee the description of each Great Rune to discover which Divine Tower you should visit.",
+		"chn": "打败碎片君王获得的大卢恩\n失去了恩惠的力量。\n到各处的神授塔，能让它再次获得力量。\n\n相对应的神授塔，\n写在各个大卢恩的道具说明内。"
+	},
+	{
+		"id": 309000,
+		"eng": "You will need certain items to participate in each type of multiplayer:\ncooperative, invasion, or competitive.\n\nSelect \"Multiplayer\" from the main menu to see your multiplayer items.\nYou can also use them directly from this menu.\n\n<?keyicon@28?>: <?keyActName@28?>",
+		"chn": "要进行协力、入侵、敌对多人联机游玩，\n必须先取得各自所需的道具。\n\n多人联机游玩的相关道具，\n能在主选单的“多人联机游玩”选单确认，\n也能从选单直接使用。\n\n<?keyicon@28?>：<?keyActName@28?>"
+	},
+	{
+		"id": 402000,
+		"eng": "With the Equipment menu, you can equip armaments, arrows, bolts, armor, talismans, and items.\n\nYou can equip up to three armaments each to your left and right hands.\nThe actions each armament performs will vary based on which hand is wielding it.",
+		"chn": "在装备选单，能选择想装备的\n武器、箭、弩箭、防具、护符，以及道具。\n\n左手与右手各能装备３把武器。\n武器装备在不同手，动作各有不同。"
+	},
+	{
+		"id": 402010,
+		"eng": "With the Item Crafting menu, you can make various items from materials that you find.\n\nYou can learn to craft more items by finding cookbooks.",
+		"chn": "在制作道具选单，\n能用材料道具制作各种道具。\n\n取得“制作笔记”之后，\n能制作的道具种类也会随之增加。"
+	},
+	{
+		"id": 402020,
+		"eng": "With the Inventory menu, you can browse the items you're carrying, drop them on the ground, or throw them away.\n\nYou can also use tools from the Inventory menu.\n\n<?keyicon@31?>: Show large image and explanation.\n<?keyicon@30?>: Toggle character data",
+		"chn": "在置物包选单，能确认持有的物品，\n选择将物品放置原地，或是丢弃。\n\n也能从置物包选单使用道具。\n\n<?keyicon@31?>：显示大图片与说明文\n<?keyicon@30?>：切换显示角色数据"
+	},
+	{
+		"id": 402030,
+		"eng": "With the Status menu, you can check your level, attributes, base stats, and more.\n\nThe information shown here also reflects changes to your attack, defense, and resistances bestowed by armaments and armor that you have equipped.",
+		"chn": "在状态选单，能确认自己的等级、能力值，\n以及基本能力等等资讯。\n\n攻击力、防御力、抵抗力等等，\n会根据装备的武器、防具的数值变化。"
+	},
+	{
+		"id": 402040,
+		"eng": "With the Messages menu, you can write messages that players in other worlds can read at the spot where you left them.\n\nYou can change the message format to leave more complex messages and also attach gestures to your messages.\n\nYou can rate other players' messages.\nWhenever another player rates a message that you've written, your HP will be replenished.",
+		"chn": "在讯息选单，能够当场写下讯息，\n传布到其他世界。\n\n切换讯息的格式，就能留下更为复杂的讯息。\n此外，也能替讯息搭配肢体动作。\n\n能对其他玩家留下的讯息给予评价，\n当自己的讯息收到好评，能够恢复血量。"
+	},
+	{
+		"id": 402050,
+		"eng": "With the Multiplayer menu, you can use various multiplayer items.\n\nIf you set a group password, you'll be more likely to see messages, summon signs, bloodstains, phantoms, and so on from others using the same password.\n\nIf you set a multiplayer password, you'll only be matched with other players using the same password for most multiplayer features.\nHowever, multiplayer passwords do not apply to invasion multiplayer.",
+		"chn": "在多人联机游玩选单，\n能使用各种多人联机游玩所需的道具。\n\n另外，配置群组暗号之后，\n会优先显示使用同一组暗号玩家的下列状态：\n讯息、召唤记号、血迹、幻影等等。\n\n配置多人联机游玩的暗号之后，\n会和配置同一组暗号的玩家进行联机配对。\n但在入侵多人联机游玩中，不适用暗号功能。"
+	},
+	{
+		"id": 402100,
+		"eng": "With the Map menu, you can check your current position and terrain and buildings in the surrounding area.\n\nYou can also freely place beacons of light to serve as landmarks as you explore.\n\nLastly, through your map, you can select any site of grace that you've discovered and travel there instantaneously.\nHowever, there are some dungeons and other areas where this cannot be done.",
+		"chn": "在地图选单，能确认自己的所在位置、\n地形以及建筑物等等资讯。\n\n能在地图上放置光柱，作为探索时的标记。\n\n另外，也能从地图点选已知的赐福，瞬间移动过去。\n但是部分区域（例如地下迷宫等等），无法进行瞬间移动。"
+	},
+	{
+		"id": 402200,
+		"eng": "With the Level Up menu, you can spend runes to increase your attributes.\n\nWith each attribute increase, your level rises by one.\nAs your level rises, so does the amount of runes required for your next attribute increase.",
+		"chn": "在升级选单，能花费卢恩提升能力值。\n\n提升能力值１点，等级也会提升１等。\n当等级越来越高，提升能力值所需的卢恩也会越来越多。"
+	},
+	{
+		"id": 402230,
+		"eng": "With this menu, you can allocate the number of uses in each of your flasks.\n\nYou have a set total of maximum flask uses.\nYou can decide how many of those uses are for the HP-replenishing Flask of Crimson Tears, and how many are for the FP-replenishing Flask of Cerulean Tears.",
+		"chn": "在这个选单，能分配圣杯瓶的使用次数。\n\n能将２种圣杯瓶合计的使用次数，\n依照需求分配给恢复血量的红露滴圣杯瓶，\n以及恢复专注值的蓝露滴圣杯瓶。"
+	},
+	{
+		"id": 402240,
+		"eng": "With the Memorize Spells menu, you can memorize sorceries and incantations.\n\nYou must have a staff equipped to cast sorceries, or a sacred seal equipped to cast incantations.\nCasting sorceries and incantations consumes FP.\n\nYour memory slots determine the number of sorceries and incantations you can memorize.\nYou can increase your memory slots by obtaining a Memory Stone.",
+		"chn": "在记忆选单，能够记忆魔法、祷告。\n\n在装备手杖、圣印记之后，\n能够消耗专注值使用先行记忆的魔法、祷告。\n\n记忆空格的数量，代表能记忆的魔法、祷告数量上限。\n利用“记忆石”能增加记忆空格的数量。"
+	},
+	{
+		"id": 402250,
+		"eng": "With this menu, you can place items that you're carrying into the chest for storage, or take stored items out of the chest.\n\nIf you are already carrying the maximum number of items when you pick up a new item, it will be stored in the chest automatically.",
+		"chn": "在这个选单，能将持有道具收进木箱，\n或是从木箱拿出道具。\n\n当获得的道具超过可持有数量的上限，\n会被自动收进木箱。"
+	},
+	{
+		"id": 402300,
+		"eng": "With the shop menu, you can spend runes to purchase various items.\n\nYou can also sell items for runes.\n\nEach merchant stocks a different variety of items for purchase.",
+		"chn": "在交易选单，能花费卢恩购买道具。\n另外，卖出道具能获得卢恩。\n\n每一位商人贩卖的道具会不太一样。"
+	},
+	{
+		"id": 402320,
+		"eng": "With the Ashes of War menu, you can use Ashes of War to grant skills and affinities to your armaments at sites of grace.\n\nAn armament can only have one skill.\nAny skill it previously had will be lost.\n\nBy adding an affinity, you can alter an armament's attack affinity, boost attribute scaling, and more.\n\nAn armament's type determines what skills and affinities it can have. Some special armaments cannot be granted new skills or affinities using Ashes of War.",
+		"chn": "在战灰选单，能使用“战灰”，\n赋予武器战技、属性。\n\n每一把武器只能有一个战技，\n赋予战技之后，会移除旧有的战技。\n\n根据赋予的属性，武器的攻击属性、能力加成\n会随之产生变化。\n\n能赋予的战技、属性会依照武器类别有所限制。\n部分特殊武器（例如具备固有战技的武器），\n无法用战灰赋予战技、属性。"
+	},
+	{
+		"id": 402330,
+		"eng": "With the Spirit Tuning menu, you can spend runes and Grave Gloveworts to strengthen the spirits you summon from ashes.\n\nTo strengthen named spirits, you'll need Ghost Gloveworts.",
+		"chn": "在调灵选单，\n能花费卢恩与消耗“墓地铃兰”，\n强化透过骨灰召唤的灵魂。\n\n但如果是有名字的灵魂，\n必须使用“灵依墓地铃兰”才能强化。"
+	},
+	{
+		"id": 402350,
+		"eng": "With the Great Rune menu, you can equip Great Runes that\nhave had their power restored.\n\nYou can use a Rune Arc to give even greater benefits to\nyour equipped Great Runes.",
+		"chn": "在大卢恩选单，\n能装备再次获得力量的大卢恩。\n\n使用“卢恩弯弧”，\n能让所装备的大卢恩带来强大的恩惠。"
+	},
+	{
+		"id": 402360,
+		"eng": "With this menu, you can mix two crystal tears in the Flask of Wondrous Physick.\n\nThis will allow you to create physicks with various custom effects.",
+		"chn": "在这个选单，能将２块结晶露滴\n加入灵药圣杯瓶进行调配。\n\n经过调配，灵药会产生各式各样的效用。"
+	},
+	{
+		"id": 402370,
+		"eng": "With the Rebirth menu, you can spend Larval Tears to clear\nyour levels and reassign them from square one.\n\nYou must reassign all levels until you reach your present\nlevel and you cannot make any attributes lower than\ntheir initial level determined by your origin.",
+		"chn": "在重新诞生选单，能消耗“泪滴幼体”\n重置自己升级时所提升的能力值。\n\n重置后，等级必须提升至原有等级，\n能力值也不能低于出身固有的数值。"
+	},
+	{
+		"id": 402380,
+		"eng": "With the Power of Remembrance menu, you can draw out the power of a remembrance's namesake.\n\nEach remembrance can provide one power. Once that power is claimed, the remembrance will be lost.",
+		"chn": "在追忆力量选单，能透过追忆\n获得追忆之主拥有的力量。\n\n一个追忆能获得的力量只限一个。\n在获得力量之后，追忆会消失。"
+	},
+	{
+		"id": 402390,
+		"eng": "With the smithing menu, you can spend runes and smithing stones to strengthen your armaments.\n\nYou can strengthen your armaments up to +3 at a smithing table.\n\nSomewhere in the Lands Between, you may meet a blacksmith who can make your armaments even stronger.",
+		"chn": "在锻造台选单，\n能消耗“锻造石”与花费卢恩强化武器。\n\n使用锻造台的强化上限为“＋３”。\n\n如果在交界地之中找到铁匠，\n武器就能得到更进一步的强化。"
+	},
+	{
+		"id": 402400,
+		"eng": "With the Remembrance Duplication menu, you can duplicate remembrances you've previously acquired.\n(This includes remembrances from which you've already drawn out power.)\n\nDuplication can only be performed once per mausoleum.",
+		"chn": "在复制追忆选单，\n能复制过去曾经获得的追忆。\n（已经用在获得追忆之主力量的追忆，也能进行复制。）\n\n一座灵庙能进行的复制，只限一次。"
+	}
+]

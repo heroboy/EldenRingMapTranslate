@@ -1,0 +1,592 @@
+[
+	{
+		"id": 100,
+		"eng": "Summons Stalker to face invading Broken Finger",
+		"chn": "受崩指入侵时，能召唤崩指猎人"
+	},
+	{
+		"id": 101,
+		"eng": "Be summoned to worlds invaded by Broken Fingers",
+		"chn": "能够接受召唤，前往受崩指入侵的世界"
+	},
+	{
+		"id": 1000,
+		"eng": "Raises maximum HP",
+		"chn": "能提升血量的上限"
+	},
+	{
+		"id": 1001,
+		"eng": "Greatly raises maximum HP",
+		"chn": "能大幅提升血量的上限"
+	},
+	{
+		"id": 1002,
+		"eng": "Vastly raises maximum HP",
+		"chn": "能更大幅提升血量的上限"
+	},
+	{
+		"id": 1010,
+		"eng": "Raises maximum FP",
+		"chn": "能提升专注值的上限"
+	},
+	{
+		"id": 1011,
+		"eng": "Greatly raises maximum FP",
+		"chn": "能大幅提升专注值的上限"
+	},
+	{
+		"id": 1012,
+		"eng": "Vastly raises maximum FP",
+		"chn": "能更大幅提升专注值的上限"
+	},
+	{
+		"id": 1020,
+		"eng": "Raises maximum stamina",
+		"chn": "能提升精力的上限"
+	},
+	{
+		"id": 1021,
+		"eng": "Greatly raises maximum stamina",
+		"chn": "能大幅提升精力的上限"
+	},
+	{
+		"id": 1022,
+		"eng": "Vastly raises maximum stamina",
+		"chn": "能更大幅提升精力的上限"
+	},
+	{
+		"id": 1030,
+		"eng": "Raises maximum equipment load",
+		"chn": "能提升装备重量的上限"
+	},
+	{
+		"id": 1031,
+		"eng": "Greatly raises maximum equip load",
+		"chn": "能大幅提升装备重量的上限"
+	},
+	{
+		"id": 1032,
+		"eng": "Vastly raises maximum equip load",
+		"chn": "能更大幅提升装备重量的上限"
+	},
+	{
+		"id": 1040,
+		"eng": "Raises maximum HP, stamina and equip load",
+		"chn": "能提升血量、精力、装备重量的上限"
+	},
+	{
+		"id": 1041,
+		"eng": "Raises maximum HP, stamina and equip load",
+		"chn": "能提升血量、精力、装备重量的上限"
+	},
+	{
+		"id": 1042,
+		"eng": "Raises maximum HP, stamina and equip load",
+		"chn": "能提升血量、精力、装备重量的上限"
+	},
+	{
+		"id": 1050,
+		"eng": "Raises attributes, but also increases damage taken",
+		"chn": "能提升能力值，但增加受到的损伤"
+	},
+	{
+		"id": 1051,
+		"eng": "Greatly raises attributes, but also increases damage taken",
+		"chn": "能大幅提升能力值，但大幅增加受到的损伤"
+	},
+	{
+		"id": 1060,
+		"eng": "Raises strength",
+		"chn": "能提升力气"
+	},
+	{
+		"id": 1070,
+		"eng": "Raises dexterity",
+		"chn": "能提升灵巧"
+	},
+	{
+		"id": 1080,
+		"eng": "Raises intelligence",
+		"chn": "能提升智力"
+	},
+	{
+		"id": 1090,
+		"eng": "Raises faith",
+		"chn": "能提升信仰"
+	},
+	{
+		"id": 1100,
+		"eng": "Raises item discovery",
+		"chn": "能提升观察力"
+	},
+	{
+		"id": 1110,
+		"eng": "Increases runes obtained from defeated enemies",
+		"chn": "打倒敌人时，能增加获得的卢恩"
+	},
+	{
+		"id": 1140,
+		"eng": "Increases memory slots",
+		"chn": "能增加记忆空格"
+	},
+	{
+		"id": 1150,
+		"eng": "Raises stamina recovery speed",
+		"chn": "能提升精力的恢复速度"
+	},
+	{
+		"id": 1160,
+		"eng": "Raises robustness",
+		"chn": "能提升健壮度"
+	},
+	{
+		"id": 1161,
+		"eng": "Greatly raises robustness",
+		"chn": "能大幅提升健壮度"
+	},
+	{
+		"id": 1170,
+		"eng": "Raises immunity",
+		"chn": "能提升免疫力"
+	},
+	{
+		"id": 1171,
+		"eng": "Greatly raises immunity",
+		"chn": "能大幅提升免疫力"
+	},
+	{
+		"id": 1180,
+		"eng": "Raises focus",
+		"chn": "能提升理智度"
+	},
+	{
+		"id": 1181,
+		"eng": "Greatly raises focus",
+		"chn": "能大幅提升理智度"
+	},
+	{
+		"id": 1190,
+		"eng": "Raises vitality",
+		"chn": "能提升抗死度"
+	},
+	{
+		"id": 1191,
+		"eng": "Greatly raises vitality",
+		"chn": "能大幅提升抗死度"
+	},
+	{
+		"id": 1200,
+		"eng": "Raises robustness, immunity, and focus",
+		"chn": "能提升免疫力、健壮度、理智度"
+	},
+	{
+		"id": 1201,
+		"eng": "Greatly raises robustness, immunity, and focus",
+		"chn": "能大幅提升免疫力、健壮度、理智度"
+	},
+	{
+		"id": 1210,
+		"eng": "Raises poise",
+		"chn": "能提升强韧度"
+	},
+	{
+		"id": 1220,
+		"eng": "Raises attributes, but also increases damage taken",
+		"chn": "能提升能力值，但增加受到的损伤"
+	},
+	{
+		"id": 1221,
+		"eng": "Greatly raises attributes, but also increases damage taken",
+		"chn": "能大幅提升能力值，但大幅增加受到的损伤"
+	},
+	{
+		"id": 1230,
+		"eng": "Boosts the attack power of skills",
+		"chn": "能提升战技的攻击力"
+	},
+	{
+		"id": 1231,
+		"eng": "Greatly boosts the attack power of skills",
+		"chn": "能大幅提升战技的攻击力"
+	},
+	{
+		"id": 1250,
+		"eng": "Boosts dexterity, raises attack power with successive attacks",
+		"chn": "能提升灵巧、攻击越是连续，越能提升攻击力"
+	},
+	{
+		"id": 2000,
+		"eng": "Raises magic attack, but lowers damage negation",
+		"chn": "能提升魔力属性攻击力，但降低减伤率"
+	},
+	{
+		"id": 2010,
+		"eng": "Raises lightning attack, but lowers damage negation",
+		"chn": "能提升雷属性攻击力，但降低减伤率"
+	},
+	{
+		"id": 2020,
+		"eng": "Raises fire attack, but lowers damage negation",
+		"chn": "能提升火属性攻击力，但降低减伤率"
+	},
+	{
+		"id": 2030,
+		"eng": "Raises holy attack, but lowers damage negation",
+		"chn": "能提升圣属性攻击力，但降低减伤率"
+	},
+	{
+		"id": 2040,
+		"eng": "Raises attack power when HP is low",
+		"chn": "血量减少时，能提升攻击力"
+	},
+	{
+		"id": 2050,
+		"eng": "Raises attack power when HP is at maximum",
+		"chn": "血量全满时，能提升攻击力"
+	},
+	{
+		"id": 2060,
+		"eng": "Enhances counterattacks unique to thrusting weapons",
+		"chn": "能强化突刺攻击特有的反击攻击"
+	},
+	{
+		"id": 2070,
+		"eng": "Enhances stamina-reducing attacks against blockers",
+		"chn": "当敌人防御，攻击时能增加对方消耗的精力"
+	},
+	{
+		"id": 2080,
+		"eng": "Raises attack power with successive attacks",
+		"chn": "攻击越是连续，越能提升攻击力"
+	},
+	{
+		"id": 2081,
+		"eng": "Greatly raises attack power with successive attacks",
+		"chn": "攻击越是连续，越能大幅提升攻击力"
+	},
+	{
+		"id": 2090,
+		"eng": "Enhances critical hits",
+		"chn": "能强化致命一击"
+	},
+	{
+		"id": 2100,
+		"eng": "Increases bow effective range",
+		"chn": "能提升弓的射程距离"
+	},
+	{
+		"id": 2110,
+		"eng": "Raises attack power with lower equipment load",
+		"chn": "装备重量越轻，攻击力会越高"
+	},
+	{
+		"id": 2120,
+		"eng": "Enhances final hit of chain attacks",
+		"chn": "能强化连续攻击的最后一记攻击"
+	},
+	{
+		"id": 2130,
+		"eng": "Enhances charge attacks",
+		"chn": "能强化蓄力攻击"
+	},
+	{
+		"id": 2140,
+		"eng": "Enhances attacks on horseback",
+		"chn": "能提升骑马时的攻击力"
+	},
+	{
+		"id": 2150,
+		"eng": "Raises attack power of arrows and bolts",
+		"chn": "能提升射出箭、弩箭时的攻击力"
+	},
+	{
+		"id": 2160,
+		"eng": "Blood loss in vicinity increases attack power",
+		"chn": "当周围人物陷入异常状态出血时，能提升攻击力"
+	},
+	{
+		"id": 2170,
+		"eng": "Poisoning or rot in vicinity increases attack power",
+		"chn": "当周围人物陷入中毒、腐败时，能提升攻击力"
+	},
+	{
+		"id": 2180,
+		"eng": "Enhances jump attacks",
+		"chn": "能强化跳跃攻击"
+	},
+	{
+		"id": 2190,
+		"eng": "Enhances roars and breath attacks",
+		"chn": "能强化咆哮与吐息"
+	},
+	{
+		"id": 2200,
+		"eng": "Enhances guard counters",
+		"chn": "能强化防御反击"
+	},
+	{
+		"id": 2210,
+		"eng": "Raises potency of throwing pots",
+		"chn": "能提升投掷壶类道具的威力"
+	},
+	{
+		"id": 2220,
+		"eng": "Raises potency of perfume items",
+		"chn": "能提升调香类道具的威力"
+	},
+	{
+		"id": 3000,
+		"eng": "Raises potency of sorceries",
+		"chn": "能提升魔法的威力"
+	},
+	{
+		"id": 3001,
+		"eng": "Greatly raises potency of sorceries",
+		"chn": "能大幅提升魔法的威力"
+	},
+	{
+		"id": 3040,
+		"eng": "Raises potency of incantations",
+		"chn": "能提升祷告的威力"
+	},
+	{
+		"id": 3050,
+		"eng": "Greatly raises potency of incantations",
+		"chn": "能大幅提升祷告的威力"
+	},
+	{
+		"id": 3060,
+		"eng": "Extends spell effect duration",
+		"chn": "能延长魔法、祷告的有效时间"
+	},
+	{
+		"id": 3070,
+		"eng": "Shortens spell casting time",
+		"chn": "能缩短魔法、祷告的咏唱时间"
+	},
+	{
+		"id": 3080,
+		"eng": "Spells consume less FP, but maximum HP is reduced",
+		"chn": "能减少魔法、祷告消耗的专注值，但减少血量上限"
+	},
+	{
+		"id": 3090,
+		"eng": "Enhances charged spells and skills",
+		"chn": "能强化魔法、祷告、战技的蓄力使用"
+	},
+	{
+		"id": 4000,
+		"eng": "Boosts physical damage negation",
+		"chn": "能提升物理减伤率"
+	},
+	{
+		"id": 4001,
+		"eng": "Greatly boosts physical damage negation",
+		"chn": "能大幅提升物理减伤率"
+	},
+	{
+		"id": 4002,
+		"eng": "Vastly boosts physical damage negation",
+		"chn": "能更大幅提升物理减伤率"
+	},
+	{
+		"id": 4003,
+		"eng": "Enormously boosts physical damage negation",
+		"chn": "能极大幅提升物理减伤率"
+	},
+	{
+		"id": 4010,
+		"eng": "Boosts magical damage negation",
+		"chn": "能提升魔力属性减伤率"
+	},
+	{
+		"id": 4011,
+		"eng": "Greatly boosts magical damage negation",
+		"chn": "能大幅提升魔力属性减伤率"
+	},
+	{
+		"id": 4012,
+		"eng": "Vastly boosts magical damage negation",
+		"chn": "能更大幅提升魔力属性减伤率"
+	},
+	{
+		"id": 4020,
+		"eng": "Boosts fire damage negation",
+		"chn": "能提升火属性减伤率"
+	},
+	{
+		"id": 4021,
+		"eng": "Greatly boosts fire damage negation",
+		"chn": "能大幅提升火属性减伤率"
+	},
+	{
+		"id": 4022,
+		"eng": "Vastly boosts fire damage negation",
+		"chn": "能更大幅提升火属性减伤率"
+	},
+	{
+		"id": 4030,
+		"eng": "Boosts lightning damage negation",
+		"chn": "能提升雷属性减伤率"
+	},
+	{
+		"id": 4031,
+		"eng": "Greatly boosts lightning damage negation",
+		"chn": "能大幅提升雷属性减伤率"
+	},
+	{
+		"id": 4032,
+		"eng": "Vastly boosts lightning damage negation",
+		"chn": "能更大幅提升雷属性减伤率"
+	},
+	{
+		"id": 4040,
+		"eng": "Boosts holy damage negation",
+		"chn": "能提升圣属性减伤率"
+	},
+	{
+		"id": 4041,
+		"eng": "Greatly boosts holy damage negation",
+		"chn": "能大幅提升圣属性减伤率"
+	},
+	{
+		"id": 4042,
+		"eng": "Vastly boosts holy damage negation",
+		"chn": "能更大幅提升圣属性减伤率"
+	},
+	{
+		"id": 4050,
+		"eng": "Boosts non-physical damage negation",
+		"chn": "能提升物理以外的减伤率"
+	},
+	{
+		"id": 4051,
+		"eng": "Greatly boosts non-physical damage negation",
+		"chn": "能大幅提升物理以外的减伤率"
+	},
+	{
+		"id": 4052,
+		"eng": "Vastly boosts non-physical damage negation",
+		"chn": "能更大幅提升物理以外的减伤率"
+	},
+	{
+		"id": 4060,
+		"eng": "Reduces damage taken from critical hits",
+		"chn": "能减少致命一击造成的损伤"
+	},
+	{
+		"id": 4070,
+		"eng": "Improves dodge rolling but increases damage taken",
+		"chn": "能强化翻滚的闪避能力，但增加受到的损伤"
+	},
+	{
+		"id": 4080,
+		"eng": "Raises defense when HP is low",
+		"chn": "血量减少时，能提升防御力"
+	},
+	{
+		"id": 4090,
+		"eng": "Raises defense when HP is at maximum",
+		"chn": "血量全满时，能提升防御力"
+	},
+	{
+		"id": 4100,
+		"eng": "Boosts guarding ability",
+		"chn": "能提升防御强度"
+	},
+	{
+		"id": 4110,
+		"eng": "Reduces damage and impact of headshots",
+		"chn": "能减少头部射击造成的损伤与冲击"
+	},
+	{
+		"id": 5000,
+		"eng": "Boosts HP restoration from Flask of Crimson Tears",
+		"chn": "能提升红露滴圣杯瓶的恢复量"
+	},
+	{
+		"id": 5010,
+		"eng": "Boosts FP restoration from Flask of Cerulean Tears",
+		"chn": "能提升蓝露滴圣杯瓶的恢复量"
+	},
+	{
+		"id": 5020,
+		"eng": "Slowly restores HP",
+		"chn": "能缓慢恢复血量"
+	},
+	{
+		"id": 5030,
+		"eng": "Restores HP upon defeating enemies",
+		"chn": "打倒敌人时，能恢复血量"
+	},
+	{
+		"id": 5040,
+		"eng": "Successive attacks restore HP",
+		"chn": "连续攻击时，能恢复血量"
+	},
+	{
+		"id": 5050,
+		"eng": "Critical hits restore HP",
+		"chn": "使出致命一击能恢复血量"
+	},
+	{
+		"id": 5060,
+		"eng": "Critical hits restore FP",
+		"chn": "使出致命一击能恢复专注值"
+	},
+	{
+		"id": 6000,
+		"eng": "Eliminates all sound made by the wearer during movement",
+		"chn": "能完全去除自己发出的声响"
+	},
+	{
+		"id": 6010,
+		"eng": "Conceals wearer while crouching away from foes",
+		"chn": "远离敌人后，蹲下能隐藏自己的身影"
+	},
+	{
+		"id": 6020,
+		"eng": "Lowers FP consumed by skills",
+		"chn": "能减少使用战技消耗的专注值"
+	},
+	{
+		"id": 6040,
+		"eng": "Renders the wearer immune to fall damage",
+		"chn": "从高处落下时，能完全不受到损伤"
+	},
+	{
+		"id": 6050,
+		"eng": "Constantly attracts enemies' aggression",
+		"chn": "将变得容易受敌人攻击"
+	},
+	{
+		"id": 6060,
+		"eng": "Increases damage taken",
+		"chn": "将增加受到的损伤"
+	},
+	{
+		"id": 6070,
+		"eng": "Will be lost on death in place of runes",
+		"chn": "死亡时不会掉落卢恩，但护符会消失"
+	},
+	{
+		"id": 6080,
+		"eng": "Take on appearance of a Host of Fingers",
+		"chn": "能变得像是勾指主人"
+	},
+	{
+		"id": 6090,
+		"eng": "Take on appearance of a cooperator",
+		"chn": "能变得像是协助者"
+	},
+	{
+		"id": 6100,
+		"eng": "Changes demeanour of wearer's actions",
+		"chn": "自己的举止会产生变化"
+	},
+	{
+		"id": 6110,
+		"eng": "Restores FP upon defeating enemies",
+		"chn": "打倒敌人时，能恢复专注值"
+	}
+]

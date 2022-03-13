@@ -1,0 +1,6937 @@
+[
+	{
+		"id": 1010,
+		"eng": "x",
+		"chn": "x"
+	},
+	{
+		"id": 3010,
+		"eng": "<?null?>",
+		"chn": "<?null?>"
+	},
+	{
+		"id": 3011,
+		"eng": "<?null?>",
+		"chn": "<?null?>"
+	},
+	{
+		"id": 3020,
+		"eng": " ",
+		"chn": " "
+	},
+	{
+		"id": 3021,
+		"eng": " ",
+		"chn": " "
+	},
+	{
+		"id": 3500,
+		"eng": "Choose revival location",
+		"chn": "请选择复活的地点"
+	},
+	{
+		"id": 3501,
+		"eng": "Stake of Marika",
+		"chn": "玛莉卡楔石"
+	},
+	{
+		"id": 3502,
+		"eng": "Last site of grace visited",
+		"chn": "最后停留的赐福"
+	},
+	{
+		"id": 4100,
+		"eng": "Use",
+		"chn": "使用"
+	},
+	{
+		"id": 4101,
+		"eng": "Leave",
+		"chn": "放置原地"
+	},
+	{
+		"id": 4102,
+		"eng": "Discard",
+		"chn": "丢弃"
+	},
+	{
+		"id": 4110,
+		"eng": "Use selected",
+		"chn": "大量使用"
+	},
+	{
+		"id": 4111,
+		"eng": "Leave selected",
+		"chn": "大量放置"
+	},
+	{
+		"id": 4112,
+		"eng": "Discard selected",
+		"chn": "大量丢弃"
+	},
+	{
+		"id": 5100,
+		"eng": "Use how many?",
+		"chn": "请选择使用的数量"
+	},
+	{
+		"id": 5101,
+		"eng": "Leave how many?",
+		"chn": "请选择放置的数量"
+	},
+	{
+		"id": 5102,
+		"eng": "Discard how many?",
+		"chn": "请选择丢弃的数量"
+	},
+	{
+		"id": 5104,
+		"eng": "Purchase how many?",
+		"chn": "请选择购买的数量"
+	},
+	{
+		"id": 5105,
+		"eng": "Sell how many?",
+		"chn": "请选择卖出的数量"
+	},
+	{
+		"id": 5106,
+		"eng": "Store how many?",
+		"chn": "请选择收纳的数量"
+	},
+	{
+		"id": 5107,
+		"eng": "Take how many?",
+		"chn": "请选择取出的数量"
+	},
+	{
+		"id": 5108,
+		"eng": "Make how many?",
+		"chn": "请选择制作的数量"
+	},
+	{
+		"id": 5501,
+		"eng": "Explanation",
+		"chn": "项目说明"
+	},
+	{
+		"id": 5502,
+		"eng": "View Controls",
+		"chn": "控制说明"
+	},
+	{
+		"id": 5600,
+		"eng": "Menu Explanation",
+		"chn": "选单说明"
+	},
+	{
+		"id": 5700,
+		"eng": "Toggle multiplayer status display",
+		"chn": "切换多人联机游玩的显示状态"
+	},
+	{
+		"id": 5710,
+		"eng": "Toggle multiplayer status display",
+		"chn": "切换多人联机游玩的显示状态"
+	},
+	{
+		"id": 6100,
+		"eng": "Default Order",
+		"chn": "默认排序"
+	},
+	{
+		"id": 6105,
+		"eng": "Item Type",
+		"chn": "道具类别"
+	},
+	{
+		"id": 6110,
+		"eng": "Number Held",
+		"chn": "持有数"
+	},
+	{
+		"id": 6111,
+		"eng": "Weight",
+		"chn": "重量"
+	},
+	{
+		"id": 6120,
+		"eng": "FP Cost",
+		"chn": "消耗专注值"
+	},
+	{
+		"id": 6121,
+		"eng": "Slots Used",
+		"chn": "使用空格"
+	},
+	{
+		"id": 6130,
+		"eng": "Attack Power",
+		"chn": "攻击力"
+	},
+	{
+		"id": 6140,
+		"eng": "Guarded Damage Negation",
+		"chn": "防御时减伤率"
+	},
+	{
+		"id": 6170,
+		"eng": "Damage Negation",
+		"chn": "减伤率"
+	},
+	{
+		"id": 6180,
+		"eng": "Resistance",
+		"chn": "抵抗力"
+	},
+	{
+		"id": 6190,
+		"eng": "Order of Acquisition",
+		"chn": "取得时间"
+	},
+	{
+		"id": 10100,
+		"eng": "Name",
+		"chn": "名字"
+	},
+	{
+		"id": 10101,
+		"eng": "Body Type",
+		"chn": "体型"
+	},
+	{
+		"id": 10102,
+		"eng": "Origin",
+		"chn": "出身"
+	},
+	{
+		"id": 10103,
+		"eng": "Keepsake",
+		"chn": "遗物"
+	},
+	{
+		"id": 10200,
+		"eng": "Level",
+		"chn": "等级"
+	},
+	{
+		"id": 10201,
+		"eng": "Runes Held",
+		"chn": "持有卢恩"
+	},
+	{
+		"id": 10202,
+		"eng": "Runes Needed",
+		"chn": "所需卢恩"
+	},
+	{
+		"id": 10204,
+		"eng": "Great Runes",
+		"chn": "大卢恩"
+	},
+	{
+		"id": 10301,
+		"eng": "Age",
+		"chn": "年龄段"
+	},
+	{
+		"id": 10400,
+		"eng": "Vigor",
+		"chn": "生命力"
+	},
+	{
+		"id": 10401,
+		"eng": "Endurance",
+		"chn": "耐力"
+	},
+	{
+		"id": 10402,
+		"eng": "Mind",
+		"chn": "集中力"
+	},
+	{
+		"id": 10403,
+		"eng": "Strength",
+		"chn": "力气"
+	},
+	{
+		"id": 10404,
+		"eng": "Dexterity",
+		"chn": "灵巧"
+	},
+	{
+		"id": 10406,
+		"eng": "Intelligence",
+		"chn": "智力"
+	},
+	{
+		"id": 10407,
+		"eng": "Faith",
+		"chn": "信仰"
+	},
+	{
+		"id": 10409,
+		"eng": "Arcane",
+		"chn": "感应"
+	},
+	{
+		"id": 10500,
+		"eng": "HP",
+		"chn": "血量"
+	},
+	{
+		"id": 10501,
+		"eng": "FP",
+		"chn": "专注值"
+	},
+	{
+		"id": 10502,
+		"eng": "Stamina",
+		"chn": "精力"
+	},
+	{
+		"id": 10510,
+		"eng": "Equip Load",
+		"chn": "装备重量"
+	},
+	{
+		"id": 10512,
+		"eng": "Max Equip Load",
+		"chn": "装备重量上限"
+	},
+	{
+		"id": 10513,
+		"eng": "Light Load",
+		"chn": "（轻）"
+	},
+	{
+		"id": 10514,
+		"eng": "Med. Load",
+		"chn": "（中）"
+	},
+	{
+		"id": 10515,
+		"eng": "Heavy Load",
+		"chn": "（重）"
+	},
+	{
+		"id": 10516,
+		"eng": "Overloaded",
+		"chn": "（过重）"
+	},
+	{
+		"id": 10520,
+		"eng": "R Armament 1",
+		"chn": "右手武器１"
+	},
+	{
+		"id": 10521,
+		"eng": "R Armament 2",
+		"chn": "右手武器２"
+	},
+	{
+		"id": 10522,
+		"eng": "R Armament 3",
+		"chn": "右手武器３"
+	},
+	{
+		"id": 10523,
+		"eng": "L Armament 1",
+		"chn": "左手武器１"
+	},
+	{
+		"id": 10524,
+		"eng": "L Armament 2",
+		"chn": "左手武器２"
+	},
+	{
+		"id": 10525,
+		"eng": "L Armament 3",
+		"chn": "左手武器３"
+	},
+	{
+		"id": 10530,
+		"eng": "Physical",
+		"chn": "物理"
+	},
+	{
+		"id": 10531,
+		"eng": "VS Strike",
+		"chn": "抗打击"
+	},
+	{
+		"id": 10532,
+		"eng": "VS Slash",
+		"chn": "抗斩击"
+	},
+	{
+		"id": 10533,
+		"eng": "VS Pierce",
+		"chn": "抗突刺"
+	},
+	{
+		"id": 10534,
+		"eng": "Magic",
+		"chn": "魔力"
+	},
+	{
+		"id": 10535,
+		"eng": "Fire",
+		"chn": "火"
+	},
+	{
+		"id": 10536,
+		"eng": "Lightning",
+		"chn": "雷"
+	},
+	{
+		"id": 10537,
+		"eng": "Holy",
+		"chn": "圣"
+	},
+	{
+		"id": 10540,
+		"eng": "Immunity",
+		"chn": "免疫力"
+	},
+	{
+		"id": 10541,
+		"eng": "Robustness",
+		"chn": "健壮度"
+	},
+	{
+		"id": 10542,
+		"eng": "Focus",
+		"chn": "理智度"
+	},
+	{
+		"id": 10543,
+		"eng": "Vitality",
+		"chn": "抗死度"
+	},
+	{
+		"id": 10561,
+		"eng": "Memory Slots",
+		"chn": "记忆空格"
+	},
+	{
+		"id": 10562,
+		"eng": "Discovery",
+		"chn": "观察力"
+	},
+	{
+		"id": 10570,
+		"eng": "Poise",
+		"chn": "强韧度"
+	},
+	{
+		"id": 11001,
+		"eng": "Armament Type",
+		"chn": "武器类别"
+	},
+	{
+		"id": 11002,
+		"eng": "Spell Type",
+		"chn": "类别"
+	},
+	{
+		"id": 11003,
+		"eng": "Attack Affinity",
+		"chn": "攻击属性"
+	},
+	{
+		"id": 11004,
+		"eng": "No. Held",
+		"chn": "持有数"
+	},
+	{
+		"id": 11005,
+		"eng": "Stored",
+		"chn": "收纳数"
+	},
+	{
+		"id": 11006,
+		"eng": "Skill",
+		"chn": "战技"
+	},
+	{
+		"id": 11007,
+		"eng": "Held",
+		"chn": "持有数"
+	},
+	{
+		"id": 11009,
+		"eng": "Containers",
+		"chn": "剩余容器数量"
+	},
+	{
+		"id": 11010,
+		"eng": "Physical",
+		"chn": "物理"
+	},
+	{
+		"id": 11011,
+		"eng": "Magic",
+		"chn": "魔力"
+	},
+	{
+		"id": 11012,
+		"eng": "Fire",
+		"chn": "火"
+	},
+	{
+		"id": 11013,
+		"eng": "Lightning",
+		"chn": "雷"
+	},
+	{
+		"id": 11014,
+		"eng": "Holy",
+		"chn": "圣"
+	},
+	{
+		"id": 11020,
+		"eng": "Physical",
+		"chn": "物理"
+	},
+	{
+		"id": 11021,
+		"eng": "Magic",
+		"chn": "魔力"
+	},
+	{
+		"id": 11022,
+		"eng": "Fire",
+		"chn": "火"
+	},
+	{
+		"id": 11023,
+		"eng": "Lightning",
+		"chn": "雷"
+	},
+	{
+		"id": 11024,
+		"eng": "Holy",
+		"chn": "圣"
+	},
+	{
+		"id": 11030,
+		"eng": "Critical",
+		"chn": "致命一击"
+	},
+	{
+		"id": 11031,
+		"eng": "Guard Boost",
+		"chn": "防御强度"
+	},
+	{
+		"id": 11032,
+		"eng": "Range",
+		"chn": "射程距离"
+	},
+	{
+		"id": 11034,
+		"eng": "FP Cost",
+		"chn": "消耗专注值"
+	},
+	{
+		"id": 11035,
+		"eng": "Sorcery Scaling",
+		"chn": "魔法加成"
+	},
+	{
+		"id": 11036,
+		"eng": "Incant Scaling",
+		"chn": "祷告加成"
+	},
+	{
+		"id": 11040,
+		"eng": "Slots Used",
+		"chn": "使用空格"
+	},
+	{
+		"id": 11041,
+		"eng": "FP Cost",
+		"chn": "消耗专注值"
+	},
+	{
+		"id": 11042,
+		"eng": "FP Cost",
+		"chn": "消耗专注值"
+	},
+	{
+		"id": 11043,
+		"eng": "HP Cost",
+		"chn": "消耗血量"
+	},
+	{
+		"id": 11180,
+		"eng": "Physical",
+		"chn": "物理"
+	},
+	{
+		"id": 11181,
+		"eng": "VS Strike",
+		"chn": "抗打击"
+	},
+	{
+		"id": 11182,
+		"eng": "VS Slash",
+		"chn": "抗斩击"
+	},
+	{
+		"id": 11183,
+		"eng": "VS Pierce",
+		"chn": "抗突刺"
+	},
+	{
+		"id": 11184,
+		"eng": "Magic",
+		"chn": "魔力"
+	},
+	{
+		"id": 11185,
+		"eng": "Fire",
+		"chn": "火"
+	},
+	{
+		"id": 11186,
+		"eng": "Lightning",
+		"chn": "雷"
+	},
+	{
+		"id": 11187,
+		"eng": "Holy",
+		"chn": "圣"
+	},
+	{
+		"id": 11190,
+		"eng": "Immunity",
+		"chn": "免疫力"
+	},
+	{
+		"id": 11191,
+		"eng": "Robustness",
+		"chn": "健壮度"
+	},
+	{
+		"id": 11192,
+		"eng": "Focus",
+		"chn": "理智度"
+	},
+	{
+		"id": 11193,
+		"eng": "Vitality",
+		"chn": "抗死度"
+	},
+	{
+		"id": 11200,
+		"eng": "Poise",
+		"chn": "强韧度"
+	},
+	{
+		"id": 11300,
+		"eng": "Str",
+		"chn": "力气"
+	},
+	{
+		"id": 11301,
+		"eng": "Dex",
+		"chn": "灵巧"
+	},
+	{
+		"id": 11302,
+		"eng": "Int",
+		"chn": "智力"
+	},
+	{
+		"id": 11303,
+		"eng": "Fai",
+		"chn": "信仰"
+	},
+	{
+		"id": 11304,
+		"eng": "Arc",
+		"chn": "感应"
+	},
+	{
+		"id": 11310,
+		"eng": "Str",
+		"chn": "力气"
+	},
+	{
+		"id": 11311,
+		"eng": "Dex",
+		"chn": "灵巧"
+	},
+	{
+		"id": 11312,
+		"eng": "Int",
+		"chn": "智力"
+	},
+	{
+		"id": 11313,
+		"eng": "Fai",
+		"chn": "信仰"
+	},
+	{
+		"id": 11314,
+		"eng": "Str",
+		"chn": "力气"
+	},
+	{
+		"id": 11315,
+		"eng": "Dex",
+		"chn": "灵巧"
+	},
+	{
+		"id": 11316,
+		"eng": "Int",
+		"chn": "智力"
+	},
+	{
+		"id": 11317,
+		"eng": "Fai",
+		"chn": "信仰"
+	},
+	{
+		"id": 11318,
+		"eng": "Arc",
+		"chn": "感应"
+	},
+	{
+		"id": 11319,
+		"eng": "Arc",
+		"chn": "感应"
+	},
+	{
+		"id": 11320,
+		"eng": "-",
+		"chn": "-"
+	},
+	{
+		"id": 11321,
+		"eng": "S",
+		"chn": "Ｓ"
+	},
+	{
+		"id": 11322,
+		"eng": "A",
+		"chn": "Ａ"
+	},
+	{
+		"id": 11323,
+		"eng": "B",
+		"chn": "Ｂ"
+	},
+	{
+		"id": 11324,
+		"eng": "C",
+		"chn": "Ｃ"
+	},
+	{
+		"id": 11325,
+		"eng": "D",
+		"chn": "Ｄ"
+	},
+	{
+		"id": 11326,
+		"eng": "E",
+		"chn": "Ｅ"
+	},
+	{
+		"id": 11330,
+		"eng": "Consumable",
+		"chn": "消耗品"
+	},
+	{
+		"id": 11331,
+		"eng": "Reusable",
+		"chn": "无限次"
+	},
+	{
+		"id": 11351,
+		"eng": "Weight",
+		"chn": "重量"
+	},
+	{
+		"id": 11360,
+		"eng": "Item Type",
+		"chn": "使用类型"
+	},
+	{
+		"id": 11400,
+		"eng": "Containers Held",
+		"chn": "容器持有数"
+	},
+	{
+		"id": 12000,
+		"eng": "Runes Required",
+		"chn": "所需卢恩"
+	},
+	{
+		"id": 12010,
+		"eng": "Runes Offered",
+		"chn": "获得卢恩"
+	},
+	{
+		"id": 20000,
+		"eng": "Attack Power",
+		"chn": "攻击力"
+	},
+	{
+		"id": 20001,
+		"eng": "Guarded Damage Negation",
+		"chn": "防御时减伤率"
+	},
+	{
+		"id": 20002,
+		"eng": "Attributes Required",
+		"chn": "必需能力值"
+	},
+	{
+		"id": 20003,
+		"eng": "Attribute Scaling",
+		"chn": "能力加成"
+	},
+	{
+		"id": 20004,
+		"eng": "Passive Effects",
+		"chn": "附加效果"
+	},
+	{
+		"id": 20006,
+		"eng": "Item Effect",
+		"chn": "道具效用"
+	},
+	{
+		"id": 20007,
+		"eng": "Obtained",
+		"chn": "获得途径"
+	},
+	{
+		"id": 20008,
+		"eng": "Attribute Points",
+		"chn": "能力值"
+	},
+	{
+		"id": 20009,
+		"eng": "Base Stats",
+		"chn": "基本能力"
+	},
+	{
+		"id": 20010,
+		"eng": "Defense/Dmg Negation",
+		"chn": "防御力／减伤率"
+	},
+	{
+		"id": 20011,
+		"eng": "Defense Power",
+		"chn": "防御力"
+	},
+	{
+		"id": 20012,
+		"eng": "Damage Negation",
+		"chn": "减伤率"
+	},
+	{
+		"id": 20013,
+		"eng": "Protection",
+		"chn": "防具"
+	},
+	{
+		"id": 20014,
+		"eng": "Body",
+		"chn": "身体"
+	},
+	{
+		"id": 20015,
+		"eng": "Lineage",
+		"chn": "本身"
+	},
+	{
+		"id": 20016,
+		"eng": "Equipment",
+		"chn": "装备"
+	},
+	{
+		"id": 20017,
+		"eng": "Resistance",
+		"chn": "抵抗力（身体／防具）"
+	},
+	{
+		"id": 20050,
+		"eng": "Damage Negation",
+		"chn": "减伤率"
+	},
+	{
+		"id": 20051,
+		"eng": "Resistance",
+		"chn": "抵抗力"
+	},
+	{
+		"id": 20100,
+		"eng": "Mixing Status",
+		"chn": "调配状态"
+	},
+	{
+		"id": 20200,
+		"eng": "Necessary Stats",
+		"chn": "必需能力值"
+	},
+	{
+		"id": 30100,
+		"eng": "This character's name",
+		"chn": "这名角色的名字。"
+	},
+	{
+		"id": 30101,
+		"eng": "This character's body type",
+		"chn": "这名角色的体型。"
+	},
+	{
+		"id": 30102,
+		"eng": "This character's background\nWhat winding paths brought them here",
+		"chn": "这名角色的来历。\n过去是以什么身分过活。"
+	},
+	{
+		"id": 30103,
+		"eng": "The keepsake held by this character\nEach a reflection of its owner",
+		"chn": "这名角色持有的遗物。\n持有原因可能一言难尽。"
+	},
+	{
+		"id": 30200,
+		"eng": "A cumulative figure that represents overall\nattribute strength.\nYou can level up using runes.",
+		"chn": "表示整体能力高低的数值。\n能使用卢恩升级。"
+	},
+	{
+		"id": 30201,
+		"eng": "Total runes in possession.\nUpon dying, you will drop any runes in your possession at the site of your death.",
+		"chn": "持有的卢恩总数。\n死亡时会留在原地。"
+	},
+	{
+		"id": 30202,
+		"eng": "Number of runes required to raise a level.\nWhen you level up, you can choose an attribute to increase.",
+		"chn": "提升能力值所需的卢恩。\n能力值提升，等级也会随之提升。"
+	},
+	{
+		"id": 30204,
+		"eng": "The number of Great Runes in your possession",
+		"chn": "持有的大卢恩数量。"
+	},
+	{
+		"id": 30301,
+		"eng": "Character's apparent age",
+		"chn": "这名角色外表给人的年龄印象。"
+	},
+	{
+		"id": 30400,
+		"eng": "Attribute governing HP.\nAlso affects fire resistance\nand immunity.",
+		"chn": "决定血量高低的能力值。\n也会影响火属性防御力、免疫力。"
+	},
+	{
+		"id": 30401,
+		"eng": "Attribute governing stamina.\nAlso affects robustness.\nThis attribute also determines how\nheavy your equipment can be.",
+		"chn": "决定精力高低的能力值。\n\n也会影响健壮度，\n以及可承受的装备重量上限。"
+	},
+	{
+		"id": 30402,
+		"eng": "Attribute that determines FP.\nAlso affects focus.",
+		"chn": "决定专注值高低的能力值。\n也会影响理智度。"
+	},
+	{
+		"id": 30403,
+		"eng": "Attribute required to wield heavy armaments.\nAlso boosts attack power of strength-scaling\narmaments and affects your physical defense.",
+		"chn": "使用重型武器的必需能力值。\n\n装备拥有力气加成的武器会提升攻击力，\n也会影响物理防御力。"
+	},
+	{
+		"id": 30404,
+		"eng": "Attribute required to wield advanced armaments.\nAlso boosts attack power of dexterity-scaling\narmaments, reduces casting time of spells,\nsoftens fall damage, and makes it harder to\nbe knocked off your horse.",
+		"chn": "使用精密武器的必需能力值。\n\n装备拥有灵巧加成的武器会提升攻击力，\n也会影响落下损伤的减伤率、是否容易摔下马背，\n以及魔法、祷告的使用速度。"
+	},
+	{
+		"id": 30406,
+		"eng": "Attribute required to perform glintstone\nsorceries. Also boosts magic power of\nintelligence-scaling sorceries and improves\nmagic resistance.",
+		"chn": "施展魔法的必需能力值。\n\n施展拥有智力加成的魔法会提升威力，\n也会影响魔力属性的防御力。"
+	},
+	{
+		"id": 30407,
+		"eng": "Attribute required to perform sacred\nincantations. Also boosts magic power\nof faith-scaling incantations.",
+		"chn": "执行祷告的必需能力值。\n\n执行拥有信仰加成的祷告会提升威力。"
+	},
+	{
+		"id": 30409,
+		"eng": "Attribute governing discovery.\nAlso affects holy defense, vitality,\nand certain sorceries and incantations.",
+		"chn": "影响观察力的能力值，\n也会影响圣属性防御力、抗死度。\n\n此外，也和某种魔法、祷告有密切关系。"
+	},
+	{
+		"id": 30500,
+		"eng": "Your life. If reduced to nothing, you die.\nReplenish it by drinking from the Flask of\nCrimson Tears or resting at a site of grace.",
+		"chn": "生存的力量，归零时会死亡。\n\n能够使用红露滴圣杯瓶，\n或是在赐福休息恢复。"
+	},
+	{
+		"id": 30501,
+		"eng": "Energy consumed to use spells and skills.\nReplenish it by drinking from the Flask of\nCerulean Tears or resting at a site of grace.",
+		"chn": "使用魔法、祷告或战技时所需的力量。\n\n能够使用蓝露滴圣杯瓶，\n或是在赐福休息恢复。"
+	},
+	{
+		"id": 30502,
+		"eng": "Required for various actions.\nDepletes when certain actions are taken,\nbut recovers automatically.",
+		"chn": "进行各种行动时的力量。\n执行特定行动时会减少，但会自动恢复。"
+	},
+	{
+		"id": 30510,
+		"eng": "Total weight of equipped armaments and\narmor. Movement slows as load increases.\nThe rightmost number is the maximum\nweight that can be equipped; exceed it\nand movement slows dramatically.",
+		"chn": "所装备的武器、防具的总重量。\n右侧的数值为可装备的重量上限值。\n\n总重量越接近上限值，动作会越迟钝。\n超过上限值，做大幅度的动作会受限（过重）。"
+	},
+	{
+		"id": 30512,
+		"eng": "Max weight of equippable\narmaments and armor.\nMovement slows as load\nincreases. Exceed this number and\nmovement slows dramatically.",
+		"chn": "可装备的武器、防具的重量上限值。\n\n总重量越接近上限值，动作会越迟钝。\n超过上限值，做大幅度的动作会受限（过重）。"
+	},
+	{
+		"id": 30520,
+		"eng": "Attack power of the armament\nequipped in right hand slot 1",
+		"chn": "装备在右手第１空格的武器攻击力。"
+	},
+	{
+		"id": 30521,
+		"eng": "Attack power of the armament\nequipped in right hand slot 2",
+		"chn": "装备在右手第２空格的武器攻击力。"
+	},
+	{
+		"id": 30522,
+		"eng": "Attack power of the armament\nequipped in right hand slot 3",
+		"chn": "装备在右手第３空格的武器攻击力。"
+	},
+	{
+		"id": 30523,
+		"eng": "Attack power of the armament\nequipped in left hand slot 1",
+		"chn": "装备在左手第１空格的武器攻击力。"
+	},
+	{
+		"id": 30524,
+		"eng": "Attack power of the armament\nequipped in left hand slot 2",
+		"chn": "装备在左手第２空格的武器攻击力。"
+	},
+	{
+		"id": 30525,
+		"eng": "Attack power of the armament\nequipped in left hand slot 3",
+		"chn": "装备在左手第３空格的武器攻击力。"
+	},
+	{
+		"id": 30530,
+		"eng": "The body's capacity to endure\nstandard physical damage",
+		"chn": "身体受到普通属性物理攻击时的防御力。"
+	},
+	{
+		"id": 30531,
+		"eng": "The body's capacity to endure\nstriking physical damage",
+		"chn": "身体受到打击属性物理攻击时的防御力。"
+	},
+	{
+		"id": 30532,
+		"eng": "The body's capacity to endure\nslashing physical damage",
+		"chn": "身体受到斩击属性物理攻击时的防御力。"
+	},
+	{
+		"id": 30533,
+		"eng": "The body's capacity to endure\npiercing physical damage",
+		"chn": "身体受到突刺属性物理攻击时的防御力。"
+	},
+	{
+		"id": 30534,
+		"eng": "The body's capacity to endure\nmagical damage",
+		"chn": "身体受到魔力属性攻击时的防御力。"
+	},
+	{
+		"id": 30535,
+		"eng": "The body's capacity to endure\nfire damage",
+		"chn": "身体受到火属性攻击时的防御力。"
+	},
+	{
+		"id": 30536,
+		"eng": "The body's capacity to endure\nlightning damage",
+		"chn": "身体受到雷属性攻击时的防御力。"
+	},
+	{
+		"id": 30537,
+		"eng": "The body's capacity to endure\nholy damage",
+		"chn": "身体受到圣属性攻击时的防御力。"
+	},
+	{
+		"id": 30540,
+		"eng": "The body's capacity to resist various\npoisons and rot.\nHigher values make it more difficult to succumb to these ailments.",
+		"chn": "身体对毒性、腐败的抵抗力。\n数值越高，越不容易陷入中毒、腐败状态。"
+	},
+	{
+		"id": 30541,
+		"eng": "The body's capacity to resist\nblood loss and frostbite.\nHigher values make it more difficult to succumb to these ailments.",
+		"chn": "身体对出血、冻伤的抵抗力。\n数值越高，越不容易陷入出血、冻伤状态。"
+	},
+	{
+		"id": 30542,
+		"eng": "The body's capacity to resist\nsleep and bouts of madness.\nHigher values make it more difficult to succumb to these ailments.",
+		"chn": "身体对催眠、发狂的抵抗力。\n数值越高，越不容易陷入催眠、发狂状态。"
+	},
+	{
+		"id": 30543,
+		"eng": "The body's capacity to resist death.\nHigher values make it more difficult to be afflicted with instant death.",
+		"chn": "身体对死亡的抵抗力。\n数值越高，死亡量表累积越慢，\n越不容易立刻死亡。"
+	},
+	{
+		"id": 30561,
+		"eng": "The number of slots available for\nmemorizing sorceries and incantations",
+		"chn": "能够记忆魔法、祷告的空格数。"
+	},
+	{
+		"id": 30562,
+		"eng": "Governs likelihood of finding items\non the corpses of defeated foes",
+		"chn": "打倒敌人后，从尸体发现道具的能力。"
+	},
+	{
+		"id": 30570,
+		"eng": "The degree to which you can resist\ncollapsing under enemy attacks",
+		"chn": "能够承受攻击，不会失去平衡的程度。"
+	},
+	{
+		"id": 30580,
+		"eng": "Your defense power and damage negation\nagainst standard physical attacks. The\nformer is calculated via attributes, while\nthe latter is calculated via defensive gear\nand any additional effects.",
+		"chn": "受到普通属性物理攻击时的防御力及减伤率。\n\n防御力由身体的能力值计算；\n减伤率由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30581,
+		"eng": "Your defense power and damage negation\nagainst striking physical attacks. The\nformer is calculated via attributes, while\nthe latter is calculated via defensive gear\nand any additional effects.",
+		"chn": "受到打击属性物理攻击时的防御力及减伤率。\n\n防御力由身体的能力值计算；\n减伤率由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30582,
+		"eng": "Your defense power and damage negation\nagainst slashing physical attacks. The\nformer is calculated via attributes, while\nthe latter is calculated via defensive gear\nand any additional effects.",
+		"chn": "受到斩击属性物理攻击时的防御力及减伤率。\n\n防御力由身体的能力值计算；\n减伤率由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30583,
+		"eng": "Your defense power and damage negation\nagainst piercing physical attacks. The\nformer is calculated via attributes, while\nthe latter is calculated via defensive gear\nand any additional effects.",
+		"chn": "受到突刺属性物理攻击时的防御力及减伤率。\n\n防御力由身体的能力值计算；\n减伤率由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30584,
+		"eng": "Your defense power and damage negation\nagainst magical attacks. The former is\ncalculated via attributes, while the latter\nis calculated via defensive gear\nand any additional effects.",
+		"chn": "受到魔力属性攻击时的防御力及减伤率。\n\n防御力由身体的能力值计算；\n减伤率由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30585,
+		"eng": "Your defense power and damage negation\nagainst fire attacks. The former is\ncalculated via attributes, while the latter\nis calculated via defensive gear\nand any additional effects.",
+		"chn": "受到火属性攻击时的防御力及减伤率。\n\n防御力由身体的能力值计算；\n减伤率由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30586,
+		"eng": "Your defense power and damage negation\nagainst lightning attacks. The former is\ncalculated via attributes, while the latter\nis calculated via defensive gear\nand any additional effects.",
+		"chn": "受到雷属性攻击时的防御力及减伤率。\n\n防御力由身体的能力值计算；\n减伤率由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30587,
+		"eng": "Your defense power and damage negation\nagainst holy attacks. The former is\ncalculated via attributes, while the\nlatter is calculated via defensive gear\nand any additional effects.",
+		"chn": "受到圣属性攻击时的防御力及减伤率。\n\n防御力由身体的能力值计算；\n减伤率由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30590,
+		"eng": "Your resistance to various poisons and\nrot. The higher the number, the\nlower your susceptibility. Governed by\nyour attributes, as well as defensive\ngear and any additional effects.",
+		"chn": "对毒性、腐败的抵抗力。\n数值越高，越不容易陷入中毒、腐败状态。\n\n抵抗力由身体的能力值计算；\n防具的抵抗力由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30591,
+		"eng": "Your resistance to blood loss and\nfrostbite. The higher the number, the\nlower your susceptibility. Governed by\nyour attributes, as well as defensive\ngear and any additional effects.",
+		"chn": "对出血、冻伤的抵抗力。\n数值越高，越不容易陷入出血、冻伤状态。\n\n抵抗力由身体的能力值计算；\n防具的抵抗力由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30592,
+		"eng": "Your resistance to sleep and bouts of\nmadness. The higher the number, the\nlower your susceptibility. Governed by\nyour attributes, as well as defensive\ngear and any additional effects.",
+		"chn": "对催眠、发狂的抵抗力。\n数值越高，越不容易陷入催眠、发狂状态。\n\n抵抗力由身体的能力值计算；\n防具的抵抗力由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 30593,
+		"eng": "Your resistance to death. The higher the\nnumber, the lower your susceptibility to\ninstant death. Governed by your attributes,\nas well as defensive gear and any additional effects.",
+		"chn": "对死亡的抵抗力。数值越高，\n死亡量表累积越慢，越不容易立刻死亡。\n\n抵抗力由身体的能力值计算；\n防具的抵抗力由所有防具及追加效果总和计算。"
+	},
+	{
+		"id": 31001,
+		"eng": "Armament category.\nArmaments belonging to the same\ncategory exhibit similar properties.",
+		"chn": "武器的类别。\n同类别的武器特性会相似。"
+	},
+	{
+		"id": 31002,
+		"eng": "Sorceries and incantations",
+		"chn": "包括魔法、祷告等等。"
+	},
+	{
+		"id": 31003,
+		"eng": "The types of physical damage dealt\nby this armament. Other than standard\nphysical damage, striking, slashing,\nand piercing damage can also be dealt.",
+		"chn": "武器的物理攻击属性。\n属性包括普通、打击、斩击与突刺。"
+	},
+	{
+		"id": 31004,
+		"eng": "Number of this item currently held.\nThe rightmost number indicates\nthe maximum you may hold at one time.",
+		"chn": "持有的道具数量。\n右侧的数值为能持有的最大数量。"
+	},
+	{
+		"id": 31005,
+		"eng": "Number of this item currently\nstored in chest. The rightmost number\nindicates the maximum you may hold\nat one time.",
+		"chn": "木箱内的道具数量。\n右侧的数值为能收纳的最大数量。"
+	},
+	{
+		"id": 31006,
+		"eng": "The names of skills you can use.\nUsing most skills consumes FP.",
+		"chn": "能使用的战技名称。\n大部分的战技使用时需消耗专注值。"
+	},
+	{
+		"id": 31007,
+		"eng": "Number of containers currently held",
+		"chn": "持有的容器道具数量。"
+	},
+	{
+		"id": 31008,
+		"eng": "Container items, essential to crafting, come in various forms, such as cracked pots and perfume bottles. The left number indicates how many containers are currently in use. The right number indicates how many you possess.",
+		"chn": "制作道具必需的容器道具类别。\n容器道具包含龟裂壶、调香瓶等等。\n\n左侧的数值为容器道具目前的使用数量；\n右侧的数值为容器道具的持有数。"
+	},
+	{
+		"id": 31009,
+		"eng": "Number of containers remaining\nto use in crafting",
+		"chn": "可用于制作的容器道具，剩余的数量。"
+	},
+	{
+		"id": 31010,
+		"eng": "Physical attack power",
+		"chn": "物理攻击力。"
+	},
+	{
+		"id": 31011,
+		"eng": "Magic attack power",
+		"chn": "魔力属性攻击力。"
+	},
+	{
+		"id": 31012,
+		"eng": "Fire attack power",
+		"chn": "火属性攻击力。"
+	},
+	{
+		"id": 31013,
+		"eng": "Lightning attack power",
+		"chn": "雷属性攻击力。"
+	},
+	{
+		"id": 31014,
+		"eng": "Holy attack power",
+		"chn": "圣属性攻击力。"
+	},
+	{
+		"id": 31020,
+		"eng": "The degree to which physical damage\nis negated while guarding",
+		"chn": "防御时，对物理攻击的减伤比率。"
+	},
+	{
+		"id": 31021,
+		"eng": "The degree to which magic damage\nis negated while guarding",
+		"chn": "防御时，对魔力属性攻击的减伤比率。"
+	},
+	{
+		"id": 31022,
+		"eng": "The degree to which fire damage\nis negated while guarding",
+		"chn": "防御时，对火属性攻击的减伤比率。"
+	},
+	{
+		"id": 31023,
+		"eng": "The degree to which lightning damage\nis negated while guarding",
+		"chn": "防御时，对雷属性攻击的减伤比率。"
+	},
+	{
+		"id": 31024,
+		"eng": "The degree to which holy damage\nis negated while guarding",
+		"chn": "防御时，对圣属性攻击的减伤比率。"
+	},
+	{
+		"id": 31030,
+		"eng": "The strength of critical hits,\nwhich can be performed on enemies\nyou have got behind or stance-broken.",
+		"chn": "对背向自己或是失去平衡的敌人，\n使出致命一击时的攻击力。"
+	},
+	{
+		"id": 31031,
+		"eng": "The stability of character's defense.\nThe higher this value, the smaller\nthe amount of stamina consumed\nwhen guarding attacks.",
+		"chn": "防御的稳定度。\n\n数值越高，防御敌人攻击时，\n消耗的精力会越少。"
+	},
+	{
+		"id": 31032,
+		"eng": "Distance of ranged weapons",
+		"chn": "射击时的有效攻击距离。"
+	},
+	{
+		"id": 31034,
+		"eng": "The amount of FP required to\nperform this skill",
+		"chn": "使用战技时必需的专注值。"
+	},
+	{
+		"id": 31035,
+		"eng": "The degree to which sorceries\nincrease in power",
+		"chn": "魔法威力的增强度。"
+	},
+	{
+		"id": 31036,
+		"eng": "The degree to which incantations\nincrease in power",
+		"chn": "祷告威力的增强度。"
+	},
+	{
+		"id": 31040,
+		"eng": "The number of slots needed to memorize\nsorceries and incantations",
+		"chn": "记忆魔法、祷告时所需的空格数。"
+	},
+	{
+		"id": 31041,
+		"eng": "The amount of FP required to\ncast this spell",
+		"chn": "使用魔法、祷告时必需的专注值。"
+	},
+	{
+		"id": 31042,
+		"eng": "The amount of FP required to\nuse this item",
+		"chn": "使用道具时必需的专注值。"
+	},
+	{
+		"id": 31043,
+		"eng": "The amount of HP required to use this item",
+		"chn": "使用道具时必需的血量。"
+	},
+	{
+		"id": 31180,
+		"eng": "The degree to which incoming\nstandard physical damage is negated",
+		"chn": "普通属性物理攻击的减伤比率。"
+	},
+	{
+		"id": 31181,
+		"eng": "The degree to which incoming\nstriking physical damage is negated",
+		"chn": "打击属性物理攻击的减伤比率。"
+	},
+	{
+		"id": 31182,
+		"eng": "The degree to which incoming\nslashing physical damage is negated",
+		"chn": "斩击属性物理攻击的减伤比率。"
+	},
+	{
+		"id": 31183,
+		"eng": "The degree to which incoming\npiercing physical damage is negated",
+		"chn": "突刺属性物理攻击的减伤比率。"
+	},
+	{
+		"id": 31184,
+		"eng": "The degree to which incoming\nmagic damage is negated",
+		"chn": "魔力属性攻击的减伤比率。"
+	},
+	{
+		"id": 31185,
+		"eng": "The degree to which incoming\nfire damage is negated",
+		"chn": "火属性攻击的减伤比率。"
+	},
+	{
+		"id": 31186,
+		"eng": "The degree to which incoming\nlightning damage is negated",
+		"chn": "雷属性攻击的减伤比率。"
+	},
+	{
+		"id": 31187,
+		"eng": "The degree to which incoming\nholy damage is negated",
+		"chn": "圣属性攻击的减伤比率。"
+	},
+	{
+		"id": 31190,
+		"eng": "The resistance your armor offers to various poisons and rot. Higher values make it more difficult to succumb to these ailments.",
+		"chn": "防具对毒性、腐败的抵抗力。\n数值越高，越不容易陷入中毒、腐败状态。"
+	},
+	{
+		"id": 31191,
+		"eng": "The resistance your armor offers to blood loss and frostbite. Higher values make it more difficult to succumb to these ailments.",
+		"chn": "防具对出血、冻伤的抵抗力。\n数值越高，越不容易陷入出血、冻伤状态。"
+	},
+	{
+		"id": 31192,
+		"eng": "The resistance your armor offers to sleep and bouts of madness. Higher values make it more difficult to succumb to these ailments.",
+		"chn": "防具对催眠、发狂的抵抗力。\n数值越高，越不容易陷入催眠、发狂状态。"
+	},
+	{
+		"id": 31193,
+		"eng": "The resistance your armor offers to death. Higher values make it more difficult to be afflicted with instant death.",
+		"chn": "防具对死亡的抵抗力。\n数值越高，死亡量表累积越慢，\n越不容易立刻死亡。"
+	},
+	{
+		"id": 31200,
+		"eng": "The degree to which you can resist\ncollapsing under enemy attacks",
+		"chn": "能够承受攻击，不会失去平衡的程度。"
+	},
+	{
+		"id": 31300,
+		"eng": "Strength required to master this armament.\nWithout sufficient strength, this armament's\ndamage is greatly reduced.",
+		"chn": "活用此武器必需的力气值。\n能力值不足，攻击伤害等等效果会大幅下降。"
+	},
+	{
+		"id": 31301,
+		"eng": "Dexterity required to master this armament.\nWithout sufficient dexterity, this\narmament's damage is greatly reduced.",
+		"chn": "活用此武器必需的灵巧值。\n能力值不足，攻击伤害等等效果会大幅下降。"
+	},
+	{
+		"id": 31302,
+		"eng": "Intelligence required to master this\narmament. Without sufficient intelligence,\nthis armament's damage is greatly reduced.",
+		"chn": "活用此武器必需的智力值。\n能力值不足，攻击伤害等等效果会大幅下降。"
+	},
+	{
+		"id": 31303,
+		"eng": "Faith required to master this armament.\nWithout sufficient faith, this armament's\ndamage is greatly reduced.",
+		"chn": "活用此武器必需的信仰值。\n能力值不足，攻击伤害等等效果会大幅下降。"
+	},
+	{
+		"id": 31304,
+		"eng": "Arcane required to master this armament.\nWithout sufficient arcane, this armament's\ndamage is greatly reduced.",
+		"chn": "活用此武器必需的感应值。\n能力值不足，攻击伤害等等效果会大幅下降。"
+	},
+	{
+		"id": 31307,
+		"eng": "Intelligence required to cast this sorcery\nor incantation.\nWithout sufficient intelligence, it cannot\nbe used.",
+		"chn": "使用此魔法、祷告必需的智力值。\n能力值不足，则无法使用。"
+	},
+	{
+		"id": 31308,
+		"eng": "Faith required to cast this sorcery\nor incantation.\nWithout sufficient faith, it cannot\nbe used.",
+		"chn": "使用此魔法、祷告必需的信仰值。\n能力值不足，则无法使用。"
+	},
+	{
+		"id": 31309,
+		"eng": "Arcane required to cast this sorcery\nor incantation.\nWithout sufficient arcane, it cannot\nbe used.",
+		"chn": "使用此魔法、祷告必需的感应值。\n能力值不足，则无法使用。"
+	},
+	{
+		"id": 31310,
+		"eng": "The degree to which this armament's \nattacks scale with strength",
+		"chn": "力气值影响武器攻击力的程度。"
+	},
+	{
+		"id": 31311,
+		"eng": "The degree to which this armament's\nattacks scale with dexterity",
+		"chn": "灵巧值影响武器攻击力的程度。"
+	},
+	{
+		"id": 31312,
+		"eng": "The degree to which this armament's\nattacks scale with intelligence",
+		"chn": "智力值影响武器攻击力的程度。"
+	},
+	{
+		"id": 31313,
+		"eng": "The degree to which this armament's\nattacks scale with faith",
+		"chn": "信仰值影响武器攻击力的程度。"
+	},
+	{
+		"id": 31314,
+		"eng": "The degree to which this armament's power\nor passive effects scale with strength",
+		"chn": "力气值影响威力或效果强弱的程度。"
+	},
+	{
+		"id": 31315,
+		"eng": "The degree to which this armament's power\nor passive effects scale with dexterity",
+		"chn": "灵巧值影响威力或效果强弱的程度。"
+	},
+	{
+		"id": 31316,
+		"eng": "The degree to which this armament's power\nor passive effects scale with intelligence",
+		"chn": "智力值影响威力或效果强弱的程度。"
+	},
+	{
+		"id": 31317,
+		"eng": "The degree to which this armament's power\nor passive effects scale with faith",
+		"chn": "信仰值影响威力或效果强弱的程度。"
+	},
+	{
+		"id": 31318,
+		"eng": "The degree to which this armament's power\nor passive effects scale with arcane",
+		"chn": "感应值影响威力或效果强弱的程度。"
+	},
+	{
+		"id": 31319,
+		"eng": "The degree to which this armament's \nattacks scale with arcane",
+		"chn": "感应值影响武器攻击力的程度。"
+	},
+	{
+		"id": 31351,
+		"eng": "Weight of this equipment",
+		"chn": "装备重量。"
+	},
+	{
+		"id": 31360,
+		"eng": "Type of item.\nShows whether or not\nit will be consumed with use.",
+		"chn": "道具的使用类型。\n使用后是否会消失。"
+	},
+	{
+		"id": 31500,
+		"eng": "This armament's innate effects",
+		"chn": "武器本身拥有的效果。"
+	},
+	{
+		"id": 31511,
+		"eng": "Skill granted by these Ashes of War",
+		"chn": "此战灰能赋予的战技。"
+	},
+	{
+		"id": 31512,
+		"eng": "Armament types that these Ashes of War can alter",
+		"chn": "此战灰能赋予战技、属性的武器类别。"
+	},
+	{
+		"id": 31513,
+		"eng": "Affinity that these Ashes of War can grant.\nThis can be expanded with whetblades.",
+		"chn": "此战灰能赋予的属性。\n获得砥石刀之后能增加。"
+	},
+	{
+		"id": 32000,
+		"eng": "Number of runes required to buy",
+		"chn": "购买所需的卢恩。"
+	},
+	{
+		"id": 32001,
+		"eng": "Number of runes required to upgrade",
+		"chn": "强化所需的卢恩。"
+	},
+	{
+		"id": 32002,
+		"eng": "Number of runes required to grant",
+		"chn": "赋予所需的卢恩。"
+	},
+	{
+		"id": 32004,
+		"eng": "Number of runes required to receive power\nfrom remembrances",
+		"chn": "获得追忆的力量所需的卢恩。"
+	},
+	{
+		"id": 32010,
+		"eng": "Number of runes gained when sold",
+		"chn": "卖出后获得的卢恩。"
+	},
+	{
+		"id": 40110,
+		"eng": "Confirm",
+		"chn": "确定"
+	},
+	{
+		"id": 40120,
+		"eng": "None entered",
+		"chn": "尚未输入"
+	},
+	{
+		"id": 40300,
+		"eng": "On",
+		"chn": "开启"
+	},
+	{
+		"id": 40301,
+		"eng": "Off",
+		"chn": "关闭"
+	},
+	{
+		"id": 40302,
+		"eng": "Mild",
+		"chn": "和缓"
+	},
+	{
+		"id": 40303,
+		"eng": "Auto",
+		"chn": "自动"
+	},
+	{
+		"id": 40310,
+		"eng": "Normal",
+		"chn": "一般"
+	},
+	{
+		"id": 40311,
+		"eng": "Reversed",
+		"chn": "颠倒"
+	},
+	{
+		"id": 40320,
+		"eng": "Allowed",
+		"chn": "使用"
+	},
+	{
+		"id": 40321,
+		"eng": "Restricted",
+		"chn": "不使用"
+	},
+	{
+		"id": 40330,
+		"eng": "Defaults",
+		"chn": "恢复默认"
+	},
+	{
+		"id": 40331,
+		"eng": "Next",
+		"chn": "下一步"
+	},
+	{
+		"id": 40340,
+		"eng": "Perform Matchmaking",
+		"chn": "联机"
+	},
+	{
+		"id": 40341,
+		"eng": "No Matchmaking",
+		"chn": "不联机"
+	},
+	{
+		"id": 40350,
+		"eng": "No Password",
+		"chn": "无配置"
+	},
+	{
+		"id": 40360,
+		"eng": "Play Online",
+		"chn": "联机游玩"
+	},
+	{
+		"id": 40361,
+		"eng": "Play Offline",
+		"chn": "脱机游玩"
+	},
+	{
+		"id": 40370,
+		"eng": "Disable",
+		"chn": "限制"
+	},
+	{
+		"id": 40371,
+		"eng": "Enable",
+		"chn": "不限制"
+	},
+	{
+		"id": 40375,
+		"eng": "Agree",
+		"chn": "同意"
+	},
+	{
+		"id": 40376,
+		"eng": "Decline",
+		"chn": "不同意"
+	},
+	{
+		"id": 40377,
+		"eng": "Prioritize Quality",
+		"chn": "画质优先"
+	},
+	{
+		"id": 40378,
+		"eng": "Prioritize Frame Rate",
+		"chn": "帧率优先"
+	},
+	{
+		"id": 40380,
+		"eng": "Game Pad",
+		"chn": "控制器"
+	},
+	{
+		"id": 40381,
+		"eng": "Keyboard and Mouse",
+		"chn": "键盘、鼠标"
+	},
+	{
+		"id": 40400,
+		"eng": "Fullscreen",
+		"chn": "全屏幕"
+	},
+	{
+		"id": 40401,
+		"eng": "Windowed",
+		"chn": "窗口化"
+	},
+	{
+		"id": 40402,
+		"eng": "Borderless Windowed",
+		"chn": "无边框窗口化"
+	},
+	{
+		"id": 40410,
+		"eng": "x",
+		"chn": "×"
+	},
+	{
+		"id": 40420,
+		"eng": "Custom",
+		"chn": "自定义"
+	},
+	{
+		"id": 40421,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 40422,
+		"eng": "Medium",
+		"chn": "中"
+	},
+	{
+		"id": 40423,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 40424,
+		"eng": "Maximum",
+		"chn": "最高"
+	},
+	{
+		"id": 40440,
+		"eng": "On",
+		"chn": "开启"
+	},
+	{
+		"id": 40441,
+		"eng": "Off",
+		"chn": "关闭"
+	},
+	{
+		"id": 40500,
+		"eng": "Tools",
+		"chn": "道具"
+	},
+	{
+		"id": 40501,
+		"eng": "Melee Armaments",
+		"chn": "近战武器"
+	},
+	{
+		"id": 40504,
+		"eng": "Shields",
+		"chn": "盾牌"
+	},
+	{
+		"id": 40505,
+		"eng": "Head",
+		"chn": "头盔"
+	},
+	{
+		"id": 40506,
+		"eng": "Chest",
+		"chn": "铠甲"
+	},
+	{
+		"id": 40507,
+		"eng": "Arms",
+		"chn": "臂甲"
+	},
+	{
+		"id": 40508,
+		"eng": "Legs",
+		"chn": "腿甲"
+	},
+	{
+		"id": 40509,
+		"eng": "Talismans",
+		"chn": "护符"
+	},
+	{
+		"id": 40510,
+		"eng": "Sorceries/Incantations",
+		"chn": "魔法／祷告"
+	},
+	{
+		"id": 40511,
+		"eng": "Arrows/Bolts",
+		"chn": "箭／弩箭"
+	},
+	{
+		"id": 40512,
+		"eng": "Bolstering Materials",
+		"chn": "强化用材料"
+	},
+	{
+		"id": 40513,
+		"eng": "Key Items",
+		"chn": "贵重物品"
+	},
+	{
+		"id": 40516,
+		"eng": "Crafting Materials",
+		"chn": "制作道具的材料"
+	},
+	{
+		"id": 40517,
+		"eng": "Info",
+		"chn": "情报"
+	},
+	{
+		"id": 40518,
+		"eng": "Crystal Tears",
+		"chn": "结晶露滴"
+	},
+	{
+		"id": 40519,
+		"eng": "Ranged Weapons / Catalysts",
+		"chn": "远战武器"
+	},
+	{
+		"id": 40520,
+		"eng": "Ashes",
+		"chn": "骨灰"
+	},
+	{
+		"id": 40521,
+		"eng": "Sorceries",
+		"chn": "魔法"
+	},
+	{
+		"id": 40522,
+		"eng": "Incantations",
+		"chn": "祷告"
+	},
+	{
+		"id": 40523,
+		"eng": "Ashes of War",
+		"chn": "战灰"
+	},
+	{
+		"id": 40530,
+		"eng": "Equipped Armaments",
+		"chn": "装备中的武器"
+	},
+	{
+		"id": 40531,
+		"eng": "Equipped Ashes",
+		"chn": "装备中的骨灰"
+	},
+	{
+		"id": 40532,
+		"eng": "Equipped Armaments",
+		"chn": "装备中的武器"
+	},
+	{
+		"id": 40550,
+		"eng": "Armaments",
+		"chn": "武器"
+	},
+	{
+		"id": 40551,
+		"eng": "Armor",
+		"chn": "防具"
+	},
+	{
+		"id": 40560,
+		"eng": "All Items",
+		"chn": "全部道具"
+	},
+	{
+		"id": 40562,
+		"eng": "Consumables",
+		"chn": "消耗道具"
+	},
+	{
+		"id": 40571,
+		"eng": "Throwing Pots",
+		"chn": "投掷壶"
+	},
+	{
+		"id": 40572,
+		"eng": "Perfume Arts",
+		"chn": "调香术"
+	},
+	{
+		"id": 40580,
+		"eng": "Ashes",
+		"chn": "骨灰"
+	},
+	{
+		"id": 40581,
+		"eng": "Special Ashes",
+		"chn": "特殊骨灰"
+	},
+	{
+		"id": 40590,
+		"eng": "Sorceries/Incantations",
+		"chn": "全部的魔法、祷告"
+	},
+	{
+		"id": 40591,
+		"eng": "Offensive Sorceries",
+		"chn": "攻击魔法"
+	},
+	{
+		"id": 40592,
+		"eng": "Support Sorceries",
+		"chn": "辅助魔法"
+	},
+	{
+		"id": 40593,
+		"eng": "Offensive Incantations",
+		"chn": "攻击祷告"
+	},
+	{
+		"id": 40594,
+		"eng": "Support Incantations",
+		"chn": "辅助祷告"
+	},
+	{
+		"id": 40602,
+		"eng": "Character Status",
+		"chn": "角色数据"
+	},
+	{
+		"id": 50000,
+		"eng": "None",
+		"chn": "无"
+	},
+	{
+		"id": 50005,
+		"eng": "Standard",
+		"chn": "普通"
+	},
+	{
+		"id": 50050,
+		"eng": "Strike",
+		"chn": "打击"
+	},
+	{
+		"id": 50055,
+		"eng": "Standard/Strike",
+		"chn": "普通／打击"
+	},
+	{
+		"id": 50500,
+		"eng": "Slash",
+		"chn": "斩击"
+	},
+	{
+		"id": 50505,
+		"eng": "Standard/Slash",
+		"chn": "普通／斩击"
+	},
+	{
+		"id": 50550,
+		"eng": "Strike/Slash",
+		"chn": "打击／斩击"
+	},
+	{
+		"id": 50555,
+		"eng": "Standard/Strike/Slash",
+		"chn": "普通／打击／斩击"
+	},
+	{
+		"id": 55000,
+		"eng": "Pierce",
+		"chn": "突刺"
+	},
+	{
+		"id": 55005,
+		"eng": "Standard/Pierce",
+		"chn": "普通／突刺"
+	},
+	{
+		"id": 55050,
+		"eng": "Strike/Pierce",
+		"chn": "打击／突刺"
+	},
+	{
+		"id": 55055,
+		"eng": "Standard/Strike/Pierce",
+		"chn": "普通／打击／突刺"
+	},
+	{
+		"id": 55500,
+		"eng": "Slash/Pierce",
+		"chn": "斩击／突刺"
+	},
+	{
+		"id": 55505,
+		"eng": "Standard/Slash/Pierce",
+		"chn": "普通／斩击／突刺"
+	},
+	{
+		"id": 55550,
+		"eng": "Strike/Slash/Pierce",
+		"chn": "打击／斩击／突刺"
+	},
+	{
+		"id": 55555,
+		"eng": "Standard/Strike/Slash/Pierce",
+		"chn": "普通／打击／斩击／突刺"
+	},
+	{
+		"id": 60000,
+		"eng": "All Armaments",
+		"chn": "所有武器"
+	},
+	{
+		"id": 60001,
+		"eng": ", ",
+		"chn": "、"
+	},
+	{
+		"id": 60010,
+		"eng": "Dagger",
+		"chn": "短剑"
+	},
+	{
+		"id": 60015,
+		"eng": "Straight Sword",
+		"chn": "直剑"
+	},
+	{
+		"id": 60020,
+		"eng": "Greatsword",
+		"chn": "大剑"
+	},
+	{
+		"id": 60025,
+		"eng": "Colossal Sword",
+		"chn": "特大剑"
+	},
+	{
+		"id": 60030,
+		"eng": "Curved Sword",
+		"chn": "曲剑"
+	},
+	{
+		"id": 60035,
+		"eng": "Curved Greatsword",
+		"chn": "大曲剑"
+	},
+	{
+		"id": 60040,
+		"eng": "Katana",
+		"chn": "刀"
+	},
+	{
+		"id": 60043,
+		"eng": "Twinblade",
+		"chn": "双头剑"
+	},
+	{
+		"id": 60045,
+		"eng": "Thrusting Sword",
+		"chn": "刺剑"
+	},
+	{
+		"id": 60046,
+		"eng": "Heavy Thrusting Sword",
+		"chn": "重刺剑"
+	},
+	{
+		"id": 60050,
+		"eng": "Axe",
+		"chn": "斧"
+	},
+	{
+		"id": 60055,
+		"eng": "Greataxe",
+		"chn": "大斧"
+	},
+	{
+		"id": 60060,
+		"eng": "Hammer",
+		"chn": "槌"
+	},
+	{
+		"id": 60065,
+		"eng": "Warhammer",
+		"chn": "大槌"
+	},
+	{
+		"id": 60067,
+		"eng": "Flail",
+		"chn": "连枷"
+	},
+	{
+		"id": 60070,
+		"eng": "Spear",
+		"chn": "矛"
+	},
+	{
+		"id": 60077,
+		"eng": "Great Spear",
+		"chn": "大矛"
+	},
+	{
+		"id": 60080,
+		"eng": "Halberd",
+		"chn": "戟"
+	},
+	{
+		"id": 60085,
+		"eng": "Reaper",
+		"chn": "镰刀"
+	},
+	{
+		"id": 60090,
+		"eng": "Fist",
+		"chn": "拳头"
+	},
+	{
+		"id": 60100,
+		"eng": "Claw",
+		"chn": "钩爪"
+	},
+	{
+		"id": 60102,
+		"eng": "Colossal Weapon",
+		"chn": "特大武器"
+	},
+	{
+		"id": 60104,
+		"eng": "Light Bow",
+		"chn": "小弓"
+	},
+	{
+		"id": 60105,
+		"eng": "Bow",
+		"chn": "长弓"
+	},
+	{
+		"id": 60110,
+		"eng": "Greatbow",
+		"chn": "大弓"
+	},
+	{
+		"id": 60115,
+		"eng": "Crossbow",
+		"chn": "弩"
+	},
+	{
+		"id": 60117,
+		"eng": "Ballista",
+		"chn": "弩炮"
+	},
+	{
+		"id": 60120,
+		"eng": "Glintstone Staff",
+		"chn": "手杖"
+	},
+	{
+		"id": 60130,
+		"eng": "Sacred Seal",
+		"chn": "圣印记"
+	},
+	{
+		"id": 60140,
+		"eng": "Small Shield",
+		"chn": "小盾"
+	},
+	{
+		"id": 60145,
+		"eng": "Medium Shield",
+		"chn": "中盾"
+	},
+	{
+		"id": 60150,
+		"eng": "Greatshield",
+		"chn": "大盾"
+	},
+	{
+		"id": 60155,
+		"eng": "Whip",
+		"chn": "软鞭"
+	},
+	{
+		"id": 60160,
+		"eng": "Arrow",
+		"chn": "箭"
+	},
+	{
+		"id": 60165,
+		"eng": "Greatarrow",
+		"chn": "大箭"
+	},
+	{
+		"id": 60170,
+		"eng": "Bolt",
+		"chn": "弩箭"
+	},
+	{
+		"id": 60171,
+		"eng": "Greatbolt",
+		"chn": "大弩箭"
+	},
+	{
+		"id": 60175,
+		"eng": "Torch",
+		"chn": "火把"
+	},
+	{
+		"id": 61000,
+		"eng": "Sorcery",
+		"chn": "魔法"
+	},
+	{
+		"id": 61002,
+		"eng": "Incantation",
+		"chn": "祷告"
+	},
+	{
+		"id": 62000,
+		"eng": "Standard",
+		"chn": "普通"
+	},
+	{
+		"id": 62001,
+		"eng": "Heavy",
+		"chn": "厚重"
+	},
+	{
+		"id": 62002,
+		"eng": "Keen",
+		"chn": "锋利"
+	},
+	{
+		"id": 62003,
+		"eng": "Quality",
+		"chn": "优质"
+	},
+	{
+		"id": 62004,
+		"eng": "Fire",
+		"chn": "火焰"
+	},
+	{
+		"id": 62005,
+		"eng": "Flame Art",
+		"chn": "焰术"
+	},
+	{
+		"id": 62006,
+		"eng": "Lightning",
+		"chn": "雷电"
+	},
+	{
+		"id": 62007,
+		"eng": "Sacred",
+		"chn": "神圣"
+	},
+	{
+		"id": 62008,
+		"eng": "Magic",
+		"chn": "魔力"
+	},
+	{
+		"id": 62009,
+		"eng": "Occult",
+		"chn": "神秘"
+	},
+	{
+		"id": 62010,
+		"eng": "Cold",
+		"chn": "寒冷"
+	},
+	{
+		"id": 62011,
+		"eng": "Poison",
+		"chn": "毒"
+	},
+	{
+		"id": 62012,
+		"eng": "Blood",
+		"chn": "血"
+	},
+	{
+		"id": 63000,
+		"eng": "Usable on swords, axes, and\nhammers (small armaments and\nthrusting swords excepted)",
+		"chn": "能在剑、斧、槌类武器使用\n（不含小型武器、刺剑类武器）"
+	},
+	{
+		"id": 63001,
+		"eng": "Usable on medium and large armaments capable of thrusting",
+		"chn": "能在中型、大型的\n可突刺的武器使用"
+	},
+	{
+		"id": 63002,
+		"eng": "Usable on swords, axes, and polearms (colossal weapons excepted)",
+		"chn": "能在剑、斧类武器\n以及长柄武器使用\n（不含特大型武器）"
+	},
+	{
+		"id": 63003,
+		"eng": "Usable on swords, axes, and\nhammers (small and medium\nswords excepted)",
+		"chn": "能在剑、斧、槌类武器使用\n（不含小型、中型剑类武器）"
+	},
+	{
+		"id": 63004,
+		"eng": "Usable on armaments capable of thrusting (colossal weapons excepted)",
+		"chn": "能在可突刺的武器使用\n（不含特大型武器）"
+	},
+	{
+		"id": 63005,
+		"eng": "Usable on axes and hammers,\nas well as curved swords,\ngreatswords, and reapers\n(colossal weapons excepted)",
+		"chn": "能在斧、槌、曲剑、\n大剑、镰刀类武器使用\n（不含特大型武器）"
+	},
+	{
+		"id": 63006,
+		"eng": "Usable on swords and polearms capable of slashing (colossal weapons excepted)",
+		"chn": "能在可斩击的\n剑类武器、长柄武器使用\n（不含特大型武器）"
+	},
+	{
+		"id": 63007,
+		"eng": "Usable on large and colossal\naxes and hammers",
+		"chn": "能在大型、特大型的\n斧、槌类武器使用"
+	},
+	{
+		"id": 63008,
+		"eng": "Usable on katana",
+		"chn": "能在刀类武器使用"
+	},
+	{
+		"id": 63009,
+		"eng": "Usable on straight swords",
+		"chn": "能在直剑类武器使用"
+	},
+	{
+		"id": 63010,
+		"eng": "Usable on large and colossal weapons capable of thrusting, spears, and twinblades",
+		"chn": "能在大型、特大型的可突刺的武器\n以及矛、双头剑类武器使用"
+	},
+	{
+		"id": 63011,
+		"eng": "Usable on small and medium swords (twinblades excepted)",
+		"chn": "能在小型、中型的剑类武器使用\n（不含双头剑类武器）"
+	},
+	{
+		"id": 63012,
+		"eng": "Usable on small and medium swords, axes, and hammers, as well as polearms and staves (great spears excepted)",
+		"chn": "能在小型、中型的\n剑、斧、槌类武器\n以及长柄武器、手杖类武器使用\n（不含大矛类武器）"
+	},
+	{
+		"id": 63013,
+		"eng": "Usable on polearms capable of thrusting, heavy thrusting swords, and twinblades",
+		"chn": "能在可突刺的长柄武器\n以及重刺剑、双头剑类武器使用"
+	},
+	{
+		"id": 63014,
+		"eng": "Usable on swords capable of slashing, axes, hammers, and polearms (small and colossal weapons excepted)",
+		"chn": "能在可斩击的剑类武器\n以及斧、槌类武器、长柄武器使用\n（不含小型、特大型武器）"
+	},
+	{
+		"id": 63015,
+		"eng": "Usable on swords, axes, and polearms capable of slashing (colossal weapons and great spears excepted)",
+		"chn": "能在可斩击的剑、斧类武器、\n长柄武器使用\n（不含特大型武器、大矛类武器）"
+	},
+	{
+		"id": 63016,
+		"eng": "Usable on polearms capable of thrusting and twinblades",
+		"chn": "能在可突刺的长柄武器\n以及双头剑类武器使用"
+	},
+	{
+		"id": 63017,
+		"eng": "Usable on fists and claws",
+		"chn": "能在拳头、钩爪类武器使用"
+	},
+	{
+		"id": 63018,
+		"eng": "Usable on axes and hammers",
+		"chn": "能在斧、槌类武器使用"
+	},
+	{
+		"id": 63019,
+		"eng": "Usable on melee armaments\n(small armaments and whips excepted)",
+		"chn": "能在近战武器使用\n（不含小型武器、软鞭类武器）"
+	},
+	{
+		"id": 63020,
+		"eng": "Usable on swords (colossal weapons and twinblades excepted)",
+		"chn": "能在剑类武器使用\n（不含特大型武器、双头剑类武器）"
+	},
+	{
+		"id": 63021,
+		"eng": "Usable on swords, axes, and hammers",
+		"chn": "能在剑、斧、槌类武器使用"
+	},
+	{
+		"id": 63022,
+		"eng": "Usable on swords\n(colossal weapons excepted)",
+		"chn": "能在剑类武器使用\n（不含特大型武器）"
+	},
+	{
+		"id": 63023,
+		"eng": "Usable on swords and axes\n(small and colossal axes excepted)",
+		"chn": "能在剑、斧类武器使用\n（不含小型、特大型斧类武器）"
+	},
+	{
+		"id": 63024,
+		"eng": "Usable on polearms and twinblades",
+		"chn": "能在长柄武器、双头剑类武器使用"
+	},
+	{
+		"id": 63025,
+		"eng": "Usable on polearms\n(great spears excepted)",
+		"chn": "能在长柄武器使用\n（不含大矛类武器）"
+	},
+	{
+		"id": 63026,
+		"eng": "Usable on small and medium swords",
+		"chn": "能在小型、中型的剑类武器使用"
+	},
+	{
+		"id": 63027,
+		"eng": "Usable on polearms and twinblades\n(great spears excepted)",
+		"chn": "能在长柄武器、双头剑类武器使用\n（不含大矛类武器）"
+	},
+	{
+		"id": 63028,
+		"eng": "Usable on polearms\n(reapers excepted)",
+		"chn": "能在长柄武器使用\n（不含镰刀类武器）"
+	},
+	{
+		"id": 63029,
+		"eng": "Usable on small melee armaments\nand curved swords",
+		"chn": "能在小型的近战武器\n以及曲剑类武器使用"
+	},
+	{
+		"id": 63030,
+		"eng": "Usable on small and medium shields",
+		"chn": "能在小盾、中盾类武器使用"
+	},
+	{
+		"id": 63031,
+		"eng": "Usable on shields and torches",
+		"chn": "能在盾、火把类武器使用"
+	},
+	{
+		"id": 63032,
+		"eng": "Usable on greatbows",
+		"chn": "能在大弓类武器使用"
+	},
+	{
+		"id": 63033,
+		"eng": "Usable on light bows and longbows",
+		"chn": "能在小弓、长弓类武器使用"
+	},
+	{
+		"id": 63034,
+		"eng": "Usable on all bows",
+		"chn": "能在所有的弓类武器使用"
+	},
+	{
+		"id": 63035,
+		"eng": "Usable on greataxes, warhammers,\nand colossal weapons",
+		"chn": "能在大斧、大槌类武器\n以及特大型武器使用"
+	},
+	{
+		"id": 63036,
+		"eng": "Usable on small and medium\nstraight swords and thrusting\nswords",
+		"chn": "能在小型、中型的\n直剑、刺剑类武器使用"
+	},
+	{
+		"id": 63037,
+		"eng": "Usable on swords as well as polearms capable of thrusting (colossal weapons excepted)",
+		"chn": "能在剑类武器\n以及可突刺的长柄武器使用\n（不含特大型武器）"
+	},
+	{
+		"id": 63038,
+		"eng": "Usable on melee armaments\n(whips excepted)",
+		"chn": "能在近战武器使用\n（不含软鞭类武器）"
+	},
+	{
+		"id": 63039,
+		"eng": "Usable on large and colossal\nswords, axes, and hammers",
+		"chn": "能在大型、特大型的\n剑、斧、槌类武器使用"
+	},
+	{
+		"id": 63040,
+		"eng": "Usable on melee armaments\n(daggers, thrusting swords,\nand whips excepted)",
+		"chn": "能在近战武器使用\n（不含短剑、刺剑、软鞭类武器）"
+	},
+	{
+		"id": 63041,
+		"eng": "Usable on all shields",
+		"chn": "能在所有的盾类武器使用"
+	},
+	{
+		"id": 63042,
+		"eng": "Usable on all melee armaments",
+		"chn": "能在所有的近战武器使用"
+	},
+	{
+		"id": 63043,
+		"eng": "Usable on axes and hammers as well as curved swords and greatswords\n(colossal weapons excepted)",
+		"chn": "能在斧、槌、曲剑、\n大剑类武器使用\n（不含特大型武器）"
+	},
+	{
+		"id": 63044,
+		"eng": "Usable on melee armaments\n(whips, fists, and claws excepted)",
+		"chn": "能在近战武器使用\n（不含软鞭、拳头、钩爪类武器）"
+	},
+	{
+		"id": 63045,
+		"eng": "Usable on melee armaments (colossal weapons and whips excepted)",
+		"chn": "能在近战武器使用\n（不含特大型武器、软鞭类武器）"
+	},
+	{
+		"id": 63046,
+		"eng": "Usable on swords as well as polearms capable of thrusting (small and colossal weapons excepted)",
+		"chn": "能在剑类武器\n以及可突刺的长柄武器使用\n（不含小型、特大型武器）"
+	},
+	{
+		"id": 63047,
+		"eng": "Usable on daggers, curved swords,\nthrusting swords, fists, claws,\nand small and medium shields",
+		"chn": "能在短剑、曲剑、刺剑、\n拳头、钩爪类武器\n以及小盾、中盾类武器使用"
+	},
+	{
+		"id": 63048,
+		"eng": "Usable on light bows",
+		"chn": "能在小弓类武器使用"
+	},
+	{
+		"id": 63900,
+		"eng": "Usable on large thrusting weapons",
+		"chn": "能在非小型、可突刺的武器使用"
+	},
+	{
+		"id": 63901,
+		"eng": "Usable on all thrusting weapons",
+		"chn": "能在所有可突刺的武器使用"
+	},
+	{
+		"id": 63902,
+		"eng": "Usable on standard slashing weapons",
+		"chn": "能在所有普通属性、\n斩击属性的武器使用"
+	},
+	{
+		"id": 63903,
+		"eng": "Usable on all melee weapons",
+		"chn": "能在所有近战的武器使用"
+	},
+	{
+		"id": 63904,
+		"eng": "Usable on large melee weapons",
+		"chn": "能在非小型、近战的武器使用"
+	},
+	{
+		"id": 63905,
+		"eng": "Usable on all swords",
+		"chn": "能在所有剑类武器使用"
+	},
+	{
+		"id": 63906,
+		"eng": "Usable on all shields",
+		"chn": "能在所有盾牌类武器使用"
+	},
+	{
+		"id": 80000,
+		"eng": "Cracked Pot",
+		"chn": "龟裂壶"
+	},
+	{
+		"id": 80001,
+		"eng": "Perfume Bottle",
+		"chn": "调香瓶"
+	},
+	{
+		"id": 80010,
+		"eng": "Ritual Pot",
+		"chn": "仪式壶"
+	},
+	{
+		"id": 90000,
+		"eng": "Morning",
+		"chn": "早上"
+	},
+	{
+		"id": 90001,
+		"eng": "Early Day",
+		"chn": "中午"
+	},
+	{
+		"id": 90002,
+		"eng": "Late Day",
+		"chn": "下午"
+	},
+	{
+		"id": 90003,
+		"eng": "Evening",
+		"chn": "傍晚"
+	},
+	{
+		"id": 90004,
+		"eng": "Night",
+		"chn": "晚上"
+	},
+	{
+		"id": 90005,
+		"eng": "Late Night",
+		"chn": "深夜"
+	},
+	{
+		"id": 101000,
+		"eng": "Equipment",
+		"chn": "装备"
+	},
+	{
+		"id": 101001,
+		"eng": "Inventory",
+		"chn": "置物包"
+	},
+	{
+		"id": 101002,
+		"eng": "Status",
+		"chn": "状态"
+	},
+	{
+		"id": 101003,
+		"eng": "System",
+		"chn": "系统"
+	},
+	{
+		"id": 101004,
+		"eng": "Messages",
+		"chn": "讯息"
+	},
+	{
+		"id": 101005,
+		"eng": "Pouch",
+		"chn": "随身包包"
+	},
+	{
+		"id": 101007,
+		"eng": "Gestures",
+		"chn": "肢体动作"
+	},
+	{
+		"id": 101008,
+		"eng": "Multiplayer",
+		"chn": "多人联机游玩"
+	},
+	{
+		"id": 101009,
+		"eng": "Item Crafting",
+		"chn": "制作道具"
+	},
+	{
+		"id": 103000,
+		"eng": "Right Hand Armament 1",
+		"chn": "右手武器１"
+	},
+	{
+		"id": 103001,
+		"eng": "Right Hand Armament 2",
+		"chn": "右手武器２"
+	},
+	{
+		"id": 103002,
+		"eng": "Right Hand Armament 3",
+		"chn": "右手武器３"
+	},
+	{
+		"id": 103011,
+		"eng": "Left Hand Armament 1",
+		"chn": "左手武器１"
+	},
+	{
+		"id": 103012,
+		"eng": "Left Hand Armament 2",
+		"chn": "左手武器２"
+	},
+	{
+		"id": 103013,
+		"eng": "Left Hand Armament 3",
+		"chn": "左手武器３"
+	},
+	{
+		"id": 103020,
+		"eng": "Arrows 1",
+		"chn": "箭１"
+	},
+	{
+		"id": 103021,
+		"eng": "Arrows 2",
+		"chn": "箭２"
+	},
+	{
+		"id": 103030,
+		"eng": "Bolts 1",
+		"chn": "弩箭１"
+	},
+	{
+		"id": 103031,
+		"eng": "Bolts 2",
+		"chn": "弩箭２"
+	},
+	{
+		"id": 103040,
+		"eng": "Quick Item 1",
+		"chn": "使用道具１"
+	},
+	{
+		"id": 103041,
+		"eng": "Quick Item 2",
+		"chn": "使用道具２"
+	},
+	{
+		"id": 103042,
+		"eng": "Quick Item 3",
+		"chn": "使用道具３"
+	},
+	{
+		"id": 103043,
+		"eng": "Quick Item 4",
+		"chn": "使用道具４"
+	},
+	{
+		"id": 103044,
+		"eng": "Quick Item 5",
+		"chn": "使用道具５"
+	},
+	{
+		"id": 103045,
+		"eng": "Quick Item 6",
+		"chn": "使用道具６"
+	},
+	{
+		"id": 103046,
+		"eng": "Quick Item 7",
+		"chn": "使用道具７"
+	},
+	{
+		"id": 103047,
+		"eng": "Quick Item 8",
+		"chn": "使用道具８"
+	},
+	{
+		"id": 103048,
+		"eng": "Quick Item 9",
+		"chn": "使用道具９"
+	},
+	{
+		"id": 103049,
+		"eng": "Quick Item 10",
+		"chn": "使用道具１０"
+	},
+	{
+		"id": 103050,
+		"eng": "Talisman 1",
+		"chn": "护符１"
+	},
+	{
+		"id": 103051,
+		"eng": "Talisman 2",
+		"chn": "护符２"
+	},
+	{
+		"id": 103052,
+		"eng": "Talisman 3",
+		"chn": "护符３"
+	},
+	{
+		"id": 103053,
+		"eng": "Talisman 4",
+		"chn": "护符４"
+	},
+	{
+		"id": 103060,
+		"eng": "Pouch 1",
+		"chn": "随身包包１"
+	},
+	{
+		"id": 103061,
+		"eng": "Pouch 2",
+		"chn": "随身包包２"
+	},
+	{
+		"id": 103062,
+		"eng": "Pouch 3",
+		"chn": "随身包包３"
+	},
+	{
+		"id": 103063,
+		"eng": "Pouch 4",
+		"chn": "随身包包４"
+	},
+	{
+		"id": 103064,
+		"eng": "Pouch 5",
+		"chn": "随身包包５"
+	},
+	{
+		"id": 103065,
+		"eng": "Pouch 6",
+		"chn": "随身包包６"
+	},
+	{
+		"id": 103070,
+		"eng": "Gesture 1",
+		"chn": "肢体动作１"
+	},
+	{
+		"id": 103071,
+		"eng": "Gesture 2",
+		"chn": "肢体动作２"
+	},
+	{
+		"id": 103072,
+		"eng": "Gesture 3",
+		"chn": "肢体动作３"
+	},
+	{
+		"id": 103073,
+		"eng": "Gesture 4",
+		"chn": "肢体动作４"
+	},
+	{
+		"id": 103074,
+		"eng": "Gesture 5",
+		"chn": "肢体动作５"
+	},
+	{
+		"id": 103075,
+		"eng": "Gesture 6",
+		"chn": "肢体动作６"
+	},
+	{
+		"id": 110000,
+		"eng": "Game Options",
+		"chn": "游戏选项"
+	},
+	{
+		"id": 110001,
+		"eng": "Camera Options",
+		"chn": "镜头选项"
+	},
+	{
+		"id": 110010,
+		"eng": "Camera Y-Axis",
+		"chn": "镜头上下移动"
+	},
+	{
+		"id": 110011,
+		"eng": "Camera X-Axis",
+		"chn": "镜头左右移动"
+	},
+	{
+		"id": 110012,
+		"eng": "Reset Camera Y-Axis",
+		"chn": "镜头上下角度重置"
+	},
+	{
+		"id": 110013,
+		"eng": "Camera Speed",
+		"chn": "镜头运镜速度"
+	},
+	{
+		"id": 110014,
+		"eng": "Toggle Auto Lock-On",
+		"chn": "自动切换锁定目标"
+	},
+	{
+		"id": 110015,
+		"eng": "Auto-Target",
+		"chn": "自动锁定攻击目标"
+	},
+	{
+		"id": 110016,
+		"eng": "Camera Auto Wall Recovery",
+		"chn": "镜头回避配置"
+	},
+	{
+		"id": 110018,
+		"eng": "Jump Controls",
+		"chn": "跳跃操作配置"
+	},
+	{
+		"id": 110019,
+		"eng": "Manual Attack Aiming",
+		"chn": "手动变更攻击方向"
+	},
+	{
+		"id": 110020,
+		"eng": "Performance Settings",
+		"chn": "画面品质配置"
+	},
+	{
+		"id": 110100,
+		"eng": "Sound and Display",
+		"chn": "显示及声音配置"
+	},
+	{
+		"id": 110110,
+		"eng": "Display Blood",
+		"chn": "流血表现"
+	},
+	{
+		"id": 110111,
+		"eng": "Subtitles",
+		"chn": "字幕显示"
+	},
+	{
+		"id": 110112,
+		"eng": "HUD",
+		"chn": "量表显示配置"
+	},
+	{
+		"id": 110113,
+		"eng": "Cinematic Effects",
+		"chn": "运镜表现"
+	},
+	{
+		"id": 110114,
+		"eng": "Music",
+		"chn": "音乐音量"
+	},
+	{
+		"id": 110115,
+		"eng": "Sound Effects",
+		"chn": "音效音量"
+	},
+	{
+		"id": 110116,
+		"eng": "Voice",
+		"chn": "语音音量"
+	},
+	{
+		"id": 110117,
+		"eng": "Master Volume",
+		"chn": "音量配置"
+	},
+	{
+		"id": 110118,
+		"eng": "Camera Auto Rotation",
+		"chn": "镜头自转配置"
+	},
+	{
+		"id": 110200,
+		"eng": "Brightness",
+		"chn": "亮度配置"
+	},
+	{
+		"id": 110201,
+		"eng": "Adjust brightness until the image on the right is barely visible",
+		"chn": "请调整至能稍微看见右边图片的亮度"
+	},
+	{
+		"id": 110202,
+		"eng": "Adjust brightness to your liking",
+		"chn": "请调整至偏好的亮度"
+	},
+	{
+		"id": 110203,
+		"eng": "Adjust TV brightness to the highest setting",
+		"chn": "请将电视调整至最大亮度"
+	},
+	{
+		"id": 110204,
+		"eng": "Adjust saturation to your liking",
+		"chn": "请调整至偏好的鲜艳度"
+	},
+	{
+		"id": 110209,
+		"eng": "HDR",
+		"chn": "高动态范围成像"
+	},
+	{
+		"id": 110210,
+		"eng": "Adjust Brightness",
+		"chn": "亮度调整"
+	},
+	{
+		"id": 110211,
+		"eng": "Adjust Image Quality",
+		"chn": "画质调整"
+	},
+	{
+		"id": 110212,
+		"eng": "Maximum Brightness",
+		"chn": "最大亮度"
+	},
+	{
+		"id": 110213,
+		"eng": "Adjust Saturation",
+		"chn": "彩度调整"
+	},
+	{
+		"id": 110214,
+		"eng": "Adjust Brightness",
+		"chn": "亮度调整"
+	},
+	{
+		"id": 110300,
+		"eng": "Network",
+		"chn": "联机相关配置"
+	},
+	{
+		"id": 110310,
+		"eng": "Voice Chat",
+		"chn": "语音聊天"
+	},
+	{
+		"id": 110311,
+		"eng": "Cross-Region Play",
+		"chn": "跨区域联机配对"
+	},
+	{
+		"id": 110313,
+		"eng": "Display Player Names",
+		"chn": "其他玩家名称显示配置"
+	},
+	{
+		"id": 110314,
+		"eng": "Launch Setting",
+		"chn": "联机模式启动配置"
+	},
+	{
+		"id": 110315,
+		"eng": "Send Summon Sign",
+		"chn": "召唤记号可见度"
+	},
+	{
+		"id": 110316,
+		"eng": "Data Usage Agreement",
+		"chn": "游戏分析"
+	},
+	{
+		"id": 110500,
+		"eng": "Quit Game",
+		"chn": "结束游戏"
+	},
+	{
+		"id": 110502,
+		"eng": "Level",
+		"chn": "等级"
+	},
+	{
+		"id": 110510,
+		"eng": "Quit Game",
+		"chn": "结束游戏"
+	},
+	{
+		"id": 111001,
+		"eng": "Controls",
+		"chn": "操作方式"
+	},
+	{
+		"id": 111005,
+		"eng": "Keyboard/Mouse Settings",
+		"chn": "键盘与鼠标配置"
+	},
+	{
+		"id": 111006,
+		"eng": "Controls",
+		"chn": "操作方式"
+	},
+	{
+		"id": 111010,
+		"eng": "Device for On-Screen Prompts",
+		"chn": "使用的操作装置"
+	},
+	{
+		"id": 111011,
+		"eng": "Show Tutorials",
+		"chn": "显示教学"
+	},
+	{
+		"id": 111020,
+		"eng": "Mouse Sensitivity",
+		"chn": "鼠标操作灵敏度"
+	},
+	{
+		"id": 111022,
+		"eng": "Mouse X-Axis",
+		"chn": "鼠标左右操作"
+	},
+	{
+		"id": 111023,
+		"eng": "Mouse Y-Axis",
+		"chn": "鼠标上下操作"
+	},
+	{
+		"id": 111031,
+		"eng": "Key Bindings",
+		"chn": "键盘配置"
+	},
+	{
+		"id": 111100,
+		"eng": "Graphics",
+		"chn": "画面配置"
+	},
+	{
+		"id": 111105,
+		"eng": "Changes applied from title screen",
+		"chn": "必须在返回标题画面后才会套用"
+	},
+	{
+		"id": 111110,
+		"eng": "Screen Mode",
+		"chn": "屏幕方式"
+	},
+	{
+		"id": 111111,
+		"eng": "Resolution",
+		"chn": "屏幕分辨率"
+	},
+	{
+		"id": 111112,
+		"eng": "Auto-Detect Best Rendering Settings",
+		"chn": "自动调整渲染效果"
+	},
+	{
+		"id": 111113,
+		"eng": "Quality Settings",
+		"chn": "品质配置"
+	},
+	{
+		"id": 111114,
+		"eng": "Advanced Settings",
+		"chn": "详细配置"
+	},
+	{
+		"id": 111210,
+		"eng": "Texture Quality",
+		"chn": "贴图材质品质"
+	},
+	{
+		"id": 111211,
+		"eng": "Antialiasing Quality",
+		"chn": "反锯齿品质"
+	},
+	{
+		"id": 111212,
+		"eng": "SSAO",
+		"chn": "屏幕空间环境光遮蔽"
+	},
+	{
+		"id": 111213,
+		"eng": "Depth of Field",
+		"chn": "景深"
+	},
+	{
+		"id": 111214,
+		"eng": "Motion Blur",
+		"chn": "动态模糊"
+	},
+	{
+		"id": 111215,
+		"eng": "Shadow Quality",
+		"chn": "阴影品质"
+	},
+	{
+		"id": 111216,
+		"eng": "Lighting Quality",
+		"chn": "光线品质"
+	},
+	{
+		"id": 111217,
+		"eng": "Effects Quality",
+		"chn": "特效品质"
+	},
+	{
+		"id": 111218,
+		"eng": "Volumetric Quality",
+		"chn": "光影细部呈现品质"
+	},
+	{
+		"id": 111219,
+		"eng": "Reflection Quality",
+		"chn": "反射呈现品质"
+	},
+	{
+		"id": 111220,
+		"eng": "Water Surface Quality",
+		"chn": "水面品质"
+	},
+	{
+		"id": 111221,
+		"eng": "Shader Quality",
+		"chn": "造型品质"
+	},
+	{
+		"id": 111222,
+		"eng": "Ray Tracing Quality",
+		"chn": "光线追踪品质"
+	},
+	{
+		"id": 111223,
+		"eng": "Global Illumination Quality",
+		"chn": "全面照明品质"
+	},
+	{
+		"id": 111224,
+		"eng": "Grass Quality",
+		"chn": "草地品质"
+	},
+	{
+		"id": 121000,
+		"eng": "Multiplayer Password Setting",
+		"chn": "配置多人联机游玩的暗号"
+	},
+	{
+		"id": 121001,
+		"eng": "Group Password Setting",
+		"chn": "配置群组暗号"
+	},
+	{
+		"id": 121010,
+		"eng": "If you set a multiplayer password, you'll only be matched with other players using the same password for most multiplayer features.\n\nHowever, multiplayer passwords do not apply to invasion or support multiplayer.",
+		"chn": "在配置多人联机游玩的暗号之后，\n会和配置同一组暗号的玩家进行联机配对。\n\n在入侵、猎人多人联机游玩中，不适用此暗号功能。"
+	},
+	{
+		"id": 121011,
+		"eng": "If you set a group password, you'll be more likely to see messages, summon signs, bloodstains, phantoms, and so on from others using the same password.\n\nElements given this special priority will appear differently from others.",
+		"chn": "在配置群组暗号之后，\n会优先显示使用同一组暗号玩家的下列状态：\n讯息、召唤记号、血迹、幻影等等。\n\n优先显示的状态，外表会和其他状态不同。"
+	},
+	{
+		"id": 121100,
+		"eng": "With a Furlcalling Finger Remedy, you can see summon signs, which can be used to summon players from other worlds.\n(Finger Remedies are consumed with use.)\n\nThere are various types of summon signs.\nGold signs summon Furled Finger cooperators.\nRed signs summon duelist adversaries.\n(For either type of multiplayer, the summoning player becomes Host of Fingers.)",
+		"chn": "消耗唤勾指药能看见召唤记号，\n借此召唤其他世界的玩家。\n（指药为消耗道具。）\n\n召唤记号有下列种类：\n金色记号能召唤协助者“勾指”；\n红色记号能召唤敌对者“斗士”。\n\n多人联机游玩时，您将成为“勾指主人”。"
+	},
+	{
+		"id": 121101,
+		"eng": "With a Furlcalling Finger Remedy, you can see summon signs, which can be used to summon players from other worlds.\n(Finger Remedies are consumed with use.)\n\nThere are various types of summon signs.\nGold signs summon Furled Finger cooperators.\nRed signs summon duelist adversaries.\n(For either type of multiplayer, the summoning player becomes Host of Fingers.)",
+		"chn": "消耗唤勾指药能看见召唤记号，\n借此召唤其他世界的玩家。\n（指药为消耗道具。）\n\n召唤记号有下列种类：\n金色记号能召唤协助者“勾指”；\n红色记号能召唤敌对者“斗士”。\n\n多人联机游玩时，您将成为“勾指主人”。"
+	},
+	{
+		"id": 121102,
+		"eng": "You can leave a gold summon sign to play cooperative multiplayer.\n\nThis sign will appear in other players' worlds and allow them to summon you as a Furled Finger for cooperative multiplayer.\nMultiplayer begins once you are summoned.\n(Your objective will be to defeat the area boss.)\n\nIf you leave a second summon sign, the older sign will vanish.",
+		"chn": "能写下协力多人联机游玩用的召唤记号。\n\n写下的记号会传布到其他世界，\n其他世界的玩家能借此召唤您。\n\n受到召唤后，将作为协助者（勾指）\n前往其他世界，开始协力多人联机游玩。\n（目标是打败区域头目。）\n\n再次使用，旧有的记号会消失。"
+	},
+	{
+		"id": 121103,
+		"eng": "You can leave a gold summon sign to play cooperative multiplayer.\n\nThis sign will appear in other players' worlds and allow them to summon you as a Furled Finger for cooperative multiplayer.\nMultiplayer begins once you are summoned.\n(Your objective will be to defeat the area boss.)\n\nIf you leave a second summon sign, the older sign will vanish.",
+		"chn": "能写下协力多人联机游玩用的召唤记号。\n\n写下的记号会传布到其他世界，\n其他世界的玩家能借此召唤您。\n\n受到召唤后，将作为协助者（勾指）\n前往其他世界，开始协力多人联机游玩。\n（目标是打败区域头目。）\n\n再次使用，旧有的记号会消失。"
+	},
+	{
+		"id": 121104,
+		"eng": "You can leave a red summon sign to play competitive multiplayer.\n\nThis sign will appear in other players' worlds and allow them to summon you as a duelist adversary for competitive multiplayer.\nMultiplayer begins once you are summoned.\n(Your objective will be to defeat the Host of Fingers.)\n\nIf you leave a second summon sign, the older sign will vanish.",
+		"chn": "能写下敌对多人联机游玩用的召唤记号。\n\n写下的记号会传布到其他世界，\n其他世界的玩家能借此召唤您。\n\n受到召唤后，将作为敌对者（斗士）\n前往其他世界，开始敌对多人联机游玩。\n（目标是打败“勾指主人”。）\n\n再次使用，旧有的记号会消失。"
+	},
+	{
+		"id": 121105,
+		"eng": "You can leave a red summon sign to play competitive multiplayer.\n\nThis sign will appear in other players' worlds and allow them to summon you as a duelist adversary for competitive multiplayer.\nMultiplayer begins once you are summoned.\n(Your objective will be to defeat the Host of Fingers.)\n\nIf you leave a second summon sign, the older sign will vanish.",
+		"chn": "能写下敌对多人联机游玩用的召唤记号。\n\n写下的记号会传布到其他世界，\n其他世界的玩家能借此召唤您。\n\n受到召唤后，将作为敌对者（斗士）\n前往其他世界，开始敌对多人联机游玩。\n（目标是打败“勾指主人”。）\n\n再次使用，旧有的记号会消失。"
+	},
+	{
+		"id": 121106,
+		"eng": "Attempt to invade another player's world as a Bloody Finger.\n\nIf you successfully invade, invasion multiplayer will begin. (Your objective will be to defeat the Host of Fingers.)\n\nYou can attempt another invasion of the same world by using a Phantom Finger item. (These items are consumed upon use.)",
+		"chn": "能作为“血指”入侵其他玩家的世界。\n\n入侵成功后，将前往其他世界，\n开始入侵多人联机游玩。\n（目标是打败“勾指主人”。）\n\n在入侵多人联机游玩，能消耗指幻影类道具，\n再次入侵曾经入侵过的世界。\n（指幻影类道具为消耗道具。）"
+	},
+	{
+		"id": 121107,
+		"eng": "Cancel invasion of other world",
+		"chn": "放弃入侵其他世界"
+	},
+	{
+		"id": 121108,
+		"eng": "Choose a summoned player to\nsend back to their own world.\n\nThis player will be removed\nfrom the multiplayer session.",
+		"chn": "能选择亲自召唤的人物，\n将对方遣返回原本的世界。\n\n该名人物会离开多人联机游玩。"
+	},
+	{
+		"id": 121109,
+		"eng": "Removed from multiplayer session.\nReturning to own world.",
+		"chn": "离开多人联机游玩，返回原本的世界"
+	},
+	{
+		"id": 121110,
+		"eng": "Lures in invaders.\n\nThis allows your world to be invaded without any Furled Finger cooperators present, and it also shortens the interval between windows of opportunity for invasion.\n\nAdditionally, enables the arrival of a second invader to join when a cooperator is present. (With two invaders, the maximum number of cooperators becomes one.)",
+		"chn": "能吸引入侵者前来。\n\n即使没有召唤协助者（勾指）也会受到入侵，\n并且缩短玩家入侵的时间间距。\n\n此外，在已召唤协助者的情况下，\n会允许第２位入侵者入侵。\n（当入侵者共有２位时，协助者的人数最多１位。）"
+	},
+	{
+		"id": 121111,
+		"eng": "Stop beckoning invaders to your world",
+		"chn": "解除吸引入侵者的状态"
+	},
+	{
+		"id": 121112,
+		"eng": "Puts you into a ready state to answer, should\nsomeone in another world call for rescue.\nYou will be summoned to their world as a hunter.\n\nMultiplayer will begin once you are summoned.\n(Your objective will be to defeat invaders.)",
+		"chn": "收到来自其他世界的召唤请求时，\n能回应要求，作为狩猎入侵者的猎人接受召唤。\n\n受召唤到其他世界之后，\n将开始猎人多人联机游玩。\n（目标是打败入侵者。）"
+	},
+	{
+		"id": 121113,
+		"eng": "Stop accepting summons requests",
+		"chn": "撤回接受召唤的承诺"
+	},
+	{
+		"id": 121114,
+		"eng": "Allows you to automatically request for a hunter from another world to come to your rescue when your world is invaded.\n\nYou can also use this after being invaded to summon a hunter for help.\n(Summoning rescuers may not always be possible.)",
+		"chn": "被入侵者入侵时，\n能自动发出请求，召唤狩猎入侵者的猎人。\n也能在被入侵后再使用。\n\n（但在部分场合无法进行召唤。）"
+	},
+	{
+		"id": 121115,
+		"eng": "Cancel summons request",
+		"chn": "撤回召唤请求"
+	},
+	{
+		"id": 121116,
+		"eng": "Send a cooperative summon sign to several nearby summoning pools (activated pools only).\n\nIf you are summoned, you will be transported to that summoning pool's location in the host player's world and multiplayer will begin.\n(Your objective will be to help the host player defeat the area boss.)",
+		"chn": "能将协力多人联机游玩的召唤记号\n送往附近几个记号聚集处。\n（仅限已可使用的记号聚集处。）\n\n受召唤之后，会从记号聚集处\n开始协力多人联机游玩。\n（目标是打败区域头目。）"
+	},
+	{
+		"id": 121117,
+		"eng": "Remove co-op summon sign from summoning pool",
+		"chn": "抹除送往记号聚集处的协力记号"
+	},
+	{
+		"id": 121118,
+		"eng": "Send a competitive summon sign to several nearby summoning pools (activated pools only).\n\nIf you are summoned, you will be transported to that summoning pool's location in the host player's world and multiplayer will begin.\n(Your objective will be to defeat the Host of Fingers.)",
+		"chn": "能将敌对多人联机游玩的召唤记号\n送往附近几个记号聚集处。\n（仅限已可使用的记号聚集处。）\n\n受召唤之后，会从记号聚集处\n开始敌对多人联机游玩。\n（目标是打败“勾指主人”。）"
+	},
+	{
+		"id": 121119,
+		"eng": "Remove hostile summon sign from summoning pool",
+		"chn": "抹除送往记号聚集处的敌对记号"
+	},
+	{
+		"id": 121120,
+		"eng": "Attempt to invade another player's world as a Bloody Finger.\n\nIf you successfully invade, your Festering Bloody Finger will be spent and invasion multiplayer will begin. (Your objective will be to defeat the Host of Fingers.)\n\nYou can attempt another invasion of the same world by using a Phantom Finger item. (These items are consumed upon use.)",
+		"chn": "能作为“血指”入侵其他玩家的世界。\n\n入侵成功后会消耗“溃烂血指”，\n并前往其他世界，开始入侵多人联机游玩。\n（目标是打败“勾指主人”。）\n\n在入侵多人联机游玩，能消耗指幻影类道具，\n再次入侵曾经入侵过的世界。\n（指幻影类道具为消耗道具。）"
+	},
+	{
+		"id": 121121,
+		"eng": "Stop invading another world",
+		"chn": "放弃入侵其他世界"
+	},
+	{
+		"id": 121122,
+		"eng": "Attempt to invade another player's world as a recusant.\n\nIf you successfully invade, invasion multiplayer will begin. (Your objective will be to defeat the Host of Fingers.)\n\nYou can attempt another invasion of the same world by using a Phantom Finger item. (These items are consumed upon use.)",
+		"chn": "能作为“叛律者”入侵其他玩家的世界。\n\n入侵成功后，将前往其他世界，\n开始入侵多人联机游玩。\n（目标是打败“勾指主人”。）\n\n在入侵多人联机游玩，能消耗指幻影类道具，\n再次入侵曾经入侵过的世界。\n（指幻影类道具为消耗道具。）"
+	},
+	{
+		"id": 121123,
+		"eng": "Stop invading another world",
+		"chn": "放弃入侵其他世界"
+	},
+	{
+		"id": 122010,
+		"eng": "Furled Finger Rank",
+		"chn": "勾指排行榜"
+	},
+	{
+		"id": 122011,
+		"eng": "1.0",
+		"chn": "１"
+	},
+	{
+		"id": 122012,
+		"eng": "2.0",
+		"chn": "２"
+	},
+	{
+		"id": 122013,
+		"eng": "3.0",
+		"chn": "３"
+	},
+	{
+		"id": 122020,
+		"eng": "Duelist Rank",
+		"chn": "斗士排行榜"
+	},
+	{
+		"id": 122021,
+		"eng": "1.0",
+		"chn": "１"
+	},
+	{
+		"id": 122022,
+		"eng": "2.0",
+		"chn": "２"
+	},
+	{
+		"id": 122023,
+		"eng": "3.0",
+		"chn": "３"
+	},
+	{
+		"id": 122030,
+		"eng": "Bloody Finger Rank",
+		"chn": "血指排行榜"
+	},
+	{
+		"id": 122031,
+		"eng": "1.0",
+		"chn": "１"
+	},
+	{
+		"id": 122032,
+		"eng": "2.0",
+		"chn": "２"
+	},
+	{
+		"id": 122033,
+		"eng": "3.0",
+		"chn": "３"
+	},
+	{
+		"id": 122040,
+		"eng": "Recusant Rank",
+		"chn": "叛律者排行榜"
+	},
+	{
+		"id": 122041,
+		"eng": "1.0",
+		"chn": "１"
+	},
+	{
+		"id": 122042,
+		"eng": "2.0",
+		"chn": "２"
+	},
+	{
+		"id": 122043,
+		"eng": "3.0",
+		"chn": "３"
+	},
+	{
+		"id": 122050,
+		"eng": "Hunter Rank",
+		"chn": "猎人排行榜"
+	},
+	{
+		"id": 122051,
+		"eng": "1.0",
+		"chn": "１"
+	},
+	{
+		"id": 122052,
+		"eng": "2.0",
+		"chn": "２"
+	},
+	{
+		"id": 122053,
+		"eng": "3.0",
+		"chn": "３"
+	},
+	{
+		"id": 122110,
+		"eng": "Contribution",
+		"chn": "贡献度"
+	},
+	{
+		"id": 123000,
+		"eng": "Multiplayer Password",
+		"chn": "多人联机游玩暗号"
+	},
+	{
+		"id": 123001,
+		"eng": "Group Password",
+		"chn": "群组暗号"
+	},
+	{
+		"id": 123010,
+		"eng": "None set",
+		"chn": "无配置"
+	},
+	{
+		"id": 123011,
+		"eng": "None set",
+		"chn": "无配置"
+	},
+	{
+		"id": 123020,
+		"eng": "Please set multiplayer password",
+		"chn": "请输入多人联机游玩的暗号"
+	},
+	{
+		"id": 123021,
+		"eng": "Please set group password",
+		"chn": "请输入群组的暗号"
+	},
+	{
+		"id": 123030,
+		"eng": "Password",
+		"chn": "暗号"
+	},
+	{
+		"id": 212000,
+		"eng": "Level Up",
+		"chn": "升级"
+	},
+	{
+		"id": 212750,
+		"eng": "Rebirth",
+		"chn": "重新诞生"
+	},
+	{
+		"id": 213000,
+		"eng": "Blacksmith",
+		"chn": "铁匠"
+	},
+	{
+		"id": 213001,
+		"eng": "Required Items",
+		"chn": "强化材料"
+	},
+	{
+		"id": 213010,
+		"eng": "Smithing Table",
+		"chn": "锻造台"
+	},
+	{
+		"id": 214000,
+		"eng": "Ashes of War",
+		"chn": "战灰"
+	},
+	{
+		"id": 214020,
+		"eng": "To be Enhanced",
+		"chn": "赋予对象"
+	},
+	{
+		"id": 214030,
+		"eng": "Affinity Granted",
+		"chn": "赋予属性"
+	},
+	{
+		"id": 214110,
+		"eng": "Undo Enhancement",
+		"chn": "移除战灰"
+	},
+	{
+		"id": 215000,
+		"eng": "Great Runes",
+		"chn": "大卢恩"
+	},
+	{
+		"id": 216000,
+		"eng": "Spirit Tuning",
+		"chn": "调灵"
+	},
+	{
+		"id": 216001,
+		"eng": "Required Items",
+		"chn": "强化材料"
+	},
+	{
+		"id": 225000,
+		"eng": "Dragon Communion",
+		"chn": "龙飨"
+	},
+	{
+		"id": 225010,
+		"eng": "Offerings",
+		"chn": "供品"
+	},
+	{
+		"id": 225020,
+		"eng": "No. Required (No. Held)",
+		"chn": "所需数量（持有数）"
+	},
+	{
+		"id": 226000,
+		"eng": "Puppet",
+		"chn": "傀儡"
+	},
+	{
+		"id": 226010,
+		"eng": "Exchange",
+		"chn": "交换品"
+	},
+	{
+		"id": 227000,
+		"eng": "Ash of War Duplication",
+		"chn": "复制战灰"
+	},
+	{
+		"id": 227010,
+		"eng": "Consumable Material",
+		"chn": "消耗材料"
+	},
+	{
+		"id": 230000,
+		"eng": "Puppet",
+		"chn": "傀儡"
+	},
+	{
+		"id": 230100,
+		"eng": "Remembrance Duplication",
+		"chn": "复制追忆"
+	},
+	{
+		"id": 231000,
+		"eng": "Purchase Item",
+		"chn": "交易（购买）"
+	},
+	{
+		"id": 231001,
+		"eng": "Runes Required",
+		"chn": "所需卢恩"
+	},
+	{
+		"id": 231003,
+		"eng": "Limit",
+		"chn": "限定数量"
+	},
+	{
+		"id": 231010,
+		"eng": "Sorcery Instruction",
+		"chn": "学习魔法"
+	},
+	{
+		"id": 231020,
+		"eng": "Incantation Instruction",
+		"chn": "学习祷告"
+	},
+	{
+		"id": 231030,
+		"eng": "Skill Instruction",
+		"chn": "学习战技"
+	},
+	{
+		"id": 232000,
+		"eng": "Sell Item",
+		"chn": "交易（卖出）"
+	},
+	{
+		"id": 232001,
+		"eng": "Runes Offered",
+		"chn": "获得卢恩"
+	},
+	{
+		"id": 233000,
+		"eng": "Memorize Spells",
+		"chn": "记忆"
+	},
+	{
+		"id": 233101,
+		"eng": "Memory Slots",
+		"chn": "记忆空格"
+	},
+	{
+		"id": 233102,
+		"eng": "Empty Slots",
+		"chn": "可用空格"
+	},
+	{
+		"id": 233103,
+		"eng": "FP",
+		"chn": "专注值"
+	},
+	{
+		"id": 234020,
+		"eng": "----",
+		"chn": "----"
+	},
+	{
+		"id": 235000,
+		"eng": "Please allocate your flask uses",
+		"chn": "请分配圣杯瓶的使用次数"
+	},
+	{
+		"id": 236000,
+		"eng": "Item Crafting",
+		"chn": "制作道具"
+	},
+	{
+		"id": 236001,
+		"eng": "Required Items",
+		"chn": "所需材料"
+	},
+	{
+		"id": 236002,
+		"eng": "No. Required (No. Held)",
+		"chn": "所需数量（持有数）"
+	},
+	{
+		"id": 236003,
+		"eng": "Created Items",
+		"chn": "制作道具"
+	},
+	{
+		"id": 236200,
+		"eng": "Power of Remembrance",
+		"chn": "追忆力量"
+	},
+	{
+		"id": 236210,
+		"eng": "Usable Remembrances",
+		"chn": "可使用的追忆"
+	},
+	{
+		"id": 236211,
+		"eng": "Received Power",
+		"chn": "获得的力量"
+	},
+	{
+		"id": 236400,
+		"eng": "Alter Garments",
+		"chn": "修改服装"
+	},
+	{
+		"id": 236410,
+		"eng": "Before Alterations",
+		"chn": "修改前"
+	},
+	{
+		"id": 236411,
+		"eng": "After Alterations",
+		"chn": "修改后"
+	},
+	{
+		"id": 238000,
+		"eng": "Wondrous Physick Mix",
+		"chn": "调配灵药"
+	},
+	{
+		"id": 241000,
+		"eng": "Map",
+		"chn": "地图"
+	},
+	{
+		"id": 241100,
+		"eng": "Markers",
+		"chn": "标记"
+	},
+	{
+		"id": 241110,
+		"eng": "Remove All Markers",
+		"chn": "移除所有标记"
+	},
+	{
+		"id": 241200,
+		"eng": "Sites of Grace",
+		"chn": "赐福一览"
+	},
+	{
+		"id": 241210,
+		"eng": "Marked Sites of Grace",
+		"chn": "标记的赐福一览"
+	},
+	{
+		"id": 241300,
+		"eng": "Stormveil Castle",
+		"chn": "史东薇尔城"
+	},
+	{
+		"id": 241301,
+		"eng": "Chapel of Anticipation",
+		"chn": "候王礼拜堂"
+	},
+	{
+		"id": 241302,
+		"eng": "Leyndell, Royal Capital",
+		"chn": "王城罗德尔"
+	},
+	{
+		"id": 241303,
+		"eng": "Leyndell, Ashen Capital",
+		"chn": "灰城罗德尔"
+	},
+	{
+		"id": 241304,
+		"eng": "Roundtable Hold",
+		"chn": "圆桌厅堂"
+	},
+	{
+		"id": 241305,
+		"eng": "Ainsel River Main",
+		"chn": "安瑟尔河主流"
+	},
+	{
+		"id": 241306,
+		"eng": "Lake of Rot",
+		"chn": "腐败湖"
+	},
+	{
+		"id": 241307,
+		"eng": "Ainsel River",
+		"chn": "安瑟尔河"
+	},
+	{
+		"id": 241308,
+		"eng": "Nokron, Eternal City",
+		"chn": "“永恒之城”诺克隆恩"
+	},
+	{
+		"id": 241309,
+		"eng": "Siofra River",
+		"chn": "希芙拉河"
+	},
+	{
+		"id": 241310,
+		"eng": "Deeproot Depths",
+		"chn": "深根底层"
+	},
+	{
+		"id": 241311,
+		"eng": "Mohgwyn Palace",
+		"chn": "蒙格温王朝"
+	},
+	{
+		"id": 241312,
+		"eng": "Crumbling Farum Azula",
+		"chn": "逐渐崩毁的法姆·亚兹拉"
+	},
+	{
+		"id": 241313,
+		"eng": "Academy of Raya Lucaria",
+		"chn": "魔法学院雷亚卢卡利亚"
+	},
+	{
+		"id": 241314,
+		"eng": "Miquella's Haligtree",
+		"chn": "米凯拉的圣树"
+	},
+	{
+		"id": 241315,
+		"eng": "Elphael, Brace of the Haligtree",
+		"chn": "“圣树分枝”艾布雷菲尔"
+	},
+	{
+		"id": 241316,
+		"eng": "Volcano Manor",
+		"chn": "火山官邸"
+	},
+	{
+		"id": 241317,
+		"eng": "Stranded Graveyard",
+		"chn": "漂流墓地"
+	},
+	{
+		"id": 241318,
+		"eng": "Stone Platform",
+		"chn": "石舞台"
+	},
+	{
+		"id": 241319,
+		"eng": "Subterranean Shunning-Grounds",
+		"chn": "弃置恶兆的地底"
+	},
+	{
+		"id": 241320,
+		"eng": "Ruin-Strewn Precipice",
+		"chn": "古遗迹断崖"
+	},
+	{
+		"id": 241321,
+		"eng": "Limgrave",
+		"chn": "宁姆格福"
+	},
+	{
+		"id": 241322,
+		"eng": "Stormhill",
+		"chn": "风暴山丘"
+	},
+	{
+		"id": 241323,
+		"eng": "Weeping Peninsula",
+		"chn": "啜泣半岛"
+	},
+	{
+		"id": 241324,
+		"eng": "Liurnia of the Lakes",
+		"chn": "湖之利耶尼亚"
+	},
+	{
+		"id": 241325,
+		"eng": "Bellum Highway",
+		"chn": "彼鲁姆大道"
+	},
+	{
+		"id": 241326,
+		"eng": "Moonlight Altar",
+		"chn": "月光祭坛"
+	},
+	{
+		"id": 241327,
+		"eng": "Altus Plateau",
+		"chn": "亚坛高原"
+	},
+	{
+		"id": 241328,
+		"eng": "Mt. Gelmir",
+		"chn": "格密尔火山"
+	},
+	{
+		"id": 241329,
+		"eng": "Leyndell, Royal Capital",
+		"chn": "王城罗德尔"
+	},
+	{
+		"id": 241330,
+		"eng": "Forbidden Lands",
+		"chn": "禁域"
+	},
+	{
+		"id": 241331,
+		"eng": "Caelid",
+		"chn": "盖利德"
+	},
+	{
+		"id": 241332,
+		"eng": "Greyoll's Dragonbarrow",
+		"chn": "桂奥尔龙墓"
+	},
+	{
+		"id": 241333,
+		"eng": "Mountaintops of the Giants",
+		"chn": "巨人山顶"
+	},
+	{
+		"id": 241334,
+		"eng": "Flame Peak",
+		"chn": "火焰之巅"
+	},
+	{
+		"id": 241335,
+		"eng": "Consecrated Snowfield",
+		"chn": "化圣雪原"
+	},
+	{
+		"id": 241336,
+		"eng": "Swamp of Aeonia",
+		"chn": "艾奥尼亚沼泽"
+	},
+	{
+		"id": 241400,
+		"eng": "Roundtable Hold",
+		"chn": "圆桌厅堂"
+	},
+	{
+		"id": 241401,
+		"eng": "Stormveil Castle",
+		"chn": "史东薇尔城"
+	},
+	{
+		"id": 241402,
+		"eng": "Leyndell, Royal Capital",
+		"chn": "王城罗德尔"
+	},
+	{
+		"id": 241403,
+		"eng": "Crumbling Farum Azula",
+		"chn": "逐渐崩毁的法姆·亚兹拉"
+	},
+	{
+		"id": 241404,
+		"eng": "Academy of Raya Lucaria",
+		"chn": "魔法学院雷亚卢卡利亚"
+	},
+	{
+		"id": 241405,
+		"eng": "Miquella's Haligtree",
+		"chn": "米凯拉的圣树"
+	},
+	{
+		"id": 241406,
+		"eng": "Volcano Manor",
+		"chn": "火山官邸"
+	},
+	{
+		"id": 241407,
+		"eng": "Ainsel River",
+		"chn": "安瑟尔河"
+	},
+	{
+		"id": 241408,
+		"eng": "Siofra River",
+		"chn": "希芙拉河"
+	},
+	{
+		"id": 241409,
+		"eng": "Deeproot Depths",
+		"chn": "深根底层"
+	},
+	{
+		"id": 241410,
+		"eng": "Limgrave",
+		"chn": "宁姆格福"
+	},
+	{
+		"id": 241411,
+		"eng": "Liurnia of the Lakes",
+		"chn": "湖之利耶尼亚"
+	},
+	{
+		"id": 241412,
+		"eng": "Altus Plateau",
+		"chn": "亚坛高原"
+	},
+	{
+		"id": 241413,
+		"eng": "Caelid",
+		"chn": "盖利德"
+	},
+	{
+		"id": 241414,
+		"eng": "Mountaintops of the Giants",
+		"chn": "巨人山顶"
+	},
+	{
+		"id": 241415,
+		"eng": "Giants' Peak",
+		"chn": "巨人之巅"
+	},
+	{
+		"id": 241416,
+		"eng": "Consecrated Snowfield",
+		"chn": "化圣雪原"
+	},
+	{
+		"id": 251000,
+		"eng": "Sort Chest",
+		"chn": "整理木箱"
+	},
+	{
+		"id": 251001,
+		"eng": "Inventory",
+		"chn": "置物包"
+	},
+	{
+		"id": 251002,
+		"eng": "Chest",
+		"chn": "木箱"
+	},
+	{
+		"id": 280001,
+		"eng": "Key Bindings",
+		"chn": "按键配置"
+	},
+	{
+		"id": 280005,
+		"eng": "Keyboard",
+		"chn": "键盘"
+	},
+	{
+		"id": 280006,
+		"eng": "Mouse",
+		"chn": "鼠标"
+	},
+	{
+		"id": 280010,
+		"eng": "Move",
+		"chn": "移动"
+	},
+	{
+		"id": 280020,
+		"eng": "Camera Controls",
+		"chn": "操作镜头"
+	},
+	{
+		"id": 280030,
+		"eng": "Switch Armament",
+		"chn": "切换武器"
+	},
+	{
+		"id": 280040,
+		"eng": "Attack",
+		"chn": "攻击"
+	},
+	{
+		"id": 280099,
+		"eng": "No Key Binding",
+		"chn": "未配置"
+	},
+	{
+		"id": 280100,
+		"eng": "Movement Control",
+		"chn": "移动速度配置"
+	},
+	{
+		"id": 280101,
+		"eng": "Move Forwards",
+		"chn": "移动（向前）"
+	},
+	{
+		"id": 280102,
+		"eng": "Move Backwards",
+		"chn": "移动（向后）"
+	},
+	{
+		"id": 280103,
+		"eng": "Move Left",
+		"chn": "移动（向左）"
+	},
+	{
+		"id": 280104,
+		"eng": "Move Right",
+		"chn": "移动（向右）"
+	},
+	{
+		"id": 280105,
+		"eng": "Backstep, Dodge Roll, Dash",
+		"chn": "后跃、翻滚、冲刺"
+	},
+	{
+		"id": 280106,
+		"eng": "Jump",
+		"chn": "跳跃"
+	},
+	{
+		"id": 280107,
+		"eng": "Crouch / Stand Up",
+		"chn": "蹲下／站起"
+	},
+	{
+		"id": 280110,
+		"eng": "Movement",
+		"chn": "移动"
+	},
+	{
+		"id": 280199,
+		"eng": "Move Camera / Change Target",
+		"chn": "操作镜头、切换锁定目标"
+	},
+	{
+		"id": 280200,
+		"eng": "Move Camera / Change Target (Up)",
+		"chn": "操作镜头、切换锁定目标（向上）"
+	},
+	{
+		"id": 280201,
+		"eng": "Move Camera / Change Target (Down)",
+		"chn": "操作镜头、切换锁定目标（向下）"
+	},
+	{
+		"id": 280202,
+		"eng": "Move Camera / Change Target (Left)",
+		"chn": "操作镜头、切换锁定目标（向左）"
+	},
+	{
+		"id": 280203,
+		"eng": "Move Camera / Change Target (Right)",
+		"chn": "操作镜头、切换锁定目标（向右）"
+	},
+	{
+		"id": 280204,
+		"eng": "Reset Camera, Lock-On/Remove Target",
+		"chn": "重置镜头、锁定／解除锁定目标"
+	},
+	{
+		"id": 280300,
+		"eng": "Switch Item",
+		"chn": "切换道具"
+	},
+	{
+		"id": 280301,
+		"eng": "Switch Right-Hand Armament",
+		"chn": "切换右手武器"
+	},
+	{
+		"id": 280302,
+		"eng": "Switch Left-Hand Armament",
+		"chn": "切换左手武器"
+	},
+	{
+		"id": 280303,
+		"eng": "Switch Sorcery/Incantation",
+		"chn": "切换魔法／祷告"
+	},
+	{
+		"id": 280400,
+		"eng": "Attack (RH & Two-Handed Armament)",
+		"chn": "轻攻击（右手武器、双手共持武器）"
+	},
+	{
+		"id": 280401,
+		"eng": "Strong Attack (RH & 2H Armament)",
+		"chn": "重攻击（右手武器、双手共持武器）"
+	},
+	{
+		"id": 280402,
+		"eng": "Guard (LH Armament)",
+		"chn": "防御（左手武器）"
+	},
+	{
+		"id": 280403,
+		"eng": "Skill",
+		"chn": "战技"
+	},
+	{
+		"id": 280404,
+		"eng": "Event Action (Examine, Open, etc.)",
+		"chn": "触发剧情的行动（调查、开启等等）"
+	},
+	{
+		"id": 280405,
+		"eng": "Use Item",
+		"chn": "使用道具"
+	},
+	{
+		"id": 280406,
+		"eng": "Two-Hand Current Armament",
+		"chn": "双手共持武器"
+	},
+	{
+		"id": 280500,
+		"eng": "Main Menu",
+		"chn": "主选单"
+	},
+	{
+		"id": 280501,
+		"eng": "Map",
+		"chn": "地图"
+	},
+	{
+		"id": 288000,
+		"eng": "Character Selection",
+		"chn": "选择角色"
+	},
+	{
+		"id": 288001,
+		"eng": "Select Character Base",
+		"chn": "选择角色雏形"
+	},
+	{
+		"id": 288050,
+		"eng": "Knight",
+		"chn": "剑士"
+	},
+	{
+		"id": 288051,
+		"eng": "Enchanted Knight",
+		"chn": "魔法骑士"
+	},
+	{
+		"id": 288052,
+		"eng": "Prophet",
+		"chn": "预言家"
+	},
+	{
+		"id": 288053,
+		"eng": "Champion",
+		"chn": "勇者"
+	},
+	{
+		"id": 288054,
+		"eng": "Bloody Wolf",
+		"chn": "白狼战鬼"
+	},
+	{
+		"id": 288060,
+		"eng": "Knight",
+		"chn": "Knight"
+	},
+	{
+		"id": 288061,
+		"eng": "Enchanted Knight",
+		"chn": "Enchanted Knight"
+	},
+	{
+		"id": 288062,
+		"eng": "Prophet",
+		"chn": "Prophet"
+	},
+	{
+		"id": 288063,
+		"eng": "Champion",
+		"chn": "Champion"
+	},
+	{
+		"id": 288064,
+		"eng": "Bloody Wolf",
+		"chn": "Bloody Wolf"
+	},
+	{
+		"id": 288100,
+		"eng": "Vagabond",
+		"chn": "流浪骑士"
+	},
+	{
+		"id": 288101,
+		"eng": "Warrior",
+		"chn": "剑士"
+	},
+	{
+		"id": 288102,
+		"eng": "Hero",
+		"chn": "勇者"
+	},
+	{
+		"id": 288103,
+		"eng": "Bandit",
+		"chn": "盗贼"
+	},
+	{
+		"id": 288104,
+		"eng": "Astrologer",
+		"chn": "观星者"
+	},
+	{
+		"id": 288105,
+		"eng": "Prophet",
+		"chn": "预言家"
+	},
+	{
+		"id": 288106,
+		"eng": "Confessor",
+		"chn": "密使"
+	},
+	{
+		"id": 288107,
+		"eng": "Samurai",
+		"chn": "武士"
+	},
+	{
+		"id": 288108,
+		"eng": "Prisoner",
+		"chn": "囚犯"
+	},
+	{
+		"id": 288109,
+		"eng": "Wretch",
+		"chn": "一贫如洗"
+	},
+	{
+		"id": 288500,
+		"eng": "Please choose a body type",
+		"chn": "请选择体型"
+	},
+	{
+		"id": 288501,
+		"eng": "Type A",
+		"chn": "类型Ａ"
+	},
+	{
+		"id": 288502,
+		"eng": "Type B",
+		"chn": "类型Ｂ"
+	},
+	{
+		"id": 290000,
+		"eng": "Create Character",
+		"chn": "创建新角色"
+	},
+	{
+		"id": 290001,
+		"eng": "Cosmetics",
+		"chn": "化妆"
+	},
+	{
+		"id": 290002,
+		"eng": "Cosmetics",
+		"chn": "化妆"
+	},
+	{
+		"id": 290010,
+		"eng": " > ",
+		"chn": " > "
+	},
+	{
+		"id": 290990,
+		"eng": "Enter name",
+		"chn": "请输入名字"
+	},
+	{
+		"id": 291000,
+		"eng": "Name",
+		"chn": "名字"
+	},
+	{
+		"id": 291001,
+		"eng": "Body Type",
+		"chn": "体型"
+	},
+	{
+		"id": 291002,
+		"eng": "Age",
+		"chn": "年龄段"
+	},
+	{
+		"id": 291003,
+		"eng": "Voice",
+		"chn": "声音"
+	},
+	{
+		"id": 291010,
+		"eng": "Origin",
+		"chn": "出身"
+	},
+	{
+		"id": 291011,
+		"eng": "Keepsake",
+		"chn": "遗物"
+	},
+	{
+		"id": 291020,
+		"eng": "Choose Base Template",
+		"chn": "外貌"
+	},
+	{
+		"id": 291021,
+		"eng": "Alter Face & Hair",
+		"chn": "脸部／头发"
+	},
+	{
+		"id": 291022,
+		"eng": "Alter Body",
+		"chn": "身体"
+	},
+	{
+		"id": 291023,
+		"eng": "Alter Skin Color",
+		"chn": "肤色"
+	},
+	{
+		"id": 291025,
+		"eng": "Detailed Appearance",
+		"chn": "外貌细节"
+	},
+	{
+		"id": 291030,
+		"eng": "Save to Favorites",
+		"chn": "保存外貌配置"
+	},
+	{
+		"id": 291031,
+		"eng": "Load Favorite",
+		"chn": "读取外貌配置"
+	},
+	{
+		"id": 291050,
+		"eng": "Finish",
+		"chn": "创建完成"
+	},
+	{
+		"id": 291051,
+		"eng": "Finish Cosmetics",
+		"chn": "结束化妆"
+	},
+	{
+		"id": 291052,
+		"eng": "Finish Cosmetics",
+		"chn": "结束化妆"
+	},
+	{
+		"id": 292000,
+		"eng": "Adjust Face Template",
+		"chn": "调整基础脸型"
+	},
+	{
+		"id": 292001,
+		"eng": "Face Structure",
+		"chn": "各部位的轮廓"
+	},
+	{
+		"id": 292010,
+		"eng": "Hair",
+		"chn": "头发"
+	},
+	{
+		"id": 292011,
+		"eng": "Eyebrows",
+		"chn": "眉毛"
+	},
+	{
+		"id": 292012,
+		"eng": "Facial Hair",
+		"chn": "胡子"
+	},
+	{
+		"id": 292013,
+		"eng": "Eyelashes",
+		"chn": "睫毛"
+	},
+	{
+		"id": 292020,
+		"eng": "Eyes",
+		"chn": "眼睛"
+	},
+	{
+		"id": 292025,
+		"eng": "Skin Features",
+		"chn": "皮肤特色"
+	},
+	{
+		"id": 292030,
+		"eng": "Cosmetics",
+		"chn": "化妆"
+	},
+	{
+		"id": 292040,
+		"eng": "Tattoo/Mark/Eyepatch",
+		"chn": "刺青／痣／眼罩"
+	},
+	{
+		"id": 292050,
+		"eng": "Similar Face",
+		"chn": "相似的脸"
+	},
+	{
+		"id": 292060,
+		"eng": "Head",
+		"chn": "头部"
+	},
+	{
+		"id": 292061,
+		"eng": "Chest",
+		"chn": "胸部"
+	},
+	{
+		"id": 292062,
+		"eng": "Abdomen",
+		"chn": "腹部"
+	},
+	{
+		"id": 292063,
+		"eng": "Arms",
+		"chn": "腕部"
+	},
+	{
+		"id": 292064,
+		"eng": "Legs",
+		"chn": "腿部"
+	},
+	{
+		"id": 292070,
+		"eng": "Body Hair",
+		"chn": "体毛量"
+	},
+	{
+		"id": 292071,
+		"eng": "Body Hair Color",
+		"chn": "体毛颜色"
+	},
+	{
+		"id": 292072,
+		"eng": "Musculature",
+		"chn": "肌肉量"
+	},
+	{
+		"id": 292080,
+		"eng": "Burn Marks",
+		"chn": "烫伤伤痕显示配置"
+	},
+	{
+		"id": 293000,
+		"eng": "Bone Structure",
+		"chn": "骨胳形状"
+	},
+	{
+		"id": 293001,
+		"eng": "Form Emphasis",
+		"chn": "轮廓深度"
+	},
+	{
+		"id": 293002,
+		"eng": "Apparent Age",
+		"chn": "年龄印象"
+	},
+	{
+		"id": 293003,
+		"eng": "Facial Aesthetic",
+		"chn": "外貌印象"
+	},
+	{
+		"id": 293010,
+		"eng": "Facial Balance",
+		"chn": "脸部平衡"
+	},
+	{
+		"id": 293011,
+		"eng": "Forehead/Glabella",
+		"chn": "额头／眉心"
+	},
+	{
+		"id": 293012,
+		"eng": "Brow Ridge",
+		"chn": "眉骨"
+	},
+	{
+		"id": 293013,
+		"eng": "Eyes",
+		"chn": "眼睛"
+	},
+	{
+		"id": 293014,
+		"eng": "Nose Ridge",
+		"chn": "鼻梁"
+	},
+	{
+		"id": 293015,
+		"eng": "Nostrils",
+		"chn": "鼻翼"
+	},
+	{
+		"id": 293016,
+		"eng": "Cheeks",
+		"chn": "脸颊"
+	},
+	{
+		"id": 293017,
+		"eng": "Lips",
+		"chn": "嘴唇"
+	},
+	{
+		"id": 293018,
+		"eng": "Mouth",
+		"chn": "嘴巴"
+	},
+	{
+		"id": 293019,
+		"eng": "Chin",
+		"chn": "下巴"
+	},
+	{
+		"id": 293020,
+		"eng": "Jaw",
+		"chn": "下颚"
+	},
+	{
+		"id": 293100,
+		"eng": "Hair",
+		"chn": "头发"
+	},
+	{
+		"id": 293101,
+		"eng": "Hair Color",
+		"chn": "发色"
+	},
+	{
+		"id": 293102,
+		"eng": "Luster",
+		"chn": "头发光泽"
+	},
+	{
+		"id": 293103,
+		"eng": "Root Darkness",
+		"chn": "发根漆黑度"
+	},
+	{
+		"id": 293104,
+		"eng": "White Hairs",
+		"chn": "白发多寡"
+	},
+	{
+		"id": 293110,
+		"eng": "Brow",
+		"chn": "眉毛"
+	},
+	{
+		"id": 293111,
+		"eng": "Brow Color",
+		"chn": "眉色"
+	},
+	{
+		"id": 293112,
+		"eng": "Luster",
+		"chn": "眉毛光泽"
+	},
+	{
+		"id": 293113,
+		"eng": "Root Darkness",
+		"chn": "眉毛根部漆黑度"
+	},
+	{
+		"id": 293114,
+		"eng": "White Hairs",
+		"chn": "白眉多寡"
+	},
+	{
+		"id": 293120,
+		"eng": "Beard",
+		"chn": "胡子"
+	},
+	{
+		"id": 293121,
+		"eng": "Beard Color",
+		"chn": "胡子颜色"
+	},
+	{
+		"id": 293122,
+		"eng": "Luster",
+		"chn": "胡子光泽"
+	},
+	{
+		"id": 293123,
+		"eng": "Root Darkness",
+		"chn": "胡子根部漆黑度"
+	},
+	{
+		"id": 293124,
+		"eng": "White Hairs",
+		"chn": "白胡多寡"
+	},
+	{
+		"id": 293125,
+		"eng": "Stubble",
+		"chn": "胡渣"
+	},
+	{
+		"id": 293130,
+		"eng": "Eyelashes",
+		"chn": "睫毛"
+	},
+	{
+		"id": 293131,
+		"eng": "Eyelash Color",
+		"chn": "睫毛颜色"
+	},
+	{
+		"id": 293140,
+		"eng": "Right Iris Size",
+		"chn": "右眼虹膜大小"
+	},
+	{
+		"id": 293141,
+		"eng": "Right Iris Color",
+		"chn": "右眼虹膜颜色"
+	},
+	{
+		"id": 293142,
+		"eng": "R Eye Clouding",
+		"chn": "右眼水晶体混浊度"
+	},
+	{
+		"id": 293143,
+		"eng": "R Clouding Color",
+		"chn": "右眼水晶体混浊部颜色"
+	},
+	{
+		"id": 293144,
+		"eng": "R Eye White Color",
+		"chn": "右眼白颜色"
+	},
+	{
+		"id": 293145,
+		"eng": "R Eye Position",
+		"chn": "右眼虹膜位置"
+	},
+	{
+		"id": 293150,
+		"eng": "Left Iris Size",
+		"chn": "左眼虹膜大小"
+	},
+	{
+		"id": 293151,
+		"eng": "Left Iris Color",
+		"chn": "左眼虹膜颜色"
+	},
+	{
+		"id": 293152,
+		"eng": "L Eye Clouding",
+		"chn": "左眼水晶体混浊度"
+	},
+	{
+		"id": 293153,
+		"eng": "L Clouding Color",
+		"chn": "左眼水晶体混浊部颜色"
+	},
+	{
+		"id": 293154,
+		"eng": "L Eye White Color",
+		"chn": "左眼白颜色"
+	},
+	{
+		"id": 293155,
+		"eng": "L Eye Position",
+		"chn": "左眼虹膜位置"
+	},
+	{
+		"id": 293156,
+		"eng": "Eye Alteration",
+		"chn": "眼睛变化配置"
+	},
+	{
+		"id": 293160,
+		"eng": "Pores",
+		"chn": "毛孔"
+	},
+	{
+		"id": 293161,
+		"eng": "Skin Luster",
+		"chn": "皮肤光泽"
+	},
+	{
+		"id": 293162,
+		"eng": "Dark Circles",
+		"chn": "眼窝"
+	},
+	{
+		"id": 293163,
+		"eng": "Dark Circle Color",
+		"chn": "眼窝颜色"
+	},
+	{
+		"id": 293164,
+		"eng": "Cheeks",
+		"chn": "腮红"
+	},
+	{
+		"id": 293165,
+		"eng": "Cheek Color",
+		"chn": "腮红颜色"
+	},
+	{
+		"id": 293166,
+		"eng": "Eyeliner",
+		"chn": "眼线"
+	},
+	{
+		"id": 293167,
+		"eng": "Eyeliner Color",
+		"chn": "眼线颜色"
+	},
+	{
+		"id": 293168,
+		"eng": "Eyeshadow (Upper)",
+		"chn": "眼影（上）"
+	},
+	{
+		"id": 293169,
+		"eng": "Eyeshadow Color (Upper)",
+		"chn": "眼影颜色（上）"
+	},
+	{
+		"id": 293170,
+		"eng": "Eyeshadow (Lower)",
+		"chn": "眼影（下）"
+	},
+	{
+		"id": 293171,
+		"eng": "Eyeshadow Color (Lower)",
+		"chn": "眼影颜色（下）"
+	},
+	{
+		"id": 293172,
+		"eng": "Lipstick",
+		"chn": "口红"
+	},
+	{
+		"id": 293173,
+		"eng": "Lipstick Color",
+		"chn": "口红颜色"
+	},
+	{
+		"id": 293180,
+		"eng": "Tattoo/Mark",
+		"chn": "刺青／痣"
+	},
+	{
+		"id": 293181,
+		"eng": "Tattoo/Mark Color",
+		"chn": "刺青／痣颜色"
+	},
+	{
+		"id": 293182,
+		"eng": "Tweak Tattoo/Mark",
+		"chn": "刺青／痣细节"
+	},
+	{
+		"id": 293190,
+		"eng": "Eyepatch",
+		"chn": "眼罩"
+	},
+	{
+		"id": 293191,
+		"eng": "Eyepatch Color",
+		"chn": "眼罩颜色"
+	},
+	{
+		"id": 294050,
+		"eng": "Nose Size",
+		"chn": "鼻子所占比例"
+	},
+	{
+		"id": 294051,
+		"eng": "Nose/Forehead Ratio",
+		"chn": "鼻子与额头的比例"
+	},
+	{
+		"id": 294052,
+		"eng": "Face Protrusion",
+		"chn": "脸的凹凸"
+	},
+	{
+		"id": 294053,
+		"eng": "Vert. Face Ratio",
+		"chn": "脸部五官上下间隔"
+	},
+	{
+		"id": 294054,
+		"eng": "Facial Feature Slant",
+		"chn": "脸部五官倾斜度"
+	},
+	{
+		"id": 294055,
+		"eng": "Horiz. Face Ratio",
+		"chn": "脸部五官左右间隔"
+	},
+	{
+		"id": 294060,
+		"eng": "Forehead Depth",
+		"chn": "额头高度"
+	},
+	{
+		"id": 294061,
+		"eng": "Forehead Protrusion",
+		"chn": "额头的凹凸"
+	},
+	{
+		"id": 294062,
+		"eng": "Nose Bridge Height",
+		"chn": "鼻梁上端高度"
+	},
+	{
+		"id": 294063,
+		"eng": "Bridge Protrusion 1",
+		"chn": "鼻梁上端凹凸１"
+	},
+	{
+		"id": 294064,
+		"eng": "Bridge Protrusion 2",
+		"chn": "鼻梁上端凹凸２"
+	},
+	{
+		"id": 294065,
+		"eng": "Nose Bridge Width",
+		"chn": "鼻梁上端宽度"
+	},
+	{
+		"id": 294070,
+		"eng": "Brow Ridge Height",
+		"chn": "眉骨高度"
+	},
+	{
+		"id": 294071,
+		"eng": "Inner Brow Ridge",
+		"chn": "眉骨内侧高度"
+	},
+	{
+		"id": 294072,
+		"eng": "Outer Brow Ridge",
+		"chn": "眉骨外侧高度"
+	},
+	{
+		"id": 294080,
+		"eng": "Eye Position",
+		"chn": "眼睛位置"
+	},
+	{
+		"id": 294081,
+		"eng": "Eye Size",
+		"chn": "眼睛大小"
+	},
+	{
+		"id": 294082,
+		"eng": "Eye Slant",
+		"chn": "眼睛倾斜度"
+	},
+	{
+		"id": 294083,
+		"eng": "Eye Spacing",
+		"chn": "双眼间隔"
+	},
+	{
+		"id": 294090,
+		"eng": "Nose Ridge Depth",
+		"chn": "鼻梁深度"
+	},
+	{
+		"id": 294091,
+		"eng": "Nose Ridge Length",
+		"chn": "鼻梁长度"
+	},
+	{
+		"id": 294092,
+		"eng": "Nose Position",
+		"chn": "鼻子位置"
+	},
+	{
+		"id": 294093,
+		"eng": "Nose Tip Height",
+		"chn": "鼻尖高度"
+	},
+	{
+		"id": 294094,
+		"eng": "Nose Protrusion",
+		"chn": "鼻的凹凸"
+	},
+	{
+		"id": 294095,
+		"eng": "Nose Height",
+		"chn": "鼻子高度"
+	},
+	{
+		"id": 294096,
+		"eng": "Nose Slant",
+		"chn": "鼻子倾斜度"
+	},
+	{
+		"id": 294100,
+		"eng": "Nostril Slant",
+		"chn": "鼻翼倾斜度"
+	},
+	{
+		"id": 294101,
+		"eng": "Nostril Size",
+		"chn": "鼻翼大小"
+	},
+	{
+		"id": 294102,
+		"eng": "Nostril Width",
+		"chn": "鼻翼宽度"
+	},
+	{
+		"id": 294110,
+		"eng": "Cheekbone Height",
+		"chn": "颧骨高度"
+	},
+	{
+		"id": 294111,
+		"eng": "Cheekbone Depth",
+		"chn": "颧骨深度"
+	},
+	{
+		"id": 294112,
+		"eng": "Cheekbone Width",
+		"chn": "颧骨宽度"
+	},
+	{
+		"id": 294113,
+		"eng": "Cheekbone Protrusion",
+		"chn": "脸颊凹凸"
+	},
+	{
+		"id": 294114,
+		"eng": "Cheeks",
+		"chn": "脸颊"
+	},
+	{
+		"id": 294120,
+		"eng": "Lip Shape",
+		"chn": "唇形"
+	},
+	{
+		"id": 294121,
+		"eng": "Mouth Expression",
+		"chn": "嘴部表情"
+	},
+	{
+		"id": 294122,
+		"eng": "Lip Fullness",
+		"chn": "嘴唇丰厚度"
+	},
+	{
+		"id": 294123,
+		"eng": "Lip Size",
+		"chn": "嘴唇大小"
+	},
+	{
+		"id": 294124,
+		"eng": "Lip Protrusion",
+		"chn": "嘴唇凹凸"
+	},
+	{
+		"id": 294125,
+		"eng": "Lip Thickness",
+		"chn": "嘴唇厚度"
+	},
+	{
+		"id": 294130,
+		"eng": "Mouth Protrusion",
+		"chn": "嘴巴凹凸"
+	},
+	{
+		"id": 294131,
+		"eng": "Mouth Slant",
+		"chn": "嘴形倾斜度"
+	},
+	{
+		"id": 294132,
+		"eng": "Occlusion",
+		"chn": "咬合位置"
+	},
+	{
+		"id": 294133,
+		"eng": "Mouth Position",
+		"chn": "嘴部位置"
+	},
+	{
+		"id": 294134,
+		"eng": "Mouth Width",
+		"chn": "嘴部宽度"
+	},
+	{
+		"id": 294135,
+		"eng": "Mouth-Chin Distance",
+		"chn": "嘴部到下巴的距离"
+	},
+	{
+		"id": 294140,
+		"eng": "Chin Tip Position",
+		"chn": "下巴位置"
+	},
+	{
+		"id": 294141,
+		"eng": "Chin Length",
+		"chn": "下巴长度"
+	},
+	{
+		"id": 294142,
+		"eng": "Chin Protrusion",
+		"chn": "下巴突出度"
+	},
+	{
+		"id": 294143,
+		"eng": "Chin Depth",
+		"chn": "下巴深度"
+	},
+	{
+		"id": 294144,
+		"eng": "Chin Size",
+		"chn": "下巴大小"
+	},
+	{
+		"id": 294145,
+		"eng": "Chin Height",
+		"chn": "下巴高度"
+	},
+	{
+		"id": 294146,
+		"eng": "Chin Width",
+		"chn": "下巴宽度"
+	},
+	{
+		"id": 294150,
+		"eng": "Jaw Protrusion",
+		"chn": "下颚突出度"
+	},
+	{
+		"id": 294151,
+		"eng": "Jaw Width",
+		"chn": "下颚宽度"
+	},
+	{
+		"id": 294152,
+		"eng": "Lower Jaw",
+		"chn": "下颚下侧"
+	},
+	{
+		"id": 294153,
+		"eng": "Jaw Contour",
+		"chn": "下颚轮廓"
+	},
+	{
+		"id": 294160,
+		"eng": "Position (Vert.)",
+		"chn": "位置　上下"
+	},
+	{
+		"id": 294161,
+		"eng": "Position (Horiz.)",
+		"chn": "位置　左右"
+	},
+	{
+		"id": 294162,
+		"eng": "Angle",
+		"chn": "角度"
+	},
+	{
+		"id": 294163,
+		"eng": "Expansion",
+		"chn": "扩展度"
+	},
+	{
+		"id": 294164,
+		"eng": "Flip",
+		"chn": "翻转"
+	},
+	{
+		"id": 296009,
+		"eng": "Change Value",
+		"chn": "更动数值"
+	},
+	{
+		"id": 296010,
+		"eng": "Match Right Eye",
+		"chn": "套用右眼虹膜配置"
+	},
+	{
+		"id": 296011,
+		"eng": "Match Left Eye",
+		"chn": "套用左眼虹膜配置"
+	},
+	{
+		"id": 296100,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296101,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296102,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296103,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296104,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296105,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296106,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296107,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296108,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296109,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296110,
+		"eng": "Sparse",
+		"chn": "稀疏"
+	},
+	{
+		"id": 296111,
+		"eng": "Abundant",
+		"chn": "浓密"
+	},
+	{
+		"id": 296112,
+		"eng": "Weak",
+		"chn": "浅"
+	},
+	{
+		"id": 296113,
+		"eng": "Strong",
+		"chn": "深"
+	},
+	{
+		"id": 296114,
+		"eng": "Young",
+		"chn": "年轻"
+	},
+	{
+		"id": 296115,
+		"eng": "Aged",
+		"chn": "年迈"
+	},
+	{
+		"id": 296116,
+		"eng": "Masculine",
+		"chn": "锐利"
+	},
+	{
+		"id": 296117,
+		"eng": "Feminine",
+		"chn": "柔和"
+	},
+	{
+		"id": 296118,
+		"eng": "Gentle",
+		"chn": "暗"
+	},
+	{
+		"id": 296119,
+		"eng": "Strong",
+		"chn": "亮"
+	},
+	{
+		"id": 296120,
+		"eng": "Light",
+		"chn": "浅"
+	},
+	{
+		"id": 296121,
+		"eng": "Dark",
+		"chn": "深"
+	},
+	{
+		"id": 296122,
+		"eng": "Sparse",
+		"chn": "少"
+	},
+	{
+		"id": 296123,
+		"eng": "Abundant",
+		"chn": "多"
+	},
+	{
+		"id": 296124,
+		"eng": "Gentle",
+		"chn": "暗"
+	},
+	{
+		"id": 296125,
+		"eng": "Strong",
+		"chn": "亮"
+	},
+	{
+		"id": 296126,
+		"eng": "Light",
+		"chn": "浅"
+	},
+	{
+		"id": 296127,
+		"eng": "Dark",
+		"chn": "深"
+	},
+	{
+		"id": 296128,
+		"eng": "Sparse",
+		"chn": "少"
+	},
+	{
+		"id": 296129,
+		"eng": "Abundant",
+		"chn": "多"
+	},
+	{
+		"id": 296130,
+		"eng": "Gentle",
+		"chn": "暗"
+	},
+	{
+		"id": 296131,
+		"eng": "Strong",
+		"chn": "亮"
+	},
+	{
+		"id": 296132,
+		"eng": "Light",
+		"chn": "浅"
+	},
+	{
+		"id": 296133,
+		"eng": "Dark",
+		"chn": "深"
+	},
+	{
+		"id": 296134,
+		"eng": "Sparse",
+		"chn": "少"
+	},
+	{
+		"id": 296135,
+		"eng": "Abundant",
+		"chn": "多"
+	},
+	{
+		"id": 296136,
+		"eng": "Thin",
+		"chn": "稀疏"
+	},
+	{
+		"id": 296137,
+		"eng": "Thick",
+		"chn": "浓密"
+	},
+	{
+		"id": 296138,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296139,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296140,
+		"eng": "Clear",
+		"chn": "低"
+	},
+	{
+		"id": 296141,
+		"eng": "Opaque",
+		"chn": "高"
+	},
+	{
+		"id": 296142,
+		"eng": "Close",
+		"chn": "近"
+	},
+	{
+		"id": 296143,
+		"eng": "Far",
+		"chn": "远"
+	},
+	{
+		"id": 296144,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296145,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296146,
+		"eng": "Clear",
+		"chn": "低"
+	},
+	{
+		"id": 296147,
+		"eng": "Opaque",
+		"chn": "高"
+	},
+	{
+		"id": 296148,
+		"eng": "Close",
+		"chn": "近"
+	},
+	{
+		"id": 296149,
+		"eng": "Far",
+		"chn": "远"
+	},
+	{
+		"id": 296150,
+		"eng": "Closed",
+		"chn": "紧致"
+	},
+	{
+		"id": 296151,
+		"eng": "Open",
+		"chn": "粗大"
+	},
+	{
+		"id": 296152,
+		"eng": "Plain",
+		"chn": "无"
+	},
+	{
+		"id": 296153,
+		"eng": "Lustrous",
+		"chn": "有"
+	},
+	{
+		"id": 296154,
+		"eng": "Light",
+		"chn": "淡"
+	},
+	{
+		"id": 296155,
+		"eng": "Dark",
+		"chn": "浓"
+	},
+	{
+		"id": 296156,
+		"eng": "Light",
+		"chn": "淡"
+	},
+	{
+		"id": 296157,
+		"eng": "Dark",
+		"chn": "浓"
+	},
+	{
+		"id": 296158,
+		"eng": "Light",
+		"chn": "淡"
+	},
+	{
+		"id": 296159,
+		"eng": "Dark",
+		"chn": "浓"
+	},
+	{
+		"id": 296160,
+		"eng": "Light",
+		"chn": "淡"
+	},
+	{
+		"id": 296161,
+		"eng": "Dark",
+		"chn": "浓"
+	},
+	{
+		"id": 296162,
+		"eng": "Light",
+		"chn": "淡"
+	},
+	{
+		"id": 296163,
+		"eng": "Dark",
+		"chn": "浓"
+	},
+	{
+		"id": 296164,
+		"eng": "Subtle",
+		"chn": "淡"
+	},
+	{
+		"id": 296165,
+		"eng": "Vibrant",
+		"chn": "浓"
+	},
+	{
+		"id": 296166,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296167,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296168,
+		"eng": "Nose",
+		"chn": "鼻子"
+	},
+	{
+		"id": 296169,
+		"eng": "Forehead",
+		"chn": "额头"
+	},
+	{
+		"id": 296170,
+		"eng": "Concave",
+		"chn": "凹"
+	},
+	{
+		"id": 296171,
+		"eng": "Convex",
+		"chn": "凸"
+	},
+	{
+		"id": 296172,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296173,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296174,
+		"eng": "Down",
+		"chn": "下"
+	},
+	{
+		"id": 296175,
+		"eng": "Up",
+		"chn": "上"
+	},
+	{
+		"id": 296176,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296177,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296178,
+		"eng": "Slight",
+		"chn": "浅"
+	},
+	{
+		"id": 296179,
+		"eng": "Deep",
+		"chn": "深"
+	},
+	{
+		"id": 296180,
+		"eng": "Concave",
+		"chn": "凹"
+	},
+	{
+		"id": 296181,
+		"eng": "Convex",
+		"chn": "凸"
+	},
+	{
+		"id": 296182,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 296183,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 296184,
+		"eng": "Concave",
+		"chn": "凹"
+	},
+	{
+		"id": 296185,
+		"eng": "Convex",
+		"chn": "凸"
+	},
+	{
+		"id": 296186,
+		"eng": "Concave",
+		"chn": "凹"
+	},
+	{
+		"id": 296187,
+		"eng": "Convex",
+		"chn": "凸"
+	},
+	{
+		"id": 296188,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296189,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296190,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 296191,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 296192,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 296193,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 296194,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 296195,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 296196,
+		"eng": "Down",
+		"chn": "下"
+	},
+	{
+		"id": 296197,
+		"eng": "Up",
+		"chn": "上"
+	},
+	{
+		"id": 296198,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296199,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296200,
+		"eng": "In",
+		"chn": "向内"
+	},
+	{
+		"id": 296201,
+		"eng": "Out",
+		"chn": "向外"
+	},
+	{
+		"id": 296202,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296203,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296204,
+		"eng": "Slight",
+		"chn": "浅"
+	},
+	{
+		"id": 296205,
+		"eng": "Deep",
+		"chn": "深"
+	},
+	{
+		"id": 296206,
+		"eng": "Short",
+		"chn": "短"
+	},
+	{
+		"id": 296207,
+		"eng": "Long",
+		"chn": "长"
+	},
+	{
+		"id": 296208,
+		"eng": "Down",
+		"chn": "下"
+	},
+	{
+		"id": 296209,
+		"eng": "Up",
+		"chn": "上"
+	},
+	{
+		"id": 296210,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 296211,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 296212,
+		"eng": "Concave",
+		"chn": "凹"
+	},
+	{
+		"id": 296213,
+		"eng": "Convex",
+		"chn": "凸"
+	},
+	{
+		"id": 296214,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 296215,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 296216,
+		"eng": "Down",
+		"chn": "下"
+	},
+	{
+		"id": 296217,
+		"eng": "Up",
+		"chn": "上"
+	},
+	{
+		"id": 296218,
+		"eng": "Down",
+		"chn": "下"
+	},
+	{
+		"id": 296219,
+		"eng": "Up",
+		"chn": "上"
+	},
+	{
+		"id": 296220,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296221,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296222,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296223,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296224,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296225,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296226,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 296227,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 296228,
+		"eng": "Slight",
+		"chn": "浅"
+	},
+	{
+		"id": 296229,
+		"eng": "Deep",
+		"chn": "深"
+	},
+	{
+		"id": 296230,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296231,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296232,
+		"eng": "Concave",
+		"chn": "凹"
+	},
+	{
+		"id": 296233,
+		"eng": "Convex",
+		"chn": "凸"
+	},
+	{
+		"id": 296234,
+		"eng": "Thin",
+		"chn": "干瘦"
+	},
+	{
+		"id": 296235,
+		"eng": "Thick",
+		"chn": "丰满"
+	},
+	{
+		"id": 296236,
+		"eng": "Purse",
+		"chn": "收拢"
+	},
+	{
+		"id": 296237,
+		"eng": "Open",
+		"chn": "拉宽"
+	},
+	{
+		"id": 296238,
+		"eng": "Sad",
+		"chn": "悲"
+	},
+	{
+		"id": 296239,
+		"eng": "Happy",
+		"chn": "喜"
+	},
+	{
+		"id": 296240,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296241,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296242,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296243,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296244,
+		"eng": "Concave",
+		"chn": "凹"
+	},
+	{
+		"id": 296245,
+		"eng": "Convex",
+		"chn": "凸"
+	},
+	{
+		"id": 296246,
+		"eng": "Thin",
+		"chn": "薄"
+	},
+	{
+		"id": 296247,
+		"eng": "Thick",
+		"chn": "厚"
+	},
+	{
+		"id": 296248,
+		"eng": "Concave",
+		"chn": "凹"
+	},
+	{
+		"id": 296249,
+		"eng": "Convex",
+		"chn": "凸"
+	},
+	{
+		"id": 296250,
+		"eng": "Down",
+		"chn": "下"
+	},
+	{
+		"id": 296251,
+		"eng": "Up",
+		"chn": "上"
+	},
+	{
+		"id": 296252,
+		"eng": "Down",
+		"chn": "下"
+	},
+	{
+		"id": 296253,
+		"eng": "Up",
+		"chn": "上"
+	},
+	{
+		"id": 296254,
+		"eng": "Down",
+		"chn": "下"
+	},
+	{
+		"id": 296255,
+		"eng": "Up",
+		"chn": "上"
+	},
+	{
+		"id": 296256,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296257,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296258,
+		"eng": "Short",
+		"chn": "短"
+	},
+	{
+		"id": 296259,
+		"eng": "Long",
+		"chn": "长"
+	},
+	{
+		"id": 296260,
+		"eng": "Front",
+		"chn": "往前"
+	},
+	{
+		"id": 296261,
+		"eng": "Back",
+		"chn": "往后"
+	},
+	{
+		"id": 296262,
+		"eng": "Short",
+		"chn": "短"
+	},
+	{
+		"id": 296263,
+		"eng": "Long",
+		"chn": "长"
+	},
+	{
+		"id": 296264,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296265,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296266,
+		"eng": "Slight",
+		"chn": "浅"
+	},
+	{
+		"id": 296267,
+		"eng": "Deep",
+		"chn": "深"
+	},
+	{
+		"id": 296268,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296269,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296270,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 296271,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 296272,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296273,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296274,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296275,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 296276,
+		"eng": "Narrow",
+		"chn": "窄"
+	},
+	{
+		"id": 296277,
+		"eng": "Wide",
+		"chn": "宽"
+	},
+	{
+		"id": 296278,
+		"eng": "Low",
+		"chn": "低"
+	},
+	{
+		"id": 296279,
+		"eng": "High",
+		"chn": "高"
+	},
+	{
+		"id": 296280,
+		"eng": "Thin",
+		"chn": "纤细"
+	},
+	{
+		"id": 296281,
+		"eng": "Thick",
+		"chn": "丰满"
+	},
+	{
+		"id": 296282,
+		"eng": "Down",
+		"chn": "下"
+	},
+	{
+		"id": 296283,
+		"eng": "Up",
+		"chn": "上"
+	},
+	{
+		"id": 296284,
+		"eng": "Left",
+		"chn": "左"
+	},
+	{
+		"id": 296285,
+		"eng": "Right",
+		"chn": "右"
+	},
+	{
+		"id": 296286,
+		"eng": "Rotate Left",
+		"chn": "左转"
+	},
+	{
+		"id": 296287,
+		"eng": "Rotate Right",
+		"chn": "右转"
+	},
+	{
+		"id": 296288,
+		"eng": "Small",
+		"chn": "小"
+	},
+	{
+		"id": 296289,
+		"eng": "Large",
+		"chn": "大"
+	},
+	{
+		"id": 297100,
+		"eng": "Type A",
+		"chn": "类型Ａ"
+	},
+	{
+		"id": 297101,
+		"eng": "Type B",
+		"chn": "类型Ｂ"
+	},
+	{
+		"id": 297110,
+		"eng": "Young",
+		"chn": "年轻"
+	},
+	{
+		"id": 297111,
+		"eng": "Mature",
+		"chn": "壮年"
+	},
+	{
+		"id": 297112,
+		"eng": "Aged",
+		"chn": "年迈"
+	},
+	{
+		"id": 297120,
+		"eng": "Young Voice 1",
+		"chn": "年轻的声音１"
+	},
+	{
+		"id": 297121,
+		"eng": "Mature Voice 1",
+		"chn": "壮年的声音１"
+	},
+	{
+		"id": 297122,
+		"eng": "Aged Voice 1",
+		"chn": "年迈的声音１"
+	},
+	{
+		"id": 297125,
+		"eng": "Young Voice 2",
+		"chn": "年轻的声音２"
+	},
+	{
+		"id": 297126,
+		"eng": "Mature Voice 2",
+		"chn": "壮年的声音２"
+	},
+	{
+		"id": 297127,
+		"eng": "Aged Voice 2",
+		"chn": "年迈的声音２"
+	},
+	{
+		"id": 297130,
+		"eng": "Vagabond",
+		"chn": "流浪骑士"
+	},
+	{
+		"id": 297131,
+		"eng": "Warrior",
+		"chn": "剑士"
+	},
+	{
+		"id": 297132,
+		"eng": "Hero",
+		"chn": "勇者"
+	},
+	{
+		"id": 297133,
+		"eng": "Bandit",
+		"chn": "盗贼"
+	},
+	{
+		"id": 297134,
+		"eng": "Astrologer",
+		"chn": "观星者"
+	},
+	{
+		"id": 297135,
+		"eng": "Prophet",
+		"chn": "预言家"
+	},
+	{
+		"id": 297136,
+		"eng": "Samurai",
+		"chn": "武士"
+	},
+	{
+		"id": 297137,
+		"eng": "Prisoner",
+		"chn": "囚犯"
+	},
+	{
+		"id": 297138,
+		"eng": "Confessor",
+		"chn": "密使"
+	},
+	{
+		"id": 297139,
+		"eng": "Wretch",
+		"chn": "一贫如洗"
+	},
+	{
+		"id": 297150,
+		"eng": "None",
+		"chn": "无"
+	},
+	{
+		"id": 297151,
+		"eng": "Crimson Amber Medallion",
+		"chn": "红琥珀链坠"
+	},
+	{
+		"id": 297152,
+		"eng": "Lands Between Rune",
+		"chn": "交界地卢恩"
+	},
+	{
+		"id": 297153,
+		"eng": "Golden Seed",
+		"chn": "黄金种子"
+	},
+	{
+		"id": 297154,
+		"eng": "Fanged Imp Ashes",
+		"chn": "尖牙小恶魔的骨灰"
+	},
+	{
+		"id": 297156,
+		"eng": "Cracked Pot",
+		"chn": "龟裂壶"
+	},
+	{
+		"id": 297157,
+		"eng": "Stonesword Key",
+		"chn": "石剑钥匙"
+	},
+	{
+		"id": 297158,
+		"eng": "Bewitching Branch",
+		"chn": "魅惑树枝"
+	},
+	{
+		"id": 297159,
+		"eng": "Boiled Prawn",
+		"chn": "煮熟虾子"
+	},
+	{
+		"id": 297160,
+		"eng": "Shabriri's Woe",
+		"chn": "夏玻利利之祸"
+	},
+	{
+		"id": 297170,
+		"eng": "Standard",
+		"chn": "普通"
+	},
+	{
+		"id": 297171,
+		"eng": "Muscular",
+		"chn": "肌肉发达"
+	},
+	{
+		"id": 297180,
+		"eng": "ON",
+		"chn": "翻转"
+	},
+	{
+		"id": 297181,
+		"eng": "OFF",
+		"chn": "不翻转"
+	},
+	{
+		"id": 297185,
+		"eng": "ON",
+		"chn": "套用"
+	},
+	{
+		"id": 297186,
+		"eng": "OFF",
+		"chn": "不套用"
+	},
+	{
+		"id": 297187,
+		"eng": "ON",
+		"chn": "显示"
+	},
+	{
+		"id": 297188,
+		"eng": "OFF",
+		"chn": "不显示"
+	},
+	{
+		"id": 297200,
+		"eng": "Warrior",
+		"chn": "战士长相"
+	},
+	{
+		"id": 297201,
+		"eng": "Truth-Seeker",
+		"chn": "求道长相"
+	},
+	{
+		"id": 297202,
+		"eng": "Aristocrat",
+		"chn": "权贵长相"
+	},
+	{
+		"id": 297203,
+		"eng": "Loner",
+		"chn": "遗世独立长相"
+	},
+	{
+		"id": 297204,
+		"eng": "Northerner",
+		"chn": "北方长相"
+	},
+	{
+		"id": 297205,
+		"eng": "Seafarer",
+		"chn": "水手长相"
+	},
+	{
+		"id": 297206,
+		"eng": "Reedlander",
+		"chn": "芦苇之地长相"
+	},
+	{
+		"id": 297207,
+		"eng": "Draconian",
+		"chn": "龙长相"
+	},
+	{
+		"id": 297208,
+		"eng": "Nightfolk",
+		"chn": "夜人长相"
+	},
+	{
+		"id": 297209,
+		"eng": "Numen",
+		"chn": "稀人长相"
+	},
+	{
+		"id": 297220,
+		"eng": "Warrior",
+		"chn": "战士长相"
+	},
+	{
+		"id": 297221,
+		"eng": "Truth-Seeker",
+		"chn": "求道长相"
+	},
+	{
+		"id": 297222,
+		"eng": "Aristocrat",
+		"chn": "权贵长相"
+	},
+	{
+		"id": 297223,
+		"eng": "Loner",
+		"chn": "遗世独立长相"
+	},
+	{
+		"id": 297224,
+		"eng": "Northerner",
+		"chn": "北方长相"
+	},
+	{
+		"id": 297225,
+		"eng": "Seafarer",
+		"chn": "水手长相"
+	},
+	{
+		"id": 297226,
+		"eng": "Reedlander",
+		"chn": "芦苇之地长相"
+	},
+	{
+		"id": 297227,
+		"eng": "Draconian",
+		"chn": "龙长相"
+	},
+	{
+		"id": 297228,
+		"eng": "Nightfolk",
+		"chn": "夜人长相"
+	},
+	{
+		"id": 297229,
+		"eng": "Numen",
+		"chn": "稀人长相"
+	},
+	{
+		"id": 299005,
+		"eng": "Temporary Colors",
+		"chn": "暂存颜色"
+	},
+	{
+		"id": 299006,
+		"eng": "Preset Colors",
+		"chn": "默认颜色"
+	},
+	{
+		"id": 299009,
+		"eng": "Change Color",
+		"chn": "改变颜色"
+	},
+	{
+		"id": 299010,
+		"eng": "Match Right Eye",
+		"chn": "套用右眼虹膜配置"
+	},
+	{
+		"id": 299011,
+		"eng": "Match Left Eye",
+		"chn": "套用左眼虹膜配置"
+	},
+	{
+		"id": 299020,
+		"eng": "Match Hair",
+		"chn": "套用头发配置"
+	},
+	{
+		"id": 299050,
+		"eng": "Color Adjustment",
+		"chn": "调整颜色"
+	},
+	{
+		"id": 299060,
+		"eng": "R",
+		"chn": "Ｒ"
+	},
+	{
+		"id": 299061,
+		"eng": "G",
+		"chn": "Ｇ"
+	},
+	{
+		"id": 299062,
+		"eng": "B",
+		"chn": "Ｂ"
+	},
+	{
+		"id": 301000,
+		"eng": "Gestures",
+		"chn": "肢体动作"
+	},
+	{
+		"id": 303000,
+		"eng": "NEW",
+		"chn": "新获得"
+	},
+	{
+		"id": 310000,
+		"eng": "Write Message",
+		"chn": "写下讯息"
+	},
+	{
+		"id": 310001,
+		"eng": "Messages Written",
+		"chn": "写下的讯息"
+	},
+	{
+		"id": 310002,
+		"eng": "Messages Discovered",
+		"chn": "已读讯息"
+	},
+	{
+		"id": 311000,
+		"eng": "Appraisals",
+		"chn": "总评价数"
+	},
+	{
+		"id": 311001,
+		"eng": "Good",
+		"chn": "好评"
+	},
+	{
+		"id": 311002,
+		"eng": "Poor",
+		"chn": "恶评"
+	},
+	{
+		"id": 311011,
+		"eng": "Rated Good",
+		"chn": "已给好评"
+	},
+	{
+		"id": 311012,
+		"eng": "Rated Poor",
+		"chn": "已给恶评"
+	},
+	{
+		"id": 321000,
+		"eng": "Templates",
+		"chn": "范本"
+	},
+	{
+		"id": 321001,
+		"eng": "Words",
+		"chn": "单字"
+	},
+	{
+		"id": 321002,
+		"eng": "Conjunctions",
+		"chn": "连接词"
+	},
+	{
+		"id": 321003,
+		"eng": "Templates (2nd Line)",
+		"chn": "范本２"
+	},
+	{
+		"id": 321004,
+		"eng": "Words (2nd Line)",
+		"chn": "单字２"
+	},
+	{
+		"id": 321005,
+		"eng": "Gestures",
+		"chn": "肢体动作"
+	},
+	{
+		"id": 321006,
+		"eng": "Finish",
+		"chn": "完成"
+	},
+	{
+		"id": 322001,
+		"eng": "Good",
+		"chn": "好评"
+	},
+	{
+		"id": 322002,
+		"eng": "Poor",
+		"chn": "恶评"
+	},
+	{
+		"id": 324001,
+		"eng": "Appraisals",
+		"chn": "总评价数"
+	},
+	{
+		"id": 331100,
+		"eng": "Host of Fingers",
+		"chn": "勾指主人"
+	},
+	{
+		"id": 331101,
+		"eng": "Furled Finger",
+		"chn": "勾指"
+	},
+	{
+		"id": 331102,
+		"eng": "Bloody Finger",
+		"chn": "血指"
+	},
+	{
+		"id": 331103,
+		"eng": "Duelist",
+		"chn": "斗士"
+	},
+	{
+		"id": 331104,
+		"eng": "Recusant",
+		"chn": "叛律者"
+	},
+	{
+		"id": 331111,
+		"eng": "Hunter",
+		"chn": "猎人"
+	},
+	{
+		"id": 331122,
+		"eng": "Furled Finger",
+		"chn": "勾指"
+	},
+	{
+		"id": 331123,
+		"eng": "Furled Finger",
+		"chn": "勾指"
+	},
+	{
+		"id": 331132,
+		"eng": "Duelist",
+		"chn": "斗士"
+	},
+	{
+		"id": 331133,
+		"eng": "Duelist",
+		"chn": "斗士"
+	},
+	{
+		"id": 331142,
+		"eng": "Bloody Finger",
+		"chn": "血指"
+	},
+	{
+		"id": 331143,
+		"eng": "Bloody Finger",
+		"chn": "血指"
+	},
+	{
+		"id": 331152,
+		"eng": "Recusant",
+		"chn": "叛律者"
+	},
+	{
+		"id": 331153,
+		"eng": "Recusant",
+		"chn": "叛律者"
+	},
+	{
+		"id": 331162,
+		"eng": "Hunter",
+		"chn": "猎人"
+	},
+	{
+		"id": 331163,
+		"eng": "Hunter",
+		"chn": "猎人"
+	},
+	{
+		"id": 331200,
+		"eng": "FROSTBITE",
+		"chn": "冻伤"
+	},
+	{
+		"id": 331201,
+		"eng": "BLOOD LOSS",
+		"chn": "出血"
+	},
+	{
+		"id": 331202,
+		"eng": "POISON",
+		"chn": "中毒"
+	},
+	{
+		"id": 331203,
+		"eng": "SCARLET ROT",
+		"chn": "猩红腐败"
+	},
+	{
+		"id": 331204,
+		"eng": "SLEEP",
+		"chn": "催眠"
+	},
+	{
+		"id": 331205,
+		"eng": "MADNESS",
+		"chn": "发狂"
+	},
+	{
+		"id": 331207,
+		"eng": "DEATH BLIGHTED",
+		"chn": "骤死"
+	},
+	{
+		"id": 331208,
+		"eng": "! WEAPON BROKEN !",
+		"chn": "! WEAPON BROKEN !"
+	},
+	{
+		"id": 331209,
+		"eng": "! ARMOR AT RISK !",
+		"chn": "! ARMOR AT RISK !"
+	},
+	{
+		"id": 331210,
+		"eng": "! ARMOR BROKEN !",
+		"chn": "! ARMOR BROKEN !"
+	},
+	{
+		"id": 331301,
+		"eng": "DEMIGOD FELLED",
+		"chn": "DEMIGOD FELLED"
+	},
+	{
+		"id": 331302,
+		"eng": "LEGEND FELLED",
+		"chn": "LEGEND FELLED"
+	},
+	{
+		"id": 331303,
+		"eng": "GREAT ENEMY FELLED",
+		"chn": "GREAT ENEMY FELLED"
+	},
+	{
+		"id": 331304,
+		"eng": "ENEMY FELLED",
+		"chn": "ENEMY FELLED"
+	},
+	{
+		"id": 331305,
+		"eng": "YOU DIED",
+		"chn": "YOU DIED"
+	},
+	{
+		"id": 331307,
+		"eng": "HOST VANQUISHED",
+		"chn": "HOST VANQUISHED"
+	},
+	{
+		"id": 331308,
+		"eng": "BLOODY FINGER VANQUISHED",
+		"chn": "BLOODY FINGER VANQUISHED"
+	},
+	{
+		"id": 331309,
+		"eng": "DUTY FULFILLED",
+		"chn": "DUTY FULFILLED"
+	},
+	{
+		"id": 331311,
+		"eng": "LOST GRACE DISCOVERED",
+		"chn": "LOST GRACE DISCOVERED"
+	},
+	{
+		"id": 331317,
+		"eng": "MAP FOUND",
+		"chn": "MAP FOUND"
+	},
+	{
+		"id": 331318,
+		"eng": "REDEEMER DIED",
+		"chn": "代理人死亡"
+	},
+	{
+		"id": 331321,
+		"eng": "GREAT RUNE RESTORED",
+		"chn": "GREAT RUNE RESTORED"
+	},
+	{
+		"id": 331322,
+		"eng": "GOD SLAIN",
+		"chn": "GOD SLAIN"
+	},
+	{
+		"id": 331323,
+		"eng": "DUELIST VANQUISHED",
+		"chn": "DUELIST VANQUISHED"
+	},
+	{
+		"id": 331324,
+		"eng": "RECUSANT VANQUISHED",
+		"chn": "RECUSANT VANQUISHED"
+	},
+	{
+		"id": 331325,
+		"eng": "INVADER VANQUISHED",
+		"chn": "INVADER VANQUISHED"
+	},
+	{
+		"id": 331330,
+		"eng": "FURLED FINGER RANK ADVANCED",
+		"chn": "FURLED FINGER RANK ADVANCED"
+	},
+	{
+		"id": 331331,
+		"eng": "FURLED FINGER RANK ADVANCED",
+		"chn": "FURLED FINGER RANK ADVANCED"
+	},
+	{
+		"id": 331332,
+		"eng": "DUELIST RANK ADVANCED",
+		"chn": "DUELIST RANK ADVANCED"
+	},
+	{
+		"id": 331333,
+		"eng": "DUELIST RANK ADVANCED",
+		"chn": "DUELIST RANK ADVANCED"
+	},
+	{
+		"id": 331334,
+		"eng": "BLOODY FINGER RANK ADVANCED",
+		"chn": "BLOODY FINGER RANK ADVANCED"
+	},
+	{
+		"id": 331335,
+		"eng": "BLOODY FINGER RANK ADVANCED",
+		"chn": "BLOODY FINGER RANK ADVANCED"
+	},
+	{
+		"id": 331336,
+		"eng": "RECUSANT RANK ADVANCED",
+		"chn": "RECUSANT RANK ADVANCED"
+	},
+	{
+		"id": 331337,
+		"eng": "RECUSANT RANK ADVANCED",
+		"chn": "RECUSANT RANK ADVANCED"
+	},
+	{
+		"id": 331338,
+		"eng": "HUNTER RANK ADVANCED",
+		"chn": "HUNTER RANK ADVANCED"
+	},
+	{
+		"id": 331339,
+		"eng": "HUNTER RANK ADVANCED",
+		"chn": "HUNTER RANK ADVANCED"
+	},
+	{
+		"id": 400000,
+		"eng": " ",
+		"chn": "DARK SOULS<?kgicon@2202?> Ⅲ NETWORK TEST VER. uses Havok<?kgicon@2203?>\n<?kgicon@2201?>Copyright 1999-2015. Havok.com Inc. (or its licensors). All Rights Reserved. See www.havok.com for details."
+	},
+	{
+		"id": 401001,
+		"eng": "©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc.",
+		"chn": "©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc."
+	},
+	{
+		"id": 401002,
+		"eng": "ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc.",
+		"chn": "ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc."
+	},
+	{
+		"id": 401100,
+		"eng": "™",
+		"chn": "<?kgicon@2203?>"
+	},
+	{
+		"id": 401301,
+		"eng": "CONTINUE",
+		"chn": "继续游戏"
+	},
+	{
+		"id": 401302,
+		"eng": "LOAD GAME",
+		"chn": "加载游戏"
+	},
+	{
+		"id": 401303,
+		"eng": "NEW GAME",
+		"chn": "开始新游戏"
+	},
+	{
+		"id": 401304,
+		"eng": "SYSTEM",
+		"chn": "系统配置"
+	},
+	{
+		"id": 401305,
+		"eng": "INFORMATION",
+		"chn": "信息"
+	},
+	{
+		"id": 401306,
+		"eng": "LOG IN",
+		"chn": "登录"
+	},
+	{
+		"id": 401307,
+		"eng": "SWITCH PROFILE",
+		"chn": "切换档案"
+	},
+	{
+		"id": 401309,
+		"eng": "QUIT GAME",
+		"chn": "结束游戏"
+	},
+	{
+		"id": 401310,
+		"eng": "ONLINE",
+		"chn": "联机模式"
+	},
+	{
+		"id": 401311,
+		"eng": "OFFLINE",
+		"chn": "脱机模式"
+	},
+	{
+		"id": 401312,
+		"eng": "PRE-ORDER",
+		"chn": "预购游戏"
+	},
+	{
+		"id": 401313,
+		"eng": "CONVERT SAVE DATA",
+		"chn": "转换保存数据"
+	},
+	{
+		"id": 401320,
+		"eng": "App Ver.",
+		"chn": "应用版本"
+	},
+	{
+		"id": 401321,
+		"eng": "Server Ver.",
+		"chn": "服务器版本"
+	},
+	{
+		"id": 401322,
+		"eng": "Calibrations Ver.",
+		"chn": "规则"
+	},
+	{
+		"id": 401400,
+		"eng": "INFORMATION",
+		"chn": "信息"
+	},
+	{
+		"id": 401401,
+		"eng": "There is no new information",
+		"chn": "没有新版本的信息。"
+	},
+	{
+		"id": 401500,
+		"eng": "TERMS OF SERVICE FOR ONLINE SERVICES FOR ELDEN RING",
+		"chn": "TERMS OF SERVICE FOR ONLINE SERVICES FOR ELDEN RING"
+	},
+	{
+		"id": 401510,
+		"eng": "Accept",
+		"chn": "同意"
+	},
+	{
+		"id": 401511,
+		"eng": "Decline",
+		"chn": "不同意"
+	},
+	{
+		"id": 401900,
+		"eng": "Network Test",
+		"chn": "网络测试版"
+	},
+	{
+		"id": 401901,
+		"eng": "This game is still under development",
+		"chn": "游戏尚在开发中"
+	},
+	{
+		"id": 401904,
+		"eng": "An internet connection is required to play the Network Test",
+		"chn": "必须联机才能游玩网络测试版"
+	},
+	{
+		"id": 406000,
+		"eng": "LOAD GAME",
+		"chn": "加载游戏"
+	},
+	{
+		"id": 406001,
+		"eng": "NEW GAME",
+		"chn": "开始新游戏"
+	},
+	{
+		"id": 502000,
+		"eng": "Send selected player back home",
+		"chn": "将选择的人物遣返至原本的世界"
+	}
+]

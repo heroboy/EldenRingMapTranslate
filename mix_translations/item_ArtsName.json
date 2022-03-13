@@ -1,0 +1,917 @@
+[
+	{
+		"id": 10,
+		"eng": "No Skill",
+		"chn": "无战技"
+	},
+	{
+		"id": 100,
+		"eng": "Lion's Claw",
+		"chn": "狮子斩"
+	},
+	{
+		"id": 101,
+		"eng": "Impaling Thrust",
+		"chn": "贯穿"
+	},
+	{
+		"id": 102,
+		"eng": "Piercing Fang",
+		"chn": "突刺"
+	},
+	{
+		"id": 103,
+		"eng": "Spinning Slash",
+		"chn": "回旋斩"
+	},
+	{
+		"id": 105,
+		"eng": "Charge Forth",
+		"chn": "突击"
+	},
+	{
+		"id": 106,
+		"eng": "Stamp (Upward Cut)",
+		"chn": "箭步（上砍）"
+	},
+	{
+		"id": 107,
+		"eng": "Stamp (Sweep)",
+		"chn": "箭步（回旋斩）"
+	},
+	{
+		"id": 108,
+		"eng": "Blood Tax",
+		"chn": "鲜血征收"
+	},
+	{
+		"id": 109,
+		"eng": "Repeating Thrust",
+		"chn": "连击"
+	},
+	{
+		"id": 110,
+		"eng": "Wild Strikes",
+		"chn": "盲击"
+	},
+	{
+		"id": 111,
+		"eng": "Spinning Strikes",
+		"chn": "回旋击"
+	},
+	{
+		"id": 112,
+		"eng": "Double Slash",
+		"chn": "二连斩"
+	},
+	{
+		"id": 113,
+		"eng": "Prelate's Charge",
+		"chn": "主教冲锋"
+	},
+	{
+		"id": 114,
+		"eng": "Unsheathe",
+		"chn": "居合"
+	},
+	{
+		"id": 115,
+		"eng": "Square Off",
+		"chn": "准备架式"
+	},
+	{
+		"id": 116,
+		"eng": "Giant Hunt",
+		"chn": "狩猎巨人"
+	},
+	{
+		"id": 117,
+		"eng": "Torch Attack",
+		"chn": "火把攻击"
+	},
+	{
+		"id": 118,
+		"eng": "Loretta's Slash",
+		"chn": "罗蕾塔的斩击"
+	},
+	{
+		"id": 119,
+		"eng": "Poison Moth Flight",
+		"chn": "双吻毒蛾"
+	},
+	{
+		"id": 120,
+		"eng": "Spinning Weapon",
+		"chn": "转啊转"
+	},
+	{
+		"id": 122,
+		"eng": "Storm Assault",
+		"chn": "风暴袭击"
+	},
+	{
+		"id": 123,
+		"eng": "Stormcaller",
+		"chn": "唤起风暴"
+	},
+	{
+		"id": 124,
+		"eng": "Sword Dance",
+		"chn": "剑舞"
+	},
+	{
+		"id": 125,
+		"eng": "Spinning Chain",
+		"chn": "回旋锁链"
+	},
+	{
+		"id": 200,
+		"eng": "Glintblade Phalanx",
+		"chn": "辉剑圆阵"
+	},
+	{
+		"id": 201,
+		"eng": "Sacred Blade",
+		"chn": "神圣刀刃"
+	},
+	{
+		"id": 202,
+		"eng": "Ice Spear",
+		"chn": "冰枪"
+	},
+	{
+		"id": 203,
+		"eng": "Glintstone Pebble",
+		"chn": "辉石魔砾"
+	},
+	{
+		"id": 204,
+		"eng": "Bloody Slash",
+		"chn": "鲜血斩击"
+	},
+	{
+		"id": 205,
+		"eng": "Lifesteal Fist",
+		"chn": "夺命拳"
+	},
+	{
+		"id": 207,
+		"eng": "Eruption",
+		"chn": "熔岩火浆"
+	},
+	{
+		"id": 208,
+		"eng": "Prayerful Strike",
+		"chn": "祈祷一击"
+	},
+	{
+		"id": 209,
+		"eng": "Gravitas",
+		"chn": "重力"
+	},
+	{
+		"id": 210,
+		"eng": "Storm Blade",
+		"chn": "风暴刃"
+	},
+	{
+		"id": 212,
+		"eng": "Earthshaker",
+		"chn": "撼地"
+	},
+	{
+		"id": 213,
+		"eng": "Golden Land",
+		"chn": "黄金大地"
+	},
+	{
+		"id": 214,
+		"eng": "Flaming Strike",
+		"chn": "炎击"
+	},
+	{
+		"id": 216,
+		"eng": "Thunderbolt",
+		"chn": "落雷"
+	},
+	{
+		"id": 217,
+		"eng": "Lightning Slash",
+		"chn": "雷击斩"
+	},
+	{
+		"id": 218,
+		"eng": "Carian Grandeur",
+		"chn": "伟哉卡利亚"
+	},
+	{
+		"id": 219,
+		"eng": "Carian Greatsword",
+		"chn": "卡利亚大剑"
+	},
+	{
+		"id": 220,
+		"eng": "Vacuum Slice",
+		"chn": "真空斩"
+	},
+	{
+		"id": 221,
+		"eng": "Black Flame Tornado",
+		"chn": "黑焰漩涡"
+	},
+	{
+		"id": 222,
+		"eng": "Sacred Ring of Light",
+		"chn": "神圣光环"
+	},
+	{
+		"id": 223,
+		"eng": "Firebreather",
+		"chn": "喷火"
+	},
+	{
+		"id": 224,
+		"eng": "Blood Blade",
+		"chn": "血刃"
+	},
+	{
+		"id": 225,
+		"eng": "Phantom Slash",
+		"chn": "幻影共击"
+	},
+	{
+		"id": 226,
+		"eng": "Spectral Lance",
+		"chn": "幻影枪"
+	},
+	{
+		"id": 227,
+		"eng": "Chilling Mist",
+		"chn": "寒气冻雾"
+	},
+	{
+		"id": 228,
+		"eng": "Poisonous Mist",
+		"chn": "毒雾"
+	},
+	{
+		"id": 300,
+		"eng": "Shield Bash",
+		"chn": "盾牌冲击"
+	},
+	{
+		"id": 301,
+		"eng": "Barricade Shield",
+		"chn": "铁壁盾防"
+	},
+	{
+		"id": 302,
+		"eng": "Parry",
+		"chn": "格挡"
+	},
+	{
+		"id": 303,
+		"eng": "Buckler Parry",
+		"chn": "小圆盾格挡"
+	},
+	{
+		"id": 304,
+		"eng": "Parry",
+		"chn": "格挡"
+	},
+	{
+		"id": 305,
+		"eng": "Carian Retaliation",
+		"chn": "卡利亚式奉还"
+	},
+	{
+		"id": 306,
+		"eng": "Storm Wall",
+		"chn": "风暴障壁"
+	},
+	{
+		"id": 307,
+		"eng": "Golden Parry",
+		"chn": "黄金格挡"
+	},
+	{
+		"id": 308,
+		"eng": "Shield Crash",
+		"chn": "突进冲击"
+	},
+	{
+		"id": 309,
+		"eng": "Thops's Barrier",
+		"chn": "托普斯的力场"
+	},
+	{
+		"id": 400,
+		"eng": "Through and Through",
+		"chn": "贯穿射击"
+	},
+	{
+		"id": 401,
+		"eng": "Barrage",
+		"chn": "连续射击"
+	},
+	{
+		"id": 402,
+		"eng": "Mighty Shot",
+		"chn": "拉满弓"
+	},
+	{
+		"id": 404,
+		"eng": "Enchanted Shot",
+		"chn": "宿灵射击"
+	},
+	{
+		"id": 405,
+		"eng": "Sky Shot",
+		"chn": "对空射击"
+	},
+	{
+		"id": 406,
+		"eng": "Rain of Arrows",
+		"chn": "箭雨"
+	},
+	{
+		"id": 501,
+		"eng": "Hoarfrost Stomp",
+		"chn": "冻霜踏地"
+	},
+	{
+		"id": 502,
+		"eng": "Storm Stomp",
+		"chn": "风暴足"
+	},
+	{
+		"id": 503,
+		"eng": "Kick",
+		"chn": "踢击"
+	},
+	{
+		"id": 504,
+		"eng": "Lightning Ram",
+		"chn": "雷电羊球"
+	},
+	{
+		"id": 505,
+		"eng": "Flame of the Redmanes",
+		"chn": "红狮子火焰"
+	},
+	{
+		"id": 506,
+		"eng": "Ground Slam",
+		"chn": "坠落震击"
+	},
+	{
+		"id": 507,
+		"eng": "Golden Slam",
+		"chn": "黄金坠落震击"
+	},
+	{
+		"id": 508,
+		"eng": "Waves of Darkness",
+		"chn": "黑暗波动"
+	},
+	{
+		"id": 509,
+		"eng": "Hoarah Loux's Earthshaker",
+		"chn": "荷莱·露的撼地"
+	},
+	{
+		"id": 600,
+		"eng": "Determination",
+		"chn": "决心"
+	},
+	{
+		"id": 601,
+		"eng": "Royal Knight's Resolve",
+		"chn": "侍王骑士的决心"
+	},
+	{
+		"id": 602,
+		"eng": "Assassin's Gambit",
+		"chn": "暗杀办法"
+	},
+	{
+		"id": 603,
+		"eng": "Golden Vow",
+		"chn": "黄金树立誓"
+	},
+	{
+		"id": 604,
+		"eng": "Sacred Order",
+		"chn": "圣律"
+	},
+	{
+		"id": 605,
+		"eng": "Shared Order",
+		"chn": "共享圣律"
+	},
+	{
+		"id": 606,
+		"eng": "Seppuku",
+		"chn": "切腹"
+	},
+	{
+		"id": 607,
+		"eng": "Cragblade",
+		"chn": "岩石剑"
+	},
+	{
+		"id": 650,
+		"eng": "Barbaric Roar",
+		"chn": "野蛮咆哮"
+	},
+	{
+		"id": 651,
+		"eng": "War Cry",
+		"chn": "战吼"
+	},
+	{
+		"id": 652,
+		"eng": "Beast's Roar",
+		"chn": "野兽咆哮"
+	},
+	{
+		"id": 653,
+		"eng": "Troll's Roar",
+		"chn": "山妖咆哮"
+	},
+	{
+		"id": 654,
+		"eng": "Braggart's Roar",
+		"chn": "夸耀咆哮"
+	},
+	{
+		"id": 700,
+		"eng": "Endure",
+		"chn": "忍耐"
+	},
+	{
+		"id": 701,
+		"eng": "Vow of the Indomitable",
+		"chn": "无敌"
+	},
+	{
+		"id": 702,
+		"eng": "Holy Ground",
+		"chn": "圣域"
+	},
+	{
+		"id": 800,
+		"eng": "Quickstep",
+		"chn": "碎步"
+	},
+	{
+		"id": 801,
+		"eng": "Bloodhound's Step",
+		"chn": "猎犬步法"
+	},
+	{
+		"id": 802,
+		"eng": "Raptor of the Mists",
+		"chn": "潜雾猛禽"
+	},
+	{
+		"id": 850,
+		"eng": "White Shadow's Lure",
+		"chn": "白影诱惑"
+	},
+	{
+		"id": 1000,
+		"eng": "Surge of Faith",
+		"chn": "信仰喷发"
+	},
+	{
+		"id": 1001,
+		"eng": "Flame Spit",
+		"chn": "火焰唾球"
+	},
+	{
+		"id": 1002,
+		"eng": "Tongues of Fire",
+		"chn": "火焰舌柱"
+	},
+	{
+		"id": 1003,
+		"eng": "Oracular Bubble",
+		"chn": "神谕泡泡"
+	},
+	{
+		"id": 1004,
+		"eng": "Bubble Shower",
+		"chn": "倾注泡泡"
+	},
+	{
+		"id": 1005,
+		"eng": "Great Oracular Bubble",
+		"chn": "神谕大泡泡"
+	},
+	{
+		"id": 1006,
+		"eng": "Sea of Magma",
+		"chn": "熔岩海"
+	},
+	{
+		"id": 1007,
+		"eng": "Viper Bite",
+		"chn": "毒蛇咬杀"
+	},
+	{
+		"id": 1008,
+		"eng": "Moonlight Greatsword",
+		"chn": "月光剑"
+	},
+	{
+		"id": 1009,
+		"eng": "Siluria's Woe",
+		"chn": "志留亚的漩涡"
+	},
+	{
+		"id": 1010,
+		"eng": "Rallying Standard",
+		"chn": "归于麾下"
+	},
+	{
+		"id": 1011,
+		"eng": "Bear Witness!",
+		"chn": "敬请见证！"
+	},
+	{
+		"id": 1012,
+		"eng": "Eochaid's Dancing Blade",
+		"chn": "欧赫剑舞"
+	},
+	{
+		"id": 1013,
+		"eng": "Soul Stifler",
+		"chn": "恶意气息"
+	},
+	{
+		"id": 1014,
+		"eng": "Taker's Flames",
+		"chn": "掠夺火焰"
+	},
+	{
+		"id": 1015,
+		"eng": "Shriek of Milos",
+		"chn": "灭洛斯的狂嚎"
+	},
+	{
+		"id": 1016,
+		"eng": "Reduvia Blood Blade",
+		"chn": "逆刺血刃"
+	},
+	{
+		"id": 1017,
+		"eng": "Glintstone Dart",
+		"chn": "辉石彗砾"
+	},
+	{
+		"id": 1018,
+		"eng": "Flowing Form",
+		"chn": "流体化"
+	},
+	{
+		"id": 1019,
+		"eng": "Night-and-Flame Stance",
+		"chn": "夜与火的架式"
+	},
+	{
+		"id": 1020,
+		"eng": "Wave of Gold",
+		"chn": "黄金波动"
+	},
+	{
+		"id": 1021,
+		"eng": "Ruinous Ghostflame",
+		"chn": "毁灭灵火"
+	},
+	{
+		"id": 1022,
+		"eng": "Establish Order",
+		"chn": "高举黄金律法"
+	},
+	{
+		"id": 1023,
+		"eng": "Mists of Slumber",
+		"chn": "催眠烟雾"
+	},
+	{
+		"id": 1024,
+		"eng": "Spearcall Ritual",
+		"chn": "唤矛仪式"
+	},
+	{
+		"id": 1025,
+		"eng": "Wolf's Assault",
+		"chn": "狼袭"
+	},
+	{
+		"id": 1026,
+		"eng": "Thundercloud Form",
+		"chn": "雷云化身"
+	},
+	{
+		"id": 1027,
+		"eng": "Cursed-Blood Slice",
+		"chn": "咒血斩击"
+	},
+	{
+		"id": 1028,
+		"eng": "Waterfowl Dance",
+		"chn": "水鸟乱舞"
+	},
+	{
+		"id": 1029,
+		"eng": "Gold Breaker",
+		"chn": "黄金碎击"
+	},
+	{
+		"id": 1030,
+		"eng": "I Command Thee, Kneel!",
+		"chn": "跪下吧！"
+	},
+	{
+		"id": 1031,
+		"eng": "Regal Roar",
+		"chn": "王者嘶吼"
+	},
+	{
+		"id": 1032,
+		"eng": "Starcaller Cry",
+		"chn": "唤星"
+	},
+	{
+		"id": 1033,
+		"eng": "Wave of Destruction",
+		"chn": "崩坏波"
+	},
+	{
+		"id": 1034,
+		"eng": "Bloodboon Ritual",
+		"chn": "授血仪式"
+	},
+	{
+		"id": 1035,
+		"eng": "Flowing Form",
+		"chn": "流体化"
+	},
+	{
+		"id": 1036,
+		"eng": "Blade of Death",
+		"chn": "死亡刀刃"
+	},
+	{
+		"id": 1037,
+		"eng": "Blade of Gold",
+		"chn": "黄金刀刃"
+	},
+	{
+		"id": 1038,
+		"eng": "Destined Death",
+		"chn": "命定之死"
+	},
+	{
+		"id": 1039,
+		"eng": "Spinning Wheel",
+		"chn": "旋转刺轮"
+	},
+	{
+		"id": 1040,
+		"eng": "Alabaster Lords' Pull",
+		"chn": "白王引力波"
+	},
+	{
+		"id": 1041,
+		"eng": "Onyx Lords' Repulsion",
+		"chn": "黑王推力波"
+	},
+	{
+		"id": 1042,
+		"eng": "Oath of Vengeance",
+		"chn": "复仇誓言"
+	},
+	{
+		"id": 1043,
+		"eng": "Ice Lightning Sword",
+		"chn": "冰雷剑"
+	},
+	{
+		"id": 1044,
+		"eng": "Regal Beastclaw",
+		"chn": "兽王爪"
+	},
+	{
+		"id": 1045,
+		"eng": "Flame Dance",
+		"chn": "火焰舞"
+	},
+	{
+		"id": 1046,
+		"eng": "Claw Flick",
+		"chn": "弹指"
+	},
+	{
+		"id": 1047,
+		"eng": "Nebula",
+		"chn": "星云"
+	},
+	{
+		"id": 1048,
+		"eng": "Ghostflame Ignition",
+		"chn": "点燃灵火"
+	},
+	{
+		"id": 1049,
+		"eng": "Ancient Lightning Spear",
+		"chn": "古雷电枪"
+	},
+	{
+		"id": 1050,
+		"eng": "Frenzyflame Thrust",
+		"chn": "癫火突击"
+	},
+	{
+		"id": 1051,
+		"eng": "Miquella's Ring of Light",
+		"chn": "米凯拉的光环"
+	},
+	{
+		"id": 1052,
+		"eng": "Golden Tempering",
+		"chn": "黄金剑技"
+	},
+	{
+		"id": 1053,
+		"eng": "Last Rites",
+		"chn": "哀悼墓碑"
+	},
+	{
+		"id": 1054,
+		"eng": "Unblockable Blade",
+		"chn": "不可挡之刃"
+	},
+	{
+		"id": 1055,
+		"eng": "Eochaid's Dancing Blade",
+		"chn": "欧赫剑舞"
+	},
+	{
+		"id": 1167,
+		"eng": "Corpse Wax Cutter",
+		"chn": "尸蜡斩击"
+	},
+	{
+		"id": 1168,
+		"eng": "Zamor Ice Storm",
+		"chn": "萨米尔冰风暴"
+	},
+	{
+		"id": 1169,
+		"eng": "Radahn's Rain",
+		"chn": "拉塔恩的骤雨"
+	},
+	{
+		"id": 1170,
+		"eng": "The Queen's Black Flame",
+		"chn": "女王黑焰"
+	},
+	{
+		"id": 1171,
+		"eng": "Dynast's Finesse",
+		"chn": "王朝剑技"
+	},
+	{
+		"id": 1172,
+		"eng": "Magma Shower",
+		"chn": "泼洒熔岩"
+	},
+	{
+		"id": 1173,
+		"eng": "Nebula",
+		"chn": "星云"
+	},
+	{
+		"id": 1174,
+		"eng": "Death Flare",
+		"chn": "死亡闪焰"
+	},
+	{
+		"id": 1175,
+		"eng": "Bloodhound's Finesse",
+		"chn": "猎犬剑技"
+	},
+	{
+		"id": 1176,
+		"eng": "Magma Guillotine",
+		"chn": "熔岩断首"
+	},
+	{
+		"id": 1177,
+		"eng": "Corpse Piler",
+		"chn": "尸横遍野"
+	},
+	{
+		"id": 1178,
+		"eng": "Transient Moonlight",
+		"chn": "隙间月影"
+	},
+	{
+		"id": 1179,
+		"eng": "Bloodblade Dance",
+		"chn": "血刃乱舞"
+	},
+	{
+		"id": 1182,
+		"eng": "Knowledge Above All",
+		"chn": "百智的世界"
+	},
+	{
+		"id": 1183,
+		"eng": "Devourer of Worlds",
+		"chn": "吞世"
+	},
+	{
+		"id": 1184,
+		"eng": "Familal Rancor",
+		"chn": "家族怨魂"
+	},
+	{
+		"id": 1185,
+		"eng": "Rosus's Summons",
+		"chn": "罗泽司的唤声"
+	},
+	{
+		"id": 1186,
+		"eng": "Thunderstorm",
+		"chn": "雷电风暴"
+	},
+	{
+		"id": 1187,
+		"eng": "Sacred Phalanx",
+		"chn": "圣矛障壁"
+	},
+	{
+		"id": 1188,
+		"eng": "Great-Serpent Hunt",
+		"chn": "狩猎大蛇"
+	},
+	{
+		"id": 1189,
+		"eng": "Angel's Wings",
+		"chn": "天使羽翼"
+	},
+	{
+		"id": 1190,
+		"eng": "Storm Kick",
+		"chn": "风暴踢击"
+	},
+	{
+		"id": 1191,
+		"eng": "Unblockable Blade",
+		"chn": "不可挡之刃"
+	},
+	{
+		"id": 1192,
+		"eng": "Sorcery of the Crozier",
+		"chn": "锡杖魔法"
+	},
+	{
+		"id": 1193,
+		"eng": "Erdtree Slam",
+		"chn": "黄金树坠落震击"
+	},
+	{
+		"id": 1194,
+		"eng": "Gravity Bolt",
+		"chn": "重力雷电"
+	},
+	{
+		"id": 1195,
+		"eng": "Fires of Slumber",
+		"chn": "催眠火焰"
+	},
+	{
+		"id": 1196,
+		"eng": "Golden Retaliation",
+		"chn": "黄金式奉还"
+	},
+	{
+		"id": 1197,
+		"eng": "Contagious Fury",
+		"chn": "共鸣愤怒"
+	},
+	{
+		"id": 1198,
+		"eng": "Ordovis's Vortex",
+		"chn": "奥陶琵斯的漩涡"
+	},
+	{
+		"id": 1199,
+		"eng": "Spinning Weapon",
+		"chn": "转啊转"
+	}
+]

@@ -1,0 +1,8312 @@
+[
+	{
+		"id": 100,
+		"eng": "Creates a summon sign for cooperative multiplayer",
+		"chn": "能写下协力多人联机游玩的召唤记号"
+	},
+	{
+		"id": 101,
+		"eng": "Creates a summon sign for competitive multiplayer",
+		"chn": "能写下敌对多人联机游玩的召唤记号"
+	},
+	{
+		"id": 102,
+		"eng": "Attempts invasion of other player's world",
+		"chn": "能够入侵其他玩家的世界"
+	},
+	{
+		"id": 103,
+		"eng": "Sends another, or oneself, home",
+		"chn": "能遣返亲自召唤的人物，或让自己返回原本的世界"
+	},
+	{
+		"id": 104,
+		"eng": "When invaded, requests the aid of a hunter",
+		"chn": "被入侵时能发出请求，召唤“猎人”"
+	},
+	{
+		"id": 105,
+		"eng": "Answers requests for summoning from hunters",
+		"chn": "收到召唤“猎人”的请求时，能回应要求接受召唤"
+	},
+	{
+		"id": 106,
+		"eng": "Used to write messages to other worlds",
+		"chn": "能够写下讯息，传布到其他世界"
+	},
+	{
+		"id": 107,
+		"eng": "Attempts repeat invasion of last targeted world",
+		"chn": "能再一次入侵曾经入侵过的世界"
+	},
+	{
+		"id": 108,
+		"eng": "Lures in invaders",
+		"chn": "能吸引入侵者前来"
+	},
+	{
+		"id": 109,
+		"eng": "Sends a co-op sign to summoning pools",
+		"chn": "能将协力记号送往记号聚集处"
+	},
+	{
+		"id": 110,
+		"eng": "Sends a hostile sign to summoning pools",
+		"chn": "能将敌对记号送往记号聚集处"
+	},
+	{
+		"id": 111,
+		"eng": "Attempts invasion of other player's world",
+		"chn": "能够入侵其他玩家的世界"
+	},
+	{
+		"id": 112,
+		"eng": "Attempts invasion of other player's world",
+		"chn": "能够入侵其他玩家的世界"
+	},
+	{
+		"id": 113,
+		"eng": "Attempts repeat invasion of last targeted world",
+		"chn": "能再一次入侵曾经入侵过的世界"
+	},
+	{
+		"id": 114,
+		"eng": "Attempts repeat invasion of last targeted world",
+		"chn": "能再一次入侵曾经入侵过的世界"
+	},
+	{
+		"id": 115,
+		"eng": "Lose all runes, return to last site of lost grace visited",
+		"chn": "能传送到最后停留的赐福，但会失去所有的卢恩"
+	},
+	{
+		"id": 130,
+		"eng": "Summon and ride Torrent, the spectral steed",
+		"chn": "能召唤出灵马托雷特，骑马行动"
+	},
+	{
+		"id": 135,
+		"eng": "Give blessing of blood to enemies in invaded world",
+		"chn": "能对入侵世界里的敌人，降下鲜血赐福"
+	},
+	{
+		"id": 150,
+		"eng": "Reveals co-op and hostile summoning signs",
+		"chn": "能看见协力记号、敌对记号"
+	},
+	{
+		"id": 170,
+		"eng": "Creates a summon sign for cooperative multiplayer",
+		"chn": "能写下协力多人联机游玩的召唤记号"
+	},
+	{
+		"id": 171,
+		"eng": "Creates a summon sign for competitive multiplayer",
+		"chn": "能写下敌对多人联机游玩的召唤记号"
+	},
+	{
+		"id": 172,
+		"eng": "Attempts invasion of other player's world",
+		"chn": "能够入侵其他玩家的世界"
+	},
+	{
+		"id": 174,
+		"eng": "When invaded, requests the aid of a hunter",
+		"chn": "被入侵时能发出请求，召唤“猎人”"
+	},
+	{
+		"id": 175,
+		"eng": "Answers requests for summoning from hunters",
+		"chn": "收到召唤“猎人”的请求时，能回应要求接受召唤"
+	},
+	{
+		"id": 178,
+		"eng": "Lures in invaders",
+		"chn": "能吸引入侵者前来"
+	},
+	{
+		"id": 179,
+		"eng": "Sends a co-op summoning sign to summoning pools",
+		"chn": "能将协力记号送往记号聚集处"
+	},
+	{
+		"id": 180,
+		"eng": "Sends a hostile summoning sign to summoning pools",
+		"chn": "能将敌对记号送往记号聚集处"
+	},
+	{
+		"id": 181,
+		"eng": "Summon and ride Torrent, the spectral steed",
+		"chn": "能召唤出灵马托雷特，骑马行动"
+	},
+	{
+		"id": 182,
+		"eng": "Reveals co-op and hostile summoning signs",
+		"chn": "能看见协力记号、敌对记号"
+	},
+	{
+		"id": 183,
+		"eng": "Attempts invasion of other player's world",
+		"chn": "能够入侵其他玩家的世界"
+	},
+	{
+		"id": 184,
+		"eng": "Attempts invasion of other player's world",
+		"chn": "能够入侵其他玩家的世界"
+	},
+	{
+		"id": 190,
+		"eng": "Grants the blessing of an equipped Great Rune upon use",
+		"chn": "使用后，能让装备的大卢恩带来恩惠"
+	},
+	{
+		"id": 191,
+		"eng": "Raises all attributes",
+		"chn": "透过恩惠的效力，能提升所有能力值"
+	},
+	{
+		"id": 192,
+		"eng": "Raises maximum HP, FP and stamina",
+		"chn": "能提升血量、专注值、精力的上限"
+	},
+	{
+		"id": 193,
+		"eng": "Greatly raises maximum HP",
+		"chn": "透过恩惠的效力，能大幅提升血量的上限"
+	},
+	{
+		"id": 194,
+		"eng": "Restores HP upon attacking enemies",
+		"chn": "透过恩惠的效力，打倒敌人时能恢复血量"
+	},
+	{
+		"id": 195,
+		"eng": "Grants a blessing of blood to phantoms",
+		"chn": "透过恩惠的效力，能替召唤的灵魂降下鲜血赐福"
+	},
+	{
+		"id": 196,
+		"eng": "Attacks recover HP after damage is taken",
+		"chn": "受到损伤的当下，能透过攻击恢复部分血量"
+	},
+	{
+		"id": 200,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 201,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 202,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 203,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 204,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 205,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 206,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 207,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 208,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 209,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 210,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 211,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 212,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 213,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 214,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 215,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 220,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 221,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 222,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 223,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 224,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 225,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 226,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 227,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 228,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 229,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 230,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 231,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 232,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 233,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 234,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 235,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 250,
+		"eng": "Bestows various special effects",
+		"chn": "拥有各种特殊效用"
+	},
+	{
+		"id": 251,
+		"eng": "Bestows various special effects, but is empty now",
+		"chn": "拥有各种特殊效用，但目前里头空无一物"
+	},
+	{
+		"id": 300,
+		"eng": "Throw at enemies to inflict fire damage",
+		"chn": "能丢向敌人，给予火属性伤害"
+	},
+	{
+		"id": 301,
+		"eng": "Throw at enemies to inflict heavy fire damage",
+		"chn": "能丢向敌人，给予大幅火属性伤害"
+	},
+	{
+		"id": 302,
+		"eng": "Uses FP. Throw at enemies to inflict heavy fire damage.",
+		"chn": "能消耗专注值丢向敌人，给予大幅火属性伤害"
+	},
+	{
+		"id": 320,
+		"eng": "Throw at enemies to inflict lightning damage",
+		"chn": "能丢向敌人，给予雷属性伤害"
+	},
+	{
+		"id": 321,
+		"eng": "Throw at enemies to inflict heavy lightning damage",
+		"chn": "能丢向敌人，给予大幅雷属性伤害"
+	},
+	{
+		"id": 330,
+		"eng": "Throw at enemies to cause buildup of deadly poison",
+		"chn": "能丢向敌人，累积剧毒"
+	},
+	{
+		"id": 340,
+		"eng": "Throw at enemies to release a swarm of flies",
+		"chn": "能丢向敌人，招来一群苍蝇攻击"
+	},
+	{
+		"id": 350,
+		"eng": "Uses FP. Throw at enemies to inflict holy damage.",
+		"chn": "能消耗专注值丢向敌人，给予圣属性伤害"
+	},
+	{
+		"id": 351,
+		"eng": "Uses FP. Throw at enemies to inflict heavy holy damage.",
+		"chn": "能消耗专注值丢向敌人，给予大幅圣属性伤害"
+	},
+	{
+		"id": 360,
+		"eng": "Throw at enemies to cause buildup of frost",
+		"chn": "能丢向敌人，累积冻伤量表"
+	},
+	{
+		"id": 370,
+		"eng": "Throw at enemies to cause buildup of poison",
+		"chn": "能丢向敌人，累积中毒量表"
+	},
+	{
+		"id": 380,
+		"eng": "Throw at enemies to soak them in oil",
+		"chn": "能丢向敌人，让对方浑身油污"
+	},
+	{
+		"id": 390,
+		"eng": "Uses FP. Throw to lure foes of human build only.",
+		"chn": "能消耗专注值丢出，吸引人类之身的敌人注意"
+	},
+	{
+		"id": 391,
+		"eng": "Uses FP. Lures beasts only.",
+		"chn": "能消耗专注值丢出，只吸引兽类敌人的注意"
+	},
+	{
+		"id": 400,
+		"eng": "Throw behind to inflict fire damage",
+		"chn": "能丢向背后的敌人，给予火属性伤害"
+	},
+	{
+		"id": 420,
+		"eng": "Throw behind to inflict lightning damage",
+		"chn": "能丢向背后的敌人，给予雷属性伤害"
+	},
+	{
+		"id": 430,
+		"eng": "Throw behind to cause buildup of deadly poison",
+		"chn": "能丢向背后的敌人，累积剧毒"
+	},
+	{
+		"id": 440,
+		"eng": "Throw behind to cause buildup of poison",
+		"chn": "能丢向背后的敌人，累积中毒量表"
+	},
+	{
+		"id": 450,
+		"eng": "Throw behind to douse enemies in oil",
+		"chn": "能丢向背后的敌人，让对方浑身油污"
+	},
+	{
+		"id": 460,
+		"eng": "Uses FP. Throw behind to inflict magic damage.",
+		"chn": "能消耗专注值丢向背后的敌人，给予魔力属性伤害"
+	},
+	{
+		"id": 470,
+		"eng": "Throw behind to release a swarm of flies",
+		"chn": "能丢向背后的敌人，招来一群苍蝇攻击"
+	},
+	{
+		"id": 480,
+		"eng": "Throw behind to cause frostbite build-up",
+		"chn": "能丢向背后的敌人，累积“冻伤”量表"
+	},
+	{
+		"id": 490,
+		"eng": "Creates heat cloud, causing continuous fire damage",
+		"chn": "能产生热气，给予接触到的人物火属性伤害"
+	},
+	{
+		"id": 510,
+		"eng": "Uses FP. Throw behind to inflict holy damage.",
+		"chn": "能消耗专注值丢向背后的敌人，给予圣属性伤害"
+	},
+	{
+		"id": 600,
+		"eng": "Creates heat cloud, causing continuous fire damage",
+		"chn": "能产生热气，给予接触到的人物火属性伤害"
+	},
+	{
+		"id": 610,
+		"eng": "Uses FP. Throw to impede healing using a flask of tears.",
+		"chn": "能消耗专注值丢出，妨碍圣杯瓶的恢复效用"
+	},
+	{
+		"id": 630,
+		"eng": "Throw to douse enemy with accursed blood",
+		"chn": "能丢向敌人，让对方浑身咒血"
+	},
+	{
+		"id": 640,
+		"eng": "Uses FP. Throw to cause buildup of sleep.",
+		"chn": "能消耗专注值丢出，累积催眠量表"
+	},
+	{
+		"id": 650,
+		"eng": "Uses FP. Throw to spawn vengeful spirits.",
+		"chn": "能消耗专注值丢出，形成怨魂群"
+	},
+	{
+		"id": 660,
+		"eng": "Uses FP. Throw to inflict magic damage.",
+		"chn": "能消耗专注值丢出，给予魔力属性伤害"
+	},
+	{
+		"id": 661,
+		"eng": "Uses FP. Throw to inflict heavy magic damage.",
+		"chn": "能消耗专注值丢出，给予大幅魔力属性伤害"
+	},
+	{
+		"id": 670,
+		"eng": "Throw at enemies to cause buildup of scarlet rot",
+		"chn": "能丢向敌人，累积猩红腐败量表"
+	},
+	{
+		"id": 810,
+		"eng": "On horseback, feed to Torrent to restore HP",
+		"chn": "在骑马时喂给灵马托雷特，能恢复它的血量"
+	},
+	{
+		"id": 811,
+		"eng": "On horseback, feed to Torrent to greatly restore HP",
+		"chn": "在骑马时喂给灵马托雷特，能大幅恢复它的血量"
+	},
+	{
+		"id": 812,
+		"eng": "On horseback, feed to Torrent to vastly restore HP",
+		"chn": "在骑马时喂给灵马托雷特，能极大幅恢复它的血量"
+	},
+	{
+		"id": 820,
+		"eng": "Greatly boosts physical damage negation for a time",
+		"chn": "一定时间内，能大幅提升物理减伤率"
+	},
+	{
+		"id": 830,
+		"eng": "Boosts physical damage negation for a time",
+		"chn": "一定时间内，能提升物理减伤率"
+	},
+	{
+		"id": 900,
+		"eng": "Alleviates poison buildup and cures poison",
+		"chn": "能减轻中毒量表的累积，治愈中毒状态"
+	},
+	{
+		"id": 910,
+		"eng": "Alleviates impending blood loss",
+		"chn": "能减轻出血量表的累积"
+	},
+	{
+		"id": 920,
+		"eng": "Alleviates buildup of frost",
+		"chn": "能减轻冻伤量表的累积，治愈冻伤状态"
+	},
+	{
+		"id": 930,
+		"eng": "Alleviates buildup of sleep",
+		"chn": "能减轻催眠量表的累积"
+	},
+	{
+		"id": 940,
+		"eng": "Alleviates scarlet rot buildup and cures rot",
+		"chn": "能减轻猩红腐败量表的累积，治愈腐败状态"
+	},
+	{
+		"id": 950,
+		"eng": "Alleviates death blight buildup",
+		"chn": "能减轻死亡量表的累积"
+	},
+	{
+		"id": 960,
+		"eng": "Alleviates madness buildup",
+		"chn": "能减轻发狂量表的累积"
+	},
+	{
+		"id": 1000,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1001,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1002,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1003,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1004,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1005,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1006,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1007,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1008,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1009,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1010,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1011,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1012,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1013,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1014,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1015,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1016,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1017,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1018,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1019,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1020,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1021,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1022,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1023,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1024,
+		"eng": "Restores HP, but is currently empty",
+		"chn": "能恢复血量，但目前里头空无一物"
+	},
+	{
+		"id": 1025,
+		"eng": "Restores HP",
+		"chn": "能恢复血量"
+	},
+	{
+		"id": 1050,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1051,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1052,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1053,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1054,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1055,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1056,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1057,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1058,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1059,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1060,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1061,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1062,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1063,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1064,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1065,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1066,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1067,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1068,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1069,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1070,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1071,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1072,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1073,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1074,
+		"eng": "Restores FP, but is currently empty",
+		"chn": "能恢复专注值，但目前里头空无一物"
+	},
+	{
+		"id": 1075,
+		"eng": "Restores FP",
+		"chn": "能恢复专注值"
+	},
+	{
+		"id": 1100,
+		"eng": "Temporarily boosts stamina recovery",
+		"chn": "能暂时提升精力的恢复速度"
+	},
+	{
+		"id": 1110,
+		"eng": "Temporarily boosts immunity",
+		"chn": "能暂时提升免疫力"
+	},
+	{
+		"id": 1120,
+		"eng": "Temporarily boosts robustness",
+		"chn": "能暂时提升健壮度"
+	},
+	{
+		"id": 1130,
+		"eng": "Temporarily boosts focus",
+		"chn": "能暂时提升理智度"
+	},
+	{
+		"id": 1140,
+		"eng": "Temporarily boosts immunity, robustness and focus",
+		"chn": "能暂时提升免疫力、健壮度、理智度"
+	},
+	{
+		"id": 1150,
+		"eng": "Temporarily boosts magic damage negation",
+		"chn": "能暂时提升魔力属性减伤率"
+	},
+	{
+		"id": 1160,
+		"eng": "Temporarily boosts fire damage negation",
+		"chn": "能暂时提升火属性减伤率"
+	},
+	{
+		"id": 1170,
+		"eng": "Temporarily boosts lightning damage negation",
+		"chn": "能暂时提升雷属性减伤率"
+	},
+	{
+		"id": 1180,
+		"eng": "Temporarily boosts holy damage negation",
+		"chn": "能暂时提升圣属性减伤率"
+	},
+	{
+		"id": 1190,
+		"eng": "Temporarily boosts item discovery",
+		"chn": "能暂时提升观察力"
+	},
+	{
+		"id": 1200,
+		"eng": "Boosts rune acquisition for a time",
+		"chn": "一定时间内，增加打倒敌人后获得的卢恩"
+	},
+	{
+		"id": 1210,
+		"eng": "Temporarily boosts physical attack",
+		"chn": "能暂时提升物理攻击力"
+	},
+	{
+		"id": 1220,
+		"eng": "Boost instant death resistance for a short time",
+		"chn": "一定时间内，提升抗死度"
+	},
+	{
+		"id": 1235,
+		"eng": "Restores HP but causes poison buildup",
+		"chn": "能恢复血量，但会陷入中毒状态"
+	},
+	{
+		"id": 1240,
+		"eng": "Yellowing, oozing eyeball of the infirm",
+		"chn": "发黄腐烂的罹病者眼球"
+	},
+	{
+		"id": 1290,
+		"eng": "Use to gradually recover FP",
+		"chn": "使用后能缓慢恢复专注值"
+	},
+	{
+		"id": 1310,
+		"eng": "Temporarily boosts immunity",
+		"chn": "能暂时提升免疫力"
+	},
+	{
+		"id": 1320,
+		"eng": "Temporarily boosts robustness",
+		"chn": "能暂时提升健壮度"
+	},
+	{
+		"id": 1330,
+		"eng": "Temporarily boosts focus",
+		"chn": "能暂时提升理智度"
+	},
+	{
+		"id": 1340,
+		"eng": "Temporarily boosts immunity, robustness and focus",
+		"chn": "能暂时提升免疫力、健壮度、理智度"
+	},
+	{
+		"id": 1350,
+		"eng": "Boost instant death resistance for a short time",
+		"chn": "一定时间内，提升抗死度"
+	},
+	{
+		"id": 1400,
+		"eng": "Coats armament, inflicting fire damage",
+		"chn": "能涂在武器上，附加火属性攻击力"
+	},
+	{
+		"id": 1410,
+		"eng": "Coats armament, inflicting lightning damage",
+		"chn": "能涂在武器上，附加雷属性攻击力"
+	},
+	{
+		"id": 1420,
+		"eng": "Coats armament, inflicting magic damage",
+		"chn": "能涂在武器上，附加魔力属性攻击力"
+	},
+	{
+		"id": 1430,
+		"eng": "Coats armament, inflicting holy damage",
+		"chn": "能涂在武器上，附加圣属性攻击力"
+	},
+	{
+		"id": 1440,
+		"eng": "Coats armament, inflicting blood loss",
+		"chn": "能涂在武器上，附加异常状态出血"
+	},
+	{
+		"id": 1450,
+		"eng": "Coats armament, inflicting sleep",
+		"chn": "能涂在武器上，附加异常状态催眠"
+	},
+	{
+		"id": 1460,
+		"eng": "Coats armament, inflicting poison",
+		"chn": "能涂在武器上，附加异常状态中毒"
+	},
+	{
+		"id": 1470,
+		"eng": "Coats armament, inflicting frost",
+		"chn": "能涂在武器上，附加异常状态冻伤"
+	},
+	{
+		"id": 1480,
+		"eng": "Coats armament, granting special dragon attacks",
+		"chn": "能涂在武器上，额外增加对龙的伤害"
+	},
+	{
+		"id": 1490,
+		"eng": "Coats armament, inflicting scarlet rot",
+		"chn": "能涂在武器上，附加异常状态猩红腐败"
+	},
+	{
+		"id": 1500,
+		"eng": "Quickly coats armament, inflicting fire damage",
+		"chn": "能快速涂在武器上，附加火属性攻击力"
+	},
+	{
+		"id": 1510,
+		"eng": "Quickly coats armament, inflicting lightning damage",
+		"chn": "能快速涂在武器上，附加雷属性攻击力"
+	},
+	{
+		"id": 1520,
+		"eng": "Quickly coats armament, inflicting magic damage",
+		"chn": "能快速涂在武器上，附加魔力属性攻击力"
+	},
+	{
+		"id": 1530,
+		"eng": "Quickly coats armament, inflicting holy damage",
+		"chn": "能快速涂在武器上，附加圣属性攻击力"
+	},
+	{
+		"id": 1540,
+		"eng": "Quickly coats armament, inflicting blood loss",
+		"chn": "能快速涂在武器上，附加异常状态出血"
+	},
+	{
+		"id": 1550,
+		"eng": "Quickly coats armament, inflicting sleep",
+		"chn": "能快速涂在武器上，附加异常状态催眠"
+	},
+	{
+		"id": 1560,
+		"eng": "Quickly coats armament, inflicting poison",
+		"chn": "能快速涂在武器上，附加异常状态中毒"
+	},
+	{
+		"id": 1570,
+		"eng": "Quickly coats weapon, inflicting frostbite",
+		"chn": "能快速涂在武器上，附加异常状态“冻伤”"
+	},
+	{
+		"id": 1590,
+		"eng": "Quickly coats armament, inflicting scarlet rot",
+		"chn": "能快速涂在武器上，附加异常状态猩红腐败"
+	},
+	{
+		"id": 1690,
+		"eng": "Boosts guarding ability and all damage negation",
+		"chn": "能提升所有的减伤率，以及防御强度"
+	},
+	{
+		"id": 1700,
+		"eng": "Throw at enemies to inflict damage",
+		"chn": "能射向敌人，给予伤害"
+	},
+	{
+		"id": 1710,
+		"eng": "Throw at enemies to inflict damage",
+		"chn": "能射向敌人，给予伤害"
+	},
+	{
+		"id": 1720,
+		"eng": "Throw at enemies to inflict damage and build up poison",
+		"chn": "能射向敌人给予伤害，累积中毒量表"
+	},
+	{
+		"id": 1730,
+		"eng": "Throw at enemies to inflict damage and build up onset of blood loss",
+		"chn": "能射向敌人给予伤害，累积出血量表"
+	},
+	{
+		"id": 1740,
+		"eng": "Uses FP. Throw to inflict magic damage.",
+		"chn": "能消耗专注值射向敌人，给予魔力属性伤害"
+	},
+	{
+		"id": 1750,
+		"eng": "Throw fanned-out knives at enemies to inflict damage",
+		"chn": "能将小刀以扇形射向敌人，给予伤害"
+	},
+	{
+		"id": 1760,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 1810,
+		"eng": "Utterly entrances wild beasts",
+		"chn": "能有效吸引野兽"
+	},
+	{
+		"id": 1830,
+		"eng": "Explodes when thrown, inflicting fire damage",
+		"chn": "能丢向敌人，引发爆炸给予火属性伤害"
+	},
+	{
+		"id": 1831,
+		"eng": "Explodes when thrown together, inflicting fire damage",
+		"chn": "能将石块丢向敌人，引发爆炸给予火属性伤害"
+	},
+	{
+		"id": 1840,
+		"eng": "Throw at enemies to cause buildup of poison",
+		"chn": "能丢向敌人，累积中毒量表"
+	},
+	{
+		"id": 1841,
+		"eng": "Throw together to cause buildup of poison",
+		"chn": "能将石块丢向敌人，累积中毒量表"
+	},
+	{
+		"id": 2020,
+		"eng": "Shines with colored light when placed, serving as a guide",
+		"chn": "放置后能发出七色中任一颜色，成为发光路标"
+	},
+	{
+		"id": 2030,
+		"eng": "Emits a faint light from the location it is placed",
+		"chn": "放置后能散发光芒，照亮四周"
+	},
+	{
+		"id": 2040,
+		"eng": "Allows viewer to see faraway things",
+		"chn": "能够清楚看见远方的景色"
+	},
+	{
+		"id": 2050,
+		"eng": "Light shows the path, but without order",
+		"chn": "能发出光芒引路，但那光芒没有规律可言"
+	},
+	{
+		"id": 2070,
+		"eng": "Attach to waist to illuminate surroundings",
+		"chn": "能挂在腰上，照亮四周"
+	},
+	{
+		"id": 2080,
+		"eng": "Deflects the power of the Black Blade",
+		"chn": "能拨开黑剑的力量"
+	},
+	{
+		"id": 2090,
+		"eng": "Beast Clergyman seeks and devours these",
+		"chn": "野兽祭司在收集、吞噬此物"
+	},
+	{
+		"id": 2100,
+		"eng": "Temporarily reduces fall damage and sound",
+		"chn": "能暂时降低落下损伤与落地声响"
+	},
+	{
+		"id": 2120,
+		"eng": "Removes filth and accumulations on the body",
+		"chn": "在浑身沾上某物时，能去除全身的脏污"
+	},
+	{
+		"id": 2130,
+		"eng": "Carry out Absolution at the Church of Vows",
+		"chn": "能在结缘教堂用于赎罪"
+	},
+	{
+		"id": 2140,
+		"eng": "Briefly binds Margit, once imprisoned, to earth",
+		"chn": "能将曾被囚禁的玛尔基特暂时压制在地"
+	},
+	{
+		"id": 2150,
+		"eng": "Briefly binds Mohg, once imprisoned, to earth",
+		"chn": "能将曾被囚禁的蒙格暂时压制在地"
+	},
+	{
+		"id": 2160,
+		"eng": "Audience with Mohg will be granted, one day",
+		"chn": "能用于觐见蒙格，但现在时机未到"
+	},
+	{
+		"id": 2190,
+		"eng": "Subdues a once-accepted frenzied flame",
+		"chn": "受赐癫火后，能用此物镇定癫火"
+	},
+	{
+		"id": 2200,
+		"eng": "Emits a voice that says \"Hello\"",
+		"chn": "能发出“你好”的声音"
+	},
+	{
+		"id": 2201,
+		"eng": "Emits a voice that says \"Thank you\"",
+		"chn": "能发出“谢谢”的声音"
+	},
+	{
+		"id": 2202,
+		"eng": "Emits a voice that says \"Apologies\"",
+		"chn": "能发出“对不起”的声音"
+	},
+	{
+		"id": 2203,
+		"eng": "Emits a voice that says \"Wonderful\"",
+		"chn": "能发出“太棒了！”的声音"
+	},
+	{
+		"id": 2204,
+		"eng": "Emits a voice that says \"Please help\"",
+		"chn": "能发出“救命啊……”的声音"
+	},
+	{
+		"id": 2205,
+		"eng": "Emits a voice that says \"My beloved\"",
+		"chn": "能发出“我爱你”的声音"
+	},
+	{
+		"id": 2206,
+		"eng": "Emits a voice that says \"Let's get to it\"",
+		"chn": "能发出“我们开始吧”的声音"
+	},
+	{
+		"id": 2207,
+		"eng": "Emits a voice that says \"You're beautiful\"",
+		"chn": "能发出“你长得很好看”的声音"
+	},
+	{
+		"id": 2900,
+		"eng": "Use to gain a small number of runes",
+		"chn": "使用后能获得少量卢恩"
+	},
+	{
+		"id": 2901,
+		"eng": "Use to gain a small number of runes",
+		"chn": "使用后能获得少量卢恩"
+	},
+	{
+		"id": 2902,
+		"eng": "Use to gain runes",
+		"chn": "使用后能获得卢恩"
+	},
+	{
+		"id": 2903,
+		"eng": "Use to gain runes",
+		"chn": "使用后能获得卢恩"
+	},
+	{
+		"id": 2904,
+		"eng": "Use to gain runes",
+		"chn": "使用后能获得卢恩"
+	},
+	{
+		"id": 2905,
+		"eng": "Use to gain many runes",
+		"chn": "使用后能获得大量卢恩"
+	},
+	{
+		"id": 2906,
+		"eng": "Use to gain many runes",
+		"chn": "使用后能获得大量卢恩"
+	},
+	{
+		"id": 2907,
+		"eng": "Use to gain many runes",
+		"chn": "使用后能获得大量卢恩"
+	},
+	{
+		"id": 2908,
+		"eng": "Use to gain many runes",
+		"chn": "使用后能获得大量卢恩"
+	},
+	{
+		"id": 2909,
+		"eng": "Use to gain a great many runes",
+		"chn": "使用后能获得更大量的卢恩"
+	},
+	{
+		"id": 2910,
+		"eng": "Use to gain a great many runes",
+		"chn": "使用后能获得更大量的卢恩"
+	},
+	{
+		"id": 2911,
+		"eng": "Use to gain a great many runes",
+		"chn": "使用后能获得更大量的卢恩"
+	},
+	{
+		"id": 2912,
+		"eng": "Use to gain a great many runes",
+		"chn": "使用后能获得更大量的卢恩"
+	},
+	{
+		"id": 2913,
+		"eng": "Use to gain a multitude of runes",
+		"chn": "使用后能获得极大量的卢恩"
+	},
+	{
+		"id": 2914,
+		"eng": "Use to gain an abundance of runes",
+		"chn": "使用后能获得巨量卢恩"
+	},
+	{
+		"id": 2915,
+		"eng": "Use to gain an abundance of runes",
+		"chn": "使用后能获得巨量卢恩"
+	},
+	{
+		"id": 2916,
+		"eng": "Use to gain an abundance of runes",
+		"chn": "使用后能获得巨量卢恩"
+	},
+	{
+		"id": 2917,
+		"eng": "Use to gain an abundance of runes",
+		"chn": "使用后能获得巨量卢恩"
+	},
+	{
+		"id": 2918,
+		"eng": "Use to gain an abundance of runes",
+		"chn": "使用后能获得巨量卢恩"
+	},
+	{
+		"id": 2919,
+		"eng": "Use to gain an enormous abundance of runes",
+		"chn": "使用后能获得极巨量的卢恩"
+	},
+	{
+		"id": 2950,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2951,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2952,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2953,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2954,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2955,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2956,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2957,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2958,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2959,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2960,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2961,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2962,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2963,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2964,
+		"eng": "Take the power of its namesake via Finger Reader",
+		"chn": "透过解指的帮助，能获得追忆之主的力量"
+	},
+	{
+		"id": 2990,
+		"eng": "Use to gain many runes",
+		"chn": "使用后能获得大量卢恩"
+	},
+	{
+		"id": 3000,
+		"eng": "Uses FP to spray spirit vapor",
+		"chn": "能消耗专注值，喷出灵魂水雾"
+	},
+	{
+		"id": 3010,
+		"eng": "Uses FP to unleash wraiths that chase down foes",
+		"chn": "能消耗专注值，释放穷追不舍的咒魂"
+	},
+	{
+		"id": 3011,
+		"eng": "Uses FP to unleash many wraiths that chase down foes",
+		"chn": "能消耗专注值，释放大量穷追不舍的咒魂"
+	},
+	{
+		"id": 3020,
+		"eng": "Uses FP to call down a deluge of light",
+		"chn": "能消耗专注值，召唤光芒暴雨"
+	},
+	{
+		"id": 3030,
+		"eng": "Uses FP to produce a magic bolt",
+		"chn": "能消耗专注值，形成魔力球"
+	},
+	{
+		"id": 3040,
+		"eng": "Uses FP to mimic nearby objects",
+		"chn": "能消耗专注值，拟态成各种物体"
+	},
+	{
+		"id": 3050,
+		"eng": "Break gem and use FP to produce a magic bolt",
+		"chn": "能消耗专注值捏碎，形成魔力球"
+	},
+	{
+		"id": 3051,
+		"eng": "Break gem and use FP to produce many magic bolts",
+		"chn": "能消耗专注值捏碎，形成大量魔力球"
+	},
+	{
+		"id": 3060,
+		"eng": "Uses FP to emit fan-shaped gravitational shockwave",
+		"chn": "能消耗专注值，引发扇形的重力冲击波"
+	},
+	{
+		"id": 3070,
+		"eng": "Uses FP to cause a gravitational explosion",
+		"chn": "能消耗专注值丢出，引发重力爆炸"
+	},
+	{
+		"id": 3080,
+		"eng": "Uses FP to ring bell and calls prowling wraiths",
+		"chn": "能消耗专注值摇动，召唤徘徊的咒魂"
+	},
+	{
+		"id": 3300,
+		"eng": "Consumes FP, allowing weapon to purify undead foes",
+		"chn": "能消耗专注值涂在武器上，净化死诞者"
+	},
+	{
+		"id": 3310,
+		"eng": "Uses FP to continuously heal nearby allies",
+		"chn": "能消耗专注值，让附近的人物持续恢复血量"
+	},
+	{
+		"id": 3311,
+		"eng": "Uses FP to continuously heal chaos followers",
+		"chn": "身怀癫火的人物，能持续恢复血量"
+	},
+	{
+		"id": 3320,
+		"eng": "Reveals more messages from other worlds",
+		"chn": "能接收到更多来自其他世界的讯息"
+	},
+	{
+		"id": 3350,
+		"eng": "Uses FP to charm pierced enemy",
+		"chn": "能消耗专注值，让刺中的敌人受到魅惑"
+	},
+	{
+		"id": 3360,
+		"eng": "Uses FP to temporarily boost poise",
+		"chn": "能消耗专注值，暂时提升强韧度"
+	},
+	{
+		"id": 3361,
+		"eng": "Uses FP to temporarily boost poise",
+		"chn": "能消耗专注值，暂时提升强韧度"
+	},
+	{
+		"id": 3500,
+		"eng": "Boosts ally attack power and reduces incoming damage once",
+		"chn": "能提升我方的攻击力，仅限一次减少受到的损伤"
+	},
+	{
+		"id": 3510,
+		"eng": "Uses FP to scatter sparks in a wide area",
+		"chn": "能消耗专注值，释放大范围火花"
+	},
+	{
+		"id": 3520,
+		"eng": "Uses FP to temporarily turn wielder's body to steel",
+		"chn": "能消耗专注值，暂时让全身化为铁块"
+	},
+	{
+		"id": 3550,
+		"eng": "Uses FP to enter a temporary state of fervor",
+		"chn": "能消耗专注值，暂时让情绪充满狂热"
+	},
+	{
+		"id": 3580,
+		"eng": "Uses FP to release poison mist from the mouth",
+		"chn": "能消耗专注值，吐出毒粉雾"
+	},
+	{
+		"id": 3610,
+		"eng": "Uses FP to release acid mist from the mouth",
+		"chn": "能消耗专注值，吐出强酸粉雾"
+	},
+	{
+		"id": 4000,
+		"eng": "Fires magic projectiles from glintstone",
+		"chn": "从手杖的辉石释放魔力石砾"
+	},
+	{
+		"id": 4001,
+		"eng": "Fires larger magic projectiles from glintstone",
+		"chn": "从手杖的辉石释放大块魔力石砾"
+	},
+	{
+		"id": 4010,
+		"eng": "Swiftly fires magic projectiles from glintstone",
+		"chn": "从手杖的辉石快速释放魔力石砾"
+	},
+	{
+		"id": 4020,
+		"eng": "Fires a magic comet with a trailing tail",
+		"chn": "释放拖长尾巴的魔力彗星"
+	},
+	{
+		"id": 4021,
+		"eng": "Fires a great magic comet",
+		"chn": "释放等同魔力大彗星的帚星"
+	},
+	{
+		"id": 4030,
+		"eng": "Fires twin spiraling projectiles",
+		"chn": "释放以漩涡状飞出的两道石砾"
+	},
+	{
+		"id": 4040,
+		"eng": "Fires three shooting stars that pursue foes",
+		"chn": "释放朝目标飞去的三道流星"
+	},
+	{
+		"id": 4050,
+		"eng": "Fires six shooting stars that pursue foes",
+		"chn": "释放朝目标飞去的六道流星"
+	},
+	{
+		"id": 4060,
+		"eng": "Fires a volley of glintstone crystal shards",
+		"chn": "连续释放辉石结晶碎片"
+	},
+	{
+		"id": 4070,
+		"eng": "Fires a horizontally-widening magic arc",
+		"chn": "释放大幅横向扩散的魔力弯弧"
+	},
+	{
+		"id": 4080,
+		"eng": "Lobs an explosive magic projectile in an arc",
+		"chn": "释放以拋物线飞去的魔力炮弹"
+	},
+	{
+		"id": 4090,
+		"eng": "Fires a burst of glintstone crystal shards",
+		"chn": "同时释放大量辉石结晶碎片"
+	},
+	{
+		"id": 4100,
+		"eng": "Thrust staff into ground to emit a shockwave",
+		"chn": "将手杖刺入地面，在周围引发魔力冲击波"
+	},
+	{
+		"id": 4110,
+		"eng": "Thrust staff into ground to emit a massive shockwave",
+		"chn": "将手杖刺入地面，引发大幅度的魔力冲击波"
+	},
+	{
+		"id": 4120,
+		"eng": "Attacks using a magic greathammer",
+		"chn": "形成魔力大槌，使出敲击"
+	},
+	{
+		"id": 4130,
+		"eng": "Raises the magic strength of those within the sigil",
+		"chn": "在魔法阵内的人物能提升魔法威力"
+	},
+	{
+		"id": 4140,
+		"eng": "Creates star light to illuminate surroundings",
+		"chn": "释放浮空的小颗星光，照亮四周"
+	},
+	{
+		"id": 4200,
+		"eng": "Fires a tremendous comet within a starry torrent",
+		"chn": "释放等同星空激流的极大型彗星"
+	},
+	{
+		"id": 4210,
+		"eng": "Releases a downpour of star rain for a while",
+		"chn": "一定时间内，降下磅礡的星雨"
+	},
+	{
+		"id": 4220,
+		"eng": "Fires twelve dark shooting stars that pursue foes",
+		"chn": "释放朝目标飞去的十二道深色流星"
+	},
+	{
+		"id": 4300,
+		"eng": "Forms a defensive arch of magic glintblades",
+		"chn": "形成魔力辉剑排成的圆阵"
+	},
+	{
+		"id": 4301,
+		"eng": "Forms a defensive arch of numerous magic glintblades",
+		"chn": "形成大量魔力辉剑排成的圆阵"
+	},
+	{
+		"id": 4302,
+		"eng": "Forms a defensive arch of larger magic glintblades",
+		"chn": "形成巨型魔力辉剑排成的圆阵"
+	},
+	{
+		"id": 4360,
+		"eng": "Incarnate a full moon and launch it at foes",
+		"chn": "呼唤满月降临自身，月亮将朝敌人飞去"
+	},
+	{
+		"id": 4361,
+		"eng": "Incarnate a cold, dark moon and launch it at foes",
+		"chn": "呼唤冰冷暗月降临自身，月亮将朝敌人飞去"
+	},
+	{
+		"id": 4370,
+		"eng": "Summon a magic mass that sprays projectiles over area",
+		"chn": "放出浮空魔力块，再大范围降下魔力球"
+	},
+	{
+		"id": 4380,
+		"eng": "Fires great arrow from a magic greatbow",
+		"chn": "形成魔力大弓，射出大箭"
+	},
+	{
+		"id": 4381,
+		"eng": "Fires four great arrows from magic greatbow at once",
+		"chn": "形成魔力大弓，同时射出４支大箭"
+	},
+	{
+		"id": 4390,
+		"eng": "Creates sigil that forms a projectile glintblade after delay",
+		"chn": "在自身头上画出魔法阵，形成延后现形的辉剑"
+	},
+	{
+		"id": 4400,
+		"eng": "Fires mass of cold magic from glintstone",
+		"chn": "从手杖的辉石释放冰冷的魔力块"
+	},
+	{
+		"id": 4410,
+		"eng": "Thrust staff into ground to create freezing tornado",
+		"chn": "将手杖刺入地面，在周围形成寒气风暴"
+	},
+	{
+		"id": 4420,
+		"eng": "Releases cold mist before caster",
+		"chn": "朝前方形成冰冷寒雾"
+	},
+	{
+		"id": 4430,
+		"eng": "Performs sweeping slash using magical greatsword",
+		"chn": "形成魔力大剑，使出横扫"
+	},
+	{
+		"id": 4431,
+		"eng": "Sweeping slash followed by cold blade projectile",
+		"chn": "使出横扫的同时，释放寒气刀刃"
+	},
+	{
+		"id": 4440,
+		"eng": "Performs swift sweeping slash using magical sword",
+		"chn": "形成魔力剑，使出快速横扫"
+	},
+	{
+		"id": 4450,
+		"eng": "Impales foes with magical greatsword",
+		"chn": "形成魔力大剑，使出突刺"
+	},
+	{
+		"id": 4460,
+		"eng": "Enchants right-hand armament with magic damage",
+		"chn": "在右手武器附加魔力属性攻击力"
+	},
+	{
+		"id": 4470,
+		"eng": "Enhances left-hand shield damage negation",
+		"chn": "以魔力提升左手盾牌的减伤率"
+	},
+	{
+		"id": 4480,
+		"eng": "Alleviates buildup of sleep and madness",
+		"chn": "减轻催眠、发狂量表的累积"
+	},
+	{
+		"id": 4490,
+		"eng": "Enchants right-hand armament with frost",
+		"chn": "在右手武器附加异常状态冻伤"
+	},
+	{
+		"id": 4500,
+		"eng": "Creates crystal mass that shatters in forward burst",
+		"chn": "形成结晶块，粉碎后朝前方释放"
+	},
+	{
+		"id": 4510,
+		"eng": "Scours area with violent rain of crystal shards",
+		"chn": "降下大范围、气势磅礡的结晶碎片"
+	},
+	{
+		"id": 4520,
+		"eng": "Creates crystal mass that fires stream of crystal shards",
+		"chn": "形成结晶块，连续释放结晶碎片"
+	},
+	{
+		"id": 4600,
+		"eng": "Strikes from behind with projectile fired from distance",
+		"chn": "释放会从远方偷袭敌人背后的石砾"
+	},
+	{
+		"id": 4610,
+		"eng": "Swiftly fires semi-invisible magic projectile",
+		"chn": "快速释放难以辨识的魔力石砾"
+	},
+	{
+		"id": 4620,
+		"eng": "Fires semi-invisible magic comet",
+		"chn": "释放难以辨识的魔力彗星"
+	},
+	{
+		"id": 4630,
+		"eng": "Erect a magic forcefield to deflect spells",
+		"chn": "形成魔力力场，拨开魔法与祷告"
+	},
+	{
+		"id": 4640,
+		"eng": "Dispels enemy spells and retaliates with glintblades",
+		"chn": "消除魔法与祷告后，再借力形成辉剑"
+	},
+	{
+		"id": 4650,
+		"eng": "Creates dark space that draws in spells",
+		"chn": "形成黑暗，吸引魔法与祷告"
+	},
+	{
+		"id": 4660,
+		"eng": "Makes right-hand armament completely invisible",
+		"chn": "完全消除右手武器的模样"
+	},
+	{
+		"id": 4670,
+		"eng": "Makes the caster semi-invisible",
+		"chn": "将难以辨识施展者的身影"
+	},
+	{
+		"id": 4700,
+		"eng": "Calls small meteorites down from the sky",
+		"chn": "从虚无空间召唤小颗陨石，引发坠落"
+	},
+	{
+		"id": 4701,
+		"eng": "Calls a hail of small meteorites from the void",
+		"chn": "从虚无空间召唤大量小颗陨石，引发坠落"
+	},
+	{
+		"id": 4710,
+		"eng": "Summons rocks from the earth and sends it flying",
+		"chn": "从地面召唤、释放岩石块"
+	},
+	{
+		"id": 4720,
+		"eng": "Pulls foes toward caster with gravity projectile",
+		"chn": "释放重力球，命中的对象会被拉向自己"
+	},
+	{
+		"id": 4721,
+		"eng": "Pulls foes toward caster with gravity projectile volley",
+		"chn": "释放多颗重力球，命中的对象会被拉向自己"
+	},
+	{
+		"id": 4800,
+		"eng": "Fires lump of magma that explodes on contact",
+		"chn": "释放命中后会爆炸的熔岩球"
+	},
+	{
+		"id": 4810,
+		"eng": "Covers area with surge of magma from the earth",
+		"chn": "从地面引起熔岩喷发，洒向四周"
+	},
+	{
+		"id": 4820,
+		"eng": "Fires lump of magma that explodes after delay",
+		"chn": "释放命中后会延迟爆炸的熔岩球"
+	},
+	{
+		"id": 4830,
+		"eng": "Releases searing spirits that repeatedly explode after delay",
+		"chn": "释放受熏烧的怨魂，引发延迟性的连续爆炸"
+	},
+	{
+		"id": 4900,
+		"eng": "Summons thorns from a whorl of own blood",
+		"chn": "伤害自己，召唤漩涡状的鲜血大荆棘"
+	},
+	{
+		"id": 4910,
+		"eng": "Wounds caster to unleash trail of bloodthorns",
+		"chn": "伤害自己，召唤爬走地面的鲜血荆棘"
+	},
+	{
+		"id": 5000,
+		"eng": "Summons vengeful spirits that chase down foes",
+		"chn": "召唤穷追不舍的怨魂群"
+	},
+	{
+		"id": 5001,
+		"eng": "Summons horde of vengeful spirits that chase down foes",
+		"chn": "召唤大量穷追不舍的怨魂群"
+	},
+	{
+		"id": 5010,
+		"eng": "Causes ghostflame explosion that burns wide area",
+		"chn": "引发灵火爆炸，大范围燃烧四周"
+	},
+	{
+		"id": 5020,
+		"eng": "Releases a mist of death before caster",
+		"chn": "朝前方形成死亡烟雾"
+	},
+	{
+		"id": 5030,
+		"eng": "Summons Those Who Live in Death",
+		"chn": "召唤死诞者群"
+	},
+	{
+		"id": 5040,
+		"eng": "Strikes surroundings with storm of death lightning",
+		"chn": "在周围降下剧烈的死亡落雷"
+	},
+	{
+		"id": 5100,
+		"eng": "Launches several small magic bubbles",
+		"chn": "释放数个小型的魔力泡泡"
+	},
+	{
+		"id": 5110,
+		"eng": "Launches a large magic bubble",
+		"chn": "释放一个大型的魔力泡泡"
+	},
+	{
+		"id": 6000,
+		"eng": "Momentarily sparks flame from hand",
+		"chn": "从手中引发瞬间燃烧的火焰"
+	},
+	{
+		"id": 6001,
+		"eng": "Momentarily sparks roaring flame from hand",
+		"chn": "从手中引发瞬间剧烈燃烧的火焰"
+	},
+	{
+		"id": 6010,
+		"eng": "Throws ball of raging fire",
+		"chn": "丢掷燃烧的火焰球"
+	},
+	{
+		"id": 6020,
+		"eng": "Hurls several balls of fire at once",
+		"chn": "一口气丢掷多颗火焰球"
+	},
+	{
+		"id": 6030,
+		"eng": "Sweeps area before caster with stream of fire",
+		"chn": "朝前方横扫持续喷出、漩涡状燃烧的火焰"
+	},
+	{
+		"id": 6040,
+		"eng": "Alleviates buildup & cures poison and scarlet rot",
+		"chn": "减轻中毒、猩红腐败量表的累积，治愈上述异常状态"
+	},
+	{
+		"id": 6050,
+		"eng": "Raises physical and fire-affinity attack power",
+		"chn": "提升物理攻击力与火属性攻击力"
+	},
+	{
+		"id": 6060,
+		"eng": "Greatly increases fire damage negation",
+		"chn": "大幅提升火属性减伤率"
+	},
+	{
+		"id": 6100,
+		"eng": "Hurls massive ball of raging fire",
+		"chn": "丢掷燃烧的巨大火焰球"
+	},
+	{
+		"id": 6110,
+		"eng": "Summons raging fireball that explodes and sets the area ablaze",
+		"chn": "丢掷熊熊燃烧的火焰球，引发爆炸、燃烧四周"
+	},
+	{
+		"id": 6120,
+		"eng": "Raises a series of flame pillars around caster",
+		"chn": "在自身周围燃起接连形成的火焰柱"
+	},
+	{
+		"id": 6210,
+		"eng": "Throws a ball of raging black fire",
+		"chn": "丢掷燃烧的黑焰球"
+	},
+	{
+		"id": 6220,
+		"eng": "Incinerates area before caster with stream of fire",
+		"chn": "朝前方喷出持续并剧烈燃烧的火焰"
+	},
+	{
+		"id": 6230,
+		"eng": "Sweeps area before caster with black flame",
+		"chn": "朝前方大幅度横扫黑焰"
+	},
+	{
+		"id": 6240,
+		"eng": "Summons circle of black flame pillars around caster",
+		"chn": "在自身周围燃起环绕的黑焰柱"
+	},
+	{
+		"id": 6250,
+		"eng": "Enchants right-hand armament with black flame",
+		"chn": "在右手武器缠绕黑焰"
+	},
+	{
+		"id": 6260,
+		"eng": "Increases physical damage negation",
+		"chn": "提升物理减伤率"
+	},
+	{
+		"id": 6270,
+		"eng": "Thrust out belly with gusto to unleash repelling shockwave",
+		"chn": "大幅度突出腹部，形成弹飞周围人物的冲击波"
+	},
+	{
+		"id": 6300,
+		"eng": "Creates bloodflame lacerations that then explode",
+		"chn": "朝前方形成血焰爪痕，随后引发爆炸"
+	},
+	{
+		"id": 6310,
+		"eng": "Scatters bloodflame before caster to set area aflame",
+		"chn": "朝前方喷洒血焰，引发燃烧"
+	},
+	{
+		"id": 6320,
+		"eng": "Enchants right-hand armament with bloodflame",
+		"chn": "在右手武器缠绕血焰"
+	},
+	{
+		"id": 6330,
+		"eng": "Greatly increases magic damage negation for self & allies",
+		"chn": "包含周围我方人物，大幅提升魔力属性减伤率"
+	},
+	{
+		"id": 6340,
+		"eng": "Increases affinity damage negation for self & allies",
+		"chn": "包含周围我方人物，提升所有属性的减伤率"
+	},
+	{
+		"id": 6400,
+		"eng": "Produces a shockwave that pushes away foes",
+		"chn": "形成弹飞周围人物的冲击波"
+	},
+	{
+		"id": 6410,
+		"eng": "Produces golden shockwave that knocks back foes",
+		"chn": "形成弹飞周围人物的黄金冲击波"
+	},
+	{
+		"id": 6420,
+		"eng": "Heals a small amount of HP",
+		"chn": "些微恢复血量"
+	},
+	{
+		"id": 6421,
+		"eng": "Heals HP for self and nearby allies",
+		"chn": "包含周围我方人物，恢复血量"
+	},
+	{
+		"id": 6422,
+		"eng": "Greatly heals HP for self and nearby allies",
+		"chn": "包含周围我方人物，大幅恢复血量"
+	},
+	{
+		"id": 6423,
+		"eng": "Massively heals HP for self and nearby allies",
+		"chn": "包含周围我方人物，极大幅恢复血量"
+	},
+	{
+		"id": 6424,
+		"eng": "Vastly heals HP for self and nearby allies",
+		"chn": "包含周围我方人物，巨幅恢复血量"
+	},
+	{
+		"id": 6430,
+		"eng": "Grants blessing to self and nearby allies",
+		"chn": "包含周围我方人物，赐予恩惠赐福"
+	},
+	{
+		"id": 6431,
+		"eng": "Grants greater blessing to self and nearby allies",
+		"chn": "包含周围我方人物，赐予强大的恩惠赐福"
+	},
+	{
+		"id": 6440,
+		"eng": "Alleviates poison buildup and cures poison",
+		"chn": "减轻中毒量表的累积，治愈中毒状态"
+	},
+	{
+		"id": 6441,
+		"eng": "Alleviates poison/blood loss/sleep buildup for self/allies",
+		"chn": "包含周围我方人物，减轻中毒、出血、催眠量表的累积"
+	},
+	{
+		"id": 6450,
+		"eng": "Increases fire damage negation",
+		"chn": "提升火属性减伤率"
+	},
+	{
+		"id": 6460,
+		"eng": "Increases magic damage negation",
+		"chn": "提升魔力属性减伤率"
+	},
+	{
+		"id": 6470,
+		"eng": "Increases lightning damage negation",
+		"chn": "提升雷属性减伤率"
+	},
+	{
+		"id": 6480,
+		"eng": "Increases holy damage negation",
+		"chn": "提升圣属性减伤率"
+	},
+	{
+		"id": 6490,
+		"eng": "Greatly increases holy damage negation incl. allies",
+		"chn": "包含周围我方人物，大幅提升圣属性减伤率"
+	},
+	{
+		"id": 6500,
+		"eng": "Releases life-sapping silver mist before caster",
+		"chn": "朝前方形成侵蚀生命的银色烟雾"
+	},
+	{
+		"id": 6510,
+		"eng": "Silences footsteps, reduces fall damage/sound",
+		"chn": "消除脚步声，并降低落下损伤与落地声响"
+	},
+	{
+		"id": 6520,
+		"eng": "Creates shadow that lures the aggression of foes of human build",
+		"chn": "朝前方放出影子，吸引有着人类之身的敌人攻击"
+	},
+	{
+		"id": 6530,
+		"eng": "Creates area of darkness that conceals caster",
+		"chn": "让黑暗覆盖四周，隐藏执行者的身影"
+	},
+	{
+		"id": 6600,
+		"eng": "Increases attack and defense for self and allies",
+		"chn": "包含周围我方人物，提升攻击力与防御力"
+	},
+	{
+		"id": 6700,
+		"eng": "Fires ring of light before the caster",
+		"chn": "朝前方形成、释放黄金光环"
+	},
+	{
+		"id": 6701,
+		"eng": "Fires three rings of light before the caster",
+		"chn": "朝前方形成、释放三个黄金光环"
+	},
+	{
+		"id": 6710,
+		"eng": "Creates golden ring of light to attack wide area",
+		"chn": "形成、扩大黄金光环，攻击四周"
+	},
+	{
+		"id": 6720,
+		"eng": "Creates a stream of golden shooting stars that assail the area",
+		"chn": "形成无数颗黄金流星，攻击四周"
+	},
+	{
+		"id": 6730,
+		"eng": "Heals all ailments and dispels all special effects",
+		"chn": "治愈所有异常状态，并消除特殊效果"
+	},
+	{
+		"id": 6740,
+		"eng": "Increases left-hand shield's affinity/ailment resistance",
+		"chn": "提升左手盾牌的属性、异常状态的减伤率"
+	},
+	{
+		"id": 6750,
+		"eng": "Creates image of Order to deal holy damage",
+		"chn": "模仿圣律的模样，给予圣属性伤害"
+	},
+	{
+		"id": 6760,
+		"eng": "Retaliates upon receiving a number of blows",
+		"chn": "受到一定程度的攻击后，会自动反击"
+	},
+	{
+		"id": 6770,
+		"eng": "Enchanted right-hand armament with holy damage",
+		"chn": "在右手武器附加圣属性攻击力"
+	},
+	{
+		"id": 6780,
+		"eng": "Alleviates death blight buildup",
+		"chn": "减轻死亡量表的累积"
+	},
+	{
+		"id": 6800,
+		"eng": "Swiftly flings numerous sharp rock shards",
+		"chn": "快速释放大量锐利石片"
+	},
+	{
+		"id": 6810,
+		"eng": "Hurls a boulder before the caster",
+		"chn": "朝前方丢掷巨大岩石"
+	},
+	{
+		"id": 6820,
+		"eng": "Creates beast claws that tear through the land",
+		"chn": "长出兽爪，以冲击撕裂地面"
+	},
+	{
+		"id": 6830,
+		"eng": "Creates beast claws to rend surroundings with shockwaves",
+		"chn": "长出兽爪，以冲击撕裂四周"
+	},
+	{
+		"id": 6840,
+		"eng": "Heals HP over a period of time",
+		"chn": "一定时间内，持续恢复血量"
+	},
+	{
+		"id": 6850,
+		"eng": "Alleviates blood loss and frost buildup",
+		"chn": "减轻出血、冻伤量表的累积"
+	},
+	{
+		"id": 6900,
+		"eng": "Hurls lightning spear before caster",
+		"chn": "召唤雷电枪，朝前方丢掷"
+	},
+	{
+		"id": 6910,
+		"eng": "Summons red lightning that spreads from impact",
+		"chn": "召唤红落雷，朝周围爬窜"
+	},
+	{
+		"id": 6920,
+		"eng": "Summons lightning bolt that spreads from impact",
+		"chn": "召唤落雷，朝前方爬窜"
+	},
+	{
+		"id": 6921,
+		"eng": "Stabs with ice lightning spear from above",
+		"chn": "召唤冰雷枪，从空中刺入地面"
+	},
+	{
+		"id": 6930,
+		"eng": "Strikes foe with lightning bolt from above",
+		"chn": "在目标头上降下落雷"
+	},
+	{
+		"id": 6940,
+		"eng": "Stabs with red lightning spear from above",
+		"chn": "召唤红雷枪，从空中刺入地面"
+	},
+	{
+		"id": 6941,
+		"eng": "Stabs from above with two red lightning spears in tandem",
+		"chn": "召唤两支红雷枪，从空中连续刺入地面"
+	},
+	{
+		"id": 6950,
+		"eng": "Sweeps from above with red lightning glaive",
+		"chn": "召唤红雷刀，从空中横扫"
+	},
+	{
+		"id": 6960,
+		"eng": "Enchants right-hand armament with lightning damage",
+		"chn": "在右手武器附加雷属性攻击力"
+	},
+	{
+		"id": 6970,
+		"eng": "Bolsters right-hand armament & body with red lightning",
+		"chn": "召唤红色雷电，缠绕右手武器与全身"
+	},
+	{
+		"id": 6971,
+		"eng": "Bolsters caster's body with lightning",
+		"chn": "召唤雷电，缠绕执行者全身"
+	},
+	{
+		"id": 7000,
+		"eng": "Channels dragon to spew flame breath",
+		"chn": "将自身化为龙，喷出火焰吐息"
+	},
+	{
+		"id": 7001,
+		"eng": "Spews flame breath of Agheel from above",
+		"chn": "从空中喷出“飞龙”亚基尔的火焰"
+	},
+	{
+		"id": 7010,
+		"eng": "Channels wyrm to spew magma breath",
+		"chn": "将自身化为土龙，喷出熔岩吐息"
+	},
+	{
+		"id": 7011,
+		"eng": "Spews magma breath of Theodorix from above",
+		"chn": "喷出“大土龙”席欧朵利克的熔岩吐息"
+	},
+	{
+		"id": 7020,
+		"eng": "Channels dragon to spew icy breath",
+		"chn": "将自身化为龙，喷出寒冰吐息"
+	},
+	{
+		"id": 7021,
+		"eng": "Spews icy breath of Borealis from above",
+		"chn": "从空中喷出玻列琉斯的冰雾"
+	},
+	{
+		"id": 7030,
+		"eng": "Channels dragon to spew scarlet rot breath",
+		"chn": "将自身化为龙，喷出猩红腐败吐息"
+	},
+	{
+		"id": 7031,
+		"eng": "Spews scarlet rot breath of Ekzykes from above",
+		"chn": "从空中喷出艾格基斯的猩红腐败吐息"
+	},
+	{
+		"id": 7040,
+		"eng": "Channels dragon to spew magic breath",
+		"chn": "将自身化为龙，喷出魔力吐息"
+	},
+	{
+		"id": 7041,
+		"eng": "Spews magic breath of Glintstone Dragon Smarag from above",
+		"chn": "从空中喷出“辉石龙”史玛拉格的魔力吐息"
+	},
+	{
+		"id": 7050,
+		"eng": "Spews golden breath of Dragonlord Placidusax",
+		"chn": "从空中喷出“龙王”普拉顿桑克斯的金色吐息"
+	},
+	{
+		"id": 7060,
+		"eng": "Channels dragon to rend foes with dragon claws",
+		"chn": "将自身化为龙，以龙爪撕裂敌人"
+	},
+	{
+		"id": 7080,
+		"eng": "Channels dragon to bite foes before caster",
+		"chn": "将自身化为龙，朝前方咬碎敌人"
+	},
+	{
+		"id": 7090,
+		"eng": "Emits the roar of Elder Dragon Greyoll",
+		"chn": "响彻“古老龙”桂奥尔的巨响咆哮"
+	},
+	{
+		"id": 7200,
+		"eng": "Launches countless sticky threads before caster",
+		"chn": "分泌大量具粘性的丝线，朝前方释放"
+	},
+	{
+		"id": 7210,
+		"eng": "Releases a swarm of bloodflies before caster",
+		"chn": "朝前方释放一群血蝇，袭击敌人"
+	},
+	{
+		"id": 7220,
+		"eng": "Releases poison mist before caster",
+		"chn": "朝前方形成毒性烟雾"
+	},
+	{
+		"id": 7230,
+		"eng": "Enchants right-hand armament with poison",
+		"chn": "在右手武器缠绕毒素"
+	},
+	{
+		"id": 7240,
+		"eng": "Creates giant flower that explodes with scarlet rot",
+		"chn": "绽放大株花朵，引爆猩红腐败"
+	},
+	{
+		"id": 7300,
+		"eng": "Latches onto foes to spread madness",
+		"chn": "抓住目标，传染异常状态发狂"
+	},
+	{
+		"id": 7310,
+		"eng": "Emits burst of yellow flame of frenzy from eyes",
+		"chn": "从眼睛迸发黄色癫火"
+	},
+	{
+		"id": 7311,
+		"eng": "Emits violent burst of yellow flame of frenzy from eyes",
+		"chn": "从眼睛迸发剧烈黄色癫火"
+	},
+	{
+		"id": 7320,
+		"eng": "Emits concentrated blast of yellow flame of frenzy from eyes",
+		"chn": "从眼睛凝聚、释放黄色癫火"
+	},
+	{
+		"id": 7330,
+		"eng": "Shrieks, building up madness in nearby foes",
+		"chn": "发出疯狂吼声，让周围人物累积发狂量表"
+	},
+	{
+		"id": 7500,
+		"eng": "Creates supple tail to sweep area before caster",
+		"chn": "形成修长的尾巴，横扫前方"
+	},
+	{
+		"id": 7510,
+		"eng": "Creates shoulder horn to gore foes from low stance",
+		"chn": "在肩膀形成硬角，压低姿势再向上突刺"
+	},
+	{
+		"id": 7520,
+		"eng": "Creates throat pouch to spew fire while walking",
+		"chn": "形成巨大喉囊，一边走动一边喷出火焰吐息"
+	},
+	{
+		"id": 7530,
+		"eng": "Black blade spinning slash that emits wave of light",
+		"chn": "形成黑剑，旋转的同时攻击敌人，再释放光波"
+	},
+	{
+		"id": 7900,
+		"eng": "Sets area and self ablaze with raging flames",
+		"chn": "引发剧烈自燃，连同周围一起燃烧"
+	},
+	{
+		"id": 7903,
+		"eng": "Greatly increases lightning resistance for self and allies",
+		"chn": "包含周围我方人物，大幅提升雷属性减伤率"
+	},
+	{
+		"id": 8000,
+		"eng": "Use to break one imp statue seal",
+		"chn": "能解开小恶魔像的封印，但使用后会消失"
+	},
+	{
+		"id": 8010,
+		"eng": "Opens a locked door in Stormveil Castle",
+		"chn": "能打开史东薇尔城内上锁的门"
+	},
+	{
+		"id": 8102,
+		"eng": "Raise in prayer to gain protection",
+		"chn": "高举祈祷后，能获得庇佑"
+	},
+	{
+		"id": 8105,
+		"eng": "Join medallions to operate Grand Lift of Dectus",
+		"chn": "拼合符节，能够启动迪可达斯大升降机"
+	},
+	{
+		"id": 8106,
+		"eng": "Join medallions to operate Grand Lift of Dectus",
+		"chn": "拼合符节，能够启动迪可达斯大升降机"
+	},
+	{
+		"id": 8107,
+		"eng": "Operates Grand Lift of Rold",
+		"chn": "能够启动洛德大升降机"
+	},
+	{
+		"id": 8109,
+		"eng": "Key to open the academy's two sealed gates",
+		"chn": "与学院２道大门的封印有关的钥匙"
+	},
+	{
+		"id": 8111,
+		"eng": "Key revealing the hidden form of Carian Study Hall",
+		"chn": "揭开卡利亚书斋隐藏样貌的关键"
+	},
+	{
+		"id": 8121,
+		"eng": "Ring of Lunar Princess Ranni's cold oath",
+		"chn": "“月之公主”菈妮的冰冷契约戒指"
+	},
+	{
+		"id": 8126,
+		"eng": "Eyeball of the knight Vyke, inflamed yellow",
+		"chn": "骑士维克烧烂发黄的眼球"
+	},
+	{
+		"id": 8127,
+		"eng": "Request from Volcano Manor\nExamine using <?keyicon@31?>",
+		"chn": "来自火山官邸的委托信\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8128,
+		"eng": "Tonic that banishes distress and bitter memories",
+		"chn": "能够忘记一切痛苦、烦恼的秘药"
+	},
+	{
+		"id": 8129,
+		"eng": "Amnion from a womb that bore unintended offspring",
+		"chn": "仪式下的弃子在母体内包覆的羊膜"
+	},
+	{
+		"id": 8130,
+		"eng": "Necklace worn everywhere by Irina",
+		"chn": "伊蕾娜不离身的项链"
+	},
+	{
+		"id": 8131,
+		"eng": "Letter addressed to the commander of Castle Morne",
+		"chn": "寄给摩恩城的掌权者，伊蕾娜的父亲的信"
+	},
+	{
+		"id": 8132,
+		"eng": "Request from Volcano Manor\nExamine using <?keyicon@31?>",
+		"chn": "来自火山官邸的委托信\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8133,
+		"eng": "Request from Volcano Manor\nExamine using <?keyicon@31?>",
+		"chn": "来自火山官邸的委托信\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8134,
+		"eng": "Key to the Volcano Manor drawing room",
+		"chn": "火山官邸的客房钥匙"
+	},
+	{
+		"id": 8136,
+		"eng": "Rya's necklace, stolen by a blackguard",
+		"chn": "菈雅被流氓拿走的项链"
+	},
+	{
+		"id": 8137,
+		"eng": "Letter of invitation to Volcano Manor",
+		"chn": "内容写着邀请加入火山官邸的信"
+	},
+	{
+		"id": 8142,
+		"eng": "Ingredient used in special draught",
+		"chn": "能作为特殊药水的材料"
+	},
+	{
+		"id": 8143,
+		"eng": "Letter of introduction addressed to Sellen",
+		"chn": "寄给辉石魔法师瑟濂的介绍信"
+	},
+	{
+		"id": 8144,
+		"eng": "Glintstone from within Sellen's body",
+		"chn": "魔法师瑟濂体内的辉石"
+	},
+	{
+		"id": 8146,
+		"eng": "Doll resembling Ranni the Witch",
+		"chn": "和魔女菈妮一模一样的小人偶"
+	},
+	{
+		"id": 8147,
+		"eng": "Asimi that has infected a tarnished",
+		"chn": "寄生在褪色者身上的阿史米"
+	},
+	{
+		"id": 8148,
+		"eng": "Godrick's Great Rune, devoid of any benediction",
+		"chn": "失去恩惠力量的葛瑞克的大卢恩"
+	},
+	{
+		"id": 8149,
+		"eng": "Radahn's Great Rune, devoid of any benediction",
+		"chn": "失去恩惠力量的拉塔恩的大卢恩"
+	},
+	{
+		"id": 8150,
+		"eng": "Morgott's Great Rune, devoid of any benediction",
+		"chn": "失去恩惠力量的蒙葛特的大卢恩"
+	},
+	{
+		"id": 8151,
+		"eng": "Rykard's Great Rune, devoid of any benediction",
+		"chn": "失去恩惠力量的拉卡德的大卢恩"
+	},
+	{
+		"id": 8152,
+		"eng": "Mohg's Great Rune, devoid of any benediction",
+		"chn": "失去恩惠力量的蒙格的大卢恩"
+	},
+	{
+		"id": 8153,
+		"eng": "Malenia's Great Rune, devoid of any benediction",
+		"chn": "失去恩惠力量的玛莲妮亚的大卢恩"
+	},
+	{
+		"id": 8154,
+		"eng": "Pure white oath-cloth given by Varré",
+		"chn": "梵雷给予的纯白立誓布"
+	},
+	{
+		"id": 8155,
+		"eng": "Bloodied white oath-cloth, dyed in a maiden's blood",
+		"chn": "沾满女巫血液，通红的立誓布"
+	},
+	{
+		"id": 8156,
+		"eng": "Letter affixed to a graveyard crow's leg",
+		"chn": "绑在墓地乌鸦的鸟爪上的信"
+	},
+	{
+		"id": 8158,
+		"eng": "Bell that summons various spirits from ashen items",
+		"chn": "能从骨灰召唤各种灵魂的摇铃"
+	},
+	{
+		"id": 8159,
+		"eng": "Hidden treasure of the Eternal City of Nokron",
+		"chn": "“永恒之城”诺克隆恩的秘密宝藏"
+	},
+	{
+		"id": 8161,
+		"eng": "Boc the demi-human's prized sewing needle",
+		"chn": "亚人柏克很珍惜的缝衣针"
+	},
+	{
+		"id": 8162,
+		"eng": "Special sewing needle for demigod attire",
+		"chn": "修改半神服装用的特殊缝衣针"
+	},
+	{
+		"id": 8163,
+		"eng": "Enables armor adjustment at sites of grace",
+		"chn": "能在赐福修改防具"
+	},
+	{
+		"id": 8164,
+		"eng": "Small flask received from Preceptor Seluvis",
+		"chn": "魔法教授赛尔维斯给予的小药瓶"
+	},
+	{
+		"id": 8166,
+		"eng": "Glistening amber draught made for a scheme",
+		"chn": "闪耀着琥珀色光芒，用于“秘密”的药水"
+	},
+	{
+		"id": 8167,
+		"eng": "Request from Volcano Manor to Patches\nExamine using <?keyicon@31?>",
+		"chn": "来自火山官邸的委托信，收件人为帕奇\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8168,
+		"eng": "Castanets used by dancers from distant lands",
+		"chn": "异国舞娘使用的小型打击乐器"
+	},
+	{
+		"id": 8169,
+		"eng": "Can release Master Lusat from his confinement",
+		"chn": "能解除囚禁卢瑟特大师的封印"
+	},
+	{
+		"id": 8171,
+		"eng": "Broach wrapped in red velvet",
+		"chn": "用天鹅绒红布包住的别针"
+	},
+	{
+		"id": 8172,
+		"eng": "Mark of the Night of the Black Knives ritual",
+		"chn": "阴谋之夜的仪式留下的烙印"
+	},
+	{
+		"id": 8173,
+		"eng": "Request from Volcano Manor to Bernahl\nExamine using <?keyicon@31?>",
+		"chn": "来自火山官邸的委托信，收件人为贝纳尔\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8174,
+		"eng": "Key to open the academy's two sealed gates",
+		"chn": "与学院２道大门的封印有关的钥匙"
+	},
+	{
+		"id": 8175,
+		"eng": "Join medallions to operate Grand Lift of Rold",
+		"chn": "拼合符节，能够启动洛德大升降机"
+	},
+	{
+		"id": 8176,
+		"eng": "Join medallions to operate Grand Lift of Rold",
+		"chn": "拼合符节，能够启动洛德大升降机"
+	},
+	{
+		"id": 8181,
+		"eng": "Letter written about the caravans",
+		"chn": "内容写着有关大商队的信"
+	},
+	{
+		"id": 8182,
+		"eng": "Can be used to mend the shattered Elden Ring",
+		"chn": "能用在修复濒毁的艾尔登法环"
+	},
+	{
+		"id": 8183,
+		"eng": "Can be used to mend the shattered Elden Ring",
+		"chn": "能用在修复濒毁的艾尔登法环"
+	},
+	{
+		"id": 8184,
+		"eng": "Can be used to mend the shattered Elden Ring",
+		"chn": "能用在修复濒毁的艾尔登法环"
+	},
+	{
+		"id": 8185,
+		"eng": "Material needed by Rennala to grant rebirth",
+		"chn": "“满月女王”蕾娜菈的重新诞生用的材料"
+	},
+	{
+		"id": 8186,
+		"eng": "Unseals sending gate, but disappears upon use",
+		"chn": "能解除传送门的封印，但使用后会消失"
+	},
+	{
+		"id": 8187,
+		"eng": "Doll resembling Ranni the Witch",
+		"chn": "和魔女菈妮一模一样的小人偶"
+	},
+	{
+		"id": 8188,
+		"eng": "Allows demigod garb alteration at sites of grace",
+		"chn": "能在赐福修改半神的服装"
+	},
+	{
+		"id": 8189,
+		"eng": "Letter of confession found on Iji's corpse",
+		"chn": "在伊吉的尸体上，手里拿的一封自白信"
+	},
+	{
+		"id": 8190,
+		"eng": "Simple map showing location of black knifeprint\nExamine using <?keyicon@31?>",
+		"chn": "标示黑刀烙印所在地的简易地图\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8191,
+		"eng": "Cursemark carved into Lunar Princess Ranni's discarded flesh",
+		"chn": "在“月之公主”菈妮舍弃的身体上，被刻下的咒痕"
+	},
+	{
+		"id": 8192,
+		"eng": "The shedding of an Asimi that infected a tarnished",
+		"chn": "寄生在褪色者身上的阿史米蜕壳"
+	},
+	{
+		"id": 8193,
+		"eng": "Curse grown on a body defiled by the Dung Eater",
+		"chn": "从食粪者杀害、玷污的尸体诞生的诅咒"
+	},
+	{
+		"id": 8194,
+		"eng": "Ashes of a hawk which heeds no summons",
+		"chn": "任何人召唤皆不回应的老鹰骨灰"
+	},
+	{
+		"id": 8195,
+		"eng": "An Asimi that infected a tarnished",
+		"chn": "寄生在褪色者身上的阿史米"
+	},
+	{
+		"id": 8196,
+		"eng": "Intricate needle of unalloyed gold",
+		"chn": "造型纤细优美的纯净金针"
+	},
+	{
+		"id": 8197,
+		"eng": "Unlocks sewer-gaol door beneath Leyndell",
+		"chn": "能打开王城罗德尔地底，下水道监牢上锁的门"
+	},
+	{
+		"id": 8198,
+		"eng": "Simple map showing a meeting place\nExamine using <?keyicon@31?>",
+		"chn": "标示会合地点的简易地图\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8199,
+		"eng": "Key to treasure chest for Carian Princesses",
+		"chn": "传承给卡利亚的公主，用来打开宝箱的钥匙"
+	},
+	{
+		"id": 8200,
+		"eng": "Reminiscence of the painting \"Homing Instinct\"\nExamine using <?keyicon@31?>",
+		"chn": "以《归巢》为题的绘画记忆\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8201,
+		"eng": "Reminiscence of the painting \"Resurrection\"\nExamine using <?keyicon@31?>",
+		"chn": "以《再世》为题的绘画记忆\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8202,
+		"eng": "Reminiscence of the painting \"Champion's Song\"\nExamine using <?keyicon@31?>",
+		"chn": "以《英雄之歌》为题的绘画记忆\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8203,
+		"eng": "Reminiscence of the painting \"Sorcerer\"\nExamine using <?keyicon@31?>",
+		"chn": "以《魔法师》为题的绘画记忆\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8204,
+		"eng": "Reminiscence of the painting \"Prophecy\"\nExamine using <?keyicon@31?>",
+		"chn": "以《预言》为题的绘画记忆\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8205,
+		"eng": "Reminiscence of the painting \"Flightless Bird\"\nExamine using <?keyicon@31?>",
+		"chn": "以《不飞之鸟》为题的绘画记忆\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8206,
+		"eng": "Reminiscence of the painting \"Redmane\"\nExamine using <?keyicon@31?>",
+		"chn": "以《红狮子》为题的绘画记忆\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8221,
+		"eng": "Farewell letter written in an inexpert hand\nExamine using <?keyicon@31?>",
+		"chn": "写着留言，内容简略的信\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8222,
+		"eng": "Keepsake of the warrior jar Alexander",
+		"chn": "“战士壶”亚历山大的遗物"
+	},
+	{
+		"id": 8223,
+		"eng": "Letter written in a trembling hand\nExamine using <?keyicon@31?>",
+		"chn": "有着颤抖字迹的信\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8500,
+		"eng": "Enables the practice of item crafting",
+		"chn": "拥有后，能够制作道具"
+	},
+	{
+		"id": 8590,
+		"eng": "Can add new battle arts and affinities to weapons",
+		"chn": "能赋予武器新的战技与属性"
+	},
+	{
+		"id": 8600,
+		"eng": "Map of Limgrave's western region",
+		"chn": "宁姆格福地区，西边的地图碎片"
+	},
+	{
+		"id": 8601,
+		"eng": "Map of Weeping peninsula",
+		"chn": "啜泣半岛的地图碎片"
+	},
+	{
+		"id": 8602,
+		"eng": "Map of Limgrave's eastern region",
+		"chn": "宁姆格福地区，东边的地图碎片"
+	},
+	{
+		"id": 8603,
+		"eng": "Map of Liurnia's eastern region",
+		"chn": "利耶尼亚地区，东边的地图碎片"
+	},
+	{
+		"id": 8604,
+		"eng": "Map of Liurnia's northern region",
+		"chn": "利耶尼亚地区，北边的地图碎片"
+	},
+	{
+		"id": 8605,
+		"eng": "Map of Liurnia's western region",
+		"chn": "利耶尼亚地区，西边的地图碎片"
+	},
+	{
+		"id": 8606,
+		"eng": "Map of Altus Plateau and environs",
+		"chn": "亚坛高原的地图碎片"
+	},
+	{
+		"id": 8607,
+		"eng": "Map of Leyndell Capital and environs",
+		"chn": "王城罗德尔的地图碎片"
+	},
+	{
+		"id": 8608,
+		"eng": "Map of Mt. Gelmir and environs",
+		"chn": "格密尔火山的地图碎片"
+	},
+	{
+		"id": 8609,
+		"eng": "Map of Caelid and environs",
+		"chn": "盖利德的地图碎片"
+	},
+	{
+		"id": 8610,
+		"eng": "Map of Dragonbarrow and environs",
+		"chn": "龙墓的地图碎片"
+	},
+	{
+		"id": 8611,
+		"eng": "Map of Western Mountaintops of the Giants",
+		"chn": "巨人山顶，西边的地图碎片"
+	},
+	{
+		"id": 8612,
+		"eng": "Map of Eastern Mountaintops of the Giants",
+		"chn": "巨人山顶，东边的地图碎片"
+	},
+	{
+		"id": 8613,
+		"eng": "Map of Ainsel River and environs",
+		"chn": "安瑟尔河的地图碎片"
+	},
+	{
+		"id": 8614,
+		"eng": "Map of Lake of Rot and environs",
+		"chn": "腐败湖的地图碎片"
+	},
+	{
+		"id": 8615,
+		"eng": "Map of Siofra River and environs",
+		"chn": "希芙拉河的地图碎片"
+	},
+	{
+		"id": 8616,
+		"eng": "Map of Mohgwyn Palace and environs",
+		"chn": "蒙格温王朝的地图碎片"
+	},
+	{
+		"id": 8617,
+		"eng": "Map of Deeproot Depths and environs",
+		"chn": "深根底层的地图碎片"
+	},
+	{
+		"id": 8618,
+		"eng": "Map of Consecrated Snowfield and environs",
+		"chn": "化圣雪原的地图碎片"
+	},
+	{
+		"id": 8660,
+		"eng": "Simple map taken from an imp statue\nExamine using <?keyicon@31?>",
+		"chn": "从小恶魔像获得的简易地图\n按下<?keyicon@31?>能确认详细内容"
+	},
+	{
+		"id": 8700,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8701,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8702,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8703,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8704,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8705,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8706,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8707,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8708,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8709,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8710,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8711,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8712,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8713,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8714,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8715,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8716,
+		"eng": "Note imparting knowledge in brief\nExamine using <?keyicon@31?>",
+		"chn": "写着扼要情报的文件\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8750,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8751,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8752,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8753,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8754,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8755,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8756,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8757,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8758,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8759,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8760,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8761,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8762,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8763,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8765,
+		"eng": "Note imparting knowledge in brief",
+		"chn": "写着扼要情报的文件"
+	},
+	{
+		"id": 8850,
+		"eng": "Give to a learned sorcerer to acquire new sorceries",
+		"chn": "交给魔法的老师，能学习魔法"
+	},
+	{
+		"id": 8851,
+		"eng": "Give to a learned sorcerer to acquire new sorceries",
+		"chn": "交给魔法的老师，能学习魔法"
+	},
+	{
+		"id": 8855,
+		"eng": "Give to a learned cleric to acquire new incantations",
+		"chn": "交给祷告的老师，能学习祷告"
+	},
+	{
+		"id": 8856,
+		"eng": "Give to a learned cleric to acquire new incantations",
+		"chn": "交给祷告的老师，能学习祷告"
+	},
+	{
+		"id": 8857,
+		"eng": "Give to a learned cleric to acquire new incantations",
+		"chn": "交给祷告的老师，能学习祷告"
+	},
+	{
+		"id": 8858,
+		"eng": "Give to a learned cleric to acquire new incantations",
+		"chn": "交给祷告的老师，能学习祷告"
+	},
+	{
+		"id": 8859,
+		"eng": "Give to a learned cleric to acquire new incantations",
+		"chn": "交给祷告的老师，能学习祷告"
+	},
+	{
+		"id": 8860,
+		"eng": "Scroll containing incantations",
+		"chn": "写着关于祷告学问的卷轴"
+	},
+	{
+		"id": 8861,
+		"eng": "Scroll containing incantations",
+		"chn": "写着关于祷告学问的卷轴"
+	},
+	{
+		"id": 8862,
+		"eng": "Give to a learned cleric to acquire new incantations",
+		"chn": "交给祷告的老师，能学习祷告"
+	},
+	{
+		"id": 8863,
+		"eng": "Scroll containing incantations",
+		"chn": "写着关于祷告学问的卷轴"
+	},
+	{
+		"id": 8864,
+		"eng": "Give to a learned cleric to acquire new incantations",
+		"chn": "交给祷告的老师，能学习祷告"
+	},
+	{
+		"id": 8865,
+		"eng": "Give to a learned cleric to acquire new incantations",
+		"chn": "交给祷告的老师，能学习祷告"
+	},
+	{
+		"id": 8866,
+		"eng": "Give to a learned sorcerer to acquire new sorceries",
+		"chn": "交给魔法的老师，能学习魔法"
+	},
+	{
+		"id": 8910,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8911,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8912,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8913,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8915,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8916,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8917,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8918,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8919,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8920,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8921,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8922,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8923,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8924,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8925,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8926,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8927,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8928,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8929,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8930,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8931,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8932,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8933,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8934,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8935,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8936,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8937,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8938,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8939,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8940,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8941,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8942,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8943,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8944,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8945,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8946,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8947,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8948,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8951,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8952,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8953,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8954,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8955,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8956,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8957,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8958,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8959,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8960,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8961,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8962,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8963,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8964,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8965,
+		"eng": "Offer to Twin Maiden Husks for new item access",
+		"chn": "献给孪生老妪，能够增加交易项目"
+	},
+	{
+		"id": 8970,
+		"eng": "Grants choice of affinity upgrade to weapon",
+		"chn": "在赋予属性时，能够追加属性选择"
+	},
+	{
+		"id": 8971,
+		"eng": "Grants choice of affinity upgrade to weapon",
+		"chn": "在赋予属性时，能够追加属性选择"
+	},
+	{
+		"id": 8972,
+		"eng": "Grants choice of affinity upgrade to weapon",
+		"chn": "在赋予属性时，能够追加属性选择"
+	},
+	{
+		"id": 8973,
+		"eng": "Grants choice of affinity upgrade to weapon",
+		"chn": "在赋予属性时，能够追加属性选择"
+	},
+	{
+		"id": 8974,
+		"eng": "Grants choice of affinity upgrade to weapon",
+		"chn": "在赋予属性时，能够追加属性选择"
+	},
+	{
+		"id": 8975,
+		"eng": "Snapped intricate needle of unalloyed gold",
+		"chn": "造型纤细优美的纯净金针，但已折成两半"
+	},
+	{
+		"id": 8976,
+		"eng": "Repaired intricate needle of unalloyed gold",
+		"chn": "造型纤细优美的纯净金针，已经修复完成"
+	},
+	{
+		"id": 8977,
+		"eng": "Golden prosthesis used by the one-armed Valkyrie",
+		"chn": "据说是单臂女武神使用的黄金义手"
+	},
+	{
+		"id": 8978,
+		"eng": "A piece of paper given by Sage Gowry\nExamine using <?keyicon@31?>",
+		"chn": "贤者格威交出的纸片\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 8979,
+		"eng": "Said to tremble when close to Deathroot",
+		"chn": "据说靠近死根时，会产生颤动"
+	},
+	{
+		"id": 8980,
+		"eng": "Dagger received from Fia, Deathbed Companion",
+		"chn": "“死眠少女”菲雅托付的短剑"
+	},
+	{
+		"id": 9000,
+		"eng": "A bow",
+		"chn": "敬礼"
+	},
+	{
+		"id": 9001,
+		"eng": "A formal bow",
+		"chn": "郑重地敬礼"
+	},
+	{
+		"id": 9002,
+		"eng": "A stiff bow",
+		"chn": "严谨地敬礼"
+	},
+	{
+		"id": 9004,
+		"eng": "A reverential bow",
+		"chn": "恭敬地敬礼"
+	},
+	{
+		"id": 9007,
+		"eng": "Wave hand",
+		"chn": "挥手"
+	},
+	{
+		"id": 9009,
+		"eng": "A tough fist gesture",
+		"chn": "用力握拳"
+	},
+	{
+		"id": 9020,
+		"eng": "Raise morale",
+		"chn": "欢呼"
+	},
+	{
+		"id": 9022,
+		"eng": "Pledge on one's sword",
+		"chn": "以剑立誓"
+	},
+	{
+		"id": 9023,
+		"eng": "A threatening gesture",
+		"chn": "我要消灭你"
+	},
+	{
+		"id": 9024,
+		"eng": "Inspire fellow warriors",
+		"chn": "愿火焰常在我心"
+	},
+	{
+		"id": 9025,
+		"eng": "The Carian oath",
+		"chn": "卡利亚式发誓"
+	},
+	{
+		"id": 9027,
+		"eng": "A gleeful leap",
+		"chn": "开心到跳起来"
+	},
+	{
+		"id": 9031,
+		"eng": "Slump to the floor",
+		"chn": "沮丧"
+	},
+	{
+		"id": 9034,
+		"eng": "Rest on the floor",
+		"chn": "立单膝而坐"
+	},
+	{
+		"id": 9040,
+		"eng": "A dismissive gesture",
+		"chn": "有何贵干？"
+	},
+	{
+		"id": 9042,
+		"eng": "A prayer borne of despair",
+		"chn": "绝望下的期望"
+	},
+	{
+		"id": 9100,
+		"eng": "Information about sites of grace\nExamine using <?keyicon@31?>",
+		"chn": "关于“赐福”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9101,
+		"eng": "Information about sorceries and incantations\nExamine using <?keyicon@31?>",
+		"chn": "关于“魔法与祷告”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9102,
+		"eng": "Information about bows\nExamine using <?keyicon@31?>",
+		"chn": "关于“弓”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9103,
+		"eng": "Information about crouching\nExamine using <?keyicon@31?>",
+		"chn": "关于“蹲下”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9104,
+		"eng": "Information about stance-breaking\nExamine using <?keyicon@31?>",
+		"chn": "关于“失去平衡”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9105,
+		"eng": "Information about Stakes of Marika\nExamine using <?keyicon@31?>",
+		"chn": "关于“玛莉卡楔石”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9106,
+		"eng": "Information about guard counters\nExamine using <?keyicon@31?>",
+		"chn": "关于“防御反击”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9107,
+		"eng": "Information about the map\nExamine using <?keyicon@31?>",
+		"chn": "关于“地图”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9108,
+		"eng": "Information about Guidance of Grace\nExamine using <?keyicon@31?>",
+		"chn": "关于“赐福的指引”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9109,
+		"eng": "Information about horseback riding\nExamine using <?keyicon@31?>",
+		"chn": "关于“骑马”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9110,
+		"eng": "Information about death\nExamine using <?keyicon@31?>",
+		"chn": "关于“死亡”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9111,
+		"eng": "Information about summoning spirits\nExamine using <?keyicon@31?>",
+		"chn": "关于“召唤灵魂”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9112,
+		"eng": "Information about guarding\nExamine using <?keyicon@31?>",
+		"chn": "关于“防御”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9113,
+		"eng": "Information about item crafting\nExamine using <?keyicon@31?>",
+		"chn": "关于“制作道具”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9115,
+		"eng": "Information about Flask of Wondrous Physick\nExamine using <?keyicon@31?>",
+		"chn": "关于“灵药圣杯瓶”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9116,
+		"eng": "Information about adding skills\nExamine using <?keyicon@31?>",
+		"chn": "关于“赋予战技”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9117,
+		"eng": "Information about birdseye telescopes\nExamine using <?keyicon@31?>",
+		"chn": "关于“鸟瞰镜”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9118,
+		"eng": "Information about spiritspring jumping\nExamine using <?keyicon@31?>",
+		"chn": "关于“灵魂气流跳跃”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9119,
+		"eng": "Information about vanquishing enemy groups\nExamine using <?keyicon@31?>",
+		"chn": "关于“打败敌对团体”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9120,
+		"eng": "Information about Teardrop Scarabs\nExamine using <?keyicon@31?>",
+		"chn": "关于“露滴粪金龟”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9121,
+		"eng": "Information about summoning other players\nExamine using <?keyicon@31?>",
+		"chn": "关于“召唤其他玩家”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9122,
+		"eng": "Information about cooperative multiplayer\nExamine using <?keyicon@31?>",
+		"chn": "关于“协力多人联机游玩”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9123,
+		"eng": "Information about competitive multiplayer\nExamine using <?keyicon@31?>",
+		"chn": "关于“敌对多人联机游玩”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9124,
+		"eng": "Information about invasion multiplayer\nExamine using <?keyicon@31?>",
+		"chn": "关于“入侵多人联机游玩”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9125,
+		"eng": "Information about hunter multiplayer\nExamine using <?keyicon@31?>",
+		"chn": "关于“猎人多人联机游玩”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9126,
+		"eng": "Information about the summoning pools\nExamine using <?keyicon@31?>",
+		"chn": "关于“记号聚集处”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9127,
+		"eng": "Information about Monument Icon\nExamine using <?keyicon@31?>",
+		"chn": "关于“碑文图案”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9128,
+		"eng": "Information about requesting help from hunters\nExamine using <?keyicon@31?>",
+		"chn": "关于“召唤猎人”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9129,
+		"eng": "Information about skills\nExamine using <?keyicon@31?>",
+		"chn": "关于“战技”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9130,
+		"eng": "Information about fast travel to sites of grace\nExamine using <?keyicon@31?>",
+		"chn": "关于“传送至赐福”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9131,
+		"eng": "Information about strengthening armaments\nExamine using <?keyicon@31?>",
+		"chn": "关于“强化武器”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9132,
+		"eng": "Information about the Roundtable Hold\nExamine using <?keyicon@31?>",
+		"chn": "关于“圆桌厅堂”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9134,
+		"eng": "Information about materials\nExamine using <?keyicon@31?>",
+		"chn": "关于“材料道具”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9135,
+		"eng": "Information about containers\nExamine using <?keyicon@31?>",
+		"chn": "关于“容器道具”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9136,
+		"eng": "Information about adding affinities to armaments\nExamine using <?keyicon@31?>",
+		"chn": "关于“赋予属性”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9137,
+		"eng": "Information about pouches\nExamine using <?keyicon@31?>",
+		"chn": "关于“随身包包”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9138,
+		"eng": "Information about dodging\nExamine using <?keyicon@31?>",
+		"chn": "关于“闪避”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9140,
+		"eng": "Information about wielding armaments\nExamine using <?keyicon@31?>",
+		"chn": "关于“切换武器”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9195,
+		"eng": "Information about multiplayer\nExamine using <?keyicon@31?>",
+		"chn": "关于“多人联机游玩”的说明\n按下<?keyicon@31?>能确认内容"
+	},
+	{
+		"id": 9200,
+		"eng": "Letter concerning traces of silvery slime found",
+		"chn": "向他人传递白金软泥怪踪迹的书信"
+	},
+	{
+		"id": 9201,
+		"eng": "Letter concerning traces of silvery slime found",
+		"chn": "向他人传递白金软泥怪踪迹的书信"
+	},
+	{
+		"id": 9300,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9301,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9302,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9303,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9305,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9306,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9307,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9308,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9309,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9310,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9311,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9312,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9313,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9320,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9321,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9322,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9323,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9324,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9325,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9326,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9327,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9328,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9329,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9330,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9331,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9340,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9341,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9342,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9343,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9344,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9345,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9346,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9347,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9348,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9360,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9361,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9362,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9363,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9364,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9365,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9380,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9381,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9382,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9383,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9384,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9385,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9386,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9387,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9388,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9389,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9390,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9391,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9392,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9393,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9400,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9401,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9402,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9403,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9420,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9421,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9422,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9423,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9440,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9441,
+		"eng": "Expands crafting repertoire",
+		"chn": "能增加可制作的道具种类"
+	},
+	{
+		"id": 9500,
+		"eng": "Container required for crafting cracked pot items",
+		"chn": "制作龟裂壶类道具所需的容器"
+	},
+	{
+		"id": 9501,
+		"eng": "Container required for crafting ritual pot items",
+		"chn": "制作仪式壶类道具所需的容器"
+	},
+	{
+		"id": 9510,
+		"eng": "Container required for crafting perfume items",
+		"chn": "制作调香类道具所需的容器"
+	},
+	{
+		"id": 10000,
+		"eng": "Shard of filthy glass. Worthless rubbish.",
+		"chn": "骯脏的玻璃碎片，是垃圾残渣"
+	},
+	{
+		"id": 10010,
+		"eng": "Increases Sacred Flask's number of uses",
+		"chn": "能够增加圣杯瓶的使用次数"
+	},
+	{
+		"id": 10020,
+		"eng": "Improves Sacred Flask's potency",
+		"chn": "能够提升圣杯瓶的恢复量"
+	},
+	{
+		"id": 10030,
+		"eng": "Increases memory slots",
+		"chn": "能增加记忆空格"
+	},
+	{
+		"id": 10040,
+		"eng": "Increases talisman equip slots",
+		"chn": "能增加护符的装备数量"
+	},
+	{
+		"id": 10060,
+		"eng": "Gain power of the dragon at the Dragon Communion altar",
+		"chn": "能在龙飨祭坛，将龙的力量化为己有"
+	},
+	{
+		"id": 10070,
+		"eng": "Used to duplicate Ashes of War",
+		"chn": "能成为所有战灰的复制品"
+	},
+	{
+		"id": 10080,
+		"eng": "Used to perfect rebirth",
+		"chn": "能让“重新诞生”变得完整"
+	},
+	{
+		"id": 10100,
+		"eng": "Reinforce armaments up to +3",
+		"chn": "能将武器强化至＋３"
+	},
+	{
+		"id": 10101,
+		"eng": "Reinforce armaments up to +6",
+		"chn": "能将武器强化至＋６"
+	},
+	{
+		"id": 10102,
+		"eng": "Reinforce armaments up to +9",
+		"chn": "能将武器强化至＋９"
+	},
+	{
+		"id": 10103,
+		"eng": "Reinforce armaments up to +12",
+		"chn": "能将武器强化至＋１２"
+	},
+	{
+		"id": 10104,
+		"eng": "Reinforce armaments up to +15",
+		"chn": "能将武器强化至＋１５"
+	},
+	{
+		"id": 10105,
+		"eng": "Reinforce armaments up to +18",
+		"chn": "能将武器强化至＋１８"
+	},
+	{
+		"id": 10106,
+		"eng": "Reinforce armaments up to +21",
+		"chn": "能将武器强化至＋２１"
+	},
+	{
+		"id": 10107,
+		"eng": "Reinforce armaments up to +24",
+		"chn": "能将武器强化至＋２４"
+	},
+	{
+		"id": 10140,
+		"eng": "Reinforce armaments to +25",
+		"chn": "能将武器强化至＋２５"
+	},
+	{
+		"id": 10160,
+		"eng": "Reinforce special armaments to +1",
+		"chn": "能将特殊武器强化至＋１"
+	},
+	{
+		"id": 10161,
+		"eng": "Reinforce special armaments to +2",
+		"chn": "能将特殊武器强化至＋２"
+	},
+	{
+		"id": 10162,
+		"eng": "Reinforce special armaments to +3",
+		"chn": "能将特殊武器强化至＋３"
+	},
+	{
+		"id": 10163,
+		"eng": "Reinforce special armaments to +4",
+		"chn": "能将特殊武器强化至＋４"
+	},
+	{
+		"id": 10164,
+		"eng": "Reinforce special armaments to +5",
+		"chn": "能将特殊武器强化至＋５"
+	},
+	{
+		"id": 10165,
+		"eng": "Reinforce special armaments to +6",
+		"chn": "能将特殊武器强化至＋６"
+	},
+	{
+		"id": 10166,
+		"eng": "Reinforce special armaments to +7",
+		"chn": "能将特殊武器强化至＋７"
+	},
+	{
+		"id": 10167,
+		"eng": "Reinforce special armaments to +8",
+		"chn": "能将特殊武器强化至＋８"
+	},
+	{
+		"id": 10168,
+		"eng": "Reinforce special armaments to +10",
+		"chn": "能将特殊武器强化至＋１０"
+	},
+	{
+		"id": 10200,
+		"eng": "Reinforce special armaments to +9",
+		"chn": "能将特殊武器强化至＋９"
+	},
+	{
+		"id": 10900,
+		"eng": "Strengthen ashes to +1",
+		"chn": "能将骨灰强化至＋１"
+	},
+	{
+		"id": 10901,
+		"eng": "Strengthen ashes to +2",
+		"chn": "能将骨灰强化至＋２"
+	},
+	{
+		"id": 10902,
+		"eng": "Strengthen ashes to +3",
+		"chn": "能将骨灰强化至＋３"
+	},
+	{
+		"id": 10903,
+		"eng": "Strengthen ashes to +4",
+		"chn": "能将骨灰强化至＋４"
+	},
+	{
+		"id": 10904,
+		"eng": "Strengthen ashes to +5",
+		"chn": "能将骨灰强化至＋５"
+	},
+	{
+		"id": 10905,
+		"eng": "Strengthen ashes to +6",
+		"chn": "能将骨灰强化至＋６"
+	},
+	{
+		"id": 10906,
+		"eng": "Strengthen ashes to +7",
+		"chn": "能将骨灰强化至＋７"
+	},
+	{
+		"id": 10907,
+		"eng": "Strengthen ashes to +8",
+		"chn": "能将骨灰强化至＋８"
+	},
+	{
+		"id": 10908,
+		"eng": "Strengthen ashes to +9",
+		"chn": "能将骨灰强化至＋９"
+	},
+	{
+		"id": 10909,
+		"eng": "Strengthen ashes to +10",
+		"chn": "能将骨灰强化至＋１０"
+	},
+	{
+		"id": 10910,
+		"eng": "Strengthen renowned ashes to +1",
+		"chn": "能将有名字的骨灰强化至＋１"
+	},
+	{
+		"id": 10911,
+		"eng": "Strengthen renowned ashes to +2",
+		"chn": "能将有名字的骨灰强化至＋２"
+	},
+	{
+		"id": 10912,
+		"eng": "Strengthen renowned ashes to +3",
+		"chn": "能将有名字的骨灰强化至＋３"
+	},
+	{
+		"id": 10913,
+		"eng": "Strengthen renowned ashes to +4",
+		"chn": "能将有名字的骨灰强化至＋４"
+	},
+	{
+		"id": 10914,
+		"eng": "Strengthen renowned ashes to +5",
+		"chn": "能将有名字的骨灰强化至＋５"
+	},
+	{
+		"id": 10915,
+		"eng": "Strengthen renowned ashes to +6",
+		"chn": "能将有名字的骨灰强化至＋６"
+	},
+	{
+		"id": 10916,
+		"eng": "Strengthen renowned ashes to +7",
+		"chn": "能将有名字的骨灰强化至＋７"
+	},
+	{
+		"id": 10917,
+		"eng": "Strengthen renowned ashes to +8",
+		"chn": "能将有名字的骨灰强化至＋８"
+	},
+	{
+		"id": 10918,
+		"eng": "Strengthen renowned ashes to +9",
+		"chn": "能将有名字的骨灰强化至＋９"
+	},
+	{
+		"id": 10919,
+		"eng": "Strengthen renowned ashes to +10",
+		"chn": "能将有名字的骨灰强化至＋１０"
+	},
+	{
+		"id": 11000,
+		"eng": "Temporarily boosts max HP in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升血量上限"
+	},
+	{
+		"id": 11001,
+		"eng": "Temporarily boosts stamina in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升精力上限"
+	},
+	{
+		"id": 11002,
+		"eng": "Restores half of total HP in mixed physick",
+		"chn": "加入灵药调配后，能恢复专注值上限一半的专注值"
+	},
+	{
+		"id": 11003,
+		"eng": "Restores half of total HP in mixed physick",
+		"chn": "加入灵药调配后，能恢复专注值上限一半的专注值"
+	},
+	{
+		"id": 11004,
+		"eng": "Restores half of total FP in mixed physick",
+		"chn": "加入灵药调配后，能恢复专注值上限一半的专注值"
+	},
+	{
+		"id": 11005,
+		"eng": "Restores half of total FP in mixed physick",
+		"chn": "加入灵药调配后，能恢复专注值上限一半的专注值"
+	},
+	{
+		"id": 11006,
+		"eng": "Boosts resistance and heals status in mixed physick",
+		"chn": "加入灵药调配后，能提升抵抗力、治愈异常状态"
+	},
+	{
+		"id": 11007,
+		"eng": "Restores HP when near death in mixed physick",
+		"chn": "加入灵药调配后，濒死时能自动恢复血量"
+	},
+	{
+		"id": 11008,
+		"eng": "Significantly negates damage in mixed physick",
+		"chn": "加入灵药调配后，大幅减少受到的损伤"
+	},
+	{
+		"id": 11009,
+		"eng": "Steadily restores HP for a time in mixed physick",
+		"chn": "加入灵药调配后，一定时间内能缓慢恢复血量"
+	},
+	{
+		"id": 11010,
+		"eng": "Temporarily boosts stamina recovery speed in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升精力的恢复速度"
+	},
+	{
+		"id": 11011,
+		"eng": "Temporarily boosts all damage negation in physick",
+		"chn": "加入灵药调配后，能暂时提升所有的减伤率"
+	},
+	{
+		"id": 11012,
+		"eng": "Temporarily reduces equip load in mixed physick",
+		"chn": "加入灵药调配后，能暂时减轻装备重量"
+	},
+	{
+		"id": 11013,
+		"eng": "Makes consecutive attacks grow stronger in mixed physick",
+		"chn": "加入灵药调配后，攻击越是连续，越能提升攻击力"
+	},
+	{
+		"id": 11014,
+		"eng": "Enhances charged attacks for a time in mixed physick",
+		"chn": "加入灵药调配后，一定时间内能强化蓄力攻击"
+	},
+	{
+		"id": 11015,
+		"eng": "Enhances dodge rolls for a time in mixed physick",
+		"chn": "加入灵药调配后，一定时间内能强化翻滚的闪避能力"
+	},
+	{
+		"id": 11016,
+		"eng": "Causes concoction to explode in mixed physick",
+		"chn": "加入灵药调配后，能引发自爆"
+	},
+	{
+		"id": 11017,
+		"eng": "Causes concoction to explode in mixed physick",
+		"chn": "加入灵药调配后，能引发自爆"
+	},
+	{
+		"id": 11018,
+		"eng": "Temporarily boosts poise in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升强韧度"
+	},
+	{
+		"id": 11019,
+		"eng": "Briefly stop rune loss on death in mixed physick",
+		"chn": "加入灵药调配后，死亡时不会掉落卢恩"
+	},
+	{
+		"id": 11020,
+		"eng": "Converts damage received into HP in mixed physick",
+		"chn": "加入灵药调配后，受到的损伤能转为恢复血量"
+	},
+	{
+		"id": 11021,
+		"eng": "Temporarily boosts strength in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升力气"
+	},
+	{
+		"id": 11022,
+		"eng": "Temporarily boosts dexterity in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升灵巧"
+	},
+	{
+		"id": 11023,
+		"eng": "Temporarily boosts intelligence in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升智力"
+	},
+	{
+		"id": 11024,
+		"eng": "Temporarily boosts faith in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升信仰"
+	},
+	{
+		"id": 11025,
+		"eng": "Eliminates all FP consumption in mixed physick",
+		"chn": "加入灵药调配后，所有专注值的消耗都归零"
+	},
+	{
+		"id": 11026,
+		"eng": "Makes attacks more likely to break enemy stances in a mixed physick",
+		"chn": "加入灵药调配后，攻击时变得容易让敌人失去平衡"
+	},
+	{
+		"id": 11027,
+		"eng": "Purifies the Lord of Blood's curse in a mixed physick",
+		"chn": "加入灵药调配后，能净化鲜血君王的倒数诅咒"
+	},
+	{
+		"id": 11028,
+		"eng": "Temporarily boosts fire attacks in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升火属性攻击力"
+	},
+	{
+		"id": 11029,
+		"eng": "Temporarily boosts magic attacks in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升魔力属性攻击力"
+	},
+	{
+		"id": 11030,
+		"eng": "Temporarily boosts lightning attacks in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升雷属性攻击力"
+	},
+	{
+		"id": 11031,
+		"eng": "Temporarily boosts holy attacks in mixed physick",
+		"chn": "加入灵药调配后，能暂时提升圣属性攻击力"
+	},
+	{
+		"id": 15000,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15010,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15020,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15030,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15040,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15050,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15060,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15070,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15080,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15090,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15100,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15110,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15120,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15130,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15140,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15150,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15160,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15310,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15340,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15341,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15390,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15400,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15410,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15420,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 15430,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20650,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20651,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20652,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20653,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20654,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20660,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20680,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20681,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20682,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20683,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20685,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20690,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20691,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20710,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20720,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20721,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20722,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20723,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20740,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20750,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20751,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20753,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20760,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20761,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20770,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20775,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20780,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20795,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20800,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20801,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20802,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20810,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20811,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20812,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20820,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20825,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20830,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20831,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20840,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20841,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20842,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20845,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20850,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20852,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 20855,
+		"eng": "Material used for crafting items",
+		"chn": "用于制作道具的其中一项材料"
+	},
+	{
+		"id": 200000,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200001,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200002,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200003,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200004,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200005,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200006,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200007,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200008,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200009,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 200010,
+		"eng": "Summons spirit of Black Knife Tiche",
+		"chn": "能召唤“黑刀”狄希的灵魂"
+	},
+	{
+		"id": 201000,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201001,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201002,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201003,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201004,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201005,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201006,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201007,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201008,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201009,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 201010,
+		"eng": "Summons spirit of Banished Knight Oleg",
+		"chn": "能召唤“失乡骑士”奥雷格的灵魂"
+	},
+	{
+		"id": 202000,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202001,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202002,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202003,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202004,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202005,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202006,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202007,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202008,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202009,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 202010,
+		"eng": "Summons spirit of Banished Knight Engvall",
+		"chn": "能召唤“失乡骑士”英格威尔的灵魂"
+	},
+	{
+		"id": 203000,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203001,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203002,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203003,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203004,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203005,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203006,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203007,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203008,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203009,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 203010,
+		"eng": "Summons two fanged imp spirits",
+		"chn": "能召唤２只尖牙小恶魔的灵魂"
+	},
+	{
+		"id": 204000,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204001,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204002,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204003,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204004,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204005,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204006,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204007,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204008,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204009,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 204010,
+		"eng": "Summons spirit of Latenna the Albinauric",
+		"chn": "能召唤白金之子勒缇娜的灵魂"
+	},
+	{
+		"id": 205000,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205001,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205002,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205003,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205004,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205005,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205006,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205007,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205008,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205009,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 205010,
+		"eng": "Summons nomad spirit",
+		"chn": "能召唤流浪民族的灵魂"
+	},
+	{
+		"id": 206000,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206001,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206002,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206003,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206004,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206005,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206006,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206007,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206008,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206009,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 206010,
+		"eng": "Summons nightmaiden & swordstress spirits",
+		"chn": "能召唤黑夜女巫与剑士的灵魂"
+	},
+	{
+		"id": 207000,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207001,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207002,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207003,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207004,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207005,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207006,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207007,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207008,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207009,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 207010,
+		"eng": "Summons mimic tear spirit",
+		"chn": "能召唤仿身泪滴的灵魂"
+	},
+	{
+		"id": 208000,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208001,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208002,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208003,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208004,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208005,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208006,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208007,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208008,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208009,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 208010,
+		"eng": "Summons Crystalian spirit",
+		"chn": "能召唤结晶人的灵魂"
+	},
+	{
+		"id": 209000,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209001,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209002,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209003,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209004,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209005,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209006,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209007,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209008,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209009,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 209010,
+		"eng": "Summons ancestral follower spirit",
+		"chn": "能召唤祖灵之民的灵魂"
+	},
+	{
+		"id": 210000,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210001,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210002,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210003,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210004,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210005,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210006,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210007,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210008,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210009,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 210010,
+		"eng": "Summons winged misbegotten spirit",
+		"chn": "能召唤带翼混种的灵魂"
+	},
+	{
+		"id": 211000,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211001,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211002,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211003,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211004,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211005,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211006,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211007,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211008,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211009,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 211010,
+		"eng": "Summons two Albinauric spirits",
+		"chn": "能召唤２名白金之子的灵魂"
+	},
+	{
+		"id": 212000,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212001,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212002,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212003,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212004,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212005,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212006,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212007,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212008,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212009,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 212010,
+		"eng": "Summons two skeletal militiaman spirits",
+		"chn": "能召唤２名枯瘦民兵的灵魂"
+	},
+	{
+		"id": 213000,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213001,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213002,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213003,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213004,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213005,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213006,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213007,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213008,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213009,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 213010,
+		"eng": "Summons skeletal bandit spirit",
+		"chn": "能召唤枯瘦山贼的灵魂"
+	},
+	{
+		"id": 214000,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214001,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214002,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214003,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214004,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214005,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214006,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214007,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214008,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214009,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 214010,
+		"eng": "Summons four Oracle Envoy spirits",
+		"chn": "能召唤４位神谕使者的灵魂"
+	},
+	{
+		"id": 215000,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215001,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215002,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215003,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215004,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215005,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215006,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215007,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215008,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215009,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 215010,
+		"eng": "Summons four putrid corpse spirits",
+		"chn": "能召唤４位腐烂长生者的灵魂"
+	},
+	{
+		"id": 216000,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216001,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216002,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216003,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216004,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216005,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216006,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216007,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216008,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216009,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 216010,
+		"eng": "Summons spirit of Depraved Perfumer Carmaan",
+		"chn": "能召唤“堕落调香师”卡尔曼的灵魂"
+	},
+	{
+		"id": 217000,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217001,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217002,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217003,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217004,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217005,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217006,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217007,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217008,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217009,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 217010,
+		"eng": "Summons spirit of Perfumer Tricia",
+		"chn": "能召唤调香师托莉夏的灵魂"
+	},
+	{
+		"id": 218000,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218001,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218002,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218003,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218004,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218005,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218006,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218007,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218008,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218009,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 218010,
+		"eng": "Summons glintstone sorcerer spirit",
+		"chn": "能召唤辉石魔法师的灵魂"
+	},
+	{
+		"id": 219000,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219001,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219002,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219003,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219004,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219005,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219006,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219007,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219008,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219009,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 219010,
+		"eng": "Summons Twinsage sorcerer spirit",
+		"chn": "能召唤双贤魔法师的灵魂"
+	},
+	{
+		"id": 220000,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220001,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220002,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220003,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220004,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220005,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220006,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220007,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220008,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220009,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 220010,
+		"eng": "Summons page spirit",
+		"chn": "能召唤随从的灵魂"
+	},
+	{
+		"id": 221000,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221001,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221002,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221003,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221004,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221005,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221006,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221007,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221008,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221009,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 221010,
+		"eng": "Summons spirit of Battlemage Hugues",
+		"chn": "能召唤战场魔法师犹格的灵魂"
+	},
+	{
+		"id": 222000,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222001,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222002,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222003,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222004,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222005,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222006,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222007,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222008,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222009,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 222010,
+		"eng": "Summons two clayman spirits",
+		"chn": "能召唤２名泥人的灵魂"
+	},
+	{
+		"id": 223000,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223001,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223002,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223003,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223004,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223005,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223006,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223007,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223008,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223009,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 223010,
+		"eng": "Summons spirit of Cleanrot Knight Finlay",
+		"chn": "能召唤“尊腐骑士”芬雷的灵魂"
+	},
+	{
+		"id": 224000,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224001,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224002,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224003,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224004,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224005,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224006,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224007,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224008,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224009,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 224010,
+		"eng": "Summons Kindred of Rot spirit",
+		"chn": "能召唤腐败眷属的灵魂"
+	},
+	{
+		"id": 225000,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225001,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225002,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225003,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225004,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225005,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225006,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225007,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225008,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225009,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 225010,
+		"eng": "Summons two marionette soldier spirits",
+		"chn": "能召唤２名人偶士兵的灵魂"
+	},
+	{
+		"id": 226000,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226001,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226002,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226003,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226004,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226005,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226006,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226007,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226008,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226009,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 226010,
+		"eng": "Summons two avionette soldier spirits",
+		"chn": "能召唤２名鸟身人偶士兵的灵魂"
+	},
+	{
+		"id": 227000,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227001,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227002,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227003,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227004,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227005,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227006,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227007,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227008,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227009,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 227010,
+		"eng": "Summons Fire Monk spirit",
+		"chn": "能召唤火焰习武修士的灵魂"
+	},
+	{
+		"id": 228000,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228001,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228002,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228003,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228004,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228005,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228006,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228007,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228008,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228009,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 228010,
+		"eng": "Summons spirit of Blackflame Monk Amon",
+		"chn": "能召唤黑焰习武修士亚蒙的灵魂"
+	},
+	{
+		"id": 229000,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229001,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229002,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229003,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229004,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229005,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229006,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229007,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229008,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229009,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 229010,
+		"eng": "Summons man-serpent spirit",
+		"chn": "能召唤蛇人的灵魂"
+	},
+	{
+		"id": 230000,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230001,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230002,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230003,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230004,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230005,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230006,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230007,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230008,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230009,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 230010,
+		"eng": "Summons two Azula beastman spirits",
+		"chn": "能召唤２位亚兹拉的兽人的灵魂"
+	},
+	{
+		"id": 231000,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231001,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231002,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231003,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231004,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231005,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231006,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231007,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231008,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231009,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 231010,
+		"eng": "Summons Kaiden sellsword spirit",
+		"chn": "能召唤凯丹佣兵的灵魂"
+	},
+	{
+		"id": 232000,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232001,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232002,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232003,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232004,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232005,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232006,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232007,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232008,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232009,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 232010,
+		"eng": "Summons three lone wolf spirits",
+		"chn": "能召唤３只离群野狼的灵魂"
+	},
+	{
+		"id": 233000,
+		"eng": "Summons three giant rat spirits",
+		"chn": "能召唤３只大老鼠的灵魂"
+	},
+	{
+		"id": 233001,
+		"eng": "Summons three giant rat spirits",
+		"chn": "能召唤３只大老鼠的灵魂"
+	},
+	{
+		"id": 233002,
+		"eng": "Summons three giant rat spirits",
+		"chn": "能召唤３只大老鼠的灵魂"
+	},
+	{
+		"id": 233003,
+		"eng": "Summons three giant rat spirits",
+		"chn": "能召唤３只大老鼠的灵魂"
+	},
+	{
+		"id": 233004,
+		"eng": "Summons three giant rat spirits",
+		"chn": "能召唤３只大老鼠的灵魂"
+	},
+	{
+		"id": 233005,
+		"eng": "Summons four giant rat spirits",
+		"chn": "能召唤４只大老鼠的灵魂"
+	},
+	{
+		"id": 233006,
+		"eng": "Summons four giant rat spirits",
+		"chn": "能召唤４只大老鼠的灵魂"
+	},
+	{
+		"id": 233007,
+		"eng": "Summons four giant rat spirits",
+		"chn": "能召唤４只大老鼠的灵魂"
+	},
+	{
+		"id": 233008,
+		"eng": "Summons four giant rat spirits",
+		"chn": "能召唤４只大老鼠的灵魂"
+	},
+	{
+		"id": 233009,
+		"eng": "Summons four giant rat spirits",
+		"chn": "能召唤４只大老鼠的灵魂"
+	},
+	{
+		"id": 233010,
+		"eng": "Summons five giant rat spirits",
+		"chn": "能召唤５只大老鼠的灵魂"
+	},
+	{
+		"id": 234000,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234001,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234002,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234003,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234004,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234005,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234006,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234007,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234008,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234009,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 234010,
+		"eng": "Summons five demi-human spirits",
+		"chn": "能召唤５位亚人的灵魂"
+	},
+	{
+		"id": 235000,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235001,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235002,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235003,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235004,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235005,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235006,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235007,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235008,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235009,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 235010,
+		"eng": "Summons rotten stray spirit",
+		"chn": "能召唤腐败野狗的灵魂"
+	},
+	{
+		"id": 236000,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236001,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236002,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236003,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236004,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236005,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236006,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236007,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236008,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236009,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 236010,
+		"eng": "Summons spirit jellyfish",
+		"chn": "能召唤灵魂水母的灵魂"
+	},
+	{
+		"id": 237000,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237001,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237002,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237003,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237004,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237005,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237006,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237007,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237008,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237009,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 237010,
+		"eng": "Summons warhawk spirit",
+		"chn": "能召唤战鹰的灵魂"
+	},
+	{
+		"id": 238000,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238001,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238002,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238003,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238004,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238005,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238006,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238007,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238008,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238009,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 238010,
+		"eng": "Summons spirit of Stormhawk Deenh",
+		"chn": "能召唤风暴鹰汀涅的灵魂"
+	},
+	{
+		"id": 239000,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239001,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239002,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239003,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239004,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239005,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239006,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239007,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239008,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239009,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 239010,
+		"eng": "Summons spirit of Bloodhound Knight Floh",
+		"chn": "能召唤“猎犬骑士”弗罗的灵魂"
+	},
+	{
+		"id": 240000,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240001,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240002,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240003,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240004,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240005,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240006,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240007,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240008,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240009,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 240010,
+		"eng": "Summons five wandering noble spirits",
+		"chn": "能召唤５位徘徊权贵的灵魂"
+	},
+	{
+		"id": 241000,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241001,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241002,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241003,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241004,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241005,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241006,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241007,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241008,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241009,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 241010,
+		"eng": "Summons noble sorcerer spirit",
+		"chn": "能召唤权贵魔法师的灵魂"
+	},
+	{
+		"id": 242000,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242001,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242002,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242003,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242004,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242005,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242006,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242007,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242008,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242009,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 242010,
+		"eng": "Summons three vulgar militia spirits",
+		"chn": "能召唤３名恶兵的灵魂"
+	},
+	{
+		"id": 243000,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243001,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243002,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243003,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243004,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243005,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243006,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243007,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243008,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243009,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 243010,
+		"eng": "Summons mad pumpkin head spirit",
+		"chn": "能召唤发狂南瓜头士兵的灵魂"
+	},
+	{
+		"id": 244000,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244001,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244002,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244003,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244004,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244005,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244006,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244007,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244008,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244009,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 244010,
+		"eng": "Summons three land squirt spirits",
+		"chn": "能召唤３只陆生海鞘的灵魂"
+	},
+	{
+		"id": 245000,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245001,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245002,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245003,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245004,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245005,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245006,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245007,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245008,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245009,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 245010,
+		"eng": "Summons five miranda sprout spirits",
+		"chn": "能召唤５只小米兰达的灵魂"
+	},
+	{
+		"id": 246000,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246001,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246002,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246003,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246004,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246005,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246006,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246007,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246008,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246009,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 246010,
+		"eng": "Summons three little living jar spirits",
+		"chn": "能召唤３名小型活壶的灵魂"
+	},
+	{
+		"id": 247000,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247001,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247002,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247003,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247004,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247005,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247006,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247007,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247008,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247009,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 247010,
+		"eng": "Summons spirit of Omenkiller Rollo",
+		"chn": "能召唤恶兆猎人罗洛的灵魂"
+	},
+	{
+		"id": 248000,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248001,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248002,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248003,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248004,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248005,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248006,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248007,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248008,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248009,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 248010,
+		"eng": "Summons five greatshield soldier spirits",
+		"chn": "能召唤５名大盾士兵的灵魂"
+	},
+	{
+		"id": 249000,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249001,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249002,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249003,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249004,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249005,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249006,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249007,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249008,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249009,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 249010,
+		"eng": "Summons three archer spirits",
+		"chn": "能召唤３名操弓士兵的灵魂"
+	},
+	{
+		"id": 250000,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250001,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250002,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250003,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250004,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250005,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250006,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250007,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250008,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250009,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 250010,
+		"eng": "Summons two Godrick soldier spirits",
+		"chn": "能召唤２名葛瑞克士兵的灵魂"
+	},
+	{
+		"id": 251000,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251001,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251002,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251003,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251004,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251005,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251006,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251007,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251008,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251009,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 251010,
+		"eng": "Summons three Raya Lucaria soldier spirits",
+		"chn": "能召唤３名雷亚卢卡利亚士兵的灵魂"
+	},
+	{
+		"id": 252000,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252001,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252002,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252003,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252004,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252005,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252006,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252007,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252008,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252009,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 252010,
+		"eng": "Summons two Leyndell soldier spirits",
+		"chn": "能召唤２名罗德尔士兵的灵魂"
+	},
+	{
+		"id": 253000,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253001,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253002,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253003,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253004,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253005,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253006,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253007,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253008,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253009,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 253010,
+		"eng": "Summons two Radahn soldier spirits",
+		"chn": "能召唤２名拉塔恩士兵的灵魂"
+	},
+	{
+		"id": 254000,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254001,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254002,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254003,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254004,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254005,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254006,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254007,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254008,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254009,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 254010,
+		"eng": "Summons five mausoleum soldier spirits",
+		"chn": "能召唤５名灵庙士兵的灵魂"
+	},
+	{
+		"id": 255000,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255001,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255002,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255003,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255004,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255005,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255006,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255007,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255008,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255009,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 255010,
+		"eng": "Summons four Haligtree soldier spirits",
+		"chn": "能召唤４名圣树士兵的灵魂"
+	},
+	{
+		"id": 256000,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256001,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256002,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256003,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256004,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256005,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256006,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256007,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256008,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256009,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 256010,
+		"eng": "Summons spirit of Ancient Dragon Knight Kristoff",
+		"chn": "能召唤“古龙骑士”克里斯托福的灵魂"
+	},
+	{
+		"id": 257000,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257001,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257002,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257003,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257004,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257005,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257006,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257007,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257008,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257009,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 257010,
+		"eng": "Summons spirit of Redmane Knight Ogha",
+		"chn": "能召唤“红狮子骑士”奥加的灵魂"
+	},
+	{
+		"id": 258000,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258001,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258002,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258003,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258004,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258005,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258006,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258007,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258008,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258009,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 258010,
+		"eng": "Summons spirit of Lhutel the Headless",
+		"chn": "能召唤“无头骑士”露缇尔的灵魂"
+	},
+	{
+		"id": 259000,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259001,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259002,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259003,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259004,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259005,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259006,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259007,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259008,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259009,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 259010,
+		"eng": "Summons spirit of Nepheli Loux",
+		"chn": "能召唤涅斐丽·露的灵魂"
+	},
+	{
+		"id": 260000,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260001,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260002,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260003,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260004,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260005,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260006,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260007,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260008,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260009,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 260010,
+		"eng": "Summons spirit of the Dung Eater",
+		"chn": "能召唤食粪者的灵魂"
+	},
+	{
+		"id": 261000,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261001,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261002,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261003,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261004,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261005,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261006,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261007,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261008,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261009,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 261010,
+		"eng": "Summons spirit of Finger Maiden Therolina",
+		"chn": "能召唤指头女巫瑟萝莉娜的灵魂"
+	},
+	{
+		"id": 262000,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262001,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262002,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262003,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262004,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262005,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262006,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262007,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262008,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262009,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 262010,
+		"eng": "Summons spirit of Dolores the Sleeping Arrow",
+		"chn": "能召唤“深眠之箭”朵罗雷丝的灵魂"
+	},
+	{
+		"id": 263000,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263001,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263002,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263003,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263004,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263005,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263006,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263007,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263008,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263009,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	},
+	{
+		"id": 263010,
+		"eng": "Summons Jarwight spirit",
+		"chn": "能召唤壶男的灵魂"
+	}
+]

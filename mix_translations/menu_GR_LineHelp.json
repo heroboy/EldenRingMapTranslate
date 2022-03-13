@@ -1,0 +1,1607 @@
+[
+	{
+		"id": 4100,
+		"eng": "Use selected item",
+		"chn": "使用选择的道具"
+	},
+	{
+		"id": 4101,
+		"eng": "Leave selected item here",
+		"chn": "将选择的道具放置原地"
+	},
+	{
+		"id": 4102,
+		"eng": "Discard selected item",
+		"chn": "丢弃选择的道具"
+	},
+	{
+		"id": 4110,
+		"eng": "Use selected items",
+		"chn": "大量使用选择的道具"
+	},
+	{
+		"id": 4111,
+		"eng": "Leave selected items here",
+		"chn": "将选择的道具大量放置原地"
+	},
+	{
+		"id": 4112,
+		"eng": "Discard selected items ",
+		"chn": "大量丢弃选择的道具"
+	},
+	{
+		"id": 4121,
+		"eng": "Select items to leave here",
+		"chn": "请选择要大量放置原地的道具"
+	},
+	{
+		"id": 4122,
+		"eng": "Select items to discard",
+		"chn": "请选择要大量丢弃的道具"
+	},
+	{
+		"id": 5100,
+		"eng": "Use selected number of items",
+		"chn": "使用指定数量的道具"
+	},
+	{
+		"id": 5101,
+		"eng": "Leave selected number of items here",
+		"chn": "将指定数量的道具放置原地"
+	},
+	{
+		"id": 5102,
+		"eng": "Discard selected number of items",
+		"chn": "丢弃指定数量的道具"
+	},
+	{
+		"id": 5104,
+		"eng": "Purchase selected number of items",
+		"chn": "购买指定数量的道具"
+	},
+	{
+		"id": 5105,
+		"eng": "Sell selected number of items",
+		"chn": "卖出指定数量的道具"
+	},
+	{
+		"id": 5106,
+		"eng": "Store selected number of items",
+		"chn": "收纳指定数量的道具"
+	},
+	{
+		"id": 5107,
+		"eng": "Take out selected number of items",
+		"chn": "取出指定数量的道具"
+	},
+	{
+		"id": 6000,
+		"eng": "Select a sorting method",
+		"chn": "请选择排序方式"
+	},
+	{
+		"id": 30000,
+		"eng": "Select entry to check",
+		"chn": "请选择要确认的项目"
+	},
+	{
+		"id": 40331,
+		"eng": "Confirm settings and continue",
+		"chn": "确认配置内容，前往下一个画面"
+	},
+	{
+		"id": 40500,
+		"eng": "Restore default settings",
+		"chn": "将所有配置恢复为默认"
+	},
+	{
+		"id": 102000,
+		"eng": "Select an item to interact with",
+		"chn": "请选择要操作的道具"
+	},
+	{
+		"id": 103000,
+		"eng": "Select slot to equip",
+		"chn": "请选择装备空格"
+	},
+	{
+		"id": 103500,
+		"eng": "Select item to equip",
+		"chn": "请选择要装备的道具"
+	},
+	{
+		"id": 105000,
+		"eng": "Check character status",
+		"chn": "确认角色的基本信息"
+	},
+	{
+		"id": 106000,
+		"eng": "Select entry to execute",
+		"chn": "请选择要执行的项目"
+	},
+	{
+		"id": 106001,
+		"eng": "Choose setting to adjust",
+		"chn": "请选择要配置的项目"
+	},
+	{
+		"id": 110001,
+		"eng": "Change up/down camera movement",
+		"chn": "配置镜头上下移动控制"
+	},
+	{
+		"id": 110002,
+		"eng": "Change left/right camera movement",
+		"chn": "配置镜头左右移动控制"
+	},
+	{
+		"id": 110003,
+		"eng": "Camera reset also resets the camera y-axis",
+		"chn": "重置镜头时，是否恢复默认角度"
+	},
+	{
+		"id": 110004,
+		"eng": "Set camera movement speed",
+		"chn": "配置镜头运镜速度"
+	},
+	{
+		"id": 110005,
+		"eng": "Set auto lock-on to new target when former target dies",
+		"chn": "锁定目标死亡时，是否自动更换锁定目标"
+	},
+	{
+		"id": 110006,
+		"eng": "Automatically target an enemy when attacking with no lock",
+		"chn": "未锁定目标时，是否自动锁定攻击目标"
+	},
+	{
+		"id": 110007,
+		"eng": "Set whether the camera automatically avoids walls",
+		"chn": "镜头触碰墙壁时，是否自动避开"
+	},
+	{
+		"id": 110009,
+		"eng": "Set controls used for jumping",
+		"chn": "配置跳跃的操作方式"
+	},
+	{
+		"id": 110010,
+		"eng": "Allows for manual control of aiming of large weapons when locked-on",
+		"chn": "配置装备大型武器锁定目标后，攻击时是否能手动变更方向"
+	},
+	{
+		"id": 110020,
+		"eng": "Decide whether to prioritize visual quality or frame rate",
+		"chn": "配置画面品质着重于画质或帧率"
+	},
+	{
+		"id": 110101,
+		"eng": "Switch depiction of blood on or off, or set to mild",
+		"chn": "配置流血表现"
+	},
+	{
+		"id": 110102,
+		"eng": "Switch in-game subtitles on or off",
+		"chn": "配置字幕显示"
+	},
+	{
+		"id": 110103,
+		"eng": "Configure how in-game HUD is displayed",
+		"chn": "配置是否显示各种量表"
+	},
+	{
+		"id": 110104,
+		"eng": "Configure cinematic effects used during special attacks",
+		"chn": "使出特殊攻击时，是否呈现特殊运镜"
+	},
+	{
+		"id": 110105,
+		"eng": "Adjust music level",
+		"chn": "音乐音量配置"
+	},
+	{
+		"id": 110106,
+		"eng": "Adjust sound effect level",
+		"chn": "音效音量配置"
+	},
+	{
+		"id": 110107,
+		"eng": "Adjust voice level",
+		"chn": "语音音量配置"
+	},
+	{
+		"id": 110117,
+		"eng": "Set overall audio volume",
+		"chn": "整体音量配置"
+	},
+	{
+		"id": 110118,
+		"eng": "Set automatic camera rotation for left/right movement",
+		"chn": "角色左右移动时，镜头是否自行转动"
+	},
+	{
+		"id": 110201,
+		"eng": "Adjust screen brightness",
+		"chn": "画面亮度配置"
+	},
+	{
+		"id": 110202,
+		"eng": "Adjust image quality when HDR is enabled",
+		"chn": "开启高动态范围成像（ＨＤＲ）时的画质调整"
+	},
+	{
+		"id": 110209,
+		"eng": "Enable/disable HDR",
+		"chn": "配置开启／关闭高动态范围成像（ＨＤＲ）"
+	},
+	{
+		"id": 110301,
+		"eng": "Allow or restrict voice chat",
+		"chn": "是否使用语音聊天"
+	},
+	{
+		"id": 110302,
+		"eng": "Allow or restrict cross-region matching",
+		"chn": "与所在区域外的联机玩家配对配置"
+	},
+	{
+		"id": 110303,
+		"eng": "Edit to match with players using the same password",
+		"chn": "编辑配对暗号，只有完全符合的玩家才能成功配对"
+	},
+	{
+		"id": 110304,
+		"eng": "Choose whether or not to display other players' names",
+		"chn": "配置其他玩家的名称显示方式"
+	},
+	{
+		"id": 110305,
+		"eng": "Choose whether to launch the game in online or offline mode",
+		"chn": "配置以联机游玩／脱机游玩开始游戏"
+	},
+	{
+		"id": 110306,
+		"eng": "Block your summon sign in worlds with adversaries present",
+		"chn": "其他世界中如果有敌对者，可以限制不显示自己的召唤记号"
+	},
+	{
+		"id": 110307,
+		"eng": "Review and update your consent to the data usage agreement",
+		"chn": "配置是否同意游戏分析"
+	},
+	{
+		"id": 110500,
+		"eng": "Save the game and return to title menu",
+		"chn": "保存游戏进度，返回标题画面"
+	},
+	{
+		"id": 110900,
+		"eng": "View controls",
+		"chn": "确认操作方式"
+	},
+	{
+		"id": 111006,
+		"eng": "Set keys to assign to actions",
+		"chn": "配置采取各项动作时对应的按键"
+	},
+	{
+		"id": 111010,
+		"eng": "Set device for on-screen prompts",
+		"chn": "根据使用的装置，配置操作指示显示的按键"
+	},
+	{
+		"id": 111011,
+		"eng": "Set whether tutorials will be shown or not",
+		"chn": "配置是否显示教学"
+	},
+	{
+		"id": 111020,
+		"eng": "Set mouse sensitivity for camera movement",
+		"chn": "配置鼠标操作镜头时的灵敏度"
+	},
+	{
+		"id": 111022,
+		"eng": "Set horizontal camera controls with the mouse",
+		"chn": "配置鼠标操作镜头时的左右移动"
+	},
+	{
+		"id": 111023,
+		"eng": "Set vertical camera controls with the mouse",
+		"chn": "配置鼠标操作镜头时的上下移动"
+	},
+	{
+		"id": 111110,
+		"eng": "Set the screen mode in which to launch the game",
+		"chn": "配置以全屏幕或窗口化启动游戏"
+	},
+	{
+		"id": 111111,
+		"eng": "Set the resolution",
+		"chn": "选择游戏屏幕分辨率"
+	},
+	{
+		"id": 111112,
+		"eng": "Set whether to simplify rendering in the case of reduced performance",
+		"chn": "配置是否于效能低下时简化渲染效果"
+	},
+	{
+		"id": 111113,
+		"eng": "Set graphics quality",
+		"chn": "配置画面品质"
+	},
+	{
+		"id": 111114,
+		"eng": "Set advanced graphics quality",
+		"chn": "详细配置画面品质"
+	},
+	{
+		"id": 111210,
+		"eng": "Set texture quality",
+		"chn": "选择贴图材质的品质"
+	},
+	{
+		"id": 111211,
+		"eng": "Select antialiasing quality",
+		"chn": "选择反锯齿的品质"
+	},
+	{
+		"id": 111212,
+		"eng": "Select SSAO quality",
+		"chn": "选择屏幕空间环境光遮蔽的品质"
+	},
+	{
+		"id": 111213,
+		"eng": "Select DOF quality",
+		"chn": "选择景深效果的品质"
+	},
+	{
+		"id": 111214,
+		"eng": "Select motion blur quality",
+		"chn": "选择动态模糊的品质"
+	},
+	{
+		"id": 111215,
+		"eng": "Select shadow quality",
+		"chn": "选择阴影的品质"
+	},
+	{
+		"id": 111216,
+		"eng": "Select lighting quality",
+		"chn": "选择光线呈现的品质"
+	},
+	{
+		"id": 111217,
+		"eng": "Select effects quality",
+		"chn": "选择特效的品质"
+	},
+	{
+		"id": 111218,
+		"eng": "Select volumetric quality",
+		"chn": "选择光影细部呈现的品质"
+	},
+	{
+		"id": 111219,
+		"eng": "Select reflection quality",
+		"chn": "选择反射呈现的品质"
+	},
+	{
+		"id": 111220,
+		"eng": "Select water surface quality",
+		"chn": "选择水面品质"
+	},
+	{
+		"id": 111221,
+		"eng": "Select shader quality",
+		"chn": "选择造型品质"
+	},
+	{
+		"id": 111222,
+		"eng": "Select ray tracing quality",
+		"chn": "选择光线追踪的品质"
+	},
+	{
+		"id": 111223,
+		"eng": "Select global illumination quality",
+		"chn": "选择全面照明的品质"
+	},
+	{
+		"id": 111224,
+		"eng": "Select grass quality",
+		"chn": "选择草地的品质"
+	},
+	{
+		"id": 212000,
+		"eng": "Choose attribute to level up",
+		"chn": "请选择想成长的能力值"
+	},
+	{
+		"id": 212001,
+		"eng": "Spending runes to level up",
+		"chn": "花费卢恩，进行升级"
+	},
+	{
+		"id": 212750,
+		"eng": "Choose attribute to level up",
+		"chn": "请选择想成长的能力值"
+	},
+	{
+		"id": 212751,
+		"eng": "Reset attributes with rebirth",
+		"chn": "准备重新诞生"
+	},
+	{
+		"id": 214000,
+		"eng": "Select an armament to enhance with Ashes of War",
+		"chn": "请选择要使用战灰的武器"
+	},
+	{
+		"id": 214001,
+		"eng": "Select an Ash of War to apply",
+		"chn": "请选择要使用的战灰"
+	},
+	{
+		"id": 214002,
+		"eng": "Select an affinity to grant to this armament",
+		"chn": "请选择武器要赋予的属性"
+	},
+	{
+		"id": 215000,
+		"eng": "Select a slot to hold a Great Rune",
+		"chn": "请选择要寄宿大卢恩的空格"
+	},
+	{
+		"id": 215001,
+		"eng": "Select a rune to hold",
+		"chn": "请选择要寄宿的卢恩"
+	},
+	{
+		"id": 216000,
+		"eng": "Select ashes to strengthen",
+		"chn": "请选择要强化的骨灰"
+	},
+	{
+		"id": 221000,
+		"eng": "Select an armament to strengthen",
+		"chn": "请选择要强化的武器"
+	},
+	{
+		"id": 221010,
+		"eng": "Select an armament to strengthen",
+		"chn": "请选择要强化的武器"
+	},
+	{
+		"id": 222000,
+		"eng": "Select memory slot",
+		"chn": "请选择记忆空格"
+	},
+	{
+		"id": 222001,
+		"eng": "Select sorcery/incantation to memorize",
+		"chn": "请选择要记忆的魔法、祷告"
+	},
+	{
+		"id": 225000,
+		"eng": "Choose which dragon ability to make thine own",
+		"chn": "请选择龙的力量，将其力量化为己有"
+	},
+	{
+		"id": 226000,
+		"eng": "Select puppet to obtain",
+		"chn": "请选择想取得的傀儡"
+	},
+	{
+		"id": 227000,
+		"eng": "Select Ashes of War to duplicate",
+		"chn": "请选择要复制的战灰"
+	},
+	{
+		"id": 230000,
+		"eng": "Select puppet to obtain",
+		"chn": "请选择想取得的傀儡"
+	},
+	{
+		"id": 230100,
+		"eng": "Select remembrance to duplicate",
+		"chn": "请选择要复制的追忆"
+	},
+	{
+		"id": 231000,
+		"eng": "Select item to purchase",
+		"chn": "请选择要购买的道具"
+	},
+	{
+		"id": 232000,
+		"eng": "Select item to sell",
+		"chn": "请选择要卖出的道具"
+	},
+	{
+		"id": 236000,
+		"eng": "Select item to craft",
+		"chn": "请选择要制作的道具"
+	},
+	{
+		"id": 236200,
+		"eng": "Select which remembrance to plumb for power",
+		"chn": "请选择要使用的追忆，将其力量化为己有"
+	},
+	{
+		"id": 236201,
+		"eng": "Select power to draw from remembrance",
+		"chn": "请选择想从追忆获得的力量"
+	},
+	{
+		"id": 236400,
+		"eng": "Select garment to alter",
+		"chn": "请选择修改前的服装"
+	},
+	{
+		"id": 236401,
+		"eng": "Select garment after alterations",
+		"chn": "请选择修改后的服装"
+	},
+	{
+		"id": 238000,
+		"eng": "Select mixture slot",
+		"chn": "请选择调配空格"
+	},
+	{
+		"id": 238001,
+		"eng": "Select crystal tear to mix",
+		"chn": "请选择要调配的结晶露滴"
+	},
+	{
+		"id": 241000,
+		"eng": "View map",
+		"chn": "确认地图的信息"
+	},
+	{
+		"id": 241100,
+		"eng": "Set marker",
+		"chn": "放置标记"
+	},
+	{
+		"id": 241101,
+		"eng": "Remove marker",
+		"chn": "移除标记"
+	},
+	{
+		"id": 241102,
+		"eng": "Remove all markers",
+		"chn": "移除所有标记"
+	},
+	{
+		"id": 241200,
+		"eng": "Select the site of grace where you wish to go",
+		"chn": "请选择想传送过去的赐福"
+	},
+	{
+		"id": 241300,
+		"eng": "Select the site of grace where you wish to go",
+		"chn": "请选择想传送过去的赐福"
+	},
+	{
+		"id": 251000,
+		"eng": "Select item to store in chest",
+		"chn": "请选择要收纳至木箱的道具"
+	},
+	{
+		"id": 251001,
+		"eng": "Select item to take from chest",
+		"chn": "请选择要从木箱拿出的道具"
+	},
+	{
+		"id": 280005,
+		"eng": "Select which action to assign",
+		"chn": "请选择想更动配置的动作"
+	},
+	{
+		"id": 280011,
+		"eng": "Press the key you want to assign to this action",
+		"chn": "请按下想配置成的按键"
+	},
+	{
+		"id": 280100,
+		"eng": "Press while moving to walk",
+		"chn": "在移动时按下，能慢步移动"
+	},
+	{
+		"id": 280101,
+		"eng": "Move forwards",
+		"chn": "向前方移动"
+	},
+	{
+		"id": 280102,
+		"eng": "Move to the rear",
+		"chn": "向后方移动"
+	},
+	{
+		"id": 280103,
+		"eng": "Move to the left",
+		"chn": "向左方移动"
+	},
+	{
+		"id": 280104,
+		"eng": "Move to the right",
+		"chn": "向右方移动"
+	},
+	{
+		"id": 280105,
+		"eng": "Press while standing still to backstep.\nPress while moving for a dodge roll, or hold to dash.",
+		"chn": "在静止状态按下能后跃\n移动时按下能翻滚，按住不放能冲刺"
+	},
+	{
+		"id": 280106,
+		"eng": "Jump",
+		"chn": "能进行跳跃"
+	},
+	{
+		"id": 280107,
+		"eng": "Switch between standing and crouching",
+		"chn": "能切换站立、蹲下的动作"
+	},
+	{
+		"id": 280200,
+		"eng": "Move the camera up.\nChange target upwards during lock-on.",
+		"chn": "能向上移动镜头，锁定时能向上切换目标"
+	},
+	{
+		"id": 280201,
+		"eng": "Move the camera down.\nChange target downwards during lock-on.",
+		"chn": "能向下移动镜头，锁定时能向下切换目标"
+	},
+	{
+		"id": 280202,
+		"eng": "Move the camera to the left.\nChange target to the left during lock-on.",
+		"chn": "能向左移动镜头，锁定时能向左切换目标"
+	},
+	{
+		"id": 280203,
+		"eng": "Move the camera to the right.\nChange target to the right during lock-on.",
+		"chn": "能向右移动镜头，锁定时能向右切换目标"
+	},
+	{
+		"id": 280204,
+		"eng": "Reset the camera's position.\nTurn lock-on fixation on or off during lock-on.",
+		"chn": "能重置镜头\n画面中有可以锁定的目标时，能锁定／解除锁定目标"
+	},
+	{
+		"id": 280300,
+		"eng": "Change your Quick Item",
+		"chn": "切换使用的道具"
+	},
+	{
+		"id": 280301,
+		"eng": "Change your right-hand armament",
+		"chn": "切换右手武器"
+	},
+	{
+		"id": 280302,
+		"eng": "Change your left-hand armament",
+		"chn": "切换左手武器"
+	},
+	{
+		"id": 280303,
+		"eng": "Change your selected sorcery or incantation",
+		"chn": "切换魔法、祷告"
+	},
+	{
+		"id": 280400,
+		"eng": "Normal attack with your right-hand armament",
+		"chn": "用右手武器使出轻攻击"
+	},
+	{
+		"id": 280401,
+		"eng": "Strong attack with your right-hand armament. Hold to charge the attack.",
+		"chn": "用右手武器使出重攻击，按住不放能蓄力攻击"
+	},
+	{
+		"id": 280402,
+		"eng": "Guard with your left-hand armament",
+		"chn": "用左手武器进行防御"
+	},
+	{
+		"id": 280403,
+		"eng": "Perform a skill",
+		"chn": "发动战技"
+	},
+	{
+		"id": 280404,
+		"eng": "Perform various actions",
+		"chn": "能做出各种行动"
+	},
+	{
+		"id": 280405,
+		"eng": "Use an item",
+		"chn": "能使用道具"
+	},
+	{
+		"id": 280406,
+		"eng": "Wield your right-hand armament in both hands.\nHold to wield your left-hand armament in both hands instead.",
+		"chn": "双手共持右手武器\n按住不放能双手共持左手武器"
+	},
+	{
+		"id": 288000,
+		"eng": "Select which character to use",
+		"chn": "请选择想使用的角色"
+	},
+	{
+		"id": 288001,
+		"eng": "Select a base for creating your character",
+		"chn": "请选择想使用的角色雏形"
+	},
+	{
+		"id": 291000,
+		"eng": "Enter name",
+		"chn": "请输入名字"
+	},
+	{
+		"id": 291001,
+		"eng": "Select body type",
+		"chn": "选择体型"
+	},
+	{
+		"id": 291002,
+		"eng": "Select apparent age",
+		"chn": "选择年龄段"
+	},
+	{
+		"id": 291003,
+		"eng": "Select voice",
+		"chn": "选择声音"
+	},
+	{
+		"id": 291010,
+		"eng": "Select origin",
+		"chn": "选择出身"
+	},
+	{
+		"id": 291011,
+		"eng": "Select keepsake",
+		"chn": "选择遗物"
+	},
+	{
+		"id": 291020,
+		"eng": "Choose a template appearance",
+		"chn": "选择基本外貌"
+	},
+	{
+		"id": 291021,
+		"eng": "Alter facial features",
+		"chn": "编辑脸部细节"
+	},
+	{
+		"id": 291022,
+		"eng": "Alter general figure",
+		"chn": "编辑身体细节"
+	},
+	{
+		"id": 291023,
+		"eng": "Alter skin color and details",
+		"chn": "编辑肤色细节"
+	},
+	{
+		"id": 291025,
+		"eng": "Edit details of character appearance",
+		"chn": "编辑外貌细节"
+	},
+	{
+		"id": 291030,
+		"eng": "Save present settings as a favorite",
+		"chn": "保存目前的外貌"
+	},
+	{
+		"id": 291031,
+		"eng": "Load saved favorite",
+		"chn": "读取已保存的外貌"
+	},
+	{
+		"id": 291050,
+		"eng": "Finalize character",
+		"chn": "完成创建角色"
+	},
+	{
+		"id": 291051,
+		"eng": "Start over with a new appearance",
+		"chn": "结束化妆，化为新的外貌"
+	},
+	{
+		"id": 291052,
+		"eng": "Start over with a new appearance",
+		"chn": "结束化妆，化为新的外貌"
+	},
+	{
+		"id": 292000,
+		"eng": "Edit character's facial features",
+		"chn": "编辑脸部特征"
+	},
+	{
+		"id": 292001,
+		"eng": "Edit character's facial shape",
+		"chn": "编辑脸部轮廓"
+	},
+	{
+		"id": 292010,
+		"eng": "Edit character's hair",
+		"chn": "编辑头发"
+	},
+	{
+		"id": 292011,
+		"eng": "Edit character's eyebrows",
+		"chn": "编辑眉毛"
+	},
+	{
+		"id": 292012,
+		"eng": "Edit character's facial hair",
+		"chn": "编辑胡子"
+	},
+	{
+		"id": 292013,
+		"eng": "Edit character's eyelashes",
+		"chn": "编辑睫毛"
+	},
+	{
+		"id": 292020,
+		"eng": "Edit character's eyes",
+		"chn": "编辑眼睛"
+	},
+	{
+		"id": 292025,
+		"eng": "Edit character's skin features",
+		"chn": "编辑皮肤特色"
+	},
+	{
+		"id": 292030,
+		"eng": "Edit character's makeup",
+		"chn": "编辑化妆"
+	},
+	{
+		"id": 292040,
+		"eng": "Edit character's tattoos/marks/eyepatch",
+		"chn": "编辑刺青／痣／眼罩"
+	},
+	{
+		"id": 292050,
+		"eng": "Select face similar to present face",
+		"chn": "选择与目前相似的脸型"
+	},
+	{
+		"id": 292060,
+		"eng": "Adjust character's head",
+		"chn": "调整头部"
+	},
+	{
+		"id": 292061,
+		"eng": "Adjust character's chest",
+		"chn": "调整胸部"
+	},
+	{
+		"id": 292062,
+		"eng": "Adjust character's abdomen",
+		"chn": "调整腹部"
+	},
+	{
+		"id": 292063,
+		"eng": "Adjust character's arms",
+		"chn": "调整腕部"
+	},
+	{
+		"id": 292064,
+		"eng": "Adjust character's legs",
+		"chn": "调整腿部"
+	},
+	{
+		"id": 292070,
+		"eng": "Adjust character's body hair",
+		"chn": "调整体毛量"
+	},
+	{
+		"id": 292071,
+		"eng": "Adjust character's body hair color",
+		"chn": "编辑体毛颜色"
+	},
+	{
+		"id": 292072,
+		"eng": "Select musculature",
+		"chn": "选择肌肉量"
+	},
+	{
+		"id": 292080,
+		"eng": "Set whether to display burn marks",
+		"chn": "配置是否显示烫伤伤痕"
+	},
+	{
+		"id": 293000,
+		"eng": "Choose bone structure",
+		"chn": "选择骨胳形状"
+	},
+	{
+		"id": 293001,
+		"eng": "Adjust facial feature strength",
+		"chn": "调整轮廓深度"
+	},
+	{
+		"id": 293002,
+		"eng": "Adjust apparent age",
+		"chn": "调整脸部的年龄印象"
+	},
+	{
+		"id": 293003,
+		"eng": "Adjust facial aesthetic",
+		"chn": "调整脸部的外貌印象"
+	},
+	{
+		"id": 293010,
+		"eng": "Edit facial balance",
+		"chn": "编辑脸部平衡"
+	},
+	{
+		"id": 293011,
+		"eng": "Edit forehead and glabella",
+		"chn": "编辑额头或眉心"
+	},
+	{
+		"id": 293012,
+		"eng": "Edit brow ridge",
+		"chn": "编辑眉骨"
+	},
+	{
+		"id": 293013,
+		"eng": "Edit eyes",
+		"chn": "编辑眼睛"
+	},
+	{
+		"id": 293014,
+		"eng": "Edit nose ridge",
+		"chn": "编辑鼻梁"
+	},
+	{
+		"id": 293015,
+		"eng": "Edit nostrils",
+		"chn": "编辑鼻翼"
+	},
+	{
+		"id": 293016,
+		"eng": "Edit cheeks",
+		"chn": "编辑脸颊"
+	},
+	{
+		"id": 293017,
+		"eng": "Edit lips",
+		"chn": "编辑嘴唇"
+	},
+	{
+		"id": 293018,
+		"eng": "Edit mouth",
+		"chn": "编辑嘴巴"
+	},
+	{
+		"id": 293019,
+		"eng": "Edit chin",
+		"chn": "编辑下巴"
+	},
+	{
+		"id": 293020,
+		"eng": "Edit jaw",
+		"chn": "编辑下颚"
+	},
+	{
+		"id": 293100,
+		"eng": "Select hair style",
+		"chn": "选择发型"
+	},
+	{
+		"id": 293101,
+		"eng": "Edit hair color",
+		"chn": "编辑发色"
+	},
+	{
+		"id": 293102,
+		"eng": "Adjust hair luster",
+		"chn": "编辑头发光泽"
+	},
+	{
+		"id": 293103,
+		"eng": "Adjust hair root darkness",
+		"chn": "编辑发根的漆黑度"
+	},
+	{
+		"id": 293104,
+		"eng": "Adjust quantity of white hairs",
+		"chn": "编辑白发多寡"
+	},
+	{
+		"id": 293110,
+		"eng": "Select brow shape",
+		"chn": "选择眉毛形状"
+	},
+	{
+		"id": 293111,
+		"eng": "Edit brow color",
+		"chn": "编辑眉色"
+	},
+	{
+		"id": 293112,
+		"eng": "Adjust eyebrow luster",
+		"chn": "调整眉毛光泽"
+	},
+	{
+		"id": 293113,
+		"eng": "Adjust eyebrow root darkness",
+		"chn": "调整眉毛根部的漆黑度"
+	},
+	{
+		"id": 293114,
+		"eng": "Adjust quantity of white eyebrow hairs",
+		"chn": "调整白色眉毛的多寡"
+	},
+	{
+		"id": 293120,
+		"eng": "Select beard type",
+		"chn": "选择胡子形状"
+	},
+	{
+		"id": 293121,
+		"eng": "Edit beard color",
+		"chn": "编辑胡子颜色"
+	},
+	{
+		"id": 293122,
+		"eng": "Adjust facial hair luster",
+		"chn": "调整胡子光泽"
+	},
+	{
+		"id": 293123,
+		"eng": "Adjust facial hair root darkness",
+		"chn": "调整胡子根部的漆黑度"
+	},
+	{
+		"id": 293124,
+		"eng": "Adjust quantity of white facial hair",
+		"chn": "调整白色胡子的多寡"
+	},
+	{
+		"id": 293125,
+		"eng": "Adjust stubble thickness",
+		"chn": "调整胡渣的浓密度"
+	},
+	{
+		"id": 293130,
+		"eng": "Select eyelash shape",
+		"chn": "选择睫毛形状"
+	},
+	{
+		"id": 293131,
+		"eng": "Edit eyelash color",
+		"chn": "编辑睫毛颜色"
+	},
+	{
+		"id": 293140,
+		"eng": "Adjust right eye size",
+		"chn": "调整右眼虹膜大小"
+	},
+	{
+		"id": 293141,
+		"eng": "Edit color of right iris",
+		"chn": "编辑右眼虹膜颜色"
+	},
+	{
+		"id": 293142,
+		"eng": "Adjust opacity of right eye clouding",
+		"chn": "调整右眼水晶体的混浊程度"
+	},
+	{
+		"id": 293143,
+		"eng": "Adjust color of right eye clouding",
+		"chn": "编辑右眼水晶体混浊部分的颜色"
+	},
+	{
+		"id": 293144,
+		"eng": "Adjust color of right eye white",
+		"chn": "编辑右眼的眼白颜色"
+	},
+	{
+		"id": 293145,
+		"eng": "Adjust right eye's distance from the center of the face",
+		"chn": "调整右眼虹膜距离脸中心的位置"
+	},
+	{
+		"id": 293150,
+		"eng": "Adjust left eye size",
+		"chn": "编辑左眼虹膜大小"
+	},
+	{
+		"id": 293151,
+		"eng": "Edit color of left iris",
+		"chn": "编辑左眼虹膜颜色"
+	},
+	{
+		"id": 293152,
+		"eng": "Adjust opacity of left eye clouding",
+		"chn": "调整左眼水晶体的混浊程度"
+	},
+	{
+		"id": 293153,
+		"eng": "Adjust color of left eye clouding",
+		"chn": "编辑左眼水晶体混浊部分的颜色"
+	},
+	{
+		"id": 293154,
+		"eng": "Adjust color of left eye white",
+		"chn": "编辑左眼的眼白颜色"
+	},
+	{
+		"id": 293155,
+		"eng": "Adjust left eye's distance from the center of the face",
+		"chn": "调整左眼虹膜距离脸中心的位置"
+	},
+	{
+		"id": 293156,
+		"eng": "Apply eye alterations",
+		"chn": "是否套用变化后的眼睛配置"
+	},
+	{
+		"id": 293160,
+		"eng": "Alter visibility of pores",
+		"chn": "调整毛孔的显眼程度"
+	},
+	{
+		"id": 293161,
+		"eng": "Adjust skin luster",
+		"chn": "调整皮肤光泽"
+	},
+	{
+		"id": 293162,
+		"eng": "Adjust darkness of bags under eyes",
+		"chn": "调整眼窝浓淡"
+	},
+	{
+		"id": 293163,
+		"eng": "Adjust the color of bags under eyes",
+		"chn": "编辑眼窝颜色"
+	},
+	{
+		"id": 293164,
+		"eng": "Adjust cheek makeup intensity",
+		"chn": "调整腮红浓淡"
+	},
+	{
+		"id": 293165,
+		"eng": "Adjust cheek color",
+		"chn": "编辑腮红颜色"
+	},
+	{
+		"id": 293166,
+		"eng": "Adjust eyeliner darkness",
+		"chn": "调整眼线浓淡"
+	},
+	{
+		"id": 293167,
+		"eng": "Adjust eyeliner color",
+		"chn": "编辑眼线颜色"
+	},
+	{
+		"id": 293168,
+		"eng": "Adjust eyeshadow darkness on upper eyelid",
+		"chn": "调整眼皮的眼影浓淡"
+	},
+	{
+		"id": 293169,
+		"eng": "Adjust eyeshadow color on upper eyelid",
+		"chn": "编辑眼皮的眼影颜色"
+	},
+	{
+		"id": 293170,
+		"eng": "Adjust eyeshadow darkness on lower eyelid",
+		"chn": "调整卧蚕的眼影浓淡"
+	},
+	{
+		"id": 293171,
+		"eng": "Adjust eyeshadow color on lower eyelid",
+		"chn": "编辑卧蚕的眼影颜色"
+	},
+	{
+		"id": 293172,
+		"eng": "Adjust lipstick intensity",
+		"chn": "调整口红浓淡"
+	},
+	{
+		"id": 293173,
+		"eng": "Adjust lipstick color",
+		"chn": "编辑口红颜色"
+	},
+	{
+		"id": 293180,
+		"eng": "Select appearance of tattoo/mark",
+		"chn": "选择刺青／痣的形状"
+	},
+	{
+		"id": 293181,
+		"eng": "Edit tattoo/mark color",
+		"chn": "编辑刺青／痣的颜色"
+	},
+	{
+		"id": 293182,
+		"eng": "Adjust position of tattoo/mark",
+		"chn": "调整刺青／痣的细节"
+	},
+	{
+		"id": 293190,
+		"eng": "Choose an eyepatch",
+		"chn": "选择眼罩"
+	},
+	{
+		"id": 293191,
+		"eng": "Adjust eyepatch color",
+		"chn": "编辑眼罩的颜色"
+	},
+	{
+		"id": 297100,
+		"eng": "Buff body\nBody type has no bearing on ability",
+		"chn": "强壮的体型\n体型与能力高低无关"
+	},
+	{
+		"id": 297101,
+		"eng": "Slender body\nBody type has no bearing on ability",
+		"chn": "纤细的体型\n体型与能力高低无关"
+	},
+	{
+		"id": 297110,
+		"eng": "Young\nAge only affects appearance,\nhas no bearing on ability",
+		"chn": "年轻时期的外貌\n外貌与能力高低无关"
+	},
+	{
+		"id": 297111,
+		"eng": "Mature\nAge only affects appearance,\nhas no bearing on ability",
+		"chn": "壮年时期的外貌\n外貌与能力高低无关"
+	},
+	{
+		"id": 297112,
+		"eng": "Aged\nAge only affects appearance,\nhas no bearing on ability",
+		"chn": "年迈时期的外貌\n外貌与能力高低无关"
+	},
+	{
+		"id": 297120,
+		"eng": "Young voice type 1",
+		"chn": "年轻时期的声音，第一种"
+	},
+	{
+		"id": 297121,
+		"eng": "Mature voice type 1",
+		"chn": "壮年时期的声音，第一种"
+	},
+	{
+		"id": 297122,
+		"eng": "Aged voice type 1",
+		"chn": "年迈时期的声音，第一种"
+	},
+	{
+		"id": 297125,
+		"eng": "Young voice type 2",
+		"chn": "年轻时期的声音，第二种"
+	},
+	{
+		"id": 297126,
+		"eng": "Mature voice type 2",
+		"chn": "壮年时期的声音，第二种"
+	},
+	{
+		"id": 297127,
+		"eng": "Aged voice type 2",
+		"chn": "年迈时期的声音，第二种"
+	},
+	{
+		"id": 297130,
+		"eng": "A knight exiled from their homeland to\nwander. A solid, armor-clad origin.",
+		"chn": "受祖国放逐的流浪骑士\n身穿金属盔甲，稳如泰山"
+	},
+	{
+		"id": 297131,
+		"eng": "A nomad warrior who fights wielding two\nblades at once. An origin of exceptional\ntechnique.",
+		"chn": "游牧民族的双刀剑士\n身手十分灵巧"
+	},
+	{
+		"id": 297132,
+		"eng": "A stalwart hero, at home with a battleaxe,\ndescended from a badlands chieftain.",
+		"chn": "挥舞战斧的强壮勇者\n据说是蛮荒地王者的后代"
+	},
+	{
+		"id": 297133,
+		"eng": "A dangerous bandit who strikes for\nweak points. Excels at ranged combat\nwith bows.",
+		"chn": "专挑致命一击攻击的危险盗贼\n会用弓箭，能进行远距离攻击"
+	},
+	{
+		"id": 297134,
+		"eng": "A scholar who reads fate in the stars.\nHeir to the school of glintstone sorcery.",
+		"chn": "试图从星星找寻命运的人物\n继承了辉石魔法"
+	},
+	{
+		"id": 297135,
+		"eng": "A seer ostracized for inauspicious\nprophecies. Well-versed in healing\nincantations.",
+		"chn": "做出不祥的预言\n因此受到迫害的预言家\n会使用恢复类的祷告"
+	},
+	{
+		"id": 297136,
+		"eng": "A capable fighter from the distant Land of\nReeds. Handy with katana and longbows.",
+		"chn": "来自与外隔绝的异国\n芦苇之地的武士\n擅于用刀与长弓的战士"
+	},
+	{
+		"id": 297137,
+		"eng": "A prisoner bound in an iron mask. Studied\nin glintstone sorcery, having lived among\nthe elite prior to sentencing.",
+		"chn": "受判重刑，戴着铁面具的囚犯\n原本似乎出身上流社会\n会使用辉石魔法"
+	},
+	{
+		"id": 297138,
+		"eng": "A church spy adept at covert operations.\nEqually adept with a sword as they are\nwith their incantations.",
+		"chn": "擅于暗地行动的教会密使\n使用剑术与祷告，相辅相成"
+	},
+	{
+		"id": 297139,
+		"eng": "A poor, purposeless sod, naked as the day\nthey were born. A nice club is all they have.",
+		"chn": "不知缘故，但裸着身体的人物\n身上只带着棍棒"
+	},
+	{
+		"id": 297150,
+		"eng": "No keepsake. The past has been well and\ntruly left behind.",
+		"chn": "没有遗物\n将过去的一切留在故乡"
+	},
+	{
+		"id": 297151,
+		"eng": "A medallion inlaid with crimson amber.\nIncreases maximum HP.",
+		"chn": "镶有红色琥珀的链坠\n能提升血量的上限"
+	},
+	{
+		"id": 297152,
+		"eng": "The gold of grace shining in the eyes of\nthe people of the Lands Between.\nUse to gain many runes.",
+		"chn": "蕴藏在交界地居民眼中的赐福\n残存下来的黄金碎屑\n使用后能获得大量卢恩"
+	},
+	{
+		"id": 297153,
+		"eng": "A golden seed washed ashore from the\nLands Between. Said to reinforce\nSacred Flasks.",
+		"chn": "从交界地漂流而来的黄金种子\n据说可以用在强化圣杯瓶"
+	},
+	{
+		"id": 297154,
+		"eng": "The ashes of small, diminutive golems.\nAshes are said to hold spirits within.",
+		"chn": "娇小魔像们的骨灰\n据说有灵魂寄宿其中"
+	},
+	{
+		"id": 297156,
+		"eng": "Three strange cracked pots that somehow\nmend themselves. A container for certain\nthrown items.",
+		"chn": "即使坏掉也会复原，神奇的壶（３个）\n是投掷壶类道具的容器"
+	},
+	{
+		"id": 297157,
+		"eng": "Two stone keys shaped like swords.\nBreaks the seal on imp statues, but can only be used once.",
+		"chn": "参考剑的外型设计的石制钥匙（２把）\n据说能解开小恶魔像的封印\n但使用后会损坏"
+	},
+	{
+		"id": 297158,
+		"eng": "Five sacred branches charged with beguiling\npower. Said to originate from the\ndemigod Miquella.",
+		"chn": "能够魅惑敌人的神圣树枝（５枝）\n据说起源来自半神米凯拉"
+	},
+	{
+		"id": 297159,
+		"eng": "Five pieces of boiled prawn.\nBoosts physical damage negation.",
+		"chn": "煮熟的虾子肉（５个）\n一定时间内，提升物理减伤率"
+	},
+	{
+		"id": 297160,
+		"eng": "The crazed likeness of a noble whose eyes have been gouged out.\nAttracts enemies' aggression.",
+		"chn": "被众人压碎双眼的男性疯狂肖像\n将变得容易受敌人攻击"
+	},
+	{
+		"id": 297170,
+		"eng": "Average physique",
+		"chn": "标准肌肉量的身体"
+	},
+	{
+		"id": 297171,
+		"eng": "Muscular physique",
+		"chn": "肌肉较多的身体"
+	},
+	{
+		"id": 297180,
+		"eng": "Mirror tattoos and marks",
+		"chn": "翻转刺青／痣"
+	},
+	{
+		"id": 297181,
+		"eng": "Do not mirror tattoos and marks",
+		"chn": "不翻转刺青／痣"
+	},
+	{
+		"id": 297185,
+		"eng": "Apply eye alterations",
+		"chn": "使用变化后的眼睛配置"
+	},
+	{
+		"id": 297186,
+		"eng": "Do not apply eye alterations",
+		"chn": "不使用变化后的眼睛配置"
+	},
+	{
+		"id": 297187,
+		"eng": "Display burn marks",
+		"chn": "显示烫伤的伤痕"
+	},
+	{
+		"id": 297188,
+		"eng": "Do not display burn marks",
+		"chn": "不显示烫伤的伤痕"
+	},
+	{
+		"id": 297200,
+		"eng": "The most common face among the Tarnished.\nAfter all, they were all warriors once.",
+		"chn": "褪色者之中最常见的外貌\n在过去，褪色者都是战士"
+	},
+	{
+		"id": 297201,
+		"eng": "The face of an austere pilgrim.\nThere are many roads to truth.",
+		"chn": "禁欲求道者的外貌\n他们追求的道，不尽相同"
+	},
+	{
+		"id": 297202,
+		"eng": "A regal face found among those who claim\nnoble blood in the Lands Between.",
+		"chn": "自称继承交界地贵族血统的人\n所拥有的外貌"
+	},
+	{
+		"id": 297203,
+		"eng": "Face found among a proud and seclusive\ntribe of folk well-versed in ancient\nlegends and heresies alike.",
+		"chn": "遗世独立的家族拥有的外貌\n与古老传说、异端有所关联"
+	},
+	{
+		"id": 297204,
+		"eng": "A face found among the hardy people\nof the unforgiving north. Some say\nthey're descended from giants.",
+		"chn": "北方荒凉大地居民的外貌\n据说他们是巨人的后代"
+	},
+	{
+		"id": 297205,
+		"eng": "The face of one who wanders the seas in\nsearch of their home in the Lands Between.",
+		"chn": "在茫茫大海中徘徊\n遍寻故乡交界地所在的水手\n所拥有的外貌"
+	},
+	{
+		"id": 297206,
+		"eng": "A face from the faraway, isolated Land\nof Reeds, where blood is a familiar sight.",
+		"chn": "与外隔绝的异国\n芦苇之地居民的外貌\n那片土地充斥着血腥"
+	},
+	{
+		"id": 297207,
+		"eng": "The stony face of the people of the\nancient dragons, among whom life\nis typically short.",
+		"chn": "拥有岩石皮肤的人拥有的外貌\n古龙的子民大多短命"
+	},
+	{
+		"id": 297208,
+		"eng": "The features of those known as\nNightfolk. Few in number, they were\nsaid to bleed silver long ago.",
+		"chn": "人称夜人的少数人拥有的外貌\n传说他们有着银色血液"
+	},
+	{
+		"id": 297209,
+		"eng": "The face of the Numen, supposed\ndescendants of denizens of another\nworld. Long-lived but seldom born.",
+		"chn": "人称异界居民的后代，稀人的外貌\n很长寿，然而诞生的人数非常之少"
+	},
+	{
+		"id": 297220,
+		"eng": "The most common face among the Tarnished.\nAfter all, they were all warriors once.",
+		"chn": "褪色者之中最常见的外貌\n在过去，褪色者都是战士"
+	},
+	{
+		"id": 297221,
+		"eng": "The face of an austere pilgrim.\nThere are many roads to truth.",
+		"chn": "禁欲求道者的外貌\n他们追求的道，不尽相同"
+	},
+	{
+		"id": 297222,
+		"eng": "A regal face found among those who claim\nnoble blood in the Lands Between.",
+		"chn": "自称继承交界地贵族血统的人们\n所拥有的外貌"
+	},
+	{
+		"id": 297223,
+		"eng": "Face found among a proud and seclusive\ntribe of folk well-versed in ancient\nlegends and heresies alike.",
+		"chn": "遗世独立的家族拥有的外貌\n他们与古老传说、异端有所关联"
+	},
+	{
+		"id": 297224,
+		"eng": "A face found among the hardy people\nof the unforgiving north. Some say\nthey're descended from giants.",
+		"chn": "北方荒凉大地居民的外貌\n据说他们是巨人的后代"
+	},
+	{
+		"id": 297225,
+		"eng": "The face of one who wanders the seas in\nsearch of their home in the Lands Between.",
+		"chn": "在茫茫大海中徘徊\n遍寻故乡交界地所在的水手\n所拥有的外貌"
+	},
+	{
+		"id": 297226,
+		"eng": "A face from the faraway, isolated Land\nof Reeds, where blood is a familiar sight.",
+		"chn": "与外隔绝的异国\n芦苇之地居民的外貌\n那片土地充斥着血腥"
+	},
+	{
+		"id": 297227,
+		"eng": "The stony face of the people of the\nancient dragons, among whom life\nis typically short.",
+		"chn": "拥有岩石皮肤的人拥有的外貌\n古龙的子民大多短命"
+	},
+	{
+		"id": 297228,
+		"eng": "The features of those known as\nNightfolk. Few in number, they were\nsaid to bleed silver long ago.",
+		"chn": "人称夜人的少数人拥有的外貌\n传说他们有着银色血液"
+	},
+	{
+		"id": 297229,
+		"eng": "The face of the Numen, supposed\ndescendants of denizens of another\nworld. Long-lived but seldom born.",
+		"chn": "人称异界居民的后代，稀人的外貌\n很长寿，然而诞生的人数非常之少"
+	},
+	{
+		"id": 301000,
+		"eng": "Select gesture for this slot",
+		"chn": "请选择要登录至空格的肢体动作"
+	},
+	{
+		"id": 301001,
+		"eng": "Select gesture to use",
+		"chn": "请选择要使用的肢体动作"
+	},
+	{
+		"id": 321000,
+		"eng": "Edit message composition",
+		"chn": "编辑讯息内容"
+	},
+	{
+		"id": 321001,
+		"eng": "Change bound gesture",
+		"chn": "选择想搭配的肢体动作"
+	},
+	{
+		"id": 321002,
+		"eng": "Finish writing message",
+		"chn": "完成讯息编辑"
+	},
+	{
+		"id": 321003,
+		"eng": "Select template",
+		"chn": "请选择范文"
+	},
+	{
+		"id": 321004,
+		"eng": "Change bound gesture",
+		"chn": "请选择想搭配的肢体动作"
+	},
+	{
+		"id": 321005,
+		"eng": "Select word category",
+		"chn": "请选择单字的类别"
+	},
+	{
+		"id": 321006,
+		"eng": "Select template",
+		"chn": "请选择范文"
+	},
+	{
+		"id": 321007,
+		"eng": "Select word",
+		"chn": "请选择单字"
+	},
+	{
+		"id": 321008,
+		"eng": "Select conjunction",
+		"chn": "请选择连接词"
+	},
+	{
+		"id": 322000,
+		"eng": "View composed messages",
+		"chn": "确认自己写下的讯息"
+	},
+	{
+		"id": 324000,
+		"eng": "See recently viewed messages",
+		"chn": "确认最近阅读过的讯息"
+	},
+	{
+		"id": 406000,
+		"eng": "Select profile to load",
+		"chn": "请选择要读取的角色档案"
+	},
+	{
+		"id": 406001,
+		"eng": "Select profile to delete",
+		"chn": "请选择要删除的角色档案"
+	}
+]

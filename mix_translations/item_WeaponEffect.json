@@ -1,0 +1,317 @@
+[
+	{
+		"id": 1000,
+		"eng": "Some damage isn't negated when guarded",
+		"chn": "防御之后，还是会受到一定伤害"
+	},
+	{
+		"id": 1001,
+		"eng": "Recovers HP from defeated enemies",
+		"chn": "打倒敌人时，能恢复血量"
+	},
+	{
+		"id": 1002,
+		"eng": "Recovers FP from defeated enemies",
+		"chn": "打倒敌人时，能恢复专注值"
+	},
+	{
+		"id": 1003,
+		"eng": "Successful attacks recover HP",
+		"chn": "攻击命中时，能恢复血量"
+	},
+	{
+		"id": 1004,
+		"eng": "Successful attacks recover FP",
+		"chn": "攻击命中时，能恢复专注值"
+	},
+	{
+		"id": 1005,
+		"eng": "Slowly recovers HP",
+		"chn": "能缓慢恢复血量"
+	},
+	{
+		"id": 1006,
+		"eng": "Slowly recovers FP",
+		"chn": "能缓慢恢复专注值"
+	},
+	{
+		"id": 1007,
+		"eng": "Boosts stamina recovery speed",
+		"chn": "能提升精力的恢复速度"
+	},
+	{
+		"id": 1008,
+		"eng": "Attack power rises as attacks continue",
+		"chn": "攻击越是连续，越能提升攻击力"
+	},
+	{
+		"id": 1009,
+		"eng": "Take self-inflicted damage",
+		"chn": "会受到自我损伤"
+	},
+	{
+		"id": 1010,
+		"eng": "Saps beasts of the will to fight",
+		"chn": "能减退野兽的攻击欲望"
+	},
+	{
+		"id": 1012,
+		"eng": "Boosts potency of physical spells",
+		"chn": "能提升物理属性魔法的威力"
+	},
+	{
+		"id": 1014,
+		"eng": "Boosts potency of spirit spells",
+		"chn": "能提升魔力属性魔法的威力"
+	},
+	{
+		"id": 1015,
+		"eng": "Boosts potency of lightning spells",
+		"chn": "能提升雷属性魔法的威力"
+	},
+	{
+		"id": 1016,
+		"eng": "Boosts potency of sacred spells",
+		"chn": "能提升圣属性魔法的威力"
+	},
+	{
+		"id": 1017,
+		"eng": "Boosts area of buffs and healing spells",
+		"chn": "能扩展强化类、恢复类魔法的范围"
+	},
+	{
+		"id": 1018,
+		"eng": "Handles any sorcery or incantation",
+		"chn": "能使用辉石魔法或祷告等等"
+	},
+	{
+		"id": 1019,
+		"eng": "Use as catalyst for glintstone sorcery",
+		"chn": "能够作为施展辉石魔法用的触媒"
+	},
+	{
+		"id": 1020,
+		"eng": "Use as seal for incantations",
+		"chn": "能够作为执行祷告用的触媒"
+	},
+	{
+		"id": 1021,
+		"eng": "Successive attacks recover HP",
+		"chn": "连续攻击能恢复血量"
+	},
+	{
+		"id": 1022,
+		"eng": "Successive attacks recover FP",
+		"chn": "连续攻击能恢复专注值"
+	},
+	{
+		"id": 1100,
+		"eng": "Boosts Crystalian sorcery",
+		"chn": "能强化结晶人的魔法"
+	},
+	{
+		"id": 1101,
+		"eng": "Boosts gravity sorcery",
+		"chn": "能强化重力的魔法"
+	},
+	{
+		"id": 1102,
+		"eng": "Boosts thorn sorcery",
+		"chn": "能强化荆棘的魔法"
+	},
+	{
+		"id": 1103,
+		"eng": "Boosts death sorcery",
+		"chn": "能强化死亡的魔法"
+	},
+	{
+		"id": 1104,
+		"eng": "Boosts full moon sorcery",
+		"chn": "能强化满月的魔法"
+	},
+	{
+		"id": 1105,
+		"eng": "Boosts Stonedigger sorcery",
+		"chn": "能强化挖石的魔法"
+	},
+	{
+		"id": 1106,
+		"eng": "Boosts Glintblade sorcery",
+		"chn": "能强化辉剑的魔法"
+	},
+	{
+		"id": 1107,
+		"eng": "Boosts Carian sword sorcery",
+		"chn": "能强化卡利亚剑的魔法"
+	},
+	{
+		"id": 1108,
+		"eng": "Boosts Azur's primeval sorcery",
+		"chn": "能强化亚兹勒的起源魔法"
+	},
+	{
+		"id": 1109,
+		"eng": "Boosts Lusat's primeval sorcery",
+		"chn": "能强化卢瑟特的起源魔法"
+	},
+	{
+		"id": 1110,
+		"eng": "Boosts invisibility sorcery",
+		"chn": "能强化隐形的魔法"
+	},
+	{
+		"id": 1111,
+		"eng": "Boosts Giants' Flame incantations",
+		"chn": "能强化巨人火焰的祷告"
+	},
+	{
+		"id": 1112,
+		"eng": "Boosts Fundamentalist incantations",
+		"chn": "能强化黄金律法基本主义的祷告"
+	},
+	{
+		"id": 1113,
+		"eng": "Boosts bestial incantations",
+		"chn": "能强化野兽的祷告"
+	},
+	{
+		"id": 1114,
+		"eng": "Boosts Dragon Cult incantations",
+		"chn": "能强化王城古龙信仰的祷告"
+	},
+	{
+		"id": 1115,
+		"eng": "Boosts Dragon Communion incantations",
+		"chn": "能强化龙飨的祷告"
+	},
+	{
+		"id": 1116,
+		"eng": "Boosts Frenzied Flame incantations",
+		"chn": "能强化癫火的祷告"
+	},
+	{
+		"id": 1117,
+		"eng": "Boosts lava sorcery",
+		"chn": "能强化熔岩的魔法"
+	},
+	{
+		"id": 1118,
+		"eng": "Boosts godslayer incantations",
+		"chn": "能强化狩猎神祇的祷告"
+	},
+	{
+		"id": 6400,
+		"eng": "Causes slight poison buildup (<?poisonATKpwr?>)",
+		"chn": "些微累积中毒量表（<?poisonATKpwr?>）"
+	},
+	{
+		"id": 6401,
+		"eng": "Causes poison buildup (<?poisonATKpwr?>)",
+		"chn": "累积中毒量表（<?poisonATKpwr?>）"
+	},
+	{
+		"id": 6402,
+		"eng": "Causes heavy poison buildup (<?poisonATKpwr?>)",
+		"chn": "大幅累积中毒量表（<?poisonATKpwr?>）"
+	},
+	{
+		"id": 6410,
+		"eng": "Causes intense poison buildup (<?poisonATKpwr?>)",
+		"chn": "累积强烈中毒量表（<?poisonATKpwr?>）"
+	},
+	{
+		"id": 6450,
+		"eng": "Causes slight scarlet rot buildup (<?diseaseATKpwr?>)",
+		"chn": "些微累积猩红腐败量表（<?diseaseATKpwr?>）"
+	},
+	{
+		"id": 6451,
+		"eng": "Causes scarlet rot buildup (<?diseaseATKpwr?>)",
+		"chn": "累积猩红腐败量表（<?diseaseATKpwr?>）"
+	},
+	{
+		"id": 6452,
+		"eng": "Causes heavy scarlet rot buildup (<?diseaseATKpwr?>)",
+		"chn": "大幅累积猩红腐败量表（<?diseaseATKpwr?>）"
+	},
+	{
+		"id": 6500,
+		"eng": "Causes slight blood loss buildup (<?bleedATKpwr?>)",
+		"chn": "些微累积出血量表（<?bleedATKpwr?>）"
+	},
+	{
+		"id": 6501,
+		"eng": "Causes blood loss buildup (<?bleedATKpwr?>)",
+		"chn": "累积出血量表（<?bleedATKpwr?>）"
+	},
+	{
+		"id": 6502,
+		"eng": "Causes heavy blood loss buildup (<?bleedATKpwr?>)",
+		"chn": "大幅累积出血量表（<?bleedATKpwr?>）"
+	},
+	{
+		"id": 6510,
+		"eng": "Causes intense blood loss buildup (<?bleedATKpwr?>)",
+		"chn": "累积强烈出血量表（<?bleedATKpwr?>）"
+	},
+	{
+		"id": 6550,
+		"eng": "Causes slight death buildup (<?curseATKpwr?>)",
+		"chn": "些微累积死亡量表（<?curseATKpwr?>）"
+	},
+	{
+		"id": 6551,
+		"eng": "Causes death buildup (<?curseATKpwr?>)",
+		"chn": "累积死亡量表（<?curseATKpwr?>）"
+	},
+	{
+		"id": 6552,
+		"eng": "Causes heavy death buildup (<?curseATKpwr?>)",
+		"chn": "大幅累积死亡量表（<?curseATKpwr?>）"
+	},
+	{
+		"id": 6600,
+		"eng": "Causes slight frost buildup (<?freezeATKpwr?>)",
+		"chn": "些微累积冻伤量表（<?freezeATKpwr?>）"
+	},
+	{
+		"id": 6601,
+		"eng": "Causes frost buildup (<?freezeATKpwr?>)",
+		"chn": "累积冻伤量表（<?freezeATKpwr?>）"
+	},
+	{
+		"id": 6602,
+		"eng": "Causes heavy frost buildup (<?freezeATKpwr?>)",
+		"chn": "大幅累积冻伤量表（<?freezeATKpwr?>）"
+	},
+	{
+		"id": 6650,
+		"eng": "Causes slight sleep buildup (<?sleepATKpwr?>)",
+		"chn": "些微累积催眠量表（<?sleepATKpwr?>）"
+	},
+	{
+		"id": 6651,
+		"eng": "Causes sleep buildup (<?sleepATKpwr?>)",
+		"chn": "累积催眠量表（<?sleepATKpwr?>）"
+	},
+	{
+		"id": 6652,
+		"eng": "Causes heavy sleep buildup (<?sleepATKpwr?>)",
+		"chn": "大幅累积催眠量表（<?sleepATKpwr?>）"
+	},
+	{
+		"id": 6700,
+		"eng": "Causes slight madness buildup (<?madnessATKpwr?>)",
+		"chn": "些微累积发狂量表（<?madnessATKpwr?>）"
+	},
+	{
+		"id": 6701,
+		"eng": "Causes madness buildup (<?madnessATKpwr?>)",
+		"chn": "累积发狂量表（<?madnessATKpwr?>）"
+	},
+	{
+		"id": 6702,
+		"eng": "Causes heavy madness buildup (<?madnessATKpwr?>)",
+		"chn": "大幅累积发狂量表（<?madnessATKpwr?>）"
+	}
+]

@@ -1,0 +1,182 @@
+[
+	{
+		"id": 50030000,
+		"eng": "Thin, whittled animal bone with feather fletchings",
+		"chn": "将细小兽骨切割成锐角，附上箭羽制成的箭"
+	},
+	{
+		"id": 50110000,
+		"eng": "Arrow whittled from thin animal bone",
+		"chn": "将细小兽骨切割成锐角制成的箭"
+	},
+	{
+		"id": 50130000,
+		"eng": "Fletched animal bone arrow set alight when shot",
+		"chn": "在箭头点燃火焰的兽骨羽毛箭"
+	},
+	{
+		"id": 50140000,
+		"eng": "Animal bone arrow set alight when shot",
+		"chn": "在箭头点燃火焰的兽骨箭"
+	},
+	{
+		"id": 50150000,
+		"eng": "Fletched animal bone arrow with poison-daubed tip",
+		"chn": "在箭头涂上毒液的兽骨羽毛箭"
+	},
+	{
+		"id": 50160000,
+		"eng": "Animal bone arrow with poison-daubed tip",
+		"chn": "在箭头涂上毒液的兽骨箭"
+	},
+	{
+		"id": 50170000,
+		"eng": "Fletched animal bone arrow with waterlily tincture tip",
+		"chn": "在箭头涂上睡莲药膏的兽骨羽毛箭"
+	},
+	{
+		"id": 50180000,
+		"eng": "Animal bone arrow with waterlily tincture tip",
+		"chn": "在箭头涂上睡莲药膏的兽骨箭"
+	},
+	{
+		"id": 50190000,
+		"eng": "Bone arrow fletched with stormhawk feathers",
+		"chn": "用风暴鹰的羽毛当箭羽的兽骨箭"
+	},
+	{
+		"id": 50200000,
+		"eng": "Fletched animal bone arrow charged with lightning",
+		"chn": "在箭头缠绕雷电的兽骨羽毛箭"
+	},
+	{
+		"id": 50210000,
+		"eng": "Animal bone arrow charged with lightning",
+		"chn": "在箭头缠绕雷电的兽骨箭"
+	},
+	{
+		"id": 50220000,
+		"eng": "Animal bone arrow tipped with Rainbow Stone shard",
+		"chn": "收集虹彩石碎片制成箭头的兽骨箭"
+	},
+	{
+		"id": 50230000,
+		"eng": "Animal bone arrow tipped with crystal shard",
+		"chn": "将结晶碎片制成箭头的兽骨箭"
+	},
+	{
+		"id": 50260000,
+		"eng": "Fletched bone arrow with glintstone tincture tip",
+		"chn": "在箭头涂上辉石药膏的兽骨羽毛箭"
+	},
+	{
+		"id": 50270000,
+		"eng": "Animal bone arrow with glintstone tincture tip",
+		"chn": "在箭头涂上辉石药膏的兽骨箭"
+	},
+	{
+		"id": 50280000,
+		"eng": "Fletched bone arrow with gold tincture tip",
+		"chn": "在箭头涂上黄金药膏的兽骨羽毛箭"
+	},
+	{
+		"id": 50290000,
+		"eng": "Animal bone arrow with gold tincture tip",
+		"chn": "在箭头涂上黄金药膏的兽骨箭"
+	},
+	{
+		"id": 50300000,
+		"eng": "Fletched bone arrow with blood tincture tip",
+		"chn": "在箭头涂上血药膏的兽骨羽毛箭"
+	},
+	{
+		"id": 50310000,
+		"eng": "Animal bone arrow with blood tincture tip",
+		"chn": "在箭头涂上血药膏的兽骨箭"
+	},
+	{
+		"id": 50320000,
+		"eng": "Fletched bone arrow with frozen tip",
+		"chn": "箭头冻结的兽骨羽毛箭"
+	},
+	{
+		"id": 50330000,
+		"eng": "Animal bone arrow with frozen tip",
+		"chn": "箭头冻结的兽骨箭"
+	},
+	{
+		"id": 50340000,
+		"eng": "Fletched bone arrow with rot-coated tip",
+		"chn": "在箭头涂上腐败的兽骨羽毛箭"
+	},
+	{
+		"id": 50350000,
+		"eng": "Animal bone arrow with rot-coated tip",
+		"chn": "在箭头涂上腐败的兽骨箭"
+	},
+	{
+		"id": 51050000,
+		"eng": "Thick, whittled bone arrow with feather fletchings",
+		"chn": "将粗大兽骨切割成锐角，附上箭羽制成的大箭"
+	},
+	{
+		"id": 51060000,
+		"eng": "Thick, whittled animal bone arrow, large as a spear",
+		"chn": "将粗大兽骨切割成锐角，如矛一般的大箭"
+	},
+	{
+		"id": 52090000,
+		"eng": "Thin, whittled animal bone bolt",
+		"chn": "将细小兽骨切割成锐角制成的弩箭"
+	},
+	{
+		"id": 52100000,
+		"eng": "Animal bone bolt set alight when shot",
+		"chn": "在箭头点燃火焰的兽骨弩箭"
+	},
+	{
+		"id": 52110000,
+		"eng": "Animal bone bolt with lightning-imbued tip",
+		"chn": "在箭头缠绕雷电的兽骨弩箭"
+	},
+	{
+		"id": 52120000,
+		"eng": "Animal bone bolt with glintstone tincture tip",
+		"chn": "在箭头涂上辉石药膏的兽骨弩箭"
+	},
+	{
+		"id": 52130000,
+		"eng": "Animal bone bolt with gold tincture tip",
+		"chn": "在箭头涂上黄金药膏的兽骨弩箭"
+	},
+	{
+		"id": 52140000,
+		"eng": "Animal bone bolt with poison-coated tip",
+		"chn": "在箭头涂上毒液的兽骨弩箭"
+	},
+	{
+		"id": 52150000,
+		"eng": "Animal bone bolt with blood tincture tip",
+		"chn": "在箭头涂上血药膏的兽骨弩箭"
+	},
+	{
+		"id": 52160000,
+		"eng": "Animal bone bolt with frozen tip",
+		"chn": "箭头冻结的兽骨弩箭"
+	},
+	{
+		"id": 52170000,
+		"eng": "Animal bone bolt with rot-coated tip",
+		"chn": "在箭头涂上腐败的兽骨弩箭"
+	},
+	{
+		"id": 52180000,
+		"eng": "Animal bone bolt with waterlily tincture tip",
+		"chn": "在箭头涂上睡莲药膏的兽骨弩箭"
+	},
+	{
+		"id": 53030000,
+		"eng": "Thick, whittled bone bolt, large as a spear",
+		"chn": "将粗大兽骨切割成锐角，如矛一般的大弩箭"
+	}
+]

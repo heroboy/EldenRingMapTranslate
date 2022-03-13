@@ -1,0 +1,592 @@
+[
+	{
+		"id": 100,
+		"eng": "Petition for Help",
+		"chn": "求援书"
+	},
+	{
+		"id": 101,
+		"eng": "Broken Finger Stalker Contract",
+		"chn": "狩猎崩指契约书"
+	},
+	{
+		"id": 1000,
+		"eng": "Crimson Amber Medallion",
+		"chn": "红琥珀链坠"
+	},
+	{
+		"id": 1001,
+		"eng": "Crimson Amber Medallion +1",
+		"chn": "红琥珀链坠＋１"
+	},
+	{
+		"id": 1002,
+		"eng": "Crimson Amber Medallion +2",
+		"chn": "红琥珀链坠＋２"
+	},
+	{
+		"id": 1010,
+		"eng": "Cerulean Amber Medallion",
+		"chn": "蓝琥珀链坠"
+	},
+	{
+		"id": 1011,
+		"eng": "Cerulean Amber Medallion +1",
+		"chn": "蓝琥珀链坠＋１"
+	},
+	{
+		"id": 1012,
+		"eng": "Cerulean Amber Medallion +2",
+		"chn": "蓝琥珀链坠＋２"
+	},
+	{
+		"id": 1020,
+		"eng": "Viridian Amber Medallion",
+		"chn": "绿琥珀链坠"
+	},
+	{
+		"id": 1021,
+		"eng": "Viridian Amber Medallion +1",
+		"chn": "绿琥珀链坠＋１"
+	},
+	{
+		"id": 1022,
+		"eng": "Viridian Amber Medallion +2",
+		"chn": "绿琥珀链坠＋２"
+	},
+	{
+		"id": 1030,
+		"eng": "Arsenal Charm",
+		"chn": "众武护符"
+	},
+	{
+		"id": 1031,
+		"eng": "Arsenal Charm +1",
+		"chn": "众武护符＋１"
+	},
+	{
+		"id": 1032,
+		"eng": "Great-Jar's Arsenal",
+		"chn": "大壶众武护符"
+	},
+	{
+		"id": 1040,
+		"eng": "Erdtree's Favor",
+		"chn": "黄金树的恩惠"
+	},
+	{
+		"id": 1041,
+		"eng": "Erdtree's Favor +1",
+		"chn": "黄金树的恩惠＋１"
+	},
+	{
+		"id": 1042,
+		"eng": "Erdtree's Favor +2",
+		"chn": "黄金树的恩惠＋２"
+	},
+	{
+		"id": 1050,
+		"eng": "Radagon's Scarseal",
+		"chn": "拉达冈的烙印"
+	},
+	{
+		"id": 1051,
+		"eng": "Radagon's Soreseal",
+		"chn": "拉达冈的糜烂烙印"
+	},
+	{
+		"id": 1060,
+		"eng": "Starscourge Heirloom",
+		"chn": "碎星的传说"
+	},
+	{
+		"id": 1070,
+		"eng": "Prosthesis-Wearer Heirloom",
+		"chn": "义手剑士的传说"
+	},
+	{
+		"id": 1080,
+		"eng": "Stargazer Heirloom",
+		"chn": "观星少女的传说"
+	},
+	{
+		"id": 1090,
+		"eng": "Two Fingers Heirloom",
+		"chn": "双指的传说"
+	},
+	{
+		"id": 1100,
+		"eng": "Silver Scarab",
+		"chn": "银色粪金龟"
+	},
+	{
+		"id": 1110,
+		"eng": "Gold Scarab",
+		"chn": "金色粪金龟"
+	},
+	{
+		"id": 1140,
+		"eng": "Moon of Nokstella",
+		"chn": "诺克史黛拉之月"
+	},
+	{
+		"id": 1150,
+		"eng": "Green Turtle Talisman",
+		"chn": "绿龟护符"
+	},
+	{
+		"id": 1160,
+		"eng": "Stalwart Horn Charm",
+		"chn": "健壮角饰品"
+	},
+	{
+		"id": 1161,
+		"eng": "Stalwart Horn Charm +1",
+		"chn": "健壮角饰品＋１"
+	},
+	{
+		"id": 1170,
+		"eng": "Immunizing Horn Charm",
+		"chn": "免疫角饰品"
+	},
+	{
+		"id": 1171,
+		"eng": "Immunizing Horn Charm +1",
+		"chn": "免疫角饰品＋１"
+	},
+	{
+		"id": 1180,
+		"eng": "Clarifying Horn Charm",
+		"chn": "理智角饰品"
+	},
+	{
+		"id": 1181,
+		"eng": "Clarifying Horn Charm +1",
+		"chn": "理智角饰品＋１"
+	},
+	{
+		"id": 1190,
+		"eng": "Prince of Death's Pustule",
+		"chn": "死王子的脓疮"
+	},
+	{
+		"id": 1191,
+		"eng": "Prince of Death's Cyst",
+		"chn": "死王子的恶性脓疮"
+	},
+	{
+		"id": 1200,
+		"eng": "Mottled Necklace",
+		"chn": "斑斓项链"
+	},
+	{
+		"id": 1201,
+		"eng": "Mottled Necklace +1",
+		"chn": "斑斓项链＋１"
+	},
+	{
+		"id": 1210,
+		"eng": "Bull-Goat's Talisman",
+		"chn": "大山羊护符"
+	},
+	{
+		"id": 1220,
+		"eng": "Marika's Scarseal",
+		"chn": "玛莉卡的烙印"
+	},
+	{
+		"id": 1221,
+		"eng": "Marika's Soreseal",
+		"chn": "玛莉卡的糜烂烙印"
+	},
+	{
+		"id": 1230,
+		"eng": "Warrior Jar Shard",
+		"chn": "战士壶碎片"
+	},
+	{
+		"id": 1231,
+		"eng": "Shard of Alexander",
+		"chn": "亚历山大的碎片"
+	},
+	{
+		"id": 1250,
+		"eng": "Millicent's Prosthesis",
+		"chn": "米莉森的义手"
+	},
+	{
+		"id": 2000,
+		"eng": "Magic Scorpion Charm",
+		"chn": "魔力对蝎"
+	},
+	{
+		"id": 2010,
+		"eng": "Lightning Scorpion Charm",
+		"chn": "雷对蝎"
+	},
+	{
+		"id": 2020,
+		"eng": "Fire Scorpion Charm",
+		"chn": "火对蝎"
+	},
+	{
+		"id": 2030,
+		"eng": "Sacred Scorpion Charm",
+		"chn": "圣对蝎"
+	},
+	{
+		"id": 2040,
+		"eng": "Red-Feathered Branchsword",
+		"chn": "红羽七刃剑"
+	},
+	{
+		"id": 2050,
+		"eng": "Ritual Sword Talisman",
+		"chn": "献斗剑护符"
+	},
+	{
+		"id": 2060,
+		"eng": "Spear Talisman",
+		"chn": "矛护符"
+	},
+	{
+		"id": 2070,
+		"eng": "Hammer Talisman",
+		"chn": "大槌护符"
+	},
+	{
+		"id": 2080,
+		"eng": "Winged Sword Insignia",
+		"chn": "带翼剑徽章"
+	},
+	{
+		"id": 2081,
+		"eng": "Rotten Winged Sword Insignia",
+		"chn": "腐败翼剑徽章"
+	},
+	{
+		"id": 2090,
+		"eng": "Dagger Talisman",
+		"chn": "短剑护符"
+	},
+	{
+		"id": 2100,
+		"eng": "Arrow's Reach Talisman",
+		"chn": "远箭护符"
+	},
+	{
+		"id": 2110,
+		"eng": "Blue Dancer Charm",
+		"chn": "蓝色舞娘"
+	},
+	{
+		"id": 2120,
+		"eng": "Twinblade Talisman",
+		"chn": "双头剑护符"
+	},
+	{
+		"id": 2130,
+		"eng": "Axe Talisman",
+		"chn": "斧护符"
+	},
+	{
+		"id": 2140,
+		"eng": "Lance Talisman",
+		"chn": "骑枪护符"
+	},
+	{
+		"id": 2150,
+		"eng": "Arrow's Sting Talisman",
+		"chn": "硬箭护符"
+	},
+	{
+		"id": 2160,
+		"eng": "Lord of Blood's Exultation",
+		"chn": "鲜血君王的欢愉"
+	},
+	{
+		"id": 2170,
+		"eng": "Kindred of Rot's Exultation",
+		"chn": "腐败眷属的欢愉"
+	},
+	{
+		"id": 2180,
+		"eng": "Claw Talisman",
+		"chn": "钩爪护符"
+	},
+	{
+		"id": 2190,
+		"eng": "Roar Medallion",
+		"chn": "咆哮链坠"
+	},
+	{
+		"id": 2200,
+		"eng": "Curved Sword Talisman",
+		"chn": "曲剑护符"
+	},
+	{
+		"id": 2210,
+		"eng": "Companion Jar",
+		"chn": "友好壶"
+	},
+	{
+		"id": 2220,
+		"eng": "Perfumer's Talisman",
+		"chn": "调香师护符"
+	},
+	{
+		"id": 3000,
+		"eng": "Graven-School Talisman",
+		"chn": "魔法师球护符"
+	},
+	{
+		"id": 3001,
+		"eng": "Graven-Mass Talisman",
+		"chn": "魔法师块护符"
+	},
+	{
+		"id": 3040,
+		"eng": "Faithful's Canvas Talisman",
+		"chn": "信徒的立誓布"
+	},
+	{
+		"id": 3050,
+		"eng": "Flock's Canvas Talisman",
+		"chn": "群聚信徒的立誓布"
+	},
+	{
+		"id": 3060,
+		"eng": "Old Lord's Talisman",
+		"chn": "古王护符"
+	},
+	{
+		"id": 3070,
+		"eng": "Radagon Icon",
+		"chn": "拉达冈的肖像"
+	},
+	{
+		"id": 3080,
+		"eng": "Primal Glintstone Blade",
+		"chn": "源辉石刀"
+	},
+	{
+		"id": 3090,
+		"eng": "Godfrey Icon",
+		"chn": "葛孚雷的肖像"
+	},
+	{
+		"id": 4000,
+		"eng": "Dragoncrest Shield Talisman",
+		"chn": "龙徽盾护符"
+	},
+	{
+		"id": 4001,
+		"eng": "Dragoncrest Shield Talisman +1",
+		"chn": "龙徽盾护符＋１"
+	},
+	{
+		"id": 4002,
+		"eng": "Dragoncrest Shield Talisman +2",
+		"chn": "龙徽盾护符＋２"
+	},
+	{
+		"id": 4003,
+		"eng": "Dragoncrest Greatshield Talisman",
+		"chn": "龙徽大盾护符"
+	},
+	{
+		"id": 4010,
+		"eng": "Spelldrake Talisman",
+		"chn": "魔力龙徽护符"
+	},
+	{
+		"id": 4011,
+		"eng": "Spelldrake Talisman +1",
+		"chn": "魔力龙徽护符＋１"
+	},
+	{
+		"id": 4012,
+		"eng": "Spelldrake Talisman +2",
+		"chn": "魔力龙徽护符＋２"
+	},
+	{
+		"id": 4020,
+		"eng": "Flamedrake Talisman",
+		"chn": "火龙徽护符"
+	},
+	{
+		"id": 4021,
+		"eng": "Flamedrake Talisman +1",
+		"chn": "火龙徽护符＋１"
+	},
+	{
+		"id": 4022,
+		"eng": "Flamedrake Talisman +2",
+		"chn": "火龙徽护符＋２"
+	},
+	{
+		"id": 4030,
+		"eng": "Boltdrake Talisman",
+		"chn": "雷龙徽护符"
+	},
+	{
+		"id": 4031,
+		"eng": "Boltdrake Talisman +1",
+		"chn": "雷龙徽护符＋１"
+	},
+	{
+		"id": 4032,
+		"eng": "Boltdrake Talisman +2",
+		"chn": "雷龙徽护符＋２"
+	},
+	{
+		"id": 4040,
+		"eng": "Haligdrake Talisman",
+		"chn": "圣龙徽护符"
+	},
+	{
+		"id": 4041,
+		"eng": "Haligdrake Talisman +1",
+		"chn": "圣龙徽护符＋１"
+	},
+	{
+		"id": 4042,
+		"eng": "Haligdrake Talisman +2",
+		"chn": "圣龙徽护符＋２"
+	},
+	{
+		"id": 4050,
+		"eng": "Pearldrake Talisman",
+		"chn": "珍珠龙徽护符"
+	},
+	{
+		"id": 4051,
+		"eng": "Pearldrake Talisman +1",
+		"chn": "珍珠龙徽护符＋１"
+	},
+	{
+		"id": 4052,
+		"eng": "Pearldrake Talisman +2",
+		"chn": "珍珠龙徽护符＋２"
+	},
+	{
+		"id": 4060,
+		"eng": "Crucible Scale Talisman",
+		"chn": "熔炉鳞护符"
+	},
+	{
+		"id": 4070,
+		"eng": "Crucible Feather Talisman",
+		"chn": "熔炉羽护符"
+	},
+	{
+		"id": 4080,
+		"eng": "Blue-Feathered Branchsword",
+		"chn": "蓝羽七刃剑"
+	},
+	{
+		"id": 4090,
+		"eng": "Ritual Shield Talisman",
+		"chn": "献斗盾护符"
+	},
+	{
+		"id": 4100,
+		"eng": "Greatshield Talisman",
+		"chn": "大盾护符"
+	},
+	{
+		"id": 4110,
+		"eng": "Crucible Knot Talisman",
+		"chn": "熔炉瘤护符"
+	},
+	{
+		"id": 5000,
+		"eng": "Crimson Seed Talisman",
+		"chn": "红种子护符"
+	},
+	{
+		"id": 5010,
+		"eng": "Cerulean Seed Talisman",
+		"chn": "蓝种子护符"
+	},
+	{
+		"id": 5020,
+		"eng": "Blessed Dew Talisman",
+		"chn": "恩惠露滴护符"
+	},
+	{
+		"id": 5030,
+		"eng": "Taker's Cameo",
+		"chn": "掠夺浮雕坠饰"
+	},
+	{
+		"id": 5040,
+		"eng": "Godskin Swaddling Cloth",
+		"chn": "神皮襁褓"
+	},
+	{
+		"id": 5050,
+		"eng": "Assassin's Crimson Dagger",
+		"chn": "染红凶刀"
+	},
+	{
+		"id": 5060,
+		"eng": "Assassin's Cerulean Dagger",
+		"chn": "染蓝凶刀"
+	},
+	{
+		"id": 6000,
+		"eng": "Crepus's Vial",
+		"chn": "克雷普的小瓶子"
+	},
+	{
+		"id": 6010,
+		"eng": "Concealing Veil",
+		"chn": "隐身面纱"
+	},
+	{
+		"id": 6020,
+		"eng": "Carian Filigreed Crest",
+		"chn": "卡利亚徽章"
+	},
+	{
+		"id": 6040,
+		"eng": "Longtail Cat Talisman",
+		"chn": "长尾猫别针"
+	},
+	{
+		"id": 6050,
+		"eng": "Shabriri's Woe",
+		"chn": "夏玻利利之祸"
+	},
+	{
+		"id": 6060,
+		"eng": "Daedicar's Woe",
+		"chn": "狄蒂卡之祸"
+	},
+	{
+		"id": 6070,
+		"eng": "Sacrificial Twig",
+		"chn": "牺牲细枝"
+	},
+	{
+		"id": 6080,
+		"eng": "Furled Finger's Trick-Mirror",
+		"chn": "勾指伪装镜"
+	},
+	{
+		"id": 6090,
+		"eng": "Host's Trick-Mirror",
+		"chn": "主人伪装镜"
+	},
+	{
+		"id": 6100,
+		"eng": "Entwining Umbilical Cord",
+		"chn": "纠缠脐带"
+	},
+	{
+		"id": 6110,
+		"eng": "Ancestral Spirit's Horn",
+		"chn": "祖灵角"
+	}
+]
