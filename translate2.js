@@ -248,7 +248,7 @@ function pattern8(word) {
 		let w = word.substr(4);
 		w = w.replace('(', '').replace(')', '');
 		w = 'Map: ' + w;
-		if (TRANS[w]) return TRANS[w];
+		if (TRANS[w]) return TRANS[w].value;
 	}
 }
 
