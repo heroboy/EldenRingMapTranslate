@@ -5,7 +5,9 @@ const FILES = [
 	'item_PlaceName.json',
 	'item_NpcName.json',
 	'item_GoodsName.json',
-	'item_ProtectorName.json'
+	'item_ProtectorName.json',
+	'item_GemName.json',
+	'item_ArtsName.json',
 ];
 
 function main() {
@@ -60,5 +62,16 @@ const PATCH = {
 	'Ensha': '“王骸”恩夏',
 	'Goldmask': '金面具',
 	'The Great-Jar': '大壶骑士',
+	//https://eldenring.wiki.fextralife.com/World+Information
+	'Locations': '地点',
+	'Sites of Grace': '赐福',
+	'Merchants': '流浪商人',
+	'Creatures & Enemies': '生物与敌人',
+	'Bosses': 'Bosses',
+	//
+	"Isolated Merchant Raya Lucaria": "雷亚卢卡利的流浪商人",
+	"Saint Trina's Arrow ": '托莉娜箭', //修复一下名字St Trina's Arrow
+	'Storm Arrow': 'Storm Arrow',//不知道叫什么
+	'Carian Greatsword Skill': '卡利亚大剑(技能)',
 };
 main();
