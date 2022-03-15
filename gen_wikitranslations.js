@@ -73,5 +73,20 @@ const PATCH = {
 	"Saint Trina's Arrow ": '托莉娜箭', //修复一下名字St Trina's Arrow
 	'Storm Arrow': 'Storm Arrow',//不知道叫什么
 	'Carian Greatsword Skill': '卡利亚大剑(技能)',
+
+	'Rennala Queen of the Full Moon': '“满月女王”蕾娜菈',//wiki中有时候没有逗号
+	'Crystalian Ringblade': '结晶人（圆刃刀）',
+	'Crystalian Spear & Crystalian Staff ': '结晶人（矛） & 结晶人（手杖）',
+	'Crystalian': '结晶人',
+	'Raya Lucaria Crystal Cave': '雷亚卢卡利亚结晶坑道',//wiki redirect
+	//https://eldenring.wiki.fextralife.com/Spirit+Ashes
+	// 'Ancient Dragon Knight Kristoff Ashes': '“古龙骑士”克里斯托福的骨灰',
+	// 'Banished Knight Engvall Ashes': 'Banished Knight Engvall Ashes',
+	// 'Battlemage Hugues Ashes': 'Battlemage Hugues Ashes',
+	// 'Banished Knight Oleg Ashes': 'Banished Knight Oleg Ashes',
+	// 'Blackflame Monk Amon Ashes': 'Blackflame Monk Amon Ashes',
+	// 'Cleanrot Knight Finlay Ashes': 'Cleanrot Knight Finlay Ashes',
+	// 'Depraved Perfumer Carmaan Ashes': 'Depraved Perfumer Carmaan Ashes',
+	// 'Redmane Knight Ogha Ashes': 'Redmane Knight Ogha Ashes',
 };
 main();
