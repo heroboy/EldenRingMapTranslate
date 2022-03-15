@@ -8,6 +8,7 @@ const FILES = [
 	'item_ProtectorName.json',
 	'item_GemName.json',
 	'item_ArtsName.json',
+	'item_AccessoryName.json',
 ];
 
 function main() {
