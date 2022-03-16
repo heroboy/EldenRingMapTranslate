@@ -97,11 +97,12 @@
 	}
 
 	function createChineseNode(chn, eng) {
-		const node = document.createElement('ruby');
-		node.appendChild(document.createTextNode(chn));
-		const rt = document.createElement('rt');
-		rt.appendChild(document.createTextNode(eng));
-		node.appendChild(rt);
+		// const node = document.createElement('ruby');
+		// node.appendChild(document.createTextNode(chn));
+		// const rt = document.createElement('rt');
+		// rt.appendChild(document.createTextNode(eng));
+		// node.appendChild(rt);
+		const node = document.createTextNode(chn);
 		return node;
 	}
 

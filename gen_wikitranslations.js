@@ -168,5 +168,6 @@ const PATCH = {
 
 	//
 	'Great Epee': '大重剑',//Great Épée
+	'Effigies of the Martyr':'殉教者雕像',
 };
 main();
