@@ -89,7 +89,7 @@
 		const textNode = tryGetNodeTextNode(node);
 		const t = tryGetNodeTranslation(node);
 		if (textNode && t) {
-
+			node.setAttribute('data-english', textNode.textContent);
 			//textNode.textContent = t;
 			const newNode = createChineseNode(t, textNode.textContent);
 			textNode.parentElement.replaceChild(newNode, textNode);

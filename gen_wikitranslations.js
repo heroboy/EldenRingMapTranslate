@@ -169,5 +169,6 @@ const PATCH = {
 	//
 	'Great Epee': '大重剑',//Great Épée
 	'Effigies of the Martyr':'殉教者雕像',
+	'Slumbering Wolfs Shack':'眠狼的破屋',//should be: Slumbering Wolf's Shack
 };
 main();
