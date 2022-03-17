@@ -24,6 +24,9 @@ function main() {
 		}
 	}
 	for (const key in PATCH) {
+		if (RESULT[key.toLowerCase()] && RESULT[key.toLowerCase()] !== PATCH[key]) {
+			console.warn('duplicate in patch:', `name = ${key}, original = ${RESULT[key.toLowerCase()]}, patch=${PATCH[key]}`);
+		}
 		RESULT[key.toLowerCase()] = PATCH[key];
 	}
 	fs.writeFileSync('output\\wiki_translation_data.json', JSON.stringify(RESULT));
@@ -92,9 +95,9 @@ const PATCH = {
 	// 'Redmane Knight Ogha Ashes': 'Redmane Knight Ogha Ashes',
 
 	//武器类型
-	"Dagger": "短剑",
+	"Daggers": "短剑", //注意：作为武器类型叫“短剑”，作为武器名字：“匕首”
 	"Straight Sword": "直剑",
-	"Greatsword": "大剑",
+	"Greatswords": "大剑", //武器类型：大剑，武器名字：巨剑
 	"Colossal Sword": "特大剑",
 	"Curved Sword": "曲剑",
 	"Curved Greatsword": "大曲剑",
@@ -103,8 +106,8 @@ const PATCH = {
 	"Thrusting Sword": "刺剑",
 	"Heavy Thrusting Sword": "重刺剑",
 	"Axe": "斧",
-	"Greataxe": "大斧",
-	"Hammer": "槌",
+	"Greataxes": "大斧", //类型和名字不同
+	"Hammers": "槌",
 	"Warhammer": "大槌",
 	"Flail": "连枷",
 	"Spear": "矛",
@@ -115,17 +118,17 @@ const PATCH = {
 	"Claw": "钩爪",
 	"Colossal Weapon": "特大武器",
 	"Light Bow": "小弓",
-	"Bow": "长弓",
+	"Bows": "长弓",
 	"Greatbow": "大弓",
 	"Crossbow": "弩",
 	"Ballista": "弩炮",
-	"Glintstone Staff": "手杖",
+	"Glintstone Staffs": "手杖",
 	"Sacred Seal": "圣印记",
 	"Small Shield": "小盾",
 	"Medium Shield": "中盾",
 	"Greatshield": "大盾",
 	"Whip": "软鞭",
-	"Arrow": "箭",
+	"Arrows": "箭",
 	"Greatarrow": "大箭",
 	"Bolt": "弩箭",
 	"Greatbolt": "大弩箭",
@@ -168,7 +171,9 @@ const PATCH = {
 
 	//
 	'Great Epee': '大重剑',//Great Épée
-	'Effigies of the Martyr':'殉教者雕像',
-	'Slumbering Wolfs Shack':'眠狼的破屋',//should be: Slumbering Wolf's Shack
+	'Effigies of the Martyr': '殉教者雕像',
+	'Slumbering Wolfs Shack': '眠狼的破屋',//should be: Slumbering Wolf's Shack
+
+	'Teardrop Scarab':'露滴粪金龟'
 };
 main();
