@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         埃尔登法环fextralife wiki翻译
 // @namespace    {054584D9-899B-44E5-8296-1BF2BA5D0326}-enderring_wiki_translate
-// @version      0.7
+// @version      0.8
 // @description  翻译为埃尔登法环wiki网站的词条
 // @author       You
 // @match        https://eldenring.wiki.fextralife.com/*
@@ -71,7 +71,33 @@
 			const t2 = text.substr(0, text.length - SUFFIX.length);
 			if (T[t2]) return T[t2] + SUFFIX;
 		}
+
+		return tryTranslateEquipmentSet(text);
 	}
+
+	function tryTranslateEquipmentSet(text) {
+		if (text.endsWith(' set')) {
+			const equip_prefix = text.substring(0, text.length - 4);
+			const PATTERNS = [
+				['armor', '铠甲'],
+				['gloves', '手套'],
+				['robe', '长袍'],
+				['mask', '头罩'],
+				['hood', '风帽'],
+				['shoes', '鞋子'],
+				['gauntlets', '臂甲'],
+				['greaves', '腿甲'],
+			];
+			for (const [english, chinese] of PATTERNS) {
+				let t = equip_prefix + ' ' + english;
+				if (T[t] && T[t].endsWith(chinese)) {
+					let t2 = T[t];
+					return t2.substring(0, t2.length - chinese.length) + '套装'
+				}
+			}
+		}
+	}
+
 
 	function tryGetNodeTranslation(node) {
 		let textNode = tryGetNodeTextNode(node);
