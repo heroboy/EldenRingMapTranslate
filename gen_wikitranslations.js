@@ -148,7 +148,7 @@ const PATCH = {
 	'Strike': '打击',
 	'Slash': '斩击',
 	'Pierce': '突刺',
-	'Magic': '魔力',
+	'Magic': '魔法',
 	'Fire': '火焰',
 	'Lightning': '雷电',
 	'Holy': '圣',
@@ -174,6 +174,19 @@ const PATCH = {
 	'Effigies of the Martyr': '殉教者雕像',
 	'Slumbering Wolfs Shack': '眠狼的破屋',//should be: Slumbering Wolf's Shack
 
-	'Teardrop Scarab':'露滴粪金龟'
+	'Teardrop Scarab': '露滴粪金龟',
+	'D Hunter of the Dead': '“狩猎死亡”Ｄ',
+	'Nepheli Loux': '战士涅斐丽·露',
+	'Seluvis': '魔法教授赛尔维斯',
+	'Blackguard Big Boggart': '别称“愚弄巨妖”的流氓',
+	"Zorayas' Letter": '泽菈雅丝的信',
+	'Shaded Castle': '日荫城',
+	'Jar Bairn': '小壶',
+	'Nomadic Merchant West Altus Plateau': '西亚坛高原的流放民族的商人',
+	'Nomadic Merchant Mohgwyn Palace': '蒙格温王朝的流放民族的商人',
+	'Merchant Kale': '“流浪商人”咖列',
+	'Miriel Pastor of Vows': '“结缘牧师”米利耶',
+	'Rennala, Queen of the Full Moon (NPC)': '“满月女王”蕾娜菈',
+	'Gideon Ofnir':'“百智爵士”基甸·奥夫尼尔',
 };
 main();
