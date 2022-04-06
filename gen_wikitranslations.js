@@ -188,5 +188,16 @@ const PATCH = {
 	'Miriel Pastor of Vows': '“结缘牧师”米利耶',
 	'Rennala, Queen of the Full Moon (NPC)': '“满月女王”蕾娜菈',
 	'Gideon Ofnir':'“百智爵士”基甸·奥夫尼尔',
+	'Two Fingers Prayerbook':'双指祷告书',
+	'Dragonbarrow':'龙墓',//maybe 桂奥尔龙墓 
+	"Guardian's Garrison":'监视者要塞',
+	'Prophecy Painting':'绘画《预言》',
+	'Resurrection Painting':'绘画《再世》',
+	'Redmane Painting':'绘画《红狮子》',
+	"Champion's Song Painting":'绘画《英雄之歌》',
+	'Flightless Bird Painting':'绘画《不飞之鸟》',
+	'Sorcerer Painting':'绘画《魔法师》',
+	'Homecoming Painting':'绘画《归巢》',
+	'Weathered Map':'老旧地图',
 };
 main();
